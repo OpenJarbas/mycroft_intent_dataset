@@ -1,0 +1,313 @@
+fr-fr,Crystal-Ball-Mycroft-Skill.CrystalBall,Boule de cristal
+fr-fr,Crystal-Ball-Mycroft-Skill.CrystalBall,Miroir Miroir
+fr-fr,Crystal-Ball-Mycroft-Skill.Future,futur
+fr-fr,Crystal-Ball-Mycroft-Skill.Future,à venir
+fr-fr,Crystal-Ball-Mycroft-Skill.Future,demain
+fr-fr,Crystal-Ball-Mycroft-Skill.Query,Dis-moi
+fr-fr,Crystal-Ball-Mycroft-Skill.Query,quoi
+fr-fr,Crystal-Ball-Mycroft-Skill.Query,ce que
+fr-fr,Crystal-Ball-Mycroft-Skill.Query,ce qui
+fr-fr,Crystal-Ball-Mycroft-Skill.Query,qu'est-ce que
+fr-fr,Number-Guess-Mycroft-Skill.NumberGuess,Devine le numéro
+fr-fr,Number-Guess-Mycroft-Skill.NumberGuess,Devine le nombre
+fr-fr,Number-Guess-Mycroft-Skill.NumberGuess,jeu de devinette des numéro
+fr-fr,Number-Guess-Mycroft-Skill.NumberGuess,jeu de devinette des nombres
+fr-fr,Number-Guess-Mycroft-Skill.Play,Joue
+fr-fr,Number-Guess-Mycroft-Skill.Play,Lance un jeu
+fr-fr,Number-Guess-Mycroft-Skill.Suggest,Allons
+fr-fr,Number-Guess-Mycroft-Skill.Suggest,nous allons
+fr-fr,Number-Guess-Mycroft-Skill.Suggest,Laisse nous
+fr-fr,Number-Guess-Mycroft-Skill.Suggest,Pourquoi ne pas
+fr-fr,Number-Guess-Mycroft-Skill.Suggest,Et si nous
+fr-fr,Number-Guess-Mycroft-Skill.Suggest,Nous devrions
+fr-fr,aircrack.Clients,client
+fr-fr,aircrack.Clients,clients
+fr-fr,aircrack.Clients,connexion
+fr-fr,aircrack.Clients,connexions
+fr-fr,aircrack.Crack,casser
+fr-fr,aircrack.Crack,pirater
+fr-fr,aircrack.Deauth,dés-authentifier
+fr-fr,aircrack.Deauth,dés-authentifie
+fr-fr,aircrack.Deauth,déconnecter
+fr-fr,aircrack.Deauth,dés-authentifier
+fr-fr,aircrack.Deauth,dés-authentifie
+fr-fr,aircrack.Interface,périphériques
+fr-fr,aircrack.Interface,interfaces
+fr-fr,aircrack.Interface,périphérique
+fr-fr,aircrack.Interface,interface
+fr-fr,aircrack.List,liste
+fr-fr,aircrack.List,explorer
+fr-fr,aircrack.Monitor,surveiller
+fr-fr,aircrack.Monitor,contrôler
+fr-fr,aircrack.Monitor,vider
+fr-fr,aircrack.Monitor,vidage
+fr-fr,aircrack.Network,réseaux sans fil
+fr-fr,aircrack.Network,réseaux
+fr-fr,aircrack.Network,réseau sans fil
+fr-fr,aircrack.Network,réseau
+fr-fr,aircrack.Network,réseau wifi
+fr-fr,aircrack.Network,réseaux wifi
+fr-fr,aircrack.Password,mot de passe
+fr-fr,aircrack.Password,mot de passe
+fr-fr,aircrack.Select,sélectionner
+fr-fr,aircrack.Select,utiliser
+fr-fr,aircrack.Start,démarrer
+fr-fr,aircrack.Start,commencer
+fr-fr,aircrack.Stop,arrêter
+fr-fr,aircrack.Stop,fin
+fr-fr,cocktail.Again,encore
+fr-fr,cocktail.Ingredients,ingrédient
+fr-fr,cocktail.Ingredients,ingrédients
+fr-fr,cocktail.TellMe,quels sont
+fr-fr,cocktail.TellMe,dis moi
+fr-fr,cocktail.What,quel était
+fr-fr,cocktail.What,qu'est ce qui était
+fr-fr,cut-up-skill.CutUp,Découpe
+fr-fr,cut-up-skill.CutUp,Aléa
+fr-fr,cut-up-skill.Maximum,Maximum
+fr-fr,cut-up-skill.Minimum,Minimum
+fr-fr,cut-up-skill.Randomness,aléa
+fr-fr,cut-up-skill.Set,Définir
+fr-fr,cut-up-skill.Set,Configuration
+fr-fr,cut-up-skill.Set,Définir la configuration
+fr-fr,ddg.More,dis-m'en plus
+fr-fr,ddg.More,en savoir plus
+fr-fr,ddg.More,continuer
+fr-fr,decide-skill.DecideKeyword,Décide
+fr-fr,decide-skill.DecideKeyword,Que dois-je porter
+fr-fr,decide-skill.DecideKeyword,Que dois-je manger
+fr-fr,decide-skill.DecideKeyword,jeu
+fr-fr,fallback-aiml.Memory,cerveau
+fr-fr,fallback-aiml.Memory,mémoire
+fr-fr,fallback-aiml.Memory,esprit
+fr-fr,fallback-aiml.Memory,tout
+fr-fr,fallback-aiml.Reset,oublier
+fr-fr,fallback-aiml.Reset,effacer
+fr-fr,krunner-search-skill.CalculateKeyword,calculer
+fr-fr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,cherche cet ordinateur pour
+fr-fr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,chercher
+fr-fr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,chercher dans l'ordinateur
+fr-fr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,chercher le fichier
+fr-fr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,chercher le fichier
+fr-fr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,chercher avec le nom du fichier
+fr-fr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,chercher dans tout l'ordinateur
+fr-fr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,chercher dans le système
+fr-fr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,système
+fr-fr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,recherche système
+fr-fr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,recherche le fichier dans le système
+fr-fr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,trouver le fichier
+fr-fr,krunner-search-skill.RecentFileKeyword,afficher récemment
+fr-fr,krunner-search-skill.RecentFileKeyword,afficher les fichiers récemment ouverts
+fr-fr,krunner-search-skill.RecentFileKeyword,afficher les documents récemment ouverts
+fr-fr,krunner-search-skill.RecentFileKeyword,documents récemment ouverts
+fr-fr,krunner-search-skill.RecentFileKeyword,fichiers récemment ouverts
+fr-fr,laugh.Laugh,rire
+fr-fr,laugh.Laugh,ris
+fr-fr,laugh.Laugh,ris
+fr-fr,laugh.Laugh,rire
+fr-fr,laugh.Stop,abandonner
+fr-fr,laugh.Stop,Annuler
+fr-fr,laugh.Stop,stop
+fr-fr,lifx-mycroft.Brightness,luminosité
+fr-fr,lifx-mycroft.Brightness,luminosité
+fr-fr,lifx-mycroft.Decrease,assombrir
+fr-fr,lifx-mycroft.Decrease,sombre
+fr-fr,lifx-mycroft.Decrease,pâlir
+fr-fr,lifx-mycroft.Decrease,atténuer
+fr-fr,lifx-mycroft.Decrease,obscurcir
+fr-fr,lifx-mycroft.Decrease,diminuer
+fr-fr,lifx-mycroft.Decrease,vers le bas
+fr-fr,lifx-mycroft.Increase,augmenter la luminosité
+fr-fr,lifx-mycroft.Increase,augmenter l'éclairage
+fr-fr,lifx-mycroft.Increase,illuminer
+fr-fr,lifx-mycroft.Increase,intensifier
+fr-fr,lifx-mycroft.Increase,augmenter
+fr-fr,lifx-mycroft.Increase,vers le haut
+fr-fr,lifx-mycroft.Off,arrêt
+fr-fr,lifx-mycroft.Off,désactiver
+fr-fr,lifx-mycroft.On,marche
+fr-fr,lifx-mycroft.On,activer
+fr-fr,lifx-mycroft.Saturation,saturation
+fr-fr,lifx-mycroft.Saturation,intensité
+fr-fr,lifx-mycroft.Temperature,température
+fr-fr,lifx-mycroft.Temperature,chaleur
+fr-fr,lifx-mycroft.Temperature,température de couleur
+fr-fr,lifx-mycroft.Temperature,kelvin
+fr-fr,lifx-mycroft.Temperature,température de couleur
+fr-fr,lifx-mycroft.Turn,tourner
+fr-fr,lifx-mycroft.Turn,régler
+fr-fr,lifx-mycroft.Turn,changer
+fr-fr,lifx-mycroft.Turn,mettre
+fr-fr,lifx-mycroft.Turn,mettre
+fr-fr,lifx-mycroft.Turn,faire
+fr-fr,list-manager-skill.add,ajouter
+fr-fr,list-manager-skill.add,créer
+fr-fr,list-manager-skill.del,supprimer
+fr-fr,list-manager-skill.list,Liste
+fr-fr,list-manager-skill.list,listes
+fr-fr,list-manager-skill.what,qui
+fr-fr,list-manager-skill.what,quel
+fr-fr,plasma-activities-skill.ActivitiesCreateKeyword,créer une nouvelle activité
+fr-fr,plasma-activities-skill.ActivitiesCreateKeyword,créer nouvelle activité
+fr-fr,plasma-activities-skill.ActivitiesCreateKeyword,créer activité
+fr-fr,plasma-activities-skill.ActivitiesCreateKeyword,démarrer une nouvelle activité
+fr-fr,plasma-activities-skill.ActivitiesCreateKeyword,créer de nouvelles activités
+fr-fr,plasma-activities-skill.ActivitiesCreateKeyword,démarrer de nouvelles activités
+fr-fr,plasma-activities-skill.ActivitiesCreateKeyword,créer des activités
+fr-fr,plasma-activities-skill.ActivitiesCreateKeyword,nouvelle activité
+fr-fr,plasma-activities-skill.ActivitiesCreateKeyword,nouvelles activités
+fr-fr,plasma-activities-skill.ActivitiesRemoveKeyword,supprimer activité
+fr-fr,plasma-activities-skill.ActivitiesRemoveKeyword,supprimer l'activité
+fr-fr,plasma-activities-skill.ActivitiesRemoveKeyword,supprimer activité
+fr-fr,plasma-activities-skill.ActivitiesRemoveKeyword,supprimer l'activité
+fr-fr,plasma-activities-skill.ActivitiesShowKeyword,afficher les activités actuelles
+fr-fr,plasma-activities-skill.ActivitiesShowKeyword,afficher activités
+fr-fr,plasma-activities-skill.ActivitiesShowKeyword,activités
+fr-fr,plasma-activities-skill.ActivitiesShowKeyword,afficher activités courantes
+fr-fr,plasma-activities-skill.ActivitiesShowKeyword,afficher activités
+fr-fr,plasma-activities-skill.ActivitiesStopKeyword,supprmer activité actuelle
+fr-fr,plasma-activities-skill.ActivitiesStopKeyword,supprimer activité
+fr-fr,plasma-activities-skill.ActivitiesSwitchKeyword,changer l'activité actuelle
+fr-fr,plasma-activities-skill.ActivitiesSwitchKeyword,changer d'activité
+fr-fr,plasma-activities-skill.ActivitiesSwitchKeyword,changer activité
+fr-fr,pokemon-skill.Ability,aptitude
+fr-fr,pokemon-skill.Ability,compétences
+fr-fr,pokemon-skill.AbilityEffectEntry,information détaillée
+fr-fr,pokemon-skill.AbilityEffectEntry,information détaillée
+fr-fr,pokemon-skill.AbilityEffectEntryShort,quelques informations
+fr-fr,pokemon-skill.AbilityEffectEntryShort,quelques informations
+fr-fr,pokemon-skill.AbilityEffectEntryShort,information
+fr-fr,pokemon-skill.AbilityEffectEntryShort,Information
+fr-fr,pokemon-skill.AbilityFlavorText,texte de saveur
+fr-fr,pokemon-skill.AbilityFlavorText,le pokedex dit
+fr-fr,pokemon-skill.AbilityFlavorText,pokédex
+fr-fr,pokemon-skill.Against,contre
+fr-fr,pokemon-skill.Attack,attaque
+fr-fr,pokemon-skill.Base,base
+fr-fr,pokemon-skill.Base,Stat de la base
+fr-fr,pokemon-skill.Base,Statistiques de la base
+fr-fr,pokemon-skill.CaptureRate,capture
+fr-fr,pokemon-skill.CaptureRate,taux de capture
+fr-fr,pokemon-skill.CaptureRate,taux de capture
+fr-fr,pokemon-skill.CaptureRate,attrape
+fr-fr,pokemon-skill.CaptureRate,taux de capture
+fr-fr,pokemon-skill.Color,couleur
+fr-fr,pokemon-skill.Defense,défense
+fr-fr,pokemon-skill.Effective,effet
+fr-fr,pokemon-skill.Effective,efficacité
+fr-fr,pokemon-skill.Effective,correct
+fr-fr,pokemon-skill.Effective,mauvais
+fr-fr,pokemon-skill.Effective,dommage
+fr-fr,pokemon-skill.Egg,œuf
+fr-fr,pokemon-skill.Egg,groupe d'œufs
+fr-fr,pokemon-skill.Egg,oeufs
+fr-fr,pokemon-skill.Egg,groupes d'œufs
+fr-fr,pokemon-skill.Egg,éclos de
+fr-fr,pokemon-skill.Egg,éclos
+fr-fr,pokemon-skill.Egg,écloses
+fr-fr,pokemon-skill.EnglishLength,mètres
+fr-fr,pokemon-skill.EnglishLength,pouces
+fr-fr,pokemon-skill.EnglishWeight,poids
+fr-fr,pokemon-skill.Evolve,évoluer
+fr-fr,pokemon-skill.Evolve,évolution
+fr-fr,pokemon-skill.Evolve,évolue
+fr-fr,pokemon-skill.Evolve,provient
+fr-fr,pokemon-skill.Evolve,Tour
+fr-fr,pokemon-skill.Experience,expérience
+fr-fr,pokemon-skill.Experience,e x p
+fr-fr,pokemon-skill.Experience,exp
+fr-fr,pokemon-skill.Experience,points d'expérience
+fr-fr,pokemon-skill.Experience,points d'expérience
+fr-fr,pokemon-skill.Experience,expérimenté
+fr-fr,pokemon-skill.Final,Final
+fr-fr,pokemon-skill.Final,dernier
+fr-fr,pokemon-skill.First,base
+fr-fr,pokemon-skill.First,première
+fr-fr,pokemon-skill.First,simple
+fr-fr,pokemon-skill.First,plus simple
+fr-fr,pokemon-skill.Form,formulaire
+fr-fr,pokemon-skill.From,de
+fr-fr,pokemon-skill.From,avant
+fr-fr,pokemon-skill.From,précédent
+fr-fr,pokemon-skill.Game,jeu
+fr-fr,pokemon-skill.Game,version de pokemon
+fr-fr,pokemon-skill.Game,génération
+fr-fr,pokemon-skill.Game,gen
+fr-fr,pokemon-skill.HP,points de vie
+fr-fr,pokemon-skill.HP,h p
+fr-fr,pokemon-skill.HP,santé
+fr-fr,pokemon-skill.Habitat,habitat
+fr-fr,pokemon-skill.Habitat,vit
+fr-fr,pokemon-skill.Habitat,vivre
+fr-fr,pokemon-skill.Habitat,domicile
+fr-fr,pokemon-skill.Happiness,bonheur
+fr-fr,pokemon-skill.Happiness,heureux
+fr-fr,pokemon-skill.Happiness,sentir
+fr-fr,pokemon-skill.Happiness,sentiment
+fr-fr,pokemon-skill.Happiness,amitié
+fr-fr,pokemon-skill.Happiness,sympathique
+fr-fr,pokemon-skill.Height,taille
+fr-fr,pokemon-skill.Height,grand
+fr-fr,pokemon-skill.Height,grande
+fr-fr,pokemon-skill.ID,pokédex
+fr-fr,pokemon-skill.ID,id
+fr-fr,pokemon-skill.ID,nombre
+fr-fr,pokemon-skill.ID,i d
+fr-fr,pokemon-skill.Into,dans
+fr-fr,pokemon-skill.Into,vers
+fr-fr,pokemon-skill.Into,suivant
+fr-fr,pokemon-skill.Into,après
+fr-fr,pokemon-skill.Into,quand
+fr-fr,pokemon-skill.Into,sera
+fr-fr,pokemon-skill.Into,comment
+fr-fr,pokemon-skill.Introduced,présenté
+fr-fr,pokemon-skill.Introduced,première vue
+fr-fr,pokemon-skill.Learn,apprends
+fr-fr,pokemon-skill.MetricLength,mètres
+fr-fr,pokemon-skill.MetricLength,c m
+fr-fr,pokemon-skill.MetricLength,centimètre
+fr-fr,pokemon-skill.MetricWeight,kilogrammes
+fr-fr,pokemon-skill.MetricWeight,kilo-grammes
+fr-fr,pokemon-skill.MetricWeight,grammes
+fr-fr,pokemon-skill.MetricWeight,kilogramme
+fr-fr,pokemon-skill.MetricWeight,kilo gramme
+fr-fr,pokemon-skill.Move,déplacer
+fr-fr,pokemon-skill.Nature,nature
+fr-fr,pokemon-skill.Nature,comme
+fr-fr,pokemon-skill.Pokemon,Pokémon
+fr-fr,pokemon-skill.Shape,forme
+fr-fr,pokemon-skill.Shape,façonné
+fr-fr,pokemon-skill.Special,spécial
+fr-fr,pokemon-skill.Speed,vitesse
+fr-fr,pokemon-skill.Speed,rapide
+fr-fr,pokemon-skill.Type,type
+fr-fr,pokemon-skill.Type,types
+fr-fr,pokemon-skill.Weight,poids
+fr-fr,pokemon-skill.Weight,peser
+fr-fr,pokemon-skill.Weight,lourd
+fr-fr,pokemon-skill.Weight,pèse
+fr-fr,pokemon-skill.Weight,masse
+fr-fr,pokemon-skill.Weight,matière grasse
+fr-fr,remember-skill.All,Tout
+fr-fr,remember-skill.Did,fait
+fr-fr,remember-skill.Forget,oublier
+fr-fr,remember-skill.Phrase,phrase
+fr-fr,remember-skill.Phrase,phrases
+fr-fr,remember-skill.Remember,rappelles toi
+fr-fr,remember-skill.You,toi
+fr-fr,speedtest-skill.Run,Exécuter
+fr-fr,speedtest-skill.Speedtest,speedtest
+fr-fr,speedtest-skill.Speedtest,test de vitesse
+fr-fr,white-house-adventure.Delete,supprimer
+fr-fr,white-house-adventure.Play,jouer
+fr-fr,white-house-adventure.Play,aller à
+fr-fr,white-house-adventure.Play,aller à
+fr-fr,white-house-adventure.Save,enregistrer
+fr-fr,white-house-adventure.Save,sauvegarder
+fr-fr,white-house-adventure.Save,enregistrer le jeu
+fr-fr,white-house-adventure.Save,sauvegarder le jeu
+fr-fr,white-house-adventure.Save,enregistré
+fr-fr,white-house-adventure.Save,sauvegardé
+fr-fr,white-house-adventure.Zork,zork
+fr-fr,white-house-adventure.Zork,boîte aux lettres
+fr-fr,white-house-adventure.Zork,maison blanche

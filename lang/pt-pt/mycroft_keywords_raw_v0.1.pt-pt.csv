@@ -1,0 +1,91 @@
+pt-pt,alarm.AlarmSkillAmount,todos|todos meus
+pt-pt,alarm.AlarmSkillAmount,1|um
+pt-pt,alarm.AlarmSkillAmount,2|dois
+pt-pt,alarm.AlarmSkillAmount,o próximo
+pt-pt,alarm.AlarmSkillAmount,o seguinte
+pt-pt,alarm.AlarmSkillCreateVerb,temporizador
+pt-pt,alarm.AlarmSkillCreateVerb,temporizadores
+pt-pt,alarm.AlarmSkillCreateVerb,alarme
+pt-pt,alarm.AlarmSkillCreateVerb,alarmes
+pt-pt,alarm.AlarmSkillDeleteVerb,apagar
+pt-pt,alarm.AlarmSkillDeleteVerb,cancelar
+pt-pt,alarm.AlarmSkillDeleteVerb,apagar
+pt-pt,alarm.AlarmSkillDeleteVerb,remover
+pt-pt,alarm.AlarmSkillKeyword,temporizador
+pt-pt,alarm.AlarmSkillKeyword,temporizadores
+pt-pt,alarm.AlarmSkillKeyword,alarme
+pt-pt,alarm.AlarmSkillKeyword,alarmes
+pt-pt,alarm.AlarmSkillListVerb,mostrar
+pt-pt,alarm.AlarmSkillListVerb,lista
+pt-pt,alarm.AlarmSkillStopVerb,desligar
+pt-pt,alarm.AlarmSkillStopVerb,terminar
+pt-pt,alarm.AlarmSkillStopVerb,parar
+pt-pt,joke.Adult,adulta
+pt-pt,joke.Adult,adulto
+pt-pt,joke.Adult,sexy
+pt-pt,joke.Adult,sexo
+pt-pt,joke.Adult,sexual
+pt-pt,joke.Adult,porca
+pt-pt,joke.Adult,marota
+pt-pt,joke.Chuck,chuck
+pt-pt,joke.Chuck,chuck norris
+pt-pt,joke.Joke,piada
+pt-pt,joke.Joke,anedota
+pt-pt,joke.Joke,piadas
+pt-pt,joke.Joke,anedotas
+pt-pt,joke.Joke,faz me rir
+pt-pt,joke.Joke,faz rir
+pt-pt,joke.Joke,alegra meu dia
+pt-pt,joke.Joke,alegra o meu dia
+pt-pt,joke.Neutral,neutra
+pt-pt,joke.Neutral,não ofensiva
+pt-pt,joke.Neutral,nao ofensiva
+pt-pt,joke.Neutral,limpa
+pt-pt,joke.Neutral,nerd
+pt-pt,joke.Neutral,geeky
+pt-pt,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,procura neste computador pôr
+pt-pt,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,procura neste
+pt-pt,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,procura computador pôr
+pt-pt,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,procura ficheiro
+pt-pt,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,procura nome do ficheiro
+pt-pt,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,procura o computador pôr
+pt-pt,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,procura sistema
+pt-pt,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,sistema
+pt-pt,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,sistema procura
+pt-pt,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,sistema procura ficheiro
+pt-pt,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,encontrar ficheiro
+pt-pt,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,procura ficheiro
+pt-pt,krunner-search-skill.RecentFileKeyword,display recent 
+pt-pt,krunner-search-skill.RecentFileKeyword,display recent files
+pt-pt,krunner-search-skill.RecentFileKeyword,display recent documents
+pt-pt,krunner-search-skill.RecentFileKeyword,recent documents
+pt-pt,krunner-search-skill.RecentFileKeyword,recent files
+pt-pt,laugh.Laugh,riso
+pt-pt,laugh.Laugh,risadas
+pt-pt,laugh.Laugh,gargalhadas
+pt-pt,laugh.Stop,aborta
+pt-pt,laugh.Stop,cancela
+pt-pt,laugh.Stop,para
+pt-pt,plasma-activities-skill.ActivitiesCreateKeyword,criar a nova actividade
+pt-pt,plasma-activities-skill.ActivitiesCreateKeyword,criar nova actividade
+pt-pt,plasma-activities-skill.ActivitiesCreateKeyword,criar actividade
+pt-pt,plasma-activities-skill.ActivitiesCreateKeyword,iniciar a nova actividade
+pt-pt,plasma-activities-skill.ActivitiesCreateKeyword,criar novas actividades
+pt-pt,plasma-activities-skill.ActivitiesCreateKeyword,iniciar novas actividades
+pt-pt,plasma-activities-skill.ActivitiesCreateKeyword,criar actividades
+pt-pt,plasma-activities-skill.ActivitiesCreateKeyword,nova actividade
+pt-pt,plasma-activities-skill.ActivitiesCreateKeyword,novas actividades
+pt-pt,plasma-activities-skill.ActivitiesRemoveKeyword,remove activity
+pt-pt,plasma-activities-skill.ActivitiesRemoveKeyword,remover actividade
+pt-pt,plasma-activities-skill.ActivitiesRemoveKeyword,remover a actividade
+pt-pt,plasma-activities-skill.ActivitiesRemoveKeyword,apagar actividade
+pt-pt,plasma-activities-skill.ActivitiesRemoveKeyword,apagara actividade
+pt-pt,plasma-activities-skill.ActivitiesShowKeyword,mostar actuais actividades
+pt-pt,plasma-activities-skill.ActivitiesShowKeyword,mostrar actividades
+pt-pt,plasma-activities-skill.ActivitiesShowKeyword,actividades
+pt-pt,plasma-activities-skill.ActivitiesShowKeyword,exibir actuais actividades
+pt-pt,plasma-activities-skill.ActivitiesShowKeyword,exibir actividades
+pt-pt,plasma-activities-skill.ActivitiesStopKeyword,parar actual actividade
+pt-pt,plasma-activities-skill.ActivitiesStopKeyword,parar actividade
+pt-pt,plasma-activities-skill.ActivitiesSwitchKeyword,mudar acutal actividade
+pt-pt,plasma-activities-skill.ActivitiesSwitchKeyword,mudar actividade

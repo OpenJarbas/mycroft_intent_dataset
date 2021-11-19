@@ -1,0 +1,247 @@
+{
+  "es-es": {
+    "auto-volume-skill.activate": [
+      "Activar el volumen autom\u00e1tico ",
+      "Ajustar el volumen autom\u00e1tico a activo ",
+      "Enciende el volumen autom\u00e1tico",
+      "Ajusta el volumen autom\u00e1tico"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Desactiva el volumen autom\u00e1tico",
+      "Ajusta el volumen autom\u00e1tico a inactivo",
+      "Apaga el volumen autom\u00e1tico",
+      "Ajusta el volumen autom\u00e1tico en apagado"
+    ],
+    "auto-volume-skill.reset": [
+      "Borra las mediciones de volumen autom\u00e1tico",
+      "Borra las mediciones de volumen autom\u00e1tico",
+      "Borra las mediciones de volumen autom\u00e1tico"
+    ],
+    "cocktail.Needed": [
+      "qu\u00e9 se necesita para hacer un {drink}",
+      "qu\u00e9 (hace falta|necesito|necesitas) para hacer un {drink}",
+      "(cu\u00e1les son los ingredientes|cu\u00e1l es el ingreditente) (de|para hacer) un {drink}"
+    ],
+    "cocktail.Recipie": [
+      "c\u00f3mo (hago|har\u00eda|haces|harias) para (hacer|preparar) (un|una) {drink}",
+      "(cu\u00e9ntame|dime|dinos|cu\u00e9ntanos) como (hacer|preparar) (un|una) {drink}",
+      "(dame|dinos|danos) (las|) instrucciones para (hacer|preparar|) (un|una) {drink}",
+      "c\u00f3mo (hacer|preparar|mezclar) (un|una) {drink}",
+      "cu\u00e1l es la receta (de|para) (un|una) {drink}"
+    ],
+    "count-skill.count": [
+      "Cuenta hasta {number}"
+    ],
+    "count-skill.countdown": [
+      "Cuenta atr\u00e1s desde {number}",
+      "Cuenta atr\u00e1s desde {number}",
+      "Cuenta( hacia|) atr\u00e1s desde {number}",
+      "Cuenta (hacia |)atr\u00e1s desde {number}",
+      "Cuenta atr\u00e1s desde {number}",
+      "Desde {number} cuenta hacia atr\u00e1s",
+      "Desde {number} cuenta hacia atr\u00e1s"
+    ],
+    "dice-skill.Dice": [
+      "tira ({count}|) d {type} (+|plus|) ({modifier}|)"
+    ],
+    "dice-skill.NormalDice": [
+      "tira ({count}|) (dado|dados)"
+    ],
+    "dice-skill.Range": [
+      "Genera un n\u00famero aleatorio del {low} al {high}",
+      "Genera un n\u00famero aleatorio entre el {low} y el {high}",
+      "Dime un n\u00famero del {low} al {high}",
+      "Dime un n\u00famero entre {low} y {high}"
+    ],
+    "email-skill.check.email": [
+      "comprueba mi (email|correo electr\u00f3nico).",
+      "comprueba mi correo.",
+      "\u00bftengo alg\u00fan correo nuevo?",
+      "\u00bftengo alg\u00fan (email|correo|correo electr\u00f3nico)?",
+      "\u00bftengo alg\u00fan (email|correo|correo electr\u00f3nico) nuevo?"
+    ],
+    "email-skill.enquire.email": [
+      "\u00bfTengo un correo electr\u00f3nico de {email}?",
+      "\u00bfRecib\u00ed (cualquier |) correo electr\u00f3nico (por|de) de {email}?",
+      "\u00bfHe Recibido correos electr\u00f3nicos de {email}?"
+    ],
+    "email-skill.notify": [
+      "Dime si hay (correo | correo electr\u00f3nico | nuevo correo | email)",
+      "Dime cuando tenga (correo | correo electr\u00f3nico | nuevo correo | email)",
+      "Dime cuando tenga (un correo | un correo electr\u00f3nico | email) (de | por) {sender}",
+      "Dime de (correo | email) (de | por) {sender}",
+      "Notif\u00edcame de (correo | email | nuevo correo | nuevo email)",
+      "av\u00edsame cuando tenga (un|) (correo | correo electr\u00f3nico | nuevo correo | email) (de | procedente de) {sender}",
+      "av\u00edsame cuando tenga (un|) (correo | correo electr\u00f3nico | nuevo correo | email)",
+      "av\u00edsame cuando tenga (un|) (correo |correo electr\u00f3nico |email) (de | procedente de) {sender}"
+    ],
+    "email-skill.stop": [
+      "No me notifiques de (correo | email | nuevo correo | nuevo email)",
+      "No me avises de (correo | correo electr\u00f3nico | nuevo correo | email)  (de | procedente de) {sender}",
+      "No me notifiques de nuevo de (correo | email | nuevo correo | nuevo email)",
+      "No me notifiques de nuevo (correo | correo electr\u00f3nico | nuevo correo | email) (de | procedente de) {sender}",
+      "No me avises de (correo | email | nuevo correo | nuevo email)",
+      "No me avises de (correo | correo electr\u00f3nico | nuevo correo | email) (de | procedente de) {sender}",
+      "No me notifiques de nuevo de (correo | email | nuevo correo | nuevo email)",
+      "No vuelvas a notificarme de (un|) (correo | correo electr\u00f3nico | nuevo correo | email) (de | procedente de) {sender}"
+    ],
+    "emby-skill.diagnostic": [
+      "comprobando (emby|mb|mv|nv|emily) conexi\u00f3n",
+      "Ejecutar diagn\u00f3stico de (emby|mb|mv|nv|emily)",
+      "comprobar (emby|mb|mv|nv|emily)"
+    ],
+    "emby-skill.emby": [
+      "Reproduce {media} en emby",
+      "reproduce {media} desde emby",
+      "Pon (a|el artista| ) {artist} (en|por|de|desde) emby",
+      "Pon (a|el artista| ) {artist} (en|por|de|desde) mb",
+      "Pon ( |el album) {album} (en|por|desde) emby",
+      "Pon ( |el album) {album} (en|por|de|desde) mb"
+    ],
+    "fairytalez-skill.continue": [
+      "Contin\u00faa la historia",
+      "Contin\u00faa contando la historia",
+      "Contin\u00faa el cuento de hadas",
+      "Contin\u00faa contando el cuento de hadas",
+      "Contin\u00faa el cuento de hadas",
+      "Contin\u00faa con el cuento de hadas",
+      "Contin\u00faa con el cuento de hadas"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "(Cu\u00e9nta|Lee) (me|) (un buen cuento|una buena historia)",
+      "(Cuenta|Lee) (me|) el cuento de {tale}"
+    ],
+    "homeassistant.set.climate": [
+      "pon el {entity} a {temp} grados",
+      "pon la temperatura de {entity} a {temp} grados",
+      "cambia la temperatura de {entity} a {temp} grados"
+    ],
+    "homeassistant.set.light.brightness": [
+      "establece el brillo de {{entity}} a {{brightnessvalue}} por ciento"
+    ],
+    "iss-tracker-skill.tracker.iss": [
+      "D\u00f3nde est\u00e1 la estaci\u00f3n espacial internacional",
+      "(Encuentra|ubica) la I S S",
+      "D\u00f3nde est\u00e1 la I S S"
+    ],
+    "laugh.Laugh": [
+      "r\u00edete como Alexa",
+      "\u00bfpuedes re\u00edrte?",
+      "(risa|carcajada|risotada) malvada"
+    ],
+    "laugh.RandomLaugh": [
+      "(r\u00edete|reir|r\u00ede) al azar",
+      "activa una (risa|carcajada|risotada) aleatoria",
+      "(risa|carcajada|risotada) aleatoria"
+    ],
+    "mark-2.brightness": [
+      "oscurece (los|tus) ojos al {brightness} (por ciento|)",
+      "oscur\u00e9cete al {brightness} (por ciento|)",
+      "(baja|reduce) (el brillo|la iluminaci\u00f3n) de tus ojos al {brightness} (por ciento|)",
+      "(aumenta|reduce) (el brillo|la iluminaci\u00f3n) al {brightness} (por ciento|)",
+      "(sube|baja) (el brillo|la iluminaci\u00f3n) al {brightness} (por ciento|)",
+      "ilum\u00ednate (un poco|) (hasta|al) {brightness} (por ciento|)",
+      "(cambia|establece|pon) al {brightness} (por ciento|) (el brillo|la iluminaci\u00f3n) (de tus ojos|)",
+      "(cambia|establece|pon) (el brillo|la iluminaci\u00f3n) (de tus ojos|) al {brightness} (por ciento|)",
+      "(cambia|establece|pon) (el nivel de|) (de brillo|la iluminaci\u00f3n) (de tus ojos|)",
+      "est\u00e1s (demasiado|) (brillante|oscuro)",
+      "se te ve (demasiado|) (brillante|oscuro)",
+      "ilum\u00ednate",
+      "oscur\u00e9cete un poco"
+    ],
+    "mark-2.brightness.auto": [
+      "ajusta el brillo a autom\u00e1tico",
+      "brillo autom\u00e1tico"
+    ],
+    "mark-2.device.brightness.settings": [
+      "muestra los ajustes de brillo",
+      "muestra los ajustes de brillo del dispositivo"
+    ],
+    "mark-2.device.homescreen.settings": [
+      "muestra la configuraci\u00f3n de la pantalla de inicio",
+      "muestra la configuraci\u00f3n de la (pantalla|cara|p\u00e1gina) (de inicio|de reposo|inactiva)",
+      "muestra la configuraci\u00f3n de la (pantalla|cara|p\u00e1gina) (de inicio|de reposo|inactiva) del dispositivo"
+    ],
+    "mark-2.device.reset.settings": [
+      "muestra los ajustes de restablecimiento de f\u00e1brica",
+      "muestra los ajustes de restablecimiento de f\u00e1brica del dispositivo"
+    ],
+    "mark-2.device.settings": [
+      "muestra la configuraci\u00f3n del dispositivo",
+      "abre (los ajustes|la configuraci\u00f3n)"
+    ],
+    "mark-2.device.ssh.settings": [
+      "muestra la configuraci\u00f3n ssh",
+      "muestra la configuraci\u00f3n ssh del dispositivo"
+    ],
+    "mark-2.device.wifi.settings": [
+      "muestra la pantalla de conexiones inal\u00e1mbricas ",
+      "muestra la configuraci\u00f3n de conexiones inal\u00e1mbricas",
+      "muestra la configuraci\u00f3n wifi",
+      "muestra la pantalla de conexiones wifi"
+    ],
+    "moviemaster.genre.movie.search": [
+      "(listar|encontrar) (pel\u00edculas|filmes) que son (un| ) {genre}",
+      "(listar|encontrar) (pel\u00edculas|filmes) de {genre}"
+    ],
+    "moviemaster.genre.tv.search": [
+      "(listar|encontrar|obtener) (programas de TV|programas de televisi\u00f3n|shows) que son del g\u00e9nero {genre}",
+      "(listar|encontrar|obtener) (programas de TV|programas de televisi\u00f3n|shows) del g\u00e9nero {genre}"
+    ],
+    "moviemaster.movie.cast": [
+      "Qui\u00e9n (act\u00faa|trabaja|est\u00e1) en la pel\u00edcula {movie}"
+    ],
+    "moviemaster.movie.description": [
+      "de qu\u00e9 se trata la pel\u00edcula {movie}",
+      "(cu\u00e9ntame|cu\u00e9ntanos) acerca de la pel\u00edcula {movie}",
+      "(dame|danos) una (descripci\u00f3n|sinopsis) (de la|del) (pel\u00edcula|film) {movie}",
+      "."
+    ],
+    "moviemaster.movie.genres": [
+      "(A cuales|A cual) (g\u00e9neros|g\u00e9nero) pertenece (la|el) (pel\u00edcula|filme) {movie} ",
+      "(Cuales|Cual) (son|es) (los|el) (g\u00e9neros|g\u00e9nero) (de la|del) (pel\u00edcula|filme) {movie}",
+      "A que (g\u00e9neros|g\u00e9nero) pertenece (la|el) (pel\u00edcula|filme) {movie}"
+    ],
+    "moviemaster.movie.information": [
+      "(Averiguar|Obtener|Buscar) (informaci\u00f3n|info) acerca (de la|del) (pel\u00edcula|filme) {movie}",
+      "(Dame|Danos) (informaci\u00f3n|info) acerca (de la|del) (pel\u00edcula|filme) {movie}",
+      "(Tienes|Puedes obtener) (info|informaci\u00f3n) (de la|del) (pel\u00edcula|filme) {movie}"
+    ],
+    "moviemaster.movie.popular": [
+      "(Lista|Busca) (las|los) (peliculas|filmes) m\u00e1s populares",
+      "Cu\u00e1les son (las|los) (pel\u00edculas|flimes) m\u00e1s populares ahora"
+    ],
+    "moviemaster.movie.production": [
+      "(Qui\u00e9n|Qu\u00e9 compan\u00eda) (produjo|hizo) la pel\u00edcula {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "Recomienda (pel\u00edculas|filmes) (similares a|parecidas a) {movie}",
+      "Qu\u00e9 (pel\u00edculas|filmes) recomendarias (similares a|parecidas a) {movie}",
+      "(Lista|obtiene) (|buenas|buenos) (pel\u00edculas|filmes) similares a {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "Cu\u00e1nto dura (la pel\u00edcula|el filme) {movie}",
+      "Cu\u00e1nto dura (la|el) (pel\u00edcula|filme) {movie}",
+      "Obtiene la duraci\u00f3n (de la|del) (pel\u00edcula|filme) {movie}"
+    ],
+    "moviemaster.movie.top": [
+      "(lista|cu\u00e1les son|busca) (las|los) (pel\u00edculas|filmes) (top|m\u00e1s populares|mejores en el ranking) en cartelera (|ahora)"
+    ],
+    "moviemaster.movie.year": [
+      "(En qu\u00e9 a\u00f1o|Cu\u00e1ndo|En qu\u00e9 fecha) fue lanzado (la|el) (pel\u00edcula|filme) {movie}"
+    ],
+    "wikiquote-skill.random": [
+      "dime ((alguna|una) cita|algo sabio)",
+      "dame ((alguna|una) cita|(|algo de) sabidur\u00eda)",
+      "Necesito algo de sabidur\u00eda"
+    ],
+    "wikiquote-skill.specific": [
+      "dime ((alguna|una) cita|algo sabio) de {subject}",
+      "dame ((alguna|una) cita|(algo de|) sabidur\u00eda) de {subject}",
+      "Necesito (alguna cita|algo de sabidur\u00eda) de {subject}",
+      "dime una cita (de|sobre) {subject}",
+      "dame una cita (de|sobre) {subject}",
+      "necesito una cita (de|sobre) {subject}"
+    ]
+  }
+}

@@ -1,0 +1,520 @@
+en-us,Wiktionary-Skill.word,:0
+en-us,alarm.ampm,am
+en-us,alarm.ampm,a.m
+en-us,alarm.ampm,a.m.
+en-us,alarm.ampm,AM
+en-us,alarm.ampm,A.M
+en-us,alarm.ampm,pm
+en-us,alarm.ampm,p.m.
+en-us,alarm.ampm,p.m
+en-us,alarm.ampm,PM
+en-us,alarm.ampm,P.M
+en-us,alarm.ampm,morning
+en-us,alarm.ampm,evening
+en-us,alarm.daytype,(day | weekday | weekdays | weekend | weekends | tomorrow | today)
+en-us,alarm.daytype,(monday  | tuesday  | wednesday  | thursday  | friday  | saturday  | sunday )
+en-us,alarm.daytype,(mondays  | tuesdays  | wednesdays  | thursdays  | fridays | saturdays  | sundays )
+en-us,alarm.exceptdaytype,(day | weekday | weekend)
+en-us,alarm.exceptdaytype,(monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays)
+en-us,alarm.exceptdaytype,(monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays) and (monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays)
+en-us,alarm.length,(#|##|###) (minute|minutes|hour|hours|day|days)
+en-us,alarm.length,(#|##|###) (minute|minutes|hour|hours|day|days) and (#|##|###) (minute|minutes|hour|hours|day|days)
+en-us,alarm.length,(#|##|###) (minute|minutes|hour|hours|day|days) (#|##|###) (minute|minutes|hour|hours|day|days) and (#|##|###) (minute|minutes|hour|hours|day|days)
+en-us,alarm.time,noon
+en-us,alarm.time,midnight
+en-us,countries.country,afghanistan
+en-us,countries.country,åland islands
+en-us,countries.country,albania
+en-us,countries.country,algeria
+en-us,countries.country,american samoa
+en-us,countries.country,andorra
+en-us,countries.country,angola
+en-us,countries.country,anguilla
+en-us,countries.country,antarctica
+en-us,countries.country,antigua and barbuda
+en-us,countries.country,argentina
+en-us,countries.country,armenia
+en-us,countries.country,aruba
+en-us,countries.country,australia
+en-us,countries.country,austria
+en-us,countries.country,azerbaijan
+en-us,countries.country,the bahamas
+en-us,countries.country,bahrain
+en-us,countries.country,bangladesh
+en-us,countries.country,barbados
+en-us,countries.country,belarus
+en-us,countries.country,belgium
+en-us,countries.country,belize
+en-us,countries.country,benin
+en-us,countries.country,bermuda
+en-us,countries.country,bhutan
+en-us,countries.country,bolivia
+en-us,countries.country,bonaire
+en-us,countries.country,bosnia and herzegovina
+en-us,countries.country,botswana
+en-us,countries.country,bouvet island
+en-us,countries.country,brazil
+en-us,countries.country,british indian ocean territory
+en-us,countries.country,united states minor outlying islands
+en-us,countries.country,virgin islands
+en-us,countries.country,brunei
+en-us,countries.country,bulgaria
+en-us,countries.country,burkina faso
+en-us,countries.country,burundi
+en-us,countries.country,cambodia
+en-us,countries.country,cameroon
+en-us,countries.country,canada
+en-us,countries.country,cape verde
+en-us,countries.country,cayman islands
+en-us,countries.country,central african republic
+en-us,countries.country,chad
+en-us,countries.country,chile
+en-us,countries.country,china
+en-us,countries.country,christmas island
+en-us,countries.country,cocos (keeling) islands
+en-us,countries.country,colombia
+en-us,countries.country,comoros
+en-us,countries.country,republic of the congo
+en-us,countries.country,democratic republic of the congo
+en-us,countries.country,cook islands
+en-us,countries.country,costa rica
+en-us,countries.country,croatia
+en-us,countries.country,cuba
+en-us,countries.country,curaçao
+en-us,countries.country,cyprus
+en-us,countries.country,czech republic
+en-us,countries.country,denmark
+en-us,countries.country,djibouti
+en-us,countries.country,dominica
+en-us,countries.country,dominican republic
+en-us,countries.country,ecuador
+en-us,countries.country,egypt
+en-us,countries.country,el salvador
+en-us,countries.country,equatorial guinea
+en-us,countries.country,eritrea
+en-us,countries.country,estonia
+en-us,countries.country,ethiopia
+en-us,countries.country,falkland islands
+en-us,countries.country,faroe islands
+en-us,countries.country,fiji
+en-us,countries.country,finland
+en-us,countries.country,france
+en-us,countries.country,french guiana
+en-us,countries.country,french polynesia
+en-us,countries.country,french southern and antarctic lands
+en-us,countries.country,gabon
+en-us,countries.country,the gambia
+en-us,countries.country,georgia
+en-us,countries.country,germany
+en-us,countries.country,ghana
+en-us,countries.country,gibraltar
+en-us,countries.country,greece
+en-us,countries.country,greenland
+en-us,countries.country,grenada
+en-us,countries.country,guadeloupe
+en-us,countries.country,guam
+en-us,countries.country,guatemala
+en-us,countries.country,guernsey
+en-us,countries.country,guinea
+en-us,countries.country,guinea-bissau
+en-us,countries.country,guyana
+en-us,countries.country,haiti
+en-us,countries.country,heard island and mcdonald islands
+en-us,countries.country,holy see
+en-us,countries.country,honduras
+en-us,countries.country,hong kong
+en-us,countries.country,hungary
+en-us,countries.country,iceland
+en-us,countries.country,india
+en-us,countries.country,indonesia
+en-us,countries.country,ivory coast
+en-us,countries.country,iran
+en-us,countries.country,iraq
+en-us,countries.country,republic of ireland
+en-us,countries.country,isle of man
+en-us,countries.country,israel
+en-us,countries.country,italy
+en-us,countries.country,jamaica
+en-us,countries.country,japan
+en-us,countries.country,jersey
+en-us,countries.country,jordan
+en-us,countries.country,kazakhstan
+en-us,countries.country,kenya
+en-us,countries.country,kiribati
+en-us,countries.country,kuwait
+en-us,countries.country,kyrgyzstan
+en-us,countries.country,laos
+en-us,countries.country,latvia
+en-us,countries.country,lebanon
+en-us,countries.country,lesotho
+en-us,countries.country,liberia
+en-us,countries.country,libya
+en-us,countries.country,liechtenstein
+en-us,countries.country,lithuania
+en-us,countries.country,luxembourg
+en-us,countries.country,macau
+en-us,countries.country,republic of macedonia
+en-us,countries.country,madagascar
+en-us,countries.country,malawi
+en-us,countries.country,malaysia
+en-us,countries.country,maldives
+en-us,countries.country,mali
+en-us,countries.country,malta
+en-us,countries.country,marshall islands
+en-us,countries.country,martinique
+en-us,countries.country,mauritania
+en-us,countries.country,mauritius
+en-us,countries.country,mayotte
+en-us,countries.country,mexico
+en-us,countries.country,federated states of micronesia
+en-us,countries.country,moldova
+en-us,countries.country,monaco
+en-us,countries.country,mongolia
+en-us,countries.country,montenegro
+en-us,countries.country,montserrat
+en-us,countries.country,morocco
+en-us,countries.country,mozambique
+en-us,countries.country,myanmar
+en-us,countries.country,namibia
+en-us,countries.country,nauru
+en-us,countries.country,nepal
+en-us,countries.country,netherlands
+en-us,countries.country,new caledonia
+en-us,countries.country,new zealand
+en-us,countries.country,nicaragua
+en-us,countries.country,niger
+en-us,countries.country,nigeria
+en-us,countries.country,niue
+en-us,countries.country,norfolk island
+en-us,countries.country,north korea
+en-us,countries.country,northern mariana islands
+en-us,countries.country,norway
+en-us,countries.country,oman
+en-us,countries.country,pakistan
+en-us,countries.country,palau
+en-us,countries.country,palestine
+en-us,countries.country,panama
+en-us,countries.country,papua new guinea
+en-us,countries.country,paraguay
+en-us,countries.country,peru
+en-us,countries.country,philippines
+en-us,countries.country,pitcairn islands
+en-us,countries.country,poland
+en-us,countries.country,portugal
+en-us,countries.country,puerto rico
+en-us,countries.country,qatar
+en-us,countries.country,republic of kosovo
+en-us,countries.country,réunion
+en-us,countries.country,romania
+en-us,countries.country,russia
+en-us,countries.country,rwanda
+en-us,countries.country,saint barthélemy
+en-us,countries.country,saint helena
+en-us,countries.country,saint kitts and nevis
+en-us,countries.country,saint lucia
+en-us,countries.country,saint martin
+en-us,countries.country,saint pierre and miquelon
+en-us,countries.country,saint vincent and the grenadines
+en-us,countries.country,samoa
+en-us,countries.country,san marino
+en-us,countries.country,são tomé and príncipe
+en-us,countries.country,saudi arabia
+en-us,countries.country,senegal
+en-us,countries.country,serbia
+en-us,countries.country,seychelles
+en-us,countries.country,sierra leone
+en-us,countries.country,singapore
+en-us,countries.country,sint maarten
+en-us,countries.country,slovakia
+en-us,countries.country,slovenia
+en-us,countries.country,solomon islands
+en-us,countries.country,somalia
+en-us,countries.country,south africa
+en-us,countries.country,south georgia
+en-us,countries.country,south korea
+en-us,countries.country,south sudan
+en-us,countries.country,spain
+en-us,countries.country,sri lanka
+en-us,countries.country,sudan
+en-us,countries.country,suriname
+en-us,countries.country,svalbard and jan mayen
+en-us,countries.country,swaziland
+en-us,countries.country,sweden
+en-us,countries.country,switzerland
+en-us,countries.country,syria
+en-us,countries.country,taiwan
+en-us,countries.country,tajikistan
+en-us,countries.country,tanzania
+en-us,countries.country,thailand
+en-us,countries.country,east timor
+en-us,countries.country,togo
+en-us,countries.country,tokelau
+en-us,countries.country,tonga
+en-us,countries.country,trinidad and tobago
+en-us,countries.country,tunisia
+en-us,countries.country,turkey
+en-us,countries.country,turkmenistan
+en-us,countries.country,turks and caicos islands
+en-us,countries.country,tuvalu
+en-us,countries.country,uganda
+en-us,countries.country,ukraine
+en-us,countries.country,united arab emirates
+en-us,countries.country,united kingdom
+en-us,countries.country,united states
+en-us,countries.country,uruguay
+en-us,countries.country,uzbekistan
+en-us,countries.country,vanuatu
+en-us,countries.country,venezuela
+en-us,countries.country,vietnam
+en-us,countries.country,wallis and futuna
+en-us,countries.country,western sahara
+en-us,countries.country,yemen
+en-us,countries.country,zambia
+en-us,countries.country,zimbabwe
+en-us,countries.language,Arabic
+en-us,countries.language,Catalan
+en-us,countries.language,Czech
+en-us,countries.language,Danish
+en-us,countries.language,German
+en-us,countries.language,Greek
+en-us,countries.language,English
+en-us,countries.language,Spanish
+en-us,countries.language,Finnish
+en-us,countries.language,French
+en-us,countries.language,Hebrew
+en-us,countries.language,Hindi
+en-us,countries.language,Croatian
+en-us,countries.language,Hungarian
+en-us,countries.language,Italian
+en-us,countries.language,Japanese
+en-us,countries.language,Korea
+en-us,countries.language,Norwegian
+en-us,countries.language,Dutch
+en-us,countries.language,Polish
+en-us,countries.language,Portuguese
+en-us,countries.language,Brazilian Portuguese
+en-us,countries.language,European Portuguese
+en-us,countries.language,Romanian
+en-us,countries.language,Moldavian
+en-us,countries.language,Russian
+en-us,countries.language,Slovak
+en-us,countries.language,Slovenia
+en-us,countries.language,Serbian
+en-us,countries.language,Swedish
+en-us,countries.language,Thai
+en-us,countries.language,Turkish
+en-us,countries.language,Ukrainian
+en-us,countries.language,Vietnamese
+en-us,countries.language,Chinese
+en-us,countries.region,Asia
+en-us,countries.region,Southern Asia
+en-us,countries.region,Europe
+en-us,countries.region,Northern Europe
+en-us,countries.region,Southern Europe
+en-us,countries.region,Africa
+en-us,countries.region,Northern Africa
+en-us,countries.region,Oceania
+en-us,countries.region,Polynesia
+en-us,countries.region,Middle Africa
+en-us,countries.region,Americas
+en-us,countries.region,Caribbean
+en-us,countries.region,Polar
+en-us,countries.region,South America
+en-us,countries.region,Western Asia
+en-us,countries.region,Australia and New Zealand
+en-us,countries.region,Western Europe
+en-us,countries.region,Eastern Europe
+en-us,countries.region,Central America
+en-us,countries.region,Western Africa
+en-us,countries.region,Northern America
+en-us,countries.region,Southern Africa
+en-us,countries.region,Eastern Africa
+en-us,countries.region,South-Eastern Asia
+en-us,countries.region,Eastern Asia
+en-us,countries.region,Melanesia
+en-us,countries.region,Micronesia
+en-us,countries.region,Central Asia
+en-us,launcher.neon.program,chrome
+en-us,launcher.neon.program,chromium
+en-us,launcher.neon.program,browser
+en-us,launcher.neon.program,nautilus
+en-us,launcher.neon.program,files
+en-us,launcher.neon.program,file explorer
+en-us,launcher.neon.program,terminal
+en-us,launcher.neon.program,gnome terminal
+en-us,launcher.neon.program,command line
+en-us,launcher.neon.program,gedit
+en-us,launcher.neon.program,g edit
+en-us,launcher.neon.program,text edit
+en-us,launcher.neon.program,text editor
+en-us,launcher.neon.program,textedit
+en-us,launcher.neon.program,notepad
+en-us,mark-2.brightness,full
+en-us,mark-2.brightness,bright
+en-us,mark-2.brightness,half
+en-us,mark-2.brightness,dim
+en-us,mark-2.brightness,low
+en-us,mark-2.brightness,auto
+en-us,mark-2.brightness,automatic
+en-us,mycroft-mark-1.brightness,full
+en-us,mycroft-mark-1.brightness,bright
+en-us,mycroft-mark-1.brightness,half
+en-us,mycroft-mark-1.brightness,dim
+en-us,mycroft-mark-1.brightness,low
+en-us,mycroft-mark-1.brightness,auto
+en-us,mycroft-mark-1.brightness,automatic
+en-us,mycroft-mark-1.color,default
+en-us,mycroft-mark-1.color,alice blue
+en-us,mycroft-mark-1.color,antique white
+en-us,mycroft-mark-1.color,aqua
+en-us,mycroft-mark-1.color,aquamarine
+en-us,mycroft-mark-1.color,azure
+en-us,mycroft-mark-1.color,beige
+en-us,mycroft-mark-1.color,bisque
+en-us,mycroft-mark-1.color,black
+en-us,mycroft-mark-1.color,blanched almond
+en-us,mycroft-mark-1.color,blue
+en-us,mycroft-mark-1.color,blue violet
+en-us,mycroft-mark-1.color,brown
+en-us,mycroft-mark-1.color,burly wood
+en-us,mycroft-mark-1.color,cadet blue
+en-us,mycroft-mark-1.color,chartreuse
+en-us,mycroft-mark-1.color,chocolate
+en-us,mycroft-mark-1.color,coral
+en-us,mycroft-mark-1.color,cornflower blue
+en-us,mycroft-mark-1.color,cornsilk
+en-us,mycroft-mark-1.color,crimson
+en-us,mycroft-mark-1.color,cyan
+en-us,mycroft-mark-1.color,dark blue
+en-us,mycroft-mark-1.color,dark cyan
+en-us,mycroft-mark-1.color,dark golden rod
+en-us,mycroft-mark-1.color,dark gray
+en-us,mycroft-mark-1.color,dark grey
+en-us,mycroft-mark-1.color,dark green
+en-us,mycroft-mark-1.color,dark khaki
+en-us,mycroft-mark-1.color,dark magenta
+en-us,mycroft-mark-1.color,dark olive green
+en-us,mycroft-mark-1.color,dark orange
+en-us,mycroft-mark-1.color,dark orchid
+en-us,mycroft-mark-1.color,dark red
+en-us,mycroft-mark-1.color,dark salmon
+en-us,mycroft-mark-1.color,dark sea green
+en-us,mycroft-mark-1.color,dark slate blue
+en-us,mycroft-mark-1.color,dark slate gray
+en-us,mycroft-mark-1.color,dark slate grey
+en-us,mycroft-mark-1.color,dark turquoise
+en-us,mycroft-mark-1.color,dark violet
+en-us,mycroft-mark-1.color,deep pink
+en-us,mycroft-mark-1.color,deep sky blue
+en-us,mycroft-mark-1.color,dim gray
+en-us,mycroft-mark-1.color,dim grey
+en-us,mycroft-mark-1.color,dodger blue
+en-us,mycroft-mark-1.color,fire brick
+en-us,mycroft-mark-1.color,floral white
+en-us,mycroft-mark-1.color,forest green
+en-us,mycroft-mark-1.color,fuchsia
+en-us,mycroft-mark-1.color,gainsboro
+en-us,mycroft-mark-1.color,ghost white
+en-us,mycroft-mark-1.color,gold
+en-us,mycroft-mark-1.color,golden rod
+en-us,mycroft-mark-1.color,gray
+en-us,mycroft-mark-1.color,grey
+en-us,mycroft-mark-1.color,green
+en-us,mycroft-mark-1.color,green yellow
+en-us,mycroft-mark-1.color,honey dew
+en-us,mycroft-mark-1.color,hot pink
+en-us,mycroft-mark-1.color,indian red
+en-us,mycroft-mark-1.color,indigo
+en-us,mycroft-mark-1.color,ivory
+en-us,mycroft-mark-1.color,khaki
+en-us,mycroft-mark-1.color,lavender
+en-us,mycroft-mark-1.color,lavender blush
+en-us,mycroft-mark-1.color,lawn green
+en-us,mycroft-mark-1.color,lemon chiffon
+en-us,mycroft-mark-1.color,ligh blue
+en-us,mycroft-mark-1.color,light coral
+en-us,mycroft-mark-1.color,light cyan
+en-us,mycroft-mark-1.color,light golden rod yellow
+en-us,mycroft-mark-1.color,light gray
+en-us,mycroft-mark-1.color,light grey
+en-us,mycroft-mark-1.color,light green
+en-us,mycroft-mark-1.color,light pink
+en-us,mycroft-mark-1.color,light salmon
+en-us,mycroft-mark-1.color,light sea green
+en-us,mycroft-mark-1.color,light sky blue
+en-us,mycroft-mark-1.color,light slate gray
+en-us,mycroft-mark-1.color,light slate grey
+en-us,mycroft-mark-1.color,light steel blue
+en-us,mycroft-mark-1.color,light yellow
+en-us,mycroft-mark-1.color,lime
+en-us,mycroft-mark-1.color,lime green
+en-us,mycroft-mark-1.color,linen
+en-us,mycroft-mark-1.color,magenta
+en-us,mycroft-mark-1.color,maroon
+en-us,mycroft-mark-1.color,medium aqua marine
+en-us,mycroft-mark-1.color,medium blue
+en-us,mycroft-mark-1.color,medium orchid
+en-us,mycroft-mark-1.color,medium purple
+en-us,mycroft-mark-1.color,medium sea green
+en-us,mycroft-mark-1.color,medium slate blue
+en-us,mycroft-mark-1.color,medium spring green
+en-us,mycroft-mark-1.color,medium turquoise
+en-us,mycroft-mark-1.color,medium violet red
+en-us,mycroft-mark-1.color,midnight blue
+en-us,mycroft-mark-1.color,mint cream
+en-us,mycroft-mark-1.color,misty rose
+en-us,mycroft-mark-1.color,moccasin
+en-us,mycroft-mark-1.color,navajo white
+en-us,mycroft-mark-1.color,navy
+en-us,mycroft-mark-1.color,old lace
+en-us,mycroft-mark-1.color,olive
+en-us,mycroft-mark-1.color,olive drab
+en-us,mycroft-mark-1.color,orange
+en-us,mycroft-mark-1.color,orange red
+en-us,mycroft-mark-1.color,orchid
+en-us,mycroft-mark-1.color,pale golden rod
+en-us,mycroft-mark-1.color,pale green
+en-us,mycroft-mark-1.color,pale turquoise
+en-us,mycroft-mark-1.color,pale violet red
+en-us,mycroft-mark-1.color,papaya whip
+en-us,mycroft-mark-1.color,peach puff
+en-us,mycroft-mark-1.color,peru
+en-us,mycroft-mark-1.color,pink
+en-us,mycroft-mark-1.color,plum
+en-us,mycroft-mark-1.color,powder blue
+en-us,mycroft-mark-1.color,purple
+en-us,mycroft-mark-1.color,rebecca purple
+en-us,mycroft-mark-1.color,red
+en-us,mycroft-mark-1.color,rosy brown
+en-us,mycroft-mark-1.color,royal blue
+en-us,mycroft-mark-1.color,saddle brown
+en-us,mycroft-mark-1.color,salmon
+en-us,mycroft-mark-1.color,sandy brown
+en-us,mycroft-mark-1.color,sea green
+en-us,mycroft-mark-1.color,sea shell
+en-us,mycroft-mark-1.color,sienna
+en-us,mycroft-mark-1.color,silver
+en-us,mycroft-mark-1.color,sky blue
+en-us,mycroft-mark-1.color,slate blue
+en-us,mycroft-mark-1.color,slate gray
+en-us,mycroft-mark-1.color,slate grey
+en-us,mycroft-mark-1.color,snow
+en-us,mycroft-mark-1.color,spring green
+en-us,mycroft-mark-1.color,steel blue
+en-us,mycroft-mark-1.color,tan
+en-us,mycroft-mark-1.color,teal
+en-us,mycroft-mark-1.color,thistle
+en-us,mycroft-mark-1.color,tomato
+en-us,mycroft-mark-1.color,turquoise
+en-us,mycroft-mark-1.color,violet
+en-us,mycroft-mark-1.color,wheat
+en-us,mycroft-mark-1.color,white
+en-us,mycroft-mark-1.color,white smoke
+en-us,mycroft-mark-1.color,yellow
+en-us,mycroft-mark-1.color,yellow green
+en-us,mycroft-timer.all,all
+en-us,mycroft-timer.duration,(#|##|###) (minutes|seconds|hours) (and|)
+en-us,mycroft-timer.duration,(#|##|###) (minute|second|hour) (and|)
+en-us,mycroft-timer.timervalue,:0
+en-us,mycroft-timer.timervalue,:0 :0
+en-us,mycroft-timer.timervalue,:0 :0 :0

@@ -1,0 +1,43 @@
+{
+  "hu-hu": {
+    "auto-volume-skill.activate": [
+      "Aktiv\u00e1lja az automatikus hanger\u0151t",
+      "Automatikus hanger\u0151 be\u00e1ll\u00edt\u00e1sa akt\u00edvnak",
+      "Kapcsolja be az automatikus hanger\u0151t",
+      "Automatikus hanger\u0151 be\u00e1ll\u00edt\u00e1sa (to) on"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Automatikus hanger\u0151 kikapcsol\u00e1sa",
+      "Automatikus hanger\u0151 be\u00e1ll\u00edt\u00e1sa inakt\u00edvnak",
+      "Kapcsolja ki az automatikus hanger\u0151t",
+      "Automatikus hanger\u0151 be\u00e1ll\u00edt\u00e1sa (to) off"
+    ],
+    "auto-volume-skill.reset": [
+      "Automata hanger\u0151 m\u00e9r\u00e9si eredm\u00e9nyeinek t\u00f6rl\u00e9se",
+      "Automatikus hanger\u0151 m\u00e9r\u00e9sek t\u00f6rl\u00e9se",
+      "Automatikus hanger\u0151 m\u00e9r\u00e9sek t\u00f6rl\u00e9se"
+    ],
+    "email-skill.check.email": [
+      "ellen\u0151rizd az (email|e mail|emailemet|emailjeimet)",
+      "ellen\u0151rizd a leveleimet",
+      "van \u00faj levelem",
+      "\u00e9rkezett (\u00faj|) levelem",
+      "kaptam \u00faj levelet"
+    ],
+    "emby-skill.emby": [
+      "(lej\u00e1tsz\u00e1s|j\u00e1tszd|j\u00e1tssz le) {media} (az|) (mb|nb|enbi|emby) (szerverr\u0151l|)",
+      "{media} lej\u00e1tsz\u00e1sa (az|) (mb|nb|enbi|emby) (szerverr\u0151l|)"
+    ],
+    "wikiquote-skill.random": [
+      "mondj egy id\u00e9zetet",
+      "k\u00e9rek egy id\u00e9zetet|b\u00f6lcsess\u00e9get",
+      "b\u00f6lcsess\u00e9get k\u00e9rek",
+      "id\u00e9zetet k\u00e9rek"
+    ],
+    "wikiquote-skill.specific": [
+      "k\u00e9rek egy {subject} (id\u00e9zetet|id\u00e9zetek|id\u00e9zet)",
+      "mondj egy {subject} (id\u00e9zetet|id\u00e9zetek|id\u00e9zet)",
+      "{subject} b\u00f6lcsess\u00e9get k\u00e9rek"
+    ]
+  }
+}

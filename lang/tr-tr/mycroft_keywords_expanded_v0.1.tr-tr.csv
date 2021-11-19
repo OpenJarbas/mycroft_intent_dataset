@@ -1,0 +1,74 @@
+tr-tr,Crystal-Ball-Mycroft-Skill.CrystalBall,Kristal top
+tr-tr,Crystal-Ball-Mycroft-Skill.CrystalBall,Ayna ayna
+tr-tr,Crystal-Ball-Mycroft-Skill.Future,gelecek
+tr-tr,Crystal-Ball-Mycroft-Skill.Future,yarın
+tr-tr,Crystal-Ball-Mycroft-Skill.Query,Bana söyle
+tr-tr,Crystal-Ball-Mycroft-Skill.Query,Ne
+tr-tr,cut-up-skill.CutUp,Parçala
+tr-tr,cut-up-skill.CutUp,Gelişigüzel
+tr-tr,cut-up-skill.Maximum,En çok
+tr-tr,cut-up-skill.Minimum,En az
+tr-tr,cut-up-skill.Randomness,Rastgele
+tr-tr,cut-up-skill.Set,Ayar
+tr-tr,cut-up-skill.Set,Yapılandırma
+tr-tr,cut-up-skill.Set,Yapılandırmayı ayarla
+tr-tr,fallback-aiml.Memory,akıl
+tr-tr,fallback-aiml.Memory,hafıza
+tr-tr,fallback-aiml.Memory,akıl
+tr-tr,fallback-aiml.Memory,her şey
+tr-tr,fallback-aiml.Reset,unut
+tr-tr,fallback-aiml.Reset,sıfırla
+tr-tr,krunner-search-skill.CalculateKeyword,hesapla
+tr-tr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,bu bilgisayarda ara
+tr-tr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,bunu ara
+tr-tr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,arama bilgisayarı
+tr-tr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,dosya ara
+tr-tr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,dosya ara
+tr-tr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,dosya adını ara
+tr-tr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,bilgisayarda ara
+tr-tr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,sistemi ara
+tr-tr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,sistem
+tr-tr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,sistem araması
+tr-tr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,sistem arama dosyası
+tr-tr,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,dosyayı bul
+tr-tr,krunner-search-skill.RecentFileKeyword,son görüntüleme
+tr-tr,krunner-search-skill.RecentFileKeyword,son dosyaları göster
+tr-tr,krunner-search-skill.RecentFileKeyword,son belgeleri göster
+tr-tr,krunner-search-skill.RecentFileKeyword,son belgeler
+tr-tr,krunner-search-skill.RecentFileKeyword,son dosyalar
+tr-tr,plasma-activities-skill.ActivitiesCreateKeyword,yeni bir etkinlik oluştur
+tr-tr,plasma-activities-skill.ActivitiesCreateKeyword,yeni etkinlik oluştur
+tr-tr,plasma-activities-skill.ActivitiesCreateKeyword,etkinlik oluştur
+tr-tr,plasma-activities-skill.ActivitiesCreateKeyword,yeni bir faaliyet başlatmak
+tr-tr,plasma-activities-skill.ActivitiesCreateKeyword,yeni etkinlikler oluştur
+tr-tr,plasma-activities-skill.ActivitiesCreateKeyword,yeni faaliyetlere başla
+tr-tr,plasma-activities-skill.ActivitiesCreateKeyword,etkinlik oluştur
+tr-tr,plasma-activities-skill.ActivitiesCreateKeyword,yeni aktivite
+tr-tr,plasma-activities-skill.ActivitiesCreateKeyword,yeni aktiviteler
+tr-tr,plasma-activities-skill.ActivitiesRemoveKeyword,etkinliği kaldır
+tr-tr,plasma-activities-skill.ActivitiesRemoveKeyword,etkinliği kaldır
+tr-tr,plasma-activities-skill.ActivitiesRemoveKeyword,etkinliği sil
+tr-tr,plasma-activities-skill.ActivitiesRemoveKeyword,etkinliği sil
+tr-tr,plasma-activities-skill.ActivitiesShowKeyword,mevcut etkinlikleri göster
+tr-tr,plasma-activities-skill.ActivitiesShowKeyword,etkinlikleri göster
+tr-tr,plasma-activities-skill.ActivitiesShowKeyword,etkinlikler
+tr-tr,plasma-activities-skill.ActivitiesShowKeyword,mevcut etkinlikleri göster
+tr-tr,plasma-activities-skill.ActivitiesShowKeyword,etkinlikleri görüntüleme
+tr-tr,plasma-activities-skill.ActivitiesStopKeyword,mevcut etkinliği iptal et
+tr-tr,plasma-activities-skill.ActivitiesStopKeyword,etkinliği öldür
+tr-tr,plasma-activities-skill.ActivitiesSwitchKeyword,mevcut etkinliği değiştir
+tr-tr,plasma-activities-skill.ActivitiesSwitchKeyword,faaliyete geç
+tr-tr,plasma-activities-skill.ActivitiesSwitchKeyword,faaliyete geç
+tr-tr,speedtest-skill.Run,çalıştır
+tr-tr,speedtest-skill.Speedtest,hız testi
+tr-tr,speedtest-skill.Speedtest,hız testi
+tr-tr,white-house-adventure.Delete,sil
+tr-tr,white-house-adventure.Play,oyna
+tr-tr,white-house-adventure.Play,git
+tr-tr,white-house-adventure.Play,git
+tr-tr,white-house-adventure.Save,kaydet
+tr-tr,white-house-adventure.Save,oyunu kaydet
+tr-tr,white-house-adventure.Save,kaydedildi
+tr-tr,white-house-adventure.Zork,zork
+tr-tr,white-house-adventure.Zork,posta kutusu
+tr-tr,white-house-adventure.Zork,Beyaz Saray

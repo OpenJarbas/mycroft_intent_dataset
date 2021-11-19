@@ -1,0 +1,79 @@
+el-gr,Crystal-Ball-Mycroft-Skill.CrystalBall,Γυάλινη Σφαίρα
+el-gr,Crystal-Ball-Mycroft-Skill.CrystalBall,Καθρέφτη καθρεφτάκι μου
+el-gr,Crystal-Ball-Mycroft-Skill.Future,μέλλον
+el-gr,Crystal-Ball-Mycroft-Skill.Future,αύριο
+el-gr,Crystal-Ball-Mycroft-Skill.Query,Πες μου
+el-gr,Crystal-Ball-Mycroft-Skill.Query,Τι
+el-gr,cocktail.Again,ξανά
+el-gr,cocktail.Ingredients,συστατικό
+el-gr,cocktail.Ingredients,συστατικά
+el-gr,cocktail.TellMe,ποια είναι τα
+el-gr,cocktail.TellMe,πες μου
+el-gr,cocktail.What,ποιο ήταν
+el-gr,cocktail.What,ποια ήταν
+el-gr,laugh.Laugh,γέλιο
+el-gr,laugh.Laugh,γελάω
+el-gr,laugh.Laugh,γέλια
+el-gr,laugh.Laugh,γέλιο
+el-gr,laugh.Stop,ακύρωσε
+el-gr,laugh.Stop,ακύρωσε
+el-gr,laugh.Stop,σταμάτα
+el-gr,lifx-mycroft.Brightness,φωτεινότητα
+el-gr,lifx-mycroft.Brightness,φωτοβολία
+el-gr,lifx-mycroft.Decrease,σκοτείνιασε
+el-gr,lifx-mycroft.Decrease,άμβλυνε
+el-gr,lifx-mycroft.Decrease,ξεθώριασε
+el-gr,lifx-mycroft.Decrease,χαμήλωσε
+el-gr,lifx-mycroft.Decrease,μαύρισε
+el-gr,lifx-mycroft.Decrease,μείωσε
+el-gr,lifx-mycroft.Decrease,κάτω
+el-gr,lifx-mycroft.Increase,φώτισε
+el-gr,lifx-mycroft.Increase,φώτισε
+el-gr,lifx-mycroft.Increase,φώτισε
+el-gr,lifx-mycroft.Increase,ενέτεινε
+el-gr,lifx-mycroft.Increase,αύξησε
+el-gr,lifx-mycroft.Increase,πάνω
+el-gr,lifx-mycroft.Off,κλειστό
+el-gr,lifx-mycroft.Off,απενεργοποίησε
+el-gr,lifx-mycroft.On,ανοιχτό
+el-gr,lifx-mycroft.On,ενεργοποίησε
+el-gr,lifx-mycroft.Saturation,κορεσμός
+el-gr,lifx-mycroft.Saturation,ένταση
+el-gr,lifx-mycroft.Temperature,θερμοκρασία
+el-gr,lifx-mycroft.Temperature,ζεστασιά
+el-gr,lifx-mycroft.Temperature,θερμοκρασία χρώματος
+el-gr,lifx-mycroft.Temperature,κέλβιν
+el-gr,lifx-mycroft.Temperature,θερμοκρασία χρώματος
+el-gr,lifx-mycroft.Turn,γύρνα
+el-gr,lifx-mycroft.Turn,όρισε
+el-gr,lifx-mycroft.Turn,άλλαξε
+el-gr,lifx-mycroft.Turn,εναλλαγή
+el-gr,lifx-mycroft.Turn,διακόπτης
+el-gr,lifx-mycroft.Turn,κάνε
+el-gr,list-manager-skill.add,πρόσθεσε
+el-gr,list-manager-skill.add,δημιούργησε
+el-gr,list-manager-skill.del,αφαίρεσε
+el-gr,list-manager-skill.list,λίστα
+el-gr,list-manager-skill.list,λίστες
+el-gr,list-manager-skill.what,ποια
+el-gr,list-manager-skill.what,τι
+el-gr,remember-skill.All,Όλα
+el-gr,remember-skill.Did,έκανα
+el-gr,remember-skill.Forget,ξέχνα
+el-gr,remember-skill.Phrase,φράση
+el-gr,remember-skill.Phrase,φράσεις
+el-gr,remember-skill.Remember,θυμήσου
+el-gr,remember-skill.You,εσύ
+el-gr,speedtest-skill.Run,τρέξε
+el-gr,speedtest-skill.Speedtest,δοκιμή ταχύτητας
+el-gr,speedtest-skill.Speedtest,δοκιμή ταχύτητας
+el-gr,white-house-adventure.Delete,διαγραφή
+el-gr,white-house-adventure.Play,παίζω
+el-gr,white-house-adventure.Play,πήγαινε
+el-gr,white-house-adventure.Play,πήγαινε στο
+el-gr,white-house-adventure.Save,αποθήκευση
+el-gr,white-house-adventure.Save,αποθηκευμένο παιχνίδι
+el-gr,white-house-adventure.Save,αποθηκεύτηκε
+el-gr,white-house-adventure.Zork,ζορκ
+el-gr,white-house-adventure.Zork,ταχυδρομείο
+el-gr,white-house-adventure.Zork,λευκός οίκος

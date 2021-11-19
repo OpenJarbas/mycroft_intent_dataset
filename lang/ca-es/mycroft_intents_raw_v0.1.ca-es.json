@@ -1,0 +1,135 @@
+{
+  "ca-es": {
+    "cocktail.Needed": [
+      "qu\u00e8 (es necessita|cal|\u00e9s necessari) (per|per a) fer (un|una) {drink}",
+      "qu\u00e8 (necessito|necessites|necessitem|em cal|et cal|ens cal) (per fer|per|per a|per a fer) (un|una) {drink}",
+      "(quin \u00e9s l'ingredient|quins s\u00f3n els ingredients) (d'|per fer |per a fer )(un|una) {drink}"
+    ],
+    "cocktail.Recipie": [
+      "com es (barrejaria|barreja) (un|una) {drink}",
+      "digues- (me|nos) com (fer|barrejar|preparar) (un|una) {drink}",
+      "dona('m|'ns) instruccions per (un|una) {drink}",
+      "com (fer|barrejar) (un|una) {drink}",
+      "qual \u00e9s la recepta de (un|una) {drink}"
+    ],
+    "ddg.birthdate": [
+      "quan va n\u00e9ixer {person}",
+      "quan va n\u00e0ixer {person}",
+      "(quan|quin) \u00e9s l'aniversari (de |d'){person}",
+      "quina \u00e9s la data de naixement (de |d'){person}"
+    ],
+    "ddg.search_duck": [
+      "(cerca|busca|consulta|demana) a (duck duck go|ddg|de de ge|l'\u00e0nec) {query}",
+      "(cerca|busca|consulta|demana) {query} a (duck duck go|ddg|de de ge|l'\u00e0nec)",
+      "(cercar|buscar|consultar|demanar) a (duck duck go|ddg|de de ge|l'\u00e0nec) {query}",
+      "(cercar|buscar|consultar|demanar) {query} a (duck duck go|ddg|de de ge|l'\u00e0nec)",
+      "qu\u00e8 diu (duck duck go|ddg|de de ge|l'\u00e0nec) (sobre|de) {query}",
+      "qu\u00e8 posa a (duck duck go|ddg|de de ge|l'\u00e0nec) (sobre|de) {query}"
+    ],
+    "ddg.who": [
+      "qui \u00e9s {person}"
+    ],
+    "email-skill.check.email": [
+      "revisa el correu electronic",
+      "comprova el meu correu",
+      "tinc algun correu nou",
+      "tinc cap correu",
+      "tinc cap correu electronic nou"
+    ],
+    "email-skill.enquire.email": [
+      "Tinc un correu de {email}",
+      "He rebut (qualsevol | ) correu de {email}",
+      "He rebut correus de {email}"
+    ],
+    "email-skill.notify": [
+      "digues-me si tinc (correu | correu electr\u00f2nic | nou correu | correu electr\u00f2nic)",
+      "digues-me quan tingui (correu | correu electr\u00f2nic | nou correu | correu electr\u00f2nic)",
+      "digues-me quan rebi (un correu | un correu electr\u00f2nic | un correu electr\u00f2nic) (de) {sender}",
+      "avisa'm de (correu | correu electr\u00f2nic) (de) {sender}",
+      "notifica'm de (correu | correu electr\u00f2nic | correu nou | correu electr\u00f2nic nou)",
+      "notifica'm de (correu | correu electr\u00f2nic | correu nou | correu electr\u00f2nic nou) (de) {sender}",
+      "notifica'm quan rebi (correu | correu electr\u00f2nic | correu nou | correu electr\u00f2nic nou)",
+      "notifica'm quan rebi (un correu | un correu electr\u00f2nic | correu electr\u00f2nic) (de) {sender}"
+    ],
+    "email-skill.stop": [
+      "no em notifiquis si tinc (correu|correu electr\u00f2nic|correu nou|correu electr\u00f2nic nou)",
+      "no em notifiquis si tinc (correu | correu electr\u00f2nic | correu nou | correu electr\u00f2nic nou) (de) {sender}",
+      "no em notifiquis m\u00e9s si tinc (correu | correu electr\u00f2nic | correu nou | correu electr\u00f2nic nou)",
+      "no em notifiquis m\u00e9s si tinc (correu | correu electr\u00f2nic | correu nou | correu electr\u00f2nic nou) (de) {sender}",
+      "no m'avisis si tinc (correu | correu electr\u00f2nic | correu nou | correu electr\u00f2nic nou)",
+      "no m'avisis si tinc (correu | correu electr\u00f2nic | correu nou | correu electr\u00f2nic nou) (de) {sender}",
+      "no m'avisis m\u00e9s si tinc (correu | correu electr\u00f2nic | correu nou | correu electr\u00f2nic nou)",
+      "no m'avisis m\u00e9s si tinc (correu | correu electr\u00f2nic | correu nou | correu electr\u00f2nic nou) (de) {sender}"
+    ],
+    "emby-skill.diagnostic": [
+      "comprovant la connexi\u00f3 (emby|mb|mv|nv|emily) ",
+      "Executa el diagn\u00f2stic (emby|mb|mv|nv|emily)",
+      "comprova (emby|mb|mv|nv|emily)"
+    ],
+    "emby-skill.emby": [
+      "reprodueix {media} des d'emby",
+      "reprodueix {media} des de mb",
+      "Posa l'artista {artist} a l'emby",
+      "posa l'artista {artist} a mb",
+      "posa l'album {album} a l'emby",
+      "posa l'album {album} a mb"
+    ],
+    "icanhazdadjokes.joke": [
+      "(conta|diga|digue|explica)'m (alguna|una) broma",
+      "(conta|diga|digue|explica) (alguna|una) broma",
+      "(conta|diga|digue|explica)'m (algun|un) acudit",
+      "(conta|diga|digue|explica) (algun|un) acudit",
+      "digues-me (alguna|una) broma",
+      "digues (alguna|una) broma",
+      "digues-me (algun|un) acudit",
+      "digues (algun|un) acudit",
+      "(m'expliques|coneixes|saps) (cap|alguna) broma",
+      "(m'expliques|coneixes|saps) (cap|algun) acudit",
+      "pots dir-me (alguna|una) broma",
+      "pots dir-me (algun|un) acudit",
+      "fes-me riure"
+    ],
+    "icanhazdadjokes.search_joke": [
+      "(diga|digue|conta|explica)'m (alguna|una) broma (de|sobre) {search}",
+      "(diga|digue|conta|explica)'m (algun|un) acudit (de|sobre) {search}",
+      "saps (cap|alguna) broma (de|sobre) {search}",
+      "saps (cap|algun) acudit (de|sobre) {search}",
+      "em pots (dir|contar|explicar) (bromes|acudits) (de|sobre) {search}",
+      "pots (dir|contar|explicar)-me (bromes|acudits) (de|sobre) {search}",
+      "(broma|acudit) (de|sobre) {search}",
+      "(una|alguna) broma (de|sobre) {search}",
+      "(un|algun) acudit (de|sobre) {search}",
+      "saps (bromes|acudits) (sobre|de) {search}"
+    ],
+    "wikipedia-for-humans.wiki": [
+      "(wiki|wikipedia|viqui|viquip\u00e8dia) {query}",
+      "explica(|'m|ns) sobre {query}",
+      "qu\u00e8 diu la (wiki|wikipedia|viqui|viquip\u00e8dia) sobre {query}",
+      "qu\u00e8 hi diu la (wiki|wikipedia|viqui|viquip\u00e8dia) sobre {query}",
+      "qu\u00e8 posa a la (wiki|wikipedia|viqui|viquip\u00e8dia) sobre {query}",
+      "qu\u00e8 hi ha a la (wiki|wikipedia|viqui|viquip\u00e8dia) sobre {query}",
+      "qu\u00e8 hi posa a la (wiki|wikipedia|viqui|viquip\u00e8dia) sobre {query}",
+      "(cerca|busca) a la (wiki|wikipedia|viqui|viquip\u00e8dia) (sobre|) {query}"
+    ],
+    "wikipedia-for-humans.wikiroulette": [
+      "(wiki|wikipedia|viqui|viquip\u00e8dia) ruleta",
+      "ruleta (wiki|wikipedia|viqui|viquip\u00e8dia)",
+      "(jugar|juga|juguem) a la (wiki|wikipedia) ruleta",
+      "(p\u00e0gina|article) (wiki|wikipedia|viqui|viquip\u00e8dia) (aleat\u00f2ria|aleatori|a l'atzar)",
+      "(p\u00e0gina|article) (aleat\u00f2ria|aleatori|a l'atzar) de la (wiki|wikipedia|viqui|viquip\u00e8dia)",
+      "(p\u00e0gina|article) (aleat\u00f2ria|aleatori|a l'atzar) (wiki|wikipedia|viqui|viquip\u00e8dia) ",
+      "(wiki|wikipedia|viqui|viquip\u00e8dia) (aleat\u00f2ria|aleatori|a l'atzar)",
+      "(mostra|obre|veure|mostrar|obrir) (wiki|wikipedia) (aleat\u00f2ria|aleatori|a l'atzar)",
+      "(mostra|obre|veure|mostrar|obrir) (p\u00e0gina|article) (wiki|wikipedia) (aleat\u00f2ria|aleatori|a l'atzar)",
+      "(mostra|obre|veure|mostrar|obrir) (una|un) (p\u00e0gina|article) (wiki|wikipedia) (aleat\u00f2ria|aleatori|a l'atzar)"
+    ],
+    "wolfie.search_wolfie": [
+      "(cerca|busca|consulta|demana) a (volfram alfa|wolfram alpha|al llop|el llop) {query}",
+      "(cerca|busca|consulta|demana) {query} a (volfram alfa|wolfram alpha|al llop|el llop)",
+      "(cercar|buscar|consultar|demanar) a (volfram alfa|wolfram alpha|al llop|el llop) {query}",
+      "(cercar|buscar|consultar|demanar) {query} a (volfram alfa|wolfram alpha|al llop|el llop)",
+      "qu\u00e8 diu (volfram alfa|wolfram alpha|el llop|al llop) (sobre|de) {query}",
+      "qu\u00e8 posa (a volfram alfa|a wolfram alpha|al llop|el llop) (sobre|de) {query}"
+    ]
+  }
+}

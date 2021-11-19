@@ -1,0 +1,1405 @@
+en-us,8fact.number_facts,how many facts do you know
+en-us,8fact.number_facts,how many facts do you have in your database
+en-us,8fact.number_facts,number of facts
+en-us,8fact.random_fact,random fact
+en-us,8fact.random_fact,teach me something
+en-us,8fact.random_fact,random curiosity
+en-us,8fact.source,where do you get your facts
+en-us,8fact.source,what is the source of your facts
+en-us,8fact.source,where do your random facts come from
+en-us,8fact.trustworthy,can your facts be trusted
+en-us,8fact.trustworthy,are your facts trustworthy
+en-us,8fact.trustworthy,can i trust your facts
+en-us,8fact.trustworthy,can i trust 8 fact
+en-us,Communication.neon.call,Call {{contact}}
+en-us,Communication.neon.call,Place a call to {{contact}}
+en-us,Communication.neon.call,Phone {{contact}}
+en-us,Communication.neon.call,Neon call {{contact}}
+en-us,Communication.neon.call,Neon place a call to {{contact}}
+en-us,Communication.neon.call,Neon phone {{contact}}
+en-us,Wiktionary-Skill.fallback.wiktionary.definition,what is the definition for {word}
+en-us,Wiktionary-Skill.fallback.wiktionary.definition,tell me the definition of {word}
+en-us,Wiktionary-Skill.fallback.wiktionary.definition,find the definition for {word}
+en-us,Wiktionary-Skill.fallback.wiktionary.definition,what is the definition of {word}
+en-us,Wiktionary-Skill.fallback.wiktionary.definition,tell me the definition for {word}
+en-us,alarm.alarm.status,what alarms do I have
+en-us,alarm.alarm.status,do i have any alarms
+en-us,alarm.alarm.status,do i have any alarms set
+en-us,alarm.alarm.status,status of alarms
+en-us,alarm.alarm.status,list alarms
+en-us,alarm.alarm.status,any active alarms
+en-us,alarm.delete,(cancel | remove | erase| delete) (my | the | ) {time} ({ampm}|) ({daytype}|) alarm.
+en-us,alarm.delete.all,(delete | remove | cancel | erase ) (all | all of | ) (the | my | ) alarms.
+en-us,alarm.set.recurring,(set|start) (a|an) alarm for {time} ({ampm}|) every {daytype}
+en-us,alarm.set.recurring,(set|start) (a|an) {time} ({ampm}|) alarm for every {daytype}
+en-us,alarm.set.recurring,(set|start) (a|an) recurring {time} ({ampm}|) alarm for {daytype}
+en-us,alarm.set.recurring,(set|start) (a|an) recurring alarm (for|on|at|) {time}({ampm}| {ampm}|) {daytype}
+en-us,alarm.set.recurring,(set|start) (a|an) alarm every {daytype} for {time} ({ampm}|)
+en-us,alarm.set.recurring,(set|start) (a|an) alarm for {time} {ampm} daily
+en-us,alarm.set.recurring,(set|start) (a|an) daily alarm for {time} {ampm}
+en-us,alarm.set.time,wake me up in {length}.
+en-us,alarm.set.time,wake me up in {length} from now.
+en-us,alarm.set.time,(set|start) (an|the) alarm for {length} from now.
+en-us,alarm.set.time,(set|start) (an|the) alarm {length} from now.
+en-us,alarm.set.time,(set|start) alarm for {length} from now.
+en-us,alarm.set.time,(set|start) (an|a) alarm for {time} ({ampm}|) (this|) ({daytype}|)
+en-us,alarm.set.time,(set|start) an alarm (for|on|) {daytype} {time} ({ampm}|)
+en-us,alarm.set.time,(set|start) (a|an) {daytype} alarm for {time} ({ampm}|)
+en-us,alarm.set.time,(set|start) (a|an) {daytype} alarm at {time} ({ampm}|)
+en-us,alarm.set.time,(set|start) (a|an) {daytype} alarm on {time} ({ampm}|)
+en-us,alarm.set.time,(set|start) an alarm for {time} {ampm}
+en-us,alarm.set.time,(set|start) an alarm for {time} {ampm} {daytype}
+en-us,alarm.set.time,(set|start) an alarm for {time} {ampm} this {daytype}
+en-us,alarm.set.time,(set|start) an alarm for {time} 
+en-us,alarm.set.time,(set|start) an alarm for {time} {daytype}
+en-us,alarm.set.time,(set|start) an alarm for {time} this {daytype}
+en-us,alarm.set.time,(set|start) (a|an|) {time} alarm
+en-us,alarm.set.time,(set|start) (a|an|) {time} {ampm} alarm
+en-us,alarm.set.time.24hr,wake me up (at {time}| for {time}| ) every {daytype} (at {time}| for {time}| ) (called {label} | ).
+en-us,alarm.set.time.24hr,(set | create | make) an alarm (clock | ) (at {time}| for {time}| ) every {daytype} (at {time}| for {time}| )  (called {label} | ).
+en-us,alarm.set.time.24hr,(set | create | make) an alarm (clock | ) (at {time}| for {time}| )   on (the|)  {daytype}.
+en-us,alarm.set.time.24hr,(set | create | make) an alarm (clock | ) (at {time}| for {time}| )  ({daytype}|) 
+en-us,alarm.set.time.24hr,wake me up in {length}.
+en-us,alarm.set.time.24hr,wake me up in {length} from now.
+en-us,alarm.stop,stop alarm.
+en-us,alarm.stop,turn off alarm.
+en-us,alarm.stop,kill the alarm.
+en-us,alarm.stop,disable the alarm.
+en-us,alarm.stop,cancel the alarm.
+en-us,alarm.stop,I got it.
+en-us,alarm.stop,that's enough!
+en-us,alarm.stop,shut up!
+en-us,algorithmic-art.ShowImage,draw a picture
+en-us,algorithmic-art.ShowImage,paint a picture
+en-us,algorithmic-art.ShowImage,create a picture
+en-us,algorithmic-art.ShowImage,draw a painting
+en-us,algorithmic-art.ShowImage,paint a painting
+en-us,algorithmic-art.ShowImage,create a painting
+en-us,apod.apod,astronomy picture of the day
+en-us,apod.apod,today astronomy picture
+en-us,apod.apod,astronomy picture of today
+en-us,apod.apod,apod
+en-us,asteroid-tracker.asteroids,(show|plot|display) (asteroid orbits|asteroids|all asteroids)
+en-us,auto-volume-skill.activate,Activate auto volume
+en-us,auto-volume-skill.activate,Set auto volume to active
+en-us,auto-volume-skill.activate,Turn on auto volume
+en-us,auto-volume-skill.activate,Set auto volume (to) on
+en-us,auto-volume-skill.deactivate,Deactivate auto volume
+en-us,auto-volume-skill.deactivate,Set auto volume to inactive
+en-us,auto-volume-skill.deactivate,Turn off auto volume
+en-us,auto-volume-skill.deactivate,Set auto volume (to) off
+en-us,auto-volume-skill.reset,Clear auto volume measurements
+en-us,auto-volume-skill.reset,Delete auto volume measurements
+en-us,auto-volume-skill.reset,Reset auto volume measurements
+en-us,bark-skill.bark,Bark
+en-us,bark-skill.bark,What does a dog say
+en-us,bark-skill.bark,Look at that cat
+en-us,bark-skill.bark,Mailman is here
+en-us,better-stop.stop,stop
+en-us,better-stop.stop,stop doing that
+en-us,better-stop.stop,stop that
+en-us,bitchute-skill.bitchute,bitchute {videoname}
+en-us,bitchute-skill.bitchute,show video of {videoname} on bitchute
+en-us,bitchute-skill.bitchute,bitchute the song {videoname}
+en-us,bitchute-skill.bitchute,bitchute the artist {videoname}
+en-us,bitchute-skill.bitchute-repeat,bitchute replay
+en-us,bitchute-skill.bitchute-repeat,bitchute repeat
+en-us,bitchute-skill.bitchute-repeat,bitchute replay last video
+en-us,bitchute-skill.bitchute-repeat,bitchute repeat last video
+en-us,bitchute-skill.bitchute-repeat,bitchute last video
+en-us,bitchute-skill.bitchute-repeat,bitchute last video
+en-us,blue-marble.about,tell me about (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery)
+en-us,blue-marble.about,what is (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery)
+en-us,blue-marble.about,(talk|tell me) about (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery)
+en-us,blue-marble.about,Earth Polychromatic Imaging Camera
+en-us,blue-marble.about,about (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery)
+en-us,blue-marble.earth_from_space,show me earth from space
+en-us,blue-marble.earth_from_space,show earth
+en-us,blue-marble.earth_from_space,display earth from space
+en-us,blue-marble.earth_from_space,display a picture of earth
+en-us,blue-marble.earth_from_space,earth from space
+en-us,blue-marble.earth_from_space,display a picture of earth from space
+en-us,blue-marble.earth_from_space,daily blue marble
+en-us,blue-marble.earth_from_space,blue marble of the day
+en-us,blue-marble.epic_website,open the epic website from nasa
+en-us,blue-marble.epic_website,open the nasa website for epic
+en-us,blue-marble.epic_website,nasa epic website
+en-us,blue-marble.epic_website,open website for Earth Polychromatic Imaging Camera
+en-us,blue-marble.epic_website,website for Earth Polychromatic Imaging Camera
+en-us,blue-marble.epic_website,open Earth Polychromatic Imaging Camera website
+en-us,blue-marble.location,where is (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery) spacecraft
+en-us,blue-marble.location,where is (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery) spacecraft located
+en-us,blue-marble.location,where is the (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery)
+en-us,blue-marble.location,what is the location of (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery)
+en-us,ccc.home,(show|open|display|show me) (ccc|c c c|cult movie classics) (homescreen|home screen|screen)
+en-us,ccc.home,(show|open|display|show me) (ccc|c c c|cult movie classics)
+en-us,ccc.home,(show|open|display|show me) (ccc|c c c|cult movie classics) (menu|screen)
+en-us,ccc.home,(ccc|c c c|cult movie classics) (menu|screen)
+en-us,chandra-xray.about,about chandra x ray observatory picture
+en-us,chandra-xray.about,about x ray observatory
+en-us,chandra-xray.about,talk about Earth  chandra x ray observatory
+en-us,chandra-xray.about,what is chandra x ray
+en-us,chandra-xray.about,tell me about nasa x ray telescope
+en-us,chandra-xray.about,talk about x ray telescope
+en-us,chandra-xray.about,tell me about chandra x ray observatory
+en-us,chandra-xray.about,what is nasa x ray observatory
+en-us,chandra-xray.chandra_website,open the chandra website from nasa
+en-us,chandra-xray.chandra_website,open the nasa website for chandra
+en-us,chandra-xray.chandra_website,nasa chandra website
+en-us,chandra-xray.chandra_website,open website for chandra x ray observatory
+en-us,chandra-xray.chandra_website,website for chandra x ray observatory
+en-us,chandra-xray.chandra_website,open chandra x ray observatory website
+en-us,chandra-xray.chandraxray,chandra x ray observatory picture
+en-us,chandra-xray.chandraxray,x ray observatory picture
+en-us,chandra-xray.chandraxray,picture from chandra x ray observatory
+en-us,chandra-xray.chandraxray,picture from chandra x ray
+en-us,chandra-xray.chandraxray,nasa x ray telescope picture
+en-us,chandra-xray.chandraxray,picture from x ray telescope
+en-us,chandra-xray.chandraxray,picture from x ray observatory
+en-us,chandra-xray.chandraxray,nasa x ray observatory picture
+en-us,chandra-xray.chandraxray,latest nasa x ray observatory picture
+en-us,chandra-xray.chandraxray,random nasa x ray observatory picture
+en-us,chandra-xray.chandraxray,new chandra x ray observatory picture
+en-us,chandra-xray.chandraxray,random chandra x ray observatory picture
+en-us,classic-scifi-horror.home,(show|open|display|show me) (scifi|sci fi) horror (homescreen|home screen|screen)
+en-us,classic-scifi-horror.home,(show|open|display|show me) (scifi|sci fi) horror
+en-us,classic-scifi-horror.home,(show|open|display|show me) (scifi|sci fi) horror (menu|screen)
+en-us,classic-scifi-horror.home,(scifi|sci fi) horror (films|film|movie|movies) (menu|screen)
+en-us,classic-scifi-horror.home,(scifi|sci fi) horror (menu|screen)
+en-us,cocktail.Needed,what is needed to make (a|an) {drink}
+en-us,cocktail.Needed,what do (i|you) need (for|to make) (a|an) {drink}
+en-us,cocktail.Needed,what are the (ingredients|ingredient) (of|for) (a|an) {drink}
+en-us,cocktail.Random,what should (i|we) (make to|) drink
+en-us,cocktail.Random,(it's|it is) happy hour (somewhere)
+en-us,cocktail.Random,suggest a (random|) (cocktail|drink)
+en-us,cocktail.Random,suggest something to drink
+en-us,cocktail.Random,give me a random cocktail
+en-us,cocktail.Random,i (want|would like) a random cocktail
+en-us,cocktail.Random,give me a random (drink|cocktail)
+en-us,cocktail.Recipe,how (would|do) (i|you) (make|mix) (a|an) {drink}
+en-us,cocktail.Recipe,tell (me|us) how to (make|mix) (a|an) {drink}
+en-us,cocktail.Recipe,give (me|us) instructions for (a|an) {drink}
+en-us,cocktail.Recipe,how to (make|mix) (a|an) {drink}
+en-us,cocktail.Recipe,what is the recipe for (a|an) {drink}
+en-us,confucius-quotes.who,who is confucius
+en-us,confucius-quotes.who,who was confucius
+en-us,count-skill.count,Count to {number}
+en-us,count-skill.countdown,Countdown from {number}
+en-us,count-skill.countdown,Count down from {number}
+en-us,count-skill.countdown,Count backwards from {number}
+en-us,count-skill.countdown,Count back wards from {number}
+en-us,count-skill.countdown,Count back from {number}
+en-us,count-skill.countdown,From {number} count down
+en-us,count-skill.countdown,From {number} count backwards
+en-us,countries.country_area,what is the area of {country}
+en-us,countries.country_area,what is the size of {country}
+en-us,countries.country_area,do you know what is the area of {country}
+en-us,countries.country_area,do you know what is the size of {country}
+en-us,countries.country_area,tell me the area of {country}
+en-us,countries.country_area,tell me the size of {country}
+en-us,countries.country_area,tell me what is the area of {country}
+en-us,countries.country_area,tell me what is the size of {country}
+en-us,countries.country_borders,what countries make border with {country}
+en-us,countries.country_borders,what is the border of {country}
+en-us,countries.country_borders,what are the borders of {country}
+en-us,countries.country_borders,do you know the borders of {country}
+en-us,countries.country_borders,tell me the borders of {country}
+en-us,countries.country_capital,what is the capital of {country}
+en-us,countries.country_capital,tell me the capital of {country}
+en-us,countries.country_capital,do you know the capital of {country}
+en-us,countries.country_capital,guess the capital of {country}
+en-us,countries.country_currency,what coin do they use in {country}
+en-us,countries.country_currency,what is the coin in {country}
+en-us,countries.country_currency,official coin in {country}
+en-us,countries.country_currency,what currency do they use in {country}
+en-us,countries.country_currency,what is the currency in {country}
+en-us,countries.country_currency,official currency in {country}
+en-us,countries.country_currency,what coins do they use in {country}
+en-us,countries.country_currency,what is the coins in {country}
+en-us,countries.country_currency,official coins in {country}
+en-us,countries.country_currency,what coin do they use at {country}
+en-us,countries.country_currency,what is the coin at {country}
+en-us,countries.country_currency,official coin at {country}
+en-us,countries.country_currency,what currency do they use at {country}
+en-us,countries.country_currency,what is the currency at {country}
+en-us,countries.country_currency,official currency at {country}
+en-us,countries.country_currency,what coins do they use at {country}
+en-us,countries.country_currency,what is the coins at {country}
+en-us,countries.country_currency,official coins at {country}
+en-us,countries.country_currency,what coin do they use on {country}
+en-us,countries.country_currency,what is the coin on {country}
+en-us,countries.country_currency,official coin on {country}
+en-us,countries.country_currency,what currency do they use on {country}
+en-us,countries.country_currency,what is the currency on {country}
+en-us,countries.country_currency,official currency on {country}
+en-us,countries.country_currency,what coins do they use on {country}
+en-us,countries.country_currency,what is the coins on {country}
+en-us,countries.country_currency,official coins on {country}
+en-us,countries.country_currency,what coin do they use of {country}
+en-us,countries.country_currency,what is the coin of {country}
+en-us,countries.country_currency,official coin of {country}
+en-us,countries.country_currency,what currency do they use of {country}
+en-us,countries.country_currency,what is the currency of {country}
+en-us,countries.country_currency,official currency of {country}
+en-us,countries.country_currency,what coins do they use of {country}
+en-us,countries.country_currency,what is the coins of {country}
+en-us,countries.country_currency,official coins of {country}
+en-us,countries.country_in_region,what country in {region}
+en-us,countries.country_in_region,what country can i find  in {region}
+en-us,countries.country_in_region,what are the country in {region}
+en-us,countries.country_in_region,which country does {region} have
+en-us,countries.country_in_region,which country in {region}
+en-us,countries.country_in_region,what countries in {region}
+en-us,countries.country_in_region,what countries can i find  in {region}
+en-us,countries.country_in_region,what are the countries in {region}
+en-us,countries.country_in_region,which countries does {region} have
+en-us,countries.country_in_region,which countries in {region}
+en-us,countries.country_in_region,what country at {region}
+en-us,countries.country_in_region,what country can i find  at {region}
+en-us,countries.country_in_region,what are the country at {region}
+en-us,countries.country_in_region,which country does {region} have
+en-us,countries.country_in_region,which country at {region}
+en-us,countries.country_in_region,what countries at {region}
+en-us,countries.country_in_region,what countries can i find  at {region}
+en-us,countries.country_in_region,what are the countries at {region}
+en-us,countries.country_in_region,which countries does {region} have
+en-us,countries.country_in_region,which countries at {region}
+en-us,countries.country_in_region,what country on {region}
+en-us,countries.country_in_region,what country can i find  on {region}
+en-us,countries.country_in_region,what are the country on {region}
+en-us,countries.country_in_region,which country does {region} have
+en-us,countries.country_in_region,which country on {region}
+en-us,countries.country_in_region,what countries on {region}
+en-us,countries.country_in_region,what countries can i find  on {region}
+en-us,countries.country_in_region,what are the countries on {region}
+en-us,countries.country_in_region,which countries does {region} have
+en-us,countries.country_in_region,which countries on {region}
+en-us,countries.country_in_region,what country of {region}
+en-us,countries.country_in_region,what country can i find  of {region}
+en-us,countries.country_in_region,what are the country of {region}
+en-us,countries.country_in_region,which country does {region} have
+en-us,countries.country_in_region,which country of {region}
+en-us,countries.country_in_region,what countries of {region}
+en-us,countries.country_in_region,what countries can i find  of {region}
+en-us,countries.country_in_region,what are the countries of {region}
+en-us,countries.country_in_region,which countries does {region} have
+en-us,countries.country_in_region,which countries of {region}
+en-us,countries.country_languages,what language do they speak in {country}
+en-us,countries.country_languages,what language is spoken in {country}
+en-us,countries.country_languages,what is the official language in {country}
+en-us,countries.country_languages,what languages do they speak in {country}
+en-us,countries.country_languages,what languages is spoken in {country}
+en-us,countries.country_languages,what is the official languages in {country}
+en-us,countries.country_languages,what language do they speak at {country}
+en-us,countries.country_languages,what language is spoken at {country}
+en-us,countries.country_languages,what is the official language at {country}
+en-us,countries.country_languages,what languages do they speak at {country}
+en-us,countries.country_languages,what languages is spoken at {country}
+en-us,countries.country_languages,what is the official languages at {country}
+en-us,countries.country_languages,what language do they speak on {country}
+en-us,countries.country_languages,what language is spoken on {country}
+en-us,countries.country_languages,what is the official language on {country}
+en-us,countries.country_languages,what languages do they speak on {country}
+en-us,countries.country_languages,what languages is spoken on {country}
+en-us,countries.country_languages,what is the official languages on {country}
+en-us,countries.country_languages,what language do they speak of {country}
+en-us,countries.country_languages,what language is spoken of {country}
+en-us,countries.country_languages,what is the official language of {country}
+en-us,countries.country_languages,what languages do they speak of {country}
+en-us,countries.country_languages,what languages is spoken of {country}
+en-us,countries.country_languages,what is the official languages of {country}
+en-us,countries.country_num,how many countries do you know about
+en-us,countries.country_num,how many countries do you have data on
+en-us,countries.country_num,how many countries do you have data about
+en-us,countries.country_num,how many countries can you tell me about
+en-us,countries.country_num,how many countries do you know about
+en-us,countries.country_num,how many countries do you have data on
+en-us,countries.country_num,how many countries do you have data about
+en-us,countries.country_num,how many countries can you tell me about
+en-us,countries.country_num,number of countries do you know about
+en-us,countries.country_num,number of countries do you have data on
+en-us,countries.country_num,number of countries do you have data about
+en-us,countries.country_num,number of countries can you tell me about
+en-us,countries.country_num,number of countries do you know about
+en-us,countries.country_num,number of countries do you have data on
+en-us,countries.country_num,number of countries do you have data about
+en-us,countries.country_num,number of countries can you tell me about
+en-us,countries.country_population,what is the population of {country}
+en-us,countries.country_population,how many people live in {country}
+en-us,countries.country_population,population number of {country}
+en-us,countries.country_population,tell me what is the population of {country}
+en-us,countries.country_population,tell me how many people live in {country}
+en-us,countries.country_population,tell me population number of {country}
+en-us,countries.country_population,do you know what is the population of {country}
+en-us,countries.country_population,do you know how many people live in {country}
+en-us,countries.country_population,do you know population number of {country}
+en-us,countries.country_region,where is {country} located at
+en-us,countries.country_region,where is {country}
+en-us,countries.country_region,tell me where {country} is
+en-us,countries.country_region,do you know where {country} is
+en-us,countries.country_region,location of {country}
+en-us,countries.country_region,where is country {country} at
+en-us,countries.country_region,in what region is {country}
+en-us,countries.country_region,region of {country}
+en-us,countries.country_timezones,what is the timezone in {country}
+en-us,countries.country_timezones,tell me the timezone in {country}
+en-us,countries.country_timezones,do you know timezone in {country}
+en-us,countries.country_timezones,what is the timezones in {country}
+en-us,countries.country_timezones,tell me the timezones in {country}
+en-us,countries.country_timezones,do you know timezones in {country}
+en-us,countries.country_timezones,what is the timezone on {country}
+en-us,countries.country_timezones,tell me the timezone on {country}
+en-us,countries.country_timezones,do you know timezone on {country}
+en-us,countries.country_timezones,what is the timezones on {country}
+en-us,countries.country_timezones,tell me the timezones on {country}
+en-us,countries.country_timezones,do you know timezones on {country}
+en-us,countries.country_timezones,what is the timezone at {country}
+en-us,countries.country_timezones,tell me the timezone at {country}
+en-us,countries.country_timezones,do you know timezone at {country}
+en-us,countries.country_timezones,what is the timezones at {country}
+en-us,countries.country_timezones,tell me the timezones at {country}
+en-us,countries.country_timezones,do you know timezones at {country}
+en-us,countries.country_timezones,what is the timezone of {country}
+en-us,countries.country_timezones,tell me the timezone of {country}
+en-us,countries.country_timezones,do you know timezone of {country}
+en-us,countries.country_timezones,what is the timezones of {country}
+en-us,countries.country_timezones,tell me the timezones of {country}
+en-us,countries.country_timezones,do you know timezones of {country}
+en-us,countries.denonym,call residents of {country}
+en-us,countries.denonym,call people that lives in {country}
+en-us,countries.denonym,call people who lives in {country}
+en-us,countries.denonym,call people born in {country}
+en-us,countries.denonym,call ( people | someone ) from {country}
+en-us,countries.denonym,people who lives in {country} called
+en-us,countries.denonym,what is people born in {country} called
+en-us,countries.denonym,what is people from {country} called
+en-us,countries.denonym,what are people born in {country} called
+en-us,countries.denonym,what are people from {country} called
+en-us,countries.denonym,how is people born in {country} called
+en-us,countries.denonym,how is people from {country} called
+en-us,countries.denonym,how are people born in {country} called
+en-us,countries.denonym,how are people from {country} called
+en-us,countries.denonym,call someone that lives in {country}
+en-us,countries.denonym,call someone who lives in {country}
+en-us,countries.denonym,call someone born in {country}
+en-us,countries.denonym,call ( people | someone ) from {country}
+en-us,countries.denonym,someone who lives in {country} called
+en-us,countries.denonym,what is someone born in {country} called
+en-us,countries.denonym,what is someone from {country} called
+en-us,countries.denonym,what are someone born in {country} called
+en-us,countries.denonym,what are someone from {country} called
+en-us,countries.denonym,how is someone born in {country} called
+en-us,countries.denonym,how is someone from {country} called
+en-us,countries.denonym,how are someone born in {country} called
+en-us,countries.denonym,how are someone from {country} called
+en-us,countries.denonym,call a person that lives in {country}
+en-us,countries.denonym,call a person who lives in {country}
+en-us,countries.denonym,call a person born in {country}
+en-us,countries.denonym,call ( people | someone ) from {country}
+en-us,countries.denonym,a person who lives in {country} called
+en-us,countries.denonym,what is a person born in {country} called
+en-us,countries.denonym,what is a person from {country} called
+en-us,countries.denonym,what are a person born in {country} called
+en-us,countries.denonym,what are a person from {country} called
+en-us,countries.denonym,how is a person born in {country} called
+en-us,countries.denonym,how is a person from {country} called
+en-us,countries.denonym,how are a person born in {country} called
+en-us,countries.denonym,how are a person from {country} called
+en-us,countries.denonym,call persons that live in {country}
+en-us,countries.denonym,call persons who live in {country}
+en-us,countries.denonym,call persons born in {country}
+en-us,countries.denonym,call ( people | someone ) from {country}
+en-us,countries.denonym,persons who live in {country} called
+en-us,countries.denonym,what is persons born in {country} called
+en-us,countries.denonym,what is persons from {country} called
+en-us,countries.denonym,what are persons born in {country} called
+en-us,countries.denonym,what are persons from {country} called
+en-us,countries.denonym,how is persons born in {country} called
+en-us,countries.denonym,how is persons from {country} called
+en-us,countries.denonym,how are persons born in {country} called
+en-us,countries.denonym,how are persons from {country} called
+en-us,countries.denonym,call people that lives on {country}
+en-us,countries.denonym,call people who lives on {country}
+en-us,countries.denonym,call people born on {country}
+en-us,countries.denonym,call ( people | someone ) from {country}
+en-us,countries.denonym,people who lives on {country} called
+en-us,countries.denonym,what is people born on {country} called
+en-us,countries.denonym,what is people from {country} called
+en-us,countries.denonym,what are people born on {country} called
+en-us,countries.denonym,what are people from {country} called
+en-us,countries.denonym,how is people born on {country} called
+en-us,countries.denonym,how is people from {country} called
+en-us,countries.denonym,how are people born on {country} called
+en-us,countries.denonym,how are people from {country} called
+en-us,countries.denonym,call someone that lives on {country}
+en-us,countries.denonym,call someone who lives on {country}
+en-us,countries.denonym,call someone born on {country}
+en-us,countries.denonym,call ( people | someone ) from {country}
+en-us,countries.denonym,someone who lives on {country} called
+en-us,countries.denonym,what is someone born on {country} called
+en-us,countries.denonym,what is someone from {country} called
+en-us,countries.denonym,what are someone born on {country} called
+en-us,countries.denonym,what are someone from {country} called
+en-us,countries.denonym,how is someone born on {country} called
+en-us,countries.denonym,how is someone from {country} called
+en-us,countries.denonym,how are someone born on {country} called
+en-us,countries.denonym,how are someone from {country} called
+en-us,countries.denonym,call a person that lives on {country}
+en-us,countries.denonym,call a person who lives on {country}
+en-us,countries.denonym,call a person born on {country}
+en-us,countries.denonym,call ( people | someone ) from {country}
+en-us,countries.denonym,a person who lives on {country} called
+en-us,countries.denonym,what is a person born on {country} called
+en-us,countries.denonym,what is a person from {country} called
+en-us,countries.denonym,what are a person born on {country} called
+en-us,countries.denonym,what are a person from {country} called
+en-us,countries.denonym,how is a person born on {country} called
+en-us,countries.denonym,how is a person from {country} called
+en-us,countries.denonym,how are a person born on {country} called
+en-us,countries.denonym,how are a person from {country} called
+en-us,countries.denonym,call persons that live on {country}
+en-us,countries.denonym,call persons who live on {country}
+en-us,countries.denonym,call persons born on {country}
+en-us,countries.denonym,call ( people | someone ) from {country}
+en-us,countries.denonym,persons who live on {country} called
+en-us,countries.denonym,what is persons born on {country} called
+en-us,countries.denonym,what is persons from {country} called
+en-us,countries.denonym,what are persons born on {country} called
+en-us,countries.denonym,what are persons from {country} called
+en-us,countries.denonym,how is persons born on {country} called
+en-us,countries.denonym,how is persons from {country} called
+en-us,countries.denonym,how are persons born on {country} called
+en-us,countries.denonym,how are persons from {country} called
+en-us,countries.denonym,call people that lives at {country}
+en-us,countries.denonym,call people who lives at {country}
+en-us,countries.denonym,call people born at {country}
+en-us,countries.denonym,call ( people | someone ) from {country}
+en-us,countries.denonym,people who lives at {country} called
+en-us,countries.denonym,what is people born at {country} called
+en-us,countries.denonym,what is people from {country} called
+en-us,countries.denonym,what are people born at {country} called
+en-us,countries.denonym,what are people from {country} called
+en-us,countries.denonym,how is people born at {country} called
+en-us,countries.denonym,how is people from {country} called
+en-us,countries.denonym,how are people born at {country} called
+en-us,countries.denonym,how are people from {country} called
+en-us,countries.denonym,call someone that lives at {country}
+en-us,countries.denonym,call someone who lives at {country}
+en-us,countries.denonym,call someone born at {country}
+en-us,countries.denonym,call ( people | someone ) from {country}
+en-us,countries.denonym,someone who lives at {country} called
+en-us,countries.denonym,what is someone born at {country} called
+en-us,countries.denonym,what is someone from {country} called
+en-us,countries.denonym,what are someone born at {country} called
+en-us,countries.denonym,what are someone from {country} called
+en-us,countries.denonym,how is someone born at {country} called
+en-us,countries.denonym,how is someone from {country} called
+en-us,countries.denonym,how are someone born at {country} called
+en-us,countries.denonym,how are someone from {country} called
+en-us,countries.denonym,call a person that lives at {country}
+en-us,countries.denonym,call a person who lives at {country}
+en-us,countries.denonym,call a person born at {country}
+en-us,countries.denonym,call ( people | someone ) from {country}
+en-us,countries.denonym,a person who lives at {country} called
+en-us,countries.denonym,what is a person born at {country} called
+en-us,countries.denonym,what is a person from {country} called
+en-us,countries.denonym,what are a person born at {country} called
+en-us,countries.denonym,what are a person from {country} called
+en-us,countries.denonym,how is a person born at {country} called
+en-us,countries.denonym,how is a person from {country} called
+en-us,countries.denonym,how are a person born at {country} called
+en-us,countries.denonym,how are a person from {country} called
+en-us,countries.denonym,call persons that live at {country}
+en-us,countries.denonym,call persons who live at {country}
+en-us,countries.denonym,call persons born at {country}
+en-us,countries.denonym,call ( people | someone ) from {country}
+en-us,countries.denonym,persons who live at {country} called
+en-us,countries.denonym,what is persons born at {country} called
+en-us,countries.denonym,what is persons from {country} called
+en-us,countries.denonym,what are persons born at {country} called
+en-us,countries.denonym,what are persons from {country} called
+en-us,countries.denonym,how is persons born at {country} called
+en-us,countries.denonym,how is persons from {country} called
+en-us,countries.denonym,how are persons born at {country} called
+en-us,countries.denonym,how are persons from {country} called
+en-us,countries.where_language_spoken,where is {language} spoken
+en-us,countries.where_language_spoken,tell me where i can find {language} speakers
+en-us,countries.where_language_spoken,tell me where i can find {language}
+en-us,countries.where_language_spoken,where i can find {language} speakers
+en-us,countries.where_language_spoken,where i can find {language}
+en-us,countries.where_language_spoken,places where they speak {language}
+en-us,countries.where_language_spoken,where {language} is spoken
+en-us,countries.where_language_spoken,what place is {language} spoken
+en-us,countries.where_language_spoken,what countries speak {language}
+en-us,countries.where_language_spoken,which countries speak {language}
+en-us,ddg.birthdate,when was {person} born
+en-us,ddg.birthdate,what is {person} birthday
+en-us,ddg.birthdate,what is {person} birth date
+en-us,ddg.birthdate,when was born {person}
+en-us,ddg.search_duck,search duck duck go for {query}
+en-us,ddg.search_duck,search duck duck for {query}
+en-us,ddg.search_duck,ask the duck duck about {query}
+en-us,ddg.search_duck,ask the duck duck go about {query}
+en-us,ddg.search_duck,what does duck duck go say about {query}
+en-us,ddg.search_duck,what does duck duck say about {query}
+en-us,ddg.search_duck,search the duck for {query}
+en-us,ddg.search_duck,what does the duck say about {query}
+en-us,ddg.who,who is {person}
+en-us,dice-skill.Dice,roll ({count}|) d {type} (+|plus|) ({modifier}|)
+en-us,dice-skill.NormalDice,roll ({count}|) (dice|die)
+en-us,dice-skill.Range,Generate a random number from {low} to {high}
+en-us,dice-skill.Range,Generate a random number between {low} and {high}
+en-us,dice-skill.Range,Tell me a number from {low} and {high}
+en-us,dice-skill.Range,Tell me a number between {low} and {high}
+en-us,dust.home,(show|open|display|show me) (dust|dust skill) (homescreen|home screen|screen)
+en-us,dust.home,(show|open|display|show me) (dust|dust skill)
+en-us,dust.home,(show|open|display|show me) (dust|dust skill) (menu|screen)
+en-us,dust.home,(sci fi|scifi|science fiction|dust) short (films|film|movie|movies) (menu|screen)
+en-us,dust.home,dust (menu|screen)
+en-us,dust.home,dust (films|film|movie|movies) (menu|screen)
+en-us,email-skill.check.email,check my email
+en-us,email-skill.check.email,check my mail
+en-us,email-skill.check.email,do i have any new mail
+en-us,email-skill.check.email,do I have any email
+en-us,email-skill.check.email,do i have any new emails
+en-us,email-skill.enquire.email,Do I have email from {email}
+en-us,email-skill.enquire.email,Have I gotten (any | ) email (by|from) from {email}
+en-us,email-skill.enquire.email,Did I receive any emails from {email}
+en-us,email-skill.notify,tell me of (mail | email | new mail | email)
+en-us,email-skill.notify,tell me when I get (mail | email | new mail | new email)
+en-us,email-skill.notify,tell me when I get (a mail | an email | email) (from | by) {sender}
+en-us,email-skill.notify,tell me of (mail | email) (from | by) {sender}
+en-us,email-skill.notify,notify me of (mail | email | new mail | new email)
+en-us,email-skill.notify,notify me of (mail | email | new mail | new email) (from | by) {sender}
+en-us,email-skill.notify,notify me when I get (mail | email | new mail | new email)
+en-us,email-skill.notify,notify me when I get (a mail | an email | email) (from | by) {sender}
+en-us,email-skill.stop,do not notify me of (mail | email | new mail | new email)
+en-us,email-skill.stop,do not notify me of (mail | email | new mail | new email) (from | by) {sender}
+en-us,email-skill.stop,no longer notify me of (mail | email | new mail | new email)
+en-us,email-skill.stop,no longer notify me of (mail | email | new mail | new email) (from | by) {sender}
+en-us,email-skill.stop,do not tell me of (mail | email | new mail | new email)
+en-us,email-skill.stop,do not tell me of (mail | email | new mail | new email) (from | by) {sender}
+en-us,email-skill.stop,no longer tell me of (mail | email | new mail | new email)
+en-us,email-skill.stop,no longer tell me of (mail | email | new mail | new email) (from | by) {sender}
+en-us,emby-skill.diagnostic,check (emby|mb|mv|nv|emily) connection
+en-us,emby-skill.diagnostic,run diagnostic (emby|mb|mv|nv|emily)
+en-us,emby-skill.diagnostic,check (emby|mb|mv|nv|emily)
+en-us,emby-skill.emby,play {media} from emby
+en-us,emby-skill.emby,play {media} from mb
+en-us,emby-skill.emby,play artist {artist} from emby
+en-us,emby-skill.emby,play artist {artist} from mb
+en-us,emby-skill.emby,play album {album} from emby
+en-us,emby-skill.emby,play album {album} from mb
+en-us,emby-skill.emby,play playlist {playlist} from mb
+en-us,emby-skill.emby,play playlist {playlist} from emby
+en-us,emby-skill.emby,play song {song} from mb
+en-us,emby-skill.emby,play song {song} from emby
+en-us,fairytalez-skill.continue,Continue story
+en-us,fairytalez-skill.continue,Continue story telling
+en-us,fairytalez-skill.continue,Continue fairytale
+en-us,fairytalez-skill.continue,Continue telling fairytale
+en-us,fairytalez-skill.continue,Continue fairy tale
+en-us,fairytalez-skill.continue,Continue with the fairytale
+en-us,fairytalez-skill.continue,Continue with the fairy tale
+en-us,fairytalez-skill.fairytalez,(Tell|Read) (me| ) a (good| ) (story| fairy tale)
+en-us,fairytalez-skill.fairytalez,(Tell|Read) (me| ) the story {tale}
+en-us,futurism-cartoons.futurism_cartoon,show futurism (cartoon|comic) number (#|##|###|####)
+en-us,futurism-cartoons.futurism_cartoon,show futurism (cartoon|comic) (#|##|###|####)
+en-us,futurism-cartoons.futurism_cartoon,display futurism (cartoon|comic) (#|##|###|####)
+en-us,futurism-cartoons.futurism_cartoon,futurism (cartoon|comic) (#|##|###|####)
+en-us,futurism-cartoons.futurism_cartoon,futurism (cartoon|comic) number (#|##|###|####)
+en-us,futurism-cartoons.futurism_total_cartoons,how many futurism (comics|cartoon|cartoons)
+en-us,futurism-cartoons.futurism_total_cartoons,number of futurism (comics|cartoon|cartoons)
+en-us,futurism-cartoons.futurism_total_cartoons,futurism (comics|cartoon|cartoons) number
+en-us,futurism-cartoons.futurism_total_cartoons,total futurism (comics|cartoon|cartoons)
+en-us,futurism-cartoons.latest_futurism_cartoon,show me the latest futurism (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.latest_futurism_cartoon,display latest futurism (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.latest_futurism_cartoon,show futurism (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.latest_futurism_cartoon,display futurism (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.latest_futurism_cartoon,display a futurism (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.latest_futurism_cartoon,latest futurism (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.random_futurism_cartoon,random futurism (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.random_futurism_cartoon,show random futurism (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.random_futurism_cartoon,random futurism (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.random_futurism_cartoon,display random futurism (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.random_futurism_cartoon,futurism random (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.random_futurism_cartoon,show me a random futurism (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.random_futurism_cartoon,show me a random futurism (comic|comics|cartoon|cartoons)
+en-us,futurism-cartoons.random_futurism_cartoon,show me a futurism (comic|comics|cartoon|cartoons)
+en-us,helioviewer.eit_temperature,(show|display|image|picture|photo) of the sun (at|in|for) (#|##|###|####) (degrees|Kelvin|temperature)
+en-us,helioviewer.eit_temperature,(sun|solar) (display|image|picture|photo) (at|in|for) (#|##|###|####) (degrees|Kelvin|temperature)
+en-us,helioviewer.eit_temperature,(show|display|image|picture|photo) of the sun (at|in|for) (#|##|###|####) (degrees|Kelvin|temperature)
+en-us,helioviewer.eit_temperature,(sun|solar) (display|image|picture|photo) (at|in|for) (#|##|###|####) million (degrees|Kelvin|temperature)
+en-us,helioviewer.eit_wavelength,(show|display|image|picture|photo) of the sun (at|in|for) ### Angstrom
+en-us,helioviewer.eit_wavelength,(sun|solar) (display|image|picture|photo) (at|in|for) ### Angstrom
+en-us,helioviewer.eit_wavelength,(show|display|image|picture|photo) of the sun (at|in|for) ###
+en-us,helioviewer.eit_wavelength,(sun|solar) (display|image|picture|photo) (at|in|for) ###
+en-us,helioviewer.helioviewer,(show|display|open) the (helioviewer|helio view|helio viewer)
+en-us,helioviewer.helioviewer,(helioviewer|helio view|helio viewer) (site|website|web site|webpage|web page)
+en-us,helioviewer.number,(sunspots|sun spots|sunspot) count
+en-us,helioviewer.number,Count of (sunspots|sun spots|sunspot)
+en-us,helioviewer.number,number of (sunspots|sun spots|sunspot)
+en-us,helioviewer.number,how many (sunspots|sun spots|sunspot)
+en-us,helioviewer.number_date,(sunspot count|Count of sunspots|number of sunspots|how many sunspots) (#|##|###|####) (days|months|years|weeks) ago
+en-us,helioviewer.number_date,(sunspot count|Count of sunspots|number of sunspots|how many sunspots) (yesterday|last week|last month|last weekend)
+en-us,helioviewer.number_date,(yesterday|last week|last month|last weekend) (sunspot count|Count of sunspots|number of sunspots|how many sunspots)
+en-us,helioviewer.number_date,(yesterday|last week|last month|last weekend) (sunspots|sun spots|sunspot)
+en-us,helioviewer.number_date,(sunspots|sun spots|sunspot) (yesterday|last week|last month|last weekend)
+en-us,helioviewer.number_date,(sunspots|sun spots|sunspot) (#|##|###|####) (days|months|years|weeks) ago
+en-us,helioviewer.recent,recent (sunspots|sun spots|sunspot)
+en-us,helioviewer.recent,(sunspots|sun spots|sunspot) recently
+en-us,helioviewer.recent,(number|how many|count) of (sunspots|sun spots|sunspot) recently
+en-us,helioviewer.recent,recent (sunspots|sun spots|sunspot) (number|count)
+en-us,homeassistant.set.climate,set the {{entity}} to {{temp}} degrees
+en-us,homeassistant.set.climate,set the {{entity}} temperature to {{temp}} degrees
+en-us,homeassistant.set.climate,change the {{entity}} temperature to {temp}} degrees
+en-us,homeassistant.set.light.brightness,set brightness of {{entity}} to {{brightnessvalue}} percent
+en-us,horrorbabble.home,(show|open|display|show me) horror (babble|readings|audio) (homescreen|home screen|screen|menu)
+en-us,horrorbabble.home,(show|open|display|show me) horror (babble|readings|audio)
+en-us,horrorbabble.home,(show|open|display|show me) horror (babble|readings|audio) skill (homescreen|home screen|screen|menu)
+en-us,horrorbabble.home,(show|open|display|show me) horror (babble|readings|audio) skill
+en-us,horrorbabble.home,horror (babble|readings|audio) (homescreen|home screen|screen|menu)
+en-us,hubble-telescope.about,(about|what is|tell me about) hubble space telescope
+en-us,hubble-telescope.about,(about|what is|tell me about) hubble telescope
+en-us,hubble-telescope.about,(about|what is|tell me about) the hubble space telescope
+en-us,hubble-telescope.about,(about|what is|tell me about) the hubble telescope
+en-us,hubble-telescope.colors,(are|is) the (colors|color|colour|colours) in (hubble telescope|hubble space telescope|hubble) (data|photos|images|pictures) real
+en-us,hubble-telescope.data_public,(are|is) all (hubble telescope|hubble space telescope|hubble) (data|photos|images|pictures) (available|available to the public|public)
+en-us,hubble-telescope.data_public,(are|is) (hubble telescope|hubble space telescope|hubble) (data|photos|images|pictures) (available|available to the public|public)
+en-us,hubble-telescope.earth,(Can|does) (hubble telescope|hubble space telescope|hubble) see {thing} on (earth|planet earth|our planet)
+en-us,hubble-telescope.earth,(Can|does) (hubble telescope|hubble space telescope|hubble) take (data|photos|images|pictures) of (earth|planet earth|our planet)
+en-us,hubble-telescope.hubble,(picture|show|display|image|photo) (from|from the) (hubble telescope|hubble space telescope|huble site)
+en-us,hubble-telescope.hubble,(hubble telescope|hubble space telescope|huble site) (picture|show|display|image|photo)
+en-us,hubble-telescope.hubble.now,(What|where) is (hubble telescope|hubble space telescope|Hubble) (looking|looking at|looking at now)
+en-us,hubble-telescope.hubble.now,(What|where) is (hubble telescope|hubble space telescope|Hubble) (pointing|pointing at|pointing at now)
+en-us,hubble-telescope.live,Can we see live (data|photos|images|pictures) from (hubble telescope|hubble space telescope|hubble)
+en-us,hubble-telescope.live,(does|is there any) live (data|photos|images|pictures) from (hubble telescope|hubble space telescope|hubble)
+en-us,hubble-telescope.live,(does|do) live (data|photos|images|pictures) from (hubble telescope|hubble space telescope|hubble) exist
+en-us,hubble-telescope.mission,(what is| tell me) the (mission|mission objectives) (of|of the) (hubble telescope|hubble space telescope)
+en-us,hubble-telescope.mission,(mission|mission objectives) (of|of the) (hubble telescope|hubble space telescope)
+en-us,hubble-telescope.mission,(hubble telescope|hubble space telescope) (mission|mission objectives)
+en-us,hubble-telescope.mission,what is (hubble telescope|hubble space telescope) (mission|mission objectives)
+en-us,hubble-telescope.moon,(Can|does) (hubble telescope|hubble space telescope|hubble) see {thing} on the Moon
+en-us,hubble-telescope.moon,(Can|does) (hubble telescope|hubble space telescope|hubble) take (data|photos|images|pictures) of the Moon
+en-us,hubble-telescope.planets,(Did|can|will|does) (hubble telescope|hubble space telescope|hubble) (find|found|locate) (any planets|new planets|exo planets|planets|alien planets)
+en-us,hubble-telescope.when,(when|what date) (was|was the) (hubble telescope|hubble space telescope) (launched|deployed|sent to orbit|enabled)
+en-us,hubble-telescope.when,(hubble telescope|hubble space telescope) (launch date|date of launch)
+en-us,hubble-telescope.when,(when|what) (was|was the) (hubble telescope|hubble space telescope) (launch date|date of launch)
+en-us,hubble-telescope.who,who was (hubble telescope|hubble space telescope) named (after|for)
+en-us,hubble-telescope.who,who was (Edwin Powell Hubble|Edwin Hubble|Hubble)
+en-us,hubble-telescope.who,tell me about (Edwin Powell Hubble|Edwin Hubble|Hubble)
+en-us,icanhazdadjokes.joke,tell me a joke
+en-us,icanhazdadjokes.joke,say a joke
+en-us,icanhazdadjokes.joke,do you know any jokes
+en-us,icanhazdadjokes.joke,can you tell jokes
+en-us,icanhazdadjokes.joke,make me laugh
+en-us,icanhazdadjokes.search_joke,tell me a {search} joke
+en-us,icanhazdadjokes.search_joke,say a {search} joke
+en-us,icanhazdadjokes.search_joke,do you know any {search} jokes
+en-us,icanhazdadjokes.search_joke,can you tell {search} jokes
+en-us,icanhazdadjokes.search_joke,joke about {search}
+en-us,icanhazdadjokes.search_joke,tell me a joke about {search}
+en-us,icanhazdadjokes.search_joke,say a joke about {search}
+en-us,icanhazdadjokes.search_joke,do you know any jokes about {search}
+en-us,icanhazdadjokes.search_joke,can you tell jokes about {search}
+en-us,installer.install.custom,Download custom skill
+en-us,installer.list.skills,(Show me|List) (available|installable) skills.
+en-us,installer.list.skills,What (skills|) can I install?
+en-us,installer.list.skills,What are some skills I can install?
+en-us,installer.uninstall,uninstall (skill|) {skill}
+en-us,installer.uninstall,remove skill {skill}
+en-us,iss-location.about,about the ISS
+en-us,iss-location.about,about the space station
+en-us,iss-location.about,talk about the international space station
+en-us,iss-location.about,what is ISS
+en-us,iss-location.about,tell me about international space station
+en-us,iss-location.about,talk about international space station
+en-us,iss-location.about,tell me about international space station
+en-us,iss-location.about,what is the international space station
+en-us,iss-location.when_iss,when is the I S S passing by
+en-us,iss-location.when_iss,when is the space station passing by
+en-us,iss-location.when_iss,when is the international space station passing by
+en-us,iss-location.when_iss,international space station passing over
+en-us,iss-location.where_iss,where is the I S S
+en-us,iss-location.where_iss,where is the space station
+en-us,iss-location.where_iss,where is the international space station
+en-us,iss-location.where_iss,international space station location
+en-us,iss-location.where_iss,location of the space station
+en-us,iss-location.where_iss,location of I S S
+en-us,iss-location.where_iss,I S S location
+en-us,iss-tracker-skill.tracker.iss,(Locate|Where is) (|the) (ISS|I S S|international space station|space station)
+en-us,kings-of-horror.home,(show|open|display|show me) (kings of horror|horror movies) (homescreen|home screen|screen)
+en-us,kings-of-horror.home,(show|open|display|show me) (kings of horror|horror movies)
+en-us,kings-of-horror.home,(show|open|display|show me) (kings of horror|horror movies) (menu|screen)
+en-us,kings-of-horror.home,(kings of horror|horror movies) (menu|screen)
+en-us,laugh.Laugh,laugh like alexa
+en-us,laugh.Laugh,can you laugh
+en-us,laugh.Laugh,evil (laugh|laughing|laughs|laughter)
+en-us,laugh.RandomLaugh,laugh randomly
+en-us,laugh.RandomLaugh,trigger random (laugh|laughing|laughs|laughter)
+en-us,laugh.RandomLaugh,random (laugh|laughing|laughs|laughter)
+en-us,laugh.haunted,Are you haunted
+en-us,laugh.haunted,Do you need an exorcism
+en-us,launcher.neon.launch,(launch|lunch|open) {program}
+en-us,learning-skill.say.differently,can you (that | sometimes |) differently (answer | say)
+en-us,learning-skill.say.differently,come up with something new
+en-us,learning-skill.say.differently,complete (also sometimes |) your answers
+en-us,learning-skill.something_for_my_skill,(for this|) (you should|you can|) (use|take) the {skill} (|Skill) 
+en-us,learning-skill.something_for_my_skill,(try|do) times (that|with) the {skill} (|Skill)
+en-us,learning-skill.something_for_my_skill,(use|take) the {skill} (|Skill)
+en-us,learning-skill.something_for_my_skill,how (would it be|) (it |) with the {skill} (|Skill)
+en-us,learning-skill.will_let_you_know,I want to explain it to you
+en-us,learning-skill.will_let_you_know,you (should| will) (still |) (| a little more|something|some) (about {category}|) learn
+en-us,learning-skill.will_let_you_know,I (explain it | explain) to you
+en-us,learning-skill.will_let_you_know,that has (something|some ) to do with {category}
+en-us,learning-skill.will_let_you_know,{category} is (probably|apparently|definitely) not your strength
+en-us,learning-skill.will_let_you_know,(that|the|here) was (|es) (as|with) {category}
+en-us,learning-skill.will_let_you_know,you should take that with {category}
+en-us,learning-skill.work.on.dialog,(I want|you can|you want) (|the|your|my) (dialogs|dialog) in {skill} (|Skill)
+en-us,learning-skill.work.on.dialog,(expand|add) (your|my) dialogues
+en-us,learning-skill.work.on.dialog,(I feel like|you can|can you) (work on|edit) (your|my) dialogues (in{skill}(|Skill)|)
+en-us,mark-2.brightness,dim (the|your) eyes to {brightness} (percent|)
+en-us,mark-2.brightness,dim down to {brightness} (percent|)
+en-us,mark-2.brightness,lower the (brightness|illumination) of your eyes to {brightness} (percent|)
+en-us,mark-2.brightness,turn (the|) (brightness|illumination) (down|up) to {brightness} (percent|)
+en-us,mark-2.brightness,turn (down|up) (the|) (brightness|illumination) to {brightness} (percent|)
+en-us,mark-2.brightness,brighten it up (a bit|) to {brightness} (percent|)
+en-us,mark-2.brightness,(change|set|switch) to {brightness} (percent|) (eye|) (brightness|illumination)
+en-us,mark-2.brightness,(change|set|switch) (the|your) (eye|) (brightness|illumination) (level|) to {brightness} (percent|)
+en-us,mark-2.brightness,(change|set|switch) (the|your) (eye|) (brightness|illumination) (level|)
+en-us,mark-2.brightness,you're (too|) (bright|dim)
+en-us,mark-2.brightness,you are (too|) (bright|dim)
+en-us,mark-2.brightness,brighten it up
+en-us,mark-2.brightness,dim it down a bit
+en-us,mark-2.brightness.auto,set brightness to auto
+en-us,mark-2.brightness.auto,auto brightness
+en-us,mark-2.device.brightness.settings,show brightness settings
+en-us,mark-2.device.brightness.settings,show device brightness settings
+en-us,mark-2.device.homescreen.settings,show homescreen settings
+en-us,mark-2.device.homescreen.settings,show (home|resting|idle) (screen|face|page) settings
+en-us,mark-2.device.homescreen.settings,show device (home|resting|idle) (screen|face|page) settings
+en-us,mark-2.device.reset.settings,show factory reset settings
+en-us,mark-2.device.reset.settings,show device factory reset settings
+en-us,mark-2.device.settings,show device settings
+en-us,mark-2.device.settings,open settings
+en-us,mark-2.device.ssh.settings,show ssh settings
+en-us,mark-2.device.ssh.settings,show device ssh settings
+en-us,mark-2.device.wifi.settings,show wireless screen
+en-us,mark-2.device.wifi.settings,show wireless settings
+en-us,mark-2.device.wifi.settings,show wifi settings
+en-us,mark-2.device.wifi.settings,show wifi screen
+en-us,mbta-bus-tracking-skill.tracking.bus.mbta,T bus arrivals
+en-us,mock-backend.current_backend,current backend
+en-us,mock-backend.current_backend,what backend are you using
+en-us,mock-backend.current_backend,is backend enable
+en-us,mock-backend.current_backend,is mycroft phoning home
+en-us,mock-backend.current_backend,are you phoning home
+en-us,mock-backend.enable_mock,do not phone home
+en-us,mock-backend.enable_mock,enable mock backend
+en-us,mock-backend.enable_mock,disable mycroft backend
+en-us,mock-backend.enable_mock,disable home dot mycroft dot ai
+en-us,mock-backend.enable_mock,disable selene backend
+en-us,mock-backend.enable_mock,enable fake backend
+en-us,mock-backend.enable_mycroft,you can phone home
+en-us,mock-backend.enable_mycroft,enable mycroft backend
+en-us,mock-backend.enable_mycroft,enable home dot mycroft dot ai
+en-us,mock-backend.enable_mycroft,enable selene backend
+en-us,mock-backend.enable_mycroft,restore backend
+en-us,mock-backend.enable_mycroft,restore mycroft backend
+en-us,monkey-patch-tester.monkey_test,are you monkey (patches|patch|patched)
+en-us,monkey-patch-tester.monkey_test,are the patches (applied|working)
+en-us,monkey-patch-tester.monkey_test,are the monkey (patches|patch) (applied|working)
+en-us,monkey-patch-tester.monkey_test,is the monkey patch (done|working)
+en-us,mouse-jiggler.mouse_start,(start|enable|turn on) mouse (activity|jiggle|jiggler)
+en-us,mouse-jiggler.mouse_status,mouse (activity|jiggle|jiggler) status
+en-us,mouse-jiggler.mouse_status,is mouse (activity|jiggle|jiggler) (on|enabled|started)
+en-us,mouse-jiggler.mouse_status,is mouse (activity|jiggle|jiggler) (off|disabled|stopped)
+en-us,mouse-jiggler.mouse_status,(what|how) is mouse (activity|jiggle|jiggler)
+en-us,mouse-jiggler.mouse_stop,(stop|disable|turn off) mouse (activity|jiggle|jiggler)
+en-us,moviemaster.genre.movie.search,(list|find) (movies|films) that are (a| ) {genre}
+en-us,moviemaster.genre.movie.search,(list|find) {genre} (movies|films)
+en-us,moviemaster.genre.tv.search,(list|find|get) (TV shows|television shows|shows) that are (|a) {genre}
+en-us,moviemaster.genre.tv.search,(list|find|get) {genre} (TV shows|television shows|shows)
+en-us,moviemaster.movie.cast,who (acts|plays|is) in the (movie|film|flick) {movie}
+en-us,moviemaster.movie.description,what is the (movie|film|flick) {movie} about
+en-us,moviemaster.movie.description,tell (me|us) about the (movie|film|flick) {movie}
+en-us,moviemaster.movie.description,(give|get) (me|us) a (description|synopsis) of the (movie|film|flick) {movie}
+en-us,moviemaster.movie.description, 
+en-us,moviemaster.movie.genres,what (genres|genre) does the (movie|film|flick) {movie} belong to
+en-us,moviemaster.movie.genres,what are the (genres|genre) of the (movie|film|flick) {movie}
+en-us,moviemaster.movie.genres,what (genres|genre) (is|are) the (movie|film|flick) {movie}
+en-us,moviemaster.movie.information,(find|get|look for|is there) (information|info) (on|about) the (movie|film|flick) {movie}
+en-us,moviemaster.movie.information,(give|tell|get) (|me|us) (information|info) (on|about) the (movie|film|flick) {movie}
+en-us,moviemaster.movie.information,(do you have|can you get) (info|information) on the (movie|film|flick) {movie}
+en-us,moviemaster.movie.popular,(list|search|search for) popular (movies|films|flicks)
+en-us,moviemaster.movie.popular,what are ( |the) popular (movies|films|flicks) (playing|out) ( |now)
+en-us,moviemaster.movie.production,(who|what company) (produced|made) the movie {movie}
+en-us,moviemaster.movie.recommendations,recommend (movies|films|flicks) (similar to|like) {movie}
+en-us,moviemaster.movie.recommendations,what (movies|films|flicks) (would|do) you recommend (similar to|like) {movie}
+en-us,moviemaster.movie.recommendations,(list|get) (|good) (movies|films|flicks) (similar to|like) {movie}
+en-us,moviemaster.movie.runtime,How long is the (movie|film|flick) {movie}
+en-us,moviemaster.movie.runtime,What is the (runtime|length) of the (movie|film|flick) {movie}
+en-us,moviemaster.movie.runtime,Get the (runtime|length) of the (movie|film|flick) {movie}
+en-us,moviemaster.movie.top,(list|what are|search for) the (top|most popular|highest rated) (movies|films|flicks) (playing|out) (|now)
+en-us,moviemaster.movie.year,(what year|when|what date) was the (movie|film|flick) {movie} (made|released)
+en-us,mycroft-mark-1.brightness,dim (the|your) eyes to {brightness} (percent|)
+en-us,mycroft-mark-1.brightness,dim down to {brightness} (percent|)
+en-us,mycroft-mark-1.brightness,lower the (brightness|illumination) of your eyes to {brightness} (percent|)
+en-us,mycroft-mark-1.brightness,turn (the|) (brightness|illumination) (down|up) to {brightness} (percent|)
+en-us,mycroft-mark-1.brightness,turn (down|up) (the|) (brightness|illumination) to {brightness} (percent|)
+en-us,mycroft-mark-1.brightness,brighten it up (a bit|) to {brightness} (percent|)
+en-us,mycroft-mark-1.brightness,(change|set|switch) to {brightness} (percent|) (eye|) (brightness|illumination)
+en-us,mycroft-mark-1.brightness,(change|set|switch) (the|your) (eye|) (brightness|illumination) (level|) to {brightness} (percent|)
+en-us,mycroft-mark-1.brightness,(change|set|switch) (the|your) (eye|) (brightness|illumination) (level|)
+en-us,mycroft-mark-1.brightness,you're (too|) (bright|dim)
+en-us,mycroft-mark-1.brightness,you are (too|) (bright|dim)
+en-us,mycroft-mark-1.brightness,brighten it up
+en-us,mycroft-mark-1.brightness,dim it down a bit
+en-us,mycroft-mark-1.brightness.auto,set brightness to auto
+en-us,mycroft-mark-1.brightness.auto,auto brightness
+en-us,mycroft-mark-1.custom.eye.color,set custom eye (color|colors)
+en-us,mycroft-mark-1.custom.eye.color,(set|change) to a custom eye (color|colors)
+en-us,mycroft-mark-1.eye.color,(change|set) (the|your|) (eye|eyes) (color|colors|) to {color}
+en-us,mycroft-mark-1.eye.color,(change|set) (eye|eyes) (color|colors|) to {color}
+en-us,mycroft-mark-1.eye.color,(change|set) eye (color|colors) to something {color}
+en-us,mycroft-mark-1.eye.color,(change|set) (your|) eyes to (a|an|) {color} (color|)
+en-us,mycroft-mark-1.eye.color,(change|set) eyes to some {color} color
+en-us,mycroft-mark-1.eye.color,(change|set) (eye|eyes) to (a|an) {color} color
+en-us,mycroft-mark-1.eye.color,(change|set) eye (color|colors)
+en-us,mycroft-node-red.converse.disable,make (node|node red) (|a|an) (fallback|fall back) (|skill)
+en-us,mycroft-node-red.converse.disable,(disable|turn off|abort|kill|stop|end) (node|node red) (priority|converse)
+en-us,mycroft-node-red.converse.disable,make (node|node red) trigger (last|in the end|at the end|on the end)
+en-us,mycroft-node-red.converse.enable,make (node|node red) (|a|an) priority (|skill)
+en-us,mycroft-node-red.converse.enable,make (node|node red) trigger (first|before adapt)
+en-us,mycroft-node-red.pingnode,ping node red
+en-us,mycroft-node-red.pingnode,say hello to node red
+en-us,mycroft-node-red.pingnode,is node red up
+en-us,mycroft-node-red.pingnode,node red status
+en-us,mycroft-timer.cancel.timer,end {duration} timer
+en-us,mycroft-timer.cancel.timer,turn it off
+en-us,mycroft-timer.cancel.timer,turn the timer off
+en-us,mycroft-timer.cancel.timer,turn off the {duration} timer
+en-us,mycroft-timer.cancel.timer,turn off timer
+en-us,mycroft-timer.cancel.timer,cancel the timer
+en-us,mycroft-timer.cancel.timer,(cancel|remove|delete|abort) (the|a|) {duration} (timer|)
+en-us,mycroft-timer.cancel.timer,kill the timer
+en-us,mycroft-timer.cancel.timer,kill {duration} timer
+en-us,mycroft-timer.cancel.timer,cancel {all} timers
+en-us,mycroft-timer.cancel.timer,delete {all} timers
+en-us,mycroft-timer.cancel.timer,turn off {all} timers
+en-us,mycroft-timer.start.timer,Start a timer.
+en-us,mycroft-timer.start.timer,Set a timer.
+en-us,mycroft-timer.start.timer,Start a (##-second|##-hour|##-minute) timer.
+en-us,mycroft-timer.start.timer,Start a (##-second|##-hour|##-minute) timer (called|for) {name}.
+en-us,mycroft-timer.start.timer,(Start|Set) (a|) {duration} timer.
+en-us,mycroft-timer.start.timer,(Start|Set) (a|) {duration} timer (called|for) {name}.
+en-us,mycroft-timer.start.timer,(Start|Set) a timer for {duration}.
+en-us,mycroft-timer.start.timer,Timer {duration}.
+en-us,mycroft-timer.start.timer,Timer for {duration}.
+en-us,mycroft-timer.start.timer,Timer for {duration} (called|for) {name}.
+en-us,mycroft-timer.start.timer,{duration} timer.
+en-us,mycroft-timer.start.timer,{duration} timer (called|for) {name}.
+en-us,mycroft-timer.start.timer,Give me a {duration} timer.
+en-us,mycroft-timer.start.timer,Count {duration} for me.
+en-us,mycroft-timer.start.timer,Time {duration} for me.
+en-us,mycroft-timer.start.timer,I need a {duration} timer.
+en-us,mycroft-timer.start.timer,I need you to measure {duration} for me.
+en-us,mycroft-timer.start.timer,Create a timer for {duration}.
+en-us,mycroft-timer.start.timer,Create a timer for {duration} (called|for) {name}.
+en-us,mycroft-timer.status.timer,how much (time|) is left on the ({duration} timer| timers)
+en-us,mycroft-timer.status.timer,how much time left on the timers?
+en-us,mycroft-timer.status.timer,how much time left?
+en-us,mycroft-timer.status.timer,status of the timer
+en-us,mycroft-timer.status.timer,status of timers
+en-us,mycroft-timer.status.timer,status of the timers
+en-us,mycroft-timer.status.timer,timer status
+en-us,mycroft-timer.status.timer,timer statuses
+en-us,mycroft-timer.status.timer,status of the ({duration} timer| timer})
+en-us,mycroft-timer.status.timer,timer left?
+en-us,mycroft-timer.status.timer,time remaining on the ({duration} timer| timer)
+en-us,mycroft-timer.status.timer,time remaining for (timer|{duration} timer|)?
+en-us,mycroft-timer.status.timer,list out timers
+en-us,mycroft-timer.status.timer,list timers
+en-us,mycroft-timer.stop,stop timer.
+en-us,mycroft-timer.stop,turn off timer.
+en-us,mycroft-timer.stop,kill the timer.
+en-us,mycroft-timer.stop.timer,stop all timers
+en-us,mycroft-timer.stop.timer,stop timer
+en-us,mycroft-timer.stop.timer,delete all timers
+en-us,mycroft-timer.stop.timer,delete timers
+en-us,mycroft-timer.stop.timer,delete timer
+en-us,natgeo-pod.natgeo,NatGeo picture of the day
+en-us,natgeo-pod.natgeo,National geographic picture of the day
+en-us,natgeo-pod.natgeo,today National geographic picture
+en-us,natgeo-pod.natgeo,today's National geographic picture
+en-us,natgeo-pod.natgeo,National geographic picture of today
+en-us,natgeo-pod.natgeo,National geographic picture
+en-us,natgeo-pod.natgeo,NatGeo picture
+en-us,omeleto.home,(show|open|display|show me) (omeleto|omeleto skill) (homescreen|home screen|screen)
+en-us,omeleto.home,(show|open|display|show me) (omeleto|omeleto skill)
+en-us,omeleto.home,(show|open|display|show me) (omeleto|omeleto skill) (menu|screen)
+en-us,omeleto.home,(sci fi|scifi|science fiction|omeleto) short (films|film|movie|movies) (menu|screen)
+en-us,omeleto.home,omeleto (menu|screen)
+en-us,omeleto.home,omeleto (films|film|movie|movies) (menu|screen)
+en-us,parrot.did.you.hear.me,(Can|Did|Do) you hear (me|that|this)?
+en-us,parrot.repeat.stt,What did I (just|) (say|tell you)?
+en-us,parrot.repeat.stt,What did you think I said?
+en-us,parrot.repeat.stt,What did you hear me say?
+en-us,parrot.repeat.stt,Tell me what I (just|) said.
+en-us,parrot.repeat.tts,What did you (just|) (say|tell me)?
+en-us,parrot.repeat.tts,Repeat what you (just|) said.
+en-us,parrot.repeat.tts,Can you repeat that?
+en-us,parrot.repeat.tts,Repeat that.
+en-us,parrot.repeat.tts,(Can you|) say (that|) again?
+en-us,parrot.repeat.tts,Say that (once more|one more time).
+en-us,parrot.repeat.tts,What was that?
+en-us,parrot.repeat.tts,Come again?
+en-us,parrot.speak,(say|repeat|speak|say after me) {{sentence}}
+en-us,parrot.speak,(say|repeat|speak) {{sentence}} after me
+en-us,parrot.start_parrot,start parroting
+en-us,parrot.start_parrot,engage parrot mode
+en-us,parrot.start_parrot,parrot mode on
+en-us,parrot.start_parrot,parrot mode start
+en-us,parrot.start_parrot,start parrot mode
+en-us,parrot.start_parrot,start parrot
+en-us,parrot.start_parrot,repeat everything
+en-us,parrot.start_parrot,repeat everything you hear
+en-us,parrot.stop_parrot,stop (parrot mode | parroting )
+en-us,parrot.stop_parrot,disengage (parrot mode | parroting )
+en-us,parrot.stop_parrot,abort (parrot mode | parroting )
+en-us,parrot.stop_parrot,cancel (parrot mode | parroting )
+en-us,parrot.stop_parrot,disable (parrot mode | parroting )
+en-us,parrot.stop_parrot,(parrot mode | parroting ) stop
+en-us,parrot.stop_parrot,(parrot mode | parroting ) disengage
+en-us,parrot.stop_parrot,(parrot mode | parroting ) abort
+en-us,parrot.stop_parrot,(parrot mode | parroting ) cancel
+en-us,parrot.stop_parrot,(parrot mode | parroting ) disable
+en-us,parrot.stop_parrot,stop repeating me
+en-us,pickup-lines.source,where do you get your pickup lines
+en-us,pickup-lines.source,what is the source of your pickup lines
+en-us,pickup-lines.source,where do your random pickup lines come from
+en-us,quote-of-day.source,where do you get your quotes
+en-us,quote-of-day.source,what is the source of your quotes
+en-us,quote-of-day.source,where do your random quotes come from
+en-us,quote-of-day.trustworthy,can your quotes be trusted
+en-us,quote-of-day.trustworthy,are your quotes trustworthy
+en-us,quote-of-day.trustworthy,can i trust your quotes
+en-us,quote-of-day.trustworthy,can i trust They said so
+en-us,rocket-launch.recent,recent (sunspots|sun spots|sunspot)
+en-us,rocket-launch.recent,(sunspots|sun spots|sunspot) recently
+en-us,rocket-launch.recent,(number|how many|count) of (sunspots|sun spots|sunspot) recently
+en-us,rocket-launch.recent,recent (sunspots|sun spots|sunspot) (number|count)
+en-us,sip.neon.answer_all,Answer all calls
+en-us,sip.neon.answer_all,Answer all incoming calls
+en-us,sip.neon.answer_all_and_say,Answer all calls and say {{speech}}
+en-us,sip.neon.answer_all_and_say,Answer all incoming calls and say {{speech}}
+en-us,sip.neon.answer_all_and_say,Answer all calls with {{speech}}
+en-us,sip.neon.answer_all_and_say,Answer all incoming calls with {{speech}}
+en-us,sip.neon.call,Call {{contact}}
+en-us,sip.neon.call,Place a call to {{contact}}
+en-us,sip.neon.call,Phone {{contact}}
+en-us,sip.neon.call_and_say,Call {{contact}} and (say|speak) {{speech}}
+en-us,sip.neon.call_and_say,Place a call to {{contact}} and (say|speak) {{speech}}
+en-us,sip.neon.call_and_say,Phone {{contact}} and (say|speak) {{speech}}
+en-us,sip.neon.call_status,what is the call status
+en-us,sip.neon.call_status,what is the phone status
+en-us,sip.neon.call_status,what is the call state
+en-us,sip.neon.call_status,what is the phone state
+en-us,sip.neon.call_status,call state
+en-us,sip.neon.call_status,phone state
+en-us,sip.neon.call_status,call status
+en-us,sip.neon.call_status,phone status
+en-us,sip.neon.contacts_list,List contacts
+en-us,sip.neon.contacts_list,list my contacts
+en-us,sip.neon.contacts_list,What numbers do you have
+en-us,sip.neon.contacts_list,What phone numbers do you know
+en-us,sip.neon.contacts_number,How many contacts
+en-us,sip.neon.contacts_number,How many do you have
+en-us,sip.neon.contacts_number,How many phone numbers do you know
+en-us,sip.neon.contacts_number,Number of contacts
+en-us,sip.neon.converse.disable,make (SIP|VOIP|phone|calls) (|a|an) (fallback|fall back) (|skill)
+en-us,sip.neon.converse.disable,(disable|turn off|abort|kill|stop|end) (SIP|VOIP|phone|calls) (priority|converse)
+en-us,sip.neon.converse.disable,make (SIP|VOIP|phone|calls) trigger (last|in the end|at the end|on the end)
+en-us,sip.neon.converse.enable,make (SIP|VOIP|phone|calls) (|a|an) priority (|skill)
+en-us,sip.neon.converse.enable,make (SIP|VOIP|phone|calls) trigger (first|before adapt)
+en-us,sip.neon.disable_auto,Manual call handling
+en-us,sip.neon.disable_auto,Ask before calls
+en-us,sip.neon.disable_auto,Ask before accepting calls
+en-us,sip.neon.disable_auto,Ask before rejecting calls
+en-us,sip.neon.disable_auto,Dont handle calls automatically
+en-us,sip.neon.disable_auto,Do not handle calls automatically
+en-us,sip.neon.login,SIP login
+en-us,sip.neon.login,VOIP login
+en-us,sip.neon.login,login into SIP
+en-us,sip.neon.login,login into VOIP
+en-us,sip.neon.reject_all,Reject all calls
+en-us,sip.neon.reject_all,Reject all incoming calls
+en-us,sip.neon.reject_all,Hang up all calls
+en-us,sip.neon.reject_all,Hang up incoming calls
+en-us,sip.neon.restart,SIP (restart|reboot)
+en-us,sip.neon.restart,VOIP (restart|reboot)
+en-us,sip.neon.restart,(restart|reboot) SIP
+en-us,sip.neon.restart,(restart|reboot) VOIP
+en-us,sip.neon.resume_call,resume call
+en-us,sip.neon.show_home,show voip skill homescreen
+en-us,sip.neon.show_home,show voip skill homepage
+en-us,sip.neon.show_home,open voip skill homescreen
+en-us,sip.neon.show_home,open voip skill homepage
+en-us,sip.neon.show_home,open voip skill
+en-us,sip.neon.show_home,show voip skill
+en-us,sip.neon.sipxcom_sync,Retrieve contacts
+en-us,sip.neon.sipxcom_sync,Download contacts
+en-us,sip.neon.sipxcom_sync,Synchronize contacts
+en-us,sip.neon.unmute,unmute call
+en-us,skystream.play_sky_live_stream,play sky live stream
+en-us,skystream.play_sky_live_stream,play sky live news
+en-us,skystream.play_sky_live_stream,show sky live stream
+en-us,skystream.play_sky_live_stream,open sky live stream
+en-us,skystream.play_sky_live_stream,open sky live news
+en-us,skystream.play_sky_live_stream,show sky live news
+en-us,skystream.stop_sky_live_stream,stop sky live stream
+en-us,skystream.stop_sky_live_stream,stop sky stream
+en-us,skystream.stop_sky_live_stream,close sky stream
+en-us,smod.home,(show|open|display|show me) (stoned meadow of doom|smod) (homescreen|home screen|screen|menu)
+en-us,smod.home,(show|open|display|show me) (stoned meadow of doom|smod)
+en-us,smod.home,(show|open|display|show me) (stoned meadow of doom|smod) skill (homescreen|home screen|screen|menu)
+en-us,smod.home,(show|open|display|show me) (stoned meadow of doom|smod) skill
+en-us,smod.home,(stoned meadow of doom|smod) (homescreen|home screen|screen|menu)
+en-us,sovietwave.home,(show|open|display|show me) (soviet wave|sovietwave|soviet synthwave|soviet synth wave) (homescreen|home screen|screen|menu)
+en-us,sovietwave.home,(show|open|display|show me) (soviet wave|sovietwave|soviet synthwave|soviet synth wave)
+en-us,sovietwave.home,(show|open|display|show me) (soviet wave|sovietwave|soviet synthwave|soviet synth wave) skill (homescreen|home screen|screen|menu)
+en-us,sovietwave.home,(show|open|display|show me) (soviet wave|sovietwave|soviet synthwave|soviet synth wave) skill
+en-us,sovietwave.home,(soviet wave|sovietwave|soviet synthwave|soviet synth wave) (homescreen|home screen|screen|menu)
+en-us,space-news.recent,recent (space news|news about space)
+en-us,space-news.recent,(space news|news about space) from recently
+en-us,space-stuff.spacestuff,(show|plot|display) (orbital debris|stuff in orbit|stuff around the earth)
+en-us,spotify-skill.PlayAlbum,play the album {album}( (on|with|using) spotify|)
+en-us,spotify-skill.PlayAlbum,play the album (called|named){album}( (on|with|using) spotify|)
+en-us,spotify-skill.PlayAlbum,play the album (called|named){album} (by|from){artist}( (on|with|using) spotify|)
+en-us,spotify-skill.PlayAlbum,play the album {album} (by|from) (the band|the group|the musician|the duo|the artist|){artist}( (on|with|using) spotify|)
+en-us,spotify-skill.PlayAlbum,play the album (called|named){album} (by|from) (the band|the group|the musician|the duo|the artist|){artist}( (on|with|using) spotify|)
+en-us,spotify-skill.PlayAlbum,//play the album holy mountain
+en-us,spotify-skill.PlayAlbum,//play the album named holy mountain
+en-us,spotify-skill.PlayAlbum,//play the album holy mountain by sleep
+en-us,spotify-skill.PlayAlbum,//play the album called holy mountain by sleep
+en-us,spotify-skill.PlayAlbum,//play the album called holy mountain by the band sleep
+en-us,spotify-skill.PlayOn,use {device} to play {playlist}
+en-us,spotify-skill.PlayOn,play playlist {playlist} on {device}
+en-us,spotify-skill.PlayOn,play the playlist {playlist} on {device}
+en-us,spotify-skill.PlayPlaylist,play (the |my |)(playlist |){playlist}( (on|with|using) spotify|)
+en-us,spotify-skill.PlaySomeMusic,play (some )music( by {artist}|)(| (on|with|using) spotify)
+en-us,spotify-skill.PlaySomeMusic,play (something|a track|a song|a piece)( by {artist}|)(| (on|with|using) spotify)
+en-us,spotify-skill.PlaySomeMusic,play something(| (on|with|using) spotify)
+en-us,spotify-skill.PlaySong,play {track}( by {artist}|) (off|from)( the album|the vinyl| the record|) {album}(| (on|with|using) spotify)
+en-us,spotify-skill.PlaySong,play {track} (by|from) (the band|the group|the musician|the duo|the artist|){artist}(| (on|with|using) spotify)
+en-us,spotify-skill.PlaySong,play {track} (off|from)( the album|the vinyl| the record|) {album} (by|from){artist}(| (on|with|using) spotify)
+en-us,spotify-skill.PlaySong,play the (song|piece|track|composition)( called| named|) {track}( by {artist}|) (off|from)( the album| the vinyl| the record|) {album}(| (on|with|using) spotify)
+en-us,spotify-skill.PlaySong,play {track}( by {artist}|)(| (on|with|using) spotify)
+en-us,spotify-skill.PlaySong,//play holy mountain
+en-us,spotify-skill.PlaySong,//play the song holy mountain
+en-us,spotify-skill.PlaySong,//play the song holy mountain by sleep
+en-us,spotify-skill.PlaySong,//play holy mountain by the band sleep
+en-us,spotify-skill.PlaySong,//play holy mountain by the band called sleep
+en-us,spotify-skill.PlaySong,//play holy mountain by the group sleep
+en-us,spotify-skill.PlaySong,//play holy mountain by the group called sleep
+en-us,spotify-skill.PlaySong,//play holy mountain off holy mountain
+en-us,spotify-skill.PlaySong,//play holy mountain by sleep from holy mountain
+en-us,spotify-skill.PlaySong,//play holy mountain off the album holy mountain
+en-us,spotify-skill.PlaySong,//
+en-us,spotify-skill.PlaySong,//FAILING:
+en-us,spotify-skill.PlaySong,//
+en-us,spotify-skill.PlaySong,//play holy mountain by sleep from called holy mountain
+en-us,spotify-skill.PlaySong,//play holy mountain from the album called holy mountain
+en-us,spotify-skill.PlaySong,//play holy mountain by the band sleep from called holy mountain
+en-us,spotify-skill.PlaySong,//play the song called holy mountain by the band called sleep
+en-us,spotify-skill.PlaySong,//play the song called holy mountain by sleep
+en-us,spotify-skill.PlaySong,//play holy mountain by the band called sleep from called holy mountain
+en-us,spotify-skill.PlaySong,//play the song called holy mountain off the album named holy mountain
+en-us,spotify-skill.PlaySong,//play the song named holy mountain from holy mountain
+en-us,spotify-skill.PlaySong,//play the song named holy mountain from named holy mountain
+en-us,spotify-skill.PlaySong,//play the song named holy mountain by sleep off the album named holy mountain
+en-us,spotify-skill.PlaySong,//play the song named holy mountain by sleep off the album holy mountain
+en-us,spotify-skill.PlaySong,//play the song holy mountain by the musicians sleep
+en-us,spotify-skill.PlaySong,//play the song holy mountain by the musicians named sleep
+en-us,spotify-skill.PlaySong,//play the song called holy mountain by the musicians sleep
+en-us,spotify-skill.PlaySong,//play the song called holy mountain by the musicians called sleep
+en-us,spotify-skill.ShuffleOff,(turn(| off)|switch(| off)|disable|unset) spotify (shuffle|shuffling)
+en-us,spotify-skill.ShuffleOff,set spotify (shuffle|shuffling) off
+en-us,spotify-skill.ShuffleOn,(turn on|enable|set) spotify (shuffle|shuffling)(| on)
+en-us,support.contact.support,create a troubleshoot request
+en-us,support.contact.support,troubleshoot my device
+en-us,support.contact.support,contact support
+en-us,support.contact.support,create a support ticket
+en-us,theia-ide-skill.restart,Restart IDE
+en-us,theia-ide-skill.start,Activate (theia|THEIA) IDE
+en-us,theia-ide-skill.start,Run (theia|THEIA) IDE
+en-us,theia-ide-skill.start,Start (theia|THEIA) IDE
+en-us,theia-ide-skill.stop,Deactivate (theia|THEIA) IDE
+en-us,theia-ide-skill.stop,Stop (theia|THEIA) IDE
+en-us,theia-ide-skill.stop,End (theia|THEIA) IDE
+en-us,trve-kvlt.home,(show|open|display|show me) black metal (homescreen|home screen|screen|menu)
+en-us,trve-kvlt.home,(show|open|display|show me) black metal
+en-us,trve-kvlt.home,(show|open|display|show me) black metal skill (homescreen|home screen|screen|menu)
+en-us,trve-kvlt.home,(show|open|display|show me) black metal skill
+en-us,trve-kvlt.home,black metal (homescreen|home screen|screen|menu)
+en-us,twitch-streams.show_home_twitch,open twitch app
+en-us,twitch-streams.show_home_twitch,show twitch app
+en-us,twitch-streams.show_home_twitch,launch twitch app
+en-us,twitch-streams.show_home_twitch,open twitch tv
+en-us,twitch-streams.show_home_twitch,show twitch tv 
+en-us,viirs.about,about viirs
+en-us,viirs.about,about Visible Infrared Imaging Radiometer Suite
+en-us,viirs.about,talk about Visible Infrared Imaging Radiometer Suite
+en-us,viirs.about,what is Visible Infrared Imaging Radiometer Suite
+en-us,viirs.about,tell me about Visible Infrared Imaging Radiometer Suite
+en-us,viirs.about,tell me about the Visible Infrared Imaging Radiometer Suite
+en-us,viirs.viirs,Visible Infrared Imaging Radiometer Suite picture
+en-us,viirs.viirs,My House from space
+en-us,viirs.viirs,my location from space
+en-us,viirs.viirs,show my house from space
+en-us,viirs.viirs,show my location from space
+en-us,viirs.viirs,My House from orbit
+en-us,viirs.viirs,my location from orbit
+en-us,viirs.viirs,show my house from orbit
+en-us,viirs.viirs,show my location from orbit
+en-us,viirs.viirs,picture from Visible Infrared Imaging Radiometer Suite
+en-us,viirs.viirs,picture from Viirs
+en-us,viirs.viirs_location,Visible Infrared Imaging Radiometer Suite picture (in|at|on|for) {{location}}
+en-us,viirs.viirs_location,{{location}} from (space|orbit)
+en-us,viirs.viirs_location,(show me|display) {{location}} from (space|orbit!satellite)
+en-us,viirs.viirs_location,picture from Visible Infrared Imaging Radiometer Suite (in|at|on|for) {{location}}
+en-us,viirs.viirs_location,picture from Viirs (in|at|on|for) {{location}}
+en-us,viirs.viirs_location,Visible Infrared Imaging Radiometer Suite picture (#|##|###) months ago (in|at|on|for) {{location}}
+en-us,viirs.viirs_location,Visible Infrared Imaging Radiometer Suite picture (in|at|on|for) {{location}} (#|##) years ago
+en-us,viirs.viirs_location,picture from Visible Infrared Imaging Radiometer Suite (#|##) years ago (in|at|on|for) {{location}}
+en-us,viirs.viirs_location,picture from Viirs (#|##) (years|days|months|weeks) ago (in|at|on|for) {{location}}
+en-us,viirs.viirs_time,Visible Infrared Imaging Radiometer Suite picture (#|##|###|####) days ago
+en-us,viirs.viirs_time,My (House|location) from (space|orbit)  (#|##|###|####) days ago
+en-us,viirs.viirs_time,show my (House|location) from (space|orbit) (#|##|###|####) days ago
+en-us,viirs.viirs_time,picture from Visible Infrared Imaging Radiometer Suite (#|##|###|####) days ago
+en-us,viirs.viirs_time,picture from Viirs (#|##|###|####) days ago
+en-us,viirs.viirs_time,Visible Infrared Imaging Radiometer Suite picture (#|##|###) months ago
+en-us,viirs.viirs_time,My (House|location) from (space|orbit) (#|##|###) months ago
+en-us,viirs.viirs_time,show my (House|location) from (space|orbit) (#|##|###) months ago
+en-us,viirs.viirs_time,picture from Visible Infrared Imaging Radiometer Suite (#|##|###) months ago
+en-us,viirs.viirs_time,picture from Viirs (#|##|###) months ago
+en-us,viirs.viirs_time,Visible Infrared Imaging Radiometer Suite picture (#|##) years ago
+en-us,viirs.viirs_time,My (House|location) from (space|orbit) (#|##) years ago
+en-us,viirs.viirs_time,show my (House|location) from (space|orbit) (#|##) years ago
+en-us,viirs.viirs_time,picture from Visible Infrared Imaging Radiometer Suite (#|##) years ago
+en-us,viirs.viirs_time,picture from Viirs (#|##) years ago
+en-us,viirs.viirs_time,My (House|location) from (space|orbit) (last|past) (week|month|year|day|weekend)
+en-us,viirs.viirs_time,My (House|location) from (space|orbit) yesterday
+en-us,voip.answer_all,Answer all calls
+en-us,voip.answer_all,Answer all incoming calls
+en-us,voip.answer_all_and_say,Answer all calls and say {{speech}}
+en-us,voip.answer_all_and_say,Answer all incoming calls and say {{speech}}
+en-us,voip.answer_all_and_say,Answer all calls with {{speech}}
+en-us,voip.answer_all_and_say,Answer all incoming calls with {{speech}}
+en-us,voip.call,Call {{contact}}
+en-us,voip.call,Place a call to {{contact}}
+en-us,voip.call,Phone {{contact}}
+en-us,voip.call_and_say,Call {{contact}} and (say|speak) {{speech}}
+en-us,voip.call_and_say,Place a call to {{contact}} and (say|speak) {{speech}}
+en-us,voip.call_and_say,Phone {{contact}} and (say|speak) {{speech}}
+en-us,voip.call_status,what is the call status
+en-us,voip.call_status,what is the phone status
+en-us,voip.call_status,what is the call state
+en-us,voip.call_status,what is the phone state
+en-us,voip.call_status,call state
+en-us,voip.call_status,phone state
+en-us,voip.call_status,call status
+en-us,voip.call_status,phone status
+en-us,voip.contacts_list,List contacts
+en-us,voip.contacts_list,What numbers do you have
+en-us,voip.contacts_list,What phone numbers do you know
+en-us,voip.contacts_number,How many contacts
+en-us,voip.contacts_number,How many do you have
+en-us,voip.contacts_number,How many phone numbers do you know
+en-us,voip.contacts_number,Number of contacts
+en-us,voip.converse.disable,make (SIP|VOIP|phone|calls) (|a|an) (fallback|fall back) (|skill)
+en-us,voip.converse.disable,(disable|turn off|abort|kill|stop|end) (SIP|VOIP|phone|calls) (priority|converse)
+en-us,voip.converse.disable,make (SIP|VOIP|phone|calls) trigger (last|in the end|at the end|on the end)
+en-us,voip.converse.enable,make (SIP|VOIP|phone|calls) (|a|an) priority (|skill)
+en-us,voip.converse.enable,make (SIP|VOIP|phone|calls) trigger (first|before adapt)
+en-us,voip.disable_auto,Manual call handling
+en-us,voip.disable_auto,Ask before calls
+en-us,voip.disable_auto,Ask before accepting calls
+en-us,voip.disable_auto,Ask before rejecting calls
+en-us,voip.disable_auto,Dont handle calls automatically
+en-us,voip.disable_auto,Do not handle calls automatically
+en-us,voip.login,SIP login
+en-us,voip.login,VOIP login
+en-us,voip.login,login into SIP
+en-us,voip.login,login into VOIP
+en-us,voip.reject_all,Reject all calls
+en-us,voip.reject_all,Reject all incoming calls
+en-us,voip.reject_all,Hang up all calls
+en-us,voip.reject_all,Hang up incoming calls
+en-us,voip.restart,SIP (restart|reboot)
+en-us,voip.restart,VOIP (restart|reboot)
+en-us,voip.restart,(restart|reboot) SIP
+en-us,voip.restart,(restart|reboot) VOIP
+en-us,voip.resume_call,resume
+en-us,voip.resume_call,resume call
+en-us,voip.show_home,show voip skill homescreen
+en-us,voip.show_home,show voip skill homepage
+en-us,voip.show_home,open voip skill homescreen
+en-us,voip.show_home,open voip skill homepage
+en-us,voip.show_home,open voip skill
+en-us,voip.show_home,show voip skill
+en-us,voip.sipxcom_sync,Retrieve contacts
+en-us,voip.sipxcom_sync,Download contacts
+en-us,voip.sipxcom_sync,Synchronize contacts
+en-us,voip.unmute,unmute
+en-us,voip.unmute,unmute call
+en-us,wallpapers.picture.about,(show|display|random|new) (picture|photo|image) (about|for|with) {{query}}
+en-us,wallpapers.picture.about,(show|display) me a (picture|photo|image) (about|for|with) {{query}}
+en-us,wallpapers.picture.about,(show|display) me a (random|new|other|another) (picture|photo|image) (about|for|with) {{query}}
+en-us,wallpapers.picture.about,(show|display) (random|new|other|another) (picture|photo|image) (about|for|with) {{query}}
+en-us,wallpapers.picture.random,(show|display|random|new) (picture|photo|image)
+en-us,wallpapers.picture.random,(show|display) me a (picture|photo|image)
+en-us,wallpapers.picture.random,(show|display) me a (random|new|other|another) (picture|photo|image)
+en-us,wallpapers.picture.random,(show|display) (random|new|other|another) (picture|photo|image)
+en-us,wallpapers.wallpaper.about,(change|random|new) (wallpaper|wall paper) (about|for|with|to) {{query}}
+en-us,wallpapers.wallpaper.random,(change|random|new) (wallpaper|wall paper)
+en-us,webb-telescope.about,(about|what is|tell me about) (web|webb|james web|james webb) (telescope|space telescope)
+en-us,webb-telescope.about,(about|what is|tell me about) the (web|webb|james web|james webb) (telescope|space telescope)
+en-us,webb-telescope.webb,(picture|show|display|image|photo) (from|from the) (web|webb|james web|james webb) (telescope|space telescope)
+en-us,webb-telescope.webb,(web|webb|james web|james webb) (telescope|space telescope) (picture|show|display|image|photo)
+en-us,webb-telescope.webb,(web|webb|james web|james webb) (telescope|space telescope) (picture|show|display|image|photo)
+en-us,wikidata.birth.place.of.person,what is the birth place of {person}
+en-us,wikidata.birth.place.of.person,where was {person} born
+en-us,wikidata.birth.place.of.person,whats the birth place of {person}
+en-us,wikidata.birth.place.of.person,which city was {person} born in
+en-us,wikidata.birth.place.of.person,which country was {person} born in
+en-us,wikidata.burial.location,what place was {person} buried in 
+en-us,wikidata.burial.location,what location was {person} buried in
+en-us,wikidata.burial.location,which place was {person} buried
+en-us,wikidata.burial.location,which location was {person} buried in
+en-us,wikidata.burial.location,what location is {person} buried in
+en-us,wikidata.burial.location,which location is {person} buried in
+en-us,wikidata.burial.location,{person} was buried in which location
+en-us,wikidata.burial.location,{person} was buried in which place
+en-us,wikidata.date.of.birth,what is {person} date of birth
+en-us,wikidata.date.of.birth,when was {person} born
+en-us,wikidata.date.of.birth,whats the birth date of {person}
+en-us,wikidata.date.of.birth,when is {person} birthday
+en-us,wikidata.date.of.death,what is {person} date of death
+en-us,wikidata.date.of.death,when did {person} die
+en-us,wikidata.date.of.death,whats the date of death of {person}
+en-us,wikidata.date.of.death,{person} date of death
+en-us,wikidata.death.place.of.person,what place did {person} die in
+en-us,wikidata.death.place.of.person,whats the place of death of {person}
+en-us,wikidata.death.place.of.person,which place did {person} die in
+en-us,wikidata.death.place.of.person,which city did {person} die in
+en-us,wikidata.death.place.of.person,which country did {person} die in
+en-us,wikidata.how.old.is.person,how old is {person}
+en-us,wikidata.how.old.is.person,what is {person} age
+en-us,wikidata.how.old.is.person,whats {person} age
+en-us,wikidata.show.wikidata.home,show wikidata homepage 
+en-us,wikidata.what.children.name,what is the name of {person} children
+en-us,wikidata.what.children.name,who are {person} children
+en-us,wikidata.what.children.name,what is the name if {person} child
+en-us,wikidata.what.children.name,name the child of {person}
+en-us,wikidata.what.children.name,name the children of {person}
+en-us,wikidata.what.is.the.gender,what is the gender of {person}
+en-us,wikidata.what.is.the.gender,whats the gender of {person}
+en-us,wikidata.what.is.the.gender,what gender is {person}
+en-us,wikidata.what.occupation,what is the occupation of {person}
+en-us,wikidata.what.occupation,what occupation is {person} in
+en-us,wikidata.what.occupation,what does {person} do
+en-us,wikidata.what.occupation,what job does {person} do
+en-us,wikidata.what.occupation,whats {person} occupation
+en-us,wikidata.which.country.is.from,which country is {person} from
+en-us,wikidata.which.country.is.from,what country does {person} belong to
+en-us,wikidata.which.country.is.from,{person} is citizen of which country
+en-us,wikidata.which.country.is.from,which country is {person} citizen of
+en-us,wikidata.who.is.the.spouse,who is the spouse of {person}
+en-us,wikidata.who.is.the.spouse,who is the wife of {person}
+en-us,wikidata.who.is.the.spouse,who is {person} married too
+en-us,wikidata.who.is.the.spouse,who is {person} married to
+en-us,wikidata.who.is.the.spouse,whos the spouse of {person}
+en-us,wikidata.who.is.the.spouse,whos the wife of {person}
+en-us,wikidata.who.is.the.spouse,whos {person} married too
+en-us,wikidata.who.is.the.spouse,whos {person} married to
+en-us,wikihow.howto,how to {query}
+en-us,wikihow.howto,how do i {query}
+en-us,wikihow.howto,how can i {query}
+en-us,wikihow.howto,steps for {query}
+en-us,wikipedia-for-humans.wiki,(wiki|wikipedia) {query}
+en-us,wikipedia-for-humans.wiki,tell (us|me) about {query}
+en-us,wikipedia-for-humans.wiki,what does (wiki|wikipedia) say about {query}
+en-us,wikipedia-for-humans.wiki,(search|check) (wiki|wikipedia) for {query}
+en-us,wikipedia-for-humans.wikiroulette,(wiki|wikipedia) roulette
+en-us,wikipedia-for-humans.wikiroulette,(play|play the) (wiki|wikipedia) roulette
+en-us,wikipedia-for-humans.wikiroulette,random (wiki|wikipedia) page
+en-us,wikipedia-for-humans.wikiroulette,random (wiki|wikipedia)
+en-us,wikipedia-for-humans.wikiroulette,(show|display|open) random (wiki|wikipedia)
+en-us,wikiquote-skill.random,tell me (some|a) (quote|wisdom)
+en-us,wikiquote-skill.random,give me (some|a) (quote|wisdom)
+en-us,wikiquote-skill.random,I need some wisdom
+en-us,wikiquote-skill.specific,tell me (some|a|an) {subject} (quote|wisdom)
+en-us,wikiquote-skill.specific,give me (some|a|an) {subject} (quote|wisdom)
+en-us,wikiquote-skill.specific,I need some {subject} (quote|wisdom)
+en-us,wikiquote-skill.specific,tell me a quote (from|about) {subject}
+en-us,wikiquote-skill.specific,give me a quote (from|about) {subject}
+en-us,wikiquote-skill.specific,I need a quote (from|about) {subject}
+en-us,wolfie.search_wolfie,search wolfram alpha for {query}
+en-us,wolfie.search_wolfie,search wolfram for {query}
+en-us,wolfie.search_wolfie,ask the wolfram about {query}
+en-us,wolfie.search_wolfie,ask the wolfram alpha about {query}
+en-us,wolfie.search_wolfie,what does wolfram alpha say about {query}
+en-us,wolfie.search_wolfie,what does wolfram say about {query}
+en-us,wolfie.search_wolfie,ask the wolf {query}
+en-us,wolfie.search_wolfie,search the wolf for {query}
+en-us,wolfie.search_wolfie,what does the wolf say about {query}
+en-us,xkcd.latest_xkcd,show me the latest comic
+en-us,xkcd.latest_xkcd,display latest xkcd
+en-us,xkcd.latest_xkcd,show xkcd
+en-us,xkcd.latest_xkcd,display xkcd
+en-us,xkcd.latest_xkcd,display a xkcd comic
+en-us,xkcd.latest_xkcd,display a comic
+en-us,xkcd.latest_xkcd,latest xkcd
+en-us,xkcd.random_xkcd_comic,random comic
+en-us,xkcd.random_xkcd_comic,show random comic
+en-us,xkcd.random_xkcd_comic,random xkcd
+en-us,xkcd.random_xkcd_comic,display random xkcd
+en-us,xkcd.random_xkcd_comic,xkcd random comic
+en-us,xkcd.random_xkcd_comic,show me a random xkcd comic
+en-us,xkcd.random_xkcd_comic,show me a random comic
+en-us,xkcd.random_xkcd_comic,show me a comic
+en-us,xkcd.total_comics,how many xkcd comics
+en-us,xkcd.total_comics,number of xkcd comics
+en-us,xkcd.total_comics,xkcd comic numbers
+en-us,xkcd.total_comics,total xkcd comics
+en-us,xkcd.xkcd_comic,show me comic number (#|##|###|####)
+en-us,xkcd.xkcd_comic,show xkcd number (#|##|###|####)
+en-us,xkcd.xkcd_comic,show comic (#|##|###|####)
+en-us,xkcd.xkcd_comic,show xkcd (#|##|###|####)
+en-us,xkcd.xkcd_comic,display xkcd (#|##|###|####)
+en-us,xkcd.xkcd_comic,display xkcd comic (#|##|###|####)
+en-us,xkcd.xkcd_comic,display comic (#|##|###|####)
+en-us,xkcd.xkcd_comic,xkcd (#|##|###|####)
+en-us,xkcd.xkcd_comic,xkcd number (#|##|###|####)
+en-us,xkcd.xkcd_website,open the xkcd website
+en-us,xkcd.xkcd_website,open the website for xkcd
+en-us,xkcd.xkcd_website,xkcd website
+en-us,youtube-skill.youtube,youtube {videoname}
+en-us,youtube-skill.youtube,show video of {videoname} on youtube
+en-us,youtube-skill.youtube,youtube the song {videoname}
+en-us,youtube-skill.youtube,youtube the artist {videoname}
+en-us,youtube-skill.youtube-repeat,youtube replay
+en-us,youtube-skill.youtube-repeat,youtube repeat
+en-us,youtube-skill.youtube-repeat,youtube replay last video
+en-us,youtube-skill.youtube-repeat,youtube repeat last video
+en-us,youtube-skill.youtube-repeat,replay last video
+en-us,youtube-skill.youtube-repeat,repeat last video
+en-us,youtube-skill.youtubeopenapp,open the youtube app
+en-us,youtube-skill.youtubeopenapp,open youtube app
+en-us,youtube-skill.youtubeopenapp,show the youtube app
+en-us,youtube-skill.youtubeopenapp,open the youtube application
+en-us,youtube-skill.youtubeopenapp,open youtube application
+en-us,youtube-skill.youtubeopenapp,show the youtube application
+en-us,youtube-skill.youtubeopenapp,show youtube app
+en-us,youtube-skill.youtubeopenapp,show me whats trending on youtube

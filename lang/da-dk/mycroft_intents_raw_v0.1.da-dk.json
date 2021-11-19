@@ -1,0 +1,150 @@
+{
+  "da-dk": {
+    "auto-volume-skill.activate": [
+      "Aktiv\u00e9r auto volume",
+      "S\u00e6t autovolumen til aktiv",
+      "T\u00e6nd auto volume",
+      "S\u00e6t auto volume til"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Deaktiv\u00e9r autovolumen",
+      "S\u00e6t autovolume til inaktiv",
+      "Sluk auto volume",
+      "S\u00e6t auto volume fra"
+    ],
+    "auto-volume-skill.reset": [
+      "Ryd autovolumenm\u00e5linger",
+      "Slet autovolumenm\u00e5linger",
+      "Nulstil autovolumenm\u00e5linger"
+    ],
+    "cocktail.Needed": [
+      "hvad skal bruges til (en) {drink}",
+      "hvad beh\u00e6ver (jeg|du} (for|til) (at lave) (en) {drink}",
+      "hvad er (indgridienser|indgridienserne) (i|for) (en) {drink}"
+    ],
+    "cocktail.Recipie": [
+      "hvordan (vil|kan) (jeg|du) (lave|mixe) (en) {drink}",
+      "fort\u00e6l (mig|os} hvordan man (laver|mixer) (en) {drink}",
+      "giv (mig|os) instruktion (for|til) (en) {drink}",
+      "hvordan (laver|mixes) (en) {drink}",
+      "hvad er receptien (for|p\u00e5) (en) {drink}"
+    ],
+    "count-skill.count": [
+      "T\u00e6l til {number}"
+    ],
+    "count-skill.countdown": [
+      "T\u00e6ller ned fra {number}",
+      "Nedt\u00e6lling fra {number}",
+      "T\u00e6l bagl\u00e6ns fra {number}",
+      "T\u00e6l bagl\u00e6ns fra {number}",
+      "T\u00e6l bagl\u00e6ns fra {number}",
+      "T\u00e6l ned fra {number}",
+      "T\u00e6l bagl\u00e6ns fra {number}"
+    ],
+    "dice-skill.Dice": [
+      "kast ({count}|) d {type} (+|plus|) ({modifier}|)"
+    ],
+    "dice-skill.NormalDice": [
+      "kast ({count}|) (terninger|terning)"
+    ],
+    "dice-skill.Range": [
+      "Gener\u00e9r et tilf\u00e6ldigt nummer fra {low} til {high}",
+      "Gener\u00e9r et tilf\u00e6ldigt nummer mellem {low} og {high}",
+      "Sig mit et nummer mellem {low} og {high}",
+      "Giv mig et nummer mellem {low} og {high}"
+    ],
+    "email-skill.check.email": [
+      "kontroler min email",
+      "kontroler min mail",
+      "har jeg nogen nye emails",
+      "har jeg nogen emails",
+      "har jeg nogen nye emails"
+    ],
+    "emby-skill.emby": [
+      "spil {media} fra emby",
+      "spil {media} fra mb"
+    ],
+    "iss-tracker-skill.tracker.iss": [
+      "Hvor er den internationale rumstation",
+      "Lokaliser I S S ",
+      "Hvor er I S S "
+    ],
+    "laugh.Laugh": [
+      "Grin ligesom Alexa",
+      "kan du grine",
+      "ond (latter|grin|grine)"
+    ],
+    "laugh.RandomLaugh": [
+      "grin tilf\u00e6ldigt",
+      "trigger tilf\u00e6ldig (latter|grin)",
+      "tilf\u00e6ldig (latter|grin)"
+    ],
+    "moviemaster.genre.movie.search": [
+      "(list | find) film der er (i genren | en) {genre}",
+      "(list | find) {genre} film"
+    ],
+    "moviemaster.genre.tv.search": [
+      "(list | find) (tv-shows | fjernsynsprogrammer | programmer) der er (en |) {genre}",
+      "(list | find) {genre} (tv-shows | fjernsnsprogrammer | programmer)"
+    ],
+    "moviemaster.movie.cast": [
+      "hvem (spiller | er) i (film | filmen) {movie}"
+    ],
+    "moviemaster.movie.description": [
+      "Hvad er (film | filmen) {movie} om",
+      "fort\u00e6l (|mig | os) om (film | filmen) {movie}",
+      "giv (mig | os) en (beskrivelse | synopsis) (af|om) (film | filmen) {movie}"
+    ],
+    "moviemaster.movie.genres": [
+      "Hvilke genrer tilh\u00f8rer (film | filmen | flick) {movie}",
+      "hvad er genren til (film | filmen | flick) {movie}"
+    ],
+    "moviemaster.movie.information": [
+      "(find | sl\u00e5 op | er der) (information | info) (p\u00e5 | om) (film | filmen) {movie}",
+      "(oplys | fort\u00e6l | find) (| mig | os) (information | info) (p\u00e5 | om) (film | filmen) {movie}"
+    ],
+    "moviemaster.movie.popular": [
+      "(liste | s\u00f8gning | s\u00f8g efter) popul\u00e6re film",
+      "hvad er (| de) popul\u00e6re film (der spiller | er ude) nu"
+    ],
+    "moviemaster.movie.production": [
+      "(hvem | hvilket firma) (produceret | lavet) filmen {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "anbefal en film der (ligner | lignende) {movie}",
+      "hvilke film (ville | kan) du anbefale (der ligner | der lignende) {movie}",
+      "(list | f\u00e5) (gode|) film (der ligner | der lignende) {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "Hvor lang tid (er|varer) (filmen|)  {movie}",
+      "Hvad er spiletiden (for|p\u00e5) (filmen|) (film)",
+      "F\u00e5 (runtime | l\u00e6ngden) af (film | film | flick) {movie}"
+    ],
+    "moviemaster.movie.top": [
+      "(list | hvad er | s\u00f8g efter) de (top | mest popul\u00e6re | h\u00f8jst vurderede) film (der spiller | er ude) (| nu)"
+    ],
+    "moviemaster.movie.year": [
+      "(hvilket \u00e5r | hvorn\u00e5r | hvilken dato) var filmen {movie} (lavet | frigivet)"
+    ],
+    "moviemaster.tmdb": [
+      "Hvad er filmen {movie} om",
+      "Fort\u00e6l mig om filmen {movie}",
+      "Hvem spiller i filmen {movie}",
+      "Fort\u00e6l mig om skuespilleren {actor}",
+      "Hvorn\u00e5r blev filmen {movie} lavet"
+    ],
+    "wikiquote-skill.random": [
+      "fort\u00e6l mig (nogle | noget | et) (citat | visdom | klogt)",
+      "giv mig (nogle | et | noget ) (citat | visdom | klogt)",
+      "Jeg beh\u00f8ver noget klogt"
+    ],
+    "wikiquote-skill.specific": [
+      "fort\u00e6l mig (nogle | en | et |noget) {subject} (citat | visdom | klogt)",
+      "giv mig (nogle | en | et | noget) {subject} (citat | visdom|klogt)",
+      "Jeg har brug for noget {subject} (citat | visdom | klogt)",
+      "fort\u00e6l mig et citat (fra | om) {subject}",
+      "Giv mig et citat (fra | om) {subject}",
+      "Jeg har brug for et tilbud (fra | om) {subject}"
+    ]
+  }
+}

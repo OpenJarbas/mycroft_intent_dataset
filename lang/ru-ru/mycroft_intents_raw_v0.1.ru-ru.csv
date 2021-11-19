@@ -1,0 +1,40 @@
+ru-ru,auto-volume-skill.activate,Активировать автоматическую громкость
+ru-ru,auto-volume-skill.activate,Активировать автоматическую громкость
+ru-ru,auto-volume-skill.activate,Включить автогромкость
+ru-ru,auto-volume-skill.activate,Включить автоматическое управление громкостью
+ru-ru,auto-volume-skill.deactivate,Отключить автоматическую громкость
+ru-ru,auto-volume-skill.deactivate,Деактивировать автоматическую громкость
+ru-ru,auto-volume-skill.deactivate,Отключить автоматическую громкость
+ru-ru,auto-volume-skill.deactivate,Отключить режим автоматической настройки громкости
+ru-ru,auto-volume-skill.reset,Очистка измерений автоматической громкости
+ru-ru,auto-volume-skill.reset,Удаление измерений автоматической громкости
+ru-ru,auto-volume-skill.reset,Сброс измерений автоматической громкости
+ru-ru,cocktail.Needed,что понадобится чтобы сделать {drink}
+ru-ru,cocktail.Needed,что (мне|тебе) понадобиться (для|чтобы сделать) (порцию|простой) {drink}
+ru-ru,cocktail.Needed,какие нужны (ингредиент|ингредиенты) (на|для) (этого|такого) {drink}
+ru-ru,cocktail.Recipie,как (бы|нужно) (ты|я|мне|тебе) (сделать|смешать) {drink}
+ru-ru,cocktail.Recipie,скажи (мне|нам) как (сделать|смешать) {drink}
+ru-ru,cocktail.Recipie,дай (мне|нам) инструкции для {drink}
+ru-ru,cocktail.Recipie,как (сделать|смешать) {drink}
+ru-ru,cocktail.Recipie,какой рецепт (для|у)  {drink}
+ru-ru,count-skill.count,Сосчитай до {number}
+ru-ru,count-skill.countdown,Обратный отсчёт от {number}
+ru-ru,count-skill.countdown,Считаю с {number}
+ru-ru,count-skill.countdown,Обратный отсчёт с {number}
+ru-ru,count-skill.countdown,Считаю обратно с {number}
+ru-ru,count-skill.countdown,Обратный отсчет от {number}
+ru-ru,count-skill.countdown,Обратный отсчёт от {number}
+ru-ru,count-skill.countdown,Обратный отсчёт с {number}
+ru-ru,dice-skill.Dice,брось ({count}|) d {type} (+|плюс|) ({modifier}|)
+ru-ru,dice-skill.NormalDice,брось ({count}|) (кубов|куба|кубиков|костей)
+ru-ru,dice-skill.Range,Генерация случайного числа от {low} до {high}
+ru-ru,dice-skill.Range,Сгенерировать случайное число между {low} и {high}
+ru-ru,dice-skill.Range,Назовите число от {low} до {high}
+ru-ru,dice-skill.Range,Назовите число между {low} и {high}
+ru-ru,email-skill.check.email,Проверь мой почтовый ящик
+ru-ru,email-skill.check.email,проверь мою почту
+ru-ru,email-skill.check.email,Проверь есть ли у меня новые письма
+ru-ru,email-skill.check.email,Есть ли у меня почта
+ru-ru,email-skill.check.email,Проверь есть ли у меня есть новые электронные письма
+ru-ru,emby-skill.emby,Играй {media} из эмби
+ru-ru,emby-skill.emby,Играй {media} из мб

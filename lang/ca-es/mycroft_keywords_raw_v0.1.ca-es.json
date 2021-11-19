@@ -1,0 +1,83 @@
+{
+  "ca-es": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Bola de cristall",
+      "Mirall mirall"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "futur",
+      "dem\u00e0"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "Digues-me",
+      "Qu\u00e8"
+    ],
+    "Number-Guess-Mycroft-Skill.NumberGuess": [
+      "Endevina el n\u00famero",
+      "joc d'endevinar nombres"
+    ],
+    "Number-Guess-Mycroft-Skill.Play": [
+      "Juguem",
+      "Comen\u00e7a el joc"
+    ],
+    "Number-Guess-Mycroft-Skill.Suggest": [
+      "Anem",
+      "Deixa'ns",
+      "Per qu\u00e8 no",
+      "I si",
+      "Deur\u00edem"
+    ],
+    "cocktail.Again": [
+      "una altra vegada"
+    ],
+    "cocktail.Ingredients": [
+      "ingredient",
+      "ingredients"
+    ],
+    "cocktail.TellMe": [
+      "quins s\u00f3n",
+      "digues-me"
+    ],
+    "cocktail.What": [
+      "quin era",
+      "quins eren"
+    ],
+    "ddg.More": [
+      "(dona|d\u00f3na)'m m\u00e9s informaci\u00f3",
+      "(dona|d\u00f3na|vull) m\u00e9s informaci\u00f3",
+      "m\u00e9s informaci\u00f3",
+      "vull saber-ne m\u00e9s",
+      "continua",
+      "segueix"
+    ],
+    "white-house-adventure.Delete": [
+      "suprimeix"
+    ],
+    "white-house-adventure.Play": [
+      "reprodueix",
+      "v\u00e9s a",
+      "v\u00e9s a"
+    ],
+    "white-house-adventure.Save": [
+      "desa",
+      "guarda la partida",
+      "guardat"
+    ],
+    "white-house-adventure.Zork": [
+      "zork",
+      "safata d'entrada",
+      "casa blanca"
+    ],
+    "wikipedia-for-humans.More": [
+      "en vull saber m\u00e9s",
+      "vull saber-ne m\u00e9s",
+      "vull m\u00e9s informaci\u00f3",
+      "en vull m\u00e9s informaci\u00f3",
+      "m\u00e9s informaci\u00f3",
+      "continua",
+      "segueix",
+      "explica'm m\u00e9s",
+      "explica-me'n m\u00e9s"
+    ]
+  }
+}

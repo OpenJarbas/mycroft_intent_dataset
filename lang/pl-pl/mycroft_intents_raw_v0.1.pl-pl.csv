@@ -1,0 +1,18 @@
+pl-pl,cocktail.Needed,co jest potrzebne do zrobienia {drink}
+pl-pl,cocktail.Needed,czego (potrzebuję | potrzebujesz) do zrobienia {drink}
+pl-pl,cocktail.Needed,(jaki jest składnik | jakie są składniki) {drink}
+pl-pl,cocktail.Recipie,jak (mam zrobić | zrobię) {drink}
+pl-pl,cocktail.Recipie,powiedz (mi | nam) jak zrobić {drink}
+pl-pl,cocktail.Recipie,podaj (mi | nam) instrukcje dla {drink}
+pl-pl,cocktail.Recipie,jak zrobić {drink}
+pl-pl,cocktail.Recipie,jaki jest przepis na {drink}
+pl-pl,wikiquote-skill.random,(o|)powiedz mi (jakąś |jakiś |)(cytat|mądrość)
+pl-pl,wikiquote-skill.random,daj mi (jakąś |jakiś |)(cytat|mądrość)
+pl-pl,wikiquote-skill.random,zacytuj (coś|kogoś) mądrego
+pl-pl,wikiquote-skill.random,zacytuj (coś|kogoś)
+pl-pl,wikiquote-skill.random,(poszukuję|potrzebuję) (jakiegoś|jakiejś)(mądrości|oświecenia|inspiracji)
+pl-pl,wikiquote-skill.specific,(o|)powiedz mi (cytat|mądrość) (o|na temat|) {subject}
+pl-pl,wikiquote-skill.specific,daj mi (cytat|mądrość) (o|na temat|) {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję (jakiegoś |jakiejś |)(cytatu|mądrości) (o|na temat|) {subject}
+pl-pl,wikiquote-skill.specific,zacytuj (coś|kogoś) (mądrego |)(o|na temat|) {subject}
+pl-pl,wikiquote-skill.specific,poszukuję (jakiegoś |jakiejś |)(cytatu|mądrości|oświecenia|inspiracji) (o|na temat|) {subject}

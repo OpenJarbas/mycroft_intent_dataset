@@ -1,0 +1,91 @@
+ro-ro,auto-volume-skill.activate,Pornește volumul automat
+ro-ro,auto-volume-skill.activate,Setează volum automat activ
+ro-ro,auto-volume-skill.activate,Pornește volumul automat
+ro-ro,auto-volume-skill.activate,Pornește volumul automat
+ro-ro,auto-volume-skill.deactivate,Dezactivează volum automat
+ro-ro,auto-volume-skill.deactivate,Setează volum automat inactiv
+ro-ro,auto-volume-skill.deactivate,Oprește volumul automat
+ro-ro,auto-volume-skill.deactivate,Oprește volum automat
+ro-ro,auto-volume-skill.reset,Sterge măsurătorile de volum automat
+ro-ro,auto-volume-skill.reset,Sterge măsurătorile pentru volumul automat
+ro-ro,auto-volume-skill.reset,Sterge măsurătorile pentru volumul automat
+ro-ro,cocktail.Needed,ce este necesar pentru a face un {drink}
+ro-ro,cocktail.Needed,ce este necesar pentru a face o {drink}
+ro-ro,cocktail.Needed,ce ai nevoie să faci un {drink}
+ro-ro,cocktail.Needed,ce ai nevoie să faci o {drink}
+ro-ro,cocktail.Needed,ce ai nevoie să fac un {drink}
+ro-ro,cocktail.Needed,ce ai nevoie să fac o {drink}
+ro-ro,cocktail.Needed,ce ai nevoie pentru un {drink}
+ro-ro,cocktail.Needed,ce ai nevoie pentru o {drink}
+ro-ro,cocktail.Needed,ce am nevoie să faci un {drink}
+ro-ro,cocktail.Needed,ce am nevoie să faci o {drink}
+ro-ro,cocktail.Needed,ce am nevoie să fac un {drink}
+ro-ro,cocktail.Needed,ce am nevoie să fac o {drink}
+ro-ro,cocktail.Needed,ce am nevoie pentru un {drink}
+ro-ro,cocktail.Needed,ce am nevoie pentru o {drink}
+ro-ro,cocktail.Needed,care sunt ingredientele pentru un {drink}
+ro-ro,cocktail.Needed,care sunt ingredientele pentru o {drink}
+ro-ro,cocktail.Needed,care este ingredientul pentru un {drink}
+ro-ro,cocktail.Needed,care este ingredientul pentru o {drink}
+ro-ro,cocktail.Recipie,cum se prepara un {drink}
+ro-ro,cocktail.Recipie,cum se prepara o {drink}
+ro-ro,cocktail.Recipie,cum se face un {drink}
+ro-ro,cocktail.Recipie,cum se face o {drink}
+ro-ro,cocktail.Recipie,cum s-ar prepara un {drink}
+ro-ro,cocktail.Recipie,cum s-ar prepara o {drink}
+ro-ro,cocktail.Recipie,cum s-ar face un {drink}
+ro-ro,cocktail.Recipie,cum s-ar face o {drink}
+ro-ro,cocktail.Recipie,spune-mi cum sa pregătesc un {drink}
+ro-ro,cocktail.Recipie,spune-mi cum sa pregătesc o {drink}
+ro-ro,cocktail.Recipie,spune-mi cum sa fac un {drink}
+ro-ro,cocktail.Recipie,spune-mi cum sa fac o {drink}
+ro-ro,cocktail.Recipie,spune cum sa pregătesc un {drink}
+ro-ro,cocktail.Recipie,spune cum sa pregătesc o {drink}
+ro-ro,cocktail.Recipie,spune cum sa fac un {drink}
+ro-ro,cocktail.Recipie,spune cum sa fac o {drink}
+ro-ro,cocktail.Recipie,dă-ne instrucțiuni pentru un {drink}
+ro-ro,cocktail.Recipie,dă-ne instrucțiuni pentru o {drink}
+ro-ro,cocktail.Recipie,dă-mi instrucțiuni pentru un {drink}
+ro-ro,cocktail.Recipie,dă-mi instrucțiuni pentru o {drink}
+ro-ro,cocktail.Recipie,cum se pregateste un {drink}
+ro-ro,cocktail.Recipie,cum se pregateste o {drink}
+ro-ro,cocktail.Recipie,cum se face un {drink}
+ro-ro,cocktail.Recipie,cum se face o {drink}
+ro-ro,cocktail.Recipie,care este rețeta pentru un {drink}
+ro-ro,cocktail.Recipie,care este rețeta pentru o {drink}
+ro-ro,count-skill.count,Numără până la {number}
+ro-ro,count-skill.countdown,Numărătoare inversă de la {number}
+ro-ro,count-skill.countdown,Numărătoarea inversă de la {number}
+ro-ro,count-skill.countdown,Numără înapoi de la {number}
+ro-ro,count-skill.countdown,Numără înapoi de la {number}
+ro-ro,count-skill.countdown,Numără înapoi de la {number}
+ro-ro,count-skill.countdown,De la {number} numără înapoi
+ro-ro,count-skill.countdown,De la {number} numără înapoi
+ro-ro,dice-skill.Dice,rostogolește d {type}
+ro-ro,dice-skill.Dice,rostogolește d {type} {modifier}
+ro-ro,dice-skill.Dice,rostogolește d {type} plus
+ro-ro,dice-skill.Dice,rostogolește d {type} plus {modifier}
+ro-ro,dice-skill.Dice,rostogolește d {type} +
+ro-ro,dice-skill.Dice,rostogolește d {type} + {modifier}
+ro-ro,dice-skill.Dice,rostogolește {count} d {type}
+ro-ro,dice-skill.Dice,rostogolește {count} d {type} {modifier}
+ro-ro,dice-skill.Dice,rostogolește {count} d {type} plus
+ro-ro,dice-skill.Dice,rostogolește {count} d {type} plus {modifier}
+ro-ro,dice-skill.Dice,rostogolește {count} d {type} +
+ro-ro,dice-skill.Dice,rostogolește {count} d {type} + {modifier}
+ro-ro,dice-skill.NormalDice,rostogolește ( zaruri )
+ro-ro,dice-skill.NormalDice,rostogolește {count} ( zaruri )
+ro-ro,dice-skill.Range,Generează un număr aleator între {low} și {high}
+ro-ro,dice-skill.Range,Generează un număr aleator între {low} și {high}
+ro-ro,dice-skill.Range,Spune-mi un număr între {low} și {high}
+ro-ro,dice-skill.Range,Spune-mi un număr între {low} and {high}
+ro-ro,email-skill.check.email,Verifica email-ul meu
+ro-ro,email-skill.check.email,Verifică emailul meu
+ro-ro,email-skill.check.email,Am mesaje noi
+ro-ro,email-skill.check.email,Am vreun mesaj
+ro-ro,email-skill.check.email,Am mesaje noi
+ro-ro,emby-skill.emby,redați {media} de la emby
+ro-ro,emby-skill.emby,redați {media} din mb
+ro-ro,iss-tracker-skill.tracker.iss,Unde este stația spațială internațională
+ro-ro,iss-tracker-skill.tracker.iss,Localizați I S S
+ro-ro,iss-tracker-skill.tracker.iss,Unde este I S S

@@ -1,0 +1,58 @@
+{
+  "pt-pt": {
+    "ddg.search_wolfie": [
+      "pergunta ao pato {query}"
+    ],
+    "icanhazdadjokes.joke": [
+      "diz-me uma anedota",
+      "diz-me umma piada",
+      "conta uma anedota",
+      "conta uma piada",
+      "sabes alguma anedota",
+      "sabes alguma piada",
+      "faz-me rir"
+    ],
+    "icanhazdadjokes.search_joke": [
+      "diz-me uma anedota sobre {search}",
+      "diz-me uma piada sobre {search}",
+      "conta uma anedota sobre {search}",
+      "conta uma piada sobre {search}",
+      "sabes alguma anedota sobre {search}",
+      "sabes alguma piada sobre {search}"
+    ],
+    "laugh.Laugh": [
+      "ri como a alexa",
+      "faz um riso malvado",
+      "risada malefica",
+      "ri te maleficamente",
+      "riso malefico",
+      "sabes rir-te",
+      "sabes rir te",
+      "sabes te rir",
+      "sabes-te rir",
+      "consegues rir",
+      "consegues rir te",
+      "consegues rir-te"
+    ],
+    "laugh.RandomLaugh": [
+      "ri te as vezes",
+      "ri te ocasionalmente",
+      "ri te ocasional",
+      "ri te aleatorio",
+      "ri te aleatoriamente",
+      "riso as vezes",
+      "riso ocasionalmente",
+      "riso ocasional",
+      "riso aleatorio",
+      "riso aleatoriamente",
+      "ri as vezes",
+      "ri ocasionalmente",
+      "ri ocasional",
+      "ri aleatorio",
+      "ri aleatoriamente"
+    ],
+    "wolfie.search_wolfie": [
+      "pergunta ao lobo {query}"
+    ]
+  }
+}

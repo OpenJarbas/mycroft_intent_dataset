@@ -1,0 +1,238 @@
+{
+  "sv-se": {
+    "auto-volume-skill.activate": [
+      "Aktivera automatisk volym",
+      "(Aktivera|s\u00e4tt p\u00e5|sl\u00e5 p\u00e5) automatisk volym",
+      "S\u00e4tt p\u00e5 automatisk volym",
+      "S\u00e4tt automatisk volym (till) p\u00e5"
+    ],
+    "auto-volume-skill.deactivate": [
+      "(Inaktivera|st\u00e4ng av|avaktivera) automatisk volym",
+      "S\u00e4tt automatisk volym till inaktiv",
+      "St\u00e4ng av automatisk volym",
+      "S\u00e4tt automatisk volym (till) av"
+    ],
+    "auto-volume-skill.reset": [
+      "Rensa autovolym m\u00e4tningar",
+      "Ta bort m\u00e4tningarna f\u00f6r automatisk volym",
+      "\u00c5terst\u00e4ll m\u00e4tningarna f\u00f6r automatisk volym"
+    ],
+    "cocktail.Needed": [
+      "vad beh\u00f6vs f\u00f6r att g\u00f6ra (en|ett) {drink}",
+      "vad beh\u00f6ver (jag|man|en) (f\u00f6r att g\u00f6ra|till) (en|ett) {drink}",
+      "vilka (ingredienser|ingrediens) (inneh\u00e5ller|ing\u00e5r i) (en|ett) {drink}"
+    ],
+    "cocktail.Recipie": [
+      "hur (g\u00f6r|blandar|mixar) (jag|man) (en|ett) {drink}",
+      "ber\u00e4tta (f\u00f6r (mig|oss)|) hur man (blandar|mixar|g\u00f6r) (en|ett) {drink}",
+      "ge (mig|oss) instruktioner f\u00f6r (att (blanda|mixa|g\u00f6ra)|) (en|ett) {drink}",
+      "hur (blandar|mixar|g\u00f6r) (man|en|jag|) (en|ett) {drink}",
+      "vad \u00e4r recepted f\u00f6r (att (blanda|mixa|g\u00f6ra)) (en|ett) {drink}"
+    ],
+    "count-skill.count": [
+      "R\u00e4nka till {number}"
+    ],
+    "count-skill.countdown": [
+      "Nedr\u00e4kning fr\u00e5n {number}",
+      "R\u00e4kna (ner|ned) fr\u00e5n {number}",
+      "R\u00e4kna bakl\u00e4nges fr\u00e5n {number}",
+      "R\u00e4kna tillbaka fr\u00e5n {number}",
+      "R\u00e4kna bakl\u00e4nges fr\u00e5n {number}",
+      "Fr\u00e5n {number} r\u00e4kna (ner|ned)",
+      "Fr\u00e5n {number} r\u00e4kna bakl\u00e4nges"
+    ],
+    "dice-skill.Dice": [
+      "kasta ({count}|) d {type} (+|plus|) ({modifier}|)"
+    ],
+    "dice-skill.NormalDice": [
+      "kasta ({count}|) (t\u00e4rningar|t\u00e4rningen)"
+    ],
+    "dice-skill.Range": [
+      "Generera ett slumpm\u00e4ssigt tal fr\u00e5n {low} till {high}",
+      "Generera ett slumpm\u00e4ssigt tal mellan {low} och {high}",
+      "Ber\u00e4tta ett nummer fr\u00e5n {low} och {high}",
+      "Ber\u00e4tta ett nummer mellan {low} och {high}"
+    ],
+    "email-skill.check.email": [
+      "kolla min epost",
+      "kolla min epost",
+      "har jag n\u00e5gon ny epost",
+      "har jag n\u00e5gon e-post",
+      "har jag n\u00e5gon ny epost"
+    ],
+    "email-skill.enquire.email": [
+      "Har jag epost fr\u00e5n {email}",
+      "Har jag f\u00e5tt (n\u00e5gon | ) e-post (av|fr\u00e5n) fr\u00e5n {email}",
+      "Fick jag n\u00e5gra e-postmeddelanden fr\u00e5n {email}"
+    ],
+    "email-skill.notify": [
+      "ber\u00e4tta f\u00f6r mig (mail | e-post | ny e-post | epost-meddelanden)",
+      "ber\u00e4tta n\u00e4r jag f\u00e5r (mail | e-post | ny e-post | nytt epost-meddelanden)",
+      "ber\u00e4tta n\u00e4r jag f\u00e5r (ett e-post meddelande | en e-post | e-post) (fr\u00e5n | av) {sender}",
+      "ber\u00e4tta om (mail | e-post) (fr\u00e5n | av) {sender}",
+      "meddela mig om (mail | e-post | ny e-post | nya epost-meddelanden)",
+      "meddela mig om (mail | e-post | ny e-post | nya epost-meddelanden) (fr\u00e5n | av) {sender}",
+      "meddela mig n\u00e4r jag f\u00e5r (mail | e-post | ny e-post | nya epost-meddelanden)",
+      "meddela mig n\u00e4r jag f\u00e5r (en e-post | ett e-post meddelande | e-post) (fr\u00e5n | av) {sender}"
+    ],
+    "email-skill.stop": [
+      "meddela mig inte om (mail | e-post | ny e-post | nya epost-meddelanden)",
+      "meddela mig inte om (mail | e-post | ny e-post | nya epost-meddelanden) (fr\u00e5n | av) {sender}",
+      "meddela mig inte l\u00e4ngre om (mail | e-post | ny e-post | nya epost-meddelanden)",
+      "meddela mig inte l\u00e4ngre om (mail | e-post | ny e-post | nya epost-meddelanden) (fr\u00e5n | av) {sender}",
+      "ber\u00e4tta inte f\u00f6r mig om (mail | e-post | ny e-post | nya epost-meddelanden)",
+      "ber\u00e4tta inte f\u00f6r mig om (mail | e-post | ny e-post | nya epost-meddelanden) (fr\u00e5n | av) {sender}",
+      "ber\u00e4tta inte l\u00e4ngre f\u00f6r mig om (mail | e-post | ny e-post | nya epost-meddelanden)",
+      "ber\u00e4tta inte l\u00e4ngre om (mail | e-post | ny e-post | nya epost-meddelanden) (fr\u00e5n | av) {sender}"
+    ],
+    "emby-skill.diagnostic": [
+      "kontrollera (emby|mb|mv|nv|emily) anslutningen",
+      "k\u00f6r diagnostik (emby|mb|mv|nv|emily)",
+      "kontrollera (emby|mb|mv|nv|emily)"
+    ],
+    "emby-skill.emby": [
+      "spela {media} fr\u00e5n emby",
+      "spela {media} fr\u00e5n mb",
+      "spela artisten {artist} fr\u00e5n emby",
+      "spela artisten {artist} fr\u00e5n mb",
+      "spela albumet {album} fr\u00e5n emby",
+      "spela albumet {album} fr\u00e5n mb"
+    ],
+    "fairytalez-skill.continue": [
+      "Forts\u00e4tt ber\u00e4ttelsen",
+      "Forts\u00e4tt med ber\u00e4ttelsen",
+      "Forts\u00e4tt sagan",
+      "Forts\u00e4tt ber\u00e4tta sagan",
+      "Forts\u00e4tt sagan",
+      "Forts\u00e4tt med sagan",
+      "Forts\u00e4tt med sagan"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "(Ber\u00e4tta|L\u00e4s) (mig |) en (bra| ) (ber\u00e4ttelse| saga)",
+      "(Ber\u00e4tta f\u00f6r|L\u00e4s f\u00f6r) (mig| ) ber\u00e4ttelsen {tale}"
+    ],
+    "iss-tracker-skill.tracker.iss": [
+      "Var \u00e4r den internationella rymdstationen",
+      "Hitta I S S",
+      "Var \u00e4r I S S"
+    ],
+    "laugh.Laugh": [
+      "skratta som alexa",
+      "kan du skratta",
+      "ond (skrattar|garva|skrattande|skratt)"
+    ],
+    "laugh.RandomLaugh": [
+      "skratta slumpm\u00e4ssigt",
+      "utl\u00f6s slumpm\u00e4ssigt (skratt|skrattande|skrattar|garv)",
+      "slumpm\u00e4ssigt (skratt|skrattar|skrattar|skratt)"
+    ],
+    "mark-2.brightness": [
+      "dimma (|dina) \u00f6gon till {brightness} [percent}",
+      "dimma ner till {brightness} (procent|)",
+      "s\u00e4nk \u00f6gonens (ljusstyrka|belysning) till {brightness} (procent|)",
+      "\u00e4ndra (ljusstyrkan|belysningen) (ner|upp) till {brightness} (procent|)",
+      "\u00e4ndra (ner|upp) (ljusstyrkan|belysningen) till {brightness} (procent|)",
+      "\u00f6ka ljuset upp (lite|) till {brightness} (procent|)",
+      "(\u00e4ndra|s\u00e4tt|v\u00e4xla) till {brightness} (procent|) (\u00f6gon|) (ljusstyrka|belysning)",
+      "(\u00e4ndra|s\u00e4tt|v\u00e4xla) (niv\u00e5n|) (p\u00e5|) (ljusstyrka|belysning) (p\u00e5|dina) (\u00f6gon|) till {brightness} (procent|)",
+      "(\u00e4ndra|s\u00e4tt|v\u00e4xla) (niv\u00e5n|) (p\u00e5|dina) (\u00f6gon|) (ljusstyrka|belysning)",
+      "du h\u00e5ller (p\u00e5|) att (ljusna|dimma)",
+      "du \u00e4r (p\u00e5 g\u00e5ng|) att (ljusna|dimma)",
+      "ljusna upp",
+      "dimma ner det lite"
+    ],
+    "mark-2.brightness.auto": [
+      "st\u00e4ll in ljusstyrkan p\u00e5 auto",
+      "automatisk ljusstyrka"
+    ],
+    "mark-2.device.brightness.settings": [
+      "visa inst\u00e4llning f\u00f6r ljusstyrka",
+      "visa enhetens ljusstyrkeinst\u00e4llning"
+    ],
+    "mark-2.device.homescreen.settings": [
+      "visa hemsk\u00e4rmsinst\u00e4llning",
+      "visa (hem|vila|overksam) (sk\u00e4rm|ansikte|sida) inst\u00e4llning",
+      "visa enhetens (hem|vila|overksam) (sk\u00e4rm|ansikte|sida) inst\u00e4llning"
+    ],
+    "mark-2.device.reset.settings": [
+      "visa fabriksinst\u00e4llning",
+      "visa enhetens fabriksinst\u00e4llning"
+    ],
+    "mark-2.device.settings": [
+      "visa enhetsinst\u00e4llningar",
+      "\u00f6ppna inst\u00e4llningar"
+    ],
+    "mark-2.device.ssh.settings": [
+      "visa ssh inst\u00e4llningar",
+      "visa enhetens ssh inst\u00e4llningar"
+    ],
+    "mark-2.device.wifi.settings": [
+      "visa tr\u00e5dl\u00f6s sk\u00e4rmen",
+      "visa tr\u00e5dl\u00f6sa inst\u00e4llningar",
+      "visa wifi inst\u00e4llningar",
+      "visa wifisk\u00e4rm"
+    ],
+    "moviemaster.genre.movie.search": [
+      "(lista|hitta) (video|filmer) som \u00e4r (i|) {genre}",
+      "(lista|hitta) {genre} (video|filmer)"
+    ],
+    "moviemaster.genre.tv.search": [
+      "(lista|hitta|f\u00e5) (TV-program|TV program|program) som \u00e4r (|en) {genre}",
+      "(lista|hitta|f\u00e5) {genre} (TV-program|TV program|program)"
+    ],
+    "moviemaster.movie.cast": [
+      "vem (agerar|spelar|\u00e4r med) i (videon|filmen|film) {movie}"
+    ],
+    "moviemaster.movie.description": [
+      "vad handlar (videon|filmen|film) {movie} om",
+      "ber\u00e4tta f\u00f6r (mig|oss) om (videon|filmen|film) {movie}",
+      "(ge|h\u00e4mta) (mig|oss) en (beskrivning|sammanfattning) av (videon|filmen|film) {movie}"
+    ],
+    "moviemaster.movie.genres": [
+      "vilken (genre|genren) tillh\u00f6r (videon|filmen|film) {movie}",
+      "vilken \u00e4r (genre|genren) f\u00f6r (videon|filmen|film) {movie}",
+      "vilken (genre|genren) (\u00e4r|tillh\u00f6r) denna (videon|filmen|film) {movie}"
+    ],
+    "moviemaster.movie.information": [
+      "(hitta|h\u00e4mta|leta efter|\u00e4r d\u00e4r) (information|info) (p\u00e5|om) (videon|filmen|film) {movie}",
+      "(ge|ber\u00e4tta|h\u00e4mta) (|mig|oss) (information|info) (p\u00e5|om) (videon|filmen|film) {movie}",
+      "(har du|kan du h\u00e4mta) (info|information) om (videon|filmen|film) {movie}"
+    ],
+    "moviemaster.movie.popular": [
+      "(lista|s\u00f6k|s\u00f6k efter) popul\u00e4ra (video|filmer|film)",
+      "vad \u00e4r ( |de) popul\u00e4ra (videon|filmen|film) (spelar|ut) ( |nu)"
+    ],
+    "moviemaster.movie.production": [
+      "(vem|vilket f\u00f6retag) (producerade|gjorde) filmen {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "rekommendera (videon|filmen|film) (liknande|s\u00e5som) {movie}",
+      "vilka (video|filmer|film) (skulle du|du) rekommenderar (liknande|s\u00e5som) {movie}",
+      "(lista|h\u00e4mta) (|bra) (videon|filmen|film) (liknande|s\u00e5som) {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "Hur l\u00e5ng \u00e4r (videon|filmen|film) {movie}",
+      "Vilken \u00e4r (tiden|l\u00e4ngden) f\u00f6r (videon|filmen|film) {movie}",
+      "H\u00e4mta (tiden|l\u00e4ngden) f\u00f6r (videon|filmen|film) {movie}"
+    ],
+    "moviemaster.movie.top": [
+      "(lista|vad \u00e4r|s\u00f6k efter) den (popul\u00e4ra|mest popul\u00e4ra|h\u00f6gst rankade) (videon|filmen|film) (som spelas|\u00e4r ute) (|nu)"
+    ],
+    "moviemaster.movie.year": [
+      "(vilket \u00e5r|n\u00e4r|vilket datum) var (videon|filmen|film) {movie} (gjord|sl\u00e4ppt)"
+    ],
+    "wikiquote-skill.random": [
+      "ber\u00e4tta f\u00f6r mig (n\u00e5gra|ett) (citat|visdom)",
+      "ge mig (n\u00e5gra|ett|en) (citat|visdom|klokhet)",
+      "Jag beh\u00f6ver lite visdom"
+    ],
+    "wikiquote-skill.specific": [
+      "ber\u00e4tta f\u00f6r mig (n\u00e5gra|en|ett) {subject} (citat|visdom)",
+      "ge mig (n\u00e5gra|en|ett) {subject} (citat|visdom)",
+      "Jag beh\u00f6ver lite {subject} (citat|visdomsord)",
+      "ber\u00e4tta citat (fr\u00e5n|om) {subject}",
+      "ge mig ett citat (fr\u00e5n|om) {subject}",
+      "Jag beh\u00f6ver ett citat (fr\u00e5n|om) {subject}"
+    ]
+  }
+}

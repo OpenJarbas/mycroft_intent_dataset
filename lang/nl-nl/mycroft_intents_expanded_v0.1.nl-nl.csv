@@ -1,0 +1,513 @@
+nl-nl,auto-volume-skill.activate,Activeer automatische geluidssterkte
+nl-nl,auto-volume-skill.activate,Zet automatisch geluidsniveau aan
+nl-nl,auto-volume-skill.activate,Schakel automatisch geluidsniveau in
+nl-nl,auto-volume-skill.activate,Zet automatisch geluidsniveau ( op ) aan
+nl-nl,auto-volume-skill.deactivate,Automatisch geluidsniveau uitschakelen
+nl-nl,auto-volume-skill.deactivate,Zet het automatisch geluidsniveau uit
+nl-nl,auto-volume-skill.deactivate,Automatisch geluidsniveau uitschakelen
+nl-nl,auto-volume-skill.deactivate,Schakel automatisch geluidsniveau ( op ) uit
+nl-nl,auto-volume-skill.reset,Verwijder automatische geluidsmetingen
+nl-nl,auto-volume-skill.reset,Verwijder automatische geuildsmetingen
+nl-nl,auto-volume-skill.reset,Herstel de automatische geluidsmetingen
+nl-nl,cocktail.Needed,wat is nodig om een {drink} te maken
+nl-nl,cocktail.Needed,wat heb je nodig om een {drink} ( te maken ) ?
+nl-nl,cocktail.Needed,wat heb je nodig voor een {drink} ( te maken ) ?
+nl-nl,cocktail.Needed,wat heb ik nodig om een {drink} ( te maken ) ?
+nl-nl,cocktail.Needed,wat heb ik nodig voor een {drink} ( te maken ) ?
+nl-nl,cocktail.Needed,wat is het ingredient voor een {drink}
+nl-nl,cocktail.Needed,wat is het ingredient van een {drink}
+nl-nl,cocktail.Needed,wat is het ingredienten voor een {drink}
+nl-nl,cocktail.Needed,wat is het ingredienten van een {drink}
+nl-nl,cocktail.Needed,wat zijn de ingredient voor een {drink}
+nl-nl,cocktail.Needed,wat zijn de ingredient van een {drink}
+nl-nl,cocktail.Needed,wat zijn de ingredienten voor een {drink}
+nl-nl,cocktail.Needed,wat zijn de ingredienten van een {drink}
+nl-nl,cocktail.Recipie,hoe moet je een {drink} mixen
+nl-nl,cocktail.Recipie,hoe moet je een {drink} maken
+nl-nl,cocktail.Recipie,hoe moet ik een {drink} mixen
+nl-nl,cocktail.Recipie,hoe moet ik een {drink} maken
+nl-nl,cocktail.Recipie,vertel ons hoe je een {drink} mixt
+nl-nl,cocktail.Recipie,vertel ons hoe je een {drink} maakt
+nl-nl,cocktail.Recipie,vertel me hoe je een {drink} mixt
+nl-nl,cocktail.Recipie,vertel me hoe je een {drink} maakt
+nl-nl,cocktail.Recipie,geef ons instructies voor {drink}
+nl-nl,cocktail.Recipie,geef ons instructies voor een {drink}
+nl-nl,cocktail.Recipie,geef mij instructies voor {drink}
+nl-nl,cocktail.Recipie,geef mij instructies voor een {drink}
+nl-nl,cocktail.Recipie,hoe mix je {drink}
+nl-nl,cocktail.Recipie,hoe mix je een {drink}
+nl-nl,cocktail.Recipie,hoe maak je {drink}
+nl-nl,cocktail.Recipie,hoe maak je een {drink}
+nl-nl,cocktail.Recipie,wat is het recept voor {drink}
+nl-nl,cocktail.Recipie,wat is het recept voor een {drink}
+nl-nl,count-skill.count,Tel tot {number}
+nl-nl,count-skill.countdown,Aftellen vanaf {number}
+nl-nl,count-skill.countdown,Aftellen van {number}
+nl-nl,count-skill.countdown,Aftellen vanaf {number}
+nl-nl,count-skill.countdown,Aftellen van {number}
+nl-nl,count-skill.countdown,Terug tellen vanaf {number}
+nl-nl,count-skill.countdown,Terug tellen van {number}
+nl-nl,count-skill.countdown,Terug tellen vanaf {number}
+nl-nl,count-skill.countdown,Terug tellen van {number}
+nl-nl,count-skill.countdown,Tel terug vanaf {number}
+nl-nl,count-skill.countdown,Tel terug van {number}
+nl-nl,count-skill.countdown,Tel af vanaf {number}
+nl-nl,count-skill.countdown,Tel af van {number}
+nl-nl,count-skill.countdown,Tel terug vanaf {number}
+nl-nl,count-skill.countdown,Tel terug van {number}
+nl-nl,dice-skill.Dice,rol d {type}
+nl-nl,dice-skill.Dice,rol d {type} {modifier}
+nl-nl,dice-skill.Dice,rol d {type} plus
+nl-nl,dice-skill.Dice,rol d {type} plus {modifier}
+nl-nl,dice-skill.Dice,rol d {type} +
+nl-nl,dice-skill.Dice,rol d {type} + {modifier}
+nl-nl,dice-skill.Dice,rol {count} d {type}
+nl-nl,dice-skill.Dice,rol {count} d {type} {modifier}
+nl-nl,dice-skill.Dice,rol {count} d {type} plus
+nl-nl,dice-skill.Dice,rol {count} d {type} plus {modifier}
+nl-nl,dice-skill.Dice,rol {count} d {type} +
+nl-nl,dice-skill.Dice,rol {count} d {type} + {modifier}
+nl-nl,dice-skill.NormalDice,rol ( {count}l ) dobbelstenen
+nl-nl,dice-skill.NormalDice,rol ( {count}l ) dobbelsteen
+nl-nl,dice-skill.Range,Genereer een willekeurig nummer van {low} tot {high}
+nl-nl,dice-skill.Range,Genereer een willekeurig nummer tussen {low} en {high}
+nl-nl,dice-skill.Range,Geef mij een nummer tussen {low} en {high}
+nl-nl,dice-skill.Range,Vertel mij een nummer tussen {low} en {high}
+nl-nl,email-skill.check.email,cointroleer mijn e-mail
+nl-nl,email-skill.check.email,controleer mijn e-mail
+nl-nl,email-skill.check.email,heb ik nog nieuwe mails
+nl-nl,email-skill.check.email,heb ik nieuwe e-mails
+nl-nl,email-skill.check.email,Heb ik nog nieuwe mail
+nl-nl,email-skill.enquire.email,Heb ik mail van {email}
+nl-nl,email-skill.enquire.email,heb ik E-mail van {email}
+nl-nl,email-skill.enquire.email,heb ik een E-mail van {email}
+nl-nl,email-skill.enquire.email,Heb ik mail ontvangen van {email}
+nl-nl,email-skill.notify,Vertel me over E-mail
+nl-nl,email-skill.notify,Vertel me over mail
+nl-nl,email-skill.notify,vertel me wanneer ik een nieuwe E-mail ontvang
+nl-nl,email-skill.notify,vertel me wanneer ik een nieuwe mail ontvang
+nl-nl,email-skill.notify,vertel me wanneer ik een E-mail ontvang
+nl-nl,email-skill.notify,vertel me wanneer ik een mail ontvang
+nl-nl,email-skill.notify,vertel me wanneer ik een E-mail ontvang van {sender}
+nl-nl,email-skill.notify,vertel me wanneer ik een mail ontvang van {sender}
+nl-nl,email-skill.notify,vertel me over de E-mail van {sender}
+nl-nl,email-skill.notify,vertel me over de mail van {sender}
+nl-nl,email-skill.notify,verwittig me bij een nieuwe E-mail
+nl-nl,email-skill.notify,verwittig me bij een nieuwe mail
+nl-nl,email-skill.notify,verwittig me bij een E-mail
+nl-nl,email-skill.notify,verwittig me bij een mail
+nl-nl,email-skill.notify,meld mij als ik niewe mail door {sender}
+nl-nl,email-skill.notify,meld mij als ik niewe mail van {sender}
+nl-nl,email-skill.notify,meld mij als ik email door {sender}
+nl-nl,email-skill.notify,meld mij als ik email van {sender}
+nl-nl,email-skill.notify,meld mij als ik mail door {sender}
+nl-nl,email-skill.notify,meld mij als ik mail van {sender}
+nl-nl,email-skill.notify,laat me weten wanneer ik een nieuwe E-mail ontvang
+nl-nl,email-skill.notify,laat me weten wanneer ik een nieuwe mail ontvang
+nl-nl,email-skill.notify,laat me weten wanneer ik een E-mail ontvang
+nl-nl,email-skill.notify,laat me weten wanneer ik een mail ontvang
+nl-nl,email-skill.notify,vertel me wanneer ik een E-mail ontvang van {sender}
+nl-nl,email-skill.notify,vertel me wanneer ik een mail ontvang van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail
+nl-nl,email-skill.stop,verwittig me net meer bij een nieuwe E-mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me net meer bij een nieuwe E-mail door {sender}
+nl-nl,email-skill.stop,verwittig me net meer bij een nieuwe E-mail van {sender}
+nl-nl,email-skill.stop,verwittig me net meer bij een nieuwe mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me net meer bij een nieuwe mail door {sender}
+nl-nl,email-skill.stop,verwittig me net meer bij een nieuwe mail van {sender}
+nl-nl,email-skill.stop,verwittig me net meer bij een E-mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me net meer bij een E-mail door {sender}
+nl-nl,email-skill.stop,verwittig me net meer bij een E-mail van {sender}
+nl-nl,email-skill.stop,verwittig me net meer bij een mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me net meer bij een mail door {sender}
+nl-nl,email-skill.stop,verwittig me net meer bij een mail van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail door {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail door {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail door {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail door {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail door {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail door {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail door {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail door {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail door {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe E-mail van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail door {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een nieuwe mail van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail door {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een E-mail van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail afkomstig van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail door {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een mail van {sender}
+nl-nl,emby-skill.diagnostic,Check de emily connectie
+nl-nl,emby-skill.diagnostic,Check de nv connectie
+nl-nl,emby-skill.diagnostic,Check de mv connectie
+nl-nl,emby-skill.diagnostic,Check de mb connectie
+nl-nl,emby-skill.diagnostic,Check de emby connectie
+nl-nl,emby-skill.diagnostic,Draai diagnose emily
+nl-nl,emby-skill.diagnostic,Draai diagnose nv
+nl-nl,emby-skill.diagnostic,Draai diagnose mv
+nl-nl,emby-skill.diagnostic,Draai diagnose mb
+nl-nl,emby-skill.diagnostic,Draai diagnose emby
+nl-nl,emby-skill.diagnostic,check emily
+nl-nl,emby-skill.diagnostic,check nv
+nl-nl,emby-skill.diagnostic,check mv
+nl-nl,emby-skill.diagnostic,check mb
+nl-nl,emby-skill.diagnostic,check emby
+nl-nl,emby-skill.emby,speelt {media} van emby
+nl-nl,emby-skill.emby,speelt {media} van mb
+nl-nl,emby-skill.emby,Speel artiest {artist} op Emby
+nl-nl,emby-skill.emby,speel artist {artist} op mb
+nl-nl,emby-skill.emby,Speel album {album} van emby.
+nl-nl,emby-skill.emby,Speel album {album} van mb
+nl-nl,fairytalez-skill.continue,Verdergaan met het verhaal
+nl-nl,fairytalez-skill.continue,Ga verder met verhalen te vertellen
+nl-nl,fairytalez-skill.continue,Verdergaan met sprookje
+nl-nl,fairytalez-skill.continue,Verdergaan met sprookje te vertellen
+nl-nl,fairytalez-skill.continue,Verdergaan met sprookje
+nl-nl,fairytalez-skill.continue,Verdergaan met het sprookje
+nl-nl,fairytalez-skill.continue,Verdergaan met het sprookje
+nl-nl,fairytalez-skill.fairytalez,Vertel een sprookje voor
+nl-nl,fairytalez-skill.fairytalez,Vertel een verhaaltje voor
+nl-nl,fairytalez-skill.fairytalez,Vertel een leuk sprookje voor
+nl-nl,fairytalez-skill.fairytalez,Vertel een leuk verhaaltje voor
+nl-nl,fairytalez-skill.fairytalez,Vertel een goed sprookje voor
+nl-nl,fairytalez-skill.fairytalez,Vertel een goed verhaaltje voor
+nl-nl,fairytalez-skill.fairytalez,Vertel mij een sprookje voor
+nl-nl,fairytalez-skill.fairytalez,Vertel mij een verhaaltje voor
+nl-nl,fairytalez-skill.fairytalez,Vertel mij een leuk sprookje voor
+nl-nl,fairytalez-skill.fairytalez,Vertel mij een leuk verhaaltje voor
+nl-nl,fairytalez-skill.fairytalez,Vertel mij een goed sprookje voor
+nl-nl,fairytalez-skill.fairytalez,Vertel mij een goed verhaaltje voor
+nl-nl,fairytalez-skill.fairytalez,Lees een sprookje voor
+nl-nl,fairytalez-skill.fairytalez,Lees een verhaaltje voor
+nl-nl,fairytalez-skill.fairytalez,Lees een leuk sprookje voor
+nl-nl,fairytalez-skill.fairytalez,Lees een leuk verhaaltje voor
+nl-nl,fairytalez-skill.fairytalez,Lees een goed sprookje voor
+nl-nl,fairytalez-skill.fairytalez,Lees een goed verhaaltje voor
+nl-nl,fairytalez-skill.fairytalez,Lees mij een sprookje voor
+nl-nl,fairytalez-skill.fairytalez,Lees mij een verhaaltje voor
+nl-nl,fairytalez-skill.fairytalez,Lees mij een leuk sprookje voor
+nl-nl,fairytalez-skill.fairytalez,Lees mij een leuk verhaaltje voor
+nl-nl,fairytalez-skill.fairytalez,Lees mij een goed sprookje voor
+nl-nl,fairytalez-skill.fairytalez,Lees mij een goed verhaaltje voor
+nl-nl,fairytalez-skill.fairytalez,Lees het verhaaltje {tale} voor
+nl-nl,fairytalez-skill.fairytalez,Lees het verhaal {tale} voor
+nl-nl,fairytalez-skill.fairytalez,Lees aan mij het verhaaltje {tale} voor
+nl-nl,fairytalez-skill.fairytalez,Lees aan mij het verhaal {tale} voor
+nl-nl,homeassistant.set.climate,zet de {entity} op {temp} graden
+nl-nl,homeassistant.set.climate,stel de {entity} temperatuur in op {temp} graden
+nl-nl,homeassistant.set.climate,verander de {entity} temperatuur naar {temp} graden
+nl-nl,homeassistant.set.light.brightness,zet ( de ) ?helderheid van {{entity}} op {{brightnessvalue}} procent
+nl-nl,iss-tracker-skill.tracker.iss,Waar is het internationaal ruimtestation?
+nl-nl,iss-tracker-skill.tracker.iss,Zoek I S S
+nl-nl,iss-tracker-skill.tracker.iss,Waar is het I S S
+nl-nl,laugh.Laugh,lach als alexa
+nl-nl,laugh.Laugh,kan jij lachen
+nl-nl,laugh.Laugh,kwaadaardig ( e ) ? gelach
+nl-nl,laugh.Laugh,kwaadaardig ( e ) ? lachen
+nl-nl,laugh.Laugh,kwaadaardig ( e ) ? lach
+nl-nl,laugh.RandomLaugh,lach willekeurig
+nl-nl,laugh.RandomLaugh,trigger ( een ) ? willekeurig ( e ) ? gelach
+nl-nl,laugh.RandomLaugh,trigger ( een ) ? willekeurig ( e ) ? lachen
+nl-nl,laugh.RandomLaugh,trigger ( een ) ? willekeurig ( e ) ? lach
+nl-nl,laugh.RandomLaugh,willekeurig ( e ) ? gelach
+nl-nl,laugh.RandomLaugh,willekeurig ( e ) ? lachen
+nl-nl,laugh.RandomLaugh,willekeurig ( e ) ? lach
+nl-nl,mark-2.brightness,dim your ogen tot {brightness}
+nl-nl,mark-2.brightness,dim your ogen tot {brightness} percent
+nl-nl,mark-2.brightness,dim the ogen tot {brightness}
+nl-nl,mark-2.brightness,dim the ogen tot {brightness} percent
+nl-nl,mark-2.brightness,dim tot {brightness}
+nl-nl,mark-2.brightness,dim tot {brightness} percent
+nl-nl,mark-2.brightness,verlaag de illumination van je ogen tot {brightness}
+nl-nl,mark-2.brightness,verlaag de illumination van je ogen tot {brightness} percent
+nl-nl,mark-2.brightness,verlaag de brightness van je ogen tot {brightness}
+nl-nl,mark-2.brightness,verlaag de brightness van je ogen tot {brightness} percent
+nl-nl,mark-2.brightness,zet illumination up tot {brightness}
+nl-nl,mark-2.brightness,zet illumination up tot {brightness} percent
+nl-nl,mark-2.brightness,zet illumination down tot {brightness}
+nl-nl,mark-2.brightness,zet illumination down tot {brightness} percent
+nl-nl,mark-2.brightness,zet brightness up tot {brightness}
+nl-nl,mark-2.brightness,zet brightness up tot {brightness} percent
+nl-nl,mark-2.brightness,zet brightness down tot {brightness}
+nl-nl,mark-2.brightness,zet brightness down tot {brightness} percent
+nl-nl,mark-2.brightness,zet the illumination up tot {brightness}
+nl-nl,mark-2.brightness,zet the illumination up tot {brightness} percent
+nl-nl,mark-2.brightness,zet the illumination down tot {brightness}
+nl-nl,mark-2.brightness,zet the illumination down tot {brightness} percent
+nl-nl,mark-2.brightness,zet the brightness up tot {brightness}
+nl-nl,mark-2.brightness,zet the brightness up tot {brightness} percent
+nl-nl,mark-2.brightness,zet the brightness down tot {brightness}
+nl-nl,mark-2.brightness,zet the brightness down tot {brightness} percent
+nl-nl,mark-2.brightness,zet up illumination to {brightness}
+nl-nl,mark-2.brightness,zet up illumination to {brightness} percent
+nl-nl,mark-2.brightness,zet up brightness to {brightness}
+nl-nl,mark-2.brightness,zet up brightness to {brightness} percent
+nl-nl,mark-2.brightness,zet up the illumination to {brightness}
+nl-nl,mark-2.brightness,zet up the illumination to {brightness} percent
+nl-nl,mark-2.brightness,zet up the brightness to {brightness}
+nl-nl,mark-2.brightness,zet up the brightness to {brightness} percent
+nl-nl,mark-2.brightness,zet down illumination to {brightness}
+nl-nl,mark-2.brightness,zet down illumination to {brightness} percent
+nl-nl,mark-2.brightness,zet down brightness to {brightness}
+nl-nl,mark-2.brightness,zet down brightness to {brightness} percent
+nl-nl,mark-2.brightness,zet down the illumination to {brightness}
+nl-nl,mark-2.brightness,zet down the illumination to {brightness} percent
+nl-nl,mark-2.brightness,zet down the brightness to {brightness}
+nl-nl,mark-2.brightness,zet down the brightness to {brightness} percent
+nl-nl,mark-2.brightness,licht het op tot {brightness} ( procent )
+nl-nl,mark-2.brightness,licht het op een beetje tot {brightness} ( procent )
+nl-nl,mark-2.brightness,switch naar {brightness} ( procent ) verlichting
+nl-nl,mark-2.brightness,switch naar {brightness} ( procent ) helderheid
+nl-nl,mark-2.brightness,switch naar {brightness} ( procent ) oog verlichting
+nl-nl,mark-2.brightness,switch naar {brightness} ( procent ) oog helderheid
+nl-nl,mark-2.brightness,zet naar {brightness} ( procent ) verlichting
+nl-nl,mark-2.brightness,zet naar {brightness} ( procent ) helderheid
+nl-nl,mark-2.brightness,zet naar {brightness} ( procent ) oog verlichting
+nl-nl,mark-2.brightness,zet naar {brightness} ( procent ) oog helderheid
+nl-nl,mark-2.brightness,verander naar {brightness} ( procent ) verlichting
+nl-nl,mark-2.brightness,verander naar {brightness} ( procent ) helderheid
+nl-nl,mark-2.brightness,verander naar {brightness} ( procent ) oog verlichting
+nl-nl,mark-2.brightness,verander naar {brightness} ( procent ) oog helderheid
+nl-nl,mark-2.brightness,switch jou verlichting naar {brightness}
+nl-nl,mark-2.brightness,switch jou verlichting naar {brightness} procent
+nl-nl,mark-2.brightness,switch jou verlichting level naar {brightness}
+nl-nl,mark-2.brightness,switch jou verlichting level naar {brightness} procent
+nl-nl,mark-2.brightness,switch jou helderheid naar {brightness}
+nl-nl,mark-2.brightness,switch jou helderheid naar {brightness} procent
+nl-nl,mark-2.brightness,switch jou helderheid level naar {brightness}
+nl-nl,mark-2.brightness,switch jou helderheid level naar {brightness} procent
+nl-nl,mark-2.brightness,switch jou eye verlichting naar {brightness}
+nl-nl,mark-2.brightness,switch jou eye verlichting naar {brightness} procent
+nl-nl,mark-2.brightness,switch jou eye verlichting level naar {brightness}
+nl-nl,mark-2.brightness,switch jou eye verlichting level naar {brightness} procent
+nl-nl,mark-2.brightness,switch jou eye helderheid naar {brightness}
+nl-nl,mark-2.brightness,switch jou eye helderheid naar {brightness} procent
+nl-nl,mark-2.brightness,switch jou eye helderheid level naar {brightness}
+nl-nl,mark-2.brightness,switch jou eye helderheid level naar {brightness} procent
+nl-nl,mark-2.brightness,switch de verlichting naar {brightness}
+nl-nl,mark-2.brightness,switch de verlichting naar {brightness} procent
+nl-nl,mark-2.brightness,switch de verlichting level naar {brightness}
+nl-nl,mark-2.brightness,switch de verlichting level naar {brightness} procent
+nl-nl,mark-2.brightness,switch de helderheid naar {brightness}
+nl-nl,mark-2.brightness,switch de helderheid naar {brightness} procent
+nl-nl,mark-2.brightness,switch de helderheid level naar {brightness}
+nl-nl,mark-2.brightness,switch de helderheid level naar {brightness} procent
+nl-nl,mark-2.brightness,switch de eye verlichting naar {brightness}
+nl-nl,mark-2.brightness,switch de eye verlichting naar {brightness} procent
+nl-nl,mark-2.brightness,switch de eye verlichting level naar {brightness}
+nl-nl,mark-2.brightness,switch de eye verlichting level naar {brightness} procent
+nl-nl,mark-2.brightness,switch de eye helderheid naar {brightness}
+nl-nl,mark-2.brightness,switch de eye helderheid naar {brightness} procent
+nl-nl,mark-2.brightness,switch de eye helderheid level naar {brightness}
+nl-nl,mark-2.brightness,switch de eye helderheid level naar {brightness} procent
+nl-nl,mark-2.brightness,zet jou verlichting naar {brightness}
+nl-nl,mark-2.brightness,zet jou verlichting naar {brightness} procent
+nl-nl,mark-2.brightness,zet jou verlichting level naar {brightness}
+nl-nl,mark-2.brightness,zet jou verlichting level naar {brightness} procent
+nl-nl,mark-2.brightness,zet jou helderheid naar {brightness}
+nl-nl,mark-2.brightness,zet jou helderheid naar {brightness} procent
+nl-nl,mark-2.brightness,zet jou helderheid level naar {brightness}
+nl-nl,mark-2.brightness,zet jou helderheid level naar {brightness} procent
+nl-nl,mark-2.brightness,zet jou eye verlichting naar {brightness}
+nl-nl,mark-2.brightness,zet jou eye verlichting naar {brightness} procent
+nl-nl,mark-2.brightness,zet jou eye verlichting level naar {brightness}
+nl-nl,mark-2.brightness,zet jou eye verlichting level naar {brightness} procent
+nl-nl,mark-2.brightness,zet jou eye helderheid naar {brightness}
+nl-nl,mark-2.brightness,zet jou eye helderheid naar {brightness} procent
+nl-nl,mark-2.brightness,zet jou eye helderheid level naar {brightness}
+nl-nl,mark-2.brightness,zet jou eye helderheid level naar {brightness} procent
+nl-nl,mark-2.brightness,zet de verlichting naar {brightness}
+nl-nl,mark-2.brightness,zet de verlichting naar {brightness} procent
+nl-nl,mark-2.brightness,zet de verlichting level naar {brightness}
+nl-nl,mark-2.brightness,zet de verlichting level naar {brightness} procent
+nl-nl,mark-2.brightness,zet de helderheid naar {brightness}
+nl-nl,mark-2.brightness,zet de helderheid naar {brightness} procent
+nl-nl,mark-2.brightness,zet de helderheid level naar {brightness}
+nl-nl,mark-2.brightness,zet de helderheid level naar {brightness} procent
+nl-nl,mark-2.brightness,zet de eye verlichting naar {brightness}
+nl-nl,mark-2.brightness,zet de eye verlichting naar {brightness} procent
+nl-nl,mark-2.brightness,zet de eye verlichting level naar {brightness}
+nl-nl,mark-2.brightness,zet de eye verlichting level naar {brightness} procent
+nl-nl,mark-2.brightness,zet de eye helderheid naar {brightness}
+nl-nl,mark-2.brightness,zet de eye helderheid naar {brightness} procent
+nl-nl,mark-2.brightness,zet de eye helderheid level naar {brightness}
+nl-nl,mark-2.brightness,zet de eye helderheid level naar {brightness} procent
+nl-nl,mark-2.brightness,verander jou verlichting naar {brightness}
+nl-nl,mark-2.brightness,verander jou verlichting naar {brightness} procent
+nl-nl,mark-2.brightness,verander jou verlichting level naar {brightness}
+nl-nl,mark-2.brightness,verander jou verlichting level naar {brightness} procent
+nl-nl,mark-2.brightness,verander jou helderheid naar {brightness}
+nl-nl,mark-2.brightness,verander jou helderheid naar {brightness} procent
+nl-nl,mark-2.brightness,verander jou helderheid level naar {brightness}
+nl-nl,mark-2.brightness,verander jou helderheid level naar {brightness} procent
+nl-nl,mark-2.brightness,verander jou eye verlichting naar {brightness}
+nl-nl,mark-2.brightness,verander jou eye verlichting naar {brightness} procent
+nl-nl,mark-2.brightness,verander jou eye verlichting level naar {brightness}
+nl-nl,mark-2.brightness,verander jou eye verlichting level naar {brightness} procent
+nl-nl,mark-2.brightness,verander jou eye helderheid naar {brightness}
+nl-nl,mark-2.brightness,verander jou eye helderheid naar {brightness} procent
+nl-nl,mark-2.brightness,verander jou eye helderheid level naar {brightness}
+nl-nl,mark-2.brightness,verander jou eye helderheid level naar {brightness} procent
+nl-nl,mark-2.brightness,verander de verlichting naar {brightness}
+nl-nl,mark-2.brightness,verander de verlichting naar {brightness} procent
+nl-nl,mark-2.brightness,verander de verlichting level naar {brightness}
+nl-nl,mark-2.brightness,verander de verlichting level naar {brightness} procent
+nl-nl,mark-2.brightness,verander de helderheid naar {brightness}
+nl-nl,mark-2.brightness,verander de helderheid naar {brightness} procent
+nl-nl,mark-2.brightness,verander de helderheid level naar {brightness}
+nl-nl,mark-2.brightness,verander de helderheid level naar {brightness} procent
+nl-nl,mark-2.brightness,verander de eye verlichting naar {brightness}
+nl-nl,mark-2.brightness,verander de eye verlichting naar {brightness} procent
+nl-nl,mark-2.brightness,verander de eye verlichting level naar {brightness}
+nl-nl,mark-2.brightness,verander de eye verlichting level naar {brightness} procent
+nl-nl,mark-2.brightness,verander de eye helderheid naar {brightness}
+nl-nl,mark-2.brightness,verander de eye helderheid naar {brightness} procent
+nl-nl,mark-2.brightness,verander de eye helderheid level naar {brightness}
+nl-nl,mark-2.brightness,verander de eye helderheid level naar {brightness} procent
+nl-nl,mark-2.brightness,switch jou verlichting
+nl-nl,mark-2.brightness,switch jou verlichting level
+nl-nl,mark-2.brightness,switch jou helderheid
+nl-nl,mark-2.brightness,switch jou helderheid level
+nl-nl,mark-2.brightness,switch jou oog verlichting
+nl-nl,mark-2.brightness,switch jou oog verlichting level
+nl-nl,mark-2.brightness,switch jou oog helderheid
+nl-nl,mark-2.brightness,switch jou oog helderheid level
+nl-nl,mark-2.brightness,switch het verlichting
+nl-nl,mark-2.brightness,switch het verlichting level
+nl-nl,mark-2.brightness,switch het helderheid
+nl-nl,mark-2.brightness,switch het helderheid level
+nl-nl,mark-2.brightness,switch het oog verlichting
+nl-nl,mark-2.brightness,switch het oog verlichting level
+nl-nl,mark-2.brightness,switch het oog helderheid
+nl-nl,mark-2.brightness,switch het oog helderheid level
+nl-nl,mark-2.brightness,zet jou verlichting
+nl-nl,mark-2.brightness,zet jou verlichting level
+nl-nl,mark-2.brightness,zet jou helderheid
+nl-nl,mark-2.brightness,zet jou helderheid level
+nl-nl,mark-2.brightness,zet jou oog verlichting
+nl-nl,mark-2.brightness,zet jou oog verlichting level
+nl-nl,mark-2.brightness,zet jou oog helderheid
+nl-nl,mark-2.brightness,zet jou oog helderheid level
+nl-nl,mark-2.brightness,zet het verlichting
+nl-nl,mark-2.brightness,zet het verlichting level
+nl-nl,mark-2.brightness,zet het helderheid
+nl-nl,mark-2.brightness,zet het helderheid level
+nl-nl,mark-2.brightness,zet het oog verlichting
+nl-nl,mark-2.brightness,zet het oog verlichting level
+nl-nl,mark-2.brightness,zet het oog helderheid
+nl-nl,mark-2.brightness,zet het oog helderheid level
+nl-nl,mark-2.brightness,verander jou verlichting
+nl-nl,mark-2.brightness,verander jou verlichting level
+nl-nl,mark-2.brightness,verander jou helderheid
+nl-nl,mark-2.brightness,verander jou helderheid level
+nl-nl,mark-2.brightness,verander jou oog verlichting
+nl-nl,mark-2.brightness,verander jou oog verlichting level
+nl-nl,mark-2.brightness,verander jou oog helderheid
+nl-nl,mark-2.brightness,verander jou oog helderheid level
+nl-nl,mark-2.brightness,verander het verlichting
+nl-nl,mark-2.brightness,verander het verlichting level
+nl-nl,mark-2.brightness,verander het helderheid
+nl-nl,mark-2.brightness,verander het helderheid level
+nl-nl,mark-2.brightness,verander het oog verlichting
+nl-nl,mark-2.brightness,verander het oog verlichting level
+nl-nl,mark-2.brightness,verander het oog helderheid
+nl-nl,mark-2.brightness,verander het oog helderheid level
+nl-nl,mark-2.brightness,je bent gedimd
+nl-nl,mark-2.brightness,je bent helder
+nl-nl,mark-2.brightness,je bent ook gedimd
+nl-nl,mark-2.brightness,je bent ook helder
+nl-nl,mark-2.brightness,je bent gedimd
+nl-nl,mark-2.brightness,je bent helder
+nl-nl,mark-2.brightness,je bent ook gedimd
+nl-nl,mark-2.brightness,je bent ook helder
+nl-nl,mark-2.brightness,maak het helder
+nl-nl,mark-2.brightness,dim het een beetje
+nl-nl,mark-2.brightness.auto,Zet helderheid op automatisch
+nl-nl,mark-2.brightness.auto,Automatische helderheid
+nl-nl,mark-2.device.brightness.settings,Laat de helderheidsinstellingen zien
+nl-nl,mark-2.device.brightness.settings,Laat de helderheidsinstellingen van het apparaat zien
+nl-nl,mark-2.device.homescreen.settings,Laat de instellingen van het thuisscherm zien
+nl-nl,mark-2.device.homescreen.settings,toon inactief pagina instellingen
+nl-nl,mark-2.device.homescreen.settings,toon inactief gezicht instellingen
+nl-nl,mark-2.device.homescreen.settings,toon inactief scherm instellingen
+nl-nl,mark-2.device.homescreen.settings,toon rust pagina instellingen
+nl-nl,mark-2.device.homescreen.settings,toon rust gezicht instellingen
+nl-nl,mark-2.device.homescreen.settings,toon rust scherm instellingen
+nl-nl,mark-2.device.homescreen.settings,toon home pagina instellingen
+nl-nl,mark-2.device.homescreen.settings,toon home gezicht instellingen
+nl-nl,mark-2.device.homescreen.settings,toon home scherm instellingen
+nl-nl,mark-2.device.homescreen.settings,toon inactief pagina instellingen
+nl-nl,mark-2.device.homescreen.settings,toon inactief gezicht instellingen
+nl-nl,mark-2.device.homescreen.settings,toon inactief scherm instellingen
+nl-nl,mark-2.device.homescreen.settings,toon rust pagina instellingen
+nl-nl,mark-2.device.homescreen.settings,toon rust gezicht instellingen
+nl-nl,mark-2.device.homescreen.settings,toon rust scherm instellingen
+nl-nl,mark-2.device.homescreen.settings,toon home pagina instellingen
+nl-nl,mark-2.device.homescreen.settings,toon home gezicht instellingen
+nl-nl,mark-2.device.homescreen.settings,toon home scherm instellingen
+nl-nl,mark-2.device.reset.settings,toon fabrieksinstellingen
+nl-nl,mark-2.device.reset.settings,de fabrieksinstellingen voor het apparaat weergeven
+nl-nl,mark-2.device.settings,Laat apparaatinstellingen zien
+nl-nl,mark-2.device.settings,Open instellingen
+nl-nl,mark-2.device.ssh.settings,Laat de ssh instellingen zien
+nl-nl,mark-2.device.ssh.settings,Laat de ssh instellingen van dit apparaat zien
+nl-nl,mark-2.device.wifi.settings,toon draadloos scherm
+nl-nl,mark-2.device.wifi.settings,Laat de draadloze instellingen zien
+nl-nl,mark-2.device.wifi.settings,Laat de wifi instellingen zien
+nl-nl,mark-2.device.wifi.settings,show wifi screen
+nl-nl,wikiquote-skill.random,geef me wat wijsheid
+nl-nl,wikiquote-skill.random,geef me wat citaat
+nl-nl,wikiquote-skill.random,geef me een wijsheid
+nl-nl,wikiquote-skill.random,geef me een citaat
+nl-nl,wikiquote-skill.random,geef me wat wijsheid
+nl-nl,wikiquote-skill.random,geef me wat citaat
+nl-nl,wikiquote-skill.random,geef me een wijsheid
+nl-nl,wikiquote-skill.random,geef me een citaat
+nl-nl,wikiquote-skill.random,Ik heb wijsheid nodig
+nl-nl,wikiquote-skill.specific,geef me wat wijsheid over {subject}
+nl-nl,wikiquote-skill.specific,geef me een citaat over {subject}
+nl-nl,wikiquote-skill.specific,geef me wat wijsheid over {subject}
+nl-nl,wikiquote-skill.specific,geef me een citaat over {subject}
+nl-nl,wikiquote-skill.specific,Ik heb wat wijsheid nodig over {subject}
+nl-nl,wikiquote-skill.specific,Ik heb een citaat nodig over {subject}
+nl-nl,wikiquote-skill.specific,geef me een citaat over {subject}
+nl-nl,wikiquote-skill.specific,geef me een citaat van {subject}
+nl-nl,wikiquote-skill.specific,geef me een citaat over {subject}
+nl-nl,wikiquote-skill.specific,geef me een citaat van {subject}
+nl-nl,wikiquote-skill.specific,ik heb een citaat nodig over {subject}
+nl-nl,wikiquote-skill.specific,ik heb een citaat nodig van {subject}

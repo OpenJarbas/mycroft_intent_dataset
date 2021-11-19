@@ -1,6 +1,7 @@
 import requests
 import tempfile
 from os.path import join, exists
+import os
 import shutil
 import glob
 import zipfile
@@ -165,7 +166,31 @@ def convert():
     with open("mycroft_entities_expanded_v0.1.csv", "w", encoding="utf-8") as f:
         f.write(dict2csv(entities))
 
+
+def filter_per_lang(dataset, name):
+    for lang, entries in dataset.items():
+        os.makedirs(f"lang/{lang}", exist_ok=True)
+        subset = {lang: entries}
+        with open(f"lang/{lang}/{name}.{lang}.csv", "w", encoding="utf-8") as f:
+            f.write(dict2csv(subset))
+        with open(f"lang/{lang}/{name}.{lang}.json", "w", encoding="utf-8") as f:
+            json.dump(subset, f, indent=2, sort_keys=True)
+
+
+def split_datasets():
+    intents, entities, keywords = load_dataset()
+    filter_per_lang(intents, "mycroft_intents_raw_v0.1")
+    filter_per_lang(keywords, "mycroft_keywords_raw_v0.1")
+    filter_per_lang(entities, "mycroft_entities_raw_v0.1")
+    intents, entities, keywords = normalize()
+    filter_per_lang(intents, "mycroft_intents_expanded_v0.1")
+    filter_per_lang(keywords, "mycroft_keywords_expanded_v0.1")
+    filter_per_lang(entities, "mycroft_entities_expanded_v0.1")
+
+
 #download()
 #load_dataset()
 #normalize()
-convert()
+#convert()
+
+split_datasets()

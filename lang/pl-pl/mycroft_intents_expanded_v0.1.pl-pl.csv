@@ -1,0 +1,131 @@
+pl-pl,cocktail.Needed,co jest potrzebne do zrobienia {drink}
+pl-pl,cocktail.Needed,czego potrzebujesz do zrobienia {drink}
+pl-pl,cocktail.Needed,czego potrzebuję do zrobienia {drink}
+pl-pl,cocktail.Needed,jakie są składniki {drink}
+pl-pl,cocktail.Needed,jaki jest składnik {drink}
+pl-pl,cocktail.Recipie,jak zrobię {drink}
+pl-pl,cocktail.Recipie,jak mam zrobić {drink}
+pl-pl,cocktail.Recipie,powiedz nam jak zrobić {drink}
+pl-pl,cocktail.Recipie,powiedz mi jak zrobić {drink}
+pl-pl,cocktail.Recipie,podaj nam instrukcje dla {drink}
+pl-pl,cocktail.Recipie,podaj mi instrukcje dla {drink}
+pl-pl,cocktail.Recipie,jak zrobić {drink}
+pl-pl,cocktail.Recipie,jaki jest przepis na {drink}
+pl-pl,wikiquote-skill.random,powiedz mi mądrość
+pl-pl,wikiquote-skill.random,powiedz mi cytat
+pl-pl,wikiquote-skill.random,powiedz mi jakiś mądrość
+pl-pl,wikiquote-skill.random,powiedz mi jakiś cytat
+pl-pl,wikiquote-skill.random,powiedz mi jakąś mądrość
+pl-pl,wikiquote-skill.random,powiedz mi jakąś cytat
+pl-pl,wikiquote-skill.random,o powiedz mi mądrość
+pl-pl,wikiquote-skill.random,o powiedz mi cytat
+pl-pl,wikiquote-skill.random,o powiedz mi jakiś mądrość
+pl-pl,wikiquote-skill.random,o powiedz mi jakiś cytat
+pl-pl,wikiquote-skill.random,o powiedz mi jakąś mądrość
+pl-pl,wikiquote-skill.random,o powiedz mi jakąś cytat
+pl-pl,wikiquote-skill.random,daj mi mądrość
+pl-pl,wikiquote-skill.random,daj mi cytat
+pl-pl,wikiquote-skill.random,daj mi jakiś mądrość
+pl-pl,wikiquote-skill.random,daj mi jakiś cytat
+pl-pl,wikiquote-skill.random,daj mi jakąś mądrość
+pl-pl,wikiquote-skill.random,daj mi jakąś cytat
+pl-pl,wikiquote-skill.random,zacytuj kogoś mądrego
+pl-pl,wikiquote-skill.random,zacytuj coś mądrego
+pl-pl,wikiquote-skill.random,zacytuj kogoś
+pl-pl,wikiquote-skill.random,zacytuj coś
+pl-pl,wikiquote-skill.random,potrzebuję jakiejś inspiracji
+pl-pl,wikiquote-skill.random,potrzebuję jakiejś oświecenia
+pl-pl,wikiquote-skill.random,potrzebuję jakiejś mądrości
+pl-pl,wikiquote-skill.random,potrzebuję jakiegoś inspiracji
+pl-pl,wikiquote-skill.random,potrzebuję jakiegoś oświecenia
+pl-pl,wikiquote-skill.random,potrzebuję jakiegoś mądrości
+pl-pl,wikiquote-skill.random,poszukuję jakiejś inspiracji
+pl-pl,wikiquote-skill.random,poszukuję jakiejś oświecenia
+pl-pl,wikiquote-skill.random,poszukuję jakiejś mądrości
+pl-pl,wikiquote-skill.random,poszukuję jakiegoś inspiracji
+pl-pl,wikiquote-skill.random,poszukuję jakiegoś oświecenia
+pl-pl,wikiquote-skill.random,poszukuję jakiegoś mądrości
+pl-pl,wikiquote-skill.specific,powiedz mi mądrość {subject}
+pl-pl,wikiquote-skill.specific,powiedz mi mądrość na temat {subject}
+pl-pl,wikiquote-skill.specific,powiedz mi mądrość o {subject}
+pl-pl,wikiquote-skill.specific,powiedz mi cytat {subject}
+pl-pl,wikiquote-skill.specific,powiedz mi cytat na temat {subject}
+pl-pl,wikiquote-skill.specific,powiedz mi cytat o {subject}
+pl-pl,wikiquote-skill.specific,o powiedz mi mądrość {subject}
+pl-pl,wikiquote-skill.specific,o powiedz mi mądrość na temat {subject}
+pl-pl,wikiquote-skill.specific,o powiedz mi mądrość o {subject}
+pl-pl,wikiquote-skill.specific,o powiedz mi cytat {subject}
+pl-pl,wikiquote-skill.specific,o powiedz mi cytat na temat {subject}
+pl-pl,wikiquote-skill.specific,o powiedz mi cytat o {subject}
+pl-pl,wikiquote-skill.specific,daj mi mądrość {subject}
+pl-pl,wikiquote-skill.specific,daj mi mądrość na temat {subject}
+pl-pl,wikiquote-skill.specific,daj mi mądrość o {subject}
+pl-pl,wikiquote-skill.specific,daj mi cytat {subject}
+pl-pl,wikiquote-skill.specific,daj mi cytat na temat {subject}
+pl-pl,wikiquote-skill.specific,daj mi cytat o {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję mądrości {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję mądrości na temat {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję mądrości o {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję cytatu {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję cytatu na temat {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję cytatu o {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję jakiejś mądrości {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję jakiejś mądrości na temat {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję jakiejś mądrości o {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję jakiejś cytatu {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję jakiejś cytatu na temat {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję jakiejś cytatu o {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję jakiegoś mądrości {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję jakiegoś mądrości na temat {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję jakiegoś mądrości o {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję jakiegoś cytatu {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję jakiegoś cytatu na temat {subject}
+pl-pl,wikiquote-skill.specific,potrzebuję jakiegoś cytatu o {subject}
+pl-pl,wikiquote-skill.specific,zacytuj kogoś {subject}
+pl-pl,wikiquote-skill.specific,zacytuj kogoś na temat {subject}
+pl-pl,wikiquote-skill.specific,zacytuj kogoś o {subject}
+pl-pl,wikiquote-skill.specific,zacytuj kogoś mądrego {subject}
+pl-pl,wikiquote-skill.specific,zacytuj kogoś mądrego na temat {subject}
+pl-pl,wikiquote-skill.specific,zacytuj kogoś mądrego o {subject}
+pl-pl,wikiquote-skill.specific,zacytuj coś {subject}
+pl-pl,wikiquote-skill.specific,zacytuj coś na temat {subject}
+pl-pl,wikiquote-skill.specific,zacytuj coś o {subject}
+pl-pl,wikiquote-skill.specific,zacytuj coś mądrego {subject}
+pl-pl,wikiquote-skill.specific,zacytuj coś mądrego na temat {subject}
+pl-pl,wikiquote-skill.specific,zacytuj coś mądrego o {subject}
+pl-pl,wikiquote-skill.specific,poszukuję inspiracji {subject}
+pl-pl,wikiquote-skill.specific,poszukuję inspiracji na temat {subject}
+pl-pl,wikiquote-skill.specific,poszukuję inspiracji o {subject}
+pl-pl,wikiquote-skill.specific,poszukuję oświecenia {subject}
+pl-pl,wikiquote-skill.specific,poszukuję oświecenia na temat {subject}
+pl-pl,wikiquote-skill.specific,poszukuję oświecenia o {subject}
+pl-pl,wikiquote-skill.specific,poszukuję mądrości {subject}
+pl-pl,wikiquote-skill.specific,poszukuję mądrości na temat {subject}
+pl-pl,wikiquote-skill.specific,poszukuję mądrości o {subject}
+pl-pl,wikiquote-skill.specific,poszukuję cytatu {subject}
+pl-pl,wikiquote-skill.specific,poszukuję cytatu na temat {subject}
+pl-pl,wikiquote-skill.specific,poszukuję cytatu o {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiejś inspiracji {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiejś inspiracji na temat {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiejś inspiracji o {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiejś oświecenia {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiejś oświecenia na temat {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiejś oświecenia o {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiejś mądrości {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiejś mądrości na temat {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiejś mądrości o {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiejś cytatu {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiejś cytatu na temat {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiejś cytatu o {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiegoś inspiracji {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiegoś inspiracji na temat {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiegoś inspiracji o {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiegoś oświecenia {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiegoś oświecenia na temat {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiegoś oświecenia o {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiegoś mądrości {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiegoś mądrości na temat {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiegoś mądrości o {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiegoś cytatu {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiegoś cytatu na temat {subject}
+pl-pl,wikiquote-skill.specific,poszukuję jakiegoś cytatu o {subject}

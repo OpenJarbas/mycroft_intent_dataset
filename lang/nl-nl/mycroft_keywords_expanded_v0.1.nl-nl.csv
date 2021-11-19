@@ -1,0 +1,252 @@
+nl-nl,Crystal-Ball-Mycroft-Skill.CrystalBall,Magische Bol
+nl-nl,Crystal-Ball-Mycroft-Skill.CrystalBall,Kristallen Bol
+nl-nl,Crystal-Ball-Mycroft-Skill.CrystalBall,Spiegel Spiegel
+nl-nl,Crystal-Ball-Mycroft-Skill.Future,toekomst
+nl-nl,Crystal-Ball-Mycroft-Skill.Future,morgen
+nl-nl,Crystal-Ball-Mycroft-Skill.Query,Vertel me
+nl-nl,Crystal-Ball-Mycroft-Skill.Query,Vertel mij
+nl-nl,Crystal-Ball-Mycroft-Skill.Query,Zeg het me
+nl-nl,Crystal-Ball-Mycroft-Skill.Query,Zeg het mij
+nl-nl,Crystal-Ball-Mycroft-Skill.Query,Zeg me
+nl-nl,Crystal-Ball-Mycroft-Skill.Query,Zeg mij
+nl-nl,Crystal-Ball-Mycroft-Skill.Query,Wat
+nl-nl,Number-Guess-Mycroft-Skill.NumberGuess,Getallen Raden
+nl-nl,Number-Guess-Mycroft-Skill.NumberGuess,spelletje getallen raden
+nl-nl,Number-Guess-Mycroft-Skill.Play,Spelen
+nl-nl,Number-Guess-Mycroft-Skill.Play,Begin een spelletje
+nl-nl,Number-Guess-Mycroft-Skill.Suggest,Laten we
+nl-nl,Number-Guess-Mycroft-Skill.Suggest,Laten we
+nl-nl,Number-Guess-Mycroft-Skill.Suggest,Waarom
+nl-nl,Number-Guess-Mycroft-Skill.Suggest,Wat vind je van
+nl-nl,Number-Guess-Mycroft-Skill.Suggest,Zullen we
+nl-nl,aircrack.Clients,client
+nl-nl,aircrack.Clients,clienten
+nl-nl,aircrack.Clients,verbinding
+nl-nl,aircrack.Clients,verbindingen
+nl-nl,aircrack.Crack,breken
+nl-nl,aircrack.Crack,hacken
+nl-nl,aircrack.Deauth,deauth
+nl-nl,aircrack.Deauth,deauthenticate
+nl-nl,aircrack.Deauth,verbreken
+nl-nl,aircrack.Deauth,dee auth
+nl-nl,aircrack.Deauth,dee authenticate
+nl-nl,aircrack.Interface,apparaten
+nl-nl,aircrack.Interface,aansluitingen
+nl-nl,aircrack.Interface,apparaat
+nl-nl,aircrack.Interface,aansluiting
+nl-nl,aircrack.List,noem
+nl-nl,aircrack.List,zoek
+nl-nl,aircrack.Monitor,monitor
+nl-nl,aircrack.Monitor,bewaken
+nl-nl,aircrack.Monitor,dump
+nl-nl,aircrack.Monitor,dumping
+nl-nl,aircrack.Network,draadloze netwerken
+nl-nl,aircrack.Network,netwerken
+nl-nl,aircrack.Network,draadloos netwerk
+nl-nl,aircrack.Network,netwerk
+nl-nl,aircrack.Network,wifi netwerk
+nl-nl,aircrack.Network,wifi netwerken
+nl-nl,aircrack.Password,wachtwoord
+nl-nl,aircrack.Password,wachtwoord
+nl-nl,aircrack.Select,kies
+nl-nl,aircrack.Select,gebruik
+nl-nl,aircrack.Start,start
+nl-nl,aircrack.Start,begin
+nl-nl,aircrack.Stop,stop
+nl-nl,aircrack.Stop,einde
+nl-nl,cocktail.Again,opnieuw
+nl-nl,cocktail.Ingredients,ingrediënt
+nl-nl,cocktail.Ingredients,ingrediënten
+nl-nl,cocktail.TellMe,wat zijn
+nl-nl,cocktail.TellMe,vertel me
+nl-nl,cocktail.What,wat was
+nl-nl,cocktail.What,wat waren
+nl-nl,cut-up-skill.CutUp,Opknippen
+nl-nl,cut-up-skill.CutUp,Randomiseer
+nl-nl,cut-up-skill.Maximum,Maximum
+nl-nl,cut-up-skill.Minimum,Minimum
+nl-nl,cut-up-skill.Randomness,Willekeurigheid
+nl-nl,cut-up-skill.Set,Stel in
+nl-nl,cut-up-skill.Set,Configureer
+nl-nl,cut-up-skill.Set,Stel Configuratie in
+nl-nl,decide-skill.DecideKeyword,Beslis
+nl-nl,decide-skill.DecideKeyword,Wat moet ik aan
+nl-nl,decide-skill.DecideKeyword,Wat moet ik eten
+nl-nl,decide-skill.DecideKeyword,spel
+nl-nl,fallback-aiml.Memory,hersenen
+nl-nl,fallback-aiml.Memory,geheugen
+nl-nl,fallback-aiml.Memory,verstand
+nl-nl,fallback-aiml.Memory,alles
+nl-nl,fallback-aiml.Reset,wis
+nl-nl,fallback-aiml.Reset,reset
+nl-nl,homeassistant.AutomationActionKeyword,activeren
+nl-nl,homeassistant.AutomationActionKeyword,vuur
+nl-nl,homeassistant.AutomationActionKeyword,Bel
+nl-nl,homeassistant.AutomationActionKeyword,Activeer
+nl-nl,homeassistant.AutomationActionKeyword,scène
+nl-nl,homeassistant.AutomationActionKeyword,automatisering
+nl-nl,homeassistant.AutomationActionKeyword,script
+nl-nl,homeassistant.ClimateKeyword,stel de {entity} temperatuur in op {temperature}
+nl-nl,homeassistant.DecreaseVerb,verlaag
+nl-nl,homeassistant.DecreaseVerb,omlaag
+nl-nl,homeassistant.DeviceTrackerKeyword,waar is
+nl-nl,homeassistant.DeviceTrackerKeyword,localiseer
+nl-nl,homeassistant.DeviceTrackerKeyword,locatie
+nl-nl,homeassistant.DeviceTrackerKeyword,waar
+nl-nl,homeassistant.IncreaseVerb,verhoog
+nl-nl,homeassistant.IncreaseVerb,omhoog
+nl-nl,homeassistant.LightBrightenVerb,verhelder
+nl-nl,homeassistant.LightBrightenVerb,helderder
+nl-nl,homeassistant.LightBrightenVerb,helder
+nl-nl,homeassistant.LightBrightenVerb,omhoog
+nl-nl,homeassistant.LightDimVerb,verduister
+nl-nl,homeassistant.LightDimVerb,dimmer
+nl-nl,homeassistant.LightDimVerb,donker
+nl-nl,homeassistant.LightDimVerb,verduister
+nl-nl,homeassistant.LightDimVerb,lager
+nl-nl,homeassistant.LightDimVerb,omlaag
+nl-nl,homeassistant.LightsKeyword,licht
+nl-nl,homeassistant.LightsKeyword,Lichte
+nl-nl,homeassistant.LightsKeyword,lamp
+nl-nl,homeassistant.LightsKeyword,lampen
+nl-nl,homeassistant.LightsKeyword,lamp
+nl-nl,homeassistant.LightsKeyword,lampen
+nl-nl,homeassistant.LightsKeyword,led
+nl-nl,homeassistant.LightsKeyword,schakel in
+nl-nl,homeassistant.LightsKeyword,zet aan
+nl-nl,homeassistant.LightsKeyword,inschakelen
+nl-nl,homeassistant.LightsKeyword,aanzetten
+nl-nl,homeassistant.LightsKeyword,schakel uit
+nl-nl,homeassistant.LightsKeyword,zet uit
+nl-nl,homeassistant.LightsKeyword,uitschakelen
+nl-nl,homeassistant.LightsKeyword,uitzetten
+nl-nl,homeassistant.LightsKeyword,schakel
+nl-nl,homeassistant.SensorStatusKeyword,status
+nl-nl,homeassistant.SensorStatusKeyword,toestand
+nl-nl,homeassistant.SensorStatusKeyword,status
+nl-nl,homeassistant.SensorStatusKeyword,toestand
+nl-nl,homeassistant.SensorStatusKeyword,sensor
+nl-nl,homeassistant.SensorStatusKeyword,detector
+nl-nl,homeassistant.SensorStatusKeyword,waarde
+nl-nl,homeassistant.SensorStatusKeyword,uitlezen
+nl-nl,homeassistant.SensorStatusKeyword,voorlezen
+nl-nl,homeassistant.SensorStatusKeyword,vertel
+nl-nl,homeassistant.SensorStatusKeyword,zeg
+nl-nl,homeassistant.SensorStatusKeyword,wat is de huidige
+nl-nl,homeassistant.SensorStatusKeyword,wat is huidige
+nl-nl,homeassistant.SensorStatusKeyword,vertel me de huidige
+nl-nl,homeassistant.SensorStatusKeyword,zeg me de huidige
+nl-nl,homeassistant.SensorStatusKeyword,geef me de huidige
+nl-nl,homeassistant.SensorStatusKeyword,geef me de waarde van
+nl-nl,homeassistant.SensorStatusKeyword,wat is de waarde van thermostaat
+nl-nl,homeassistant.SetVerb,zet
+nl-nl,homeassistant.SwitchActionKeyword,schakel
+nl-nl,homeassistant.SwitchActionKeyword,schakelaar
+nl-nl,krunner-search-skill.CalculateKeyword,bereken
+nl-nl,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,doorzoek deze computer voor
+nl-nl,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,zoek dit
+nl-nl,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,doorzoek de computer voor
+nl-nl,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,zoek bestand
+nl-nl,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,zoek bestand
+nl-nl,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,zoek bestandsnaam
+nl-nl,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,doorzoek de computer voor
+nl-nl,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,zoeksysteem
+nl-nl,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,systeem
+nl-nl,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,doorzoek het systeem
+nl-nl,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,zoek systeem bestand
+nl-nl,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,vind het bestand
+nl-nl,krunner-search-skill.RecentFileKeyword,laat recente zien
+nl-nl,krunner-search-skill.RecentFileKeyword,toon recente bestanden
+nl-nl,krunner-search-skill.RecentFileKeyword,toon recente documenten
+nl-nl,krunner-search-skill.RecentFileKeyword,recente documenten
+nl-nl,krunner-search-skill.RecentFileKeyword,recente bestanden
+nl-nl,laugh.Laugh,lach
+nl-nl,laugh.Laugh,lachen
+nl-nl,laugh.Laugh,gelach
+nl-nl,laugh.Laugh,gelach
+nl-nl,laugh.Stop,afbreken
+nl-nl,laugh.Stop,annuleren
+nl-nl,laugh.Stop,stop
+nl-nl,lifx-mycroft.Brightness,helderheid
+nl-nl,lifx-mycroft.Brightness,lichtsterkte
+nl-nl,lifx-mycroft.Decrease,verduister
+nl-nl,lifx-mycroft.Decrease,demp
+nl-nl,lifx-mycroft.Decrease,vervaag
+nl-nl,lifx-mycroft.Decrease,dim
+nl-nl,lifx-mycroft.Decrease,verduister
+nl-nl,lifx-mycroft.Decrease,verminder
+nl-nl,lifx-mycroft.Decrease,omlaag
+nl-nl,lifx-mycroft.Increase,verhelder
+nl-nl,lifx-mycroft.Increase,verlicht
+nl-nl,lifx-mycroft.Increase,belicht
+nl-nl,lifx-mycroft.Increase,versterk
+nl-nl,lifx-mycroft.Increase,verhoog
+nl-nl,lifx-mycroft.Increase,omhoog
+nl-nl,lifx-mycroft.Off,uit
+nl-nl,lifx-mycroft.Off,blokkeer
+nl-nl,lifx-mycroft.On,aan
+nl-nl,lifx-mycroft.On,activeer
+nl-nl,lifx-mycroft.Saturation,verzadiging
+nl-nl,lifx-mycroft.Saturation,intensiteit
+nl-nl,lifx-mycroft.Saturation,sterkte
+nl-nl,lifx-mycroft.Temperature,temperatuur
+nl-nl,lifx-mycroft.Temperature,warmte
+nl-nl,lifx-mycroft.Temperature,kleurtemperatuur
+nl-nl,lifx-mycroft.Temperature,kelvin
+nl-nl,lifx-mycroft.Temperature,kleurtemperatuur
+nl-nl,lifx-mycroft.Turn,draai
+nl-nl,lifx-mycroft.Turn,zet
+nl-nl,lifx-mycroft.Turn,verander
+nl-nl,lifx-mycroft.Turn,schakel
+nl-nl,lifx-mycroft.Turn,schakel
+nl-nl,lifx-mycroft.Turn,maak
+nl-nl,plasma-activities-skill.ActivitiesCreateKeyword,maak een nieuwe activiteit aan
+nl-nl,plasma-activities-skill.ActivitiesCreateKeyword,maak nieuwe activiteit aan
+nl-nl,plasma-activities-skill.ActivitiesCreateKeyword,maak activiteit aan
+nl-nl,plasma-activities-skill.ActivitiesCreateKeyword,begin een nieuwe activiteit
+nl-nl,plasma-activities-skill.ActivitiesCreateKeyword,nieuwe activiteiten aan
+nl-nl,plasma-activities-skill.ActivitiesCreateKeyword,begin nieuwe activiteiten
+nl-nl,plasma-activities-skill.ActivitiesCreateKeyword,maak activiteiten
+nl-nl,plasma-activities-skill.ActivitiesCreateKeyword,nieuwe activiteit
+nl-nl,plasma-activities-skill.ActivitiesCreateKeyword,nieuwe activiteiten
+nl-nl,plasma-activities-skill.ActivitiesRemoveKeyword,verwijder activiteit
+nl-nl,plasma-activities-skill.ActivitiesRemoveKeyword,verwijder de activiteit
+nl-nl,plasma-activities-skill.ActivitiesRemoveKeyword,verwijder activiteit
+nl-nl,plasma-activities-skill.ActivitiesRemoveKeyword,verwijder de activiteit
+nl-nl,plasma-activities-skill.ActivitiesShowKeyword,laat huidige activiteiten zien
+nl-nl,plasma-activities-skill.ActivitiesShowKeyword,laat activiteiten zien
+nl-nl,plasma-activities-skill.ActivitiesShowKeyword,activiteiten
+nl-nl,plasma-activities-skill.ActivitiesShowKeyword,vertoon huidige activiteiten
+nl-nl,plasma-activities-skill.ActivitiesShowKeyword,vertoon activiteiten
+nl-nl,plasma-activities-skill.ActivitiesStopKeyword,beeindig huidig activiteit
+nl-nl,plasma-activities-skill.ActivitiesStopKeyword,beeindig activiteit
+nl-nl,plasma-activities-skill.ActivitiesSwitchKeyword,wissel huidige activiteit
+nl-nl,plasma-activities-skill.ActivitiesSwitchKeyword,wissel naar activiteit
+nl-nl,plasma-activities-skill.ActivitiesSwitchKeyword,wissel activiteit
+nl-nl,query.Question,wat
+nl-nl,query.Question,wie
+nl-nl,query.Question,waneer
+nl-nl,query.Question,hoe
+nl-nl,query.Question,waar
+nl-nl,remember-skill.All,Alle
+nl-nl,remember-skill.Did,deed
+nl-nl,remember-skill.Forget,vergeten
+nl-nl,remember-skill.Forget,vergeet
+nl-nl,remember-skill.Phrase,zin
+nl-nl,remember-skill.Phrase,zinnen
+nl-nl,remember-skill.Remember,onthoud
+nl-nl,remember-skill.Remember,onthoudt
+nl-nl,remember-skill.You,jij
+nl-nl,speedtest-skill.Run,start
+nl-nl,speedtest-skill.Speedtest,speedtest
+nl-nl,speedtest-skill.Speedtest,speedtest
+nl-nl,white-house-adventure.Delete,verwijder
+nl-nl,white-house-adventure.Play,spelen
+nl-nl,white-house-adventure.Play,ga naar
+nl-nl,white-house-adventure.Play,ga naar
+nl-nl,white-house-adventure.Save,opslaan
+nl-nl,white-house-adventure.Save,spel opslaan
+nl-nl,white-house-adventure.Save,opgeslagen
+nl-nl,white-house-adventure.Zork,zork
+nl-nl,white-house-adventure.Zork,postbus
+nl-nl,white-house-adventure.Zork,witte huis

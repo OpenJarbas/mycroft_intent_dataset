@@ -1,0 +1,1907 @@
+{
+  "en-us": {
+    "8fact.number_facts": [
+      "how many facts do you know",
+      "how many facts do you have in your database",
+      "number of facts"
+    ],
+    "8fact.random_fact": [
+      "random fact",
+      "teach me something",
+      "random curiosity"
+    ],
+    "8fact.source": [
+      "where do you get your facts",
+      "what is the source of your facts",
+      "where do your random facts come from"
+    ],
+    "8fact.trustworthy": [
+      "can your facts be trusted",
+      "are your facts trustworthy",
+      "can i trust your facts",
+      "can i trust 8 fact"
+    ],
+    "Communication.neon.call": [
+      "Call {{contact}}",
+      "Place a call to {{contact}}",
+      "Phone {{contact}}",
+      "Neon call {{contact}}",
+      "Neon place a call to {{contact}}",
+      "Neon phone {{contact}}"
+    ],
+    "Wiktionary-Skill.fallback.wiktionary.definition": [
+      "what is the definition for {word}",
+      "tell me the definition of {word}",
+      "find the definition for {word}",
+      "what is the definition of {word}",
+      "tell me the definition for {word}"
+    ],
+    "alarm.alarm.status": [
+      "what alarms do I have",
+      "do i have any alarms",
+      "do i have any alarms set",
+      "status of alarms",
+      "list alarms",
+      "any active alarms"
+    ],
+    "alarm.delete": [
+      "(cancel | remove | erase| delete) (my | the | ) {time} ({ampm}|) ({daytype}|) alarm."
+    ],
+    "alarm.delete.all": [
+      "(delete | remove | cancel | erase ) (all | all of | ) (the | my | ) alarms."
+    ],
+    "alarm.set.recurring": [
+      "(set|start) (a|an) alarm for {time} ({ampm}|) every {daytype}",
+      "(set|start) (a|an) {time} ({ampm}|) alarm for every {daytype}",
+      "(set|start) (a|an) recurring {time} ({ampm}|) alarm for {daytype}",
+      "(set|start) (a|an) recurring alarm (for|on|at|) {time}({ampm}| {ampm}|) {daytype}",
+      "(set|start) (a|an) alarm every {daytype} for {time} ({ampm}|)",
+      "(set|start) (a|an) alarm for {time} {ampm} daily",
+      "(set|start) (a|an) daily alarm for {time} {ampm}"
+    ],
+    "alarm.set.time": [
+      "wake me up in {length}.",
+      "wake me up in {length} from now.",
+      "(set|start) (an|the) alarm for {length} from now.",
+      "(set|start) (an|the) alarm {length} from now.",
+      "(set|start) alarm for {length} from now.",
+      "(set|start) (an|a) alarm for {time} ({ampm}|) (this|) ({daytype}|)",
+      "(set|start) an alarm (for|on|) {daytype} {time} ({ampm}|)",
+      "(set|start) (a|an) {daytype} alarm for {time} ({ampm}|)",
+      "(set|start) (a|an) {daytype} alarm at {time} ({ampm}|)",
+      "(set|start) (a|an) {daytype} alarm on {time} ({ampm}|)",
+      "(set|start) an alarm for {time} {ampm}",
+      "(set|start) an alarm for {time} {ampm} {daytype}",
+      "(set|start) an alarm for {time} {ampm} this {daytype}",
+      "(set|start) an alarm for {time} ",
+      "(set|start) an alarm for {time} {daytype}",
+      "(set|start) an alarm for {time} this {daytype}",
+      "(set|start) (a|an|) {time} alarm",
+      "(set|start) (a|an|) {time} {ampm} alarm"
+    ],
+    "alarm.set.time.24hr": [
+      "wake me up (at {time}| for {time}| ) every {daytype} (at {time}| for {time}| ) (called {label} | ).",
+      "(set | create | make) an alarm (clock | ) (at {time}| for {time}| ) every {daytype} (at {time}| for {time}| )  (called {label} | ).",
+      "(set | create | make) an alarm (clock | ) (at {time}| for {time}| )   on (the|)  {daytype}.",
+      "(set | create | make) an alarm (clock | ) (at {time}| for {time}| )  ({daytype}|) ",
+      "wake me up in {length}.",
+      "wake me up in {length} from now."
+    ],
+    "alarm.stop": [
+      "stop alarm.",
+      "turn off alarm.",
+      "kill the alarm.",
+      "disable the alarm.",
+      "cancel the alarm.",
+      "I got it.",
+      "that's enough!",
+      "shut up!"
+    ],
+    "algorithmic-art.ShowImage": [
+      "draw a picture",
+      "paint a picture",
+      "create a picture",
+      "draw a painting",
+      "paint a painting",
+      "create a painting"
+    ],
+    "apod.apod": [
+      "astronomy picture of the day",
+      "today astronomy picture",
+      "astronomy picture of today",
+      "apod"
+    ],
+    "asteroid-tracker.asteroids": [
+      "(show|plot|display) (asteroid orbits|asteroids|all asteroids)"
+    ],
+    "auto-volume-skill.activate": [
+      "Activate auto volume",
+      "Set auto volume to active",
+      "Turn on auto volume",
+      "Set auto volume (to) on"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Deactivate auto volume",
+      "Set auto volume to inactive",
+      "Turn off auto volume",
+      "Set auto volume (to) off"
+    ],
+    "auto-volume-skill.reset": [
+      "Clear auto volume measurements",
+      "Delete auto volume measurements",
+      "Reset auto volume measurements"
+    ],
+    "bark-skill.bark": [
+      "Bark",
+      "What does a dog say",
+      "Look at that cat",
+      "Mailman is here"
+    ],
+    "better-stop.stop": [
+      "stop",
+      "stop doing that",
+      "stop that"
+    ],
+    "bitchute-skill.bitchute": [
+      "bitchute {videoname}",
+      "show video of {videoname} on bitchute",
+      "bitchute the song {videoname}",
+      "bitchute the artist {videoname}"
+    ],
+    "bitchute-skill.bitchute-repeat": [
+      "bitchute replay",
+      "bitchute repeat",
+      "bitchute replay last video",
+      "bitchute repeat last video",
+      "bitchute last video",
+      "bitchute last video"
+    ],
+    "blue-marble.about": [
+      "tell me about (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery)",
+      "what is (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery)",
+      "(talk|tell me) about (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery)",
+      "Earth Polychromatic Imaging Camera",
+      "about (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery)"
+    ],
+    "blue-marble.earth_from_space": [
+      "show me earth from space",
+      "show earth",
+      "display earth from space",
+      "display a picture of earth",
+      "earth from space",
+      "display a picture of earth from space",
+      "daily blue marble",
+      "blue marble of the day"
+    ],
+    "blue-marble.epic_website": [
+      "open the epic website from nasa",
+      "open the nasa website for epic",
+      "nasa epic website",
+      "open website for Earth Polychromatic Imaging Camera",
+      "website for Earth Polychromatic Imaging Camera",
+      "open Earth Polychromatic Imaging Camera website"
+    ],
+    "blue-marble.location": [
+      "where is (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery) spacecraft",
+      "where is (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery) spacecraft located",
+      "where is the (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery)",
+      "what is the location of (DSCOVR|EPIC|Earth Polychromatic Imaging Camera|discover|discovery)"
+    ],
+    "ccc.home": [
+      "(show|open|display|show me) (ccc|c c c|cult movie classics) (homescreen|home screen|screen)",
+      "(show|open|display|show me) (ccc|c c c|cult movie classics)",
+      "(show|open|display|show me) (ccc|c c c|cult movie classics) (menu|screen)",
+      "(ccc|c c c|cult movie classics) (menu|screen)"
+    ],
+    "chandra-xray.about": [
+      "about chandra x ray observatory picture",
+      "about x ray observatory",
+      "talk about Earth  chandra x ray observatory",
+      "what is chandra x ray",
+      "tell me about nasa x ray telescope",
+      "talk about x ray telescope",
+      "tell me about chandra x ray observatory",
+      "what is nasa x ray observatory"
+    ],
+    "chandra-xray.chandra_website": [
+      "open the chandra website from nasa",
+      "open the nasa website for chandra",
+      "nasa chandra website",
+      "open website for chandra x ray observatory",
+      "website for chandra x ray observatory",
+      "open chandra x ray observatory website"
+    ],
+    "chandra-xray.chandraxray": [
+      "chandra x ray observatory picture",
+      "x ray observatory picture",
+      "picture from chandra x ray observatory",
+      "picture from chandra x ray",
+      "nasa x ray telescope picture",
+      "picture from x ray telescope",
+      "picture from x ray observatory",
+      "nasa x ray observatory picture",
+      "latest nasa x ray observatory picture",
+      "random nasa x ray observatory picture",
+      "new chandra x ray observatory picture",
+      "random chandra x ray observatory picture"
+    ],
+    "classic-scifi-horror.home": [
+      "(show|open|display|show me) (scifi|sci fi) horror (homescreen|home screen|screen)",
+      "(show|open|display|show me) (scifi|sci fi) horror",
+      "(show|open|display|show me) (scifi|sci fi) horror (menu|screen)",
+      "(scifi|sci fi) horror (films|film|movie|movies) (menu|screen)",
+      "(scifi|sci fi) horror (menu|screen)"
+    ],
+    "cocktail.Needed": [
+      "what is needed to make (a|an) {drink}",
+      "what do (i|you) need (for|to make) (a|an) {drink}",
+      "what are the (ingredients|ingredient) (of|for) (a|an) {drink}"
+    ],
+    "cocktail.Random": [
+      "what should (i|we) (make to|) drink",
+      "(it's|it is) happy hour (somewhere)",
+      "suggest a (random|) (cocktail|drink)",
+      "suggest something to drink",
+      "give me a random cocktail",
+      "i (want|would like) a random cocktail",
+      "give me a random (drink|cocktail)"
+    ],
+    "cocktail.Recipe": [
+      "how (would|do) (i|you) (make|mix) (a|an) {drink}",
+      "tell (me|us) how to (make|mix) (a|an) {drink}",
+      "give (me|us) instructions for (a|an) {drink}",
+      "how to (make|mix) (a|an) {drink}",
+      "what is the recipe for (a|an) {drink}"
+    ],
+    "confucius-quotes.who": [
+      "who is confucius",
+      "who was confucius"
+    ],
+    "count-skill.count": [
+      "Count to {number}"
+    ],
+    "count-skill.countdown": [
+      "Countdown from {number}",
+      "Count down from {number}",
+      "Count backwards from {number}",
+      "Count back wards from {number}",
+      "Count back from {number}",
+      "From {number} count down",
+      "From {number} count backwards"
+    ],
+    "countries.country_area": [
+      "what is the area of {country}",
+      "what is the size of {country}",
+      "do you know what is the area of {country}",
+      "do you know what is the size of {country}",
+      "tell me the area of {country}",
+      "tell me the size of {country}",
+      "tell me what is the area of {country}",
+      "tell me what is the size of {country}"
+    ],
+    "countries.country_borders": [
+      "what countries make border with {country}",
+      "what is the border of {country}",
+      "what are the borders of {country}",
+      "do you know the borders of {country}",
+      "tell me the borders of {country}"
+    ],
+    "countries.country_capital": [
+      "what is the capital of {country}",
+      "tell me the capital of {country}",
+      "do you know the capital of {country}",
+      "guess the capital of {country}"
+    ],
+    "countries.country_currency": [
+      "what coin do they use in {country}",
+      "what is the coin in {country}",
+      "official coin in {country}",
+      "what currency do they use in {country}",
+      "what is the currency in {country}",
+      "official currency in {country}",
+      "what coins do they use in {country}",
+      "what is the coins in {country}",
+      "official coins in {country}",
+      "what coin do they use at {country}",
+      "what is the coin at {country}",
+      "official coin at {country}",
+      "what currency do they use at {country}",
+      "what is the currency at {country}",
+      "official currency at {country}",
+      "what coins do they use at {country}",
+      "what is the coins at {country}",
+      "official coins at {country}",
+      "what coin do they use on {country}",
+      "what is the coin on {country}",
+      "official coin on {country}",
+      "what currency do they use on {country}",
+      "what is the currency on {country}",
+      "official currency on {country}",
+      "what coins do they use on {country}",
+      "what is the coins on {country}",
+      "official coins on {country}",
+      "what coin do they use of {country}",
+      "what is the coin of {country}",
+      "official coin of {country}",
+      "what currency do they use of {country}",
+      "what is the currency of {country}",
+      "official currency of {country}",
+      "what coins do they use of {country}",
+      "what is the coins of {country}",
+      "official coins of {country}"
+    ],
+    "countries.country_in_region": [
+      "what country in {region}",
+      "what country can i find  in {region}",
+      "what are the country in {region}",
+      "which country does {region} have",
+      "which country in {region}",
+      "what countries in {region}",
+      "what countries can i find  in {region}",
+      "what are the countries in {region}",
+      "which countries does {region} have",
+      "which countries in {region}",
+      "what country at {region}",
+      "what country can i find  at {region}",
+      "what are the country at {region}",
+      "which country does {region} have",
+      "which country at {region}",
+      "what countries at {region}",
+      "what countries can i find  at {region}",
+      "what are the countries at {region}",
+      "which countries does {region} have",
+      "which countries at {region}",
+      "what country on {region}",
+      "what country can i find  on {region}",
+      "what are the country on {region}",
+      "which country does {region} have",
+      "which country on {region}",
+      "what countries on {region}",
+      "what countries can i find  on {region}",
+      "what are the countries on {region}",
+      "which countries does {region} have",
+      "which countries on {region}",
+      "what country of {region}",
+      "what country can i find  of {region}",
+      "what are the country of {region}",
+      "which country does {region} have",
+      "which country of {region}",
+      "what countries of {region}",
+      "what countries can i find  of {region}",
+      "what are the countries of {region}",
+      "which countries does {region} have",
+      "which countries of {region}"
+    ],
+    "countries.country_languages": [
+      "what language do they speak in {country}",
+      "what language is spoken in {country}",
+      "what is the official language in {country}",
+      "what languages do they speak in {country}",
+      "what languages is spoken in {country}",
+      "what is the official languages in {country}",
+      "what language do they speak at {country}",
+      "what language is spoken at {country}",
+      "what is the official language at {country}",
+      "what languages do they speak at {country}",
+      "what languages is spoken at {country}",
+      "what is the official languages at {country}",
+      "what language do they speak on {country}",
+      "what language is spoken on {country}",
+      "what is the official language on {country}",
+      "what languages do they speak on {country}",
+      "what languages is spoken on {country}",
+      "what is the official languages on {country}",
+      "what language do they speak of {country}",
+      "what language is spoken of {country}",
+      "what is the official language of {country}",
+      "what languages do they speak of {country}",
+      "what languages is spoken of {country}",
+      "what is the official languages of {country}"
+    ],
+    "countries.country_num": [
+      "how many countries do you know about",
+      "how many countries do you have data on",
+      "how many countries do you have data about",
+      "how many countries can you tell me about",
+      "how many countries do you know about",
+      "how many countries do you have data on",
+      "how many countries do you have data about",
+      "how many countries can you tell me about",
+      "number of countries do you know about",
+      "number of countries do you have data on",
+      "number of countries do you have data about",
+      "number of countries can you tell me about",
+      "number of countries do you know about",
+      "number of countries do you have data on",
+      "number of countries do you have data about",
+      "number of countries can you tell me about"
+    ],
+    "countries.country_population": [
+      "what is the population of {country}",
+      "how many people live in {country}",
+      "population number of {country}",
+      "tell me what is the population of {country}",
+      "tell me how many people live in {country}",
+      "tell me population number of {country}",
+      "do you know what is the population of {country}",
+      "do you know how many people live in {country}",
+      "do you know population number of {country}"
+    ],
+    "countries.country_region": [
+      "where is {country} located at",
+      "where is {country}",
+      "tell me where {country} is",
+      "do you know where {country} is",
+      "location of {country}",
+      "where is country {country} at",
+      "in what region is {country}",
+      "region of {country}"
+    ],
+    "countries.country_timezones": [
+      "what is the timezone in {country}",
+      "tell me the timezone in {country}",
+      "do you know timezone in {country}",
+      "what is the timezones in {country}",
+      "tell me the timezones in {country}",
+      "do you know timezones in {country}",
+      "what is the timezone on {country}",
+      "tell me the timezone on {country}",
+      "do you know timezone on {country}",
+      "what is the timezones on {country}",
+      "tell me the timezones on {country}",
+      "do you know timezones on {country}",
+      "what is the timezone at {country}",
+      "tell me the timezone at {country}",
+      "do you know timezone at {country}",
+      "what is the timezones at {country}",
+      "tell me the timezones at {country}",
+      "do you know timezones at {country}",
+      "what is the timezone of {country}",
+      "tell me the timezone of {country}",
+      "do you know timezone of {country}",
+      "what is the timezones of {country}",
+      "tell me the timezones of {country}",
+      "do you know timezones of {country}"
+    ],
+    "countries.denonym": [
+      "call residents of {country}",
+      "call people that lives in {country}",
+      "call people who lives in {country}",
+      "call people born in {country}",
+      "call ( people | someone ) from {country}",
+      "people who lives in {country} called",
+      "what is people born in {country} called",
+      "what is people from {country} called",
+      "what are people born in {country} called",
+      "what are people from {country} called",
+      "how is people born in {country} called",
+      "how is people from {country} called",
+      "how are people born in {country} called",
+      "how are people from {country} called",
+      "call someone that lives in {country}",
+      "call someone who lives in {country}",
+      "call someone born in {country}",
+      "call ( people | someone ) from {country}",
+      "someone who lives in {country} called",
+      "what is someone born in {country} called",
+      "what is someone from {country} called",
+      "what are someone born in {country} called",
+      "what are someone from {country} called",
+      "how is someone born in {country} called",
+      "how is someone from {country} called",
+      "how are someone born in {country} called",
+      "how are someone from {country} called",
+      "call a person that lives in {country}",
+      "call a person who lives in {country}",
+      "call a person born in {country}",
+      "call ( people | someone ) from {country}",
+      "a person who lives in {country} called",
+      "what is a person born in {country} called",
+      "what is a person from {country} called",
+      "what are a person born in {country} called",
+      "what are a person from {country} called",
+      "how is a person born in {country} called",
+      "how is a person from {country} called",
+      "how are a person born in {country} called",
+      "how are a person from {country} called",
+      "call persons that live in {country}",
+      "call persons who live in {country}",
+      "call persons born in {country}",
+      "call ( people | someone ) from {country}",
+      "persons who live in {country} called",
+      "what is persons born in {country} called",
+      "what is persons from {country} called",
+      "what are persons born in {country} called",
+      "what are persons from {country} called",
+      "how is persons born in {country} called",
+      "how is persons from {country} called",
+      "how are persons born in {country} called",
+      "how are persons from {country} called",
+      "call people that lives on {country}",
+      "call people who lives on {country}",
+      "call people born on {country}",
+      "call ( people | someone ) from {country}",
+      "people who lives on {country} called",
+      "what is people born on {country} called",
+      "what is people from {country} called",
+      "what are people born on {country} called",
+      "what are people from {country} called",
+      "how is people born on {country} called",
+      "how is people from {country} called",
+      "how are people born on {country} called",
+      "how are people from {country} called",
+      "call someone that lives on {country}",
+      "call someone who lives on {country}",
+      "call someone born on {country}",
+      "call ( people | someone ) from {country}",
+      "someone who lives on {country} called",
+      "what is someone born on {country} called",
+      "what is someone from {country} called",
+      "what are someone born on {country} called",
+      "what are someone from {country} called",
+      "how is someone born on {country} called",
+      "how is someone from {country} called",
+      "how are someone born on {country} called",
+      "how are someone from {country} called",
+      "call a person that lives on {country}",
+      "call a person who lives on {country}",
+      "call a person born on {country}",
+      "call ( people | someone ) from {country}",
+      "a person who lives on {country} called",
+      "what is a person born on {country} called",
+      "what is a person from {country} called",
+      "what are a person born on {country} called",
+      "what are a person from {country} called",
+      "how is a person born on {country} called",
+      "how is a person from {country} called",
+      "how are a person born on {country} called",
+      "how are a person from {country} called",
+      "call persons that live on {country}",
+      "call persons who live on {country}",
+      "call persons born on {country}",
+      "call ( people | someone ) from {country}",
+      "persons who live on {country} called",
+      "what is persons born on {country} called",
+      "what is persons from {country} called",
+      "what are persons born on {country} called",
+      "what are persons from {country} called",
+      "how is persons born on {country} called",
+      "how is persons from {country} called",
+      "how are persons born on {country} called",
+      "how are persons from {country} called",
+      "call people that lives at {country}",
+      "call people who lives at {country}",
+      "call people born at {country}",
+      "call ( people | someone ) from {country}",
+      "people who lives at {country} called",
+      "what is people born at {country} called",
+      "what is people from {country} called",
+      "what are people born at {country} called",
+      "what are people from {country} called",
+      "how is people born at {country} called",
+      "how is people from {country} called",
+      "how are people born at {country} called",
+      "how are people from {country} called",
+      "call someone that lives at {country}",
+      "call someone who lives at {country}",
+      "call someone born at {country}",
+      "call ( people | someone ) from {country}",
+      "someone who lives at {country} called",
+      "what is someone born at {country} called",
+      "what is someone from {country} called",
+      "what are someone born at {country} called",
+      "what are someone from {country} called",
+      "how is someone born at {country} called",
+      "how is someone from {country} called",
+      "how are someone born at {country} called",
+      "how are someone from {country} called",
+      "call a person that lives at {country}",
+      "call a person who lives at {country}",
+      "call a person born at {country}",
+      "call ( people | someone ) from {country}",
+      "a person who lives at {country} called",
+      "what is a person born at {country} called",
+      "what is a person from {country} called",
+      "what are a person born at {country} called",
+      "what are a person from {country} called",
+      "how is a person born at {country} called",
+      "how is a person from {country} called",
+      "how are a person born at {country} called",
+      "how are a person from {country} called",
+      "call persons that live at {country}",
+      "call persons who live at {country}",
+      "call persons born at {country}",
+      "call ( people | someone ) from {country}",
+      "persons who live at {country} called",
+      "what is persons born at {country} called",
+      "what is persons from {country} called",
+      "what are persons born at {country} called",
+      "what are persons from {country} called",
+      "how is persons born at {country} called",
+      "how is persons from {country} called",
+      "how are persons born at {country} called",
+      "how are persons from {country} called"
+    ],
+    "countries.where_language_spoken": [
+      "where is {language} spoken",
+      "tell me where i can find {language} speakers",
+      "tell me where i can find {language}",
+      "where i can find {language} speakers",
+      "where i can find {language}",
+      "places where they speak {language}",
+      "where {language} is spoken",
+      "what place is {language} spoken",
+      "what countries speak {language}",
+      "which countries speak {language}"
+    ],
+    "ddg.birthdate": [
+      "when was {person} born",
+      "what is {person} birthday",
+      "what is {person} birth date",
+      "when was born {person}"
+    ],
+    "ddg.search_duck": [
+      "search duck duck go for {query}",
+      "search duck duck for {query}",
+      "ask the duck duck about {query}",
+      "ask the duck duck go about {query}",
+      "what does duck duck go say about {query}",
+      "what does duck duck say about {query}",
+      "search the duck for {query}",
+      "what does the duck say about {query}"
+    ],
+    "ddg.who": [
+      "who is {person}"
+    ],
+    "dice-skill.Dice": [
+      "roll ({count}|) d {type} (+|plus|) ({modifier}|)"
+    ],
+    "dice-skill.NormalDice": [
+      "roll ({count}|) (dice|die)"
+    ],
+    "dice-skill.Range": [
+      "Generate a random number from {low} to {high}",
+      "Generate a random number between {low} and {high}",
+      "Tell me a number from {low} and {high}",
+      "Tell me a number between {low} and {high}"
+    ],
+    "dust.home": [
+      "(show|open|display|show me) (dust|dust skill) (homescreen|home screen|screen)",
+      "(show|open|display|show me) (dust|dust skill)",
+      "(show|open|display|show me) (dust|dust skill) (menu|screen)",
+      "(sci fi|scifi|science fiction|dust) short (films|film|movie|movies) (menu|screen)",
+      "dust (menu|screen)",
+      "dust (films|film|movie|movies) (menu|screen)"
+    ],
+    "email-skill.check.email": [
+      "check my email",
+      "check my mail",
+      "do i have any new mail",
+      "do I have any email",
+      "do i have any new emails"
+    ],
+    "email-skill.enquire.email": [
+      "Do I have email from {email}",
+      "Have I gotten (any | ) email (by|from) from {email}",
+      "Did I receive any emails from {email}"
+    ],
+    "email-skill.notify": [
+      "tell me of (mail | email | new mail | email)",
+      "tell me when I get (mail | email | new mail | new email)",
+      "tell me when I get (a mail | an email | email) (from | by) {sender}",
+      "tell me of (mail | email) (from | by) {sender}",
+      "notify me of (mail | email | new mail | new email)",
+      "notify me of (mail | email | new mail | new email) (from | by) {sender}",
+      "notify me when I get (mail | email | new mail | new email)",
+      "notify me when I get (a mail | an email | email) (from | by) {sender}"
+    ],
+    "email-skill.stop": [
+      "do not notify me of (mail | email | new mail | new email)",
+      "do not notify me of (mail | email | new mail | new email) (from | by) {sender}",
+      "no longer notify me of (mail | email | new mail | new email)",
+      "no longer notify me of (mail | email | new mail | new email) (from | by) {sender}",
+      "do not tell me of (mail | email | new mail | new email)",
+      "do not tell me of (mail | email | new mail | new email) (from | by) {sender}",
+      "no longer tell me of (mail | email | new mail | new email)",
+      "no longer tell me of (mail | email | new mail | new email) (from | by) {sender}"
+    ],
+    "emby-skill.diagnostic": [
+      "check (emby|mb|mv|nv|emily) connection",
+      "run diagnostic (emby|mb|mv|nv|emily)",
+      "check (emby|mb|mv|nv|emily)"
+    ],
+    "emby-skill.emby": [
+      "play {media} from emby",
+      "play {media} from mb",
+      "play artist {artist} from emby",
+      "play artist {artist} from mb",
+      "play album {album} from emby",
+      "play album {album} from mb",
+      "play playlist {playlist} from mb",
+      "play playlist {playlist} from emby",
+      "play song {song} from mb",
+      "play song {song} from emby"
+    ],
+    "fairytalez-skill.continue": [
+      "Continue story",
+      "Continue story telling",
+      "Continue fairytale",
+      "Continue telling fairytale",
+      "Continue fairy tale",
+      "Continue with the fairytale",
+      "Continue with the fairy tale"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "(Tell|Read) (me| ) a (good| ) (story| fairy tale)",
+      "(Tell|Read) (me| ) the story {tale}"
+    ],
+    "futurism-cartoons.futurism_cartoon": [
+      "show futurism (cartoon|comic) number (#|##|###|####)",
+      "show futurism (cartoon|comic) (#|##|###|####)",
+      "display futurism (cartoon|comic) (#|##|###|####)",
+      "futurism (cartoon|comic) (#|##|###|####)",
+      "futurism (cartoon|comic) number (#|##|###|####)"
+    ],
+    "futurism-cartoons.futurism_total_cartoons": [
+      "how many futurism (comics|cartoon|cartoons)",
+      "number of futurism (comics|cartoon|cartoons)",
+      "futurism (comics|cartoon|cartoons) number",
+      "total futurism (comics|cartoon|cartoons)"
+    ],
+    "futurism-cartoons.latest_futurism_cartoon": [
+      "show me the latest futurism (comic|comics|cartoon|cartoons)",
+      "display latest futurism (comic|comics|cartoon|cartoons)",
+      "show futurism (comic|comics|cartoon|cartoons)",
+      "display futurism (comic|comics|cartoon|cartoons)",
+      "display a futurism (comic|comics|cartoon|cartoons)",
+      "latest futurism (comic|comics|cartoon|cartoons)"
+    ],
+    "futurism-cartoons.random_futurism_cartoon": [
+      "random futurism (comic|comics|cartoon|cartoons)",
+      "show random futurism (comic|comics|cartoon|cartoons)",
+      "random futurism (comic|comics|cartoon|cartoons)",
+      "display random futurism (comic|comics|cartoon|cartoons)",
+      "futurism random (comic|comics|cartoon|cartoons)",
+      "show me a random futurism (comic|comics|cartoon|cartoons)",
+      "show me a random futurism (comic|comics|cartoon|cartoons)",
+      "show me a futurism (comic|comics|cartoon|cartoons)"
+    ],
+    "helioviewer.eit_temperature": [
+      "(show|display|image|picture|photo) of the sun (at|in|for) (#|##|###|####) (degrees|Kelvin|temperature)",
+      "(sun|solar) (display|image|picture|photo) (at|in|for) (#|##|###|####) (degrees|Kelvin|temperature)",
+      "(show|display|image|picture|photo) of the sun (at|in|for) (#|##|###|####) (degrees|Kelvin|temperature)",
+      "(sun|solar) (display|image|picture|photo) (at|in|for) (#|##|###|####) million (degrees|Kelvin|temperature)"
+    ],
+    "helioviewer.eit_wavelength": [
+      "(show|display|image|picture|photo) of the sun (at|in|for) ### Angstrom",
+      "(sun|solar) (display|image|picture|photo) (at|in|for) ### Angstrom",
+      "(show|display|image|picture|photo) of the sun (at|in|for) ###",
+      "(sun|solar) (display|image|picture|photo) (at|in|for) ###"
+    ],
+    "helioviewer.helioviewer": [
+      "(show|display|open) the (helioviewer|helio view|helio viewer)",
+      "(helioviewer|helio view|helio viewer) (site|website|web site|webpage|web page)"
+    ],
+    "helioviewer.number": [
+      "(sunspots|sun spots|sunspot) count",
+      "Count of (sunspots|sun spots|sunspot)",
+      "number of (sunspots|sun spots|sunspot)",
+      "how many (sunspots|sun spots|sunspot)"
+    ],
+    "helioviewer.number_date": [
+      "(sunspot count|Count of sunspots|number of sunspots|how many sunspots) (#|##|###|####) (days|months|years|weeks) ago",
+      "(sunspot count|Count of sunspots|number of sunspots|how many sunspots) (yesterday|last week|last month|last weekend)",
+      "(yesterday|last week|last month|last weekend) (sunspot count|Count of sunspots|number of sunspots|how many sunspots)",
+      "(yesterday|last week|last month|last weekend) (sunspots|sun spots|sunspot)",
+      "(sunspots|sun spots|sunspot) (yesterday|last week|last month|last weekend)",
+      "(sunspots|sun spots|sunspot) (#|##|###|####) (days|months|years|weeks) ago"
+    ],
+    "helioviewer.recent": [
+      "recent (sunspots|sun spots|sunspot)",
+      "(sunspots|sun spots|sunspot) recently",
+      "(number|how many|count) of (sunspots|sun spots|sunspot) recently",
+      "recent (sunspots|sun spots|sunspot) (number|count)"
+    ],
+    "homeassistant.set.climate": [
+      "set the {{entity}} to {{temp}} degrees",
+      "set the {{entity}} temperature to {{temp}} degrees",
+      "change the {{entity}} temperature to {temp}} degrees"
+    ],
+    "homeassistant.set.light.brightness": [
+      "set brightness of {{entity}} to {{brightnessvalue}} percent"
+    ],
+    "horrorbabble.home": [
+      "(show|open|display|show me) horror (babble|readings|audio) (homescreen|home screen|screen|menu)",
+      "(show|open|display|show me) horror (babble|readings|audio)",
+      "(show|open|display|show me) horror (babble|readings|audio) skill (homescreen|home screen|screen|menu)",
+      "(show|open|display|show me) horror (babble|readings|audio) skill",
+      "horror (babble|readings|audio) (homescreen|home screen|screen|menu)"
+    ],
+    "hubble-telescope.about": [
+      "(about|what is|tell me about) hubble space telescope",
+      "(about|what is|tell me about) hubble telescope",
+      "(about|what is|tell me about) the hubble space telescope",
+      "(about|what is|tell me about) the hubble telescope"
+    ],
+    "hubble-telescope.colors": [
+      "(are|is) the (colors|color|colour|colours) in (hubble telescope|hubble space telescope|hubble) (data|photos|images|pictures) real"
+    ],
+    "hubble-telescope.data_public": [
+      "(are|is) all (hubble telescope|hubble space telescope|hubble) (data|photos|images|pictures) (available|available to the public|public)",
+      "(are|is) (hubble telescope|hubble space telescope|hubble) (data|photos|images|pictures) (available|available to the public|public)"
+    ],
+    "hubble-telescope.earth": [
+      "(Can|does) (hubble telescope|hubble space telescope|hubble) see {thing} on (earth|planet earth|our planet)",
+      "(Can|does) (hubble telescope|hubble space telescope|hubble) take (data|photos|images|pictures) of (earth|planet earth|our planet)"
+    ],
+    "hubble-telescope.hubble": [
+      "(picture|show|display|image|photo) (from|from the) (hubble telescope|hubble space telescope|huble site)",
+      "(hubble telescope|hubble space telescope|huble site) (picture|show|display|image|photo)"
+    ],
+    "hubble-telescope.hubble.now": [
+      "(What|where) is (hubble telescope|hubble space telescope|Hubble) (looking|looking at|looking at now)",
+      "(What|where) is (hubble telescope|hubble space telescope|Hubble) (pointing|pointing at|pointing at now)"
+    ],
+    "hubble-telescope.live": [
+      "Can we see live (data|photos|images|pictures) from (hubble telescope|hubble space telescope|hubble)",
+      "(does|is there any) live (data|photos|images|pictures) from (hubble telescope|hubble space telescope|hubble)",
+      "(does|do) live (data|photos|images|pictures) from (hubble telescope|hubble space telescope|hubble) exist"
+    ],
+    "hubble-telescope.mission": [
+      "(what is| tell me) the (mission|mission objectives) (of|of the) (hubble telescope|hubble space telescope)",
+      "(mission|mission objectives) (of|of the) (hubble telescope|hubble space telescope)",
+      "(hubble telescope|hubble space telescope) (mission|mission objectives)",
+      "what is (hubble telescope|hubble space telescope) (mission|mission objectives)"
+    ],
+    "hubble-telescope.moon": [
+      "(Can|does) (hubble telescope|hubble space telescope|hubble) see {thing} on the Moon",
+      "(Can|does) (hubble telescope|hubble space telescope|hubble) take (data|photos|images|pictures) of the Moon"
+    ],
+    "hubble-telescope.planets": [
+      "(Did|can|will|does) (hubble telescope|hubble space telescope|hubble) (find|found|locate) (any planets|new planets|exo planets|planets|alien planets)"
+    ],
+    "hubble-telescope.when": [
+      "(when|what date) (was|was the) (hubble telescope|hubble space telescope) (launched|deployed|sent to orbit|enabled)",
+      "(hubble telescope|hubble space telescope) (launch date|date of launch)",
+      "(when|what) (was|was the) (hubble telescope|hubble space telescope) (launch date|date of launch)"
+    ],
+    "hubble-telescope.who": [
+      "who was (hubble telescope|hubble space telescope) named (after|for)",
+      "who was (Edwin Powell Hubble|Edwin Hubble|Hubble)",
+      "tell me about (Edwin Powell Hubble|Edwin Hubble|Hubble)"
+    ],
+    "icanhazdadjokes.joke": [
+      "tell me a joke",
+      "say a joke",
+      "do you know any jokes",
+      "can you tell jokes",
+      "make me laugh"
+    ],
+    "icanhazdadjokes.search_joke": [
+      "tell me a {search} joke",
+      "say a {search} joke",
+      "do you know any {search} jokes",
+      "can you tell {search} jokes",
+      "joke about {search}",
+      "tell me a joke about {search}",
+      "say a joke about {search}",
+      "do you know any jokes about {search}",
+      "can you tell jokes about {search}"
+    ],
+    "installer.install.custom": [
+      "Download custom skill"
+    ],
+    "installer.list.skills": [
+      "(Show me|List) (available|installable) skills.",
+      "What (skills|) can I install?",
+      "What are some skills I can install?"
+    ],
+    "installer.uninstall": [
+      "uninstall (skill|) {skill}",
+      "remove skill {skill}"
+    ],
+    "iss-location.about": [
+      "about the ISS",
+      "about the space station",
+      "talk about the international space station",
+      "what is ISS",
+      "tell me about international space station",
+      "talk about international space station",
+      "tell me about international space station",
+      "what is the international space station"
+    ],
+    "iss-location.when_iss": [
+      "when is the I S S passing by",
+      "when is the space station passing by",
+      "when is the international space station passing by",
+      "international space station passing over"
+    ],
+    "iss-location.where_iss": [
+      "where is the I S S",
+      "where is the space station",
+      "where is the international space station",
+      "international space station location",
+      "location of the space station",
+      "location of I S S",
+      "I S S location"
+    ],
+    "iss-tracker-skill.tracker.iss": [
+      "(Locate|Where is) (|the) (ISS|I S S|international space station|space station)"
+    ],
+    "kings-of-horror.home": [
+      "(show|open|display|show me) (kings of horror|horror movies) (homescreen|home screen|screen)",
+      "(show|open|display|show me) (kings of horror|horror movies)",
+      "(show|open|display|show me) (kings of horror|horror movies) (menu|screen)",
+      "(kings of horror|horror movies) (menu|screen)"
+    ],
+    "laugh.Laugh": [
+      "laugh like alexa",
+      "can you laugh",
+      "evil (laugh|laughing|laughs|laughter)"
+    ],
+    "laugh.RandomLaugh": [
+      "laugh randomly",
+      "trigger random (laugh|laughing|laughs|laughter)",
+      "random (laugh|laughing|laughs|laughter)"
+    ],
+    "laugh.haunted": [
+      "Are you haunted",
+      "Do you need an exorcism"
+    ],
+    "launcher.neon.launch": [
+      "(launch|lunch|open) {program}"
+    ],
+    "learning-skill.say.differently": [
+      "can you (that | sometimes |) differently (answer | say)",
+      "come up with something new",
+      "complete (also sometimes |) your answers"
+    ],
+    "learning-skill.something_for_my_skill": [
+      "(for this|) (you should|you can|) (use|take) the {skill} (|Skill) ",
+      "(try|do) times (that|with) the {skill} (|Skill)",
+      "(use|take) the {skill} (|Skill)",
+      "how (would it be|) (it |) with the {skill} (|Skill)"
+    ],
+    "learning-skill.will_let_you_know": [
+      "I want to explain it to you",
+      "you (should| will) (still |) (| a little more|something|some) (about {category}|) learn",
+      "I (explain it | explain) to you",
+      "that has (something|some ) to do with {category}",
+      "{category} is (probably|apparently|definitely) not your strength",
+      "(that|the|here) was (|es) (as|with) {category}",
+      "you should take that with {category}"
+    ],
+    "learning-skill.work.on.dialog": [
+      "(I want|you can|you want) (|the|your|my) (dialogs|dialog) in {skill} (|Skill)",
+      "(expand|add) (your|my) dialogues",
+      "(I feel like|you can|can you) (work on|edit) (your|my) dialogues (in{skill}(|Skill)|)"
+    ],
+    "mark-2.brightness": [
+      "dim (the|your) eyes to {brightness} (percent|)",
+      "dim down to {brightness} (percent|)",
+      "lower the (brightness|illumination) of your eyes to {brightness} (percent|)",
+      "turn (the|) (brightness|illumination) (down|up) to {brightness} (percent|)",
+      "turn (down|up) (the|) (brightness|illumination) to {brightness} (percent|)",
+      "brighten it up (a bit|) to {brightness} (percent|)",
+      "(change|set|switch) to {brightness} (percent|) (eye|) (brightness|illumination)",
+      "(change|set|switch) (the|your) (eye|) (brightness|illumination) (level|) to {brightness} (percent|)",
+      "(change|set|switch) (the|your) (eye|) (brightness|illumination) (level|)",
+      "you're (too|) (bright|dim)",
+      "you are (too|) (bright|dim)",
+      "brighten it up",
+      "dim it down a bit"
+    ],
+    "mark-2.brightness.auto": [
+      "set brightness to auto",
+      "auto brightness"
+    ],
+    "mark-2.device.brightness.settings": [
+      "show brightness settings",
+      "show device brightness settings"
+    ],
+    "mark-2.device.homescreen.settings": [
+      "show homescreen settings",
+      "show (home|resting|idle) (screen|face|page) settings",
+      "show device (home|resting|idle) (screen|face|page) settings"
+    ],
+    "mark-2.device.reset.settings": [
+      "show factory reset settings",
+      "show device factory reset settings"
+    ],
+    "mark-2.device.settings": [
+      "show device settings",
+      "open settings"
+    ],
+    "mark-2.device.ssh.settings": [
+      "show ssh settings",
+      "show device ssh settings"
+    ],
+    "mark-2.device.wifi.settings": [
+      "show wireless screen",
+      "show wireless settings",
+      "show wifi settings",
+      "show wifi screen"
+    ],
+    "mbta-bus-tracking-skill.tracking.bus.mbta": [
+      "T bus arrivals"
+    ],
+    "mock-backend.current_backend": [
+      "current backend",
+      "what backend are you using",
+      "is backend enable",
+      "is mycroft phoning home",
+      "are you phoning home"
+    ],
+    "mock-backend.enable_mock": [
+      "do not phone home",
+      "enable mock backend",
+      "disable mycroft backend",
+      "disable home dot mycroft dot ai",
+      "disable selene backend",
+      "enable fake backend"
+    ],
+    "mock-backend.enable_mycroft": [
+      "you can phone home",
+      "enable mycroft backend",
+      "enable home dot mycroft dot ai",
+      "enable selene backend",
+      "restore backend",
+      "restore mycroft backend"
+    ],
+    "monkey-patch-tester.monkey_test": [
+      "are you monkey (patches|patch|patched)",
+      "are the patches (applied|working)",
+      "are the monkey (patches|patch) (applied|working)",
+      "is the monkey patch (done|working)"
+    ],
+    "mouse-jiggler.mouse_start": [
+      "(start|enable|turn on) mouse (activity|jiggle|jiggler)"
+    ],
+    "mouse-jiggler.mouse_status": [
+      "mouse (activity|jiggle|jiggler) status",
+      "is mouse (activity|jiggle|jiggler) (on|enabled|started)",
+      "is mouse (activity|jiggle|jiggler) (off|disabled|stopped)",
+      "(what|how) is mouse (activity|jiggle|jiggler)"
+    ],
+    "mouse-jiggler.mouse_stop": [
+      "(stop|disable|turn off) mouse (activity|jiggle|jiggler)"
+    ],
+    "moviemaster.genre.movie.search": [
+      "(list|find) (movies|films) that are (a| ) {genre}",
+      "(list|find) {genre} (movies|films)"
+    ],
+    "moviemaster.genre.tv.search": [
+      "(list|find|get) (TV shows|television shows|shows) that are (|a) {genre}",
+      "(list|find|get) {genre} (TV shows|television shows|shows)"
+    ],
+    "moviemaster.movie.cast": [
+      "who (acts|plays|is) in the (movie|film|flick) {movie}"
+    ],
+    "moviemaster.movie.description": [
+      "what is the (movie|film|flick) {movie} about",
+      "tell (me|us) about the (movie|film|flick) {movie}",
+      "(give|get) (me|us) a (description|synopsis) of the (movie|film|flick) {movie}",
+      " "
+    ],
+    "moviemaster.movie.genres": [
+      "what (genres|genre) does the (movie|film|flick) {movie} belong to",
+      "what are the (genres|genre) of the (movie|film|flick) {movie}",
+      "what (genres|genre) (is|are) the (movie|film|flick) {movie}"
+    ],
+    "moviemaster.movie.information": [
+      "(find|get|look for|is there) (information|info) (on|about) the (movie|film|flick) {movie}",
+      "(give|tell|get) (|me|us) (information|info) (on|about) the (movie|film|flick) {movie}",
+      "(do you have|can you get) (info|information) on the (movie|film|flick) {movie}"
+    ],
+    "moviemaster.movie.popular": [
+      "(list|search|search for) popular (movies|films|flicks)",
+      "what are ( |the) popular (movies|films|flicks) (playing|out) ( |now)"
+    ],
+    "moviemaster.movie.production": [
+      "(who|what company) (produced|made) the movie {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "recommend (movies|films|flicks) (similar to|like) {movie}",
+      "what (movies|films|flicks) (would|do) you recommend (similar to|like) {movie}",
+      "(list|get) (|good) (movies|films|flicks) (similar to|like) {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "How long is the (movie|film|flick) {movie}",
+      "What is the (runtime|length) of the (movie|film|flick) {movie}",
+      "Get the (runtime|length) of the (movie|film|flick) {movie}"
+    ],
+    "moviemaster.movie.top": [
+      "(list|what are|search for) the (top|most popular|highest rated) (movies|films|flicks) (playing|out) (|now)"
+    ],
+    "moviemaster.movie.year": [
+      "(what year|when|what date) was the (movie|film|flick) {movie} (made|released)"
+    ],
+    "mycroft-mark-1.brightness": [
+      "dim (the|your) eyes to {brightness} (percent|)",
+      "dim down to {brightness} (percent|)",
+      "lower the (brightness|illumination) of your eyes to {brightness} (percent|)",
+      "turn (the|) (brightness|illumination) (down|up) to {brightness} (percent|)",
+      "turn (down|up) (the|) (brightness|illumination) to {brightness} (percent|)",
+      "brighten it up (a bit|) to {brightness} (percent|)",
+      "(change|set|switch) to {brightness} (percent|) (eye|) (brightness|illumination)",
+      "(change|set|switch) (the|your) (eye|) (brightness|illumination) (level|) to {brightness} (percent|)",
+      "(change|set|switch) (the|your) (eye|) (brightness|illumination) (level|)",
+      "you're (too|) (bright|dim)",
+      "you are (too|) (bright|dim)",
+      "brighten it up",
+      "dim it down a bit"
+    ],
+    "mycroft-mark-1.brightness.auto": [
+      "set brightness to auto",
+      "auto brightness"
+    ],
+    "mycroft-mark-1.custom.eye.color": [
+      "set custom eye (color|colors)",
+      "(set|change) to a custom eye (color|colors)"
+    ],
+    "mycroft-mark-1.eye.color": [
+      "(change|set) (the|your|) (eye|eyes) (color|colors|) to {color}",
+      "(change|set) (eye|eyes) (color|colors|) to {color}",
+      "(change|set) eye (color|colors) to something {color}",
+      "(change|set) (your|) eyes to (a|an|) {color} (color|)",
+      "(change|set) eyes to some {color} color",
+      "(change|set) (eye|eyes) to (a|an) {color} color",
+      "(change|set) eye (color|colors)"
+    ],
+    "mycroft-node-red.converse.disable": [
+      "make (node|node red) (|a|an) (fallback|fall back) (|skill)",
+      "(disable|turn off|abort|kill|stop|end) (node|node red) (priority|converse)",
+      "make (node|node red) trigger (last|in the end|at the end|on the end)"
+    ],
+    "mycroft-node-red.converse.enable": [
+      "make (node|node red) (|a|an) priority (|skill)",
+      "make (node|node red) trigger (first|before adapt)"
+    ],
+    "mycroft-node-red.pingnode": [
+      "ping node red",
+      "say hello to node red",
+      "is node red up",
+      "node red status"
+    ],
+    "mycroft-timer.cancel.timer": [
+      "end {duration} timer",
+      "turn it off",
+      "turn the timer off",
+      "turn off the {duration} timer",
+      "turn off timer",
+      "cancel the timer",
+      "(cancel|remove|delete|abort) (the|a|) {duration} (timer|)",
+      "kill the timer",
+      "kill {duration} timer",
+      "cancel {all} timers",
+      "delete {all} timers",
+      "turn off {all} timers"
+    ],
+    "mycroft-timer.start.timer": [
+      "Start a timer.",
+      "Set a timer.",
+      "Start a (##-second|##-hour|##-minute) timer.",
+      "Start a (##-second|##-hour|##-minute) timer (called|for) {name}.",
+      "(Start|Set) (a|) {duration} timer.",
+      "(Start|Set) (a|) {duration} timer (called|for) {name}.",
+      "(Start|Set) a timer for {duration}.",
+      "Timer {duration}.",
+      "Timer for {duration}.",
+      "Timer for {duration} (called|for) {name}.",
+      "{duration} timer.",
+      "{duration} timer (called|for) {name}.",
+      "Give me a {duration} timer.",
+      "Count {duration} for me.",
+      "Time {duration} for me.",
+      "I need a {duration} timer.",
+      "I need you to measure {duration} for me.",
+      "Create a timer for {duration}.",
+      "Create a timer for {duration} (called|for) {name}."
+    ],
+    "mycroft-timer.status.timer": [
+      "how much (time|) is left on the ({duration} timer| timers)",
+      "how much time left on the timers?",
+      "how much time left?",
+      "status of the timer",
+      "status of timers",
+      "status of the timers",
+      "timer status",
+      "timer statuses",
+      "status of the ({duration} timer| timer})",
+      "timer left?",
+      "time remaining on the ({duration} timer| timer)",
+      "time remaining for (timer|{duration} timer|)?",
+      "list out timers",
+      "list timers"
+    ],
+    "mycroft-timer.stop": [
+      "stop timer.",
+      "turn off timer.",
+      "kill the timer."
+    ],
+    "mycroft-timer.stop.timer": [
+      "stop all timers",
+      "stop timer",
+      "delete all timers",
+      "delete timers",
+      "delete timer"
+    ],
+    "natgeo-pod.natgeo": [
+      "NatGeo picture of the day",
+      "National geographic picture of the day",
+      "today National geographic picture",
+      "today's National geographic picture",
+      "National geographic picture of today",
+      "National geographic picture",
+      "NatGeo picture"
+    ],
+    "omeleto.home": [
+      "(show|open|display|show me) (omeleto|omeleto skill) (homescreen|home screen|screen)",
+      "(show|open|display|show me) (omeleto|omeleto skill)",
+      "(show|open|display|show me) (omeleto|omeleto skill) (menu|screen)",
+      "(sci fi|scifi|science fiction|omeleto) short (films|film|movie|movies) (menu|screen)",
+      "omeleto (menu|screen)",
+      "omeleto (films|film|movie|movies) (menu|screen)"
+    ],
+    "parrot.did.you.hear.me": [
+      "(Can|Did|Do) you hear (me|that|this)?"
+    ],
+    "parrot.repeat.stt": [
+      "What did I (just|) (say|tell you)?",
+      "What did you think I said?",
+      "What did you hear me say?",
+      "Tell me what I (just|) said."
+    ],
+    "parrot.repeat.tts": [
+      "What did you (just|) (say|tell me)?",
+      "Repeat what you (just|) said.",
+      "Can you repeat that?",
+      "Repeat that.",
+      "(Can you|) say (that|) again?",
+      "Say that (once more|one more time).",
+      "What was that?",
+      "Come again?"
+    ],
+    "parrot.speak": [
+      "(say|repeat|speak|say after me) {{sentence}}",
+      "(say|repeat|speak) {{sentence}} after me"
+    ],
+    "parrot.start_parrot": [
+      "start parroting",
+      "engage parrot mode",
+      "parrot mode on",
+      "parrot mode start",
+      "start parrot mode",
+      "start parrot",
+      "repeat everything",
+      "repeat everything you hear"
+    ],
+    "parrot.stop_parrot": [
+      "stop (parrot mode | parroting )",
+      "disengage (parrot mode | parroting )",
+      "abort (parrot mode | parroting )",
+      "cancel (parrot mode | parroting )",
+      "disable (parrot mode | parroting )",
+      "(parrot mode | parroting ) stop",
+      "(parrot mode | parroting ) disengage",
+      "(parrot mode | parroting ) abort",
+      "(parrot mode | parroting ) cancel",
+      "(parrot mode | parroting ) disable",
+      "stop repeating me"
+    ],
+    "pickup-lines.source": [
+      "where do you get your pickup lines",
+      "what is the source of your pickup lines",
+      "where do your random pickup lines come from"
+    ],
+    "quote-of-day.source": [
+      "where do you get your quotes",
+      "what is the source of your quotes",
+      "where do your random quotes come from"
+    ],
+    "quote-of-day.trustworthy": [
+      "can your quotes be trusted",
+      "are your quotes trustworthy",
+      "can i trust your quotes",
+      "can i trust They said so"
+    ],
+    "rocket-launch.recent": [
+      "recent (sunspots|sun spots|sunspot)",
+      "(sunspots|sun spots|sunspot) recently",
+      "(number|how many|count) of (sunspots|sun spots|sunspot) recently",
+      "recent (sunspots|sun spots|sunspot) (number|count)"
+    ],
+    "sip.neon.answer_all": [
+      "Answer all calls",
+      "Answer all incoming calls"
+    ],
+    "sip.neon.answer_all_and_say": [
+      "Answer all calls and say {{speech}}",
+      "Answer all incoming calls and say {{speech}}",
+      "Answer all calls with {{speech}}",
+      "Answer all incoming calls with {{speech}}"
+    ],
+    "sip.neon.call": [
+      "Call {{contact}}",
+      "Place a call to {{contact}}",
+      "Phone {{contact}}"
+    ],
+    "sip.neon.call_and_say": [
+      "Call {{contact}} and (say|speak) {{speech}}",
+      "Place a call to {{contact}} and (say|speak) {{speech}}",
+      "Phone {{contact}} and (say|speak) {{speech}}"
+    ],
+    "sip.neon.call_status": [
+      "what is the call status",
+      "what is the phone status",
+      "what is the call state",
+      "what is the phone state",
+      "call state",
+      "phone state",
+      "call status",
+      "phone status"
+    ],
+    "sip.neon.contacts_list": [
+      "List contacts",
+      "list my contacts",
+      "What numbers do you have",
+      "What phone numbers do you know"
+    ],
+    "sip.neon.contacts_number": [
+      "How many contacts",
+      "How many do you have",
+      "How many phone numbers do you know",
+      "Number of contacts"
+    ],
+    "sip.neon.converse.disable": [
+      "make (SIP|VOIP|phone|calls) (|a|an) (fallback|fall back) (|skill)",
+      "(disable|turn off|abort|kill|stop|end) (SIP|VOIP|phone|calls) (priority|converse)",
+      "make (SIP|VOIP|phone|calls) trigger (last|in the end|at the end|on the end)"
+    ],
+    "sip.neon.converse.enable": [
+      "make (SIP|VOIP|phone|calls) (|a|an) priority (|skill)",
+      "make (SIP|VOIP|phone|calls) trigger (first|before adapt)"
+    ],
+    "sip.neon.disable_auto": [
+      "Manual call handling",
+      "Ask before calls",
+      "Ask before accepting calls",
+      "Ask before rejecting calls",
+      "Dont handle calls automatically",
+      "Do not handle calls automatically"
+    ],
+    "sip.neon.login": [
+      "SIP login",
+      "VOIP login",
+      "login into SIP",
+      "login into VOIP"
+    ],
+    "sip.neon.reject_all": [
+      "Reject all calls",
+      "Reject all incoming calls",
+      "Hang up all calls",
+      "Hang up incoming calls"
+    ],
+    "sip.neon.restart": [
+      "SIP (restart|reboot)",
+      "VOIP (restart|reboot)",
+      "(restart|reboot) SIP",
+      "(restart|reboot) VOIP"
+    ],
+    "sip.neon.resume_call": [
+      "resume call"
+    ],
+    "sip.neon.show_home": [
+      "show voip skill homescreen",
+      "show voip skill homepage",
+      "open voip skill homescreen",
+      "open voip skill homepage",
+      "open voip skill",
+      "show voip skill"
+    ],
+    "sip.neon.sipxcom_sync": [
+      "Retrieve contacts",
+      "Download contacts",
+      "Synchronize contacts"
+    ],
+    "sip.neon.unmute": [
+      "unmute call"
+    ],
+    "skystream.play_sky_live_stream": [
+      "play sky live stream",
+      "play sky live news",
+      "show sky live stream",
+      "open sky live stream",
+      "open sky live news",
+      "show sky live news"
+    ],
+    "skystream.stop_sky_live_stream": [
+      "stop sky live stream",
+      "stop sky stream",
+      "close sky stream"
+    ],
+    "smod.home": [
+      "(show|open|display|show me) (stoned meadow of doom|smod) (homescreen|home screen|screen|menu)",
+      "(show|open|display|show me) (stoned meadow of doom|smod)",
+      "(show|open|display|show me) (stoned meadow of doom|smod) skill (homescreen|home screen|screen|menu)",
+      "(show|open|display|show me) (stoned meadow of doom|smod) skill",
+      "(stoned meadow of doom|smod) (homescreen|home screen|screen|menu)"
+    ],
+    "sovietwave.home": [
+      "(show|open|display|show me) (soviet wave|sovietwave|soviet synthwave|soviet synth wave) (homescreen|home screen|screen|menu)",
+      "(show|open|display|show me) (soviet wave|sovietwave|soviet synthwave|soviet synth wave)",
+      "(show|open|display|show me) (soviet wave|sovietwave|soviet synthwave|soviet synth wave) skill (homescreen|home screen|screen|menu)",
+      "(show|open|display|show me) (soviet wave|sovietwave|soviet synthwave|soviet synth wave) skill",
+      "(soviet wave|sovietwave|soviet synthwave|soviet synth wave) (homescreen|home screen|screen|menu)"
+    ],
+    "space-news.recent": [
+      "recent (space news|news about space)",
+      "(space news|news about space) from recently"
+    ],
+    "space-stuff.spacestuff": [
+      "(show|plot|display) (orbital debris|stuff in orbit|stuff around the earth)"
+    ],
+    "spotify-skill.PlayAlbum": [
+      "play the album {album}( (on|with|using) spotify|)",
+      "play the album (called|named){album}( (on|with|using) spotify|)",
+      "play the album (called|named){album} (by|from){artist}( (on|with|using) spotify|)",
+      "play the album {album} (by|from) (the band|the group|the musician|the duo|the artist|){artist}( (on|with|using) spotify|)",
+      "play the album (called|named){album} (by|from) (the band|the group|the musician|the duo|the artist|){artist}( (on|with|using) spotify|)",
+      "//play the album holy mountain",
+      "//play the album named holy mountain",
+      "//play the album holy mountain by sleep",
+      "//play the album called holy mountain by sleep",
+      "//play the album called holy mountain by the band sleep"
+    ],
+    "spotify-skill.PlayOn": [
+      "use {device} to play {playlist}",
+      "play playlist {playlist} on {device}",
+      "play the playlist {playlist} on {device}"
+    ],
+    "spotify-skill.PlayPlaylist": [
+      "play (the |my |)(playlist |){playlist}( (on|with|using) spotify|)"
+    ],
+    "spotify-skill.PlaySomeMusic": [
+      "play (some )music( by {artist}|)(| (on|with|using) spotify)",
+      "play (something|a track|a song|a piece)( by {artist}|)(| (on|with|using) spotify)",
+      "play something(| (on|with|using) spotify)"
+    ],
+    "spotify-skill.PlaySong": [
+      "play {track}( by {artist}|) (off|from)( the album|the vinyl| the record|) {album}(| (on|with|using) spotify)",
+      "play {track} (by|from) (the band|the group|the musician|the duo|the artist|){artist}(| (on|with|using) spotify)",
+      "play {track} (off|from)( the album|the vinyl| the record|) {album} (by|from){artist}(| (on|with|using) spotify)",
+      "play the (song|piece|track|composition)( called| named|) {track}( by {artist}|) (off|from)( the album| the vinyl| the record|) {album}(| (on|with|using) spotify)",
+      "play {track}( by {artist}|)(| (on|with|using) spotify)",
+      "//play holy mountain",
+      "//play the song holy mountain",
+      "//play the song holy mountain by sleep",
+      "//play holy mountain by the band sleep",
+      "//play holy mountain by the band called sleep",
+      "//play holy mountain by the group sleep",
+      "//play holy mountain by the group called sleep",
+      "//play holy mountain off holy mountain",
+      "//play holy mountain by sleep from holy mountain",
+      "//play holy mountain off the album holy mountain",
+      "//",
+      "//FAILING:",
+      "//",
+      "//play holy mountain by sleep from called holy mountain",
+      "//play holy mountain from the album called holy mountain",
+      "//play holy mountain by the band sleep from called holy mountain",
+      "//play the song called holy mountain by the band called sleep",
+      "//play the song called holy mountain by sleep",
+      "//play holy mountain by the band called sleep from called holy mountain",
+      "//play the song called holy mountain off the album named holy mountain",
+      "//play the song named holy mountain from holy mountain",
+      "//play the song named holy mountain from named holy mountain",
+      "//play the song named holy mountain by sleep off the album named holy mountain",
+      "//play the song named holy mountain by sleep off the album holy mountain",
+      "//play the song holy mountain by the musicians sleep",
+      "//play the song holy mountain by the musicians named sleep",
+      "//play the song called holy mountain by the musicians sleep",
+      "//play the song called holy mountain by the musicians called sleep"
+    ],
+    "spotify-skill.ShuffleOff": [
+      "(turn(| off)|switch(| off)|disable|unset) spotify (shuffle|shuffling)",
+      "set spotify (shuffle|shuffling) off"
+    ],
+    "spotify-skill.ShuffleOn": [
+      "(turn on|enable|set) spotify (shuffle|shuffling)(| on)"
+    ],
+    "support.contact.support": [
+      "create a troubleshoot request",
+      "troubleshoot my device",
+      "contact support",
+      "create a support ticket"
+    ],
+    "theia-ide-skill.restart": [
+      "Restart IDE"
+    ],
+    "theia-ide-skill.start": [
+      "Activate (theia|THEIA) IDE",
+      "Run (theia|THEIA) IDE",
+      "Start (theia|THEIA) IDE"
+    ],
+    "theia-ide-skill.stop": [
+      "Deactivate (theia|THEIA) IDE",
+      "Stop (theia|THEIA) IDE",
+      "End (theia|THEIA) IDE"
+    ],
+    "trve-kvlt.home": [
+      "(show|open|display|show me) black metal (homescreen|home screen|screen|menu)",
+      "(show|open|display|show me) black metal",
+      "(show|open|display|show me) black metal skill (homescreen|home screen|screen|menu)",
+      "(show|open|display|show me) black metal skill",
+      "black metal (homescreen|home screen|screen|menu)"
+    ],
+    "twitch-streams.show_home_twitch": [
+      "open twitch app",
+      "show twitch app",
+      "launch twitch app",
+      "open twitch tv",
+      "show twitch tv "
+    ],
+    "viirs.about": [
+      "about viirs",
+      "about Visible Infrared Imaging Radiometer Suite",
+      "talk about Visible Infrared Imaging Radiometer Suite",
+      "what is Visible Infrared Imaging Radiometer Suite",
+      "tell me about Visible Infrared Imaging Radiometer Suite",
+      "tell me about the Visible Infrared Imaging Radiometer Suite"
+    ],
+    "viirs.viirs": [
+      "Visible Infrared Imaging Radiometer Suite picture",
+      "My House from space",
+      "my location from space",
+      "show my house from space",
+      "show my location from space",
+      "My House from orbit",
+      "my location from orbit",
+      "show my house from orbit",
+      "show my location from orbit",
+      "picture from Visible Infrared Imaging Radiometer Suite",
+      "picture from Viirs"
+    ],
+    "viirs.viirs_location": [
+      "Visible Infrared Imaging Radiometer Suite picture (in|at|on|for) {{location}}",
+      "{{location}} from (space|orbit)",
+      "(show me|display) {{location}} from (space|orbit!satellite)",
+      "picture from Visible Infrared Imaging Radiometer Suite (in|at|on|for) {{location}}",
+      "picture from Viirs (in|at|on|for) {{location}}",
+      "Visible Infrared Imaging Radiometer Suite picture (#|##|###) months ago (in|at|on|for) {{location}}",
+      "Visible Infrared Imaging Radiometer Suite picture (in|at|on|for) {{location}} (#|##) years ago",
+      "picture from Visible Infrared Imaging Radiometer Suite (#|##) years ago (in|at|on|for) {{location}}",
+      "picture from Viirs (#|##) (years|days|months|weeks) ago (in|at|on|for) {{location}}"
+    ],
+    "viirs.viirs_time": [
+      "Visible Infrared Imaging Radiometer Suite picture (#|##|###|####) days ago",
+      "My (House|location) from (space|orbit)  (#|##|###|####) days ago",
+      "show my (House|location) from (space|orbit) (#|##|###|####) days ago",
+      "picture from Visible Infrared Imaging Radiometer Suite (#|##|###|####) days ago",
+      "picture from Viirs (#|##|###|####) days ago",
+      "Visible Infrared Imaging Radiometer Suite picture (#|##|###) months ago",
+      "My (House|location) from (space|orbit) (#|##|###) months ago",
+      "show my (House|location) from (space|orbit) (#|##|###) months ago",
+      "picture from Visible Infrared Imaging Radiometer Suite (#|##|###) months ago",
+      "picture from Viirs (#|##|###) months ago",
+      "Visible Infrared Imaging Radiometer Suite picture (#|##) years ago",
+      "My (House|location) from (space|orbit) (#|##) years ago",
+      "show my (House|location) from (space|orbit) (#|##) years ago",
+      "picture from Visible Infrared Imaging Radiometer Suite (#|##) years ago",
+      "picture from Viirs (#|##) years ago",
+      "My (House|location) from (space|orbit) (last|past) (week|month|year|day|weekend)",
+      "My (House|location) from (space|orbit) yesterday"
+    ],
+    "voip.answer_all": [
+      "Answer all calls",
+      "Answer all incoming calls"
+    ],
+    "voip.answer_all_and_say": [
+      "Answer all calls and say {{speech}}",
+      "Answer all incoming calls and say {{speech}}",
+      "Answer all calls with {{speech}}",
+      "Answer all incoming calls with {{speech}}"
+    ],
+    "voip.call": [
+      "Call {{contact}}",
+      "Place a call to {{contact}}",
+      "Phone {{contact}}"
+    ],
+    "voip.call_and_say": [
+      "Call {{contact}} and (say|speak) {{speech}}",
+      "Place a call to {{contact}} and (say|speak) {{speech}}",
+      "Phone {{contact}} and (say|speak) {{speech}}"
+    ],
+    "voip.call_status": [
+      "what is the call status",
+      "what is the phone status",
+      "what is the call state",
+      "what is the phone state",
+      "call state",
+      "phone state",
+      "call status",
+      "phone status"
+    ],
+    "voip.contacts_list": [
+      "List contacts",
+      "What numbers do you have",
+      "What phone numbers do you know"
+    ],
+    "voip.contacts_number": [
+      "How many contacts",
+      "How many do you have",
+      "How many phone numbers do you know",
+      "Number of contacts"
+    ],
+    "voip.converse.disable": [
+      "make (SIP|VOIP|phone|calls) (|a|an) (fallback|fall back) (|skill)",
+      "(disable|turn off|abort|kill|stop|end) (SIP|VOIP|phone|calls) (priority|converse)",
+      "make (SIP|VOIP|phone|calls) trigger (last|in the end|at the end|on the end)"
+    ],
+    "voip.converse.enable": [
+      "make (SIP|VOIP|phone|calls) (|a|an) priority (|skill)",
+      "make (SIP|VOIP|phone|calls) trigger (first|before adapt)"
+    ],
+    "voip.disable_auto": [
+      "Manual call handling",
+      "Ask before calls",
+      "Ask before accepting calls",
+      "Ask before rejecting calls",
+      "Dont handle calls automatically",
+      "Do not handle calls automatically"
+    ],
+    "voip.login": [
+      "SIP login",
+      "VOIP login",
+      "login into SIP",
+      "login into VOIP"
+    ],
+    "voip.reject_all": [
+      "Reject all calls",
+      "Reject all incoming calls",
+      "Hang up all calls",
+      "Hang up incoming calls"
+    ],
+    "voip.restart": [
+      "SIP (restart|reboot)",
+      "VOIP (restart|reboot)",
+      "(restart|reboot) SIP",
+      "(restart|reboot) VOIP"
+    ],
+    "voip.resume_call": [
+      "resume",
+      "resume call"
+    ],
+    "voip.show_home": [
+      "show voip skill homescreen",
+      "show voip skill homepage",
+      "open voip skill homescreen",
+      "open voip skill homepage",
+      "open voip skill",
+      "show voip skill"
+    ],
+    "voip.sipxcom_sync": [
+      "Retrieve contacts",
+      "Download contacts",
+      "Synchronize contacts"
+    ],
+    "voip.unmute": [
+      "unmute",
+      "unmute call"
+    ],
+    "wallpapers.picture.about": [
+      "(show|display|random|new) (picture|photo|image) (about|for|with) {{query}}",
+      "(show|display) me a (picture|photo|image) (about|for|with) {{query}}",
+      "(show|display) me a (random|new|other|another) (picture|photo|image) (about|for|with) {{query}}",
+      "(show|display) (random|new|other|another) (picture|photo|image) (about|for|with) {{query}}"
+    ],
+    "wallpapers.picture.random": [
+      "(show|display|random|new) (picture|photo|image)",
+      "(show|display) me a (picture|photo|image)",
+      "(show|display) me a (random|new|other|another) (picture|photo|image)",
+      "(show|display) (random|new|other|another) (picture|photo|image)"
+    ],
+    "wallpapers.wallpaper.about": [
+      "(change|random|new) (wallpaper|wall paper) (about|for|with|to) {{query}}"
+    ],
+    "wallpapers.wallpaper.random": [
+      "(change|random|new) (wallpaper|wall paper)"
+    ],
+    "webb-telescope.about": [
+      "(about|what is|tell me about) (web|webb|james web|james webb) (telescope|space telescope)",
+      "(about|what is|tell me about) the (web|webb|james web|james webb) (telescope|space telescope)"
+    ],
+    "webb-telescope.webb": [
+      "(picture|show|display|image|photo) (from|from the) (web|webb|james web|james webb) (telescope|space telescope)",
+      "(web|webb|james web|james webb) (telescope|space telescope) (picture|show|display|image|photo)",
+      "(web|webb|james web|james webb) (telescope|space telescope) (picture|show|display|image|photo)"
+    ],
+    "wikidata.birth.place.of.person": [
+      "what is the birth place of {person}",
+      "where was {person} born",
+      "whats the birth place of {person}",
+      "which city was {person} born in",
+      "which country was {person} born in"
+    ],
+    "wikidata.burial.location": [
+      "what place was {person} buried in ",
+      "what location was {person} buried in",
+      "which place was {person} buried",
+      "which location was {person} buried in",
+      "what location is {person} buried in",
+      "which location is {person} buried in",
+      "{person} was buried in which location",
+      "{person} was buried in which place"
+    ],
+    "wikidata.date.of.birth": [
+      "what is {person} date of birth",
+      "when was {person} born",
+      "whats the birth date of {person}",
+      "when is {person} birthday"
+    ],
+    "wikidata.date.of.death": [
+      "what is {person} date of death",
+      "when did {person} die",
+      "whats the date of death of {person}",
+      "{person} date of death"
+    ],
+    "wikidata.death.place.of.person": [
+      "what place did {person} die in",
+      "whats the place of death of {person}",
+      "which place did {person} die in",
+      "which city did {person} die in",
+      "which country did {person} die in"
+    ],
+    "wikidata.how.old.is.person": [
+      "how old is {person}",
+      "what is {person} age",
+      "whats {person} age"
+    ],
+    "wikidata.show.wikidata.home": [
+      "show wikidata homepage "
+    ],
+    "wikidata.what.children.name": [
+      "what is the name of {person} children",
+      "who are {person} children",
+      "what is the name if {person} child",
+      "name the child of {person}",
+      "name the children of {person}"
+    ],
+    "wikidata.what.is.the.gender": [
+      "what is the gender of {person}",
+      "whats the gender of {person}",
+      "what gender is {person}"
+    ],
+    "wikidata.what.occupation": [
+      "what is the occupation of {person}",
+      "what occupation is {person} in",
+      "what does {person} do",
+      "what job does {person} do",
+      "whats {person} occupation"
+    ],
+    "wikidata.which.country.is.from": [
+      "which country is {person} from",
+      "what country does {person} belong to",
+      "{person} is citizen of which country",
+      "which country is {person} citizen of"
+    ],
+    "wikidata.who.is.the.spouse": [
+      "who is the spouse of {person}",
+      "who is the wife of {person}",
+      "who is {person} married too",
+      "who is {person} married to",
+      "whos the spouse of {person}",
+      "whos the wife of {person}",
+      "whos {person} married too",
+      "whos {person} married to"
+    ],
+    "wikihow.howto": [
+      "how to {query}",
+      "how do i {query}",
+      "how can i {query}",
+      "steps for {query}"
+    ],
+    "wikipedia-for-humans.wiki": [
+      "(wiki|wikipedia) {query}",
+      "tell (us|me) about {query}",
+      "what does (wiki|wikipedia) say about {query}",
+      "(search|check) (wiki|wikipedia) for {query}"
+    ],
+    "wikipedia-for-humans.wikiroulette": [
+      "(wiki|wikipedia) roulette",
+      "(play|play the) (wiki|wikipedia) roulette",
+      "random (wiki|wikipedia) page",
+      "random (wiki|wikipedia)",
+      "(show|display|open) random (wiki|wikipedia)"
+    ],
+    "wikiquote-skill.random": [
+      "tell me (some|a) (quote|wisdom)",
+      "give me (some|a) (quote|wisdom)",
+      "I need some wisdom"
+    ],
+    "wikiquote-skill.specific": [
+      "tell me (some|a|an) {subject} (quote|wisdom)",
+      "give me (some|a|an) {subject} (quote|wisdom)",
+      "I need some {subject} (quote|wisdom)",
+      "tell me a quote (from|about) {subject}",
+      "give me a quote (from|about) {subject}",
+      "I need a quote (from|about) {subject}"
+    ],
+    "wolfie.search_wolfie": [
+      "search wolfram alpha for {query}",
+      "search wolfram for {query}",
+      "ask the wolfram about {query}",
+      "ask the wolfram alpha about {query}",
+      "what does wolfram alpha say about {query}",
+      "what does wolfram say about {query}",
+      "ask the wolf {query}",
+      "search the wolf for {query}",
+      "what does the wolf say about {query}"
+    ],
+    "xkcd.latest_xkcd": [
+      "show me the latest comic",
+      "display latest xkcd",
+      "show xkcd",
+      "display xkcd",
+      "display a xkcd comic",
+      "display a comic",
+      "latest xkcd"
+    ],
+    "xkcd.random_xkcd_comic": [
+      "random comic",
+      "show random comic",
+      "random xkcd",
+      "display random xkcd",
+      "xkcd random comic",
+      "show me a random xkcd comic",
+      "show me a random comic",
+      "show me a comic"
+    ],
+    "xkcd.total_comics": [
+      "how many xkcd comics",
+      "number of xkcd comics",
+      "xkcd comic numbers",
+      "total xkcd comics"
+    ],
+    "xkcd.xkcd_comic": [
+      "show me comic number (#|##|###|####)",
+      "show xkcd number (#|##|###|####)",
+      "show comic (#|##|###|####)",
+      "show xkcd (#|##|###|####)",
+      "display xkcd (#|##|###|####)",
+      "display xkcd comic (#|##|###|####)",
+      "display comic (#|##|###|####)",
+      "xkcd (#|##|###|####)",
+      "xkcd number (#|##|###|####)"
+    ],
+    "xkcd.xkcd_website": [
+      "open the xkcd website",
+      "open the website for xkcd",
+      "xkcd website"
+    ],
+    "youtube-skill.youtube": [
+      "youtube {videoname}",
+      "show video of {videoname} on youtube",
+      "youtube the song {videoname}",
+      "youtube the artist {videoname}"
+    ],
+    "youtube-skill.youtube-repeat": [
+      "youtube replay",
+      "youtube repeat",
+      "youtube replay last video",
+      "youtube repeat last video",
+      "replay last video",
+      "repeat last video"
+    ],
+    "youtube-skill.youtubeopenapp": [
+      "open the youtube app",
+      "open youtube app",
+      "show the youtube app",
+      "open the youtube application",
+      "open youtube application",
+      "show the youtube application",
+      "show youtube app",
+      "show me whats trending on youtube"
+    ]
+  }
+}

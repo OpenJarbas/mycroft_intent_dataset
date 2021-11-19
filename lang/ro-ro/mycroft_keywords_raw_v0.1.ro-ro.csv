@@ -1,0 +1,96 @@
+ro-ro,Crystal-Ball-Mycroft-Skill.CrystalBall,Bila de cristal
+ro-ro,Crystal-Ball-Mycroft-Skill.CrystalBall,oglindă oglindă
+ro-ro,Crystal-Ball-Mycroft-Skill.Future,viitor
+ro-ro,Crystal-Ball-Mycroft-Skill.Future,mâine
+ro-ro,Crystal-Ball-Mycroft-Skill.Query,Spune-mi
+ro-ro,Crystal-Ball-Mycroft-Skill.Query,ce
+ro-ro,Number-Guess-Mycroft-Skill.NumberGuess,Ghici Numarul 
+ro-ro,Number-Guess-Mycroft-Skill.NumberGuess,joc de ghicit numărul
+ro-ro,Number-Guess-Mycroft-Skill.Play,Joacă
+ro-ro,Number-Guess-Mycroft-Skill.Play,Începeți un joc
+ro-ro,Number-Guess-Mycroft-Skill.Suggest,Hai
+ro-ro,Number-Guess-Mycroft-Skill.Suggest,Lasă-ne
+ro-ro,Number-Guess-Mycroft-Skill.Suggest,De ce nu?
+ro-ro,Number-Guess-Mycroft-Skill.Suggest,Ce zici să?
+ro-ro,Number-Guess-Mycroft-Skill.Suggest,Noi ar trebui să
+ro-ro,cocktail.Again,din nou
+ro-ro,cocktail.Ingredients,ingredient
+ro-ro,cocktail.Ingredients,ingrediente
+ro-ro,cocktail.TellMe,ce sunt
+ro-ro,cocktail.TellMe,spune-mi
+ro-ro,cocktail.What,ce a fost
+ro-ro,cocktail.What,ce au fost
+ro-ro,cut-up-skill.CutUp,Decupare
+ro-ro,cut-up-skill.CutUp,Randomizează
+ro-ro,cut-up-skill.Maximum,Maxim
+ro-ro,cut-up-skill.Minimum,Minim
+ro-ro,cut-up-skill.Randomness,Aleatoriu
+ro-ro,cut-up-skill.Set,setează
+ro-ro,cut-up-skill.Set,configurația
+ro-ro,cut-up-skill.Set,Setează configurația 
+ro-ro,decide-skill.DecideKeyword,Decide
+ro-ro,decide-skill.DecideKeyword,Ce ar trebui sa port
+ro-ro,decide-skill.DecideKeyword,Ce ar trebui să mănânc
+ro-ro,decide-skill.DecideKeyword,joc
+ro-ro,fallback-aiml.Memory,creier
+ro-ro,fallback-aiml.Memory,memorie
+ro-ro,fallback-aiml.Memory,minte
+ro-ro,fallback-aiml.Memory,Tot
+ro-ro,fallback-aiml.Reset,uitat
+ro-ro,fallback-aiml.Reset,resetează
+ro-ro,krunner-search-skill.CalculateKeyword,calculeaza
+ro-ro,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,căutați acest computer pentru
+ro-ro,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,căutați acest lucru
+ro-ro,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,căutați computerul pentru
+ro-ro,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,fișier de căutare
+ro-ro,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,fișier de căutare
+ro-ro,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,numele fișierului de căutare
+ro-ro,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,căutați calculatorul pentru
+ro-ro,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,sistem de căutare
+ro-ro,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,sistem
+ro-ro,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,căutare sistem
+ro-ro,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,sistem de căutare fișiere
+ro-ro,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,Gaseste fisier
+ro-ro,krunner-search-skill.RecentFileKeyword,afișați recent
+ro-ro,krunner-search-skill.RecentFileKeyword,afișați fișierele recente
+ro-ro,krunner-search-skill.RecentFileKeyword,afișați documente recente
+ro-ro,krunner-search-skill.RecentFileKeyword,documente recente
+ro-ro,krunner-search-skill.RecentFileKeyword,fisiere recente
+ro-ro,plasma-activities-skill.ActivitiesCreateKeyword,creați o nouă activitate
+ro-ro,plasma-activities-skill.ActivitiesCreateKeyword,creați o nouă activitate
+ro-ro,plasma-activities-skill.ActivitiesCreateKeyword,creați activitatea
+ro-ro,plasma-activities-skill.ActivitiesCreateKeyword,începeți o nouă activitate
+ro-ro,plasma-activities-skill.ActivitiesCreateKeyword,creeză noi activități
+ro-ro,plasma-activities-skill.ActivitiesCreateKeyword,începeți noi activități
+ro-ro,plasma-activities-skill.ActivitiesCreateKeyword,creați activități
+ro-ro,plasma-activities-skill.ActivitiesCreateKeyword,activitate nouă
+ro-ro,plasma-activities-skill.ActivitiesCreateKeyword,noi activități
+ro-ro,plasma-activities-skill.ActivitiesRemoveKeyword,eliminați activitatea
+ro-ro,plasma-activities-skill.ActivitiesRemoveKeyword,eliminați activitatea
+ro-ro,plasma-activities-skill.ActivitiesRemoveKeyword,ștergeți activitatea
+ro-ro,plasma-activities-skill.ActivitiesRemoveKeyword,ștergeți activitatea
+ro-ro,plasma-activities-skill.ActivitiesShowKeyword,arată activitățile curente
+ro-ro,plasma-activities-skill.ActivitiesShowKeyword,arată activități
+ro-ro,plasma-activities-skill.ActivitiesShowKeyword,activitati
+ro-ro,plasma-activities-skill.ActivitiesShowKeyword,afișați activitățile curente
+ro-ro,plasma-activities-skill.ActivitiesShowKeyword,activitățile de afișare
+ro-ro,plasma-activities-skill.ActivitiesStopKeyword,ucide activitatea curentă
+ro-ro,plasma-activities-skill.ActivitiesStopKeyword,ucide activitatea
+ro-ro,plasma-activities-skill.ActivitiesSwitchKeyword,comuta activitatea curentă
+ro-ro,plasma-activities-skill.ActivitiesSwitchKeyword,trecerea la activitate
+ro-ro,plasma-activities-skill.ActivitiesSwitchKeyword,comuta activitatea
+ro-ro,query.Question,ce
+ro-ro,query.Question,cine
+ro-ro,query.Question,când
+ro-ro,query.Question,cum
+ro-ro,query.Question,unde
+ro-ro,white-house-adventure.Delete,șterge
+ro-ro,white-house-adventure.Play,joaca
+ro-ro,white-house-adventure.Play,dute la
+ro-ro,white-house-adventure.Play,dute la
+ro-ro,white-house-adventure.Save,salveaza
+ro-ro,white-house-adventure.Save,salveazajoc
+ro-ro,white-house-adventure.Save,salvat
+ro-ro,white-house-adventure.Zork,zork
+ro-ro,white-house-adventure.Zork,Căsuță poștală
+ro-ro,white-house-adventure.Zork,casa alba

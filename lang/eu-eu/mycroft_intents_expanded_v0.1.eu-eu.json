@@ -1,0 +1,84 @@
+{
+  "eu-eu": {
+    "auto-volume-skill.activate": [
+      "Aktibatu bolumen automatikoa",
+      "Bolumen automatikoa aktibatu",
+      "Piztu bolumen automatikoa",
+      "Bolumen automatikoa piztu"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Bolumen automatikoa desaktibatu",
+      "Desaktibatu bolumen automatikoa",
+      "Bolumen automatikoa itzali",
+      "Itzali bolumen automatikoa"
+    ],
+    "auto-volume-skill.reset": [
+      "Garbitu bolumen automatikoaren neurketak",
+      "Ezabatu bolumen automatikoaren neurketak",
+      "Berrezarri bolumen automatikoaren neurketak",
+      "Bolumen automatikoaren neurketak garbitu",
+      "Bolumen automatikoaren neurketak ezabatu",
+      "Bolumen automatikoaren neurketak berrezarri"
+    ],
+    "count-skill.count": [
+      "Kontatu {number} arte"
+    ],
+    "count-skill.countdown": [
+      "kontatu atzeraka {number}tik",
+      "kontatu atzeraka {number}tik hasita",
+      "kontatu atzeraka {number}etik",
+      "kontatu atzeraka {number}etik hasita",
+      "kontatu atzeraka {number}retik",
+      "kontatu atzeraka {number}retik hasita"
+    ],
+    "iss-tracker-skill.tracker.iss": [
+      "non dago I Ese Ese",
+      "non dago ISS",
+      "non dago Nazioarteko Espazio Estazioa",
+      "kokatu I Ese Ese",
+      "kokatu ISS",
+      "kokatu Nazioarteko Espazio Estazioa",
+      "Aurkitu I Ese Ese",
+      "Aurkitu ISS",
+      "Aurkitu Nazioarteko Espazio Estazioa"
+    ],
+    "wikiquote-skill.random": [
+      "Jakinduria apur bat",
+      "Jakinduria apur bat behar dut",
+      "Jakinduria pixka bat",
+      "Jakinduria pixka bat behar dut",
+      "esaidazu aipuren bat",
+      "esadazu aipuren bat",
+      "esan aipuren bat",
+      "emaidazu aipuren bat",
+      "emadazu aipuren bat",
+      "eman aipuren bat"
+    ],
+    "wikiquote-skill.specific": [
+      "esaidazu {subject} ren aipu bat",
+      "esaidazu {subject} ren esaldi bat",
+      "esaidazu {subject} en aipu bat",
+      "esaidazu {subject} en esaldi bat",
+      "esadazu {subject} ren aipu bat",
+      "esadazu {subject} ren esaldi bat",
+      "esadazu {subject} en aipu bat",
+      "esadazu {subject} en esaldi bat",
+      "esan {subject} ren aipu bat",
+      "esan {subject} ren esaldi bat",
+      "esan {subject} en aipu bat",
+      "esan {subject} en esaldi bat",
+      "emaidazu {subject} ren aipu bat",
+      "emaidazu {subject} ren esaldi bat",
+      "emaidazu {subject} en aipu bat",
+      "emaidazu {subject} en esaldi bat",
+      "emadazu {subject} ren aipu bat",
+      "emadazu {subject} ren esaldi bat",
+      "emadazu {subject} en aipu bat",
+      "emadazu {subject} en esaldi bat",
+      "eman {subject} ren aipu bat",
+      "eman {subject} ren esaldi bat",
+      "eman {subject} en aipu bat",
+      "eman {subject} en esaldi bat"
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "nl-nl": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Magische Bol",
+      "Kristallen Bol",
+      "Spiegel Spiegel"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "toekomst",
+      "morgen"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "Vertel me",
+      "Vertel mij",
+      "Zeg het me",
+      "Zeg het mij",
+      "Zeg me",
+      "Zeg mij",
+      "Wat"
+    ],
+    "Number-Guess-Mycroft-Skill.NumberGuess": [
+      "Getallen Raden",
+      "spelletje getallen raden"
+    ],
+    "Number-Guess-Mycroft-Skill.Play": [
+      "Spelen",
+      "Begin een spelletje"
+    ],
+    "Number-Guess-Mycroft-Skill.Suggest": [
+      "Laten we",
+      "Laten we",
+      "Waarom",
+      "Wat vind je van",
+      "Zullen we"
+    ],
+    "aircrack.Clients": [
+      "client",
+      "clienten",
+      "verbinding",
+      "verbindingen"
+    ],
+    "aircrack.Crack": [
+      "breken",
+      "hacken"
+    ],
+    "aircrack.Deauth": [
+      "deauth",
+      "deauthenticate",
+      "verbreken",
+      "dee auth",
+      "dee authenticate"
+    ],
+    "aircrack.Interface": [
+      "apparaten",
+      "aansluitingen",
+      "apparaat",
+      "aansluiting"
+    ],
+    "aircrack.List": [
+      "noem",
+      "zoek"
+    ],
+    "aircrack.Monitor": [
+      "monitor",
+      "bewaken",
+      "dump",
+      "dumping"
+    ],
+    "aircrack.Network": [
+      "draadloze netwerken",
+      "netwerken",
+      "draadloos netwerk",
+      "netwerk",
+      "wifi netwerk",
+      "wifi netwerken"
+    ],
+    "aircrack.Password": [
+      "wachtwoord",
+      "wachtwoord"
+    ],
+    "aircrack.Select": [
+      "kies",
+      "gebruik"
+    ],
+    "aircrack.Start": [
+      "start",
+      "begin"
+    ],
+    "aircrack.Stop": [
+      "stop",
+      "einde"
+    ],
+    "cocktail.Again": [
+      "opnieuw"
+    ],
+    "cocktail.Ingredients": [
+      "ingredi\u00ebnt",
+      "ingredi\u00ebnten"
+    ],
+    "cocktail.TellMe": [
+      "wat zijn",
+      "vertel me"
+    ],
+    "cocktail.What": [
+      "wat was",
+      "wat waren"
+    ],
+    "cut-up-skill.CutUp": [
+      "Opknippen",
+      "Randomiseer"
+    ],
+    "cut-up-skill.Maximum": [
+      "Maximum"
+    ],
+    "cut-up-skill.Minimum": [
+      "Minimum"
+    ],
+    "cut-up-skill.Randomness": [
+      "Willekeurigheid"
+    ],
+    "cut-up-skill.Set": [
+      "Stel in",
+      "Configureer",
+      "Stel Configuratie in"
+    ],
+    "decide-skill.DecideKeyword": [
+      "Beslis",
+      "Wat moet ik aan",
+      "Wat moet ik eten",
+      "spel"
+    ],
+    "fallback-aiml.Memory": [
+      "hersenen",
+      "geheugen",
+      "verstand",
+      "alles"
+    ],
+    "fallback-aiml.Reset": [
+      "wis",
+      "reset"
+    ],
+    "homeassistant.AutomationActionKeyword": [
+      "activeren",
+      "vuur",
+      "Bel",
+      "Activeer",
+      "sc\u00e8ne",
+      "automatisering",
+      "script"
+    ],
+    "homeassistant.ClimateKeyword": [
+      "stel de {entity} temperatuur in op {temperature}"
+    ],
+    "homeassistant.DecreaseVerb": [
+      "verlaag",
+      "omlaag"
+    ],
+    "homeassistant.DeviceTrackerKeyword": [
+      "waar is",
+      "localiseer",
+      "locatie",
+      "waar"
+    ],
+    "homeassistant.IncreaseVerb": [
+      "verhoog",
+      "omhoog"
+    ],
+    "homeassistant.LightBrightenVerb": [
+      "verhelder",
+      "helderder",
+      "helder",
+      "omhoog"
+    ],
+    "homeassistant.LightDimVerb": [
+      "verduister",
+      "dimmer",
+      "donker",
+      "verduister",
+      "lager",
+      "omlaag"
+    ],
+    "homeassistant.LightsKeyword": [
+      "licht",
+      "Lichte",
+      "lamp",
+      "lampen",
+      "lamp",
+      "lampen",
+      "led",
+      "schakel in",
+      "zet aan",
+      "inschakelen",
+      "aanzetten",
+      "schakel uit",
+      "zet uit",
+      "uitschakelen",
+      "uitzetten",
+      "schakel"
+    ],
+    "homeassistant.SensorStatusKeyword": [
+      "status",
+      "toestand",
+      "status",
+      "toestand",
+      "sensor",
+      "detector",
+      "waarde",
+      "uitlezen",
+      "voorlezen",
+      "vertel",
+      "zeg",
+      "wat is de huidige",
+      "wat is huidige",
+      "vertel me de huidige",
+      "zeg me de huidige",
+      "geef me de huidige",
+      "geef me de waarde van",
+      "wat is de waarde van thermostaat"
+    ],
+    "homeassistant.SetVerb": [
+      "zet"
+    ],
+    "homeassistant.SwitchActionKeyword": [
+      "schakel",
+      "schakelaar"
+    ],
+    "krunner-search-skill.CalculateKeyword": [
+      "bereken"
+    ],
+    "krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword": [
+      "doorzoek deze computer voor",
+      "zoek dit",
+      "doorzoek de computer voor",
+      "zoek bestand",
+      "zoek bestand",
+      "zoek bestandsnaam",
+      "doorzoek de computer voor",
+      "zoeksysteem",
+      "systeem",
+      "doorzoek het systeem",
+      "zoek systeem bestand",
+      "vind het bestand"
+    ],
+    "krunner-search-skill.RecentFileKeyword": [
+      "laat recente zien",
+      "toon recente bestanden",
+      "toon recente documenten",
+      "recente documenten",
+      "recente bestanden"
+    ],
+    "laugh.Laugh": [
+      "lach",
+      "lachen",
+      "gelach",
+      "gelach"
+    ],
+    "laugh.Stop": [
+      "afbreken",
+      "annuleren",
+      "stop"
+    ],
+    "lifx-mycroft.Brightness": [
+      "helderheid",
+      "lichtsterkte"
+    ],
+    "lifx-mycroft.Decrease": [
+      "verduister",
+      "demp",
+      "vervaag",
+      "dim",
+      "verduister",
+      "verminder",
+      "omlaag"
+    ],
+    "lifx-mycroft.Increase": [
+      "verhelder",
+      "verlicht",
+      "belicht",
+      "versterk",
+      "verhoog",
+      "omhoog"
+    ],
+    "lifx-mycroft.Off": [
+      "uit",
+      "blokkeer"
+    ],
+    "lifx-mycroft.On": [
+      "aan",
+      "activeer"
+    ],
+    "lifx-mycroft.Saturation": [
+      "verzadiging",
+      "intensiteit",
+      "sterkte"
+    ],
+    "lifx-mycroft.Temperature": [
+      "temperatuur",
+      "warmte",
+      "kleurtemperatuur",
+      "kelvin",
+      "kleurtemperatuur"
+    ],
+    "lifx-mycroft.Turn": [
+      "draai",
+      "zet",
+      "verander",
+      "schakel",
+      "schakel",
+      "maak"
+    ],
+    "plasma-activities-skill.ActivitiesCreateKeyword": [
+      "maak een nieuwe activiteit aan",
+      "maak nieuwe activiteit aan",
+      "maak activiteit aan",
+      "begin een nieuwe activiteit",
+      "nieuwe activiteiten aan",
+      "begin nieuwe activiteiten",
+      "maak activiteiten",
+      "nieuwe activiteit",
+      "nieuwe activiteiten"
+    ],
+    "plasma-activities-skill.ActivitiesRemoveKeyword": [
+      "verwijder activiteit",
+      "verwijder de activiteit",
+      "verwijder activiteit",
+      "verwijder de activiteit"
+    ],
+    "plasma-activities-skill.ActivitiesShowKeyword": [
+      "laat huidige activiteiten zien",
+      "laat activiteiten zien",
+      "activiteiten",
+      "vertoon huidige activiteiten",
+      "vertoon activiteiten"
+    ],
+    "plasma-activities-skill.ActivitiesStopKeyword": [
+      "beeindig huidig activiteit",
+      "beeindig activiteit"
+    ],
+    "plasma-activities-skill.ActivitiesSwitchKeyword": [
+      "wissel huidige activiteit",
+      "wissel naar activiteit",
+      "wissel activiteit"
+    ],
+    "query.Question": [
+      "wat",
+      "wie",
+      "waneer",
+      "hoe",
+      "waar"
+    ],
+    "remember-skill.All": [
+      "Alle"
+    ],
+    "remember-skill.Did": [
+      "deed"
+    ],
+    "remember-skill.Forget": [
+      "vergeten",
+      "vergeet"
+    ],
+    "remember-skill.Phrase": [
+      "zin",
+      "zinnen"
+    ],
+    "remember-skill.Remember": [
+      "onthoud",
+      "onthoudt"
+    ],
+    "remember-skill.You": [
+      "jij"
+    ],
+    "speedtest-skill.Run": [
+      "start"
+    ],
+    "speedtest-skill.Speedtest": [
+      "speedtest",
+      "speedtest"
+    ],
+    "white-house-adventure.Delete": [
+      "verwijder"
+    ],
+    "white-house-adventure.Play": [
+      "spelen",
+      "ga naar",
+      "ga naar"
+    ],
+    "white-house-adventure.Save": [
+      "opslaan",
+      "spel opslaan",
+      "opgeslagen"
+    ],
+    "white-house-adventure.Zork": [
+      "zork",
+      "postbus",
+      "witte huis"
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+es-es,Crystal-Ball-Mycroft-Skill.CrystalBall,Bola de cristal
+es-es,Crystal-Ball-Mycroft-Skill.CrystalBall,Espejito espejito
+es-es,Crystal-Ball-Mycroft-Skill.Future,futuro
+es-es,Crystal-Ball-Mycroft-Skill.Future,mañana
+es-es,Crystal-Ball-Mycroft-Skill.Query,Dime
+es-es,Crystal-Ball-Mycroft-Skill.Query,Qué
+es-es,Number-Guess-Mycroft-Skill.NumberGuess,Adivina el número
+es-es,Number-Guess-Mycroft-Skill.NumberGuess,juego de adivinar el número
+es-es,Number-Guess-Mycroft-Skill.Play,Jugar
+es-es,Number-Guess-Mycroft-Skill.Play,Empieza una partida
+es-es,Number-Guess-Mycroft-Skill.Suggest,Vamos
+es-es,Number-Guess-Mycroft-Skill.Suggest,Déjanos
+es-es,Number-Guess-Mycroft-Skill.Suggest,Por qué no
+es-es,Number-Guess-Mycroft-Skill.Suggest,Qué tal si
+es-es,Number-Guess-Mycroft-Skill.Suggest,Deberíamos
+es-es,aircrack.Clients,cliente
+es-es,aircrack.Clients,clientes
+es-es,aircrack.Clients,conexión
+es-es,aircrack.Clients,conexiones
+es-es,aircrack.Crack,crack
+es-es,aircrack.Crack,hack
+es-es,aircrack.Deauth,desautorizar
+es-es,aircrack.Deauth,desautentica
+es-es,aircrack.Deauth,desconecta
+es-es,aircrack.Deauth,desautoriza
+es-es,aircrack.Deauth,desautentica
+es-es,aircrack.Interface,dispositivos
+es-es,aircrack.Interface,interfaces
+es-es,aircrack.Interface,dispositivo
+es-es,aircrack.Interface,interfaz
+es-es,aircrack.List,lista
+es-es,aircrack.List,escanea
+es-es,aircrack.List,escanear
+es-es,aircrack.Monitor,monitoriza
+es-es,aircrack.Monitor,monitor
+es-es,aircrack.Monitor,monitorizando
+es-es,aircrack.Monitor,volcado
+es-es,aircrack.Monitor,volcando
+es-es,aircrack.Network,redes inalámbricas
+es-es,aircrack.Network,redes
+es-es,aircrack.Network,red inalámbrica
+es-es,aircrack.Network,red
+es-es,aircrack.Network,red wifi
+es-es,aircrack.Network,redes wifi
+es-es,aircrack.Password,contraseña
+es-es,aircrack.Password,contraseña
+es-es,aircrack.Select,selecciona
+es-es,aircrack.Select,seleccionar
+es-es,aircrack.Select,usa
+es-es,aircrack.Select,usar
+es-es,aircrack.Start,inicia
+es-es,aircrack.Start,inicio
+es-es,aircrack.Start,empieza
+es-es,aircrack.Stop,para
+es-es,aircrack.Stop,fin
+es-es,audio-record.AudioRecordSkillDeleteVerb,borra
+es-es,audio-record.AudioRecordSkillDeleteVerb,elimina
+es-es,audio-record.AudioRecordSkillDeleteVerb,suprime
+es-es,audio-record.AudioRecordSkillDeleteVerb,borrar
+es-es,audio-record.AudioRecordSkillDeleteVerb,eliminar
+es-es,audio-record.AudioRecordSkillDeleteVerb,suprimir
+es-es,audio-record.AudioRecordSkillKeyword,graba
+es-es,audio-record.AudioRecordSkillKeyword,grabar
+es-es,audio-record.AudioRecordSkillKeyword,grabación
+es-es,audio-record.AudioRecordSkillPlayVerb,reproduce
+es-es,audio-record.AudioRecordSkillPlayVerb,pon en marcha
+es-es,audio-record.AudioRecordSkillPlayVerb,reproducir
+es-es,audio-record.AudioRecordSkillPlayVerb,poner en marcha
+es-es,audio-record.AudioRecordSkillStopVerb,detener
+es-es,audio-record.AudioRecordSkillStopVerb,parar
+es-es,audio-record.AudioRecordSkillStopVerb,cancelar
+es-es,audio-record.AudioRecordSkillStopVerb,finalizar
+es-es,audio-record.AudioRecordSkillStopVerb,detén
+es-es,audio-record.AudioRecordSkillStopVerb,para
+es-es,audio-record.AudioRecordSkillStopVerb,cancela
+es-es,audio-record.AudioRecordSkillStopVerb,finaliza
+es-es,cocktail.Again,otra vez
+es-es,cocktail.Ingredients,ingrediente
+es-es,cocktail.Ingredients,ingredientes
+es-es,cocktail.TellMe,cuáles son
+es-es,cocktail.TellMe,dime
+es-es,cocktail.What,cuál era
+es-es,cocktail.What,cuáles eran
+es-es,configuration.ConfigurationSkillKeyword,configura
+es-es,configuration.ConfigurationSkillKeyword,configurar
+es-es,configuration.ConfigurationSkillKeyword,configuración
+es-es,configuration.ConfigurationSkillKeyword,ajustes
+es-es,configuration.ConfigurationSkillUpdateVerb,actualiza
+es-es,configuration.ConfigurationSkillUpdateVerb,actualizar
+es-es,configuration.ConfigurationSkillUpdateVerb,recarga
+es-es,configuration.ConfigurationSkillUpdateVerb,recargar
+es-es,configuration.ConfigurationSkillUpdateVerb,sincroniza
+es-es,configuration.ConfigurationSkillUpdateVerb,sincronizar
+es-es,configuration.DeviceLocation,localización
+es-es,configuration.DeviceLocation,ciudad
+es-es,configuration.DeviceLocation,estado
+es-es,configuration.DeviceLocation,país
+es-es,configuration.DeviceLocation,lugar
+es-es,configuration.DeviceLocation,provincia
+es-es,configuration.GetKeyword,qué
+es-es,configuration.GetKeyword,que
+es-es,configuration.GetKeyword,qué es
+es-es,configuration.GetKeyword,que es
+es-es,configuration.GetKeyword,dame
+es-es,configuration.GetKeyword,dime
+es-es,configuration.ListenerKeyword,saludo
+es-es,configuration.ListenerKeyword,listener
+es-es,configuration.ListenerKeyword,reconocedor de saludo
+es-es,configuration.ListenerKeyword,palabra de activación del reconocedor de saludo
+es-es,configuration.ListenerKeyword,palabra de activación
+es-es,configuration.ListenerKeyword,motor del reconocedor de saludo
+es-es,configuration.ListenerType,pocketsphinx
+es-es,configuration.ListenerType,preciso
+es-es,configuration.ListenerType,snow boy
+es-es,configuration.ListenerType,snowboy
+es-es,configuration.ListenerType,predeterminado
+es-es,configuration.Name,nombre
+es-es,configuration.PreciseKeyword,precise
+es-es,configuration.PreciseKeyword,preciso
+es-es,configuration.PreciseKeyword,mycroft precise
+es-es,configuration.PreciseKeyword,mycroft preciso
+es-es,configuration.PreciseKeyword,modelo precise
+es-es,configuration.PreciseKeyword,modelo preciso
+es-es,configuration.PreciseKeyword,modelo
+es-es,configuration.SetKeyword,pon
+es-es,configuration.SetKeyword,haz
+es-es,configuration.SetKeyword,asigna
+es-es,configuration.SetKeyword,cambia
+es-es,configuration.SetKeyword,poner
+es-es,configuration.SetKeyword,hacer
+es-es,configuration.SetKeyword,asignar
+es-es,configuration.SetKeyword,cambiar
+es-es,configuration.Using,usando
+es-es,configuration.Using,utilizando
+es-es,configuration.What,qué
+es-es,configuration.What,que
+es-es,configuration.What,cuál
+es-es,configuration.What,cual
+es-es,configuration.What,dime
+es-es,configuration.What,dónde
+es-es,configuration.What,donde
+es-es,configuration.WhereAreYou,donde estoy
+es-es,configuration.WhereAreYou,dónde estoy
+es-es,configuration.WhereAreYou,donde estás
+es-es,configuration.WhereAreYou,dónde estás
+es-es,configuration.WhereAreYou,donde te encuentras
+es-es,configuration.WhereAreYou,dónde te encuentras
+es-es,cut-up-skill.CutUp,Cortar
+es-es,cut-up-skill.CutUp,Corta
+es-es,cut-up-skill.CutUp,Aleatorizar
+es-es,cut-up-skill.CutUp,Aleatoriza
+es-es,cut-up-skill.CutUp,Asigna al azar
+es-es,cut-up-skill.Maximum,Máximo
+es-es,cut-up-skill.Minimum,Mínimo
+es-es,cut-up-skill.Randomness,Aleatoriedad
+es-es,cut-up-skill.Randomness,Al azar
+es-es,cut-up-skill.Set,Fijar
+es-es,cut-up-skill.Set,Fija
+es-es,cut-up-skill.Set,Establecer
+es-es,cut-up-skill.Set,Establece
+es-es,cut-up-skill.Set,Configuración
+es-es,cut-up-skill.Set,Fijar Configuración
+es-es,cut-up-skill.Set,Establecer Configuración
+es-es,cut-up-skill.Set,Fija Configuración
+es-es,cut-up-skill.Set,Establece Configuración
+es-es,decide-skill.DecideKeyword,Decide
+es-es,decide-skill.DecideKeyword,¿Qué me pongo?
+es-es,decide-skill.DecideKeyword,¿Qué como?
+es-es,decide-skill.DecideKeyword,juego
+es-es,fallback-aiml.Memory,cerebro
+es-es,fallback-aiml.Memory,memoria
+es-es,fallback-aiml.Memory,mente
+es-es,fallback-aiml.Memory,todo
+es-es,fallback-aiml.Reset,olvida
+es-es,fallback-aiml.Reset,reinicia
+es-es,fallback-unknown.question,qué es
+es-es,fallback-unknown.question,qué son
+es-es,fallback-unknown.question,qué será
+es-es,fallback-unknown.question,qué serán
+es-es,fallback-unknown.question,qué hizo
+es-es,fallback-unknown.question,qué hicieron
+es-es,fallback-unknown.question,qué hace
+es-es,fallback-unknown.question,qué hacen
+es-es,fallback-unknown.question,dónde está
+es-es,fallback-unknown.question,dónde están
+es-es,fallback-unknown.question,dónde estará
+es-es,fallback-unknown.question,dónde estarán
+es-es,fallback-unknown.question,dónde hicieron
+es-es,fallback-unknown.question,dónde hacen
+es-es,fallback-unknown.question,dónde hace
+es-es,fallback-unknown.question,cuándo es
+es-es,fallback-unknown.question,cuándo será
+es-es,fallback-unknown.question,cuándo fue
+es-es,fallback-unknown.question,cuándo fueron
+es-es,fallback-unknown.who.is,quién es
+es-es,fallback-unknown.who.is,quién hará
+es-es,fallback-unknown.who.is,quién hizo
+es-es,fallback-unknown.who.is,quién hace
+es-es,fallback-unknown.why.is,por qué es
+es-es,fallback-unknown.why.is,por qué son
+es-es,fallback-unknown.why.is,por qué será
+es-es,fallback-unknown.why.is,por qué serán
+es-es,fallback-unknown.why.is,por qué fue
+es-es,fallback-unknown.why.is,por qué fueron
+es-es,fallback-unknown.why.is,por qué hizo
+es-es,fallback-unknown.why.is,por qué hace
+es-es,fallback-unknown.why.is,por qué hacéis
+es-es,homeassistant.AutomationActionKeyword,activa
+es-es,homeassistant.AutomationActionKeyword,activar
+es-es,homeassistant.AutomationActionKeyword,enciende
+es-es,homeassistant.AutomationActionKeyword,encender
+es-es,homeassistant.AutomationActionKeyword,llama
+es-es,homeassistant.AutomationActionKeyword,llamar
+es-es,homeassistant.AutomationActionKeyword,dispara
+es-es,homeassistant.AutomationActionKeyword,disparar
+es-es,homeassistant.AutomationActionKeyword,escena
+es-es,homeassistant.AutomationActionKeyword,automatización
+es-es,homeassistant.AutomationActionKeyword,script
+es-es,homeassistant.ClimateKeyword,pon la temperatura de {entity} a {temperature}
+es-es,homeassistant.DecreaseVerb,disminuye
+es-es,homeassistant.DecreaseVerb,disminuir
+es-es,homeassistant.DecreaseVerb,abajo
+es-es,homeassistant.DeviceTrackerKeyword,dónde está
+es-es,homeassistant.DeviceTrackerKeyword,ubicar
+es-es,homeassistant.DeviceTrackerKeyword,ubicación
+es-es,homeassistant.DeviceTrackerKeyword,dónde
+es-es,homeassistant.IncreaseVerb,aumenta
+es-es,homeassistant.IncreaseVerb,incrementar
+es-es,homeassistant.IncreaseVerb,arriba
+es-es,homeassistant.LightBrightenVerb,brillante
+es-es,homeassistant.LightBrightenVerb,más brillante
+es-es,homeassistant.LightBrightenVerb,brillo
+es-es,homeassistant.LightBrightenVerb,más
+es-es,homeassistant.LightDimVerb,oscuro
+es-es,homeassistant.LightDimVerb,más oscuro
+es-es,homeassistant.LightDimVerb,bajo
+es-es,homeassistant.LightDimVerb,menos
+es-es,homeassistant.LightsKeyword,luz
+es-es,homeassistant.LightsKeyword,luces
+es-es,homeassistant.LightsKeyword,lámpara
+es-es,homeassistant.LightsKeyword,lámparas
+es-es,homeassistant.LightsKeyword,bombilla
+es-es,homeassistant.LightsKeyword,bombillas
+es-es,homeassistant.LightsKeyword,l.e.d.
+es-es,homeassistant.LightsKeyword,LED
+es-es,homeassistant.LightsKeyword,enciende
+es-es,homeassistant.LightsKeyword,encender
+es-es,homeassistant.LightsKeyword,apaga
+es-es,homeassistant.LightsKeyword,apagar
+es-es,homeassistant.LightsKeyword,cambia
+es-es,homeassistant.LightsKeyword,cambiar
+es-es,homeassistant.SensorStatusKeyword,estado
+es-es,homeassistant.SensorStatusKeyword,estado
+es-es,homeassistant.SensorStatusKeyword,sensor
+es-es,homeassistant.SensorStatusKeyword,detector
+es-es,homeassistant.SensorStatusKeyword,valor
+es-es,homeassistant.SensorStatusKeyword,leer
+es-es,homeassistant.SensorStatusKeyword,lee
+es-es,homeassistant.SensorStatusKeyword,cuál es el actual
+es-es,homeassistant.SensorStatusKeyword,cuál es el actual
+es-es,homeassistant.SensorStatusKeyword,Dime la actual
+es-es,homeassistant.SensorStatusKeyword,Dime el actual
+es-es,homeassistant.SensorStatusKeyword,dame el valor de
+es-es,homeassistant.SensorStatusKeyword,cuál es el valor del termostato
+es-es,homeassistant.SetVerb,establece
+es-es,homeassistant.SetVerb,establecer
+es-es,homeassistant.SwitchActionKeyword,conmuta
+es-es,homeassistant.SwitchActionKeyword,conmutar
+es-es,homeassistant.SwitchActionKeyword,cambia
+es-es,homeassistant.SwitchActionKeyword,cambiar
+es-es,ip.IP,dirección IP
+es-es,ip.IP,IP
+es-es,ip.IP,dirección de red
+es-es,ip.query,qué
+es-es,ip.query,dime
+es-es,ip.query,di
+es-es,ip.query,muestra
+es-es,ip.query,cuál
+es-es,krunner-search-skill.CalculateKeyword,calcula
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,busca en este ordenador
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,buscar en este ordenador
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,busca esto
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,buscar esto
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,buscar en el ordenador
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,busca en el ordenador
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,busca el archivo
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,buscar el archivo
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,busca el archivo
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,buscar el archivo
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,busca el nombre de archivo
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,buscar el nombre de archivo
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,busca en el ordenar
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,buscar en el ordenar
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,busca en el sistema
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,buscar en el sistema
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,sistema
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,búsqueda en el sistema
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,búsqueda de archivo en el sistema
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,busca el archivo
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,buscar el archivo
+es-es,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,encuentra el archivo
+es-es,krunner-search-skill.RecentFileKeyword,muestra recientes
+es-es,krunner-search-skill.RecentFileKeyword,mostrar recientes
+es-es,krunner-search-skill.RecentFileKeyword,muestra archivos recientes
+es-es,krunner-search-skill.RecentFileKeyword,mostrar archivos recientes
+es-es,krunner-search-skill.RecentFileKeyword,muestra documentos recientes
+es-es,krunner-search-skill.RecentFileKeyword,mostrar documentos recientes
+es-es,krunner-search-skill.RecentFileKeyword,documentos recientes
+es-es,krunner-search-skill.RecentFileKeyword,archivos recientes
+es-es,laugh.Laugh,risa
+es-es,laugh.Laugh,risa
+es-es,laugh.Laugh,risas
+es-es,laugh.Laugh,carcajada
+es-es,laugh.Stop,aborta
+es-es,laugh.Stop,abortar
+es-es,laugh.Stop,cancela
+es-es,laugh.Stop,cancelar
+es-es,laugh.Stop,para
+es-es,lifx-mycroft.Brightness,brillo
+es-es,lifx-mycroft.Brightness,luminosidad
+es-es,lifx-mycroft.Decrease,oscureciendo
+es-es,lifx-mycroft.Decrease,apagado
+es-es,lifx-mycroft.Decrease,desvanecer
+es-es,lifx-mycroft.Decrease,oscuro
+es-es,lifx-mycroft.Decrease,ennegrecer
+es-es,lifx-mycroft.Decrease,disminuir
+es-es,lifx-mycroft.Decrease,disminuye
+es-es,lifx-mycroft.Decrease,bajo
+es-es,lifx-mycroft.Decrease,abajo
+es-es,lifx-mycroft.Increase,aclarar
+es-es,lifx-mycroft.Increase,ilumina
+es-es,lifx-mycroft.Increase,iluminar
+es-es,lifx-mycroft.Increase,ilumina
+es-es,lifx-mycroft.Increase,iluminar
+es-es,lifx-mycroft.Increase,intensificar
+es-es,lifx-mycroft.Increase,incrementar
+es-es,lifx-mycroft.Increase,incrementa
+es-es,lifx-mycroft.Increase,arriba
+es-es,lifx-mycroft.Off,apagar
+es-es,lifx-mycroft.Off,apaga
+es-es,lifx-mycroft.Off,inhabilitar
+es-es,lifx-mycroft.Off,inhabilita
+es-es,lifx-mycroft.On,encender
+es-es,lifx-mycroft.On,enciende
+es-es,lifx-mycroft.On,habilitar
+es-es,lifx-mycroft.On,activar
+es-es,lifx-mycroft.On,habilita
+es-es,lifx-mycroft.On,activa
+es-es,lifx-mycroft.Saturation,saturación
+es-es,lifx-mycroft.Saturation,intensidad
+es-es,lifx-mycroft.Temperature,temperatura
+es-es,lifx-mycroft.Temperature,calor
+es-es,lifx-mycroft.Temperature,color de temperatura
+es-es,lifx-mycroft.Temperature,kelvin
+es-es,lifx-mycroft.Temperature,color de la temperatura
+es-es,lifx-mycroft.Turn,cambiar
+es-es,lifx-mycroft.Turn,cambia
+es-es,lifx-mycroft.Turn,configurar
+es-es,lifx-mycroft.Turn,establecer
+es-es,lifx-mycroft.Turn,definir
+es-es,lifx-mycroft.Turn,configura
+es-es,lifx-mycroft.Turn,establece
+es-es,lifx-mycroft.Turn,define
+es-es,lifx-mycroft.Turn,cambiar
+es-es,lifx-mycroft.Turn,cambia
+es-es,lifx-mycroft.Turn,cambiar
+es-es,lifx-mycroft.Turn,cambia
+es-es,lifx-mycroft.Turn,cambiar
+es-es,lifx-mycroft.Turn,cambia
+es-es,lifx-mycroft.Turn,hacer
+es-es,lifx-mycroft.Turn,haz
+es-es,list-manager-skill.add,agregar
+es-es,list-manager-skill.add,crear
+es-es,list-manager-skill.del,eliminar
+es-es,list-manager-skill.list,lista
+es-es,list-manager-skill.list,listas
+es-es,list-manager-skill.what,cuál
+es-es,list-manager-skill.what,qué
+es-es,national-parks-skill.Describe,describe
+es-es,national-parks-skill.Describe,cuéntame acerca de
+es-es,national-parks-skill.List,lista
+es-es,national-parks-skill.National.Park,parque nacional
+es-es,national-parks-skill.National.Parks,parques nacionales
+es-es,national-parks-skill.Quiz.Repeat,repite el concurso de parques nacionales
+es-es,national-parks-skill.Quiz.me,pregúntame acerca de los parques nacionales
+es-es,national-parks-skill.Whereis,dónde está
+es-es,pairing.DeviceKeyword,unidad
+es-es,pairing.DeviceKeyword,dispositivo
+es-es,pairing.DeviceKeyword,mycroft
+es-es,pairing.PairingKeyword,emparejar
+es-es,pairing.PairingKeyword,registrar
+es-es,pairing.PairingKeyword,empareja
+es-es,pairing.PairingKeyword,registra
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,crea una nueva actividad
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,crear una nueva actividad
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,crea nueva actividad
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,crear nueva actividad
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,crea actividad
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,crear actividad
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,empieza una nueva actividad
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,empezar una nueva actividad
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,crea nuevas actividades
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,crear nuevas actividades
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,inicia nuevas actividades
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,iniciar nuevas actividades
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,crea actividades
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,crear actividades
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,nueva actividad
+es-es,plasma-activities-skill.ActivitiesCreateKeyword,nuevas actividades
+es-es,plasma-activities-skill.ActivitiesRemoveKeyword,quita actividad
+es-es,plasma-activities-skill.ActivitiesRemoveKeyword,quitar actividad
+es-es,plasma-activities-skill.ActivitiesRemoveKeyword,elimina actividad
+es-es,plasma-activities-skill.ActivitiesRemoveKeyword,eliminar actividad
+es-es,plasma-activities-skill.ActivitiesRemoveKeyword,quita la actividad
+es-es,plasma-activities-skill.ActivitiesRemoveKeyword,elimina la actividad
+es-es,plasma-activities-skill.ActivitiesRemoveKeyword,borra actividad
+es-es,plasma-activities-skill.ActivitiesRemoveKeyword,borrar actividad
+es-es,plasma-activities-skill.ActivitiesRemoveKeyword,borra la actividad
+es-es,plasma-activities-skill.ActivitiesRemoveKeyword,borrar la actividad
+es-es,plasma-activities-skill.ActivitiesShowKeyword,enseña las actividades actuales
+es-es,plasma-activities-skill.ActivitiesShowKeyword,muestra las actividades actuales
+es-es,plasma-activities-skill.ActivitiesShowKeyword,enseñar las actividades actuales
+es-es,plasma-activities-skill.ActivitiesShowKeyword,mostrar las actividades actuales
+es-es,plasma-activities-skill.ActivitiesShowKeyword,enseña las actividades
+es-es,plasma-activities-skill.ActivitiesShowKeyword,muestra las actividades
+es-es,plasma-activities-skill.ActivitiesShowKeyword,actividades
+es-es,plasma-activities-skill.ActivitiesShowKeyword,muestra las actividades actuales
+es-es,plasma-activities-skill.ActivitiesShowKeyword,enseña las actividades actuales
+es-es,plasma-activities-skill.ActivitiesShowKeyword,muestra las actividades
+es-es,plasma-activities-skill.ActivitiesShowKeyword,enseña las actividades
+es-es,plasma-activities-skill.ActivitiesStopKeyword,matar actividad actual
+es-es,plasma-activities-skill.ActivitiesStopKeyword,matar actividad
+es-es,plasma-activities-skill.ActivitiesSwitchKeyword,cambiar actividad actual
+es-es,plasma-activities-skill.ActivitiesSwitchKeyword,cambia actividad actual
+es-es,plasma-activities-skill.ActivitiesSwitchKeyword,cambia a actividad
+es-es,plasma-activities-skill.ActivitiesSwitchKeyword,cambia actividad
+es-es,query.Question,qué
+es-es,query.Question,quién
+es-es,query.Question,cuándo
+es-es,query.Question,cómo
+es-es,query.Question,dónde
+es-es,remember-skill.All,Todo
+es-es,remember-skill.Did,hizo
+es-es,remember-skill.Forget,olvida
+es-es,remember-skill.Phrase,frase
+es-es,remember-skill.Phrase,frases
+es-es,remember-skill.Remember,recuerda
+es-es,remember-skill.You,tú
+es-es,speedtest-skill.Run,ejecutar
+es-es,speedtest-skill.Speedtest,prueba de velocidad
+es-es,speedtest-skill.Speedtest,prueba de velocidad
+es-es,version-checker.Check,comprueba
+es-es,version-checker.Check,busca
+es-es,version-checker.Check,ejecutando
+es-es,version-checker.Check,qué
+es-es,version-checker.PlatformBuild,número de versión
+es-es,version-checker.PlatformBuild,versión de la plataforma
+es-es,version-checker.PlatformBuild,versión del firmware
+es-es,version-checker.Version,versión
+es-es,version-checker.Version,código
+es-es,version-checker.Version,lanzamiento
+es-es,volume.Decrease,baja
+es-es,volume.Decrease,reduce
+es-es,volume.Decrease,disminuye
+es-es,volume.Increase,sube
+es-es,volume.Increase,aumenta
+es-es,volume.Increase,incrementa
+es-es,volume.Level,0
+es-es,volume.Level,1
+es-es,volume.Level,2
+es-es,volume.Level,3
+es-es,volume.Level,4
+es-es,volume.Level,5
+es-es,volume.Level,6
+es-es,volume.Level,7
+es-es,volume.Level,8
+es-es,volume.Level,9
+es-es,volume.Level,10
+es-es,volume.Level,11
+es-es,volume.Level,silencio
+es-es,volume.Level,normal
+es-es,volume.Level,alto
+es-es,volume.Mute,silencio
+es-es,volume.Mute,sigilo
+es-es,volume.Unmute,quita el silencio
+es-es,volume.Unmute,restaura
+es-es,volume.Unmute,reinicia
+es-es,volume.Volume,volumen
+es-es,volume.Volume,altavoz
+es-es,volume.Volume,audio
+es-es,volume.Volume,sonido
+es-es,volume.neon.Decrease,baja
+es-es,volume.neon.Decrease,reduce
+es-es,volume.neon.Decrease,disminuye
+es-es,volume.neon.Increase,sube
+es-es,volume.neon.Increase,aumenta
+es-es,volume.neon.Increase,incrementa
+es-es,volume.neon.Level,0
+es-es,volume.neon.Level,1
+es-es,volume.neon.Level,2
+es-es,volume.neon.Level,3
+es-es,volume.neon.Level,4
+es-es,volume.neon.Level,5
+es-es,volume.neon.Level,6
+es-es,volume.neon.Level,7
+es-es,volume.neon.Level,8
+es-es,volume.neon.Level,9
+es-es,volume.neon.Level,10
+es-es,volume.neon.Level,11
+es-es,volume.neon.Level,silencio
+es-es,volume.neon.Level,normal
+es-es,volume.neon.Level,alto
+es-es,volume.neon.Mute,silencio
+es-es,volume.neon.Mute,sigilo
+es-es,volume.neon.Unmute,quita el silencio
+es-es,volume.neon.Unmute,restaura
+es-es,volume.neon.Unmute,reinicia
+es-es,volume.neon.Volume,volumen
+es-es,volume.neon.Volume,altavoz
+es-es,volume.neon.Volume,audio
+es-es,volume.neon.Volume,sonido
+es-es,white-house-adventure.Delete,borrar
+es-es,white-house-adventure.Delete,borra
+es-es,white-house-adventure.Play,jugar
+es-es,white-house-adventure.Play,ir a
+es-es,white-house-adventure.Play,ir a
+es-es,white-house-adventure.Save,guardar
+es-es,white-house-adventure.Save,guardar partida
+es-es,white-house-adventure.Save,guardado
+es-es,white-house-adventure.Zork,zork
+es-es,white-house-adventure.Zork,bandeja de entrada
+es-es,white-house-adventure.Zork,casa blanca

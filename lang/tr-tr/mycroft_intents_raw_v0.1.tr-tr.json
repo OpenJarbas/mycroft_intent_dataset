@@ -1,0 +1,28 @@
+{
+  "tr-tr": {
+    "auto-volume-skill.activate": [
+      "Otomatik ses seviyesini etkinle\u015ftir",
+      "otomatik ses seviyesi aktif",
+      "otomatik ses seviyesini a\u00e7",
+      "otomatik ses seviyesini a\u00e7"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Otomatik ses seviyesi yenilendi",
+      "otomatik ses seviyesini kapat",
+      "otomatik ses seviyesini kapat",
+      "otomatik ses seviyesini kapat"
+    ],
+    "auto-volume-skill.reset": [
+      "otomatik sesi temizle",
+      "otomatik ses ayarlar\u0131n\u0131 sil",
+      "otomatik sesi s\u0131f\u0131rla"
+    ],
+    "email-skill.check.email": [
+      "e-postam\u0131 kontrol et",
+      "postalar\u0131m\u0131 kontrol et",
+      "yeni posta var m\u0131",
+      "e-postam var m\u0131",
+      "yeni e-postam var m\u0131"
+    ]
+  }
+}

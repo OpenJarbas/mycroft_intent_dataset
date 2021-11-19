@@ -1,0 +1,565 @@
+it-it,Crystal-Ball-Mycroft-Skill.CrystalBall,Sfera di cristallo
+it-it,Crystal-Ball-Mycroft-Skill.CrystalBall,Specchio specchio delle mie brame
+it-it,Crystal-Ball-Mycroft-Skill.Future,futuro
+it-it,Crystal-Ball-Mycroft-Skill.Future,domani
+it-it,Crystal-Ball-Mycroft-Skill.Query,Dimmi
+it-it,Crystal-Ball-Mycroft-Skill.Query,Cosa
+it-it,Number-Guess-Mycroft-Skill.NumberGuess,Indovina numero
+it-it,Number-Guess-Mycroft-Skill.NumberGuess,gioco indovina numero
+it-it,Number-Guess-Mycroft-Skill.Play,Gioca
+it-it,Number-Guess-Mycroft-Skill.Play,Inizia una partita
+it-it,Number-Guess-Mycroft-Skill.Suggest,Facciamo
+it-it,Number-Guess-Mycroft-Skill.Suggest,Lasciateci
+it-it,Number-Guess-Mycroft-Skill.Suggest,Perché noi non
+it-it,Number-Guess-Mycroft-Skill.Suggest,Che ne dici se noi
+it-it,Number-Guess-Mycroft-Skill.Suggest,Dovremmo
+it-it,aircrack.Clients,cliente
+it-it,aircrack.Clients,clienti
+it-it,aircrack.Clients,connessione
+it-it,aircrack.Clients,connessioni
+it-it,aircrack.Crack,rottura
+it-it,aircrack.Crack,hack
+it-it,aircrack.Deauth,rimuovere
+it-it,aircrack.Deauth,non autenticare
+it-it,aircrack.Deauth,disconnetti
+it-it,aircrack.Deauth,non autenticare
+it-it,aircrack.Deauth,non autenticare
+it-it,aircrack.Interface,dispositivi
+it-it,aircrack.Interface,interfacce
+it-it,aircrack.Interface,dispositivo
+it-it,aircrack.Interface,interfaccia
+it-it,aircrack.List,elenco
+it-it,aircrack.List,scansiona
+it-it,aircrack.Monitor,monitor
+it-it,aircrack.Monitor,monitorizza
+it-it,aircrack.Monitor,scarica
+it-it,aircrack.Monitor,scarica
+it-it,aircrack.Network,reti wireless
+it-it,aircrack.Network,reti
+it-it,aircrack.Network,rete wireless
+it-it,aircrack.Network,rete
+it-it,aircrack.Network,rete wifi
+it-it,aircrack.Network,reti wifi
+it-it,aircrack.Password,password
+it-it,aircrack.Password,password
+it-it,aircrack.Select,seleziona
+it-it,aircrack.Select,usa
+it-it,aircrack.Start,avvia
+it-it,aircrack.Start,inizia
+it-it,aircrack.Stop,ferma
+it-it,aircrack.Stop,finisci
+it-it,audio-record.AudioRecordSkillDeleteVerb,cancella
+it-it,audio-record.AudioRecordSkillDeleteVerb,elimina
+it-it,audio-record.AudioRecordSkillDeleteVerb,rimuovi
+it-it,audio-record.AudioRecordSkillKeyword,registra
+it-it,audio-record.AudioRecordSkillKeyword,registrazione
+it-it,audio-record.AudioRecordSkillPlayVerb,suona
+it-it,audio-record.AudioRecordSkillPlayVerb,suonare
+it-it,audio-record.AudioRecordSkillPlayVerb,riproduci
+it-it,audio-record.AudioRecordSkillPlayVerb,riprodurre
+it-it,audio-record.AudioRecordSkillStopVerb,fine
+it-it,audio-record.AudioRecordSkillStopVerb,stop
+it-it,audio-record.AudioRecordSkillStopVerb,ferma
+it-it,cocktail.Again,di nuovo
+it-it,cocktail.Ingredients,ingrediente
+it-it,cocktail.Ingredients,ingredienti
+it-it,cocktail.TellMe,quali sono
+it-it,cocktail.TellMe,dimmi
+it-it,cocktail.What,qual era
+it-it,cocktail.What,quali erano
+it-it,configuration.ConfigurationSkillKeyword,configura
+it-it,configuration.ConfigurationSkillKeyword,configurazione
+it-it,configuration.ConfigurationSkillKeyword,impostazioni
+it-it,configuration.ConfigurationSkillUpdateVerb,aggiorna
+it-it,configuration.ConfigurationSkillUpdateVerb,ricarica
+it-it,configuration.ConfigurationSkillUpdateVerb,sincronizza
+it-it,configuration.DeviceLocation,posizione
+it-it,configuration.DeviceLocation,città
+it-it,configuration.DeviceLocation,stato
+it-it,configuration.DeviceLocation,nazione
+it-it,configuration.DeviceLocation,posto
+it-it,configuration.GetKeyword,che cosa
+it-it,configuration.GetKeyword,cosa è
+it-it,configuration.GetKeyword,dammi
+it-it,configuration.GetKeyword,dimmi
+it-it,configuration.ListenerKeyword,listener
+it-it,configuration.ListenerKeyword,modulo ascoltatore
+it-it,configuration.ListenerKeyword,wake word listener
+it-it,configuration.ListenerKeyword,listerer parola risveglio
+it-it,configuration.ListenerKeyword,wake word engine
+it-it,configuration.ListenerKeyword,motore parola risveglio
+it-it,configuration.ListenerKeyword,wake word
+it-it,configuration.ListenerKeyword,parola risveglio
+it-it,configuration.ListenerKeyword,hot word engine
+it-it,configuration.ListenerKeyword,motore parola calda
+it-it,configuration.ListenerType,pocketsphinx
+it-it,configuration.ListenerType,precise
+it-it,configuration.ListenerType,snow boy
+it-it,configuration.ListenerType,snowboy
+it-it,configuration.ListenerType,default
+it-it,configuration.ListenerType,predefinito
+it-it,configuration.Name,nome
+it-it,configuration.PreciseKeyword,precise
+it-it,configuration.PreciseKeyword,mycroft precise
+it-it,configuration.PreciseKeyword,modello precise
+it-it,configuration.SetKeyword,impostare
+it-it,configuration.SetKeyword,imposta
+it-it,configuration.SetKeyword,fare
+it-it,configuration.SetKeyword,assegnare
+it-it,configuration.SetKeyword,assegna
+it-it,configuration.SetKeyword,cambiare
+it-it,configuration.SetKeyword,cambia
+it-it,configuration.What,che cosa
+it-it,configuration.What,dimmi
+it-it,configuration.What,dove
+it-it,configuration.WhereAreYou,dove sono
+it-it,configuration.WhereAreYou,dove sei
+it-it,cut-up-skill.CutUp,Ritaglia
+it-it,cut-up-skill.CutUp,Rendi casuale
+it-it,cut-up-skill.Maximum,Massimo
+it-it,cut-up-skill.Minimum,Minimo
+it-it,cut-up-skill.Randomness,Casualità
+it-it,cut-up-skill.Set,Imposta
+it-it,cut-up-skill.Set,Configura
+it-it,cut-up-skill.Set,Imposta configurazione
+it-it,date-time.Date,data
+it-it,date-time.Date,giorno
+it-it,date-time.Display,mostra
+it-it,date-time.Display,mostrare
+it-it,date-time.Query,che
+it-it,date-time.Query,dimmi
+it-it,date-time.Time,orario
+it-it,date-time.Time,ora
+it-it,date-time.Time,ore
+it-it,fallback-aiml.Memory,cervello
+it-it,fallback-aiml.Memory,memoria
+it-it,fallback-aiml.Memory,mente
+it-it,fallback-aiml.Memory,tutto
+it-it,fallback-aiml.Reset,dimentica
+it-it,fallback-aiml.Reset,ripristina
+it-it,hello-world.HelloWorldKeyword,ciao 
+it-it,hello-world.HelloWorldKeyword,saluti
+it-it,hello-world.HowAreYouKeyword,come va
+it-it,hello-world.HowAreYouKeyword,come stai
+it-it,hello-world.HowAreYouKeyword,come è stata la tua giornata
+it-it,hello-world.ThankYouKeyword,grazie
+it-it,installer.InstallKeyword,installare
+it-it,installer.InstallKeyword,installa
+it-it,ip.IP,indirizzo IP
+it-it,ip.IP,IP
+it-it,ip.IP,indirizzo rete
+it-it,ip.query,quale
+it-it,ip.query,dimmi
+it-it,ip.query,mostra
+it-it,ip.query,che
+it-it,krunner-search-skill.CalculateKeyword,calcola 
+it-it,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,cerca su questo computer
+it-it,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,cerca questo 
+it-it,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,cerca il file
+it-it,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,cerca il file
+it-it,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,cerca il file
+it-it,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,cerca il file col nome
+it-it,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,cerca sul computer
+it-it,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,cerca sul sistema
+it-it,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,sistema
+it-it,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,ricerca di sistema
+it-it,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,ricerca file nel sistema
+it-it,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,trova il file
+it-it,krunner-search-skill.RecentFileKeyword,mostra (i|) recenti 
+it-it,krunner-search-skill.RecentFileKeyword,mostra (i|) file recenti
+it-it,krunner-search-skill.RecentFileKeyword,mostra documenti recenti
+it-it,krunner-search-skill.RecentFileKeyword,documenti recenti
+it-it,krunner-search-skill.RecentFileKeyword,file recenti
+it-it,laugh.Laugh,ridi
+it-it,laugh.Laugh,ridendo
+it-it,laugh.Laugh,risate
+it-it,laugh.Laugh,risata
+it-it,laugh.Stop,interrompi
+it-it,laugh.Stop,cancella
+it-it,laugh.Stop,ferma
+it-it,lifx-mycroft.Brightness,brillantezza
+it-it,lifx-mycroft.Brightness,luminosità
+it-it,lifx-mycroft.Decrease,scurire
+it-it,lifx-mycroft.Decrease,sordo
+it-it,lifx-mycroft.Decrease,dissolvenza
+it-it,lifx-mycroft.Decrease,lieve
+it-it,lifx-mycroft.Decrease,oscura
+it-it,lifx-mycroft.Decrease,diminuire
+it-it,lifx-mycroft.Decrease,giù
+it-it,lifx-mycroft.Increase,illumina
+it-it,lifx-mycroft.Increase,illuminare
+it-it,lifx-mycroft.Increase,illumina
+it-it,lifx-mycroft.Increase,intensifica
+it-it,lifx-mycroft.Increase,aumeta
+it-it,lifx-mycroft.Increase,su
+it-it,lifx-mycroft.Off,off
+it-it,lifx-mycroft.Off,disabilita
+it-it,lifx-mycroft.On,on
+it-it,lifx-mycroft.On,abilita
+it-it,lifx-mycroft.Saturation,saturazione
+it-it,lifx-mycroft.Saturation,intensità
+it-it,lifx-mycroft.Temperature,temp
+it-it,lifx-mycroft.Temperature,calore
+it-it,lifx-mycroft.Temperature,temperatura colore
+it-it,lifx-mycroft.Temperature,kelvin
+it-it,lifx-mycroft.Temperature,temperatura colore
+it-it,lifx-mycroft.Turn,cambia
+it-it,lifx-mycroft.Turn,imposta
+it-it,lifx-mycroft.Turn,cambia
+it-it,lifx-mycroft.Turn,girare
+it-it,lifx-mycroft.Turn,scambiare
+it-it,lifx-mycroft.Turn,fare
+it-it,list-manager-skill.add,aggiungi
+it-it,list-manager-skill.add,crea
+it-it,list-manager-skill.del,rimuovi
+it-it,list-manager-skill.list,lista
+it-it,list-manager-skill.list,liste
+it-it,list-manager-skill.what,quale
+it-it,list-manager-skill.what,cosa
+it-it,naptime.SleepCommand,vai a dormire
+it-it,naptime.SleepCommand,pisolino
+it-it,naptime.SleepCommand,buona notte
+it-it,naptime.SleepCommand,sogni d'oro
+it-it,national-parks-skill.Describe,descrivi
+it-it,national-parks-skill.Describe,parlami di
+it-it,national-parks-skill.List,elenca
+it-it,national-parks-skill.National.Park,parco nazionale
+it-it,national-parks-skill.National.Parks,parchi nazionali
+it-it,national-parks-skill.Quiz.Repeat,ripetere i quiz dei parchi nazionali
+it-it,national-parks-skill.Quiz.me,interrogarmi sui parchi nazionali
+it-it,national-parks-skill.Whereis,dov'è
+it-it,pairing.DeviceKeyword,unità
+it-it,pairing.DeviceKeyword,dispositivo
+it-it,pairing.DeviceKeyword,mycroft
+it-it,pairing.PairingKeyword,associa
+it-it,pairing.PairingKeyword,registra
+it-it,pairing.PairingKeyword,associazione
+it-it,personal.WhatAreYouKeyword,che cosa sei
+it-it,personal.WhenWereYouBornKeyword,quando sei nato
+it-it,personal.WhenWereYouBornKeyword,quando sei stato creato
+it-it,personal.WhereWereYouBornKeyword,dove sei nato
+it-it,personal.WhereWereYouBornKeyword,dove sei stato creato
+it-it,personal.WhoAreYouKeyword,chi sei
+it-it,personal.WhoMadeYouKeyword,chi ti ha fatto
+it-it,personal.WhoMadeYouKeyword,da chi sei stato fatto
+it-it,personal.WhoMadeYouKeyword,chi ti ha creato
+it-it,personal.WhoMadeYouKeyword,chi ti ha costruito
+it-it,plasma-activities-skill.ActivitiesCreateKeyword,crea una nuova attività
+it-it,plasma-activities-skill.ActivitiesCreateKeyword,crea una nuova attività
+it-it,plasma-activities-skill.ActivitiesCreateKeyword,crea attività
+it-it,plasma-activities-skill.ActivitiesCreateKeyword,avvia una nuova attività
+it-it,plasma-activities-skill.ActivitiesCreateKeyword,crea nuove attività
+it-it,plasma-activities-skill.ActivitiesCreateKeyword,avvia nuove attività
+it-it,plasma-activities-skill.ActivitiesCreateKeyword,crea attività
+it-it,plasma-activities-skill.ActivitiesCreateKeyword,nuova attività
+it-it,plasma-activities-skill.ActivitiesCreateKeyword,nuove attività
+it-it,plasma-activities-skill.ActivitiesRemoveKeyword,rimuovi attività
+it-it,plasma-activities-skill.ActivitiesRemoveKeyword,rimuovi l'attività
+it-it,plasma-activities-skill.ActivitiesRemoveKeyword,cancella attività
+it-it,plasma-activities-skill.ActivitiesRemoveKeyword,cancella l'attività
+it-it,plasma-activities-skill.ActivitiesShowKeyword,mostra attività attuali
+it-it,plasma-activities-skill.ActivitiesShowKeyword,mostra attività
+it-it,plasma-activities-skill.ActivitiesShowKeyword,attività
+it-it,plasma-activities-skill.ActivitiesShowKeyword,mostra le attività correnti
+it-it,plasma-activities-skill.ActivitiesShowKeyword,mostra le attività
+it-it,plasma-activities-skill.ActivitiesStopKeyword,termina attività attuale
+it-it,plasma-activities-skill.ActivitiesStopKeyword,termina attività
+it-it,plasma-activities-skill.ActivitiesSwitchKeyword,cambia l'attività corrente
+it-it,plasma-activities-skill.ActivitiesSwitchKeyword,passare all'attività
+it-it,plasma-activities-skill.ActivitiesSwitchKeyword,cambia attività
+it-it,playback-control.Next,prossima
+it-it,playback-control.Next,salta
+it-it,playback-control.Pause,pausa
+it-it,playback-control.PlayResume,riprendi musica
+it-it,playback-control.Prev,precedente
+it-it,playback-control.Resume,riprendi
+it-it,playback-control.Resume,riparti
+it-it,playback-control.Track,traccia
+it-it,pokemon-skill.Ability,abilità
+it-it,pokemon-skill.Ability,abilità
+it-it,pokemon-skill.AbilityEffectEntry,info dettagliate
+it-it,pokemon-skill.AbilityEffectEntry,informazioni dettagliate
+it-it,pokemon-skill.AbilityEffectEntryShort,qualche info
+it-it,pokemon-skill.AbilityEffectEntryShort,qualche informazione
+it-it,pokemon-skill.AbilityEffectEntryShort,info
+it-it,pokemon-skill.AbilityEffectEntryShort,informazione
+it-it,pokemon-skill.AbilityFlavorText,testo di colore
+it-it,pokemon-skill.AbilityFlavorText,il pokedex dice
+it-it,pokemon-skill.AbilityFlavorText,pokedex
+it-it,pokemon-skill.Against,contro
+it-it,pokemon-skill.Attack,attacco
+it-it,pokemon-skill.Base,base
+it-it,pokemon-skill.Base,statistica di base
+it-it,pokemon-skill.Base,statistiche di base
+it-it,pokemon-skill.CaptureRate,catturare
+it-it,pokemon-skill.CaptureRate,tasso di cattura
+it-it,pokemon-skill.CaptureRate,tasso di cattura
+it-it,pokemon-skill.CaptureRate,catturare
+it-it,pokemon-skill.CaptureRate,tasso di cattura
+it-it,pokemon-skill.Color,colore
+it-it,pokemon-skill.Defense,difesa
+it-it,pokemon-skill.Effective,efficace
+it-it,pokemon-skill.Effective,efficacia
+it-it,pokemon-skill.Effective,buono
+it-it,pokemon-skill.Effective,cattivo
+it-it,pokemon-skill.Effective,danno
+it-it,pokemon-skill.Egg,uovo
+it-it,pokemon-skill.Egg,gruppo uovo
+it-it,pokemon-skill.Egg,uova
+it-it,pokemon-skill.Egg,gruppo uova
+it-it,pokemon-skill.Egg,si schiude da
+it-it,pokemon-skill.Egg,schiudere
+it-it,pokemon-skill.Egg,schiude
+it-it,pokemon-skill.EnglishLength,piedi
+it-it,pokemon-skill.EnglishLength,pollici
+it-it,pokemon-skill.EnglishWeight,libbre
+it-it,pokemon-skill.Evolve,evolvi
+it-it,pokemon-skill.Evolve,evoluzione
+it-it,pokemon-skill.Evolve,evolve
+it-it,pokemon-skill.Evolve,viene
+it-it,pokemon-skill.Evolve,trasforma
+it-it,pokemon-skill.Experience,esperienza
+it-it,pokemon-skill.Experience,e s p
+it-it,pokemon-skill.Experience,esp
+it-it,pokemon-skill.Experience,punti esp
+it-it,pokemon-skill.Experience,punti esperienza
+it-it,pokemon-skill.Experience,esperto
+it-it,pokemon-skill.Final,finale
+it-it,pokemon-skill.Final,ultimo
+it-it,pokemon-skill.First,base
+it-it,pokemon-skill.First,primo
+it-it,pokemon-skill.First,semplice
+it-it,pokemon-skill.First,più semplice
+it-it,pokemon-skill.Form,forma
+it-it,pokemon-skill.From,da
+it-it,pokemon-skill.From,prima
+it-it,pokemon-skill.From,precedente
+it-it,pokemon-skill.Game,gioco
+it-it,pokemon-skill.Game,versione pokemon
+it-it,pokemon-skill.Game,generazione
+it-it,pokemon-skill.Game,gen
+it-it,pokemon-skill.HP,hp
+it-it,pokemon-skill.HP,h p
+it-it,pokemon-skill.HP,salute
+it-it,pokemon-skill.Habitat,habitat
+it-it,pokemon-skill.Habitat,vive
+it-it,pokemon-skill.Habitat,vita
+it-it,pokemon-skill.Habitat,casa
+it-it,pokemon-skill.Happiness,felicità
+it-it,pokemon-skill.Happiness,felice
+it-it,pokemon-skill.Happiness,sentire
+it-it,pokemon-skill.Happiness,sensazione
+it-it,pokemon-skill.Happiness,amicizia
+it-it,pokemon-skill.Happiness,amichevole
+it-it,pokemon-skill.Height,altezza
+it-it,pokemon-skill.Height,alto
+it-it,pokemon-skill.Height,grande
+it-it,pokemon-skill.ID,pokedex
+it-it,pokemon-skill.ID,id
+it-it,pokemon-skill.ID,numero
+it-it,pokemon-skill.ID,i d
+it-it,pokemon-skill.Into,dentro
+it-it,pokemon-skill.Into,a
+it-it,pokemon-skill.Into,prossimo
+it-it,pokemon-skill.Into,dopo
+it-it,pokemon-skill.Into,quando
+it-it,pokemon-skill.Into,sarà
+it-it,pokemon-skill.Into,come
+it-it,pokemon-skill.Introduced,introdotto
+it-it,pokemon-skill.Introduced,primo avvistamento
+it-it,pokemon-skill.Learn,impara
+it-it,pokemon-skill.MetricLength,metri
+it-it,pokemon-skill.MetricLength,c m
+it-it,pokemon-skill.MetricLength,cm
+it-it,pokemon-skill.MetricWeight,chilogrammi
+it-it,pokemon-skill.MetricWeight,chilogrammi
+it-it,pokemon-skill.MetricWeight,grammi
+it-it,pokemon-skill.MetricWeight,kg
+it-it,pokemon-skill.MetricWeight,k g
+it-it,pokemon-skill.Move,mossa
+it-it,pokemon-skill.Nature,natura
+it-it,pokemon-skill.Nature,come
+it-it,pokemon-skill.Pokemon,Pokemon
+it-it,pokemon-skill.Shape,forma
+it-it,pokemon-skill.Shape,a forma di
+it-it,pokemon-skill.Special,speciale
+it-it,pokemon-skill.Speed,velocità
+it-it,pokemon-skill.Speed,veloce
+it-it,pokemon-skill.Type,tipo
+it-it,pokemon-skill.Type,tipi
+it-it,pokemon-skill.Weight,peso
+it-it,pokemon-skill.Weight,pesa
+it-it,pokemon-skill.Weight,pesante
+it-it,pokemon-skill.Weight,pesa
+it-it,pokemon-skill.Weight,massa
+it-it,pokemon-skill.Weight,grasso
+it-it,query.Question,cosa
+it-it,query.Question,chi
+it-it,query.Question,quando
+it-it,query.Question,Come
+it-it,query.Question,Dove
+it-it,remember-skill.All,Tutto
+it-it,remember-skill.Did,fatto
+it-it,remember-skill.Forget,dimentica
+it-it,remember-skill.Phrase,frase
+it-it,remember-skill.Phrase,frasi
+it-it,remember-skill.Remember,ricorda
+it-it,remember-skill.You,tu
+it-it,singing.Sing,canta
+it-it,singing.Sing,cantare
+it-it,singing.Sing,cantami una canzone
+it-it,speak.Speak,ripeti
+it-it,speak.Speak,pronuncia
+it-it,speedtest-skill.Run,esegui
+it-it,speedtest-skill.Speedtest,test velocità
+it-it,speedtest-skill.Speedtest,test velocità
+it-it,stop.StopKeyword,stop
+it-it,stop.StopKeyword,silenzio
+it-it,stop.StopKeyword,sta zitto
+it-it,stop.StopKeyword,silenzioso
+it-it,version-checker.Check,verifica
+it-it,version-checker.Check,trova
+it-it,version-checker.Check,esecuzione
+it-it,version-checker.Check,quale
+it-it,version-checker.PlatformBuild,rilascio
+it-it,version-checker.PlatformBuild,piattaforma
+it-it,version-checker.PlatformBuild,firmware
+it-it,version-checker.Version,versione
+it-it,version-checker.Version,codice
+it-it,version-checker.Version,rilascio
+it-it,volume.Decrease,abbassa
+it-it,volume.Decrease,reduci
+it-it,volume.Decrease,diminuisci
+it-it,volume.Decrease,più tranquillo
+it-it,volume.Decrease,più basso
+it-it,volume.Increase,aumenta
+it-it,volume.Increase,incrementa
+it-it,volume.Increase,aumentare
+it-it,volume.Increase,più forte
+it-it,volume.Increase,più alto
+it-it,volume.Level,0
+it-it,volume.Level,1
+it-it,volume.Level,2
+it-it,volume.Level,3
+it-it,volume.Level,4
+it-it,volume.Level,5
+it-it,volume.Level,6
+it-it,volume.Level,7
+it-it,volume.Level,8
+it-it,volume.Level,9
+it-it,volume.Level,10
+it-it,volume.Level,11
+it-it,volume.Level,silenzioso
+it-it,volume.Level,normale
+it-it,volume.Level,forte
+it-it,volume.Mute,muto
+it-it,volume.Mute,silenzio
+it-it,volume.Mute,silenzioso
+it-it,volume.Unmute,reset
+it-it,volume.Unmute,ripristina
+it-it,volume.Volume,volume
+it-it,volume.Volume,altoparlante
+it-it,volume.Volume,audio
+it-it,volume.Volume,suono
+it-it,volume.neon.Decrease,abbassa
+it-it,volume.neon.Decrease,reduci
+it-it,volume.neon.Decrease,diminuisci
+it-it,volume.neon.Decrease,più tranquillo
+it-it,volume.neon.Decrease,più basso
+it-it,volume.neon.Increase,aumenta
+it-it,volume.neon.Increase,incrementa
+it-it,volume.neon.Increase,aumentare
+it-it,volume.neon.Increase,più forte
+it-it,volume.neon.Increase,più alto
+it-it,volume.neon.Level,0
+it-it,volume.neon.Level,1
+it-it,volume.neon.Level,2
+it-it,volume.neon.Level,3
+it-it,volume.neon.Level,4
+it-it,volume.neon.Level,5
+it-it,volume.neon.Level,6
+it-it,volume.neon.Level,7
+it-it,volume.neon.Level,8
+it-it,volume.neon.Level,9
+it-it,volume.neon.Level,10
+it-it,volume.neon.Level,11
+it-it,volume.neon.Level,silenzioso
+it-it,volume.neon.Level,normale
+it-it,volume.neon.Level,forte
+it-it,volume.neon.Mute,muto
+it-it,volume.neon.Mute,silenzio
+it-it,volume.neon.Mute,silenzioso
+it-it,volume.neon.Unmute,reset
+it-it,volume.neon.Unmute,ripristina
+it-it,volume.neon.Volume,volume
+it-it,volume.neon.Volume,altoparlante
+it-it,volume.neon.Volume,audio
+it-it,volume.neon.Volume,suono
+it-it,weather.Forecast,previsione
+it-it,weather.Forecast,previsioni
+it-it,weather.Humidity,umidità
+it-it,weather.Later,prossima ora
+it-it,weather.Later,prossime ore
+it-it,weather.Later,alcune ore
+it-it,weather.Later,un paio d'ore
+it-it,weather.Later,più tardi
+it-it,weather.Location,Seattle
+it-it,weather.Location,Los Angeles california|los angeles|la
+it-it,weather.Location,Lawrence kansas
+it-it,weather.Location,portland oregon|portland
+it-it,weather.Location,spokane
+it-it,weather.Location,new york
+it-it,weather.Location,chicago
+it-it,weather.Location,houston
+it-it,weather.Location,austin
+it-it,weather.Location,san diego
+it-it,weather.Location,san francisco
+it-it,weather.Location,san jose
+it-it,weather.Location,boston
+it-it,weather.Location,washington d c
+it-it,weather.Location,atlanta
+it-it,weather.Next,prossimo
+it-it,weather.Next,quando
+it-it,weather.Next,sarà
+it-it,weather.Precipitation,pioggia
+it-it,weather.Precipitation,neve
+it-it,weather.Precipitation,precipitazione
+it-it,weather.Precipitation,piovoso
+it-it,weather.Precipitation,nevoso
+it-it,weather.Query,Come
+it-it,weather.Query,Che
+it-it,weather.Query,dimmi
+it-it,weather.Query,quando
+it-it,weather.Sunrise,alba
+it-it,weather.Sunrise,sorge
+it-it,weather.Sunset,tramonto
+it-it,weather.Sunset,crepuscolo
+it-it,weather.Sunset,tramonta
+it-it,weather.Weather,meteo
+it-it,weather.Weather,temperatura
+it-it,weather.Weather,quanto freddo
+it-it,weather.Weather,che freddo
+it-it,weather.Weather,quanto caldo
+it-it,weather.Weather,che caldo
+it-it,weather.WeatherType,pioggia|piovoso
+it-it,weather.WeatherType,neve|nevoso
+it-it,weather.WeatherType,nevischio
+it-it,weather.WeatherType,grandine|grandine
+it-it,weather.WeatherType,soleggiato|sole
+it-it,weather.WeatherType,caldo|calda
+it-it,weather.WeatherType,freddo|fresco
+it-it,weather.Windy,vento
+it-it,weather.Windy,ventoso
+it-it,weather.Windy,brezza
+it-it,weather.Windy,raffiche
+it-it,weather.Windy,sostenuto
+it-it,white-house-adventure.Delete,elimina
+it-it,white-house-adventure.Play,gioca
+it-it,white-house-adventure.Play,vai a
+it-it,white-house-adventure.Play,vai verso
+it-it,white-house-adventure.Save,salva
+it-it,white-house-adventure.Save,partita salvata
+it-it,white-house-adventure.Save,salvata
+it-it,white-house-adventure.Zork,zork
+it-it,white-house-adventure.Zork,cassetta della posta
+it-it,white-house-adventure.Zork,casa bianca

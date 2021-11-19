@@ -1,0 +1,64 @@
+{
+  "es-lm": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Bola de cristal",
+      "Espejito espejito"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "futuro",
+      "ma\u00f1ana"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "Dime",
+      "Qu\u00e9"
+    ],
+    "Number-Guess-Mycroft-Skill.NumberGuess": [
+      "Adivina el n\u00famero",
+      "juego de adivinar el n\u00famero"
+    ],
+    "Number-Guess-Mycroft-Skill.Play": [
+      "Jugar",
+      "Empieza una partida"
+    ],
+    "Number-Guess-Mycroft-Skill.Suggest": [
+      "Vamos",
+      "D\u00e9janos",
+      "Por qu\u00e9 no",
+      "Qu\u00e9 tal si",
+      "Deber\u00edamos"
+    ],
+    "cocktail.Again": [
+      "otra vez"
+    ],
+    "cocktail.Ingredients": [
+      "ingrediente",
+      "ingredientes"
+    ],
+    "cocktail.TellMe": [
+      "cu\u00e1les son",
+      "dime"
+    ],
+    "cocktail.What": [
+      "cu\u00e1l era",
+      "cu\u00e1les eran"
+    ],
+    "white-house-adventure.Delete": [
+      "borrar|borra"
+    ],
+    "white-house-adventure.Play": [
+      "jugar",
+      "ir a",
+      "ir a"
+    ],
+    "white-house-adventure.Save": [
+      "guardar",
+      "guardar partida",
+      "guardado"
+    ],
+    "white-house-adventure.Zork": [
+      "zork",
+      "bandeja de entrada",
+      "casa blanca"
+    ]
+  }
+}

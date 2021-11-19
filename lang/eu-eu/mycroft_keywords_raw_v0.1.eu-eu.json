@@ -1,0 +1,72 @@
+{
+  "eu-eu": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Kristalezko bola",
+      "Ispilutxo",
+      "Ispilutxoa"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "etorkizuna",
+      "bihar"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "Esaidazu|Esan|Esadazu",
+      "Zer|Zein"
+    ],
+    "Number-Guess-Mycroft-Skill.NumberGuess": [
+      "zenbakia asmatzeko (jolasa|jolasera|jolasean)",
+      "zenbakia (asmatzen|asmatzera)"
+    ],
+    "Number-Guess-Mycroft-Skill.Play": [
+      "jolastu",
+      "jolastera",
+      "jolastuko",
+      "jolasten",
+      "partida bat"
+    ],
+    "Number-Guess-Mycroft-Skill.Suggest": [
+      "Zergatik ez",
+      "Goazen"
+    ],
+    "dismissal-skill.Nevermind": [
+      "ahaztu",
+      "ezer ez",
+      "berdin dio",
+      "berdin da",
+      "lasai"
+    ],
+    "list-manager-skill.add": [
+      "gehitu",
+      "sortu",
+      "sartu",
+      "erantsi"
+    ],
+    "list-manager-skill.del": [
+      "kendu",
+      "ezabatu"
+    ],
+    "list-manager-skill.list": [
+      "zerrenda",
+      "zerrendak",
+      "zerrendan",
+      "zerrendara",
+      "zerrendatik",
+      "zerrendari",
+      "zerrendei"
+    ],
+    "list-manager-skill.what": [
+      "Zer dago",
+      "Zer dauka",
+      "Zer daukat",
+      "Esaidazu zer dagoen",
+      "Esaidazu zer daukan",
+      "Esaidazu zer daukadan",
+      "Esan zer dagoen",
+      "Esan zer daukan",
+      "Esan zer daukadan",
+      "Zein",
+      "Zer",
+      "Zeintzuk"
+    ]
+  }
+}

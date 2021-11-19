@@ -1,0 +1,86 @@
+da-dk,auto-volume-skill.activate,Aktivér auto volume
+da-dk,auto-volume-skill.activate,Sæt autovolumen til aktiv
+da-dk,auto-volume-skill.activate,Tænd auto volume
+da-dk,auto-volume-skill.activate,Sæt auto volume til
+da-dk,auto-volume-skill.deactivate,Deaktivér autovolumen
+da-dk,auto-volume-skill.deactivate,Sæt autovolume til inaktiv
+da-dk,auto-volume-skill.deactivate,Sluk auto volume
+da-dk,auto-volume-skill.deactivate,Sæt auto volume fra
+da-dk,auto-volume-skill.reset,Ryd autovolumenmålinger
+da-dk,auto-volume-skill.reset,Slet autovolumenmålinger
+da-dk,auto-volume-skill.reset,Nulstil autovolumenmålinger
+da-dk,cocktail.Needed,hvad skal bruges til (en) {drink}
+da-dk,cocktail.Needed,hvad behæver (jeg|du} (for|til) (at lave) (en) {drink}
+da-dk,cocktail.Needed,hvad er (indgridienser|indgridienserne) (i|for) (en) {drink}
+da-dk,cocktail.Recipie,hvordan (vil|kan) (jeg|du) (lave|mixe) (en) {drink}
+da-dk,cocktail.Recipie,fortæl (mig|os} hvordan man (laver|mixer) (en) {drink}
+da-dk,cocktail.Recipie,giv (mig|os) instruktion (for|til) (en) {drink}
+da-dk,cocktail.Recipie,hvordan (laver|mixes) (en) {drink}
+da-dk,cocktail.Recipie,hvad er receptien (for|på) (en) {drink}
+da-dk,count-skill.count,Tæl til {number}
+da-dk,count-skill.countdown,Tæller ned fra {number}
+da-dk,count-skill.countdown,Nedtælling fra {number}
+da-dk,count-skill.countdown,Tæl baglæns fra {number}
+da-dk,count-skill.countdown,Tæl baglæns fra {number}
+da-dk,count-skill.countdown,Tæl baglæns fra {number}
+da-dk,count-skill.countdown,Tæl ned fra {number}
+da-dk,count-skill.countdown,Tæl baglæns fra {number}
+da-dk,dice-skill.Dice,kast ({count}|) d {type} (+|plus|) ({modifier}|)
+da-dk,dice-skill.NormalDice,kast ({count}|) (terninger|terning)
+da-dk,dice-skill.Range,Generér et tilfældigt nummer fra {low} til {high}
+da-dk,dice-skill.Range,Generér et tilfældigt nummer mellem {low} og {high}
+da-dk,dice-skill.Range,Sig mit et nummer mellem {low} og {high}
+da-dk,dice-skill.Range,Giv mig et nummer mellem {low} og {high}
+da-dk,email-skill.check.email,kontroler min email
+da-dk,email-skill.check.email,kontroler min mail
+da-dk,email-skill.check.email,har jeg nogen nye emails
+da-dk,email-skill.check.email,har jeg nogen emails
+da-dk,email-skill.check.email,har jeg nogen nye emails
+da-dk,emby-skill.emby,spil {media} fra emby
+da-dk,emby-skill.emby,spil {media} fra mb
+da-dk,iss-tracker-skill.tracker.iss,Hvor er den internationale rumstation
+da-dk,iss-tracker-skill.tracker.iss,Lokaliser I S S 
+da-dk,iss-tracker-skill.tracker.iss,Hvor er I S S 
+da-dk,laugh.Laugh,Grin ligesom Alexa
+da-dk,laugh.Laugh,kan du grine
+da-dk,laugh.Laugh,ond (latter|grin|grine)
+da-dk,laugh.RandomLaugh,grin tilfældigt
+da-dk,laugh.RandomLaugh,trigger tilfældig (latter|grin)
+da-dk,laugh.RandomLaugh,tilfældig (latter|grin)
+da-dk,moviemaster.genre.movie.search,(list | find) film der er (i genren | en) {genre}
+da-dk,moviemaster.genre.movie.search,(list | find) {genre} film
+da-dk,moviemaster.genre.tv.search,(list | find) (tv-shows | fjernsynsprogrammer | programmer) der er (en |) {genre}
+da-dk,moviemaster.genre.tv.search,(list | find) {genre} (tv-shows | fjernsnsprogrammer | programmer)
+da-dk,moviemaster.movie.cast,hvem (spiller | er) i (film | filmen) {movie}
+da-dk,moviemaster.movie.description,Hvad er (film | filmen) {movie} om
+da-dk,moviemaster.movie.description,fortæl (|mig | os) om (film | filmen) {movie}
+da-dk,moviemaster.movie.description,giv (mig | os) en (beskrivelse | synopsis) (af|om) (film | filmen) {movie}
+da-dk,moviemaster.movie.genres,Hvilke genrer tilhører (film | filmen | flick) {movie}
+da-dk,moviemaster.movie.genres,hvad er genren til (film | filmen | flick) {movie}
+da-dk,moviemaster.movie.information,(find | slå op | er der) (information | info) (på | om) (film | filmen) {movie}
+da-dk,moviemaster.movie.information,(oplys | fortæl | find) (| mig | os) (information | info) (på | om) (film | filmen) {movie}
+da-dk,moviemaster.movie.popular,(liste | søgning | søg efter) populære film
+da-dk,moviemaster.movie.popular,hvad er (| de) populære film (der spiller | er ude) nu
+da-dk,moviemaster.movie.production,(hvem | hvilket firma) (produceret | lavet) filmen {movie}
+da-dk,moviemaster.movie.recommendations,anbefal en film der (ligner | lignende) {movie}
+da-dk,moviemaster.movie.recommendations,hvilke film (ville | kan) du anbefale (der ligner | der lignende) {movie}
+da-dk,moviemaster.movie.recommendations,(list | få) (gode|) film (der ligner | der lignende) {movie}
+da-dk,moviemaster.movie.runtime,Hvor lang tid (er|varer) (filmen|)  {movie}
+da-dk,moviemaster.movie.runtime,Hvad er spiletiden (for|på) (filmen|) (film)
+da-dk,moviemaster.movie.runtime,Få (runtime | længden) af (film | film | flick) {movie}
+da-dk,moviemaster.movie.top,(list | hvad er | søg efter) de (top | mest populære | højst vurderede) film (der spiller | er ude) (| nu)
+da-dk,moviemaster.movie.year,(hvilket år | hvornår | hvilken dato) var filmen {movie} (lavet | frigivet)
+da-dk,moviemaster.tmdb,Hvad er filmen {movie} om
+da-dk,moviemaster.tmdb,Fortæl mig om filmen {movie}
+da-dk,moviemaster.tmdb,Hvem spiller i filmen {movie}
+da-dk,moviemaster.tmdb,Fortæl mig om skuespilleren {actor}
+da-dk,moviemaster.tmdb,Hvornår blev filmen {movie} lavet
+da-dk,wikiquote-skill.random,fortæl mig (nogle | noget | et) (citat | visdom | klogt)
+da-dk,wikiquote-skill.random,giv mig (nogle | et | noget ) (citat | visdom | klogt)
+da-dk,wikiquote-skill.random,Jeg behøver noget klogt
+da-dk,wikiquote-skill.specific,fortæl mig (nogle | en | et |noget) {subject} (citat | visdom | klogt)
+da-dk,wikiquote-skill.specific,giv mig (nogle | en | et | noget) {subject} (citat | visdom|klogt)
+da-dk,wikiquote-skill.specific,Jeg har brug for noget {subject} (citat | visdom | klogt)
+da-dk,wikiquote-skill.specific,fortæl mig et citat (fra | om) {subject}
+da-dk,wikiquote-skill.specific,Giv mig et citat (fra | om) {subject}
+da-dk,wikiquote-skill.specific,Jeg har brug for et tilbud (fra | om) {subject}

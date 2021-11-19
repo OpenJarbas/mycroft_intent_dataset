@@ -1,0 +1,64 @@
+eu-eu,auto-volume-skill.activate,Aktibatu bolumen automatikoa
+eu-eu,auto-volume-skill.activate,Bolumen automatikoa aktibatu
+eu-eu,auto-volume-skill.activate,Piztu bolumen automatikoa
+eu-eu,auto-volume-skill.activate,Bolumen automatikoa piztu
+eu-eu,auto-volume-skill.deactivate,Bolumen automatikoa desaktibatu
+eu-eu,auto-volume-skill.deactivate,Desaktibatu bolumen automatikoa
+eu-eu,auto-volume-skill.deactivate,Bolumen automatikoa itzali
+eu-eu,auto-volume-skill.deactivate,Itzali bolumen automatikoa
+eu-eu,auto-volume-skill.reset,Garbitu bolumen automatikoaren neurketak
+eu-eu,auto-volume-skill.reset,Ezabatu bolumen automatikoaren neurketak
+eu-eu,auto-volume-skill.reset,Berrezarri bolumen automatikoaren neurketak
+eu-eu,auto-volume-skill.reset,Bolumen automatikoaren neurketak garbitu
+eu-eu,auto-volume-skill.reset,Bolumen automatikoaren neurketak ezabatu
+eu-eu,auto-volume-skill.reset,Bolumen automatikoaren neurketak berrezarri
+eu-eu,count-skill.count,Kontatu {number} arte
+eu-eu,count-skill.countdown,kontatu atzeraka {number}tik
+eu-eu,count-skill.countdown,kontatu atzeraka {number}tik hasita
+eu-eu,count-skill.countdown,kontatu atzeraka {number}etik
+eu-eu,count-skill.countdown,kontatu atzeraka {number}etik hasita
+eu-eu,count-skill.countdown,kontatu atzeraka {number}retik
+eu-eu,count-skill.countdown,kontatu atzeraka {number}retik hasita
+eu-eu,iss-tracker-skill.tracker.iss,non dago I Ese Ese
+eu-eu,iss-tracker-skill.tracker.iss,non dago ISS
+eu-eu,iss-tracker-skill.tracker.iss,non dago Nazioarteko Espazio Estazioa
+eu-eu,iss-tracker-skill.tracker.iss,kokatu I Ese Ese
+eu-eu,iss-tracker-skill.tracker.iss,kokatu ISS
+eu-eu,iss-tracker-skill.tracker.iss,kokatu Nazioarteko Espazio Estazioa
+eu-eu,iss-tracker-skill.tracker.iss,Aurkitu I Ese Ese
+eu-eu,iss-tracker-skill.tracker.iss,Aurkitu ISS
+eu-eu,iss-tracker-skill.tracker.iss,Aurkitu Nazioarteko Espazio Estazioa
+eu-eu,wikiquote-skill.random,Jakinduria apur bat
+eu-eu,wikiquote-skill.random,Jakinduria apur bat behar dut
+eu-eu,wikiquote-skill.random,Jakinduria pixka bat
+eu-eu,wikiquote-skill.random,Jakinduria pixka bat behar dut
+eu-eu,wikiquote-skill.random,esaidazu aipuren bat
+eu-eu,wikiquote-skill.random,esadazu aipuren bat
+eu-eu,wikiquote-skill.random,esan aipuren bat
+eu-eu,wikiquote-skill.random,emaidazu aipuren bat
+eu-eu,wikiquote-skill.random,emadazu aipuren bat
+eu-eu,wikiquote-skill.random,eman aipuren bat
+eu-eu,wikiquote-skill.specific,esaidazu {subject} ren aipu bat
+eu-eu,wikiquote-skill.specific,esaidazu {subject} ren esaldi bat
+eu-eu,wikiquote-skill.specific,esaidazu {subject} en aipu bat
+eu-eu,wikiquote-skill.specific,esaidazu {subject} en esaldi bat
+eu-eu,wikiquote-skill.specific,esadazu {subject} ren aipu bat
+eu-eu,wikiquote-skill.specific,esadazu {subject} ren esaldi bat
+eu-eu,wikiquote-skill.specific,esadazu {subject} en aipu bat
+eu-eu,wikiquote-skill.specific,esadazu {subject} en esaldi bat
+eu-eu,wikiquote-skill.specific,esan {subject} ren aipu bat
+eu-eu,wikiquote-skill.specific,esan {subject} ren esaldi bat
+eu-eu,wikiquote-skill.specific,esan {subject} en aipu bat
+eu-eu,wikiquote-skill.specific,esan {subject} en esaldi bat
+eu-eu,wikiquote-skill.specific,emaidazu {subject} ren aipu bat
+eu-eu,wikiquote-skill.specific,emaidazu {subject} ren esaldi bat
+eu-eu,wikiquote-skill.specific,emaidazu {subject} en aipu bat
+eu-eu,wikiquote-skill.specific,emaidazu {subject} en esaldi bat
+eu-eu,wikiquote-skill.specific,emadazu {subject} ren aipu bat
+eu-eu,wikiquote-skill.specific,emadazu {subject} ren esaldi bat
+eu-eu,wikiquote-skill.specific,emadazu {subject} en aipu bat
+eu-eu,wikiquote-skill.specific,emadazu {subject} en esaldi bat
+eu-eu,wikiquote-skill.specific,eman {subject} ren aipu bat
+eu-eu,wikiquote-skill.specific,eman {subject} ren esaldi bat
+eu-eu,wikiquote-skill.specific,eman {subject} en aipu bat
+eu-eu,wikiquote-skill.specific,eman {subject} en esaldi bat

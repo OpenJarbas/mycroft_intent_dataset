@@ -1,0 +1,133 @@
+{
+  "pt-pt": {
+    "alarm.AlarmSkillAmount": [
+      "todos|todos meus",
+      "1|um",
+      "2|dois",
+      "o pr\u00f3ximo",
+      "o seguinte"
+    ],
+    "alarm.AlarmSkillCreateVerb": [
+      "temporizador",
+      "temporizadores",
+      "alarme",
+      "alarmes"
+    ],
+    "alarm.AlarmSkillDeleteVerb": [
+      "apagar",
+      "cancelar",
+      "apagar",
+      "remover"
+    ],
+    "alarm.AlarmSkillKeyword": [
+      "temporizador",
+      "temporizadores",
+      "alarme",
+      "alarmes"
+    ],
+    "alarm.AlarmSkillListVerb": [
+      "mostrar",
+      "lista"
+    ],
+    "alarm.AlarmSkillStopVerb": [
+      "desligar",
+      "terminar",
+      "parar"
+    ],
+    "joke.Adult": [
+      "adulta",
+      "adulto",
+      "sexy",
+      "sexo",
+      "sexual",
+      "porca",
+      "marota"
+    ],
+    "joke.Chuck": [
+      "chuck",
+      "chuck norris"
+    ],
+    "joke.Joke": [
+      "piada",
+      "anedota",
+      "piadas",
+      "anedotas",
+      "faz me rir",
+      "faz rir",
+      "alegra meu dia",
+      "alegra o meu dia"
+    ],
+    "joke.Neutral": [
+      "neutra",
+      "n\u00e3o ofensiva",
+      "nao ofensiva",
+      "limpa",
+      "nerd",
+      "geeky"
+    ],
+    "krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword": [
+      "procura neste computador p\u00f4r",
+      "procura neste",
+      "procura computador p\u00f4r",
+      "procura ficheiro",
+      "procura nome do ficheiro",
+      "procura o computador p\u00f4r",
+      "procura sistema",
+      "sistema",
+      "sistema procura",
+      "sistema procura ficheiro",
+      "encontrar ficheiro",
+      "procura ficheiro"
+    ],
+    "krunner-search-skill.RecentFileKeyword": [
+      "display recent ",
+      "display recent files",
+      "display recent documents",
+      "recent documents",
+      "recent files"
+    ],
+    "laugh.Laugh": [
+      "riso",
+      "risadas",
+      "gargalhadas"
+    ],
+    "laugh.Stop": [
+      "aborta",
+      "cancela",
+      "para"
+    ],
+    "plasma-activities-skill.ActivitiesCreateKeyword": [
+      "criar a nova actividade",
+      "criar nova actividade",
+      "criar actividade",
+      "iniciar a nova actividade",
+      "criar novas actividades",
+      "iniciar novas actividades",
+      "criar actividades",
+      "nova actividade",
+      "novas actividades"
+    ],
+    "plasma-activities-skill.ActivitiesRemoveKeyword": [
+      "remove activity",
+      "remover actividade",
+      "remover a actividade",
+      "apagar actividade",
+      "apagara actividade"
+    ],
+    "plasma-activities-skill.ActivitiesShowKeyword": [
+      "mostar actuais actividades",
+      "mostrar actividades",
+      "actividades",
+      "exibir actuais actividades",
+      "exibir actividades"
+    ],
+    "plasma-activities-skill.ActivitiesStopKeyword": [
+      "parar actual actividade",
+      "parar actividade"
+    ],
+    "plasma-activities-skill.ActivitiesSwitchKeyword": [
+      "mudar acutal actividade",
+      "mudar actividade"
+    ]
+  }
+}

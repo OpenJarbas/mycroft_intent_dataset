@@ -1,0 +1,844 @@
+fr-fr,auto-volume-skill.activate,Activer le volume automatique
+fr-fr,auto-volume-skill.activate,Activer le volume automatique
+fr-fr,auto-volume-skill.activate,Allumer le volume automatique
+fr-fr,auto-volume-skill.activate,Active le volume automatique
+fr-fr,auto-volume-skill.deactivate,Désactiver le volume automatique
+fr-fr,auto-volume-skill.deactivate,Désactiver le volume automatique
+fr-fr,auto-volume-skill.deactivate,Éteindre le volume automatique
+fr-fr,auto-volume-skill.deactivate,Désactive le volume automatique
+fr-fr,auto-volume-skill.reset,Supprimer les mesures du volume automatique
+fr-fr,auto-volume-skill.reset,Effacer les mesures du volume automatique
+fr-fr,auto-volume-skill.reset,Réinitialiser les mesures du volume automatique
+fr-fr,cocktail.Needed,De quoi a-t-on besoin pour faire une {drink}
+fr-fr,cocktail.Needed,De quoi a-t-on besoin pour faire un {drink}
+fr-fr,cocktail.Needed,De quoi tu auras besoin pour faire une {drink}
+fr-fr,cocktail.Needed,De quoi tu auras besoin pour faire un {drink}
+fr-fr,cocktail.Needed,De quoi tu auras besoin pour une {drink}
+fr-fr,cocktail.Needed,De quoi tu auras besoin pour un {drink}
+fr-fr,cocktail.Needed,De quoi j'aurai besoin pour faire une {drink}
+fr-fr,cocktail.Needed,De quoi j'aurai besoin pour faire un {drink}
+fr-fr,cocktail.Needed,De quoi j'aurai besoin pour une {drink}
+fr-fr,cocktail.Needed,De quoi j'aurai besoin pour un {drink}
+fr-fr,cocktail.Needed,Quels sont les ingrédient pour une {drink}
+fr-fr,cocktail.Needed,Quels sont les ingrédient pour un {drink}
+fr-fr,cocktail.Needed,Quels sont les ingrédient d' une {drink}
+fr-fr,cocktail.Needed,Quels sont les ingrédient d' un {drink}
+fr-fr,cocktail.Needed,Quels sont les ingrédients pour une {drink}
+fr-fr,cocktail.Needed,Quels sont les ingrédients pour un {drink}
+fr-fr,cocktail.Needed,Quels sont les ingrédients d' une {drink}
+fr-fr,cocktail.Needed,Quels sont les ingrédients d' un {drink}
+fr-fr,cocktail.Recipie,Comment dois tu préparer une {drink}
+fr-fr,cocktail.Recipie,Comment dois tu préparer un {drink}
+fr-fr,cocktail.Recipie,Comment dois tu faire une {drink}
+fr-fr,cocktail.Recipie,Comment dois tu faire un {drink}
+fr-fr,cocktail.Recipie,Comment dois je préparer une {drink}
+fr-fr,cocktail.Recipie,Comment dois je préparer un {drink}
+fr-fr,cocktail.Recipie,Comment dois je faire une {drink}
+fr-fr,cocktail.Recipie,Comment dois je faire un {drink}
+fr-fr,cocktail.Recipie,dis nous comment préparer une {drink}
+fr-fr,cocktail.Recipie,dis nous comment préparer un {drink}
+fr-fr,cocktail.Recipie,dis nous comment faire une {drink}
+fr-fr,cocktail.Recipie,dis nous comment faire un {drink}
+fr-fr,cocktail.Recipie,dis moi comment préparer une {drink}
+fr-fr,cocktail.Recipie,dis moi comment préparer un {drink}
+fr-fr,cocktail.Recipie,dis moi comment faire une {drink}
+fr-fr,cocktail.Recipie,dis moi comment faire un {drink}
+fr-fr,cocktail.Recipie,donne nous les instructions pour une {drink}
+fr-fr,cocktail.Recipie,donne nous les instructions pour un {drink}
+fr-fr,cocktail.Recipie,donne moi les instructions pour une {drink}
+fr-fr,cocktail.Recipie,donne moi les instructions pour un {drink}
+fr-fr,cocktail.Recipie,comment préparer une {drink}
+fr-fr,cocktail.Recipie,comment préparer un {drink}
+fr-fr,cocktail.Recipie,comment faire une {drink}
+fr-fr,cocktail.Recipie,comment faire un {drink}
+fr-fr,cocktail.Recipie,Quelle est la recette pour une {drink}
+fr-fr,cocktail.Recipie,Quelle est la recette pour un {drink}
+fr-fr,count-skill.count,Compte jusqu'à {number}
+fr-fr,count-skill.countdown,Compte à rebours depuis {number}
+fr-fr,count-skill.countdown,Compte à rebours depuis {number}
+fr-fr,count-skill.countdown,Compte à l'envers depuis {number}
+fr-fr,count-skill.countdown,Compte à l'envers depuis {number}
+fr-fr,count-skill.countdown,Compte à rebours depuis {number}
+fr-fr,count-skill.countdown,Compte à rebours depuis {number}.
+fr-fr,count-skill.countdown,Compte à rebours depuis {number}
+fr-fr,ddg.birthdate,quand est né {person}
+fr-fr,ddg.birthdate,quelle est la date de naissance de {person}
+fr-fr,ddg.birthdate,quand {person} est né
+fr-fr,ddg.search_duck,cherche sur duck duck go au sujet de {query}
+fr-fr,ddg.search_duck,cherche sur duck duck au sujet de {query}
+fr-fr,ddg.search_duck,demande à duck duck à propos de {query}
+fr-fr,ddg.search_duck,demande à duck duck go à propos de {query}
+fr-fr,ddg.search_duck,que dit duck duck go à propos de {query}
+fr-fr,ddg.search_duck,que dit duck duck à propos de {query}
+fr-fr,ddg.search_duck,cherche sur duck au sujet de {query}
+fr-fr,ddg.search_duck,que dit duck à propos de {query}
+fr-fr,ddg.who,qui est {person}
+fr-fr,dice-skill.Dice,lancer d {type}
+fr-fr,dice-skill.Dice,lancer d {type} {modifier}
+fr-fr,dice-skill.Dice,lancer d {type} plus
+fr-fr,dice-skill.Dice,lancer d {type} plus {modifier}
+fr-fr,dice-skill.Dice,lancer d {type} +
+fr-fr,dice-skill.Dice,lancer d {type} + {modifier}
+fr-fr,dice-skill.Dice,lancer {count} d {type}
+fr-fr,dice-skill.Dice,lancer {count} d {type} {modifier}
+fr-fr,dice-skill.Dice,lancer {count} d {type} plus
+fr-fr,dice-skill.Dice,lancer {count} d {type} plus {modifier}
+fr-fr,dice-skill.Dice,lancer {count} d {type} +
+fr-fr,dice-skill.Dice,lancer {count} d {type} + {modifier}
+fr-fr,dice-skill.NormalDice,lancer le dé
+fr-fr,dice-skill.NormalDice,lancer les dés
+fr-fr,dice-skill.NormalDice,lancer {count} le dé
+fr-fr,dice-skill.NormalDice,lancer {count} les dés
+fr-fr,dice-skill.Range,Génère un nombre aléatoire entre {low} et {high}
+fr-fr,dice-skill.Range,Génère un nombre aléatoire entre {low} et {high}
+fr-fr,dice-skill.Range,Donne-moi un nombre entre {low} et {high}
+fr-fr,dice-skill.Range,Dis-moi un nombre entre {low} et {high}
+fr-fr,email-skill.check.email,mettre à jour mes courriels
+fr-fr,email-skill.check.email,mettre à jour mes courriels
+fr-fr,email-skill.check.email,est-ce que j'ai des nouveaux courriels
+fr-fr,email-skill.check.email,est-ce que j'ai des nouveaux courriels
+fr-fr,email-skill.check.email,est-ce que j'ai des nouveaux courriels
+fr-fr,email-skill.enquire.email,Est-ce que j'ai des courriels de l’adresse {email}
+fr-fr,email-skill.enquire.email,AI-je reçu des courriel de {email}
+fr-fr,email-skill.enquire.email,AI-je reçu des mail de {email}
+fr-fr,email-skill.enquire.email,AI-je reçu des email de {email}
+fr-fr,email-skill.enquire.email,AI-je reçu un courriel de {email}
+fr-fr,email-skill.enquire.email,AI-je reçu un mail de {email}
+fr-fr,email-skill.enquire.email,AI-je reçu un email de {email}
+fr-fr,email-skill.enquire.email,Ai-je reçu des courriels de {email}
+fr-fr,email-skill.notify,parle moi de mes mails
+fr-fr,email-skill.notify,parle moi de mes courriels
+fr-fr,email-skill.notify,parle moi de mes emails
+fr-fr,email-skill.notify,dis-moi quand je reçois un nouveau courriel
+fr-fr,email-skill.notify,dis-moi quand je reçois un nouvel email
+fr-fr,email-skill.notify,dis-moi quand je reçois un nouveau mail
+fr-fr,email-skill.notify,dis-moi quand je reçois un courriel
+fr-fr,email-skill.notify,dis-moi quand je reçois un email
+fr-fr,email-skill.notify,dis-moi quand je reçois un mail
+fr-fr,email-skill.notify,dis-moi quand je reçois un email provenant de {sender}
+fr-fr,email-skill.notify,dis-moi quand je reçois un email de {sender}
+fr-fr,email-skill.notify,dis-moi quand je reçois un courriel provenant de {sender}
+fr-fr,email-skill.notify,dis-moi quand je reçois un courriel de {sender}
+fr-fr,email-skill.notify,dis-moi quand je reçois un mail provenant de {sender}
+fr-fr,email-skill.notify,dis-moi quand je reçois un mail de {sender}
+fr-fr,email-skill.notify,parle-me des courriels provenant de {sender}
+fr-fr,email-skill.notify,parle-me des courriels de {sender}
+fr-fr,email-skill.notify,parle-me des emails provenant de {sender}
+fr-fr,email-skill.notify,parle-me des emails de {sender}
+fr-fr,email-skill.notify,parle-me des mails provenant de {sender}
+fr-fr,email-skill.notify,parle-me des mails de {sender}
+fr-fr,email-skill.notify,notifie moi des nouveaux courriels
+fr-fr,email-skill.notify,notifie moi des nouveaux mails
+fr-fr,email-skill.notify,notifie moi des nouveaux emails
+fr-fr,email-skill.notify,notifie moi des courriels
+fr-fr,email-skill.notify,notifie moi des mails
+fr-fr,email-skill.notify,notifie moi des emails
+fr-fr,email-skill.notify,M'avertir quand je reçois un nouveau courriel de {sender}
+fr-fr,email-skill.notify,M'avertir quand je reçois un courriel de {sender}
+fr-fr,email-skill.notify,M'avertir quand je reçois un nouveau message de {sender}
+fr-fr,email-skill.notify,M'avertir quand je reçois un message de {sender}
+fr-fr,email-skill.notify,M'avertir quand je reçois un nouveau courriel
+fr-fr,email-skill.notify,M'avertir quand je reçois un nouveau message
+fr-fr,email-skill.notify,M'avertir quand je reçois un courriel
+fr-fr,email-skill.notify,M'avertir quand je reçois un message
+fr-fr,email-skill.notify,dis-moi quand je reçois un email provenant de {sender}
+fr-fr,email-skill.notify,dis-moi quand je reçois un email de {sender}
+fr-fr,email-skill.notify,dis-moi quand je reçois un courriel provenant de {sender}
+fr-fr,email-skill.notify,dis-moi quand je reçois un courriel de {sender}
+fr-fr,email-skill.notify,dis-moi quand je reçois un mail provenant de {sender}
+fr-fr,email-skill.notify,dis-moi quand je reçois un mail de {sender}
+fr-fr,email-skill.stop,ne me notifie pas de nouveaux mails
+fr-fr,email-skill.stop,ne me notifie pas de nouveaux emails
+fr-fr,email-skill.stop,ne me notifie pas de nouveaux courriels
+fr-fr,email-skill.stop,ne me notifie pas de mails
+fr-fr,email-skill.stop,ne me notifie pas de email
+fr-fr,email-skill.stop,ne me notifie pas de courriels
+fr-fr,email-skill.stop,ne m'avertis pas quand je reçois un nouveau mail par {sender}
+fr-fr,email-skill.stop,ne m'avertis pas quand je reçois un nouveau mail de {sender}
+fr-fr,email-skill.stop,ne m'avertis pas quand je reçois un nouveau courriel par {sender}
+fr-fr,email-skill.stop,ne m'avertis pas quand je reçois un nouveau courriel de {sender}
+fr-fr,email-skill.stop,ne m'avertis pas quand je reçois un mail par {sender}
+fr-fr,email-skill.stop,ne m'avertis pas quand je reçois un mail de {sender}
+fr-fr,email-skill.stop,ne m'avertis pas quand je reçois un courriel par {sender}
+fr-fr,email-skill.stop,ne m'avertis pas quand je reçois un courriel de {sender}
+fr-fr,email-skill.stop,Ne m'avertis plus des nouveaux courriels
+fr-fr,email-skill.stop,Ne m'avertis plus des nouveaux mails
+fr-fr,email-skill.stop,Ne m'avertis plus des nouveaux emails
+fr-fr,email-skill.stop,Ne m'avertis plus des courriels
+fr-fr,email-skill.stop,Ne m'avertis plus des mails
+fr-fr,email-skill.stop,Ne m'avertis plus des emails
+fr-fr,email-skill.stop,Ne m'avertis pas des nouveaux courriels
+fr-fr,email-skill.stop,Ne m'avertis pas des nouveaux mails
+fr-fr,email-skill.stop,Ne m'avertis pas des nouveaux emails
+fr-fr,email-skill.stop,Ne m'avertis pas des courriels
+fr-fr,email-skill.stop,Ne m'avertis pas des mails
+fr-fr,email-skill.stop,Ne m'avertis pas des emails
+fr-fr,email-skill.stop,Arrête de m'avertir lorsque je reçois un nouveau mail par {sender}
+fr-fr,email-skill.stop,Arrête de m'avertir lorsque je reçois un nouveau mail de {sender}
+fr-fr,email-skill.stop,Arrête de m'avertir lorsque je reçois un nouveau courriel par {sender}
+fr-fr,email-skill.stop,Arrête de m'avertir lorsque je reçois un nouveau courriel de {sender}
+fr-fr,email-skill.stop,Arrête de m'avertir lorsque je reçois un mail par {sender}
+fr-fr,email-skill.stop,Arrête de m'avertir lorsque je reçois un mail de {sender}
+fr-fr,email-skill.stop,Arrête de m'avertir lorsque je reçois un courriel par {sender}
+fr-fr,email-skill.stop,Arrête de m'avertir lorsque je reçois un courriel de {sender}
+fr-fr,email-skill.stop,ne me notifie pas des nouveaux courriels
+fr-fr,email-skill.stop,ne me notifie pas des nouveaux mails
+fr-fr,email-skill.stop,ne me notifie pas des nouveaux emails
+fr-fr,email-skill.stop,ne me notifie pas des courriels
+fr-fr,email-skill.stop,ne me notifie pas des mails
+fr-fr,email-skill.stop,ne me notifie pas des emails
+fr-fr,email-skill.stop,ne me notifie pas de nouveaux courriels
+fr-fr,email-skill.stop,ne me notifie pas de nouveaux mails
+fr-fr,email-skill.stop,ne me notifie pas de nouveaux emails
+fr-fr,email-skill.stop,ne me notifie pas de courriels
+fr-fr,email-skill.stop,ne me notifie pas de mails
+fr-fr,email-skill.stop,ne me notifie pas de emails
+fr-fr,email-skill.stop,ne me notifie pas d' nouveaux courriels
+fr-fr,email-skill.stop,ne me notifie pas d' nouveaux mails
+fr-fr,email-skill.stop,ne me notifie pas d' nouveaux emails
+fr-fr,email-skill.stop,ne me notifie pas d' courriels
+fr-fr,email-skill.stop,ne me notifie pas d' mails
+fr-fr,email-skill.stop,ne me notifie pas d' emails
+fr-fr,email-skill.stop,ne me parle pas des nouveaux courriels
+fr-fr,email-skill.stop,ne me parle pas des nouveaux mails
+fr-fr,email-skill.stop,ne me parle pas des nouveaux emails
+fr-fr,email-skill.stop,ne me parle pas des courriels
+fr-fr,email-skill.stop,ne me parle pas des mails
+fr-fr,email-skill.stop,ne me parle pas des emails
+fr-fr,email-skill.stop,ne me parle pas de nouveaux courriels
+fr-fr,email-skill.stop,ne me parle pas de nouveaux mails
+fr-fr,email-skill.stop,ne me parle pas de nouveaux emails
+fr-fr,email-skill.stop,ne me parle pas de courriels
+fr-fr,email-skill.stop,ne me parle pas de mails
+fr-fr,email-skill.stop,ne me parle pas de emails
+fr-fr,email-skill.stop,ne me parle pas d' nouveaux courriels
+fr-fr,email-skill.stop,ne me parle pas d' nouveaux mails
+fr-fr,email-skill.stop,ne me parle pas d' nouveaux emails
+fr-fr,email-skill.stop,ne me parle pas d' courriels
+fr-fr,email-skill.stop,ne me parle pas d' mails
+fr-fr,email-skill.stop,ne me parle pas d' emails
+fr-fr,email-skill.stop,Ne m'averti pas quand je reçois un nouveau courriel par {sender}
+fr-fr,email-skill.stop,Ne m'averti pas quand je reçois un nouveau courriel de {sender}
+fr-fr,email-skill.stop,Ne m'averti pas quand je reçois un courriel par {sender}
+fr-fr,email-skill.stop,Ne m'averti pas quand je reçois un courriel de {sender}
+fr-fr,email-skill.stop,Ne m'averti pas quand je reçois un nouveau message par {sender}
+fr-fr,email-skill.stop,Ne m'averti pas quand je reçois un nouveau message de {sender}
+fr-fr,email-skill.stop,Ne m'averti pas quand je reçois un message par {sender}
+fr-fr,email-skill.stop,Ne m'averti pas quand je reçois un message de {sender}
+fr-fr,email-skill.stop,ne me parle plus de nouveaux courriels
+fr-fr,email-skill.stop,ne me parle plus de nouveaux mails
+fr-fr,email-skill.stop,ne me parle plus de nouveaux courriels
+fr-fr,email-skill.stop,ne me parle plus de mails
+fr-fr,email-skill.stop,ne me parle plus de courriels
+fr-fr,email-skill.stop,ne me parle plus de nouveau mails par {sender}
+fr-fr,email-skill.stop,ne me parle plus de nouveau mails de {sender}
+fr-fr,email-skill.stop,ne me parle plus de nouveau courriel par {sender}
+fr-fr,email-skill.stop,ne me parle plus de nouveau courriel de {sender}
+fr-fr,email-skill.stop,ne me parle plus de mail par {sender}
+fr-fr,email-skill.stop,ne me parle plus de mail de {sender}
+fr-fr,email-skill.stop,ne me parle plus de courriel par {sender}
+fr-fr,email-skill.stop,ne me parle plus de courriel de {sender}
+fr-fr,emby-skill.diagnostic,vérifie la connexion émily
+fr-fr,emby-skill.diagnostic,vérifie la connexion n vi
+fr-fr,emby-skill.diagnostic,vérifie la connexion m vi
+fr-fr,emby-skill.diagnostic,vérifie la connexion m bi
+fr-fr,emby-skill.diagnostic,vérifie la connexion aimby
+fr-fr,emby-skill.diagnostic,exécute un diagnostic émily
+fr-fr,emby-skill.diagnostic,exécute un diagnostic n vi
+fr-fr,emby-skill.diagnostic,exécute un diagnostic m vi
+fr-fr,emby-skill.diagnostic,exécute un diagnostic m bi
+fr-fr,emby-skill.diagnostic,exécute un diagnostic aimby
+fr-fr,emby-skill.diagnostic,exécute le diagnostic émily
+fr-fr,emby-skill.diagnostic,exécute le diagnostic n vi
+fr-fr,emby-skill.diagnostic,exécute le diagnostic m vi
+fr-fr,emby-skill.diagnostic,exécute le diagnostic m bi
+fr-fr,emby-skill.diagnostic,exécute le diagnostic aimby
+fr-fr,emby-skill.diagnostic,vérifie émily
+fr-fr,emby-skill.diagnostic,vérifie n vi
+fr-fr,emby-skill.diagnostic,vérifie m vi
+fr-fr,emby-skill.diagnostic,vérifie m bi
+fr-fr,emby-skill.diagnostic,vérifie aimby
+fr-fr,emby-skill.emby,Lire {media} avec emby
+fr-fr,emby-skill.emby,lire {media} avec mb
+fr-fr,emby-skill.emby,jouer l'artiste {artist} qui se trouve sur aimby
+fr-fr,emby-skill.emby,jouer l'artiste {artist} de aimby
+fr-fr,emby-skill.emby,joue l'artiste {artist} qui se trouve sur aimby
+fr-fr,emby-skill.emby,joue l'artiste {artist} de aimby
+fr-fr,emby-skill.emby,jouer l'artiste {artist} qui se trouve sur m bi
+fr-fr,emby-skill.emby,jouer l'artiste {artist} de m bi
+fr-fr,emby-skill.emby,joue l'artiste {artist} qui se trouve sur m bi
+fr-fr,emby-skill.emby,joue l'artiste {artist} de m bi
+fr-fr,emby-skill.emby,jouer l'album {album} qui se trouve sur emby
+fr-fr,emby-skill.emby,jouer l'album {album} de emby
+fr-fr,emby-skill.emby,joue l'album {album} qui se trouve sur emby
+fr-fr,emby-skill.emby,joue l'album {album} de emby
+fr-fr,emby-skill.emby,jouer l'album {album} qui se trouve sur m bi
+fr-fr,emby-skill.emby,jouer l'album {album} de m bi
+fr-fr,emby-skill.emby,joue l'album {album} qui se trouve sur m bi
+fr-fr,emby-skill.emby,joue l'album {album} de m bi
+fr-fr,fairytalez-skill.continue,Continue l'histoire
+fr-fr,fairytalez-skill.continue,Continue à raconter l'histoire
+fr-fr,fairytalez-skill.continue,Continue le conte de fées
+fr-fr,fairytalez-skill.continue,Continue de raconter le conte de fées
+fr-fr,fairytalez-skill.continue,Continue le conte de fées
+fr-fr,fairytalez-skill.continue,Continue avec le conte de fée
+fr-fr,fairytalez-skill.continue,Continue avec le conte de fée
+fr-fr,fairytalez-skill.fairytalez,Lis un bon compte de fée
+fr-fr,fairytalez-skill.fairytalez,Lis un bon histoire
+fr-fr,fairytalez-skill.fairytalez,Lis un e bonne compte de fée
+fr-fr,fairytalez-skill.fairytalez,Lis un e bonne histoire
+fr-fr,fairytalez-skill.fairytalez,Lis moi un bon compte de fée
+fr-fr,fairytalez-skill.fairytalez,Lis moi un bon histoire
+fr-fr,fairytalez-skill.fairytalez,Lis moi un e bonne compte de fée
+fr-fr,fairytalez-skill.fairytalez,Lis moi un e bonne histoire
+fr-fr,fairytalez-skill.fairytalez,Racontes un bon compte de fée
+fr-fr,fairytalez-skill.fairytalez,Racontes un bon histoire
+fr-fr,fairytalez-skill.fairytalez,Racontes un e bonne compte de fée
+fr-fr,fairytalez-skill.fairytalez,Racontes un e bonne histoire
+fr-fr,fairytalez-skill.fairytalez,Racontes moi un bon compte de fée
+fr-fr,fairytalez-skill.fairytalez,Racontes moi un bon histoire
+fr-fr,fairytalez-skill.fairytalez,Racontes moi un e bonne compte de fée
+fr-fr,fairytalez-skill.fairytalez,Racontes moi un e bonne histoire
+fr-fr,fairytalez-skill.fairytalez,Lis l'histoire de {tale}
+fr-fr,fairytalez-skill.fairytalez,Lis moi l'histoire de {tale}
+fr-fr,fairytalez-skill.fairytalez,Raconte l'histoire de {tale}
+fr-fr,fairytalez-skill.fairytalez,Raconte moi l'histoire de {tale}
+fr-fr,iss-tracker-skill.tracker.iss,Où est la station spatiale internationale
+fr-fr,iss-tracker-skill.tracker.iss,Localise l'I S S
+fr-fr,iss-tracker-skill.tracker.iss,Où est l'I S S
+fr-fr,laugh.Laugh,ris comme alexa
+fr-fr,laugh.Laugh,peux tu rire ?
+fr-fr,laugh.Laugh,rire démoniaque
+fr-fr,laugh.RandomLaugh,ris aléatoirement
+fr-fr,laugh.RandomLaugh,active le rire aléatoire
+fr-fr,laugh.RandomLaugh,rire aléatoire
+fr-fr,mark-2.brightness,affaiblir vos yeux à {brightness}
+fr-fr,mark-2.brightness,affaiblir vos yeux à {brightness} pourcent
+fr-fr,mark-2.brightness,affaiblir les yeux à {brightness}
+fr-fr,mark-2.brightness,affaiblir les yeux à {brightness} pourcent
+fr-fr,mark-2.brightness,affaiblir à {brightness}
+fr-fr,mark-2.brightness,affaiblir à {brightness} pourcent
+fr-fr,mark-2.brightness,baisser l'illumination de vos yeux à {brightness}
+fr-fr,mark-2.brightness,baisser l'illumination de vos yeux à {brightness} pourcent
+fr-fr,mark-2.brightness,baisser la luminosité de vos yeux à {brightness}
+fr-fr,mark-2.brightness,baisser la luminosité de vos yeux à {brightness} pourcent
+fr-fr,mark-2.brightness,mettre l'illumination plus haut à {brightness}
+fr-fr,mark-2.brightness,mettre l'illumination plus haut à {brightness} pourcent
+fr-fr,mark-2.brightness,mettre l'illumination plus bas à {brightness}
+fr-fr,mark-2.brightness,mettre l'illumination plus bas à {brightness} pourcent
+fr-fr,mark-2.brightness,mettre la luminosité plus haut à {brightness}
+fr-fr,mark-2.brightness,mettre la luminosité plus haut à {brightness} pourcent
+fr-fr,mark-2.brightness,mettre la luminosité plus bas à {brightness}
+fr-fr,mark-2.brightness,mettre la luminosité plus bas à {brightness} pourcent
+fr-fr,mark-2.brightness,diminuer éclairage à {brightness}
+fr-fr,mark-2.brightness,diminuer éclairage à {brightness} pourcent
+fr-fr,mark-2.brightness,diminuer luminosité à {brightness}
+fr-fr,mark-2.brightness,diminuer luminosité à {brightness} pourcent
+fr-fr,mark-2.brightness,diminuer l' éclairage à {brightness}
+fr-fr,mark-2.brightness,diminuer l' éclairage à {brightness} pourcent
+fr-fr,mark-2.brightness,diminuer l' luminosité à {brightness}
+fr-fr,mark-2.brightness,diminuer l' luminosité à {brightness} pourcent
+fr-fr,mark-2.brightness,diminuer le éclairage à {brightness}
+fr-fr,mark-2.brightness,diminuer le éclairage à {brightness} pourcent
+fr-fr,mark-2.brightness,diminuer le luminosité à {brightness}
+fr-fr,mark-2.brightness,diminuer le luminosité à {brightness} pourcent
+fr-fr,mark-2.brightness,diminuer la éclairage à {brightness}
+fr-fr,mark-2.brightness,diminuer la éclairage à {brightness} pourcent
+fr-fr,mark-2.brightness,diminuer la luminosité à {brightness}
+fr-fr,mark-2.brightness,diminuer la luminosité à {brightness} pourcent
+fr-fr,mark-2.brightness,augmenter éclairage à {brightness}
+fr-fr,mark-2.brightness,augmenter éclairage à {brightness} pourcent
+fr-fr,mark-2.brightness,augmenter luminosité à {brightness}
+fr-fr,mark-2.brightness,augmenter luminosité à {brightness} pourcent
+fr-fr,mark-2.brightness,augmenter l' éclairage à {brightness}
+fr-fr,mark-2.brightness,augmenter l' éclairage à {brightness} pourcent
+fr-fr,mark-2.brightness,augmenter l' luminosité à {brightness}
+fr-fr,mark-2.brightness,augmenter l' luminosité à {brightness} pourcent
+fr-fr,mark-2.brightness,augmenter le éclairage à {brightness}
+fr-fr,mark-2.brightness,augmenter le éclairage à {brightness} pourcent
+fr-fr,mark-2.brightness,augmenter le luminosité à {brightness}
+fr-fr,mark-2.brightness,augmenter le luminosité à {brightness} pourcent
+fr-fr,mark-2.brightness,augmenter la éclairage à {brightness}
+fr-fr,mark-2.brightness,augmenter la éclairage à {brightness} pourcent
+fr-fr,mark-2.brightness,augmenter la luminosité à {brightness}
+fr-fr,mark-2.brightness,augmenter la luminosité à {brightness} pourcent
+fr-fr,mark-2.brightness,éclairci à {brightness}
+fr-fr,mark-2.brightness,éclairci à {brightness} pourcent
+fr-fr,mark-2.brightness,éclairci un peu à {brightness}
+fr-fr,mark-2.brightness,éclairci un peu à {brightness} pourcent
+fr-fr,mark-2.brightness,switch de {brightness} illumination
+fr-fr,mark-2.brightness,switch de {brightness} brightness
+fr-fr,mark-2.brightness,switch de {brightness} eye illumination
+fr-fr,mark-2.brightness,switch de {brightness} eye brightness
+fr-fr,mark-2.brightness,switch de {brightness} percent illumination
+fr-fr,mark-2.brightness,switch de {brightness} percent brightness
+fr-fr,mark-2.brightness,switch de {brightness} percent eye illumination
+fr-fr,mark-2.brightness,switch de {brightness} percent eye brightness
+fr-fr,mark-2.brightness,set de {brightness} illumination
+fr-fr,mark-2.brightness,set de {brightness} brightness
+fr-fr,mark-2.brightness,set de {brightness} eye illumination
+fr-fr,mark-2.brightness,set de {brightness} eye brightness
+fr-fr,mark-2.brightness,set de {brightness} percent illumination
+fr-fr,mark-2.brightness,set de {brightness} percent brightness
+fr-fr,mark-2.brightness,set de {brightness} percent eye illumination
+fr-fr,mark-2.brightness,set de {brightness} percent eye brightness
+fr-fr,mark-2.brightness,change de {brightness} illumination
+fr-fr,mark-2.brightness,change de {brightness} brightness
+fr-fr,mark-2.brightness,change de {brightness} eye illumination
+fr-fr,mark-2.brightness,change de {brightness} eye brightness
+fr-fr,mark-2.brightness,change de {brightness} percent illumination
+fr-fr,mark-2.brightness,change de {brightness} percent brightness
+fr-fr,mark-2.brightness,change de {brightness} percent eye illumination
+fr-fr,mark-2.brightness,change de {brightness} percent eye brightness
+fr-fr,mark-2.brightness,switch your illumination à {brightness}
+fr-fr,mark-2.brightness,switch your illumination à {brightness} percent
+fr-fr,mark-2.brightness,switch your illumination level à {brightness}
+fr-fr,mark-2.brightness,switch your illumination level à {brightness} percent
+fr-fr,mark-2.brightness,switch your brightness à {brightness}
+fr-fr,mark-2.brightness,switch your brightness à {brightness} percent
+fr-fr,mark-2.brightness,switch your brightness level à {brightness}
+fr-fr,mark-2.brightness,switch your brightness level à {brightness} percent
+fr-fr,mark-2.brightness,switch your eye illumination à {brightness}
+fr-fr,mark-2.brightness,switch your eye illumination à {brightness} percent
+fr-fr,mark-2.brightness,switch your eye illumination level à {brightness}
+fr-fr,mark-2.brightness,switch your eye illumination level à {brightness} percent
+fr-fr,mark-2.brightness,switch your eye brightness à {brightness}
+fr-fr,mark-2.brightness,switch your eye brightness à {brightness} percent
+fr-fr,mark-2.brightness,switch your eye brightness level à {brightness}
+fr-fr,mark-2.brightness,switch your eye brightness level à {brightness} percent
+fr-fr,mark-2.brightness,switch the illumination à {brightness}
+fr-fr,mark-2.brightness,switch the illumination à {brightness} percent
+fr-fr,mark-2.brightness,switch the illumination level à {brightness}
+fr-fr,mark-2.brightness,switch the illumination level à {brightness} percent
+fr-fr,mark-2.brightness,switch the brightness à {brightness}
+fr-fr,mark-2.brightness,switch the brightness à {brightness} percent
+fr-fr,mark-2.brightness,switch the brightness level à {brightness}
+fr-fr,mark-2.brightness,switch the brightness level à {brightness} percent
+fr-fr,mark-2.brightness,switch the eye illumination à {brightness}
+fr-fr,mark-2.brightness,switch the eye illumination à {brightness} percent
+fr-fr,mark-2.brightness,switch the eye illumination level à {brightness}
+fr-fr,mark-2.brightness,switch the eye illumination level à {brightness} percent
+fr-fr,mark-2.brightness,switch the eye brightness à {brightness}
+fr-fr,mark-2.brightness,switch the eye brightness à {brightness} percent
+fr-fr,mark-2.brightness,switch the eye brightness level à {brightness}
+fr-fr,mark-2.brightness,switch the eye brightness level à {brightness} percent
+fr-fr,mark-2.brightness,set your illumination à {brightness}
+fr-fr,mark-2.brightness,set your illumination à {brightness} percent
+fr-fr,mark-2.brightness,set your illumination level à {brightness}
+fr-fr,mark-2.brightness,set your illumination level à {brightness} percent
+fr-fr,mark-2.brightness,set your brightness à {brightness}
+fr-fr,mark-2.brightness,set your brightness à {brightness} percent
+fr-fr,mark-2.brightness,set your brightness level à {brightness}
+fr-fr,mark-2.brightness,set your brightness level à {brightness} percent
+fr-fr,mark-2.brightness,set your eye illumination à {brightness}
+fr-fr,mark-2.brightness,set your eye illumination à {brightness} percent
+fr-fr,mark-2.brightness,set your eye illumination level à {brightness}
+fr-fr,mark-2.brightness,set your eye illumination level à {brightness} percent
+fr-fr,mark-2.brightness,set your eye brightness à {brightness}
+fr-fr,mark-2.brightness,set your eye brightness à {brightness} percent
+fr-fr,mark-2.brightness,set your eye brightness level à {brightness}
+fr-fr,mark-2.brightness,set your eye brightness level à {brightness} percent
+fr-fr,mark-2.brightness,set the illumination à {brightness}
+fr-fr,mark-2.brightness,set the illumination à {brightness} percent
+fr-fr,mark-2.brightness,set the illumination level à {brightness}
+fr-fr,mark-2.brightness,set the illumination level à {brightness} percent
+fr-fr,mark-2.brightness,set the brightness à {brightness}
+fr-fr,mark-2.brightness,set the brightness à {brightness} percent
+fr-fr,mark-2.brightness,set the brightness level à {brightness}
+fr-fr,mark-2.brightness,set the brightness level à {brightness} percent
+fr-fr,mark-2.brightness,set the eye illumination à {brightness}
+fr-fr,mark-2.brightness,set the eye illumination à {brightness} percent
+fr-fr,mark-2.brightness,set the eye illumination level à {brightness}
+fr-fr,mark-2.brightness,set the eye illumination level à {brightness} percent
+fr-fr,mark-2.brightness,set the eye brightness à {brightness}
+fr-fr,mark-2.brightness,set the eye brightness à {brightness} percent
+fr-fr,mark-2.brightness,set the eye brightness level à {brightness}
+fr-fr,mark-2.brightness,set the eye brightness level à {brightness} percent
+fr-fr,mark-2.brightness,change your illumination à {brightness}
+fr-fr,mark-2.brightness,change your illumination à {brightness} percent
+fr-fr,mark-2.brightness,change your illumination level à {brightness}
+fr-fr,mark-2.brightness,change your illumination level à {brightness} percent
+fr-fr,mark-2.brightness,change your brightness à {brightness}
+fr-fr,mark-2.brightness,change your brightness à {brightness} percent
+fr-fr,mark-2.brightness,change your brightness level à {brightness}
+fr-fr,mark-2.brightness,change your brightness level à {brightness} percent
+fr-fr,mark-2.brightness,change your eye illumination à {brightness}
+fr-fr,mark-2.brightness,change your eye illumination à {brightness} percent
+fr-fr,mark-2.brightness,change your eye illumination level à {brightness}
+fr-fr,mark-2.brightness,change your eye illumination level à {brightness} percent
+fr-fr,mark-2.brightness,change your eye brightness à {brightness}
+fr-fr,mark-2.brightness,change your eye brightness à {brightness} percent
+fr-fr,mark-2.brightness,change your eye brightness level à {brightness}
+fr-fr,mark-2.brightness,change your eye brightness level à {brightness} percent
+fr-fr,mark-2.brightness,change the illumination à {brightness}
+fr-fr,mark-2.brightness,change the illumination à {brightness} percent
+fr-fr,mark-2.brightness,change the illumination level à {brightness}
+fr-fr,mark-2.brightness,change the illumination level à {brightness} percent
+fr-fr,mark-2.brightness,change the brightness à {brightness}
+fr-fr,mark-2.brightness,change the brightness à {brightness} percent
+fr-fr,mark-2.brightness,change the brightness level à {brightness}
+fr-fr,mark-2.brightness,change the brightness level à {brightness} percent
+fr-fr,mark-2.brightness,change the eye illumination à {brightness}
+fr-fr,mark-2.brightness,change the eye illumination à {brightness} percent
+fr-fr,mark-2.brightness,change the eye illumination level à {brightness}
+fr-fr,mark-2.brightness,change the eye illumination level à {brightness} percent
+fr-fr,mark-2.brightness,change the eye brightness à {brightness}
+fr-fr,mark-2.brightness,change the eye brightness à {brightness} percent
+fr-fr,mark-2.brightness,change the eye brightness level à {brightness}
+fr-fr,mark-2.brightness,change the eye brightness level à {brightness} percent
+fr-fr,mark-2.brightness,switch your illumination
+fr-fr,mark-2.brightness,switch your illumination level
+fr-fr,mark-2.brightness,switch your brightness
+fr-fr,mark-2.brightness,switch your brightness level
+fr-fr,mark-2.brightness,switch your eye illumination
+fr-fr,mark-2.brightness,switch your eye illumination level
+fr-fr,mark-2.brightness,switch your eye brightness
+fr-fr,mark-2.brightness,switch your eye brightness level
+fr-fr,mark-2.brightness,switch the illumination
+fr-fr,mark-2.brightness,switch the illumination level
+fr-fr,mark-2.brightness,switch the brightness
+fr-fr,mark-2.brightness,switch the brightness level
+fr-fr,mark-2.brightness,switch the eye illumination
+fr-fr,mark-2.brightness,switch the eye illumination level
+fr-fr,mark-2.brightness,switch the eye brightness
+fr-fr,mark-2.brightness,switch the eye brightness level
+fr-fr,mark-2.brightness,set your illumination
+fr-fr,mark-2.brightness,set your illumination level
+fr-fr,mark-2.brightness,set your brightness
+fr-fr,mark-2.brightness,set your brightness level
+fr-fr,mark-2.brightness,set your eye illumination
+fr-fr,mark-2.brightness,set your eye illumination level
+fr-fr,mark-2.brightness,set your eye brightness
+fr-fr,mark-2.brightness,set your eye brightness level
+fr-fr,mark-2.brightness,set the illumination
+fr-fr,mark-2.brightness,set the illumination level
+fr-fr,mark-2.brightness,set the brightness
+fr-fr,mark-2.brightness,set the brightness level
+fr-fr,mark-2.brightness,set the eye illumination
+fr-fr,mark-2.brightness,set the eye illumination level
+fr-fr,mark-2.brightness,set the eye brightness
+fr-fr,mark-2.brightness,set the eye brightness level
+fr-fr,mark-2.brightness,change your illumination
+fr-fr,mark-2.brightness,change your illumination level
+fr-fr,mark-2.brightness,change your brightness
+fr-fr,mark-2.brightness,change your brightness level
+fr-fr,mark-2.brightness,change your eye illumination
+fr-fr,mark-2.brightness,change your eye illumination level
+fr-fr,mark-2.brightness,change your eye brightness
+fr-fr,mark-2.brightness,change your eye brightness level
+fr-fr,mark-2.brightness,change the illumination
+fr-fr,mark-2.brightness,change the illumination level
+fr-fr,mark-2.brightness,change the brightness
+fr-fr,mark-2.brightness,change the brightness level
+fr-fr,mark-2.brightness,change the eye illumination
+fr-fr,mark-2.brightness,change the eye illumination level
+fr-fr,mark-2.brightness,change the eye brightness
+fr-fr,mark-2.brightness,change the eye brightness level
+fr-fr,mark-2.brightness,tu es foncé
+fr-fr,mark-2.brightness,tu es clair
+fr-fr,mark-2.brightness,tu es trop foncé
+fr-fr,mark-2.brightness,tu es trop clair
+fr-fr,mark-2.brightness,tu es sombre
+fr-fr,mark-2.brightness,tu es lumineux
+fr-fr,mark-2.brightness,tu es trop sombre
+fr-fr,mark-2.brightness,tu es trop lumineux
+fr-fr,mark-2.brightness,éclaircir
+fr-fr,mark-2.brightness,baisser un peu l'intensité
+fr-fr,mark-2.brightness.auto,régler la luminosité sur automatique
+fr-fr,mark-2.brightness.auto,luminosité automatique
+fr-fr,mark-2.device.brightness.settings,afficher les réglages de luminosité
+fr-fr,mark-2.device.brightness.settings,montre les réglages de luminosité de l'appareil
+fr-fr,mark-2.device.homescreen.settings,affiche les paramètres de l'écran d'accueil
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de idle page
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de idle face
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de idle screen
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de resting page
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de resting face
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de resting screen
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de home page
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de home face
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de home screen
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de l'appareil idle page
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de l'appareil idle face
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de l'appareil idle screen
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de l'appareil resting page
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de l'appareil resting face
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de l'appareil resting screen
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de l'appareil home page
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de l'appareil home face
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de l'appareil home screen
+fr-fr,mark-2.device.reset.settings,affiche les paramètres de réinitialisation d'usine
+fr-fr,mark-2.device.reset.settings,affiche les réglages de réinitialisation d'usine de l'appareil
+fr-fr,mark-2.device.settings,afficher les paramètres de l'appareil
+fr-fr,mark-2.device.settings,Ouvre les paramètres
+fr-fr,mark-2.device.ssh.settings,Afficher les paramètre SSH
+fr-fr,mark-2.device.ssh.settings,Afficher les paramètre SSH de l'appareil
+fr-fr,mark-2.device.wifi.settings,Afficher l'affichage Wifi
+fr-fr,mark-2.device.wifi.settings,Afficher la configuration Wifi
+fr-fr,mark-2.device.wifi.settings,Afficher les paramètres Wifi
+fr-fr,mark-2.device.wifi.settings,Afficher les réglages Wifi
+fr-fr,mark-2.device.wifi.settings,affiche l'écran wifi
+fr-fr,moviemaster.genre.movie.search,trouve moi les vidéos du genre {genre}
+fr-fr,moviemaster.genre.movie.search,trouve moi les films du genre {genre}
+fr-fr,moviemaster.genre.movie.search,liste moi les vidéos du genre {genre}
+fr-fr,moviemaster.genre.movie.search,liste moi les films du genre {genre}
+fr-fr,moviemaster.genre.movie.search,trouve les videos {genre}
+fr-fr,moviemaster.genre.movie.search,trouve les films {genre}
+fr-fr,moviemaster.genre.movie.search,liste les videos {genre}
+fr-fr,moviemaster.genre.movie.search,liste les films {genre}
+fr-fr,moviemaster.genre.tv.search,récupère les émissions télé du genre {genre}
+fr-fr,moviemaster.genre.tv.search,récupère les émissions du genre {genre}
+fr-fr,moviemaster.genre.tv.search,trouve les émissions télé du genre {genre}
+fr-fr,moviemaster.genre.tv.search,trouve les émissions du genre {genre}
+fr-fr,moviemaster.genre.tv.search,liste les émissions télé du genre {genre}
+fr-fr,moviemaster.genre.tv.search,liste les émissions du genre {genre}
+fr-fr,moviemaster.genre.tv.search,récupère les émissions {genre}
+fr-fr,moviemaster.genre.tv.search,récupère les émissions télé {genre}
+fr-fr,moviemaster.genre.tv.search,trouve les émissions {genre}
+fr-fr,moviemaster.genre.tv.search,trouve les émissions télé {genre}
+fr-fr,moviemaster.genre.tv.search,liste les émissions {genre}
+fr-fr,moviemaster.genre.tv.search,liste les émissions télé {genre}
+fr-fr,moviemaster.movie.cast,qui ( joue ) dans ( le film ) {movie}
+fr-fr,moviemaster.movie.description,De quoi parle le film {movie} ?
+fr-fr,moviemaster.movie.description,Parle us du flick {movie}
+fr-fr,moviemaster.movie.description,Parle us du film {movie}
+fr-fr,moviemaster.movie.description,Parle us du movie {movie}
+fr-fr,moviemaster.movie.description,Parle me du flick {movie}
+fr-fr,moviemaster.movie.description,Parle me du film {movie}
+fr-fr,moviemaster.movie.description,Parle me du movie {movie}
+fr-fr,moviemaster.movie.description,Donne nous le synoptique du film {movie}
+fr-fr,moviemaster.movie.description,Donne nous une description du film {movie}
+fr-fr,moviemaster.movie.description,Donne moi le synoptique du film {movie}
+fr-fr,moviemaster.movie.description,Donne moi une description du film {movie}
+fr-fr,moviemaster.movie.description,
+fr-fr,moviemaster.movie.genres,A quels genres le film {movie} appartient-il?
+fr-fr,moviemaster.movie.genres,A quel genre le film {movie} appartient-il?
+fr-fr,moviemaster.movie.genres,Quels sont les genres du film {movie}
+fr-fr,moviemaster.movie.genres,De quel genre sont les films {movie}
+fr-fr,moviemaster.movie.genres,De quel genre sont les film {movie}
+fr-fr,moviemaster.movie.genres,De quel genre sont le films {movie}
+fr-fr,moviemaster.movie.genres,De quel genre sont le film {movie}
+fr-fr,moviemaster.movie.genres,De quel genre est les films {movie}
+fr-fr,moviemaster.movie.genres,De quel genre est les film {movie}
+fr-fr,moviemaster.movie.genres,De quel genre est le films {movie}
+fr-fr,moviemaster.movie.genres,De quel genre est le film {movie}
+fr-fr,moviemaster.movie.genres,De quels genres sont les films {movie}
+fr-fr,moviemaster.movie.genres,De quels genres sont les film {movie}
+fr-fr,moviemaster.movie.genres,De quels genres sont le films {movie}
+fr-fr,moviemaster.movie.genres,De quels genres sont le film {movie}
+fr-fr,moviemaster.movie.genres,De quels genres est les films {movie}
+fr-fr,moviemaster.movie.genres,De quels genres est les film {movie}
+fr-fr,moviemaster.movie.genres,De quels genres est le films {movie}
+fr-fr,moviemaster.movie.genres,De quels genres est le film {movie}
+fr-fr,moviemaster.movie.information,y a t-il des info à propos du film {movie}
+fr-fr,moviemaster.movie.information,y a t-il des info à propos le film {movie}
+fr-fr,moviemaster.movie.information,y a t-il des info sur du film {movie}
+fr-fr,moviemaster.movie.information,y a t-il des info sur le film {movie}
+fr-fr,moviemaster.movie.information,y a t-il des informations à propos du film {movie}
+fr-fr,moviemaster.movie.information,y a t-il des informations à propos le film {movie}
+fr-fr,moviemaster.movie.information,y a t-il des informations sur du film {movie}
+fr-fr,moviemaster.movie.information,y a t-il des informations sur le film {movie}
+fr-fr,moviemaster.movie.information,cherche des info à propos du film {movie}
+fr-fr,moviemaster.movie.information,cherche des info à propos le film {movie}
+fr-fr,moviemaster.movie.information,cherche des info sur du film {movie}
+fr-fr,moviemaster.movie.information,cherche des info sur le film {movie}
+fr-fr,moviemaster.movie.information,cherche des informations à propos du film {movie}
+fr-fr,moviemaster.movie.information,cherche des informations à propos le film {movie}
+fr-fr,moviemaster.movie.information,cherche des informations sur du film {movie}
+fr-fr,moviemaster.movie.information,cherche des informations sur le film {movie}
+fr-fr,moviemaster.movie.information,recherche des info à propos du film {movie}
+fr-fr,moviemaster.movie.information,recherche des info à propos le film {movie}
+fr-fr,moviemaster.movie.information,recherche des info sur du film {movie}
+fr-fr,moviemaster.movie.information,recherche des info sur le film {movie}
+fr-fr,moviemaster.movie.information,recherche des informations à propos du film {movie}
+fr-fr,moviemaster.movie.information,recherche des informations à propos le film {movie}
+fr-fr,moviemaster.movie.information,recherche des informations sur du film {movie}
+fr-fr,moviemaster.movie.information,recherche des informations sur le film {movie}
+fr-fr,moviemaster.movie.information,récupère des info à propos du film {movie}
+fr-fr,moviemaster.movie.information,récupère des info à propos le film {movie}
+fr-fr,moviemaster.movie.information,récupère des info sur du film {movie}
+fr-fr,moviemaster.movie.information,récupère des info sur le film {movie}
+fr-fr,moviemaster.movie.information,récupère des informations à propos du film {movie}
+fr-fr,moviemaster.movie.information,récupère des informations à propos le film {movie}
+fr-fr,moviemaster.movie.information,récupère des informations sur du film {movie}
+fr-fr,moviemaster.movie.information,récupère des informations sur le film {movie}
+fr-fr,moviemaster.movie.information,trouve des info à propos du film {movie}
+fr-fr,moviemaster.movie.information,trouve des info à propos le film {movie}
+fr-fr,moviemaster.movie.information,trouve des info sur du film {movie}
+fr-fr,moviemaster.movie.information,trouve des info sur le film {movie}
+fr-fr,moviemaster.movie.information,trouve des informations à propos du film {movie}
+fr-fr,moviemaster.movie.information,trouve des informations à propos le film {movie}
+fr-fr,moviemaster.movie.information,trouve des informations sur du film {movie}
+fr-fr,moviemaster.movie.information,trouve des informations sur le film {movie}
+fr-fr,moviemaster.movie.information,récupère nous des infos à propos du film {movie}
+fr-fr,moviemaster.movie.information,récupère nous des infos sur du film {movie}
+fr-fr,moviemaster.movie.information,récupère nous des informations à propos du film {movie}
+fr-fr,moviemaster.movie.information,récupère nous des informations sur du film {movie}
+fr-fr,moviemaster.movie.information,récupère moi des infos à propos du film {movie}
+fr-fr,moviemaster.movie.information,récupère moi des infos sur du film {movie}
+fr-fr,moviemaster.movie.information,récupère moi des informations à propos du film {movie}
+fr-fr,moviemaster.movie.information,récupère moi des informations sur du film {movie}
+fr-fr,moviemaster.movie.information,dit nous des infos à propos du film {movie}
+fr-fr,moviemaster.movie.information,dit nous des infos sur du film {movie}
+fr-fr,moviemaster.movie.information,dit nous des informations à propos du film {movie}
+fr-fr,moviemaster.movie.information,dit nous des informations sur du film {movie}
+fr-fr,moviemaster.movie.information,dit moi des infos à propos du film {movie}
+fr-fr,moviemaster.movie.information,dit moi des infos sur du film {movie}
+fr-fr,moviemaster.movie.information,dit moi des informations à propos du film {movie}
+fr-fr,moviemaster.movie.information,dit moi des informations sur du film {movie}
+fr-fr,moviemaster.movie.information,donne nous des infos à propos du film {movie}
+fr-fr,moviemaster.movie.information,donne nous des infos sur du film {movie}
+fr-fr,moviemaster.movie.information,donne nous des informations à propos du film {movie}
+fr-fr,moviemaster.movie.information,donne nous des informations sur du film {movie}
+fr-fr,moviemaster.movie.information,donne moi des infos à propos du film {movie}
+fr-fr,moviemaster.movie.information,donne moi des infos sur du film {movie}
+fr-fr,moviemaster.movie.information,donne moi des informations à propos du film {movie}
+fr-fr,moviemaster.movie.information,donne moi des informations sur du film {movie}
+fr-fr,moviemaster.movie.information,peux-tu récupérer des infos sur le film {movie}
+fr-fr,moviemaster.movie.information,peux-tu récupérer des informations sur le film {movie}
+fr-fr,moviemaster.movie.information,est-ce que tu a des infos sur le film {movie}
+fr-fr,moviemaster.movie.information,est-ce que tu a des informations sur le film {movie}
+fr-fr,moviemaster.movie.popular,recherche les films populaires
+fr-fr,moviemaster.movie.popular,recherche des films populaires
+fr-fr,moviemaster.movie.popular,liste les films populaires
+fr-fr,moviemaster.movie.popular,liste des films populaires
+fr-fr,moviemaster.movie.popular,quels sont les films populaires du moment qui sont sortis
+fr-fr,moviemaster.movie.popular,quels sont les films populaires du moment qui sont joués
+fr-fr,moviemaster.movie.production,quel studio a fait le film {movie}
+fr-fr,moviemaster.movie.production,quel studio a produit le film {movie}
+fr-fr,moviemaster.movie.production,qui a fait le film {movie}
+fr-fr,moviemaster.movie.production,qui a produit le film {movie}
+fr-fr,moviemaster.movie.recommendations,recommander des video comme le film {movie}
+fr-fr,moviemaster.movie.recommendations,recommander des video similaire au film {movie}
+fr-fr,moviemaster.movie.recommendations,recommander des films comme le film {movie}
+fr-fr,moviemaster.movie.recommendations,recommander des films similaire au film {movie}
+fr-fr,moviemaster.movie.recommendations,quels sont les films que vous recommanderiez comme {movie}
+fr-fr,moviemaster.movie.recommendations,quels sont les films que vous recommanderiez comme le film {movie}
+fr-fr,moviemaster.movie.recommendations,quels sont les films que vous recommanderiez similaire au film {movie}
+fr-fr,moviemaster.movie.recommendations,récupère des bons films comme {movie}
+fr-fr,moviemaster.movie.recommendations,récupère des bons films comme le film {movie}
+fr-fr,moviemaster.movie.recommendations,récupère des bons films similaires au film {movie}
+fr-fr,moviemaster.movie.recommendations,récupère des films comme {movie}
+fr-fr,moviemaster.movie.recommendations,récupère des films comme le film {movie}
+fr-fr,moviemaster.movie.recommendations,récupère des films similaires au film {movie}
+fr-fr,moviemaster.movie.recommendations,récupère les bons films comme {movie}
+fr-fr,moviemaster.movie.recommendations,récupère les bons films comme le film {movie}
+fr-fr,moviemaster.movie.recommendations,récupère les bons films similaires au film {movie}
+fr-fr,moviemaster.movie.recommendations,récupère les films comme {movie}
+fr-fr,moviemaster.movie.recommendations,récupère les films comme le film {movie}
+fr-fr,moviemaster.movie.recommendations,récupère les films similaires au film {movie}
+fr-fr,moviemaster.movie.recommendations,liste des bons films comme {movie}
+fr-fr,moviemaster.movie.recommendations,liste des bons films comme le film {movie}
+fr-fr,moviemaster.movie.recommendations,liste des bons films similaires au film {movie}
+fr-fr,moviemaster.movie.recommendations,liste des films comme {movie}
+fr-fr,moviemaster.movie.recommendations,liste des films comme le film {movie}
+fr-fr,moviemaster.movie.recommendations,liste des films similaires au film {movie}
+fr-fr,moviemaster.movie.recommendations,liste les bons films comme {movie}
+fr-fr,moviemaster.movie.recommendations,liste les bons films comme le film {movie}
+fr-fr,moviemaster.movie.recommendations,liste les bons films similaires au film {movie}
+fr-fr,moviemaster.movie.recommendations,liste les films comme {movie}
+fr-fr,moviemaster.movie.recommendations,liste les films comme le film {movie}
+fr-fr,moviemaster.movie.recommendations,liste les films similaires au film {movie}
+fr-fr,moviemaster.movie.runtime,Combien de temps dure le film {movie}
+fr-fr,moviemaster.movie.runtime,Combien dure le film {movie}
+fr-fr,moviemaster.movie.runtime,Quelle est la longueur du film {movie}
+fr-fr,moviemaster.movie.runtime,Quelle est la durée du film {movie}
+fr-fr,moviemaster.movie.runtime,Obtiens la longueur du film {movie}
+fr-fr,moviemaster.movie.runtime,Obtiens la durée du film {movie}
+fr-fr,moviemaster.movie.top,recherche le le film le mieux noté du moment
+fr-fr,moviemaster.movie.top,recherche le film le plus populaire du moment
+fr-fr,moviemaster.movie.top,recherche le meilleur film du moment
+fr-fr,moviemaster.movie.top,quels sont le le film le mieux noté du moment
+fr-fr,moviemaster.movie.top,quels sont le film le plus populaire du moment
+fr-fr,moviemaster.movie.top,quels sont le meilleur film du moment
+fr-fr,moviemaster.movie.top,liste le le film le mieux noté du moment
+fr-fr,moviemaster.movie.top,liste le film le plus populaire du moment
+fr-fr,moviemaster.movie.top,liste le meilleur film du moment
+fr-fr,moviemaster.movie.year,a quel date le film {movie} a été diffusé
+fr-fr,moviemaster.movie.year,a quel date le film {movie} a été réalisé
+fr-fr,moviemaster.movie.year,a quel date le film {movie} a été fait
+fr-fr,moviemaster.movie.year,quand est-ce que le film {movie} a été diffusé
+fr-fr,moviemaster.movie.year,quand est-ce que le film {movie} a été réalisé
+fr-fr,moviemaster.movie.year,quand est-ce que le film {movie} a été fait
+fr-fr,moviemaster.movie.year,en quelle année le film {movie} a été diffusé
+fr-fr,moviemaster.movie.year,en quelle année le film {movie} a été réalisé
+fr-fr,moviemaster.movie.year,en quelle année le film {movie} a été fait
+fr-fr,wikiquote-skill.random,raconte moi des chose
+fr-fr,wikiquote-skill.random,raconte moi des citation
+fr-fr,wikiquote-skill.random,raconte moi une chose
+fr-fr,wikiquote-skill.random,raconte moi une citation
+fr-fr,wikiquote-skill.random,raconte moi quelques chose
+fr-fr,wikiquote-skill.random,raconte moi quelques citation
+fr-fr,wikiquote-skill.random,dis moi des chose
+fr-fr,wikiquote-skill.random,dis moi des citation
+fr-fr,wikiquote-skill.random,dis moi une chose
+fr-fr,wikiquote-skill.random,dis moi une citation
+fr-fr,wikiquote-skill.random,dis moi quelques chose
+fr-fr,wikiquote-skill.random,dis moi quelques citation
+fr-fr,wikiquote-skill.random,donne moi des chose
+fr-fr,wikiquote-skill.random,donne moi des citation
+fr-fr,wikiquote-skill.random,donne moi une chose
+fr-fr,wikiquote-skill.random,donne moi une citation
+fr-fr,wikiquote-skill.random,donne moi quelques chose
+fr-fr,wikiquote-skill.random,donne moi quelques citation
+fr-fr,wikiquote-skill.random,J'ai besoin de sagesse
+fr-fr,wikiquote-skill.specific,racontre moi des citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,racontre moi des citations de {subject}
+fr-fr,wikiquote-skill.specific,racontre moi des citations sur {subject}
+fr-fr,wikiquote-skill.specific,racontre moi des citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,racontre moi une citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,racontre moi une citations de {subject}
+fr-fr,wikiquote-skill.specific,racontre moi une citations sur {subject}
+fr-fr,wikiquote-skill.specific,racontre moi une citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,racontre moi quelques citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,racontre moi quelques citations de {subject}
+fr-fr,wikiquote-skill.specific,racontre moi quelques citations sur {subject}
+fr-fr,wikiquote-skill.specific,racontre moi quelques citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,dis moi des citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,dis moi des citations de {subject}
+fr-fr,wikiquote-skill.specific,dis moi des citations sur {subject}
+fr-fr,wikiquote-skill.specific,dis moi des citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,dis moi une citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,dis moi une citations de {subject}
+fr-fr,wikiquote-skill.specific,dis moi une citations sur {subject}
+fr-fr,wikiquote-skill.specific,dis moi une citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,dis moi quelques citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,dis moi quelques citations de {subject}
+fr-fr,wikiquote-skill.specific,dis moi quelques citations sur {subject}
+fr-fr,wikiquote-skill.specific,dis moi quelques citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,donne moi des citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,donne moi des citations de {subject}
+fr-fr,wikiquote-skill.specific,donne moi des citations sur {subject}
+fr-fr,wikiquote-skill.specific,donne moi des citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,donne moi une citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,donne moi une citations de {subject}
+fr-fr,wikiquote-skill.specific,donne moi une citations sur {subject}
+fr-fr,wikiquote-skill.specific,donne moi une citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,donne moi quelques citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,donne moi quelques citations de {subject}
+fr-fr,wikiquote-skill.specific,donne moi quelques citations sur {subject}
+fr-fr,wikiquote-skill.specific,donne moi quelques citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin de citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin de citations de {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin de citations sur {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin de citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin de quelques citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin de quelques citations de {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin de quelques citations sur {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin de quelques citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,racontre moi une citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,racontre moi une citations de {subject}
+fr-fr,wikiquote-skill.specific,racontre moi une citations sur {subject}
+fr-fr,wikiquote-skill.specific,racontre moi une citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,dis moi une citations à propos de {subject}
+fr-fr,wikiquote-skill.specific,dis moi une citations de {subject}
+fr-fr,wikiquote-skill.specific,dis moi une citations sur {subject}
+fr-fr,wikiquote-skill.specific,dis moi une citations au sujet de {subject}
+fr-fr,wikiquote-skill.specific,donne moi une citation à propos de {subject}
+fr-fr,wikiquote-skill.specific,donne moi une citation de {subject}
+fr-fr,wikiquote-skill.specific,donne moi une citation sur {subject}
+fr-fr,wikiquote-skill.specific,donne moi une citation au sujet de {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin d'une citation à propos de {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin d'une citation de {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin d'une citation sur {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin d'une citation au sujet de {subject}

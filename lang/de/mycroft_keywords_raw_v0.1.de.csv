@@ -1,0 +1,14 @@
+de,homeassistant.AutomationActionKeyword,aktiviere
+de,homeassistant.LightActionKeyword,schalte
+de,homeassistant.LightActionKeyword,knippse
+de,homeassistant.LightActionKeyword,mache
+de,homeassistant.LightActionKeyword,runter|dimme|verdunkle|dunkler
+de,homeassistant.LightActionKeyword,hell|heller
+de,homeassistant.LightBrightenVerb,heller
+de,homeassistant.LightBrightenVerb,hell
+de,homeassistant.LightDimVerb,runter
+de,homeassistant.LightDimVerb,dunkler
+de,homeassistant.SensorStatusKeyword,sensor
+de,homeassistant.SensorStatusKeyword,was sagt sensor
+de,homeassistant.SensorStatusKeyword,wie ist der wert von 
+de,homeassistant.SensorStatusKeyword,was ist der wert von 

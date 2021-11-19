@@ -1,0 +1,1336 @@
+{
+  "de-de": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Kristallkugel",
+      "Spieglein Spieglein"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "Zukunft",
+      "morgen"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "Sag mir",
+      "Was"
+    ],
+    "Number-Guess-Mycroft-Skill.NumberGuess": [
+      "errate Zahl",
+      "Zahl Ratespiel"
+    ],
+    "Number-Guess-Mycroft-Skill.Play": [
+      "Spiele",
+      "starte ein Spiel"
+    ],
+    "Number-Guess-Mycroft-Skill.Suggest": [
+      "Lass uns",
+      "Lass uns",
+      "Warum nicht",
+      "Wie w\u00e4re es mit uns",
+      "Wir sollten"
+    ],
+    "Skill-Gui-Examples.gui.example.eight": [
+      "Audioplayer-Beispiele anzeigen",
+      "Beispiel f\u00fcr Audiodelegierten anzeigen",
+      "Beispiel Audiodelegierten anzeigen"
+    ],
+    "Skill-Gui-Examples.gui.example.five": [
+      "Beispiel einen proportionalen Delegaten anzeigen",
+      "Beispiel proportionalen Delegaten anzeigen",
+      "Beispiel f\u00fcr einen proportionalen Delegaten anzeigen",
+      "Beispiel f\u00fcr proportionalen Delegaten anzeigen",
+      "Beispiel Autofit-Label anzeigen"
+    ],
+    "Skill-Gui-Examples.gui.example.five.wrapText": [
+      "Beispiel f\u00fcr einen proportionalen Zeilenumbruch",
+      "Beispiel automatischen Etikettenumbruch"
+    ],
+    "Skill-Gui-Examples.gui.example.four": [
+      "beispiel f\u00fcr einfliegendes zeigen"
+    ],
+    "Skill-Gui-Examples.gui.example.menu": [
+      "Gui Beispiele zeigen",
+      "GUI-Testbeispiele anzeigen",
+      "Beispielmen\u00fc anzeigen"
+    ],
+    "Skill-Gui-Examples.gui.example.one": [
+      "Einfaches Textbeispiel anzeigen"
+    ],
+    "Skill-Gui-Examples.gui.example.seven": [
+      "Beispiel f\u00fcr Ereignisse anzeigen"
+    ],
+    "Skill-Gui-Examples.gui.example.six": [
+      "Beispiel f\u00fcr Listenansicht anzeigen"
+    ],
+    "Skill-Gui-Examples.gui.example.three": [
+      "Beispiel f\u00fcr paginierten Text anzeigen"
+    ],
+    "Skill-Gui-Examples.gui.example.two": [
+      "Einfaches Bildbeispiel anzeigen"
+    ],
+    "aircrack.Clients": [
+      "Klient",
+      "Klienten",
+      "Verbindung",
+      "Verbindungen"
+    ],
+    "aircrack.Crack": [
+      "knacken",
+      "hacken"
+    ],
+    "aircrack.Deauth": [
+      "deauth",
+      "deauthenticate",
+      "trennen",
+      "dee auturisieren",
+      "dee authentifizieren"
+    ],
+    "aircrack.Interface": [
+      "Ger\u00e4te",
+      "Schnittstellen",
+      "Ger\u00e4t",
+      "Schnittstelle"
+    ],
+    "aircrack.List": [
+      "Liste",
+      "suche"
+    ],
+    "aircrack.Monitor": [
+      "Monitor",
+      "\u00dcberwachen",
+      "Auszug",
+      "laden"
+    ],
+    "aircrack.Network": [
+      "drahtlose Netzwerke",
+      "Netzwerke",
+      "drahtloses Netzwerk",
+      "Netzwerk",
+      "WiFi-Netzwerk",
+      "WiFi-Netzwerke"
+    ],
+    "aircrack.Password": [
+      "Passwort",
+      "Passwort"
+    ],
+    "aircrack.Select": [
+      "ausw\u00e4hlen",
+      "benutzen"
+    ],
+    "aircrack.Start": [
+      "starte",
+      "beginne"
+    ],
+    "aircrack.Stop": [
+      "anhalten",
+      "ende"
+    ],
+    "avmusic.neon.AVmusicKeyword": [
+      "AVmusik",
+      "AV show",
+      "A V show",
+      "AV musik",
+      "AV",
+      "A V",
+      "A V musik",
+      "A Vmusik",
+      "finde das Lied",
+      "such mir was",
+      "finde die Musik",
+      "finde das Musikvideo",
+      "Suche nach der Band",
+      "suche nach dem Lied",
+      "spiele die Musik",
+      "spiele ein wenig",
+      "AV play",
+      "AV spiele ein wenig",
+      "AV finde das Lied",
+      "AV such mir was",
+      "AV finde die Musik",
+      "AV finde das Video",
+      "AV finde das Musikvideo",
+      "AV Suche nach der Band",
+      "AV suche nach dem Lied",
+      "AV spiele die Musik",
+      "AV musik",
+      "AV video",
+      "AV music video",
+      "AV song",
+      "AV this song",
+      "A V Musik spielen",
+      "A V spiele die Musik",
+      "A V Musik suche nach dem Lied",
+      "A V musik such mir was",
+      "A V musik finde die Musik",
+      "A V musik finde das video",
+      "A V musik finde das Musikvideo",
+      "A V musik finde das Video",
+      "A V musik suche nach dem Lied",
+      "A V musik spiele die Musik"
+    ],
+    "avmusic.neon.AgreementKeyword": [
+      "ja",
+      "sicher",
+      "jawoll",
+      "fortsetzen",
+      "beginen",
+      "starten",
+      "gehe",
+      "los",
+      "Machen wir das",
+      "mach es",
+      "nat\u00fcrlich",
+      "mach halt",
+      "mache",
+      "ich tat",
+      "\u00e4ndere",
+      "\u00e4ndere meine meinung"
+    ],
+    "avmusic.neon.DeclineKeyword": [
+      "nein",
+      "nicht",
+      "halt",
+      "nachs nicht",
+      "stop",
+      "abbrechen",
+      "verlassen",
+      "ende",
+      "end",
+      "nicht jetzt",
+      "das ist genug",
+      "genug"
+    ],
+    "caffeinewiz.neon.CaffeineKeyword": [
+      "koffein"
+    ],
+    "caffeinewiz.neon.GoodbyeKeyword": [
+      "Auf Wiedersehen",
+      "bye",
+      "das wars",
+      "ende",
+      "end",
+      "Wir sind fertig"
+    ],
+    "cocktail.Again": [
+      "nochmal"
+    ],
+    "cocktail.Ingredients": [
+      "Zutat",
+      "Zutaten"
+    ],
+    "cocktail.TellMe": [
+      "was sind",
+      "sag mir"
+    ],
+    "cocktail.What": [
+      "was war",
+      "was waren"
+    ],
+    "configuration.ConfigurationSkillKeyword": [
+      "config",
+      "configuration",
+      "setting"
+    ],
+    "configuration.ConfigurationSkillUpdateVerb": [
+      "update",
+      "reload",
+      "sync",
+      "synchronize"
+    ],
+    "configuration.DeviceLocation": [
+      "Ort",
+      "Stadt",
+      "Platz",
+      "Land"
+    ],
+    "configuration.GetKeyword": [
+      "Was",
+      "was ist",
+      "Gib mir",
+      "sag mir"
+    ],
+    "configuration.ListenerKeyword": [
+      "Empf\u00e4nger",
+      "Aktivierword Empf\u00e4nger",
+      "Aktivierword engine",
+      "Aktivierword",
+      "Aktivierer"
+    ],
+    "configuration.ListenerType": [
+      "pocketsphinx",
+      "precise",
+      "snow boy",
+      "snowboy",
+      "default"
+    ],
+    "configuration.Location": [
+      "Ort",
+      "Stadt",
+      "Bundesland",
+      "Land",
+      "Platz"
+    ],
+    "configuration.Name": [
+      "name"
+    ],
+    "configuration.PreciseKeyword": [
+      "precise",
+      "mycroft precise",
+      "precise model"
+    ],
+    "configuration.SetKeyword": [
+      "setze",
+      "mache",
+      "ordne zu",
+      "\u00e4ndere"
+    ],
+    "configuration.What": [
+      "Was",
+      "Nenne mir",
+      "Woher"
+    ],
+    "configuration.WhereAreYou": [
+      "wo bin ich",
+      "wo bist du",
+      "wo sind wir"
+    ],
+    "cut-up-skill.CutUp": [
+      "Zerteile",
+      "Randomisiere"
+    ],
+    "cut-up-skill.Maximum": [
+      "Maximum"
+    ],
+    "cut-up-skill.Minimum": [
+      "Minimum"
+    ],
+    "cut-up-skill.Randomness": [
+      "Zuf\u00e4lligkeit"
+    ],
+    "cut-up-skill.Set": [
+      "Setze",
+      "Einstellung",
+      "Konfiguration",
+      "Setze Einstellung",
+      "Setze Konfiguration"
+    ],
+    "decide-skill.DecideKeyword": [
+      "Entscheide",
+      "Was sollte ich tragen",
+      "Was sollte ich essen",
+      "Spiel"
+    ],
+    "deezer.deezer": [
+      "deezer",
+      "in deezer",
+      "auf deezer",
+      "mit deezer",
+      "bei deezer"
+    ],
+    "deezer.music": [
+      "musik",
+      "ganze album"
+    ],
+    "fallback-aiml.Memory": [
+      "Gehirn",
+      "Ged\u00e4chtnis",
+      "bedenke",
+      "beachte",
+      "denke an",
+      "alles"
+    ],
+    "fallback-aiml.Reset": [
+      "vergi\u00df",
+      "Setze zur\u00fcck"
+    ],
+    "fallback-unknown.question": [
+      "was ist",
+      "was wird",
+      "was hat",
+      "was macht",
+      "was tun",
+      "wo ist",
+      "wo wird",
+      "wo hat",
+      "wo macht",
+      "wo tun",
+      "wann ist",
+      "wann wird",
+      "wann hat",
+      "wann macht",
+      "wann tun"
+    ],
+    "fallback-unknown.who.is": [
+      "wer ist",
+      "wer wird",
+      "wer hat",
+      "wer macht",
+      "wer tut"
+    ],
+    "fallback-unknown.why.is": [
+      "warum ist",
+      "warum wird",
+      "warum",
+      "warum tut",
+      "warum machst"
+    ],
+    "fallback-wolfram-alpha.Give": [
+      "nenne",
+      "gib",
+      "Was",
+      "Email",
+      "Sende"
+    ],
+    "fallback-wolfram-alpha.Source": [
+      "Quelle",
+      "Quellen",
+      "Details",
+      "deteil",
+      "Info"
+    ],
+    "homeassistant.AutomationActionKeyword": [
+      "aktiviere",
+      "feuere",
+      "rufe an",
+      "l\u00f6se aus",
+      "Szene",
+      "Automatisierung",
+      "Skript"
+    ],
+    "homeassistant.ClimateKeyword": [
+      "Setze die {entity} Temperatur auf {temperature}"
+    ],
+    "homeassistant.DecreaseVerb": [
+      "reduziere",
+      "herunter"
+    ],
+    "homeassistant.DeviceTrackerKeyword": [
+      "wo ist",
+      "orte",
+      "Ort",
+      "wo"
+    ],
+    "homeassistant.IncreaseVerb": [
+      "erh\u00f6he",
+      "hoch"
+    ],
+    "homeassistant.LightBrightenVerb": [
+      "erhelle",
+      "heller",
+      "hell",
+      "hoch"
+    ],
+    "homeassistant.LightDimVerb": [
+      "dimme",
+      "dunkler",
+      "dunkel",
+      "niedriger",
+      "herunter"
+    ],
+    "homeassistant.LightsKeyword": [
+      "mache an",
+      "erleuchte",
+      "Lichter",
+      "Lampe",
+      "Lampen",
+      "Gl\u00fchbirne",
+      "Gl\u00fchbirnen",
+      "L.E.D.",
+      "schalte ein",
+      "schalte an",
+      "schalte aus",
+      "schalte um"
+    ],
+    "homeassistant.SensorStatusKeyword": [
+      "gib an",
+      "Status",
+      "Sensor",
+      "Detektor",
+      "Anzeiger",
+      "Wert",
+      "lies",
+      "what ist das aktuelle",
+      "what ist die aktuelle",
+      "what ist der aktuelle",
+      "was ist aktuell",
+      "erz\u00e4hl",
+      "sag mir das aktuellen",
+      "sag mir das aktuelle",
+      "sag mir die aktuellen",
+      "sag mir die aktuelle",
+      "sag mir der aktuellen",
+      "sag mir der aktuelle",
+      "Sag mit das aktuellen",
+      "Sag mit das aktuelle",
+      "Sag mit die aktuellen",
+      "Sag mit die aktuelle",
+      "Sag mit den aktuellen",
+      "Sag mit den aktuelle",
+      "Gib mir den Wert von",
+      "Was ist der Wert des Thermostats"
+    ],
+    "homeassistant.SetVerb": [
+      "setze"
+    ],
+    "homeassistant.SwitchActionKeyword": [
+      "drehe",
+      "wechsle"
+    ],
+    "installer.Install": [
+      "installieren"
+    ],
+    "ip.IP": [
+      "IP Adresse",
+      "IP",
+      "Netzwerkadresse"
+    ],
+    "ip.query": [
+      "wie",
+      "was",
+      "nenne mir",
+      "zeige mir"
+    ],
+    "joke.Adult": [
+      "Porno",
+      "sexy",
+      "sex",
+      "dirty",
+      "verrucht",
+      "frech",
+      "nuttig"
+    ],
+    "joke.Chuck": [
+      "chuck",
+      "chuck norris"
+    ],
+    "joke.Joke": [
+      "Witz",
+      "lass mich lachen",
+      "Erleuchete meinen Tag",
+      "erhelle meine Tag",
+      "erz\u00e4hle einen Witz"
+    ],
+    "joke.Neutral": [
+      "Neutral",
+      "nicht beleidigend",
+      "normal",
+      "harmlos"
+    ],
+    "krunner-search-skill.CalculateKeyword": [
+      "rechne"
+    ],
+    "krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword": [
+      "durchsuche den Computer nach",
+      "suche das",
+      "durchsuche Computer nach",
+      "suche Datei",
+      "suche Datei",
+      "suche Dateinamen",
+      "durschuche den computer nach",
+      "suche System",
+      "System",
+      "Systemsuche",
+      "Systemsuchdatei",
+      "finde Datei"
+    ],
+    "krunner-search-skill.RecentFileKeyword": [
+      "Letzten anzeigen",
+      "zeige neueste Dateien an",
+      "zeige neueste Dokumente an",
+      "neueste Dokumente",
+      "neueste Dateien"
+    ],
+    "laugh.Laugh": [
+      "lach",
+      "Lachen",
+      "Gel\u00e4chter",
+      "Gel\u00e4chter"
+    ],
+    "laugh.Stop": [
+      "abbrechen",
+      "brich ab",
+      "stop"
+    ],
+    "learning-skill.Learning": [
+      "lernen",
+      "beibringen",
+      "zeigen",
+      "Lehrer"
+    ],
+    "learning-skill.Private": [
+      "privates",
+      "geheimes",
+      "f\u00fcr dich",
+      "bewahren"
+    ],
+    "learning-skill.Query": [
+      "kannst du",
+      "willst du",
+      "willst",
+      "kannst",
+      "darf ich"
+    ],
+    "learning-skill.Something": [
+      "etwas",
+      "sein",
+      "irgendwas"
+    ],
+    "learning-skill.cancel": [
+      "abbrechen",
+      "halt",
+      "exit",
+      "stop"
+    ],
+    "learning-skill.humor": [
+      "humor",
+      "witz",
+      "spa\u00df",
+      "lachen"
+    ],
+    "learning-skill.love": [
+      "liebe",
+      "leindenschaft",
+      "gef\u00fchle"
+    ],
+    "learning-skill.science": [
+      "wissenschaft",
+      "wissen",
+      "weissheit"
+    ],
+    "lifx-mycroft.Brightness": [
+      "Helligkeit",
+      "Lichtst\u00e4rke"
+    ],
+    "lifx-mycroft.Decrease": [
+      "abdunkeln",
+      "d\u00e4mpfen",
+      "verblassen",
+      "dimmen",
+      "schw\u00e4rzen",
+      "reduzieren",
+      "herunter"
+    ],
+    "lifx-mycroft.Increase": [
+      "erhellen",
+      "erhellen",
+      "beleuchten",
+      "verst\u00e4rken",
+      "erh\u00f6hen",
+      "herauf",
+      "hoch"
+    ],
+    "lifx-mycroft.Off": [
+      "ab",
+      "aus",
+      "deaktivieren"
+    ],
+    "lifx-mycroft.On": [
+      "an",
+      "aktivieren"
+    ],
+    "lifx-mycroft.Saturation": [
+      "S\u00e4ttigung",
+      "Intensit\u00e4t"
+    ],
+    "lifx-mycroft.Temperature": [
+      "Temperatur",
+      "W\u00e4rme",
+      "Farbtemperatur",
+      "Kelvin",
+      "Farbtemperatur"
+    ],
+    "lifx-mycroft.Turn": [
+      "wende",
+      "wechsle",
+      "setze",
+      "wechsle",
+      "schalte um",
+      "\u00e4ndere",
+      "schalte um",
+      "wechsle",
+      "mache"
+    ],
+    "list-manager-skill.add": [
+      "f\u00fcge hinzu",
+      "hinzuf\u00fcgen",
+      "erstelle",
+      "erstelle n"
+    ],
+    "list-manager-skill.del": [
+      "entferne",
+      "entferne n"
+    ],
+    "list-manager-skill.list": [
+      "Liste",
+      "Listen"
+    ],
+    "list-manager-skill.what": [
+      "welche",
+      "was"
+    ],
+    "mycroft-node-red.WhyKeyword": [
+      "warum"
+    ],
+    "mycroft-timer.All": [
+      "alle",
+      "laufen"
+    ],
+    "mycroft-timer.Cancel": [
+      "stornieren",
+      "l\u00f6schen",
+      "abschalten",
+      "t\u00f6ten",
+      "stop",
+      "stoppen"
+    ],
+    "mycroft-timer.Mute": [
+      "mute",
+      "leise",
+      "verlassen",
+      "ende"
+    ],
+    "mycroft-timer.Timer": [
+      "timer",
+      "timers"
+    ],
+    "national-parks-skill.Describe": [
+      "beschreibe",
+      "Erz\u00e4hl mir von"
+    ],
+    "national-parks-skill.List": [
+      "Liste"
+    ],
+    "national-parks-skill.National.Park": [
+      "Nationalpark"
+    ],
+    "national-parks-skill.National.Parks": [
+      "Nationalparks"
+    ],
+    "national-parks-skill.Quiz.Repeat": [
+      "wiederhole das Nationalparkquiz"
+    ],
+    "national-parks-skill.Quiz.me": [
+      "stelle mir Quizfragen zu den Nationalparks"
+    ],
+    "national-parks-skill.Whereis": [
+      "Wo ist"
+    ],
+    "pairing.DeviceKeyword": [
+      "Einheit",
+      "Ger\u00e4t",
+      "mycroft"
+    ],
+    "pairing.PairingKeyword": [
+      "Mein Ger\u00e4t koppeln",
+      "Mein Ger\u00e4t registrieren"
+    ],
+    "personal.WhatAreYouKeyword": [
+      "Was machst du",
+      "f\u00fcr was bist du gut"
+    ],
+    "personal.WhenWereYouBornKeyword": [
+      "Wann wurdest du geboren",
+      "Wann wurdest du geschaffen"
+    ],
+    "personal.WhereWereYouBornKeyword": [
+      "Wo bist du geboren",
+      "Wo wurdest du gemacht"
+    ],
+    "personal.WhoAreYouKeyword": [
+      "wer bist du"
+    ],
+    "personal.WhoMadeYouKeyword": [
+      "wer hat dich gemacht",
+      "wer hat dich erfunden"
+    ],
+    "plasma-activities-skill.ActivitiesCreateKeyword": [
+      "Eine neue Aktivit\u00e4t erstellen",
+      "Neue Aktivit\u00e4t erstellen",
+      "Aktivit\u00e4t erstellen",
+      "Starte eine neue Aktivit\u00e4t",
+      "Erstelle neue Aktivit\u00e4ten",
+      "starte neue Aktivit\u00e4ten",
+      "erstelle Aktivit\u00e4ten",
+      "neue Aktivit\u00e4t",
+      "neue Aktivit\u00e4ten"
+    ],
+    "plasma-activities-skill.ActivitiesRemoveKeyword": [
+      "entferne Aktivit\u00e4t",
+      "entferne die Aktivit\u00e4t",
+      "l\u00f6sche Aktivit\u00e4t",
+      "L\u00f6sche die Aktivit\u00e4t"
+    ],
+    "plasma-activities-skill.ActivitiesShowKeyword": [
+      "zeige aktuelle Aktivit\u00e4ten",
+      "zeige Aktivit\u00e4ten",
+      "Aktivit\u00e4ten",
+      "Zeige mir die aktuellen Aktivit\u00e4ten an",
+      "zeige Aktivit\u00e4ten an"
+    ],
+    "plasma-activities-skill.ActivitiesStopKeyword": [
+      "beende momentane Aktivit\u00e4t",
+      "beende Aktivit\u00e4t"
+    ],
+    "plasma-activities-skill.ActivitiesSwitchKeyword": [
+      "wechsle momentane Aktivit\u00e4t",
+      "wechsle zur Aktivit\u00e4t",
+      "wechsle Aktivit\u00e4t"
+    ],
+    "playback-control.Next": [
+      "n\u00e4chster",
+      "weiter"
+    ],
+    "playback-control.Pause": [
+      "pause"
+    ],
+    "playback-control.PlayResume": [
+      "fortsetzen",
+      "weiter"
+    ],
+    "playback-control.Prev": [
+      "voheriger"
+    ],
+    "playback-control.Resume": [
+      "fortsetzen",
+      "weiter"
+    ],
+    "playback-control.Track": [
+      "Titel"
+    ],
+    "pokemon-skill.Ability": [
+      "F\u00e4higkeit",
+      "F\u00e4higkeiten"
+    ],
+    "pokemon-skill.AbilityEffectEntry": [
+      "detaillierte Infos",
+      "detaillierte Informationen"
+    ],
+    "pokemon-skill.AbilityEffectEntryShort": [
+      "einige Infos",
+      "einige Informationen",
+      "Infos",
+      "Informationen"
+    ],
+    "pokemon-skill.AbilityFlavorText": [
+      "Flavour-Text",
+      "Im Pokedex steht",
+      "Pokedex"
+    ],
+    "pokemon-skill.Against": [
+      "gegen"
+    ],
+    "pokemon-skill.Attack": [
+      "Attacke"
+    ],
+    "pokemon-skill.Base": [
+      "Basis",
+      "Basisstatistik",
+      "Basisstatistiken"
+    ],
+    "pokemon-skill.CaptureRate": [
+      "fangen",
+      "Fangrate",
+      "Fangrate",
+      "fangen",
+      "Fangrate"
+    ],
+    "pokemon-skill.Color": [
+      "Farbe"
+    ],
+    "pokemon-skill.Defense": [
+      "Verteidigung"
+    ],
+    "pokemon-skill.Effective": [
+      "effektiv",
+      "Effektivit\u00e4t",
+      "gut",
+      "schlecht",
+      "Schaden"
+    ],
+    "pokemon-skill.Egg": [
+      "Ei",
+      "Eigruppe",
+      "Eier",
+      "Eigruppen",
+      "schl\u00fcpfe aus",
+      "br\u00fcte",
+      "schl\u00fcpft"
+    ],
+    "pokemon-skill.EnglishLength": [
+      "Fu\u00df",
+      "Zoll"
+    ],
+    "pokemon-skill.EnglishWeight": [
+      "Pfund"
+    ],
+    "pokemon-skill.Evolve": [
+      "entwickeln",
+      "Evolution",
+      "entwickelt sich",
+      "kommt",
+      "Zug"
+    ],
+    "pokemon-skill.Experience": [
+      "Erfahrung",
+      "E x p",
+      "Exp",
+      "Erfahrungspunkte",
+      "Erfahrungspunkte",
+      "erfahren"
+    ],
+    "pokemon-skill.Final": [
+      "finale",
+      "letzte"
+    ],
+    "pokemon-skill.First": [
+      "Basis",
+      "erste",
+      "einfach",
+      "am einfachsten"
+    ],
+    "pokemon-skill.Form": [
+      "Form"
+    ],
+    "pokemon-skill.From": [
+      "von",
+      "vor",
+      "vorherig"
+    ],
+    "pokemon-skill.Game": [
+      "Spiel",
+      "Pokemon Version",
+      "Generation",
+      "Gen"
+    ],
+    "pokemon-skill.HP": [
+      "Hp",
+      "H p",
+      "Gesundheit"
+    ],
+    "pokemon-skill.Habitat": [
+      "Lebensraum",
+      "lebt",
+      "Leben",
+      "Zuhause"
+    ],
+    "pokemon-skill.Happiness": [
+      "Gl\u00fccklichkeit",
+      "gl\u00fccklich",
+      "f\u00fchlen",
+      "Gef\u00fchl",
+      "Freundschaft",
+      "freundlich"
+    ],
+    "pokemon-skill.Height": [
+      "H\u00f6he",
+      "hoch",
+      "gro\u00df"
+    ],
+    "pokemon-skill.ID": [
+      "Pokedex",
+      "ID",
+      "Nummer",
+      "I D"
+    ],
+    "pokemon-skill.Into": [
+      "in",
+      "zu",
+      "n\u00e4chster",
+      "nach",
+      "wann",
+      "werden",
+      "wie"
+    ],
+    "pokemon-skill.Introduced": [
+      "vorgestellt",
+      "zuerst gesehen"
+    ],
+    "pokemon-skill.Learn": [
+      "lernen"
+    ],
+    "pokemon-skill.MetricLength": [
+      "Meter",
+      "c m",
+      "cm"
+    ],
+    "pokemon-skill.MetricWeight": [
+      "Kilogramm",
+      "Kilogramm",
+      "Gramm",
+      "kg",
+      "k g"
+    ],
+    "pokemon-skill.Move": [
+      "Attacke"
+    ],
+    "pokemon-skill.Nature": [
+      "Natur",
+      "m\u00f6gen"
+    ],
+    "pokemon-skill.Pokemon": [
+      "Pokemon"
+    ],
+    "pokemon-skill.Shape": [
+      "Form",
+      "geformt"
+    ],
+    "pokemon-skill.Special": [
+      "spezial"
+    ],
+    "pokemon-skill.Speed": [
+      "Initiative",
+      "schnell"
+    ],
+    "pokemon-skill.Type": [
+      "Typ",
+      "Typen"
+    ],
+    "pokemon-skill.Weight": [
+      "Gewicht",
+      "wiegen",
+      "schwer",
+      "wiegt",
+      "Masse",
+      "Fett"
+    ],
+    "query.Question": [
+      "was",
+      "wer",
+      "wann",
+      "wie",
+      "wo"
+    ],
+    "remember-skill.All": [
+      "Alle"
+    ],
+    "remember-skill.Did": [
+      "tat"
+    ],
+    "remember-skill.Forget": [
+      "vergiss"
+    ],
+    "remember-skill.Phrase": [
+      "Phrase",
+      "Phrasen"
+    ],
+    "remember-skill.Remember": [
+      "erinnere"
+    ],
+    "remember-skill.You": [
+      "du"
+    ],
+    "simple-youtube.official": [
+      "official"
+    ],
+    "simple-youtube.youtube": [
+      "youtube",
+      "you tube"
+    ],
+    "singing.Sing": [
+      "singe",
+      "singe mir ein lied",
+      "kannst du mir ein Lied singen",
+      "singe mir etwas vor",
+      "singe mir was vor",
+      "singe f\u00fcr mich"
+    ],
+    "sip.neon.accept": [
+      "Akzeptieren",
+      "Antworten",
+      "Anruf annehmen",
+      "Anruf beantworten"
+    ],
+    "sip.neon.and_say": [
+      "und sag",
+      "und sage"
+    ],
+    "sip.neon.call": [
+      "Anruf"
+    ],
+    "sip.neon.reject": [
+      "ablehnen",
+      "auflegen",
+      "Anruf ablehnen",
+      "Anruf auflegen",
+      "Anruf aufh\u00e4ngen",
+      "einh\u00e4ngen"
+    ],
+    "speak.Speak": [
+      "spreche",
+      "sage",
+      "wiederhole"
+    ],
+    "speedtest-skill.Run": [
+      "starte"
+    ],
+    "speedtest-skill.Speedtest": [
+      "Geschwindigkeitstest",
+      "Geschwindigkeitstest",
+      "Speed Test",
+      "Speedtest"
+    ],
+    "spotify-skill.Device": [
+      "device",
+      "unit",
+      "devices",
+      "units"
+    ],
+    "spotify-skill.Play": [
+      "Spiele",
+      "h\u00f6re",
+      "start"
+    ],
+    "spotify-skill.Search": [
+      "suche",
+      "schaue nach"
+    ],
+    "spotify-skill.Spotify": [
+      "Spotify",
+      "nutze Spotify",
+      "mit Spotify",
+      "auf Spotify"
+    ],
+    "spotify-skill.Transfer": [
+      "\u00dcbertrage",
+      "bewege"
+    ],
+    "version-checker.Check": [
+      "pr\u00fcfen",
+      "finde",
+      "Was ist",
+      "welche"
+    ],
+    "version-checker.PlatformBuild": [
+      "platform build",
+      "platform version",
+      "firmware version"
+    ],
+    "version-checker.Version": [
+      "version",
+      "code",
+      "release"
+    ],
+    "voip.accept": [
+      "Akzeptieren",
+      "Antworten",
+      "Anruf annehmen",
+      "Anruf beantworten"
+    ],
+    "voip.and_say": [
+      "und sag",
+      "und sage"
+    ],
+    "voip.call": [
+      "Anruf"
+    ],
+    "voip.reject": [
+      "ablehnen",
+      "auflegen",
+      "Anruf ablehnen",
+      "Anruf auflegen",
+      "Anruf aufh\u00e4ngen",
+      "einh\u00e4ngen"
+    ],
+    "volume.Decrease": [
+      "leiser",
+      "reduziere",
+      "verringern",
+      "herunterdrehen"
+    ],
+    "volume.Increase": [
+      "lauter",
+      "anheben",
+      "steigern",
+      "erh\u00f6hen",
+      "aufdrehen"
+    ],
+    "volume.Level": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "Leise",
+      "normal",
+      "laut"
+    ],
+    "volume.Mute": [
+      "mute",
+      "leise",
+      "stumm",
+      "ruhe"
+    ],
+    "volume.Unmute": [
+      "zur\u00fccksetzen",
+      "unmute",
+      "wiederherstellen",
+      "aufheben"
+    ],
+    "volume.Volume": [
+      "Lautst\u00e4rke",
+      "Lautspecher",
+      "audio",
+      "sound"
+    ],
+    "volume.neon.Decrease": [
+      "leiser",
+      "reduziere",
+      "verringern",
+      "herunterdrehen"
+    ],
+    "volume.neon.Increase": [
+      "lauter",
+      "anheben",
+      "steigern",
+      "erh\u00f6hen",
+      "aufdrehen"
+    ],
+    "volume.neon.Level": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "Leise",
+      "normal",
+      "laut"
+    ],
+    "volume.neon.Mute": [
+      "mute",
+      "leise",
+      "stumm",
+      "ruhe"
+    ],
+    "volume.neon.Unmute": [
+      "zur\u00fccksetzen",
+      "unmute",
+      "wiederherstellen",
+      "aufheben"
+    ],
+    "volume.neon.Volume": [
+      "Lautst\u00e4rke",
+      "Lautspecher",
+      "audio",
+      "sound"
+    ],
+    "weather.Forecast": [
+      "Vorhersage"
+    ],
+    "weather.Humidity": [
+      "Feuchtigkeit",
+      "Luftfeuchte",
+      "Luftfeuchtigkeit"
+    ],
+    "weather.Later": [
+      "n\u00e4chste Stunden",
+      "sp\u00e4ter",
+      "demn\u00e4chst",
+      "paar Stunden",
+      "einigen stunden",
+      "Bald"
+    ],
+    "weather.Location": [
+      "Seattle",
+      "Los Angeles california",
+      "los angeles",
+      "la",
+      "Lawrence kansas",
+      "portland oregon",
+      "portland",
+      "spokane",
+      "new york",
+      "chicago",
+      "houston",
+      "austin",
+      "san diego",
+      "san francisco",
+      "san jose",
+      "boston",
+      "washington d c",
+      "atlanta"
+    ],
+    "weather.Next": [
+      "n\u00e4chste",
+      "nocheinmal",
+      "weiter",
+      "zuk\u00fcnftig"
+    ],
+    "weather.Precipitation": [
+      "Regen",
+      "Schnee",
+      "Niederschlag",
+      "Regnerisch"
+    ],
+    "weather.Query": [
+      "wie",
+      "was ist",
+      "sage",
+      "wann"
+    ],
+    "weather.Sunrise": [
+      "Sonnenaufgang",
+      "aufgang der Sonne",
+      "d\u00e4mmerung",
+      "Tagesanbruch"
+    ],
+    "weather.Sunset": [
+      "Sonnenuntergang",
+      "abendd\u00e4mmerung"
+    ],
+    "weather.Weather": [
+      "Wetter",
+      "Temperatur",
+      "Prognose"
+    ],
+    "weather.WeatherType": [
+      "regen",
+      "regnen",
+      "Schnee",
+      "schneien",
+      "Schneeregen",
+      "Hagel",
+      "hageln",
+      "sonnig",
+      "Sonne",
+      "hot",
+      "warm",
+      "k\u00e4lte",
+      "kalt"
+    ],
+    "weather.Windy": [
+      "Windig",
+      "Wind",
+      "luftig"
+    ],
+    "white-house-adventure.Delete": [
+      "l\u00f6sche"
+    ],
+    "white-house-adventure.Play": [
+      "spiele",
+      "gehe zu",
+      "gehe zu"
+    ],
+    "white-house-adventure.Save": [
+      "speichern",
+      "Speicherstand",
+      "gespeichert"
+    ],
+    "white-house-adventure.Zork": [
+      "zork",
+      "Briefkasten",
+      "wei\u00dfes Haus"
+    ]
+  }
+}

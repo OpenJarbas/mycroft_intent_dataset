@@ -1,0 +1,62 @@
+{
+  "de-de": {
+    "alarm.ampm": [
+      "am",
+      "a.m",
+      "a.m.",
+      "AM",
+      "A.M",
+      "pm",
+      "p.m.",
+      "p.m",
+      "PM",
+      "P.M",
+      "Morgen",
+      "abend",
+      "morgens",
+      "abends"
+    ],
+    "alarm.daytype": [
+      "(day | weekday | weekdays | weekend | weekends | tomorrow | today)",
+      "(monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays)",
+      "(monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays) and (monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays)",
+      "(monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays) (monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays)"
+    ],
+    "alarm.exceptdaytype": [
+      "(day | weekday | weekend)",
+      "(monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays)",
+      "(monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays) and (monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays)"
+    ],
+    "alarm.length": [
+      "(#|##|###) (minute|minutes|hour|hours|day|days)",
+      "(#|##|###) (minute|minutes|hour|hours|day|days) und (#|##|###) (minute|minutes|hour|hours|day|days)",
+      "(#|##|###) (minute|minutes|hour|hours|day|days), (#|##|###) (minute|minutes|hour|hours|day|days), und (#|##|###) (minute|minutes|hour|hours|day|days)"
+    ],
+    "alarm.time": [
+      "(#|##)(:##|)",
+      "Mittag",
+      "Mitternacht"
+    ],
+    "mark-2.brightness": [
+      "voll",
+      "hell",
+      "halb",
+      "d\u00e4mmrig",
+      "niedrig",
+      "automatisch",
+      "automatisch"
+    ],
+    "mycroft-timer.all": [
+      "alle"
+    ],
+    "mycroft-timer.duration": [
+      "(#|##|###) (minutes|seconds|hours) (and|)",
+      "(#|##|###) (minute|second|hour) (and|)"
+    ],
+    "mycroft-timer.timervalue": [
+      ":0",
+      ":0 :0",
+      ":0 :0 :0"
+    ]
+  }
+}

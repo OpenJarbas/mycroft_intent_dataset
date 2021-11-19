@@ -1,0 +1,857 @@
+es-es,auto-volume-skill.activate,Activar el volumen automático
+es-es,auto-volume-skill.activate,Ajustar el volumen automático a activo
+es-es,auto-volume-skill.activate,Enciende el volumen automático
+es-es,auto-volume-skill.activate,Ajusta el volumen automático
+es-es,auto-volume-skill.deactivate,Desactiva el volumen automático
+es-es,auto-volume-skill.deactivate,Ajusta el volumen automático a inactivo
+es-es,auto-volume-skill.deactivate,Apaga el volumen automático
+es-es,auto-volume-skill.deactivate,Ajusta el volumen automático en apagado
+es-es,auto-volume-skill.reset,Borra las mediciones de volumen automático
+es-es,auto-volume-skill.reset,Borra las mediciones de volumen automático
+es-es,auto-volume-skill.reset,Borra las mediciones de volumen automático
+es-es,cocktail.Needed,qué se necesita para hacer un {drink}
+es-es,cocktail.Needed,qué necesitas para hacer un {drink}
+es-es,cocktail.Needed,qué necesito para hacer un {drink}
+es-es,cocktail.Needed,qué hace falta para hacer un {drink}
+es-es,cocktail.Needed,cuál es el ingreditente para hacer un {drink}
+es-es,cocktail.Needed,cuál es el ingreditente de un {drink}
+es-es,cocktail.Needed,cuáles son los ingredientes para hacer un {drink}
+es-es,cocktail.Needed,cuáles son los ingredientes de un {drink}
+es-es,cocktail.Recipie,cómo harias para preparar una {drink}
+es-es,cocktail.Recipie,cómo harias para preparar un {drink}
+es-es,cocktail.Recipie,cómo harias para hacer una {drink}
+es-es,cocktail.Recipie,cómo harias para hacer un {drink}
+es-es,cocktail.Recipie,cómo haces para preparar una {drink}
+es-es,cocktail.Recipie,cómo haces para preparar un {drink}
+es-es,cocktail.Recipie,cómo haces para hacer una {drink}
+es-es,cocktail.Recipie,cómo haces para hacer un {drink}
+es-es,cocktail.Recipie,cómo haría para preparar una {drink}
+es-es,cocktail.Recipie,cómo haría para preparar un {drink}
+es-es,cocktail.Recipie,cómo haría para hacer una {drink}
+es-es,cocktail.Recipie,cómo haría para hacer un {drink}
+es-es,cocktail.Recipie,cómo hago para preparar una {drink}
+es-es,cocktail.Recipie,cómo hago para preparar un {drink}
+es-es,cocktail.Recipie,cómo hago para hacer una {drink}
+es-es,cocktail.Recipie,cómo hago para hacer un {drink}
+es-es,cocktail.Recipie,cuéntanos como preparar una {drink}
+es-es,cocktail.Recipie,cuéntanos como preparar un {drink}
+es-es,cocktail.Recipie,cuéntanos como hacer una {drink}
+es-es,cocktail.Recipie,cuéntanos como hacer un {drink}
+es-es,cocktail.Recipie,dinos como preparar una {drink}
+es-es,cocktail.Recipie,dinos como preparar un {drink}
+es-es,cocktail.Recipie,dinos como hacer una {drink}
+es-es,cocktail.Recipie,dinos como hacer un {drink}
+es-es,cocktail.Recipie,dime como preparar una {drink}
+es-es,cocktail.Recipie,dime como preparar un {drink}
+es-es,cocktail.Recipie,dime como hacer una {drink}
+es-es,cocktail.Recipie,dime como hacer un {drink}
+es-es,cocktail.Recipie,cuéntame como preparar una {drink}
+es-es,cocktail.Recipie,cuéntame como preparar un {drink}
+es-es,cocktail.Recipie,cuéntame como hacer una {drink}
+es-es,cocktail.Recipie,cuéntame como hacer un {drink}
+es-es,cocktail.Recipie,danos instrucciones para una {drink}
+es-es,cocktail.Recipie,danos instrucciones para un {drink}
+es-es,cocktail.Recipie,danos instrucciones para preparar una {drink}
+es-es,cocktail.Recipie,danos instrucciones para preparar un {drink}
+es-es,cocktail.Recipie,danos instrucciones para hacer una {drink}
+es-es,cocktail.Recipie,danos instrucciones para hacer un {drink}
+es-es,cocktail.Recipie,danos las instrucciones para una {drink}
+es-es,cocktail.Recipie,danos las instrucciones para un {drink}
+es-es,cocktail.Recipie,danos las instrucciones para preparar una {drink}
+es-es,cocktail.Recipie,danos las instrucciones para preparar un {drink}
+es-es,cocktail.Recipie,danos las instrucciones para hacer una {drink}
+es-es,cocktail.Recipie,danos las instrucciones para hacer un {drink}
+es-es,cocktail.Recipie,dinos instrucciones para una {drink}
+es-es,cocktail.Recipie,dinos instrucciones para un {drink}
+es-es,cocktail.Recipie,dinos instrucciones para preparar una {drink}
+es-es,cocktail.Recipie,dinos instrucciones para preparar un {drink}
+es-es,cocktail.Recipie,dinos instrucciones para hacer una {drink}
+es-es,cocktail.Recipie,dinos instrucciones para hacer un {drink}
+es-es,cocktail.Recipie,dinos las instrucciones para una {drink}
+es-es,cocktail.Recipie,dinos las instrucciones para un {drink}
+es-es,cocktail.Recipie,dinos las instrucciones para preparar una {drink}
+es-es,cocktail.Recipie,dinos las instrucciones para preparar un {drink}
+es-es,cocktail.Recipie,dinos las instrucciones para hacer una {drink}
+es-es,cocktail.Recipie,dinos las instrucciones para hacer un {drink}
+es-es,cocktail.Recipie,dame instrucciones para una {drink}
+es-es,cocktail.Recipie,dame instrucciones para un {drink}
+es-es,cocktail.Recipie,dame instrucciones para preparar una {drink}
+es-es,cocktail.Recipie,dame instrucciones para preparar un {drink}
+es-es,cocktail.Recipie,dame instrucciones para hacer una {drink}
+es-es,cocktail.Recipie,dame instrucciones para hacer un {drink}
+es-es,cocktail.Recipie,dame las instrucciones para una {drink}
+es-es,cocktail.Recipie,dame las instrucciones para un {drink}
+es-es,cocktail.Recipie,dame las instrucciones para preparar una {drink}
+es-es,cocktail.Recipie,dame las instrucciones para preparar un {drink}
+es-es,cocktail.Recipie,dame las instrucciones para hacer una {drink}
+es-es,cocktail.Recipie,dame las instrucciones para hacer un {drink}
+es-es,cocktail.Recipie,cómo mezclar una {drink}
+es-es,cocktail.Recipie,cómo mezclar un {drink}
+es-es,cocktail.Recipie,cómo preparar una {drink}
+es-es,cocktail.Recipie,cómo preparar un {drink}
+es-es,cocktail.Recipie,cómo hacer una {drink}
+es-es,cocktail.Recipie,cómo hacer un {drink}
+es-es,cocktail.Recipie,cuál es la receta para una {drink}
+es-es,cocktail.Recipie,cuál es la receta para un {drink}
+es-es,cocktail.Recipie,cuál es la receta de una {drink}
+es-es,cocktail.Recipie,cuál es la receta de un {drink}
+es-es,count-skill.count,Cuenta hasta {number}
+es-es,count-skill.countdown,Cuenta atrás desde {number}
+es-es,count-skill.countdown,Cuenta atrás desde {number}
+es-es,count-skill.countdown,Cuenta atrás desde {number}
+es-es,count-skill.countdown,Cuenta hacia atrás desde {number}
+es-es,count-skill.countdown,Cuenta atrás desde {number}
+es-es,count-skill.countdown,Cuenta hacia atrás desde {number}
+es-es,count-skill.countdown,Cuenta atrás desde {number}
+es-es,count-skill.countdown,Desde {number} cuenta hacia atrás
+es-es,count-skill.countdown,Desde {number} cuenta hacia atrás
+es-es,dice-skill.Dice,tira d {type}
+es-es,dice-skill.Dice,tira d {type} {modifier}
+es-es,dice-skill.Dice,tira d {type} plus
+es-es,dice-skill.Dice,tira d {type} plus {modifier}
+es-es,dice-skill.Dice,tira d {type} +
+es-es,dice-skill.Dice,tira d {type} + {modifier}
+es-es,dice-skill.Dice,tira {count} d {type}
+es-es,dice-skill.Dice,tira {count} d {type} {modifier}
+es-es,dice-skill.Dice,tira {count} d {type} plus
+es-es,dice-skill.Dice,tira {count} d {type} plus {modifier}
+es-es,dice-skill.Dice,tira {count} d {type} +
+es-es,dice-skill.Dice,tira {count} d {type} + {modifier}
+es-es,dice-skill.NormalDice,tira dados
+es-es,dice-skill.NormalDice,tira dado
+es-es,dice-skill.NormalDice,tira {count} dados
+es-es,dice-skill.NormalDice,tira {count} dado
+es-es,dice-skill.Range,Genera un número aleatorio del {low} al {high}
+es-es,dice-skill.Range,Genera un número aleatorio entre el {low} y el {high}
+es-es,dice-skill.Range,Dime un número del {low} al {high}
+es-es,dice-skill.Range,Dime un número entre {low} y {high}
+es-es,email-skill.check.email,comprueba mi correo electrónico .
+es-es,email-skill.check.email,comprueba mi email .
+es-es,email-skill.check.email,comprueba mi correo.
+es-es,email-skill.check.email,¿tengo algún correo nuevo?
+es-es,email-skill.check.email,¿tengo algún correo electrónico ?
+es-es,email-skill.check.email,¿tengo algún correo ?
+es-es,email-skill.check.email,¿tengo algún email ?
+es-es,email-skill.check.email,¿tengo algún correo electrónico nuevo?
+es-es,email-skill.check.email,¿tengo algún correo nuevo?
+es-es,email-skill.check.email,¿tengo algún email nuevo?
+es-es,email-skill.enquire.email,¿Tengo un correo electrónico de {email}?
+es-es,email-skill.enquire.email,¿Recibí correo electrónico de de {email}?
+es-es,email-skill.enquire.email,¿Recibí correo electrónico por de {email}?
+es-es,email-skill.enquire.email,¿Recibí cualquier correo electrónico de de {email}?
+es-es,email-skill.enquire.email,¿Recibí cualquier correo electrónico por de {email}?
+es-es,email-skill.enquire.email,¿He Recibido correos electrónicos de {email}?
+es-es,email-skill.notify,Dime si hay email
+es-es,email-skill.notify,Dime si hay nuevo correo
+es-es,email-skill.notify,Dime si hay correo electrónico
+es-es,email-skill.notify,Dime si hay correo
+es-es,email-skill.notify,Dime cuando tenga email
+es-es,email-skill.notify,Dime cuando tenga nuevo correo
+es-es,email-skill.notify,Dime cuando tenga correo electrónico
+es-es,email-skill.notify,Dime cuando tenga correo
+es-es,email-skill.notify,Dime cuando tenga email por {sender}
+es-es,email-skill.notify,Dime cuando tenga email de {sender}
+es-es,email-skill.notify,Dime cuando tenga un correo electrónico por {sender}
+es-es,email-skill.notify,Dime cuando tenga un correo electrónico de {sender}
+es-es,email-skill.notify,Dime cuando tenga un correo por {sender}
+es-es,email-skill.notify,Dime cuando tenga un correo de {sender}
+es-es,email-skill.notify,Dime de email por {sender}
+es-es,email-skill.notify,Dime de email de {sender}
+es-es,email-skill.notify,Dime de correo por {sender}
+es-es,email-skill.notify,Dime de correo de {sender}
+es-es,email-skill.notify,Notifícame de nuevo email
+es-es,email-skill.notify,Notifícame de nuevo correo
+es-es,email-skill.notify,Notifícame de email
+es-es,email-skill.notify,Notifícame de correo
+es-es,email-skill.notify,avísame cuando tenga email procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga email de {sender}
+es-es,email-skill.notify,avísame cuando tenga nuevo correo procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga nuevo correo de {sender}
+es-es,email-skill.notify,avísame cuando tenga correo electrónico procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga correo electrónico de {sender}
+es-es,email-skill.notify,avísame cuando tenga correo procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga correo de {sender}
+es-es,email-skill.notify,avísame cuando tenga un email procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga un email de {sender}
+es-es,email-skill.notify,avísame cuando tenga un nuevo correo procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga un nuevo correo de {sender}
+es-es,email-skill.notify,avísame cuando tenga un correo electrónico procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga un correo electrónico de {sender}
+es-es,email-skill.notify,avísame cuando tenga un correo procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga un correo de {sender}
+es-es,email-skill.notify,avísame cuando tenga email
+es-es,email-skill.notify,avísame cuando tenga nuevo correo
+es-es,email-skill.notify,avísame cuando tenga correo electrónico
+es-es,email-skill.notify,avísame cuando tenga correo
+es-es,email-skill.notify,avísame cuando tenga un email
+es-es,email-skill.notify,avísame cuando tenga un nuevo correo
+es-es,email-skill.notify,avísame cuando tenga un correo electrónico
+es-es,email-skill.notify,avísame cuando tenga un correo
+es-es,email-skill.notify,avísame cuando tenga email procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga email de {sender}
+es-es,email-skill.notify,avísame cuando tenga correo electrónico procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga correo electrónico de {sender}
+es-es,email-skill.notify,avísame cuando tenga correo procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga correo de {sender}
+es-es,email-skill.notify,avísame cuando tenga un email procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga un email de {sender}
+es-es,email-skill.notify,avísame cuando tenga un correo electrónico procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga un correo electrónico de {sender}
+es-es,email-skill.notify,avísame cuando tenga un correo procedente de {sender}
+es-es,email-skill.notify,avísame cuando tenga un correo de {sender}
+es-es,email-skill.stop,No me notifiques de nuevo email
+es-es,email-skill.stop,No me notifiques de nuevo correo
+es-es,email-skill.stop,No me notifiques de email
+es-es,email-skill.stop,No me notifiques de correo
+es-es,email-skill.stop,No me avises de email procedente de {sender}
+es-es,email-skill.stop,No me avises de email de {sender}
+es-es,email-skill.stop,No me avises de nuevo correo procedente de {sender}
+es-es,email-skill.stop,No me avises de nuevo correo de {sender}
+es-es,email-skill.stop,No me avises de correo electrónico procedente de {sender}
+es-es,email-skill.stop,No me avises de correo electrónico de {sender}
+es-es,email-skill.stop,No me avises de correo procedente de {sender}
+es-es,email-skill.stop,No me avises de correo de {sender}
+es-es,email-skill.stop,No me notifiques de nuevo de nuevo email
+es-es,email-skill.stop,No me notifiques de nuevo de nuevo correo
+es-es,email-skill.stop,No me notifiques de nuevo de email
+es-es,email-skill.stop,No me notifiques de nuevo de correo
+es-es,email-skill.stop,No me notifiques de nuevo email procedente de {sender}
+es-es,email-skill.stop,No me notifiques de nuevo email de {sender}
+es-es,email-skill.stop,No me notifiques de nuevo nuevo correo procedente de {sender}
+es-es,email-skill.stop,No me notifiques de nuevo nuevo correo de {sender}
+es-es,email-skill.stop,No me notifiques de nuevo correo electrónico procedente de {sender}
+es-es,email-skill.stop,No me notifiques de nuevo correo electrónico de {sender}
+es-es,email-skill.stop,No me notifiques de nuevo correo procedente de {sender}
+es-es,email-skill.stop,No me notifiques de nuevo correo de {sender}
+es-es,email-skill.stop,No me avises de nuevo email
+es-es,email-skill.stop,No me avises de nuevo correo
+es-es,email-skill.stop,No me avises de email
+es-es,email-skill.stop,No me avises de correo
+es-es,email-skill.stop,No me avises de email procedente de {sender}
+es-es,email-skill.stop,No me avises de email de {sender}
+es-es,email-skill.stop,No me avises de nuevo correo procedente de {sender}
+es-es,email-skill.stop,No me avises de nuevo correo de {sender}
+es-es,email-skill.stop,No me avises de correo electrónico procedente de {sender}
+es-es,email-skill.stop,No me avises de correo electrónico de {sender}
+es-es,email-skill.stop,No me avises de correo procedente de {sender}
+es-es,email-skill.stop,No me avises de correo de {sender}
+es-es,email-skill.stop,No me notifiques de nuevo de nuevo email
+es-es,email-skill.stop,No me notifiques de nuevo de nuevo correo
+es-es,email-skill.stop,No me notifiques de nuevo de email
+es-es,email-skill.stop,No me notifiques de nuevo de correo
+es-es,email-skill.stop,No vuelvas a notificarme de email procedente de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de email de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de nuevo correo procedente de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de nuevo correo de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de correo electrónico procedente de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de correo electrónico de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de correo procedente de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de correo de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de un email procedente de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de un email de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de un nuevo correo procedente de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de un nuevo correo de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de un correo electrónico procedente de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de un correo electrónico de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de un correo procedente de {sender}
+es-es,email-skill.stop,No vuelvas a notificarme de un correo de {sender}
+es-es,emby-skill.diagnostic,comprobando emily conexión
+es-es,emby-skill.diagnostic,comprobando nv conexión
+es-es,emby-skill.diagnostic,comprobando mv conexión
+es-es,emby-skill.diagnostic,comprobando mb conexión
+es-es,emby-skill.diagnostic,comprobando emby conexión
+es-es,emby-skill.diagnostic,Ejecutar diagnóstico de emily
+es-es,emby-skill.diagnostic,Ejecutar diagnóstico de nv
+es-es,emby-skill.diagnostic,Ejecutar diagnóstico de mv
+es-es,emby-skill.diagnostic,Ejecutar diagnóstico de mb
+es-es,emby-skill.diagnostic,Ejecutar diagnóstico de emby
+es-es,emby-skill.diagnostic,comprobar emily
+es-es,emby-skill.diagnostic,comprobar nv
+es-es,emby-skill.diagnostic,comprobar mv
+es-es,emby-skill.diagnostic,comprobar mb
+es-es,emby-skill.diagnostic,comprobar emby
+es-es,emby-skill.emby,Reproduce {media} en emby
+es-es,emby-skill.emby,reproduce {media} desde emby
+es-es,emby-skill.emby,Pon {artist} desde emby
+es-es,emby-skill.emby,Pon {artist} de emby
+es-es,emby-skill.emby,Pon {artist} por emby
+es-es,emby-skill.emby,Pon {artist} en emby
+es-es,emby-skill.emby,Pon el artista {artist} desde emby
+es-es,emby-skill.emby,Pon el artista {artist} de emby
+es-es,emby-skill.emby,Pon el artista {artist} por emby
+es-es,emby-skill.emby,Pon el artista {artist} en emby
+es-es,emby-skill.emby,Pon a {artist} desde emby
+es-es,emby-skill.emby,Pon a {artist} de emby
+es-es,emby-skill.emby,Pon a {artist} por emby
+es-es,emby-skill.emby,Pon a {artist} en emby
+es-es,emby-skill.emby,Pon {artist} desde mb
+es-es,emby-skill.emby,Pon {artist} de mb
+es-es,emby-skill.emby,Pon {artist} por mb
+es-es,emby-skill.emby,Pon {artist} en mb
+es-es,emby-skill.emby,Pon el artista {artist} desde mb
+es-es,emby-skill.emby,Pon el artista {artist} de mb
+es-es,emby-skill.emby,Pon el artista {artist} por mb
+es-es,emby-skill.emby,Pon el artista {artist} en mb
+es-es,emby-skill.emby,Pon a {artist} desde mb
+es-es,emby-skill.emby,Pon a {artist} de mb
+es-es,emby-skill.emby,Pon a {artist} por mb
+es-es,emby-skill.emby,Pon a {artist} en mb
+es-es,emby-skill.emby,Pon el album {album} desde emby
+es-es,emby-skill.emby,Pon el album {album} por emby
+es-es,emby-skill.emby,Pon el album {album} en emby
+es-es,emby-skill.emby,Pon {album} desde emby
+es-es,emby-skill.emby,Pon {album} por emby
+es-es,emby-skill.emby,Pon {album} en emby
+es-es,emby-skill.emby,Pon el album {album} desde mb
+es-es,emby-skill.emby,Pon el album {album} de mb
+es-es,emby-skill.emby,Pon el album {album} por mb
+es-es,emby-skill.emby,Pon el album {album} en mb
+es-es,emby-skill.emby,Pon {album} desde mb
+es-es,emby-skill.emby,Pon {album} de mb
+es-es,emby-skill.emby,Pon {album} por mb
+es-es,emby-skill.emby,Pon {album} en mb
+es-es,fairytalez-skill.continue,Continúa la historia
+es-es,fairytalez-skill.continue,Continúa contando la historia
+es-es,fairytalez-skill.continue,Continúa el cuento de hadas
+es-es,fairytalez-skill.continue,Continúa contando el cuento de hadas
+es-es,fairytalez-skill.continue,Continúa el cuento de hadas
+es-es,fairytalez-skill.continue,Continúa con el cuento de hadas
+es-es,fairytalez-skill.continue,Continúa con el cuento de hadas
+es-es,fairytalez-skill.fairytalez,Lee una buena historia
+es-es,fairytalez-skill.fairytalez,Lee un buen cuento
+es-es,fairytalez-skill.fairytalez,Lee me una buena historia
+es-es,fairytalez-skill.fairytalez,Lee me un buen cuento
+es-es,fairytalez-skill.fairytalez,Cuénta una buena historia
+es-es,fairytalez-skill.fairytalez,Cuénta un buen cuento
+es-es,fairytalez-skill.fairytalez,Cuénta me una buena historia
+es-es,fairytalez-skill.fairytalez,Cuénta me un buen cuento
+es-es,fairytalez-skill.fairytalez,Lee el cuento de {tale}
+es-es,fairytalez-skill.fairytalez,Lee me el cuento de {tale}
+es-es,fairytalez-skill.fairytalez,Cuenta el cuento de {tale}
+es-es,fairytalez-skill.fairytalez,Cuenta me el cuento de {tale}
+es-es,homeassistant.set.climate,pon el {entity} a {temp} grados
+es-es,homeassistant.set.climate,pon la temperatura de {entity} a {temp} grados
+es-es,homeassistant.set.climate,cambia la temperatura de {entity} a {temp} grados
+es-es,homeassistant.set.light.brightness,establece el brillo de {{entity}} a {{brightnessvalue}} por ciento
+es-es,iss-tracker-skill.tracker.iss,Dónde está la estación espacial internacional
+es-es,iss-tracker-skill.tracker.iss,ubica la I S S
+es-es,iss-tracker-skill.tracker.iss,Encuentra la I S S
+es-es,iss-tracker-skill.tracker.iss,Dónde está la I S S
+es-es,laugh.Laugh,ríete como Alexa
+es-es,laugh.Laugh,¿puedes reírte?
+es-es,laugh.Laugh,risotada malvada
+es-es,laugh.Laugh,carcajada malvada
+es-es,laugh.Laugh,risa malvada
+es-es,laugh.RandomLaugh,ríe al azar
+es-es,laugh.RandomLaugh,reir al azar
+es-es,laugh.RandomLaugh,ríete al azar
+es-es,laugh.RandomLaugh,activa una risotada aleatoria
+es-es,laugh.RandomLaugh,activa una carcajada aleatoria
+es-es,laugh.RandomLaugh,activa una risa aleatoria
+es-es,laugh.RandomLaugh,risotada aleatoria
+es-es,laugh.RandomLaugh,carcajada aleatoria
+es-es,laugh.RandomLaugh,risa aleatoria
+es-es,mark-2.brightness,oscurece tus ojos al {brightness}
+es-es,mark-2.brightness,oscurece tus ojos al {brightness} por ciento
+es-es,mark-2.brightness,oscurece los ojos al {brightness}
+es-es,mark-2.brightness,oscurece los ojos al {brightness} por ciento
+es-es,mark-2.brightness,oscurécete al {brightness}
+es-es,mark-2.brightness,oscurécete al {brightness} por ciento
+es-es,mark-2.brightness,reduce la iluminación de tus ojos al {brightness}
+es-es,mark-2.brightness,reduce la iluminación de tus ojos al {brightness} por ciento
+es-es,mark-2.brightness,reduce el brillo de tus ojos al {brightness}
+es-es,mark-2.brightness,reduce el brillo de tus ojos al {brightness} por ciento
+es-es,mark-2.brightness,baja la iluminación de tus ojos al {brightness}
+es-es,mark-2.brightness,baja la iluminación de tus ojos al {brightness} por ciento
+es-es,mark-2.brightness,baja el brillo de tus ojos al {brightness}
+es-es,mark-2.brightness,baja el brillo de tus ojos al {brightness} por ciento
+es-es,mark-2.brightness,reduce la iluminación al {brightness}
+es-es,mark-2.brightness,reduce la iluminación al {brightness} por ciento
+es-es,mark-2.brightness,reduce el brillo al {brightness}
+es-es,mark-2.brightness,reduce el brillo al {brightness} por ciento
+es-es,mark-2.brightness,aumenta la iluminación al {brightness}
+es-es,mark-2.brightness,aumenta la iluminación al {brightness} por ciento
+es-es,mark-2.brightness,aumenta el brillo al {brightness}
+es-es,mark-2.brightness,aumenta el brillo al {brightness} por ciento
+es-es,mark-2.brightness,baja la iluminación al {brightness}
+es-es,mark-2.brightness,baja la iluminación al {brightness} por ciento
+es-es,mark-2.brightness,baja el brillo al {brightness}
+es-es,mark-2.brightness,baja el brillo al {brightness} por ciento
+es-es,mark-2.brightness,sube la iluminación al {brightness}
+es-es,mark-2.brightness,sube la iluminación al {brightness} por ciento
+es-es,mark-2.brightness,sube el brillo al {brightness}
+es-es,mark-2.brightness,sube el brillo al {brightness} por ciento
+es-es,mark-2.brightness,ilumínate al {brightness}
+es-es,mark-2.brightness,ilumínate al {brightness} por ciento
+es-es,mark-2.brightness,ilumínate hasta {brightness}
+es-es,mark-2.brightness,ilumínate hasta {brightness} por ciento
+es-es,mark-2.brightness,ilumínate un poco al {brightness}
+es-es,mark-2.brightness,ilumínate un poco al {brightness} por ciento
+es-es,mark-2.brightness,ilumínate un poco hasta {brightness}
+es-es,mark-2.brightness,ilumínate un poco hasta {brightness} por ciento
+es-es,mark-2.brightness,pon al {brightness} la iluminación
+es-es,mark-2.brightness,pon al {brightness} la iluminación de tus ojos
+es-es,mark-2.brightness,pon al {brightness} el brillo
+es-es,mark-2.brightness,pon al {brightness} el brillo de tus ojos
+es-es,mark-2.brightness,pon al {brightness} por ciento la iluminación
+es-es,mark-2.brightness,pon al {brightness} por ciento la iluminación de tus ojos
+es-es,mark-2.brightness,pon al {brightness} por ciento el brillo
+es-es,mark-2.brightness,pon al {brightness} por ciento el brillo de tus ojos
+es-es,mark-2.brightness,establece al {brightness} la iluminación
+es-es,mark-2.brightness,establece al {brightness} la iluminación de tus ojos
+es-es,mark-2.brightness,establece al {brightness} el brillo
+es-es,mark-2.brightness,establece al {brightness} el brillo de tus ojos
+es-es,mark-2.brightness,establece al {brightness} por ciento la iluminación
+es-es,mark-2.brightness,establece al {brightness} por ciento la iluminación de tus ojos
+es-es,mark-2.brightness,establece al {brightness} por ciento el brillo
+es-es,mark-2.brightness,establece al {brightness} por ciento el brillo de tus ojos
+es-es,mark-2.brightness,cambia al {brightness} la iluminación
+es-es,mark-2.brightness,cambia al {brightness} la iluminación de tus ojos
+es-es,mark-2.brightness,cambia al {brightness} el brillo
+es-es,mark-2.brightness,cambia al {brightness} el brillo de tus ojos
+es-es,mark-2.brightness,cambia al {brightness} por ciento la iluminación
+es-es,mark-2.brightness,cambia al {brightness} por ciento la iluminación de tus ojos
+es-es,mark-2.brightness,cambia al {brightness} por ciento el brillo
+es-es,mark-2.brightness,cambia al {brightness} por ciento el brillo de tus ojos
+es-es,mark-2.brightness,pon la iluminación al {brightness}
+es-es,mark-2.brightness,pon la iluminación al {brightness} por ciento
+es-es,mark-2.brightness,pon la iluminación de tus ojos al {brightness}
+es-es,mark-2.brightness,pon la iluminación de tus ojos al {brightness} por ciento
+es-es,mark-2.brightness,pon el brillo al {brightness}
+es-es,mark-2.brightness,pon el brillo al {brightness} por ciento
+es-es,mark-2.brightness,pon el brillo de tus ojos al {brightness}
+es-es,mark-2.brightness,pon el brillo de tus ojos al {brightness} por ciento
+es-es,mark-2.brightness,establece la iluminación al {brightness}
+es-es,mark-2.brightness,establece la iluminación al {brightness} por ciento
+es-es,mark-2.brightness,establece la iluminación de tus ojos al {brightness}
+es-es,mark-2.brightness,establece la iluminación de tus ojos al {brightness} por ciento
+es-es,mark-2.brightness,establece el brillo al {brightness}
+es-es,mark-2.brightness,establece el brillo al {brightness} por ciento
+es-es,mark-2.brightness,establece el brillo de tus ojos al {brightness}
+es-es,mark-2.brightness,establece el brillo de tus ojos al {brightness} por ciento
+es-es,mark-2.brightness,cambia la iluminación al {brightness}
+es-es,mark-2.brightness,cambia la iluminación al {brightness} por ciento
+es-es,mark-2.brightness,cambia la iluminación de tus ojos al {brightness}
+es-es,mark-2.brightness,cambia la iluminación de tus ojos al {brightness} por ciento
+es-es,mark-2.brightness,cambia el brillo al {brightness}
+es-es,mark-2.brightness,cambia el brillo al {brightness} por ciento
+es-es,mark-2.brightness,cambia el brillo de tus ojos al {brightness}
+es-es,mark-2.brightness,cambia el brillo de tus ojos al {brightness} por ciento
+es-es,mark-2.brightness,pon la iluminación
+es-es,mark-2.brightness,pon la iluminación de tus ojos
+es-es,mark-2.brightness,pon de brillo
+es-es,mark-2.brightness,pon de brillo de tus ojos
+es-es,mark-2.brightness,pon el nivel de la iluminación
+es-es,mark-2.brightness,pon el nivel de la iluminación de tus ojos
+es-es,mark-2.brightness,pon el nivel de de brillo
+es-es,mark-2.brightness,pon el nivel de de brillo de tus ojos
+es-es,mark-2.brightness,establece la iluminación
+es-es,mark-2.brightness,establece la iluminación de tus ojos
+es-es,mark-2.brightness,establece de brillo
+es-es,mark-2.brightness,establece de brillo de tus ojos
+es-es,mark-2.brightness,establece el nivel de la iluminación
+es-es,mark-2.brightness,establece el nivel de la iluminación de tus ojos
+es-es,mark-2.brightness,establece el nivel de de brillo
+es-es,mark-2.brightness,establece el nivel de de brillo de tus ojos
+es-es,mark-2.brightness,cambia la iluminación
+es-es,mark-2.brightness,cambia la iluminación de tus ojos
+es-es,mark-2.brightness,cambia de brillo
+es-es,mark-2.brightness,cambia de brillo de tus ojos
+es-es,mark-2.brightness,cambia el nivel de la iluminación
+es-es,mark-2.brightness,cambia el nivel de la iluminación de tus ojos
+es-es,mark-2.brightness,cambia el nivel de de brillo
+es-es,mark-2.brightness,cambia el nivel de de brillo de tus ojos
+es-es,mark-2.brightness,estás oscuro
+es-es,mark-2.brightness,estás brillante
+es-es,mark-2.brightness,estás demasiado oscuro
+es-es,mark-2.brightness,estás demasiado brillante
+es-es,mark-2.brightness,se te ve oscuro
+es-es,mark-2.brightness,se te ve brillante
+es-es,mark-2.brightness,se te ve demasiado oscuro
+es-es,mark-2.brightness,se te ve demasiado brillante
+es-es,mark-2.brightness,ilumínate
+es-es,mark-2.brightness,oscurécete un poco
+es-es,mark-2.brightness.auto,ajusta el brillo a automático
+es-es,mark-2.brightness.auto,brillo automático
+es-es,mark-2.device.brightness.settings,muestra los ajustes de brillo
+es-es,mark-2.device.brightness.settings,muestra los ajustes de brillo del dispositivo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la pantalla de inicio
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la página inactiva
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la página de reposo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la página de inicio
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la cara inactiva
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la cara de reposo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la cara de inicio
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la pantalla inactiva
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la pantalla de reposo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la pantalla de inicio
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la página inactiva del dispositivo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la página de reposo del dispositivo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la página de inicio del dispositivo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la cara inactiva del dispositivo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la cara de reposo del dispositivo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la cara de inicio del dispositivo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la pantalla inactiva del dispositivo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la pantalla de reposo del dispositivo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la pantalla de inicio del dispositivo
+es-es,mark-2.device.reset.settings,muestra los ajustes de restablecimiento de fábrica
+es-es,mark-2.device.reset.settings,muestra los ajustes de restablecimiento de fábrica del dispositivo
+es-es,mark-2.device.settings,muestra la configuración del dispositivo
+es-es,mark-2.device.settings,abre la configuración
+es-es,mark-2.device.settings,abre los ajustes
+es-es,mark-2.device.ssh.settings,muestra la configuración ssh
+es-es,mark-2.device.ssh.settings,muestra la configuración ssh del dispositivo
+es-es,mark-2.device.wifi.settings,muestra la pantalla de conexiones inalámbricas
+es-es,mark-2.device.wifi.settings,muestra la configuración de conexiones inalámbricas
+es-es,mark-2.device.wifi.settings,muestra la configuración wifi
+es-es,mark-2.device.wifi.settings,muestra la pantalla de conexiones wifi
+es-es,moviemaster.genre.movie.search,encontrar filmes que son {genre}
+es-es,moviemaster.genre.movie.search,encontrar filmes que son un {genre}
+es-es,moviemaster.genre.movie.search,encontrar películas que son {genre}
+es-es,moviemaster.genre.movie.search,encontrar películas que son un {genre}
+es-es,moviemaster.genre.movie.search,listar filmes que son {genre}
+es-es,moviemaster.genre.movie.search,listar filmes que son un {genre}
+es-es,moviemaster.genre.movie.search,listar películas que son {genre}
+es-es,moviemaster.genre.movie.search,listar películas que son un {genre}
+es-es,moviemaster.genre.movie.search,encontrar filmes de {genre}
+es-es,moviemaster.genre.movie.search,encontrar películas de {genre}
+es-es,moviemaster.genre.movie.search,listar filmes de {genre}
+es-es,moviemaster.genre.movie.search,listar películas de {genre}
+es-es,moviemaster.genre.tv.search,obtener shows que son del género {genre}
+es-es,moviemaster.genre.tv.search,obtener programas de televisión que son del género {genre}
+es-es,moviemaster.genre.tv.search,obtener programas de TV que son del género {genre}
+es-es,moviemaster.genre.tv.search,encontrar shows que son del género {genre}
+es-es,moviemaster.genre.tv.search,encontrar programas de televisión que son del género {genre}
+es-es,moviemaster.genre.tv.search,encontrar programas de TV que son del género {genre}
+es-es,moviemaster.genre.tv.search,listar shows que son del género {genre}
+es-es,moviemaster.genre.tv.search,listar programas de televisión que son del género {genre}
+es-es,moviemaster.genre.tv.search,listar programas de TV que son del género {genre}
+es-es,moviemaster.genre.tv.search,obtener shows del género {genre}
+es-es,moviemaster.genre.tv.search,obtener programas de televisión del género {genre}
+es-es,moviemaster.genre.tv.search,obtener programas de TV del género {genre}
+es-es,moviemaster.genre.tv.search,encontrar shows del género {genre}
+es-es,moviemaster.genre.tv.search,encontrar programas de televisión del género {genre}
+es-es,moviemaster.genre.tv.search,encontrar programas de TV del género {genre}
+es-es,moviemaster.genre.tv.search,listar shows del género {genre}
+es-es,moviemaster.genre.tv.search,listar programas de televisión del género {genre}
+es-es,moviemaster.genre.tv.search,listar programas de TV del género {genre}
+es-es,moviemaster.movie.cast,Quién está en la película {movie}
+es-es,moviemaster.movie.cast,Quién trabaja en la película {movie}
+es-es,moviemaster.movie.cast,Quién actúa en la película {movie}
+es-es,moviemaster.movie.description,de qué se trata la película {movie}
+es-es,moviemaster.movie.description,cuéntanos acerca de la película {movie}
+es-es,moviemaster.movie.description,cuéntame acerca de la película {movie}
+es-es,moviemaster.movie.description,danos una sinopsis del film {movie}
+es-es,moviemaster.movie.description,danos una sinopsis del película {movie}
+es-es,moviemaster.movie.description,danos una sinopsis de la film {movie}
+es-es,moviemaster.movie.description,danos una sinopsis de la película {movie}
+es-es,moviemaster.movie.description,danos una descripción del film {movie}
+es-es,moviemaster.movie.description,danos una descripción del película {movie}
+es-es,moviemaster.movie.description,danos una descripción de la film {movie}
+es-es,moviemaster.movie.description,danos una descripción de la película {movie}
+es-es,moviemaster.movie.description,dame una sinopsis del film {movie}
+es-es,moviemaster.movie.description,dame una sinopsis del película {movie}
+es-es,moviemaster.movie.description,dame una sinopsis de la film {movie}
+es-es,moviemaster.movie.description,dame una sinopsis de la película {movie}
+es-es,moviemaster.movie.description,dame una descripción del film {movie}
+es-es,moviemaster.movie.description,dame una descripción del película {movie}
+es-es,moviemaster.movie.description,dame una descripción de la film {movie}
+es-es,moviemaster.movie.description,dame una descripción de la película {movie}
+es-es,moviemaster.movie.description,.
+es-es,moviemaster.movie.genres,A cual género pertenece el filme {movie}
+es-es,moviemaster.movie.genres,A cual género pertenece el película {movie}
+es-es,moviemaster.movie.genres,A cual género pertenece la filme {movie}
+es-es,moviemaster.movie.genres,A cual género pertenece la película {movie}
+es-es,moviemaster.movie.genres,A cual géneros pertenece el filme {movie}
+es-es,moviemaster.movie.genres,A cual géneros pertenece el película {movie}
+es-es,moviemaster.movie.genres,A cual géneros pertenece la filme {movie}
+es-es,moviemaster.movie.genres,A cual géneros pertenece la película {movie}
+es-es,moviemaster.movie.genres,A cuales género pertenece el filme {movie}
+es-es,moviemaster.movie.genres,A cuales género pertenece el película {movie}
+es-es,moviemaster.movie.genres,A cuales género pertenece la filme {movie}
+es-es,moviemaster.movie.genres,A cuales género pertenece la película {movie}
+es-es,moviemaster.movie.genres,A cuales géneros pertenece el filme {movie}
+es-es,moviemaster.movie.genres,A cuales géneros pertenece el película {movie}
+es-es,moviemaster.movie.genres,A cuales géneros pertenece la filme {movie}
+es-es,moviemaster.movie.genres,A cuales géneros pertenece la película {movie}
+es-es,moviemaster.movie.genres,Cual es el género del filme {movie}
+es-es,moviemaster.movie.genres,Cual es el género del película {movie}
+es-es,moviemaster.movie.genres,Cual es el género de la filme {movie}
+es-es,moviemaster.movie.genres,Cual es el género de la película {movie}
+es-es,moviemaster.movie.genres,Cual es el géneros del filme {movie}
+es-es,moviemaster.movie.genres,Cual es el géneros del película {movie}
+es-es,moviemaster.movie.genres,Cual es el géneros de la filme {movie}
+es-es,moviemaster.movie.genres,Cual es el géneros de la película {movie}
+es-es,moviemaster.movie.genres,Cual es los género del filme {movie}
+es-es,moviemaster.movie.genres,Cual es los género del película {movie}
+es-es,moviemaster.movie.genres,Cual es los género de la filme {movie}
+es-es,moviemaster.movie.genres,Cual es los género de la película {movie}
+es-es,moviemaster.movie.genres,Cual es los géneros del filme {movie}
+es-es,moviemaster.movie.genres,Cual es los géneros del película {movie}
+es-es,moviemaster.movie.genres,Cual es los géneros de la filme {movie}
+es-es,moviemaster.movie.genres,Cual es los géneros de la película {movie}
+es-es,moviemaster.movie.genres,Cual son el género del filme {movie}
+es-es,moviemaster.movie.genres,Cual son el género del película {movie}
+es-es,moviemaster.movie.genres,Cual son el género de la filme {movie}
+es-es,moviemaster.movie.genres,Cual son el género de la película {movie}
+es-es,moviemaster.movie.genres,Cual son el géneros del filme {movie}
+es-es,moviemaster.movie.genres,Cual son el géneros del película {movie}
+es-es,moviemaster.movie.genres,Cual son el géneros de la filme {movie}
+es-es,moviemaster.movie.genres,Cual son el géneros de la película {movie}
+es-es,moviemaster.movie.genres,Cual son los género del filme {movie}
+es-es,moviemaster.movie.genres,Cual son los género del película {movie}
+es-es,moviemaster.movie.genres,Cual son los género de la filme {movie}
+es-es,moviemaster.movie.genres,Cual son los género de la película {movie}
+es-es,moviemaster.movie.genres,Cual son los géneros del filme {movie}
+es-es,moviemaster.movie.genres,Cual son los géneros del película {movie}
+es-es,moviemaster.movie.genres,Cual son los géneros de la filme {movie}
+es-es,moviemaster.movie.genres,Cual son los géneros de la película {movie}
+es-es,moviemaster.movie.genres,Cuales es el género del filme {movie}
+es-es,moviemaster.movie.genres,Cuales es el género del película {movie}
+es-es,moviemaster.movie.genres,Cuales es el género de la filme {movie}
+es-es,moviemaster.movie.genres,Cuales es el género de la película {movie}
+es-es,moviemaster.movie.genres,Cuales es el géneros del filme {movie}
+es-es,moviemaster.movie.genres,Cuales es el géneros del película {movie}
+es-es,moviemaster.movie.genres,Cuales es el géneros de la filme {movie}
+es-es,moviemaster.movie.genres,Cuales es el géneros de la película {movie}
+es-es,moviemaster.movie.genres,Cuales es los género del filme {movie}
+es-es,moviemaster.movie.genres,Cuales es los género del película {movie}
+es-es,moviemaster.movie.genres,Cuales es los género de la filme {movie}
+es-es,moviemaster.movie.genres,Cuales es los género de la película {movie}
+es-es,moviemaster.movie.genres,Cuales es los géneros del filme {movie}
+es-es,moviemaster.movie.genres,Cuales es los géneros del película {movie}
+es-es,moviemaster.movie.genres,Cuales es los géneros de la filme {movie}
+es-es,moviemaster.movie.genres,Cuales es los géneros de la película {movie}
+es-es,moviemaster.movie.genres,Cuales son el género del filme {movie}
+es-es,moviemaster.movie.genres,Cuales son el género del película {movie}
+es-es,moviemaster.movie.genres,Cuales son el género de la filme {movie}
+es-es,moviemaster.movie.genres,Cuales son el género de la película {movie}
+es-es,moviemaster.movie.genres,Cuales son el géneros del filme {movie}
+es-es,moviemaster.movie.genres,Cuales son el géneros del película {movie}
+es-es,moviemaster.movie.genres,Cuales son el géneros de la filme {movie}
+es-es,moviemaster.movie.genres,Cuales son el géneros de la película {movie}
+es-es,moviemaster.movie.genres,Cuales son los género del filme {movie}
+es-es,moviemaster.movie.genres,Cuales son los género del película {movie}
+es-es,moviemaster.movie.genres,Cuales son los género de la filme {movie}
+es-es,moviemaster.movie.genres,Cuales son los género de la película {movie}
+es-es,moviemaster.movie.genres,Cuales son los géneros del filme {movie}
+es-es,moviemaster.movie.genres,Cuales son los géneros del película {movie}
+es-es,moviemaster.movie.genres,Cuales son los géneros de la filme {movie}
+es-es,moviemaster.movie.genres,Cuales son los géneros de la película {movie}
+es-es,moviemaster.movie.genres,A que género pertenece el filme {movie}
+es-es,moviemaster.movie.genres,A que género pertenece el película {movie}
+es-es,moviemaster.movie.genres,A que género pertenece la filme {movie}
+es-es,moviemaster.movie.genres,A que género pertenece la película {movie}
+es-es,moviemaster.movie.genres,A que géneros pertenece el filme {movie}
+es-es,moviemaster.movie.genres,A que géneros pertenece el película {movie}
+es-es,moviemaster.movie.genres,A que géneros pertenece la filme {movie}
+es-es,moviemaster.movie.genres,A que géneros pertenece la película {movie}
+es-es,moviemaster.movie.information,Buscar info acerca del filme {movie}
+es-es,moviemaster.movie.information,Buscar info acerca del película {movie}
+es-es,moviemaster.movie.information,Buscar info acerca de la filme {movie}
+es-es,moviemaster.movie.information,Buscar info acerca de la película {movie}
+es-es,moviemaster.movie.information,Buscar información acerca del filme {movie}
+es-es,moviemaster.movie.information,Buscar información acerca del película {movie}
+es-es,moviemaster.movie.information,Buscar información acerca de la filme {movie}
+es-es,moviemaster.movie.information,Buscar información acerca de la película {movie}
+es-es,moviemaster.movie.information,Obtener info acerca del filme {movie}
+es-es,moviemaster.movie.information,Obtener info acerca del película {movie}
+es-es,moviemaster.movie.information,Obtener info acerca de la filme {movie}
+es-es,moviemaster.movie.information,Obtener info acerca de la película {movie}
+es-es,moviemaster.movie.information,Obtener información acerca del filme {movie}
+es-es,moviemaster.movie.information,Obtener información acerca del película {movie}
+es-es,moviemaster.movie.information,Obtener información acerca de la filme {movie}
+es-es,moviemaster.movie.information,Obtener información acerca de la película {movie}
+es-es,moviemaster.movie.information,Averiguar info acerca del filme {movie}
+es-es,moviemaster.movie.information,Averiguar info acerca del película {movie}
+es-es,moviemaster.movie.information,Averiguar info acerca de la filme {movie}
+es-es,moviemaster.movie.information,Averiguar info acerca de la película {movie}
+es-es,moviemaster.movie.information,Averiguar información acerca del filme {movie}
+es-es,moviemaster.movie.information,Averiguar información acerca del película {movie}
+es-es,moviemaster.movie.information,Averiguar información acerca de la filme {movie}
+es-es,moviemaster.movie.information,Averiguar información acerca de la película {movie}
+es-es,moviemaster.movie.information,Danos info acerca del filme {movie}
+es-es,moviemaster.movie.information,Danos info acerca del película {movie}
+es-es,moviemaster.movie.information,Danos info acerca de la filme {movie}
+es-es,moviemaster.movie.information,Danos info acerca de la película {movie}
+es-es,moviemaster.movie.information,Danos información acerca del filme {movie}
+es-es,moviemaster.movie.information,Danos información acerca del película {movie}
+es-es,moviemaster.movie.information,Danos información acerca de la filme {movie}
+es-es,moviemaster.movie.information,Danos información acerca de la película {movie}
+es-es,moviemaster.movie.information,Dame info acerca del filme {movie}
+es-es,moviemaster.movie.information,Dame info acerca del película {movie}
+es-es,moviemaster.movie.information,Dame info acerca de la filme {movie}
+es-es,moviemaster.movie.information,Dame info acerca de la película {movie}
+es-es,moviemaster.movie.information,Dame información acerca del filme {movie}
+es-es,moviemaster.movie.information,Dame información acerca del película {movie}
+es-es,moviemaster.movie.information,Dame información acerca de la filme {movie}
+es-es,moviemaster.movie.information,Dame información acerca de la película {movie}
+es-es,moviemaster.movie.information,Puedes obtener información del filme {movie}
+es-es,moviemaster.movie.information,Puedes obtener información del película {movie}
+es-es,moviemaster.movie.information,Puedes obtener información de la filme {movie}
+es-es,moviemaster.movie.information,Puedes obtener información de la película {movie}
+es-es,moviemaster.movie.information,Puedes obtener info del filme {movie}
+es-es,moviemaster.movie.information,Puedes obtener info del película {movie}
+es-es,moviemaster.movie.information,Puedes obtener info de la filme {movie}
+es-es,moviemaster.movie.information,Puedes obtener info de la película {movie}
+es-es,moviemaster.movie.information,Tienes información del filme {movie}
+es-es,moviemaster.movie.information,Tienes información del película {movie}
+es-es,moviemaster.movie.information,Tienes información de la filme {movie}
+es-es,moviemaster.movie.information,Tienes información de la película {movie}
+es-es,moviemaster.movie.information,Tienes info del filme {movie}
+es-es,moviemaster.movie.information,Tienes info del película {movie}
+es-es,moviemaster.movie.information,Tienes info de la filme {movie}
+es-es,moviemaster.movie.information,Tienes info de la película {movie}
+es-es,moviemaster.movie.popular,Busca los filmes más populares
+es-es,moviemaster.movie.popular,Busca los peliculas más populares
+es-es,moviemaster.movie.popular,Busca las filmes más populares
+es-es,moviemaster.movie.popular,Busca las peliculas más populares
+es-es,moviemaster.movie.popular,Lista los filmes más populares
+es-es,moviemaster.movie.popular,Lista los peliculas más populares
+es-es,moviemaster.movie.popular,Lista las filmes más populares
+es-es,moviemaster.movie.popular,Lista las peliculas más populares
+es-es,moviemaster.movie.popular,Cuáles son los flimes más populares ahora
+es-es,moviemaster.movie.popular,Cuáles son los películas más populares ahora
+es-es,moviemaster.movie.popular,Cuáles son las flimes más populares ahora
+es-es,moviemaster.movie.popular,Cuáles son las películas más populares ahora
+es-es,moviemaster.movie.production,Qué companía hizo la película {movie}
+es-es,moviemaster.movie.production,Qué companía produjo la película {movie}
+es-es,moviemaster.movie.production,Quién hizo la película {movie}
+es-es,moviemaster.movie.production,Quién produjo la película {movie}
+es-es,moviemaster.movie.recommendations,Recomienda filmes parecidas a {movie}
+es-es,moviemaster.movie.recommendations,Recomienda filmes similares a {movie}
+es-es,moviemaster.movie.recommendations,Recomienda películas parecidas a {movie}
+es-es,moviemaster.movie.recommendations,Recomienda películas similares a {movie}
+es-es,moviemaster.movie.recommendations,Qué filmes recomendarias parecidas a {movie}
+es-es,moviemaster.movie.recommendations,Qué filmes recomendarias similares a {movie}
+es-es,moviemaster.movie.recommendations,Qué películas recomendarias parecidas a {movie}
+es-es,moviemaster.movie.recommendations,Qué películas recomendarias similares a {movie}
+es-es,moviemaster.movie.recommendations,obtiene buenos filmes similares a {movie}
+es-es,moviemaster.movie.recommendations,obtiene buenos películas similares a {movie}
+es-es,moviemaster.movie.recommendations,obtiene buenas filmes similares a {movie}
+es-es,moviemaster.movie.recommendations,obtiene buenas películas similares a {movie}
+es-es,moviemaster.movie.recommendations,obtiene filmes similares a {movie}
+es-es,moviemaster.movie.recommendations,obtiene películas similares a {movie}
+es-es,moviemaster.movie.recommendations,Lista buenos filmes similares a {movie}
+es-es,moviemaster.movie.recommendations,Lista buenos películas similares a {movie}
+es-es,moviemaster.movie.recommendations,Lista buenas filmes similares a {movie}
+es-es,moviemaster.movie.recommendations,Lista buenas películas similares a {movie}
+es-es,moviemaster.movie.recommendations,Lista filmes similares a {movie}
+es-es,moviemaster.movie.recommendations,Lista películas similares a {movie}
+es-es,moviemaster.movie.runtime,Cuánto dura el filme {movie}
+es-es,moviemaster.movie.runtime,Cuánto dura la película {movie}
+es-es,moviemaster.movie.runtime,Cuánto dura el filme {movie}
+es-es,moviemaster.movie.runtime,Cuánto dura el película {movie}
+es-es,moviemaster.movie.runtime,Cuánto dura la filme {movie}
+es-es,moviemaster.movie.runtime,Cuánto dura la película {movie}
+es-es,moviemaster.movie.runtime,Obtiene la duración del filme {movie}
+es-es,moviemaster.movie.runtime,Obtiene la duración del película {movie}
+es-es,moviemaster.movie.runtime,Obtiene la duración de la filme {movie}
+es-es,moviemaster.movie.runtime,Obtiene la duración de la película {movie}
+es-es,moviemaster.movie.top,busca los filmes mejores en el ranking en cartelera ahora
+es-es,moviemaster.movie.top,busca los filmes mejores en el ranking en cartelera
+es-es,moviemaster.movie.top,busca los filmes más populares en cartelera ahora
+es-es,moviemaster.movie.top,busca los filmes más populares en cartelera
+es-es,moviemaster.movie.top,busca los filmes top en cartelera ahora
+es-es,moviemaster.movie.top,busca los filmes top en cartelera
+es-es,moviemaster.movie.top,busca los películas mejores en el ranking en cartelera ahora
+es-es,moviemaster.movie.top,busca los películas mejores en el ranking en cartelera
+es-es,moviemaster.movie.top,busca los películas más populares en cartelera ahora
+es-es,moviemaster.movie.top,busca los películas más populares en cartelera
+es-es,moviemaster.movie.top,busca los películas top en cartelera ahora
+es-es,moviemaster.movie.top,busca los películas top en cartelera
+es-es,moviemaster.movie.top,busca las filmes mejores en el ranking en cartelera ahora
+es-es,moviemaster.movie.top,busca las filmes mejores en el ranking en cartelera
+es-es,moviemaster.movie.top,busca las filmes más populares en cartelera ahora
+es-es,moviemaster.movie.top,busca las filmes más populares en cartelera
+es-es,moviemaster.movie.top,busca las filmes top en cartelera ahora
+es-es,moviemaster.movie.top,busca las filmes top en cartelera
+es-es,moviemaster.movie.top,busca las películas mejores en el ranking en cartelera ahora
+es-es,moviemaster.movie.top,busca las películas mejores en el ranking en cartelera
+es-es,moviemaster.movie.top,busca las películas más populares en cartelera ahora
+es-es,moviemaster.movie.top,busca las películas más populares en cartelera
+es-es,moviemaster.movie.top,busca las películas top en cartelera ahora
+es-es,moviemaster.movie.top,busca las películas top en cartelera
+es-es,moviemaster.movie.top,cuáles son los filmes mejores en el ranking en cartelera ahora
+es-es,moviemaster.movie.top,cuáles son los filmes mejores en el ranking en cartelera
+es-es,moviemaster.movie.top,cuáles son los filmes más populares en cartelera ahora
+es-es,moviemaster.movie.top,cuáles son los filmes más populares en cartelera
+es-es,moviemaster.movie.top,cuáles son los filmes top en cartelera ahora
+es-es,moviemaster.movie.top,cuáles son los filmes top en cartelera
+es-es,moviemaster.movie.top,cuáles son los películas mejores en el ranking en cartelera ahora
+es-es,moviemaster.movie.top,cuáles son los películas mejores en el ranking en cartelera
+es-es,moviemaster.movie.top,cuáles son los películas más populares en cartelera ahora
+es-es,moviemaster.movie.top,cuáles son los películas más populares en cartelera
+es-es,moviemaster.movie.top,cuáles son los películas top en cartelera ahora
+es-es,moviemaster.movie.top,cuáles son los películas top en cartelera
+es-es,moviemaster.movie.top,cuáles son las filmes mejores en el ranking en cartelera ahora
+es-es,moviemaster.movie.top,cuáles son las filmes mejores en el ranking en cartelera
+es-es,moviemaster.movie.top,cuáles son las filmes más populares en cartelera ahora
+es-es,moviemaster.movie.top,cuáles son las filmes más populares en cartelera
+es-es,moviemaster.movie.top,cuáles son las filmes top en cartelera ahora
+es-es,moviemaster.movie.top,cuáles son las filmes top en cartelera
+es-es,moviemaster.movie.top,cuáles son las películas mejores en el ranking en cartelera ahora
+es-es,moviemaster.movie.top,cuáles son las películas mejores en el ranking en cartelera
+es-es,moviemaster.movie.top,cuáles son las películas más populares en cartelera ahora
+es-es,moviemaster.movie.top,cuáles son las películas más populares en cartelera
+es-es,moviemaster.movie.top,cuáles son las películas top en cartelera ahora
+es-es,moviemaster.movie.top,cuáles son las películas top en cartelera
+es-es,moviemaster.movie.top,lista los filmes mejores en el ranking en cartelera ahora
+es-es,moviemaster.movie.top,lista los filmes mejores en el ranking en cartelera
+es-es,moviemaster.movie.top,lista los filmes más populares en cartelera ahora
+es-es,moviemaster.movie.top,lista los filmes más populares en cartelera
+es-es,moviemaster.movie.top,lista los filmes top en cartelera ahora
+es-es,moviemaster.movie.top,lista los filmes top en cartelera
+es-es,moviemaster.movie.top,lista los películas mejores en el ranking en cartelera ahora
+es-es,moviemaster.movie.top,lista los películas mejores en el ranking en cartelera
+es-es,moviemaster.movie.top,lista los películas más populares en cartelera ahora
+es-es,moviemaster.movie.top,lista los películas más populares en cartelera
+es-es,moviemaster.movie.top,lista los películas top en cartelera ahora
+es-es,moviemaster.movie.top,lista los películas top en cartelera
+es-es,moviemaster.movie.top,lista las filmes mejores en el ranking en cartelera ahora
+es-es,moviemaster.movie.top,lista las filmes mejores en el ranking en cartelera
+es-es,moviemaster.movie.top,lista las filmes más populares en cartelera ahora
+es-es,moviemaster.movie.top,lista las filmes más populares en cartelera
+es-es,moviemaster.movie.top,lista las filmes top en cartelera ahora
+es-es,moviemaster.movie.top,lista las filmes top en cartelera
+es-es,moviemaster.movie.top,lista las películas mejores en el ranking en cartelera ahora
+es-es,moviemaster.movie.top,lista las películas mejores en el ranking en cartelera
+es-es,moviemaster.movie.top,lista las películas más populares en cartelera ahora
+es-es,moviemaster.movie.top,lista las películas más populares en cartelera
+es-es,moviemaster.movie.top,lista las películas top en cartelera ahora
+es-es,moviemaster.movie.top,lista las películas top en cartelera
+es-es,moviemaster.movie.year,En qué fecha fue lanzado el filme {movie}
+es-es,moviemaster.movie.year,En qué fecha fue lanzado el película {movie}
+es-es,moviemaster.movie.year,En qué fecha fue lanzado la filme {movie}
+es-es,moviemaster.movie.year,En qué fecha fue lanzado la película {movie}
+es-es,moviemaster.movie.year,Cuándo fue lanzado el filme {movie}
+es-es,moviemaster.movie.year,Cuándo fue lanzado el película {movie}
+es-es,moviemaster.movie.year,Cuándo fue lanzado la filme {movie}
+es-es,moviemaster.movie.year,Cuándo fue lanzado la película {movie}
+es-es,moviemaster.movie.year,En qué año fue lanzado el filme {movie}
+es-es,moviemaster.movie.year,En qué año fue lanzado el película {movie}
+es-es,moviemaster.movie.year,En qué año fue lanzado la filme {movie}
+es-es,moviemaster.movie.year,En qué año fue lanzado la película {movie}
+es-es,wikiquote-skill.random,dime algo sabio
+es-es,wikiquote-skill.random,dime alguna cita
+es-es,wikiquote-skill.random,dime una cita
+es-es,wikiquote-skill.random,dame sabiduría
+es-es,wikiquote-skill.random,dame algo de sabiduría
+es-es,wikiquote-skill.random,dame alguna cita
+es-es,wikiquote-skill.random,dame una cita
+es-es,wikiquote-skill.random,Necesito algo de sabiduría
+es-es,wikiquote-skill.specific,dime algo sabio de {subject}
+es-es,wikiquote-skill.specific,dime alguna cita de {subject}
+es-es,wikiquote-skill.specific,dime una cita de {subject}
+es-es,wikiquote-skill.specific,dame algo de sabiduría de {subject}
+es-es,wikiquote-skill.specific,dame sabiduría de {subject}
+es-es,wikiquote-skill.specific,dame alguna cita de {subject}
+es-es,wikiquote-skill.specific,dame una cita de {subject}
+es-es,wikiquote-skill.specific,Necesito algo de sabiduría de {subject}
+es-es,wikiquote-skill.specific,Necesito alguna cita de {subject}
+es-es,wikiquote-skill.specific,dime una cita sobre {subject}
+es-es,wikiquote-skill.specific,dime una cita de {subject}
+es-es,wikiquote-skill.specific,dame una cita sobre {subject}
+es-es,wikiquote-skill.specific,dame una cita de {subject}
+es-es,wikiquote-skill.specific,necesito una cita sobre {subject}
+es-es,wikiquote-skill.specific,necesito una cita de {subject}

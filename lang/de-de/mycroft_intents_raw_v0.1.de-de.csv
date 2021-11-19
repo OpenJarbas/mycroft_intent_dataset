@@ -1,0 +1,409 @@
+de-de,alarm.alarm.status,Status der Alarme
+de-de,alarm.alarm.status,Welche Alarme habe ich?
+de-de,alarm.alarm.status,Habe ich irgendwelche Alarme?
+de-de,alarm.alarm.status,Habe ich irgendwelche Alarme eingestellt?
+de-de,alarm.alarm.status,Wann ist mein nächster Alarm?
+de-de,alarm.alarm.status,Status des Alarms
+de-de,alarm.alarm.status,Status des {time} ({ampm}|) Alarms
+de-de,alarm.alarm.status,Status des {time} ({ampm}|) {daytype} Alarms
+de-de,alarm.alarm.status,status meines {time} ({ampm}|) alarm
+de-de,alarm.alarm.status,status meines {time} ({ampm}|) {daytype} alarm
+de-de,alarm.alarm.status,Wie viel Zeit bleibt noch übrig? bis {time} ({ampm}|)
+de-de,alarm.alarm.status,Wie viel Zeit bleibt noch übrig? bis {time} ({ampm}|) {daytype}
+de-de,alarm.alarm.status,Zeit übrig auf meinen {time} ({ampm}|) alarm
+de-de,alarm.alarm.status,Zeit übrig auf meinem {time} ({ampm}|) {daytype} alarm
+de-de,alarm.alarm.status,Zeit übrig auf meinem {length} alarm
+de-de,alarm.alarm.status,Wie viel Zeit bleibt noch übrig? {length} alarm
+de-de,alarm.delete,(cancel | remove | erase| delete) (my | the) {time} ({ampm}|) alarm.
+de-de,alarm.delete.all,(delete | remove | cancel | erase ) (all | all of | ) (the | my | ) alarms.
+de-de,alarm.set.morning,wecke mich morgen früh auf.
+de-de,alarm.set.morning,weck mich morgen auf.
+de-de,alarm.set.morning,wecke mich um {time} morgen früh.
+de-de,alarm.set.recurring,(set|) (a|an|) (alarm|) (for|at|on|) {time} ({ampm}|)( alarm|)( for|) every {daytype}
+de-de,alarm.set.recurring,(set|) (a|an|) (alarm|) (for|at|on|) {time}({ampm}|) (alarm|) (for|) every {daytype}
+de-de,alarm.set.recurring,(set|) (a|an|) {time} ({ampm}|) (alarm|) (for|at|on|) every {daytype}
+de-de,alarm.set.recurring,(set|) (a|an|) recurring {time} ({ampm}|) alarm (for|at|on|) {daytype}
+de-de,alarm.set.recurring,(set|) (a|an|) recurring alarm (for|on|at|) {time}({ampm}| {ampm}|) {daytype}
+de-de,alarm.set.recurring,(set|) (a|an|) alarm every {daytype} (at|for|on|) {time} ({ampm}|)
+de-de,alarm.set.sunrise,Weck mich bei Sonnenaufgang auf.
+de-de,alarm.set.sunrise,Weck mich morgen bei Sonnenaufgang.
+de-de,alarm.set.sunrise,Kannst du mich bei Sonnenaufgang wecken?
+de-de,alarm.set.sunrise,Kannst du mich morgen bei Sonnenaufgang wecken?
+de-de,alarm.set.time,wecke mich auf in {length}.
+de-de,alarm.set.time,wecke mich auf in {length} von jetzt.
+de-de,alarm.set.time,stelle einen Alarm ein auf {length} von jetzt.
+de-de,alarm.set.time,Stellen Sie den Alarm für ein {length} von jetzt.
+de-de,alarm.set.time,Alarm instellen für {length} von jetzt.
+de-de,alarm.set.time,setze (an|a) alarm für {time} ({ampm}|) (this|) ({daytype}|)
+de-de,alarm.set.time,setze ein Alarm (for|on|) {daytype} {time} ({ampm}|)
+de-de,alarm.set.time,setze (a|an) {daytype} alarm für {time} ({ampm}|)
+de-de,alarm.set.time,setze (a|an) {daytype} alarm um {time} ({ampm}|)
+de-de,alarm.set.time,setze (a|an) {daytype} alarm um {time} ({ampm}|)
+de-de,alarm.set.time,setze ein alarm für {time} ({ampm}|)
+de-de,alarm.set.time,setze ein alarm für {time} ({ampm}|) {daytype}
+de-de,alarm.set.time,setze ein alarm für {time} ({ampm}|) diesen {daytype}
+de-de,alarm.set.time,setze (a|an|) {time} alarm
+de-de,alarm.set.time,setze (a|an|) {time} {ampm} alarm
+de-de,alarm.set.time.24hr,wake mich (at {time}| for {time}| ) jeden {daytype} (at {time}| for {time}| ) (called {label} | ).
+de-de,alarm.set.time.24hr,(set | create | make) an alarm (clock | ) (at {time}| for {time}| ) jeden {daytype} (at {time}| for {time}| )  (called {label} | ).
+de-de,alarm.set.time.24hr,(set | create | make) an alarm (clock | ) (at {time}| for {time}| )   am (the|)  {daytype}.
+de-de,alarm.set.time.24hr,(set | create | make) an alarm (clock | ) (at {time}| for {time}| )  ({daytype}|) 
+de-de,alarm.set.time.24hr,wake mich auf in {length}.
+de-de,alarm.set.time.24hr,wake mich auch in {length} von jetzt.
+de-de,alarm.stop,stope alarm.
+de-de,alarm.stop,schalte alarm aus.
+de-de,alarm.stop,Töte den Alarm.
+de-de,alarm.stop,deaktiviere den alarm.
+de-de,alarm.stop,Löschen Sie den Alarm.
+de-de,alarm.stop,Ich hab es geschafft.
+de-de,alarm.stop,das ist genug!
+de-de,alarm.stop,halte den Mund!
+de-de,auto-volume-skill.activate,Aktiviere automatische Lautstärke
+de-de,auto-volume-skill.activate,Schalte automatische Lautstärke ein
+de-de,auto-volume-skill.activate,Schalte Lautstärke auf automatisch
+de-de,auto-volume-skill.activate,Stelle automatische Lautstärke auf (to) an
+de-de,auto-volume-skill.deactivate,Deaktiviere die automatische Lautstärke 
+de-de,auto-volume-skill.deactivate,Setze automatische Lautstärke auf inaktiv 
+de-de,auto-volume-skill.deactivate,Setze automatische Lautstärke auf aus
+de-de,auto-volume-skill.deactivate,Stelle (die|) automatische Lautstärke (auf) aus
+de-de,auto-volume-skill.reset,Lösche automatische Lautstärkemessung
+de-de,auto-volume-skill.reset,Automatische Lautstärkenmessungen löschen
+de-de,auto-volume-skill.reset,Setze (die|) automatische Lautstärkemessung zurück
+de-de,cocktail.Needed,was wird für (ein|einen) {drink} benötigt
+de-de,cocktail.Needed,was (brauche|brauchst) (ich|du) für (ein|einen) {drink}
+de-de,cocktail.Needed,was sind die (Zutaten|Zutat) (von|für) (ein|einen) {drink}
+de-de,cocktail.Recipie,wie (mache|mische|mixe) (ich) (ein|einen|eine|) {drink}
+de-de,cocktail.Recipie,sag (mir|uns) wie man (ein|einen) {drink} (macht|mixt)
+de-de,cocktail.Recipie,Gib (mir|uns) Anweisungen für (ein|eine|einen) {drink}
+de-de,cocktail.Recipie,wie man (ein|einen) {drink} (macht|mixt)
+de-de,cocktail.Recipie,(Wie|Was) ist das Rezept für (ein|eine|einen) {drink}
+de-de,count-skill.count,Zähle bis {number}
+de-de,count-skill.countdown,Countdown von {number}
+de-de,count-skill.countdown,Zähle von {number} herunter
+de-de,count-skill.countdown,Zähle von {number} rückwärts
+de-de,count-skill.countdown,Zähle von {number} rückwärts
+de-de,count-skill.countdown,Zähle von {number} rückwärts
+de-de,count-skill.countdown,Von {number} zähle herunter
+de-de,count-skill.countdown,Von {number} zähle rückwärts
+de-de,dice-skill.Dice,wirf ({count}|) d {type} (+|plus|) ({modifier}|)
+de-de,dice-skill.NormalDice,wirf ({count}|) Würfel
+de-de,dice-skill.Range,Erzeuge eine zufällige Zahl von {low} bis {high}
+de-de,dice-skill.Range,Erzeuge eine zufällige Zahl zwischen {low} und {high}
+de-de,dice-skill.Range,Nenne mir eine Zahl von {low} und {high}
+de-de,dice-skill.Range,Nenne mir eine Zahl zwischen {low} und {high}
+de-de,email-skill.check.email,prüfe meine E-Mail
+de-de,email-skill.check.email,Prüfe meine Post
+de-de,email-skill.check.email,Habe ich neue Post
+de-de,email-skill.check.email,Habe ich neue E-Mails
+de-de,email-skill.check.email,Habe ich irgendwelche neuen E-Mails
+de-de,email-skill.enquire.email,Habe ich eine E-Mail von {email}
+de-de,email-skill.enquire.email,Habe ich eine E-Mail (von | ){email} bekommen
+de-de,email-skill.enquire.email,Habe ich E-Mails von {email} erhalten
+de-de,email-skill.notify,Erzähl mir von (mail | email | new mail | email)
+de-de,email-skill.notify,Sage mir wann ich (E-Mail | E-Mail | Neue E-Mail | Neue E-Mail) bekomme
+de-de,email-skill.notify,Sag mir wenn ich (eine E-Mail | eine E-Mail | eine E-Mail) (von | bis) {sender} bekomme
+de-de,email-skill.notify,Erzähl mir von (mail | email) (von | von) {sender}
+de-de,email-skill.notify,Benachrichtige mich über (mail | email | neue mail | neue email)
+de-de,email-skill.notify,Benachrichtige mich über (E-Mail | E-Mail | Neue E-Mail | Neue E-Mail) (von | bis) {sender}
+de-de,email-skill.notify,Benachrichtige mich wenn ich (E-Mail | E-Mail | Neue E-Mail | Neue E-Mail) bekomme
+de-de,email-skill.notify,Benachrichtigen Sie mich wenn ich (eine E-Mail | eine E-Mail | eine E-Mail) (von | bis) {sender} erhalte
+de-de,email-skill.stop,Benachrichtige mich über (mail | email | neue mail | neue email)
+de-de,email-skill.stop,Benachrichtige mich nicht mehr über (mail | email | neue mail | neue email) (von | by) {sender}
+de-de,email-skill.stop,benachrichtige mich nicht mehr über (mail | email | new mail | new email)
+de-de,email-skill.stop,Benachrichtige mich nicht mehr über (mail | email | new mail | new email) (von | durch) {sender}
+de-de,email-skill.stop,zeige mir keine (mail | email | new mail | new email)
+de-de,email-skill.stop,Erzähl mir nichts von (mail | email | new mail | new email) (von | durch) {sender}
+de-de,email-skill.stop,erzähle mir nichts mehr von (mail | email | neuen mail | neuen email)
+de-de,email-skill.stop,erzähle mir nicht mehr von (mail | email | neue mail | neue email) (von | durch) {sender}
+de-de,emby-skill.diagnostic,Überprüfe die (emby|mb|mv|nv|emily) Verbindung
+de-de,emby-skill.diagnostic,Diagnose von (emby|mb|mv|nv|emily) ausführen 
+de-de,emby-skill.diagnostic,Überprüfe (emby|mb|mv|nv|emily)
+de-de,emby-skill.emby,spiele {media} von Emby
+de-de,emby-skill.emby,spiele {media} von mb
+de-de,emby-skill.emby,Spiele Artist {artist} von Emby
+de-de,emby-skill.emby,Spiele Artist {artist} von Datenbank
+de-de,emby-skill.emby,Spiele Album {album} von Emby
+de-de,emby-skill.emby,Spiele Album {album} von Emby
+de-de,fairytalez-skill.continue,Setze Geschichte fort
+de-de,fairytalez-skill.continue,Erzähle Geschichte weiter
+de-de,fairytalez-skill.continue,Setze Märchen fort
+de-de,fairytalez-skill.continue,Erzähle Märchen weiter
+de-de,fairytalez-skill.continue,Setze Märchen fort
+de-de,fairytalez-skill.continue,Fahre mit dem Märchen fort
+de-de,fairytalez-skill.continue,Fahre mit dem Märchen fort
+de-de,fairytalez-skill.fairytalez,(Erzähl|Lies) (mir| ) ein(e|) (gute|s| ) (Geschichte| Märchen) (vor|)
+de-de,fairytalez-skill.fairytalez,(Erzähl|Lies) (mir| ) die Geschichte {tale} (vor|)
+de-de,homeassistant.set.climate,Setze die {entity} auf {temp} Grad
+de-de,homeassistant.set.climate,Setze die {entity} Temperatur auf {temp} Grad
+de-de,homeassistant.set.climate,Setze die {entity} Temperatur auf {temp} Grad
+de-de,homeassistant.set.light.brightness,Setze die Helligkeit von {{entity}} auf {{brightnessvalue}} Prozent
+de-de,installer.install.custom,benutzerdefinierten skill herunterladen
+de-de,installer.list.skills,(zeige|Liste) (verfügbare|installierbare) skills.
+de-de,installer.list.skills,Welche (skills|) kann ich installieren?
+de-de,installer.list.skills,Welche Fähigkeiten kann ich installieren?
+de-de,installer.uninstall,deinstalliere (skill|) {skill}
+de-de,installer.uninstall,entferne skill {skill}
+de-de,iss-tracker-skill.tracker.iss,Wo ist die Internationale Raumstation
+de-de,iss-tracker-skill.tracker.iss,Orte die ISS
+de-de,iss-tracker-skill.tracker.iss,Wo ist die ISS
+de-de,laugh.Laugh,Lach wie Alexa
+de-de,laugh.Laugh,kannst du lachen
+de-de,laugh.Laugh,böses (Lachen|Gelächter)
+de-de,laugh.RandomLaugh,lach zufällig
+de-de,laugh.RandomLaugh,löse zufälliges (Lachen|Gelächter) aus
+de-de,laugh.RandomLaugh,zufälliges (Lachen|Gelächter)
+de-de,learning-skill.say.differently,kannst du (das|auch mal|) anders (antworten|sagen)
+de-de,learning-skill.say.differently,lass dir (mal|) etwas neues einfallen
+de-de,learning-skill.say.differently,ergänze (auch mal|) deine antworten
+de-de,learning-skill.something_for_my_skill,dafür (solltest |kannst) du (das|den) {skill} (|Skill) (verwenden|nutzen|nehmen|benutzen)
+de-de,learning-skill.something_for_my_skill,(versuche |mache) es mal (das|mit dem) {skill} (|Skill)
+de-de,learning-skill.something_for_my_skill,(verwende|nutze|nehme|benutze) dazu (das|den) {skill} (|Skill)
+de-de,learning-skill.something_for_my_skill,wie (wäre|wärs) (es|) mit dem {skill} (|Skill)
+de-de,learning-skill.will_let_you_know,ich will es (|dir) erklären
+de-de,learning-skill.will_let_you_know,du (solltest|sollst|wirst ) (noch|)(|etwas mehr|etwas|einiges ) (über {category}|) lernen
+de-de,learning-skill.will_let_you_know,ich (erkläre es |erklärs) dir
+de-de,learning-skill.will_let_you_know,das hat (etwas|einiges|)mit {category} zu tun
+de-de,learning-skill.will_let_you_know,{category} ist (wohl|scheinbar|durchaus) nicht deine stärke
+de-de,learning-skill.will_let_you_know,(das |der|dabei) war (|es) (als|mit) {category} gedacht
+de-de,learning-skill.will_let_you_know,das (solltest|sollst) du mit {category} nehmen
+de-de,learning-skill.work.on.dialog,(ich möchte|kannst du |willst du) (|die|deine|meine|mein) (dialoge|dialog) in {skill} (|Skill) anpassen
+de-de,learning-skill.work.on.dialog,(erweitere|ergänze) (deine|mein|meine) Dialoge
+de-de,learning-skill.work.on.dialog,(ich habe lust|kannst du|mächtest du) an deinen Dialogen (in {skill} (|Skill)|) arbeiten
+de-de,mark-2.brightness,dimme (die|deine) Augen auf {brightness} (Prozent|)
+de-de,mark-2.brightness,dimme auf {brightness} (percent|) herunter
+de-de,mark-2.brightness,verringere die (Helligkeit|Beleuchtung) deiner Augen auf {brightness} (Prozent|)
+de-de,mark-2.brightness,stelle (die|) (Helligkeit|Beleuchtung) (runter|hoch) auf {brightness} (Prozent|)
+de-de,mark-2.brightness,stelle (die|) (Helligkeit|Beleuchtung) auf {brightness} (Prozent|) (runter|hoch)
+de-de,mark-2.brightness,(ein wenig |) aufhellen auf {brightness} (Prozent |)
+de-de,mark-2.brightness,(ändere | setze | schalte) die (Auge |) (Helligkeit | Beleuchtung) auf {brightness} (Prozent |)
+de-de,mark-2.brightness,(ändere | stelle | schalte) (die | deine) (Augen |) (Helligkeit | Beleuchtung) (Pegel |) auf {brightness} (Prozent |)
+de-de,mark-2.brightness,(ändere | stelle | schalte) (die | deine) (Augen |) (Helligkeits | Beleuchtungs) (Pegel |)
+de-de,mark-2.brightness,du bist (zu |) (hell | schwach)
+de-de,mark-2.brightness,du bist (auch |) (hell | schwach)
+de-de,mark-2.brightness,helle auf
+de-de,mark-2.brightness,dimme ein bisschen ab
+de-de,mark-2.brightness.auto,stelle Helligkeit auf automatisch
+de-de,mark-2.brightness.auto,automatische Helligkeit
+de-de,mark-2.device.brightness.settings,Helligkeitseinstellungen anzeigen
+de-de,mark-2.device.brightness.settings,zeige die Helligkeitseinstellungen des Geräts
+de-de,mark-2.device.homescreen.settings,Homescreen-Einstellungen anzeigen
+de-de,mark-2.device.homescreen.settings,zeigw (home | resting | idle) (screen | face | page) settings
+de-de,mark-2.device.homescreen.settings,zeige die (Home | Ruhe | Ruhezustand) (Bildschirm | Gesicht | Seite) Einstellungen des Gerätes an
+de-de,mark-2.device.reset.settings,Werkseinstellungen anzeigen
+de-de,mark-2.device.reset.settings,Einstellungen für Zurücksetzen anzeigen
+de-de,mark-2.device.settings,Geräteeinstellungen anzeigen
+de-de,mark-2.device.settings,Einstellungen öffnen
+de-de,mark-2.device.ssh.settings,ssh einstellungen anzeigen
+de-de,mark-2.device.ssh.settings,zeige ssh Geräte Einstellungen
+de-de,mark-2.device.wifi.settings,drahtlos suche anzeigen
+de-de,mark-2.device.wifi.settings,zeige wireless Einstellungen
+de-de,mark-2.device.wifi.settings,zeige w-lan einstellungen
+de-de,mark-2.device.wifi.settings,zeige w-lan bildschirm
+de-de,moviemaster.genre.movie.search,(liste | finde) (movies | filme) die (in |) {genre} sind
+de-de,moviemaster.genre.movie.search,(liste|finde) {genre} (movies|filme)
+de-de,moviemaster.genre.tv.search,(liste|finde|hole) (Fernsehssendungen|Sendung|Sendungen) die (|in) {genre} sind
+de-de,moviemaster.genre.tv.search,(liste|finde|hole) {genre} (Fernsehsendungen|Sendungen|Sendung)
+de-de,moviemaster.movie.cast,wer (handelt|spielt|ist) im (movie|film|Titel) {movie}
+de-de,moviemaster.movie.description,Worum geht es in (movie | film | flick) {movie}
+de-de,moviemaster.movie.description,erzähle (mir|uns) vom (Movie|Film|flick) {movie}
+de-de,moviemaster.movie.description,(gib|nenne) (mir|uns) eine (Beschreibung|Zusammenfassung) des (movies|films|flicks) {movie}
+de-de,moviemaster.movie.description, 
+de-de,moviemaster.movie.genres,Zu welchem (Genres|Genre) gehört der (Movie|Film|Flick) {movie}
+de-de,moviemaster.movie.genres,Was sind die (Genres|Genre) der (Movie|Film|Flick) {movie}
+de-de,moviemaster.movie.genres,Welches (Genres|Genre) (hat|ist) das (Movie|Film|flick) {movie}
+de-de,moviemaster.movie.information,(finde|hole|schaue nach|gibt es) nach (informationen|infos) (über|zum) (movie | film | flick) {movie}
+de-de,moviemaster.movie.information,(gib|hole|suche) (|mir|uns) (informationen|infos) (zu|über) den (movie | film | flick) {movie}
+de-de,moviemaster.movie.information,(hast du|kannst du) (infos|informationen) über den (Movie|Film|flick) {movie} (finden|bekommen|)
+de-de,moviemaster.movie.popular,(liste|suche|finde) beliebte (Movies|Filme|Flicks)
+de-de,moviemaster.movie.popular,Was sind ( |die) beliebtesten (Movies|Filme|Flicks) (aktulle|aktuell) ( |gespielte)
+de-de,moviemaster.movie.production,(wer|welche Firma) (produziert|produzierte) den Film {movie}
+de-de,moviemaster.movie.recommendations,empfehle (einen|) (Movie|Film|Flicks) (ähnlich zu|ähnlich) (wie|){movie}
+de-de,moviemaster.movie.recommendations,Was empfehlst du (ähnliche|vergleichbare) (movies|Filme|Filme) wie {movie}
+de-de,moviemaster.movie.recommendations,(liste|suche|finde) (|gute) (movies | Filme | flicks) (ähnlich wie|vergleichbar mit) {movie}
+de-de,moviemaster.movie.runtime,Wie (lange|lang) ist der (movie|film|flick) {movie}
+de-de,moviemaster.movie.runtime,Was ist die (laufzeit|länge) vom (movie|Film|Flick) {movie}
+de-de,moviemaster.movie.runtime,suche die (Laufzeit | Länge) des (Films|Movies|Flicks) {movie}
+de-de,moviemaster.movie.top,(Liste|Was sind|Suche) die (Top|Beliebtesten|Besten) (Movies|Filme|Flicks) zum abspielen
+de-de,moviemaster.movie.year,(in welchem Jahr | wann | zu welchem Datum) wurde der (Movie | Film | Flick) {movie} (gemacht | veröffentlicht)
+de-de,mycroft-node-red.converse.disable,mache (node|node red) zu einem (fallback| fall back) (|skill)
+de-de,mycroft-node-red.converse.disable,setze die Priorität für (node|node red) zurück
+de-de,mycroft-node-red.converse.disable,(node|node red) soll nach mycroft antworten
+de-de,mycroft-node-red.converse.enable,Priorisiere (node|node red)
+de-de,mycroft-node-red.converse.enable,gebe (node|node red) Priorität (vor mycroft|)
+de-de,mycroft-node-red.converse.enable,(node|node red) soll vor mycroft antworten
+de-de,mycroft-node-red.pingnode,ping node red
+de-de,mycroft-node-red.pingnode,sag node red hallo
+de-de,mycroft-node-red.pingnode,ist node red erreichbar
+de-de,mycroft-node-red.pingnode,node red status
+de-de,mycroft-timer.cancel.timer,beende den {duration} timer
+de-de,mycroft-timer.cancel.timer,Schalte den timer aus
+de-de,mycroft-timer.cancel.timer,Schalte den timmer um {duration} aus
+de-de,mycroft-timer.cancel.timer,breche den timer ab
+de-de,mycroft-timer.cancel.timer,(cancel|remove|delete|abort) (the|a|) {duration} (timer|)
+de-de,mycroft-timer.cancel.timer,deaktiviere den Timer
+de-de,mycroft-timer.cancel.timer,deaktiviere den {duration} timer
+de-de,mycroft-timer.cancel.timer,bereche den {all} timer ab
+de-de,mycroft-timer.cancel.timer,losche {all} timer
+de-de,mycroft-timer.cancel.timer,deaktiviere {all} timer
+de-de,mycroft-timer.start.timer,Starte einen  timer.
+de-de,mycroft-timer.start.timer,Starte timer.
+de-de,mycroft-timer.start.timer,Starte (##-hour|##-minute|##-second) timer
+de-de,mycroft-timer.start.timer,Starte (##-hour|##-minute|##-second) timer (namens|für) {name}.
+de-de,mycroft-timer.start.timer,(Starte|Setze) (einen|) {duration} timer.
+de-de,mycroft-timer.start.timer,(Starte|Setze) (einen|) {duration} timer (namens|für) {name}.
+de-de,mycroft-timer.start.timer,(Starte|Setze) einen timer for {duration}.
+de-de,mycroft-timer.start.timer,Timer {duration}.
+de-de,mycroft-timer.start.timer,Timer für {duration}.
+de-de,mycroft-timer.start.timer,Timer für {duration} (namens|für) {name}.
+de-de,mycroft-timer.start.timer,{duration} timer.
+de-de,mycroft-timer.start.timer,{duration} timer (namens|für) {name}.
+de-de,mycroft-timer.start.timer,Give me a {duration} timer.
+de-de,mycroft-timer.start.timer,Setze einen Timer über {duration}.
+de-de,mycroft-timer.start.timer,Setze einen {duration} timer.
+de-de,mycroft-timer.start.timer,Gebe mir einen {duration} timer Bitte.
+de-de,mycroft-timer.start.timer,Zähle {duration} für mich.
+de-de,mycroft-timer.start.timer,Zeit {duration} für mich.
+de-de,mycroft-timer.start.timer,ich brauche einen {duration} timer.
+de-de,mycroft-timer.start.timer,erstelle einen timer für {duration}.
+de-de,mycroft-timer.start.timer,erstelle einen timer für {duration} (namens|für) {name}.
+de-de,mycroft-timer.status.timer,Wie viel (Zeit|) bleibt noch übrig von ({duration} timer| timers)
+de-de,mycroft-timer.status.timer,Wie viel Zeit bleibt noch auf den Timern?
+de-de,mycroft-timer.status.timer,Wie viel Zeit bleibt noch
+de-de,mycroft-timer.status.timer,status der timer
+de-de,mycroft-timer.status.timer,status des timers
+de-de,mycroft-timer.status.timer,timer status
+de-de,mycroft-timer.status.timer,status des ({duration} timer| timer})
+de-de,mycroft-timer.status.timer,wie lange noch
+de-de,mycroft-timer.status.timer,bleibt noch Zeit
+de-de,mycroft-timer.status.timer,verbleibende zeit von ({duration} timer| timer)
+de-de,mycroft-timer.status.timer,verbleibende Zeit von (timer|{duration} timer|)?
+de-de,mycroft-timer.status.timer,Timer auflisten
+de-de,mycroft-timer.status.timer,Liste timer auf
+de-de,mycroft-timer.stop,stope timer.
+de-de,mycroft-timer.stop,beende timer.
+de-de,mycroft-timer.stop,deaktiviere timer.
+de-de,mycroft-timer.stop.timer,stope alle timer
+de-de,mycroft-timer.stop.timer,stope timer
+de-de,mycroft-timer.stop.timer,lösche all timer
+de-de,mycroft-timer.stop.timer,lösche timer
+de-de,parrot.did.you.hear.me,(kann|hast) du mir (das|)?
+de-de,parrot.repeat.stt,was habe ich (dir|gerade) (gesagt|mitgeteilt)?
+de-de,parrot.repeat.stt,Was denkst du was ich gesagt habe?
+de-de,parrot.repeat.stt,Was hast du zu mir gesagt?
+de-de,parrot.repeat.stt,sage mir was ich dir (gerade|) gesagt habe.
+de-de,parrot.repeat.stt,was denkst du will ich von dir
+de-de,parrot.repeat.tts,was hast du (gerade|) (gesagt|gemeint)?
+de-de,parrot.repeat.tts,wiederhole was du  (gerade | ) sagtest.
+de-de,parrot.repeat.tts,Kannst du das wiederholen?
+de-de,parrot.repeat.tts,Wiedehole das
+de-de,parrot.repeat.tts,Kannst du das nochmal sagen?
+de-de,parrot.repeat.tts,Sag das noch einmal
+de-de,parrot.repeat.tts,Was war das?
+de-de,parrot.repeat.tts,Wie bitte
+de-de,sip.neon.call,Rufe {{contact}} an
+de-de,sip.neon.call,kannst du {{contact}} anrufen
+de-de,sip.neon.call,Telefon {{Kontakt}}
+de-de,sip.neon.call_and_say,Rufe {{contact}} an und (sag | sage) {{Speech}}
+de-de,sip.neon.call_and_say,Ruf {{contact}} an und (sag | sage) {{Speech}}
+de-de,sip.neon.call_and_say,Telefon {{contakt}} und (sag | sage) {{Speech}}
+de-de,sip.neon.converse.disable,mache (SIP | VOIP | Telefon | Anrufe) (| a | an) (Fallback | Fallback) (| Skill)
+de-de,sip.neon.converse.disable,(deaktivieren | ausschalten | abbrechen | töte | stoppe | beende) (SIP | VOIP | telefoniere | anrufe) (Priorität | unterhalten)
+de-de,sip.neon.converse.disable,löse (SIP | VOIP | Telefon | Anrufe) aus (zuletzt | zum schluss | am Ende | zum Ende)
+de-de,sip.neon.converse.enable,mache (SIP | VOIP | Telefon | Anrufe) (| mit | an) Priorität (| Fähigkeit)
+de-de,sip.neon.converse.enable,löse (SIP | VOIP | Telefon | Anrufe) aus (zuerst | vor dem Anpassen)
+de-de,sip.neon.login,SIP-Login
+de-de,sip.neon.login,VOIP Login
+de-de,sip.neon.login,Melde mich bei SIP an
+de-de,sip.neon.login,Melde mich bei VOIP an
+de-de,sip.neon.restart,SIP (neustart | reboot)
+de-de,sip.neon.restart,VOIP (neustart | reboot)
+de-de,sip.neon.restart,(neustart | reboot) SIP
+de-de,sip.neon.restart,(neustart | reboot) VOIP
+de-de,spotify-skill.PlayAlbum,spiele das Album {album}
+de-de,spotify-skill.PlayAlbum,spiele das Album (namens|){album}
+de-de,spotify-skill.PlayAlbum,spiele das Album (namens|){album} (von|){artist}
+de-de,spotify-skill.PlayAlbum,spiele das Album {album} (von|) (der band|der Gruppe|den Musikern|dem Duo|dem Interpret|){artist}
+de-de,spotify-skill.PlayAlbum,spiele das Album (namens|){album} (von|) (der band|der Gruppe|den Musikern|dem Duo|dem Interpret|){artist}
+de-de,spotify-skill.PlayAlbum,//spiele das Album holy mountain
+de-de,spotify-skill.PlayAlbum,//spiele das Album namens holy mountain
+de-de,spotify-skill.PlayAlbum,//spiele das Album holy mountain von sleep
+de-de,spotify-skill.PlayAlbum,//spiele das Album namens holy mountain von sleep
+de-de,spotify-skill.PlayAlbum,//spiele das Album namens holy mountain von der band sleep
+de-de,spotify-skill.PlayOn,nutze {device} um die Playliste {playlist} zu spielen
+de-de,spotify-skill.PlayOn,Spiele Playliste {playlist} auf {device}
+de-de,spotify-skill.PlayOn,Spiele liste {playlist} auf {device} 
+de-de,spotify-skill.PlayPlaylist,Spiele (die|meine) playliste {playlist}( auf spotify|)
+de-de,spotify-skill.PlaySomeMusic,Spiele (etwas )musik( von {artist}|)
+de-de,spotify-skill.PlaySomeMusic,Spiele (etwas|ein Lied|ein Titel|ein Stück)( von {artist}|)
+de-de,spotify-skill.PlaySomeMusic,Spiel etwas
+de-de,spotify-skill.PlaySong,Spiele {track}( von {artist}|) (vom|aus)( dem Album|der Platte|der Aufnahme|) {album}
+de-de,spotify-skill.PlaySong,Spiele {track} (von|vom) (die Band|die Gruppe|den Musikern|dem Duo|Interpret|){artist}
+de-de,spotify-skill.PlaySong,Spiele {track} (aus|vom)( dem Album| der Platte| der Aufnahme|) {album} (von|durch){artist}
+de-de,spotify-skill.PlaySong,spiele (der|die|das) (Lied|Stück|Titel|Zusammensetzung)( | namens|) {track}( von {artist}|) (aus|von)( dem Album| der Platte| der Aufnahme|) {album}
+de-de,spotify-skill.PlaySong,Spiel {track}( von {artist}|)
+de-de,spotify-skill.PlaySong,//play holy mountain
+de-de,spotify-skill.PlaySong,//play the song holy mountain
+de-de,spotify-skill.PlaySong,//play the song holy mountain by sleep
+de-de,spotify-skill.PlaySong,//play holy mountain by the band sleep
+de-de,spotify-skill.PlaySong,//play holy mountain by the band called sleep
+de-de,spotify-skill.PlaySong,//play holy mountain by the group sleep
+de-de,spotify-skill.PlaySong,//play holy mountain by the group called sleep
+de-de,spotify-skill.PlaySong,//play holy mountain off holy mountain
+de-de,spotify-skill.PlaySong,//play holy mountain by sleep from holy mountain
+de-de,spotify-skill.PlaySong,//play holy mountain off the album holy mountain
+de-de,spotify-skill.PlaySong,//
+de-de,spotify-skill.PlaySong,//FAILING:
+de-de,spotify-skill.PlaySong,//
+de-de,spotify-skill.PlaySong,//play holy mountain by sleep from called holy mountain
+de-de,spotify-skill.PlaySong,//play holy mountain from the album called holy mountain
+de-de,spotify-skill.PlaySong,//play holy mountain by the band sleep from called holy mountain
+de-de,spotify-skill.PlaySong,//play the song called holy mountain by the band called sleep
+de-de,spotify-skill.PlaySong,//play the song called holy mountain by sleep
+de-de,spotify-skill.PlaySong,//play holy mountain by the band called sleep from called holy mountain
+de-de,spotify-skill.PlaySong,//play the song called holy mountain off the album named holy mountain
+de-de,spotify-skill.PlaySong,//play the song named holy mountain from holy mountain
+de-de,spotify-skill.PlaySong,//play the song named holy mountain from named holy mountain
+de-de,spotify-skill.PlaySong,//play the song named holy mountain by sleep off the album named holy mountain
+de-de,spotify-skill.PlaySong,//play the song named holy mountain by sleep off the album holy mountain
+de-de,spotify-skill.PlaySong,//play the song holy mountain by the musicians sleep
+de-de,spotify-skill.PlaySong,//play the song holy mountain by the musicians named sleep
+de-de,spotify-skill.PlaySong,//play the song called holy mountain by the musicians sleep
+de-de,spotify-skill.PlaySong,//play the song called holy mountain by the musicians called sleep
+de-de,support.contact.support,Ich habe ein Problem
+de-de,support.contact.support,etwas funktioniert nicht
+de-de,support.contact.support,Was ist los mit dir?
+de-de,support.contact.support,Erstelle mir eine Problembehandlungsanforderung
+de-de,support.contact.support,Fehlerbehebung für mein Gerät
+de-de,support.contact.support,Kontaktiere den Support
+de-de,support.contact.support,Erstelle ein Support-Ticket
+de-de,theia-ide-skill.restart,Neustart IDE
+de-de,theia-ide-skill.start,Aktivieren IDE
+de-de,theia-ide-skill.stop,Deaktivieren IDE
+de-de,voip.call,Rufe {{contact}} an
+de-de,voip.call,kannst du {{contact}} anrufen
+de-de,voip.call,Telefon {{Kontakt}}
+de-de,voip.call_and_say,Rufe {{contact}} an und (sag | sage) {{Speech}}
+de-de,voip.call_and_say,Ruf {{contact}} an und (sag | sage) {{Speech}}
+de-de,voip.call_and_say,Telefon {{contakt}} und (sag | sage) {{Speech}}
+de-de,voip.converse.disable,mache (SIP | VOIP | Telefon | Anrufe) (| a | an) (Fallback | Fallback) (| Skill)
+de-de,voip.converse.disable,(deaktivieren | ausschalten | abbrechen | töte | stoppe | beende) (SIP | VOIP | telefoniere | anrufe) (Priorität | unterhalten)
+de-de,voip.converse.disable,löse (SIP | VOIP | Telefon | Anrufe) aus (zuletzt | zum schluss | am Ende | zum Ende)
+de-de,voip.converse.enable,mache (SIP | VOIP | Telefon | Anrufe) (| mit | an) Priorität (| Fähigkeit)
+de-de,voip.converse.enable,löse (SIP | VOIP | Telefon | Anrufe) aus (zuerst | vor dem Anpassen)
+de-de,voip.login,SIP-Login
+de-de,voip.login,VOIP Login
+de-de,voip.login,Melde mich bei SIP an
+de-de,voip.login,Melde mich bei VOIP an
+de-de,voip.restart,SIP (neustart | reboot)
+de-de,voip.restart,VOIP (neustart | reboot)
+de-de,voip.restart,(neustart | reboot) SIP
+de-de,voip.restart,(neustart | reboot) VOIP
+de-de,wikiquote-skill.random,nenne mir (ein|eine) (Zitat|Weisheit)
+de-de,wikiquote-skill.random,gib mir (ein|eine) (Zitat|Weisheit)
+de-de,wikiquote-skill.random,Ich brauche eine Weisheit
+de-de,wikiquote-skill.specific,nenne mir (ein|eine) {subject} (Zitat|Weisheit)
+de-de,wikiquote-skill.specific,gib mir (ein|eine) {subject} (Zitat|Weisheit)
+de-de,wikiquote-skill.specific,Ich brauche {subject} (Zitat(e)|Weisheit(en))
+de-de,wikiquote-skill.specific,nenne mir ein Zitat (von|über) {subject}
+de-de,wikiquote-skill.specific,gib mir ein Zitat (von|über) {subject}
+de-de,wikiquote-skill.specific,Ich brauche ein Zitat (von|über) {subject}

@@ -1,0 +1,197 @@
+{
+  "nl-nl": {
+    "auto-volume-skill.activate": [
+      "Activeer automatische geluidssterkte",
+      "Zet automatisch geluidsniveau aan",
+      "Schakel automatisch geluidsniveau in",
+      "Zet automatisch geluidsniveau (op) aan"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Automatisch geluidsniveau uitschakelen",
+      "Zet het automatisch geluidsniveau uit",
+      "Automatisch geluidsniveau uitschakelen",
+      "Schakel automatisch geluidsniveau (op) uit"
+    ],
+    "auto-volume-skill.reset": [
+      "Verwijder automatische geluidsmetingen",
+      "Verwijder automatische geuildsmetingen",
+      "Herstel de automatische geluidsmetingen"
+    ],
+    "cocktail.Needed": [
+      "wat is nodig om een {drink} te maken",
+      "wat heb (ik|je) nodig (voor|om) een {drink} (te maken)?",
+      "wat (zijn de|is het) (ingredienten|ingredient) (van|voor) een {drink}"
+    ],
+    "cocktail.Recipie": [
+      "hoe moet (ik|je) een {drink} (maken|mixen)",
+      "vertel (me|ons) hoe je een {drink} (maakt|mixt)",
+      "geef (mij |ons) instructies voor (een | ) {drink}",
+      "hoe (maak |mix) je (een | ) {drink}",
+      "wat is het recept voor (een | ) {drink}"
+    ],
+    "count-skill.count": [
+      "Tel tot {number}"
+    ],
+    "count-skill.countdown": [
+      "Aftellen (van|vanaf) {number}",
+      "Aftellen (van|vanaf) {number}",
+      "Terug tellen (van|vanaf) {number}",
+      "Terug tellen (van|vanaf) {number}",
+      "Tel terug (van|vanaf) {number}",
+      "Tel af (van|vanaf) {number}",
+      "Tel terug (van|vanaf) {number}"
+    ],
+    "dice-skill.Dice": [
+      "rol ({count}|) d {type} (+|plus|) ({modifier}|)"
+    ],
+    "dice-skill.NormalDice": [
+      "rol ({count}l) (dobbelsteen|dobbelstenen)"
+    ],
+    "dice-skill.Range": [
+      "Genereer een willekeurig nummer van {low} tot {high}",
+      "Genereer een willekeurig nummer tussen {low} en {high}",
+      "Geef mij een nummer tussen {low} en {high}",
+      "Vertel mij een nummer tussen {low} en {high}"
+    ],
+    "email-skill.check.email": [
+      "cointroleer mijn e-mail",
+      "controleer mijn e-mail",
+      "heb ik nog nieuwe mails",
+      "heb ik nieuwe e-mails",
+      "Heb ik nog nieuwe mail"
+    ],
+    "email-skill.enquire.email": [
+      "Heb ik mail van {email}",
+      "heb ik (een | ) E-mail van {email}",
+      "Heb ik mail ontvangen van {email}"
+    ],
+    "email-skill.notify": [
+      "Vertel me over (mail | E-mail)",
+      "vertel me wanneer ik een (mail | E-mail | nieuwe mail | nieuwe E-mail) ontvang",
+      "vertel me wanneer ik ( een mail | een E-mail) ontvang van {sender}",
+      "vertel me over de (mail | E-mail) van {sender}",
+      "verwittig me bij een (mail | E-mail | nieuwe mail | nieuwe E-mail)",
+      "meld mij als ik (mail | email | niewe mail) (van | door) {sender}",
+      "laat me weten wanneer ik een (mail | E-mail | nieuwe mail | nieuwe E-mail) ontvang",
+      "vertel me wanneer ik ( een mail | een E-mail) ontvang van {sender}"
+    ],
+    "email-skill.stop": [
+      "verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail)",
+      "verwittig me net meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail) (van | door | afkomstig van) {sender}",
+      "verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail)",
+      "verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail) (van | door | afkomstig van) {sender}",
+      "verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail)",
+      "verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail) (van | door | afkomstig van) {sender}",
+      "verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail)",
+      "verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail) (van | door | afkomstig van) {sender}"
+    ],
+    "emby-skill.diagnostic": [
+      "Check de (emby|mb|mv|nv|emily) connectie",
+      "Draai diagnose (emby|mb|mv|nv|emily)",
+      "check (emby|mb|mv|nv|emily)"
+    ],
+    "emby-skill.emby": [
+      "speelt {media} van emby",
+      "speelt {media} van mb",
+      "Speel artiest {artist} op Emby",
+      "speel artist {artist} op mb",
+      "Speel album {album} van emby.",
+      "Speel album {album} van mb"
+    ],
+    "fairytalez-skill.continue": [
+      "Verdergaan met het verhaal",
+      "Ga verder met verhalen te vertellen",
+      "Verdergaan met sprookje",
+      "Verdergaan met sprookje te vertellen",
+      "Verdergaan met sprookje",
+      "Verdergaan met het sprookje",
+      "Verdergaan met het sprookje"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "(Lees|Vertel) (mij| ) een (goed|leuk| ) (verhaaltje|sprookje) voor",
+      "Lees (aan mij| ) het (verhaal|verhaaltje) {tale} voor"
+    ],
+    "homeassistant.set.climate": [
+      "zet de {entity} op {temp} graden",
+      "stel de {entity} temperatuur in op {temp} graden",
+      "verander de {entity} temperatuur naar {temp} graden"
+    ],
+    "homeassistant.set.light.brightness": [
+      "zet (de )?helderheid van {{entity}} op {{brightnessvalue}} procent"
+    ],
+    "iss-tracker-skill.tracker.iss": [
+      "Waar is het internationaal ruimtestation?",
+      "Zoek I S S",
+      "Waar is het I S S"
+    ],
+    "laugh.Laugh": [
+      "lach als alexa",
+      "kan jij lachen",
+      "kwaadaardig(e)? (lach|lachen|gelach)"
+    ],
+    "laugh.RandomLaugh": [
+      "lach willekeurig",
+      "trigger (een)? willekeurig(e)? (lach|lachen|gelach)",
+      "willekeurig(e)? (lach|lachen|gelach)"
+    ],
+    "mark-2.brightness": [
+      "dim (the|your) ogen tot {brightness} (percent|)",
+      "dim tot {brightness}(percent|)",
+      "verlaag de (brightness|illumination) van je ogen tot {brightness}(percent|)",
+      "zet (the|)(brightness|illumination) (down|up) tot {brightness} (percent|)",
+      "zet (down|up) (the|) (brightness|illumination) to {brightness} (percent|)",
+      "licht het op(een beetje|) tot {brightness} (procent )",
+      "(verander|zet|switch) naar {brightness} (procent) (oog|) (helderheid|verlichting)",
+      "(verander|zet|switch) (de|jou) (eye |) (helderheid|verlichting) (level|) naar {brightness} (procent|)",
+      "(verander|zet|switch) (het|jou) (oog|) (helderheid|verlichting) (level|)",
+      "je bent (ook|) (helder|gedimd)",
+      "je bent (ook |) (helder | gedimd)",
+      "maak het helder",
+      "dim het een beetje"
+    ],
+    "mark-2.brightness.auto": [
+      "Zet helderheid op automatisch ",
+      "Automatische helderheid "
+    ],
+    "mark-2.device.brightness.settings": [
+      "Laat de helderheidsinstellingen zien",
+      "Laat de helderheidsinstellingen van het apparaat zien"
+    ],
+    "mark-2.device.homescreen.settings": [
+      "Laat de instellingen van het thuisscherm zien",
+      "toon (home|rust|inactief) (scherm|gezicht|pagina) instellingen",
+      "toon (home|rust|inactief) (scherm|gezicht|pagina) instellingen"
+    ],
+    "mark-2.device.reset.settings": [
+      "toon fabrieksinstellingen",
+      "de fabrieksinstellingen voor het apparaat weergeven"
+    ],
+    "mark-2.device.settings": [
+      "Laat apparaatinstellingen zien",
+      "Open instellingen "
+    ],
+    "mark-2.device.ssh.settings": [
+      "Laat de ssh instellingen zien",
+      "Laat de ssh instellingen van dit apparaat zien"
+    ],
+    "mark-2.device.wifi.settings": [
+      "toon draadloos scherm",
+      "Laat de draadloze instellingen zien",
+      "Laat de wifi instellingen zien",
+      "show wifi screen"
+    ],
+    "wikiquote-skill.random": [
+      "geef me (een|wat) (citaat|wijsheid)",
+      "geef me (een|wat) (citaat|wijsheid)",
+      "Ik heb wijsheid nodig"
+    ],
+    "wikiquote-skill.specific": [
+      "geef me (een citaat|wat wijsheid) over {subject}",
+      "geef me (een citaat|wat wijsheid) over {subject}",
+      "Ik heb (een citaat|wat wijsheid) nodig over {subject}",
+      "geef me een citaat (van|over) {subject}",
+      "geef me een citaat (van|over) {subject}",
+      "ik heb een citaat nodig (van|over) {subject}"
+    ]
+  }
+}

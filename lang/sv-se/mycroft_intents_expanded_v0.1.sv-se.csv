@@ -1,0 +1,1170 @@
+sv-se,auto-volume-skill.activate,Aktivera automatisk volym
+sv-se,auto-volume-skill.activate,slå på automatisk volym
+sv-se,auto-volume-skill.activate,sätt på automatisk volym
+sv-se,auto-volume-skill.activate,Aktivera automatisk volym
+sv-se,auto-volume-skill.activate,Sätt på automatisk volym
+sv-se,auto-volume-skill.activate,Sätt automatisk volym ( till ) på
+sv-se,auto-volume-skill.deactivate,avaktivera automatisk volym
+sv-se,auto-volume-skill.deactivate,stäng av automatisk volym
+sv-se,auto-volume-skill.deactivate,Inaktivera automatisk volym
+sv-se,auto-volume-skill.deactivate,Sätt automatisk volym till inaktiv
+sv-se,auto-volume-skill.deactivate,Stäng av automatisk volym
+sv-se,auto-volume-skill.deactivate,Sätt automatisk volym ( till ) av
+sv-se,auto-volume-skill.reset,Rensa autovolym mätningar
+sv-se,auto-volume-skill.reset,Ta bort mätningarna för automatisk volym
+sv-se,auto-volume-skill.reset,Återställ mätningarna för automatisk volym
+sv-se,cocktail.Needed,vad behövs för att göra ett {drink}
+sv-se,cocktail.Needed,vad behövs för att göra en {drink}
+sv-se,cocktail.Needed,vad behöver en till ett {drink}
+sv-se,cocktail.Needed,vad behöver en till en {drink}
+sv-se,cocktail.Needed,vad behöver en för att göra ett {drink}
+sv-se,cocktail.Needed,vad behöver en för att göra en {drink}
+sv-se,cocktail.Needed,vad behöver man till ett {drink}
+sv-se,cocktail.Needed,vad behöver man till en {drink}
+sv-se,cocktail.Needed,vad behöver man för att göra ett {drink}
+sv-se,cocktail.Needed,vad behöver man för att göra en {drink}
+sv-se,cocktail.Needed,vad behöver jag till ett {drink}
+sv-se,cocktail.Needed,vad behöver jag till en {drink}
+sv-se,cocktail.Needed,vad behöver jag för att göra ett {drink}
+sv-se,cocktail.Needed,vad behöver jag för att göra en {drink}
+sv-se,cocktail.Needed,vilka ingrediens ingår i ett {drink}
+sv-se,cocktail.Needed,vilka ingrediens ingår i en {drink}
+sv-se,cocktail.Needed,vilka ingrediens innehåller ett {drink}
+sv-se,cocktail.Needed,vilka ingrediens innehåller en {drink}
+sv-se,cocktail.Needed,vilka ingredienser ingår i ett {drink}
+sv-se,cocktail.Needed,vilka ingredienser ingår i en {drink}
+sv-se,cocktail.Needed,vilka ingredienser innehåller ett {drink}
+sv-se,cocktail.Needed,vilka ingredienser innehåller en {drink}
+sv-se,cocktail.Recipie,hur mixar man ett {drink}
+sv-se,cocktail.Recipie,hur mixar man en {drink}
+sv-se,cocktail.Recipie,hur mixar jag ett {drink}
+sv-se,cocktail.Recipie,hur mixar jag en {drink}
+sv-se,cocktail.Recipie,hur blandar man ett {drink}
+sv-se,cocktail.Recipie,hur blandar man en {drink}
+sv-se,cocktail.Recipie,hur blandar jag ett {drink}
+sv-se,cocktail.Recipie,hur blandar jag en {drink}
+sv-se,cocktail.Recipie,hur gör man ett {drink}
+sv-se,cocktail.Recipie,hur gör man en {drink}
+sv-se,cocktail.Recipie,hur gör jag ett {drink}
+sv-se,cocktail.Recipie,hur gör jag en {drink}
+sv-se,cocktail.Recipie,berätta hur man gör ett {drink}
+sv-se,cocktail.Recipie,berätta hur man gör en {drink}
+sv-se,cocktail.Recipie,berätta hur man mixar ett {drink}
+sv-se,cocktail.Recipie,berätta hur man mixar en {drink}
+sv-se,cocktail.Recipie,berätta hur man blandar ett {drink}
+sv-se,cocktail.Recipie,berätta hur man blandar en {drink}
+sv-se,cocktail.Recipie,berätta för mig hur man gör ett {drink}
+sv-se,cocktail.Recipie,berätta för mig hur man gör en {drink}
+sv-se,cocktail.Recipie,berätta för mig hur man mixar ett {drink}
+sv-se,cocktail.Recipie,berätta för mig hur man mixar en {drink}
+sv-se,cocktail.Recipie,berätta för mig hur man blandar ett {drink}
+sv-se,cocktail.Recipie,berätta för mig hur man blandar en {drink}
+sv-se,cocktail.Recipie,berätta för oss hur man gör ett {drink}
+sv-se,cocktail.Recipie,berätta för oss hur man gör en {drink}
+sv-se,cocktail.Recipie,berätta för oss hur man mixar ett {drink}
+sv-se,cocktail.Recipie,berätta för oss hur man mixar en {drink}
+sv-se,cocktail.Recipie,berätta för oss hur man blandar ett {drink}
+sv-se,cocktail.Recipie,berätta för oss hur man blandar en {drink}
+sv-se,cocktail.Recipie,ge oss instruktioner för ett {drink}
+sv-se,cocktail.Recipie,ge oss instruktioner för en {drink}
+sv-se,cocktail.Recipie,ge oss instruktioner för att blanda ett {drink}
+sv-se,cocktail.Recipie,ge oss instruktioner för att blanda en {drink}
+sv-se,cocktail.Recipie,ge oss instruktioner för att mixa ett {drink}
+sv-se,cocktail.Recipie,ge oss instruktioner för att mixa en {drink}
+sv-se,cocktail.Recipie,ge oss instruktioner för att göra ett {drink}
+sv-se,cocktail.Recipie,ge oss instruktioner för att göra en {drink}
+sv-se,cocktail.Recipie,ge mig instruktioner för ett {drink}
+sv-se,cocktail.Recipie,ge mig instruktioner för en {drink}
+sv-se,cocktail.Recipie,ge mig instruktioner för att blanda ett {drink}
+sv-se,cocktail.Recipie,ge mig instruktioner för att blanda en {drink}
+sv-se,cocktail.Recipie,ge mig instruktioner för att mixa ett {drink}
+sv-se,cocktail.Recipie,ge mig instruktioner för att mixa en {drink}
+sv-se,cocktail.Recipie,ge mig instruktioner för att göra ett {drink}
+sv-se,cocktail.Recipie,ge mig instruktioner för att göra en {drink}
+sv-se,cocktail.Recipie,hur gör ett {drink}
+sv-se,cocktail.Recipie,hur gör en {drink}
+sv-se,cocktail.Recipie,hur gör jag ett {drink}
+sv-se,cocktail.Recipie,hur gör jag en {drink}
+sv-se,cocktail.Recipie,hur gör en ett {drink}
+sv-se,cocktail.Recipie,hur gör en en {drink}
+sv-se,cocktail.Recipie,hur gör man ett {drink}
+sv-se,cocktail.Recipie,hur gör man en {drink}
+sv-se,cocktail.Recipie,hur mixar ett {drink}
+sv-se,cocktail.Recipie,hur mixar en {drink}
+sv-se,cocktail.Recipie,hur mixar jag ett {drink}
+sv-se,cocktail.Recipie,hur mixar jag en {drink}
+sv-se,cocktail.Recipie,hur mixar en ett {drink}
+sv-se,cocktail.Recipie,hur mixar en en {drink}
+sv-se,cocktail.Recipie,hur mixar man ett {drink}
+sv-se,cocktail.Recipie,hur mixar man en {drink}
+sv-se,cocktail.Recipie,hur blandar ett {drink}
+sv-se,cocktail.Recipie,hur blandar en {drink}
+sv-se,cocktail.Recipie,hur blandar jag ett {drink}
+sv-se,cocktail.Recipie,hur blandar jag en {drink}
+sv-se,cocktail.Recipie,hur blandar en ett {drink}
+sv-se,cocktail.Recipie,hur blandar en en {drink}
+sv-se,cocktail.Recipie,hur blandar man ett {drink}
+sv-se,cocktail.Recipie,hur blandar man en {drink}
+sv-se,cocktail.Recipie,vad är recepted för ( att göra ) ett {drink}
+sv-se,cocktail.Recipie,vad är recepted för ( att göra ) en {drink}
+sv-se,cocktail.Recipie,vad är recepted för ( att mixa ) ett {drink}
+sv-se,cocktail.Recipie,vad är recepted för ( att mixa ) en {drink}
+sv-se,cocktail.Recipie,vad är recepted för ( att blanda ) ett {drink}
+sv-se,cocktail.Recipie,vad är recepted för ( att blanda ) en {drink}
+sv-se,count-skill.count,Ränka till {number}
+sv-se,count-skill.countdown,Nedräkning från {number}
+sv-se,count-skill.countdown,Räkna ned från {number}
+sv-se,count-skill.countdown,Räkna ner från {number}
+sv-se,count-skill.countdown,Räkna baklänges från {number}
+sv-se,count-skill.countdown,Räkna tillbaka från {number}
+sv-se,count-skill.countdown,Räkna baklänges från {number}
+sv-se,count-skill.countdown,Från {number} räkna ned
+sv-se,count-skill.countdown,Från {number} räkna ner
+sv-se,count-skill.countdown,Från {number} räkna baklänges
+sv-se,dice-skill.Dice,kasta d {type}
+sv-se,dice-skill.Dice,kasta d {type} {modifier}
+sv-se,dice-skill.Dice,kasta d {type} plus
+sv-se,dice-skill.Dice,kasta d {type} plus {modifier}
+sv-se,dice-skill.Dice,kasta d {type} +
+sv-se,dice-skill.Dice,kasta d {type} + {modifier}
+sv-se,dice-skill.Dice,kasta {count} d {type}
+sv-se,dice-skill.Dice,kasta {count} d {type} {modifier}
+sv-se,dice-skill.Dice,kasta {count} d {type} plus
+sv-se,dice-skill.Dice,kasta {count} d {type} plus {modifier}
+sv-se,dice-skill.Dice,kasta {count} d {type} +
+sv-se,dice-skill.Dice,kasta {count} d {type} + {modifier}
+sv-se,dice-skill.NormalDice,kasta tärningen
+sv-se,dice-skill.NormalDice,kasta tärningar
+sv-se,dice-skill.NormalDice,kasta {count} tärningen
+sv-se,dice-skill.NormalDice,kasta {count} tärningar
+sv-se,dice-skill.Range,Generera ett slumpmässigt tal från {low} till {high}
+sv-se,dice-skill.Range,Generera ett slumpmässigt tal mellan {low} och {high}
+sv-se,dice-skill.Range,Berätta ett nummer från {low} och {high}
+sv-se,dice-skill.Range,Berätta ett nummer mellan {low} och {high}
+sv-se,email-skill.check.email,kolla min epost
+sv-se,email-skill.check.email,kolla min epost
+sv-se,email-skill.check.email,har jag någon ny epost
+sv-se,email-skill.check.email,har jag någon e-post
+sv-se,email-skill.check.email,har jag någon ny epost
+sv-se,email-skill.enquire.email,Har jag epost från {email}
+sv-se,email-skill.enquire.email,Har jag fått e-post från från {email}
+sv-se,email-skill.enquire.email,Har jag fått e-post av från {email}
+sv-se,email-skill.enquire.email,Har jag fått någon e-post från från {email}
+sv-se,email-skill.enquire.email,Har jag fått någon e-post av från {email}
+sv-se,email-skill.enquire.email,Fick jag några e-postmeddelanden från {email}
+sv-se,email-skill.notify,berätta för mig epost-meddelanden
+sv-se,email-skill.notify,berätta för mig ny e-post
+sv-se,email-skill.notify,berätta för mig e-post
+sv-se,email-skill.notify,berätta för mig mail
+sv-se,email-skill.notify,berätta när jag får nytt epost-meddelanden
+sv-se,email-skill.notify,berätta när jag får ny e-post
+sv-se,email-skill.notify,berätta när jag får e-post
+sv-se,email-skill.notify,berätta när jag får mail
+sv-se,email-skill.notify,berätta när jag får e-post av {sender}
+sv-se,email-skill.notify,berätta när jag får e-post från {sender}
+sv-se,email-skill.notify,berätta när jag får en e-post av {sender}
+sv-se,email-skill.notify,berätta när jag får en e-post från {sender}
+sv-se,email-skill.notify,berätta när jag får ett e-post meddelande av {sender}
+sv-se,email-skill.notify,berätta när jag får ett e-post meddelande från {sender}
+sv-se,email-skill.notify,berätta om e-post av {sender}
+sv-se,email-skill.notify,berätta om e-post från {sender}
+sv-se,email-skill.notify,berätta om mail av {sender}
+sv-se,email-skill.notify,berätta om mail från {sender}
+sv-se,email-skill.notify,meddela mig om nya epost-meddelanden
+sv-se,email-skill.notify,meddela mig om ny e-post
+sv-se,email-skill.notify,meddela mig om e-post
+sv-se,email-skill.notify,meddela mig om mail
+sv-se,email-skill.notify,meddela mig om nya epost-meddelanden av {sender}
+sv-se,email-skill.notify,meddela mig om nya epost-meddelanden från {sender}
+sv-se,email-skill.notify,meddela mig om ny e-post av {sender}
+sv-se,email-skill.notify,meddela mig om ny e-post från {sender}
+sv-se,email-skill.notify,meddela mig om e-post av {sender}
+sv-se,email-skill.notify,meddela mig om e-post från {sender}
+sv-se,email-skill.notify,meddela mig om mail av {sender}
+sv-se,email-skill.notify,meddela mig om mail från {sender}
+sv-se,email-skill.notify,meddela mig när jag får nya epost-meddelanden
+sv-se,email-skill.notify,meddela mig när jag får ny e-post
+sv-se,email-skill.notify,meddela mig när jag får e-post
+sv-se,email-skill.notify,meddela mig när jag får mail
+sv-se,email-skill.notify,meddela mig när jag får e-post av {sender}
+sv-se,email-skill.notify,meddela mig när jag får e-post från {sender}
+sv-se,email-skill.notify,meddela mig när jag får ett e-post meddelande av {sender}
+sv-se,email-skill.notify,meddela mig när jag får ett e-post meddelande från {sender}
+sv-se,email-skill.notify,meddela mig när jag får en e-post av {sender}
+sv-se,email-skill.notify,meddela mig när jag får en e-post från {sender}
+sv-se,email-skill.stop,meddela mig inte om nya epost-meddelanden
+sv-se,email-skill.stop,meddela mig inte om ny e-post
+sv-se,email-skill.stop,meddela mig inte om e-post
+sv-se,email-skill.stop,meddela mig inte om mail
+sv-se,email-skill.stop,meddela mig inte om nya epost-meddelanden av {sender}
+sv-se,email-skill.stop,meddela mig inte om nya epost-meddelanden från {sender}
+sv-se,email-skill.stop,meddela mig inte om ny e-post av {sender}
+sv-se,email-skill.stop,meddela mig inte om ny e-post från {sender}
+sv-se,email-skill.stop,meddela mig inte om e-post av {sender}
+sv-se,email-skill.stop,meddela mig inte om e-post från {sender}
+sv-se,email-skill.stop,meddela mig inte om mail av {sender}
+sv-se,email-skill.stop,meddela mig inte om mail från {sender}
+sv-se,email-skill.stop,meddela mig inte längre om nya epost-meddelanden
+sv-se,email-skill.stop,meddela mig inte längre om ny e-post
+sv-se,email-skill.stop,meddela mig inte längre om e-post
+sv-se,email-skill.stop,meddela mig inte längre om mail
+sv-se,email-skill.stop,meddela mig inte längre om nya epost-meddelanden av {sender}
+sv-se,email-skill.stop,meddela mig inte längre om nya epost-meddelanden från {sender}
+sv-se,email-skill.stop,meddela mig inte längre om ny e-post av {sender}
+sv-se,email-skill.stop,meddela mig inte längre om ny e-post från {sender}
+sv-se,email-skill.stop,meddela mig inte längre om e-post av {sender}
+sv-se,email-skill.stop,meddela mig inte längre om e-post från {sender}
+sv-se,email-skill.stop,meddela mig inte längre om mail av {sender}
+sv-se,email-skill.stop,meddela mig inte längre om mail från {sender}
+sv-se,email-skill.stop,berätta inte för mig om nya epost-meddelanden
+sv-se,email-skill.stop,berätta inte för mig om ny e-post
+sv-se,email-skill.stop,berätta inte för mig om e-post
+sv-se,email-skill.stop,berätta inte för mig om mail
+sv-se,email-skill.stop,berätta inte för mig om nya epost-meddelanden av {sender}
+sv-se,email-skill.stop,berätta inte för mig om nya epost-meddelanden från {sender}
+sv-se,email-skill.stop,berätta inte för mig om ny e-post av {sender}
+sv-se,email-skill.stop,berätta inte för mig om ny e-post från {sender}
+sv-se,email-skill.stop,berätta inte för mig om e-post av {sender}
+sv-se,email-skill.stop,berätta inte för mig om e-post från {sender}
+sv-se,email-skill.stop,berätta inte för mig om mail av {sender}
+sv-se,email-skill.stop,berätta inte för mig om mail från {sender}
+sv-se,email-skill.stop,berätta inte längre för mig om nya epost-meddelanden
+sv-se,email-skill.stop,berätta inte längre för mig om ny e-post
+sv-se,email-skill.stop,berätta inte längre för mig om e-post
+sv-se,email-skill.stop,berätta inte längre för mig om mail
+sv-se,email-skill.stop,berätta inte längre om nya epost-meddelanden av {sender}
+sv-se,email-skill.stop,berätta inte längre om nya epost-meddelanden från {sender}
+sv-se,email-skill.stop,berätta inte längre om ny e-post av {sender}
+sv-se,email-skill.stop,berätta inte längre om ny e-post från {sender}
+sv-se,email-skill.stop,berätta inte längre om e-post av {sender}
+sv-se,email-skill.stop,berätta inte längre om e-post från {sender}
+sv-se,email-skill.stop,berätta inte längre om mail av {sender}
+sv-se,email-skill.stop,berätta inte längre om mail från {sender}
+sv-se,emby-skill.diagnostic,kontrollera emily anslutningen
+sv-se,emby-skill.diagnostic,kontrollera nv anslutningen
+sv-se,emby-skill.diagnostic,kontrollera mv anslutningen
+sv-se,emby-skill.diagnostic,kontrollera mb anslutningen
+sv-se,emby-skill.diagnostic,kontrollera emby anslutningen
+sv-se,emby-skill.diagnostic,kör diagnostik emily
+sv-se,emby-skill.diagnostic,kör diagnostik nv
+sv-se,emby-skill.diagnostic,kör diagnostik mv
+sv-se,emby-skill.diagnostic,kör diagnostik mb
+sv-se,emby-skill.diagnostic,kör diagnostik emby
+sv-se,emby-skill.diagnostic,kontrollera emily
+sv-se,emby-skill.diagnostic,kontrollera nv
+sv-se,emby-skill.diagnostic,kontrollera mv
+sv-se,emby-skill.diagnostic,kontrollera mb
+sv-se,emby-skill.diagnostic,kontrollera emby
+sv-se,emby-skill.emby,spela {media} från emby
+sv-se,emby-skill.emby,spela {media} från mb
+sv-se,emby-skill.emby,spela artisten {artist} från emby
+sv-se,emby-skill.emby,spela artisten {artist} från mb
+sv-se,emby-skill.emby,spela albumet {album} från emby
+sv-se,emby-skill.emby,spela albumet {album} från mb
+sv-se,fairytalez-skill.continue,Fortsätt berättelsen
+sv-se,fairytalez-skill.continue,Fortsätt med berättelsen
+sv-se,fairytalez-skill.continue,Fortsätt sagan
+sv-se,fairytalez-skill.continue,Fortsätt berätta sagan
+sv-se,fairytalez-skill.continue,Fortsätt sagan
+sv-se,fairytalez-skill.continue,Fortsätt med sagan
+sv-se,fairytalez-skill.continue,Fortsätt med sagan
+sv-se,fairytalez-skill.fairytalez,Läs en saga
+sv-se,fairytalez-skill.fairytalez,Läs en berättelse
+sv-se,fairytalez-skill.fairytalez,Läs en bra saga
+sv-se,fairytalez-skill.fairytalez,Läs en bra berättelse
+sv-se,fairytalez-skill.fairytalez,Läs mig en saga
+sv-se,fairytalez-skill.fairytalez,Läs mig en berättelse
+sv-se,fairytalez-skill.fairytalez,Läs mig en bra saga
+sv-se,fairytalez-skill.fairytalez,Läs mig en bra berättelse
+sv-se,fairytalez-skill.fairytalez,Berätta en saga
+sv-se,fairytalez-skill.fairytalez,Berätta en berättelse
+sv-se,fairytalez-skill.fairytalez,Berätta en bra saga
+sv-se,fairytalez-skill.fairytalez,Berätta en bra berättelse
+sv-se,fairytalez-skill.fairytalez,Berätta mig en saga
+sv-se,fairytalez-skill.fairytalez,Berätta mig en berättelse
+sv-se,fairytalez-skill.fairytalez,Berätta mig en bra saga
+sv-se,fairytalez-skill.fairytalez,Berätta mig en bra berättelse
+sv-se,fairytalez-skill.fairytalez,Läs för berättelsen {tale}
+sv-se,fairytalez-skill.fairytalez,Läs för mig berättelsen {tale}
+sv-se,fairytalez-skill.fairytalez,Berätta för berättelsen {tale}
+sv-se,fairytalez-skill.fairytalez,Berätta för mig berättelsen {tale}
+sv-se,iss-tracker-skill.tracker.iss,Var är den internationella rymdstationen
+sv-se,iss-tracker-skill.tracker.iss,Hitta I S S
+sv-se,iss-tracker-skill.tracker.iss,Var är I S S
+sv-se,laugh.Laugh,skratta som alexa
+sv-se,laugh.Laugh,kan du skratta
+sv-se,laugh.Laugh,ond skratt
+sv-se,laugh.Laugh,ond skrattande
+sv-se,laugh.Laugh,ond garva
+sv-se,laugh.Laugh,ond skrattar
+sv-se,laugh.RandomLaugh,skratta slumpmässigt
+sv-se,laugh.RandomLaugh,utlös slumpmässigt garv
+sv-se,laugh.RandomLaugh,utlös slumpmässigt skrattar
+sv-se,laugh.RandomLaugh,utlös slumpmässigt skrattande
+sv-se,laugh.RandomLaugh,utlös slumpmässigt skratt
+sv-se,laugh.RandomLaugh,slumpmässigt skratt
+sv-se,laugh.RandomLaugh,slumpmässigt skrattar
+sv-se,laugh.RandomLaugh,slumpmässigt skrattar
+sv-se,laugh.RandomLaugh,slumpmässigt skratt
+sv-se,mark-2.brightness,dimma dina ögon till {brightness} [percent}
+sv-se,mark-2.brightness,dimma ögon till {brightness} [percent}
+sv-se,mark-2.brightness,dimma ner till {brightness}
+sv-se,mark-2.brightness,dimma ner till {brightness} procent
+sv-se,mark-2.brightness,sänk ögonens belysning till {brightness}
+sv-se,mark-2.brightness,sänk ögonens belysning till {brightness} procent
+sv-se,mark-2.brightness,sänk ögonens ljusstyrka till {brightness}
+sv-se,mark-2.brightness,sänk ögonens ljusstyrka till {brightness} procent
+sv-se,mark-2.brightness,ändra belysningen upp till {brightness}
+sv-se,mark-2.brightness,ändra belysningen upp till {brightness} procent
+sv-se,mark-2.brightness,ändra belysningen ner till {brightness}
+sv-se,mark-2.brightness,ändra belysningen ner till {brightness} procent
+sv-se,mark-2.brightness,ändra ljusstyrkan upp till {brightness}
+sv-se,mark-2.brightness,ändra ljusstyrkan upp till {brightness} procent
+sv-se,mark-2.brightness,ändra ljusstyrkan ner till {brightness}
+sv-se,mark-2.brightness,ändra ljusstyrkan ner till {brightness} procent
+sv-se,mark-2.brightness,ändra upp belysningen till {brightness}
+sv-se,mark-2.brightness,ändra upp belysningen till {brightness} procent
+sv-se,mark-2.brightness,ändra upp ljusstyrkan till {brightness}
+sv-se,mark-2.brightness,ändra upp ljusstyrkan till {brightness} procent
+sv-se,mark-2.brightness,ändra ner belysningen till {brightness}
+sv-se,mark-2.brightness,ändra ner belysningen till {brightness} procent
+sv-se,mark-2.brightness,ändra ner ljusstyrkan till {brightness}
+sv-se,mark-2.brightness,ändra ner ljusstyrkan till {brightness} procent
+sv-se,mark-2.brightness,öka ljuset upp till {brightness}
+sv-se,mark-2.brightness,öka ljuset upp till {brightness} procent
+sv-se,mark-2.brightness,öka ljuset upp lite till {brightness}
+sv-se,mark-2.brightness,öka ljuset upp lite till {brightness} procent
+sv-se,mark-2.brightness,växla till {brightness} belysning
+sv-se,mark-2.brightness,växla till {brightness} ljusstyrka
+sv-se,mark-2.brightness,växla till {brightness} ögon belysning
+sv-se,mark-2.brightness,växla till {brightness} ögon ljusstyrka
+sv-se,mark-2.brightness,växla till {brightness} procent belysning
+sv-se,mark-2.brightness,växla till {brightness} procent ljusstyrka
+sv-se,mark-2.brightness,växla till {brightness} procent ögon belysning
+sv-se,mark-2.brightness,växla till {brightness} procent ögon ljusstyrka
+sv-se,mark-2.brightness,sätt till {brightness} belysning
+sv-se,mark-2.brightness,sätt till {brightness} ljusstyrka
+sv-se,mark-2.brightness,sätt till {brightness} ögon belysning
+sv-se,mark-2.brightness,sätt till {brightness} ögon ljusstyrka
+sv-se,mark-2.brightness,sätt till {brightness} procent belysning
+sv-se,mark-2.brightness,sätt till {brightness} procent ljusstyrka
+sv-se,mark-2.brightness,sätt till {brightness} procent ögon belysning
+sv-se,mark-2.brightness,sätt till {brightness} procent ögon ljusstyrka
+sv-se,mark-2.brightness,ändra till {brightness} belysning
+sv-se,mark-2.brightness,ändra till {brightness} ljusstyrka
+sv-se,mark-2.brightness,ändra till {brightness} ögon belysning
+sv-se,mark-2.brightness,ändra till {brightness} ögon ljusstyrka
+sv-se,mark-2.brightness,ändra till {brightness} procent belysning
+sv-se,mark-2.brightness,ändra till {brightness} procent ljusstyrka
+sv-se,mark-2.brightness,ändra till {brightness} procent ögon belysning
+sv-se,mark-2.brightness,ändra till {brightness} procent ögon ljusstyrka
+sv-se,mark-2.brightness,växla belysning dina till {brightness}
+sv-se,mark-2.brightness,växla belysning dina till {brightness} procent
+sv-se,mark-2.brightness,växla belysning dina ögon till {brightness}
+sv-se,mark-2.brightness,växla belysning dina ögon till {brightness} procent
+sv-se,mark-2.brightness,växla belysning på till {brightness}
+sv-se,mark-2.brightness,växla belysning på till {brightness} procent
+sv-se,mark-2.brightness,växla belysning på ögon till {brightness}
+sv-se,mark-2.brightness,växla belysning på ögon till {brightness} procent
+sv-se,mark-2.brightness,växla ljusstyrka dina till {brightness}
+sv-se,mark-2.brightness,växla ljusstyrka dina till {brightness} procent
+sv-se,mark-2.brightness,växla ljusstyrka dina ögon till {brightness}
+sv-se,mark-2.brightness,växla ljusstyrka dina ögon till {brightness} procent
+sv-se,mark-2.brightness,växla ljusstyrka på till {brightness}
+sv-se,mark-2.brightness,växla ljusstyrka på till {brightness} procent
+sv-se,mark-2.brightness,växla ljusstyrka på ögon till {brightness}
+sv-se,mark-2.brightness,växla ljusstyrka på ögon till {brightness} procent
+sv-se,mark-2.brightness,växla på belysning dina till {brightness}
+sv-se,mark-2.brightness,växla på belysning dina till {brightness} procent
+sv-se,mark-2.brightness,växla på belysning dina ögon till {brightness}
+sv-se,mark-2.brightness,växla på belysning dina ögon till {brightness} procent
+sv-se,mark-2.brightness,växla på belysning på till {brightness}
+sv-se,mark-2.brightness,växla på belysning på till {brightness} procent
+sv-se,mark-2.brightness,växla på belysning på ögon till {brightness}
+sv-se,mark-2.brightness,växla på belysning på ögon till {brightness} procent
+sv-se,mark-2.brightness,växla på ljusstyrka dina till {brightness}
+sv-se,mark-2.brightness,växla på ljusstyrka dina till {brightness} procent
+sv-se,mark-2.brightness,växla på ljusstyrka dina ögon till {brightness}
+sv-se,mark-2.brightness,växla på ljusstyrka dina ögon till {brightness} procent
+sv-se,mark-2.brightness,växla på ljusstyrka på till {brightness}
+sv-se,mark-2.brightness,växla på ljusstyrka på till {brightness} procent
+sv-se,mark-2.brightness,växla på ljusstyrka på ögon till {brightness}
+sv-se,mark-2.brightness,växla på ljusstyrka på ögon till {brightness} procent
+sv-se,mark-2.brightness,växla nivån belysning dina till {brightness}
+sv-se,mark-2.brightness,växla nivån belysning dina till {brightness} procent
+sv-se,mark-2.brightness,växla nivån belysning dina ögon till {brightness}
+sv-se,mark-2.brightness,växla nivån belysning dina ögon till {brightness} procent
+sv-se,mark-2.brightness,växla nivån belysning på till {brightness}
+sv-se,mark-2.brightness,växla nivån belysning på till {brightness} procent
+sv-se,mark-2.brightness,växla nivån belysning på ögon till {brightness}
+sv-se,mark-2.brightness,växla nivån belysning på ögon till {brightness} procent
+sv-se,mark-2.brightness,växla nivån ljusstyrka dina till {brightness}
+sv-se,mark-2.brightness,växla nivån ljusstyrka dina till {brightness} procent
+sv-se,mark-2.brightness,växla nivån ljusstyrka dina ögon till {brightness}
+sv-se,mark-2.brightness,växla nivån ljusstyrka dina ögon till {brightness} procent
+sv-se,mark-2.brightness,växla nivån ljusstyrka på till {brightness}
+sv-se,mark-2.brightness,växla nivån ljusstyrka på till {brightness} procent
+sv-se,mark-2.brightness,växla nivån ljusstyrka på ögon till {brightness}
+sv-se,mark-2.brightness,växla nivån ljusstyrka på ögon till {brightness} procent
+sv-se,mark-2.brightness,växla nivån på belysning dina till {brightness}
+sv-se,mark-2.brightness,växla nivån på belysning dina till {brightness} procent
+sv-se,mark-2.brightness,växla nivån på belysning dina ögon till {brightness}
+sv-se,mark-2.brightness,växla nivån på belysning dina ögon till {brightness} procent
+sv-se,mark-2.brightness,växla nivån på belysning på till {brightness}
+sv-se,mark-2.brightness,växla nivån på belysning på till {brightness} procent
+sv-se,mark-2.brightness,växla nivån på belysning på ögon till {brightness}
+sv-se,mark-2.brightness,växla nivån på belysning på ögon till {brightness} procent
+sv-se,mark-2.brightness,växla nivån på ljusstyrka dina till {brightness}
+sv-se,mark-2.brightness,växla nivån på ljusstyrka dina till {brightness} procent
+sv-se,mark-2.brightness,växla nivån på ljusstyrka dina ögon till {brightness}
+sv-se,mark-2.brightness,växla nivån på ljusstyrka dina ögon till {brightness} procent
+sv-se,mark-2.brightness,växla nivån på ljusstyrka på till {brightness}
+sv-se,mark-2.brightness,växla nivån på ljusstyrka på till {brightness} procent
+sv-se,mark-2.brightness,växla nivån på ljusstyrka på ögon till {brightness}
+sv-se,mark-2.brightness,växla nivån på ljusstyrka på ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt belysning dina till {brightness}
+sv-se,mark-2.brightness,sätt belysning dina till {brightness} procent
+sv-se,mark-2.brightness,sätt belysning dina ögon till {brightness}
+sv-se,mark-2.brightness,sätt belysning dina ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt belysning på till {brightness}
+sv-se,mark-2.brightness,sätt belysning på till {brightness} procent
+sv-se,mark-2.brightness,sätt belysning på ögon till {brightness}
+sv-se,mark-2.brightness,sätt belysning på ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt ljusstyrka dina till {brightness}
+sv-se,mark-2.brightness,sätt ljusstyrka dina till {brightness} procent
+sv-se,mark-2.brightness,sätt ljusstyrka dina ögon till {brightness}
+sv-se,mark-2.brightness,sätt ljusstyrka dina ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt ljusstyrka på till {brightness}
+sv-se,mark-2.brightness,sätt ljusstyrka på till {brightness} procent
+sv-se,mark-2.brightness,sätt ljusstyrka på ögon till {brightness}
+sv-se,mark-2.brightness,sätt ljusstyrka på ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt på belysning dina till {brightness}
+sv-se,mark-2.brightness,sätt på belysning dina till {brightness} procent
+sv-se,mark-2.brightness,sätt på belysning dina ögon till {brightness}
+sv-se,mark-2.brightness,sätt på belysning dina ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt på belysning på till {brightness}
+sv-se,mark-2.brightness,sätt på belysning på till {brightness} procent
+sv-se,mark-2.brightness,sätt på belysning på ögon till {brightness}
+sv-se,mark-2.brightness,sätt på belysning på ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt på ljusstyrka dina till {brightness}
+sv-se,mark-2.brightness,sätt på ljusstyrka dina till {brightness} procent
+sv-se,mark-2.brightness,sätt på ljusstyrka dina ögon till {brightness}
+sv-se,mark-2.brightness,sätt på ljusstyrka dina ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt på ljusstyrka på till {brightness}
+sv-se,mark-2.brightness,sätt på ljusstyrka på till {brightness} procent
+sv-se,mark-2.brightness,sätt på ljusstyrka på ögon till {brightness}
+sv-se,mark-2.brightness,sätt på ljusstyrka på ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån belysning dina till {brightness}
+sv-se,mark-2.brightness,sätt nivån belysning dina till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån belysning dina ögon till {brightness}
+sv-se,mark-2.brightness,sätt nivån belysning dina ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån belysning på till {brightness}
+sv-se,mark-2.brightness,sätt nivån belysning på till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån belysning på ögon till {brightness}
+sv-se,mark-2.brightness,sätt nivån belysning på ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån ljusstyrka dina till {brightness}
+sv-se,mark-2.brightness,sätt nivån ljusstyrka dina till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån ljusstyrka dina ögon till {brightness}
+sv-se,mark-2.brightness,sätt nivån ljusstyrka dina ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån ljusstyrka på till {brightness}
+sv-se,mark-2.brightness,sätt nivån ljusstyrka på till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån ljusstyrka på ögon till {brightness}
+sv-se,mark-2.brightness,sätt nivån ljusstyrka på ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån på belysning dina till {brightness}
+sv-se,mark-2.brightness,sätt nivån på belysning dina till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån på belysning dina ögon till {brightness}
+sv-se,mark-2.brightness,sätt nivån på belysning dina ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån på belysning på till {brightness}
+sv-se,mark-2.brightness,sätt nivån på belysning på till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån på belysning på ögon till {brightness}
+sv-se,mark-2.brightness,sätt nivån på belysning på ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån på ljusstyrka dina till {brightness}
+sv-se,mark-2.brightness,sätt nivån på ljusstyrka dina till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån på ljusstyrka dina ögon till {brightness}
+sv-se,mark-2.brightness,sätt nivån på ljusstyrka dina ögon till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån på ljusstyrka på till {brightness}
+sv-se,mark-2.brightness,sätt nivån på ljusstyrka på till {brightness} procent
+sv-se,mark-2.brightness,sätt nivån på ljusstyrka på ögon till {brightness}
+sv-se,mark-2.brightness,sätt nivån på ljusstyrka på ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra belysning dina till {brightness}
+sv-se,mark-2.brightness,ändra belysning dina till {brightness} procent
+sv-se,mark-2.brightness,ändra belysning dina ögon till {brightness}
+sv-se,mark-2.brightness,ändra belysning dina ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra belysning på till {brightness}
+sv-se,mark-2.brightness,ändra belysning på till {brightness} procent
+sv-se,mark-2.brightness,ändra belysning på ögon till {brightness}
+sv-se,mark-2.brightness,ändra belysning på ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra ljusstyrka dina till {brightness}
+sv-se,mark-2.brightness,ändra ljusstyrka dina till {brightness} procent
+sv-se,mark-2.brightness,ändra ljusstyrka dina ögon till {brightness}
+sv-se,mark-2.brightness,ändra ljusstyrka dina ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra ljusstyrka på till {brightness}
+sv-se,mark-2.brightness,ändra ljusstyrka på till {brightness} procent
+sv-se,mark-2.brightness,ändra ljusstyrka på ögon till {brightness}
+sv-se,mark-2.brightness,ändra ljusstyrka på ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra på belysning dina till {brightness}
+sv-se,mark-2.brightness,ändra på belysning dina till {brightness} procent
+sv-se,mark-2.brightness,ändra på belysning dina ögon till {brightness}
+sv-se,mark-2.brightness,ändra på belysning dina ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra på belysning på till {brightness}
+sv-se,mark-2.brightness,ändra på belysning på till {brightness} procent
+sv-se,mark-2.brightness,ändra på belysning på ögon till {brightness}
+sv-se,mark-2.brightness,ändra på belysning på ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra på ljusstyrka dina till {brightness}
+sv-se,mark-2.brightness,ändra på ljusstyrka dina till {brightness} procent
+sv-se,mark-2.brightness,ändra på ljusstyrka dina ögon till {brightness}
+sv-se,mark-2.brightness,ändra på ljusstyrka dina ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra på ljusstyrka på till {brightness}
+sv-se,mark-2.brightness,ändra på ljusstyrka på till {brightness} procent
+sv-se,mark-2.brightness,ändra på ljusstyrka på ögon till {brightness}
+sv-se,mark-2.brightness,ändra på ljusstyrka på ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån belysning dina till {brightness}
+sv-se,mark-2.brightness,ändra nivån belysning dina till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån belysning dina ögon till {brightness}
+sv-se,mark-2.brightness,ändra nivån belysning dina ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån belysning på till {brightness}
+sv-se,mark-2.brightness,ändra nivån belysning på till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån belysning på ögon till {brightness}
+sv-se,mark-2.brightness,ändra nivån belysning på ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån ljusstyrka dina till {brightness}
+sv-se,mark-2.brightness,ändra nivån ljusstyrka dina till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån ljusstyrka dina ögon till {brightness}
+sv-se,mark-2.brightness,ändra nivån ljusstyrka dina ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån ljusstyrka på till {brightness}
+sv-se,mark-2.brightness,ändra nivån ljusstyrka på till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån ljusstyrka på ögon till {brightness}
+sv-se,mark-2.brightness,ändra nivån ljusstyrka på ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån på belysning dina till {brightness}
+sv-se,mark-2.brightness,ändra nivån på belysning dina till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån på belysning dina ögon till {brightness}
+sv-se,mark-2.brightness,ändra nivån på belysning dina ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån på belysning på till {brightness}
+sv-se,mark-2.brightness,ändra nivån på belysning på till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån på belysning på ögon till {brightness}
+sv-se,mark-2.brightness,ändra nivån på belysning på ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån på ljusstyrka dina till {brightness}
+sv-se,mark-2.brightness,ändra nivån på ljusstyrka dina till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån på ljusstyrka dina ögon till {brightness}
+sv-se,mark-2.brightness,ändra nivån på ljusstyrka dina ögon till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån på ljusstyrka på till {brightness}
+sv-se,mark-2.brightness,ändra nivån på ljusstyrka på till {brightness} procent
+sv-se,mark-2.brightness,ändra nivån på ljusstyrka på ögon till {brightness}
+sv-se,mark-2.brightness,ändra nivån på ljusstyrka på ögon till {brightness} procent
+sv-se,mark-2.brightness,växla dina belysning
+sv-se,mark-2.brightness,växla dina ljusstyrka
+sv-se,mark-2.brightness,växla dina ögon belysning
+sv-se,mark-2.brightness,växla dina ögon ljusstyrka
+sv-se,mark-2.brightness,växla på belysning
+sv-se,mark-2.brightness,växla på ljusstyrka
+sv-se,mark-2.brightness,växla på ögon belysning
+sv-se,mark-2.brightness,växla på ögon ljusstyrka
+sv-se,mark-2.brightness,växla nivån dina belysning
+sv-se,mark-2.brightness,växla nivån dina ljusstyrka
+sv-se,mark-2.brightness,växla nivån dina ögon belysning
+sv-se,mark-2.brightness,växla nivån dina ögon ljusstyrka
+sv-se,mark-2.brightness,växla nivån på belysning
+sv-se,mark-2.brightness,växla nivån på ljusstyrka
+sv-se,mark-2.brightness,växla nivån på ögon belysning
+sv-se,mark-2.brightness,växla nivån på ögon ljusstyrka
+sv-se,mark-2.brightness,sätt dina belysning
+sv-se,mark-2.brightness,sätt dina ljusstyrka
+sv-se,mark-2.brightness,sätt dina ögon belysning
+sv-se,mark-2.brightness,sätt dina ögon ljusstyrka
+sv-se,mark-2.brightness,sätt på belysning
+sv-se,mark-2.brightness,sätt på ljusstyrka
+sv-se,mark-2.brightness,sätt på ögon belysning
+sv-se,mark-2.brightness,sätt på ögon ljusstyrka
+sv-se,mark-2.brightness,sätt nivån dina belysning
+sv-se,mark-2.brightness,sätt nivån dina ljusstyrka
+sv-se,mark-2.brightness,sätt nivån dina ögon belysning
+sv-se,mark-2.brightness,sätt nivån dina ögon ljusstyrka
+sv-se,mark-2.brightness,sätt nivån på belysning
+sv-se,mark-2.brightness,sätt nivån på ljusstyrka
+sv-se,mark-2.brightness,sätt nivån på ögon belysning
+sv-se,mark-2.brightness,sätt nivån på ögon ljusstyrka
+sv-se,mark-2.brightness,ändra dina belysning
+sv-se,mark-2.brightness,ändra dina ljusstyrka
+sv-se,mark-2.brightness,ändra dina ögon belysning
+sv-se,mark-2.brightness,ändra dina ögon ljusstyrka
+sv-se,mark-2.brightness,ändra på belysning
+sv-se,mark-2.brightness,ändra på ljusstyrka
+sv-se,mark-2.brightness,ändra på ögon belysning
+sv-se,mark-2.brightness,ändra på ögon ljusstyrka
+sv-se,mark-2.brightness,ändra nivån dina belysning
+sv-se,mark-2.brightness,ändra nivån dina ljusstyrka
+sv-se,mark-2.brightness,ändra nivån dina ögon belysning
+sv-se,mark-2.brightness,ändra nivån dina ögon ljusstyrka
+sv-se,mark-2.brightness,ändra nivån på belysning
+sv-se,mark-2.brightness,ändra nivån på ljusstyrka
+sv-se,mark-2.brightness,ändra nivån på ögon belysning
+sv-se,mark-2.brightness,ändra nivån på ögon ljusstyrka
+sv-se,mark-2.brightness,du håller att dimma
+sv-se,mark-2.brightness,du håller att ljusna
+sv-se,mark-2.brightness,du håller på att dimma
+sv-se,mark-2.brightness,du håller på att ljusna
+sv-se,mark-2.brightness,du är att dimma
+sv-se,mark-2.brightness,du är att ljusna
+sv-se,mark-2.brightness,du är på gång att dimma
+sv-se,mark-2.brightness,du är på gång att ljusna
+sv-se,mark-2.brightness,ljusna upp
+sv-se,mark-2.brightness,dimma ner det lite
+sv-se,mark-2.brightness.auto,ställ in ljusstyrkan på auto
+sv-se,mark-2.brightness.auto,automatisk ljusstyrka
+sv-se,mark-2.device.brightness.settings,visa inställning för ljusstyrka
+sv-se,mark-2.device.brightness.settings,visa enhetens ljusstyrkeinställning
+sv-se,mark-2.device.homescreen.settings,visa hemskärmsinställning
+sv-se,mark-2.device.homescreen.settings,visa overksam sida inställning
+sv-se,mark-2.device.homescreen.settings,visa overksam ansikte inställning
+sv-se,mark-2.device.homescreen.settings,visa overksam skärm inställning
+sv-se,mark-2.device.homescreen.settings,visa vila sida inställning
+sv-se,mark-2.device.homescreen.settings,visa vila ansikte inställning
+sv-se,mark-2.device.homescreen.settings,visa vila skärm inställning
+sv-se,mark-2.device.homescreen.settings,visa hem sida inställning
+sv-se,mark-2.device.homescreen.settings,visa hem ansikte inställning
+sv-se,mark-2.device.homescreen.settings,visa hem skärm inställning
+sv-se,mark-2.device.homescreen.settings,visa enhetens overksam sida inställning
+sv-se,mark-2.device.homescreen.settings,visa enhetens overksam ansikte inställning
+sv-se,mark-2.device.homescreen.settings,visa enhetens overksam skärm inställning
+sv-se,mark-2.device.homescreen.settings,visa enhetens vila sida inställning
+sv-se,mark-2.device.homescreen.settings,visa enhetens vila ansikte inställning
+sv-se,mark-2.device.homescreen.settings,visa enhetens vila skärm inställning
+sv-se,mark-2.device.homescreen.settings,visa enhetens hem sida inställning
+sv-se,mark-2.device.homescreen.settings,visa enhetens hem ansikte inställning
+sv-se,mark-2.device.homescreen.settings,visa enhetens hem skärm inställning
+sv-se,mark-2.device.reset.settings,visa fabriksinställning
+sv-se,mark-2.device.reset.settings,visa enhetens fabriksinställning
+sv-se,mark-2.device.settings,visa enhetsinställningar
+sv-se,mark-2.device.settings,öppna inställningar
+sv-se,mark-2.device.ssh.settings,visa ssh inställningar
+sv-se,mark-2.device.ssh.settings,visa enhetens ssh inställningar
+sv-se,mark-2.device.wifi.settings,visa trådlös skärmen
+sv-se,mark-2.device.wifi.settings,visa trådlösa inställningar
+sv-se,mark-2.device.wifi.settings,visa wifi inställningar
+sv-se,mark-2.device.wifi.settings,visa wifiskärm
+sv-se,moviemaster.genre.movie.search,hitta filmer som är {genre}
+sv-se,moviemaster.genre.movie.search,hitta filmer som är i {genre}
+sv-se,moviemaster.genre.movie.search,hitta video som är {genre}
+sv-se,moviemaster.genre.movie.search,hitta video som är i {genre}
+sv-se,moviemaster.genre.movie.search,lista filmer som är {genre}
+sv-se,moviemaster.genre.movie.search,lista filmer som är i {genre}
+sv-se,moviemaster.genre.movie.search,lista video som är {genre}
+sv-se,moviemaster.genre.movie.search,lista video som är i {genre}
+sv-se,moviemaster.genre.movie.search,hitta {genre} filmer
+sv-se,moviemaster.genre.movie.search,hitta {genre} video
+sv-se,moviemaster.genre.movie.search,lista {genre} filmer
+sv-se,moviemaster.genre.movie.search,lista {genre} video
+sv-se,moviemaster.genre.tv.search,få program som är en {genre}
+sv-se,moviemaster.genre.tv.search,få program som är {genre}
+sv-se,moviemaster.genre.tv.search,få TV program som är en {genre}
+sv-se,moviemaster.genre.tv.search,få TV program som är {genre}
+sv-se,moviemaster.genre.tv.search,få TV-program som är en {genre}
+sv-se,moviemaster.genre.tv.search,få TV-program som är {genre}
+sv-se,moviemaster.genre.tv.search,hitta program som är en {genre}
+sv-se,moviemaster.genre.tv.search,hitta program som är {genre}
+sv-se,moviemaster.genre.tv.search,hitta TV program som är en {genre}
+sv-se,moviemaster.genre.tv.search,hitta TV program som är {genre}
+sv-se,moviemaster.genre.tv.search,hitta TV-program som är en {genre}
+sv-se,moviemaster.genre.tv.search,hitta TV-program som är {genre}
+sv-se,moviemaster.genre.tv.search,lista program som är en {genre}
+sv-se,moviemaster.genre.tv.search,lista program som är {genre}
+sv-se,moviemaster.genre.tv.search,lista TV program som är en {genre}
+sv-se,moviemaster.genre.tv.search,lista TV program som är {genre}
+sv-se,moviemaster.genre.tv.search,lista TV-program som är en {genre}
+sv-se,moviemaster.genre.tv.search,lista TV-program som är {genre}
+sv-se,moviemaster.genre.tv.search,få {genre} program
+sv-se,moviemaster.genre.tv.search,få {genre} TV program
+sv-se,moviemaster.genre.tv.search,få {genre} TV-program
+sv-se,moviemaster.genre.tv.search,hitta {genre} program
+sv-se,moviemaster.genre.tv.search,hitta {genre} TV program
+sv-se,moviemaster.genre.tv.search,hitta {genre} TV-program
+sv-se,moviemaster.genre.tv.search,lista {genre} program
+sv-se,moviemaster.genre.tv.search,lista {genre} TV program
+sv-se,moviemaster.genre.tv.search,lista {genre} TV-program
+sv-se,moviemaster.movie.cast,vem är med i film {movie}
+sv-se,moviemaster.movie.cast,vem är med i filmen {movie}
+sv-se,moviemaster.movie.cast,vem är med i videon {movie}
+sv-se,moviemaster.movie.cast,vem spelar i film {movie}
+sv-se,moviemaster.movie.cast,vem spelar i filmen {movie}
+sv-se,moviemaster.movie.cast,vem spelar i videon {movie}
+sv-se,moviemaster.movie.cast,vem agerar i film {movie}
+sv-se,moviemaster.movie.cast,vem agerar i filmen {movie}
+sv-se,moviemaster.movie.cast,vem agerar i videon {movie}
+sv-se,moviemaster.movie.description,vad handlar film {movie} om
+sv-se,moviemaster.movie.description,vad handlar filmen {movie} om
+sv-se,moviemaster.movie.description,vad handlar videon {movie} om
+sv-se,moviemaster.movie.description,berätta för oss om film {movie}
+sv-se,moviemaster.movie.description,berätta för oss om filmen {movie}
+sv-se,moviemaster.movie.description,berätta för oss om videon {movie}
+sv-se,moviemaster.movie.description,berätta för mig om film {movie}
+sv-se,moviemaster.movie.description,berätta för mig om filmen {movie}
+sv-se,moviemaster.movie.description,berätta för mig om videon {movie}
+sv-se,moviemaster.movie.description,hämta oss en sammanfattning av film {movie}
+sv-se,moviemaster.movie.description,hämta oss en sammanfattning av filmen {movie}
+sv-se,moviemaster.movie.description,hämta oss en sammanfattning av videon {movie}
+sv-se,moviemaster.movie.description,hämta oss en beskrivning av film {movie}
+sv-se,moviemaster.movie.description,hämta oss en beskrivning av filmen {movie}
+sv-se,moviemaster.movie.description,hämta oss en beskrivning av videon {movie}
+sv-se,moviemaster.movie.description,hämta mig en sammanfattning av film {movie}
+sv-se,moviemaster.movie.description,hämta mig en sammanfattning av filmen {movie}
+sv-se,moviemaster.movie.description,hämta mig en sammanfattning av videon {movie}
+sv-se,moviemaster.movie.description,hämta mig en beskrivning av film {movie}
+sv-se,moviemaster.movie.description,hämta mig en beskrivning av filmen {movie}
+sv-se,moviemaster.movie.description,hämta mig en beskrivning av videon {movie}
+sv-se,moviemaster.movie.description,ge oss en sammanfattning av film {movie}
+sv-se,moviemaster.movie.description,ge oss en sammanfattning av filmen {movie}
+sv-se,moviemaster.movie.description,ge oss en sammanfattning av videon {movie}
+sv-se,moviemaster.movie.description,ge oss en beskrivning av film {movie}
+sv-se,moviemaster.movie.description,ge oss en beskrivning av filmen {movie}
+sv-se,moviemaster.movie.description,ge oss en beskrivning av videon {movie}
+sv-se,moviemaster.movie.description,ge mig en sammanfattning av film {movie}
+sv-se,moviemaster.movie.description,ge mig en sammanfattning av filmen {movie}
+sv-se,moviemaster.movie.description,ge mig en sammanfattning av videon {movie}
+sv-se,moviemaster.movie.description,ge mig en beskrivning av film {movie}
+sv-se,moviemaster.movie.description,ge mig en beskrivning av filmen {movie}
+sv-se,moviemaster.movie.description,ge mig en beskrivning av videon {movie}
+sv-se,moviemaster.movie.genres,vilken genren tillhör film {movie}
+sv-se,moviemaster.movie.genres,vilken genren tillhör filmen {movie}
+sv-se,moviemaster.movie.genres,vilken genren tillhör videon {movie}
+sv-se,moviemaster.movie.genres,vilken genre tillhör film {movie}
+sv-se,moviemaster.movie.genres,vilken genre tillhör filmen {movie}
+sv-se,moviemaster.movie.genres,vilken genre tillhör videon {movie}
+sv-se,moviemaster.movie.genres,vilken är genren för film {movie}
+sv-se,moviemaster.movie.genres,vilken är genren för filmen {movie}
+sv-se,moviemaster.movie.genres,vilken är genren för videon {movie}
+sv-se,moviemaster.movie.genres,vilken är genre för film {movie}
+sv-se,moviemaster.movie.genres,vilken är genre för filmen {movie}
+sv-se,moviemaster.movie.genres,vilken är genre för videon {movie}
+sv-se,moviemaster.movie.genres,vilken genren tillhör denna film {movie}
+sv-se,moviemaster.movie.genres,vilken genren tillhör denna filmen {movie}
+sv-se,moviemaster.movie.genres,vilken genren tillhör denna videon {movie}
+sv-se,moviemaster.movie.genres,vilken genren är denna film {movie}
+sv-se,moviemaster.movie.genres,vilken genren är denna filmen {movie}
+sv-se,moviemaster.movie.genres,vilken genren är denna videon {movie}
+sv-se,moviemaster.movie.genres,vilken genre tillhör denna film {movie}
+sv-se,moviemaster.movie.genres,vilken genre tillhör denna filmen {movie}
+sv-se,moviemaster.movie.genres,vilken genre tillhör denna videon {movie}
+sv-se,moviemaster.movie.genres,vilken genre är denna film {movie}
+sv-se,moviemaster.movie.genres,vilken genre är denna filmen {movie}
+sv-se,moviemaster.movie.genres,vilken genre är denna videon {movie}
+sv-se,moviemaster.movie.information,är där info om film {movie}
+sv-se,moviemaster.movie.information,är där info om filmen {movie}
+sv-se,moviemaster.movie.information,är där info om videon {movie}
+sv-se,moviemaster.movie.information,är där info på film {movie}
+sv-se,moviemaster.movie.information,är där info på filmen {movie}
+sv-se,moviemaster.movie.information,är där info på videon {movie}
+sv-se,moviemaster.movie.information,är där information om film {movie}
+sv-se,moviemaster.movie.information,är där information om filmen {movie}
+sv-se,moviemaster.movie.information,är där information om videon {movie}
+sv-se,moviemaster.movie.information,är där information på film {movie}
+sv-se,moviemaster.movie.information,är där information på filmen {movie}
+sv-se,moviemaster.movie.information,är där information på videon {movie}
+sv-se,moviemaster.movie.information,leta efter info om film {movie}
+sv-se,moviemaster.movie.information,leta efter info om filmen {movie}
+sv-se,moviemaster.movie.information,leta efter info om videon {movie}
+sv-se,moviemaster.movie.information,leta efter info på film {movie}
+sv-se,moviemaster.movie.information,leta efter info på filmen {movie}
+sv-se,moviemaster.movie.information,leta efter info på videon {movie}
+sv-se,moviemaster.movie.information,leta efter information om film {movie}
+sv-se,moviemaster.movie.information,leta efter information om filmen {movie}
+sv-se,moviemaster.movie.information,leta efter information om videon {movie}
+sv-se,moviemaster.movie.information,leta efter information på film {movie}
+sv-se,moviemaster.movie.information,leta efter information på filmen {movie}
+sv-se,moviemaster.movie.information,leta efter information på videon {movie}
+sv-se,moviemaster.movie.information,hämta info om film {movie}
+sv-se,moviemaster.movie.information,hämta info om filmen {movie}
+sv-se,moviemaster.movie.information,hämta info om videon {movie}
+sv-se,moviemaster.movie.information,hämta info på film {movie}
+sv-se,moviemaster.movie.information,hämta info på filmen {movie}
+sv-se,moviemaster.movie.information,hämta info på videon {movie}
+sv-se,moviemaster.movie.information,hämta information om film {movie}
+sv-se,moviemaster.movie.information,hämta information om filmen {movie}
+sv-se,moviemaster.movie.information,hämta information om videon {movie}
+sv-se,moviemaster.movie.information,hämta information på film {movie}
+sv-se,moviemaster.movie.information,hämta information på filmen {movie}
+sv-se,moviemaster.movie.information,hämta information på videon {movie}
+sv-se,moviemaster.movie.information,hitta info om film {movie}
+sv-se,moviemaster.movie.information,hitta info om filmen {movie}
+sv-se,moviemaster.movie.information,hitta info om videon {movie}
+sv-se,moviemaster.movie.information,hitta info på film {movie}
+sv-se,moviemaster.movie.information,hitta info på filmen {movie}
+sv-se,moviemaster.movie.information,hitta info på videon {movie}
+sv-se,moviemaster.movie.information,hitta information om film {movie}
+sv-se,moviemaster.movie.information,hitta information om filmen {movie}
+sv-se,moviemaster.movie.information,hitta information om videon {movie}
+sv-se,moviemaster.movie.information,hitta information på film {movie}
+sv-se,moviemaster.movie.information,hitta information på filmen {movie}
+sv-se,moviemaster.movie.information,hitta information på videon {movie}
+sv-se,moviemaster.movie.information,hämta oss info om film {movie}
+sv-se,moviemaster.movie.information,hämta oss info om filmen {movie}
+sv-se,moviemaster.movie.information,hämta oss info om videon {movie}
+sv-se,moviemaster.movie.information,hämta oss info på film {movie}
+sv-se,moviemaster.movie.information,hämta oss info på filmen {movie}
+sv-se,moviemaster.movie.information,hämta oss info på videon {movie}
+sv-se,moviemaster.movie.information,hämta oss information om film {movie}
+sv-se,moviemaster.movie.information,hämta oss information om filmen {movie}
+sv-se,moviemaster.movie.information,hämta oss information om videon {movie}
+sv-se,moviemaster.movie.information,hämta oss information på film {movie}
+sv-se,moviemaster.movie.information,hämta oss information på filmen {movie}
+sv-se,moviemaster.movie.information,hämta oss information på videon {movie}
+sv-se,moviemaster.movie.information,hämta mig info om film {movie}
+sv-se,moviemaster.movie.information,hämta mig info om filmen {movie}
+sv-se,moviemaster.movie.information,hämta mig info om videon {movie}
+sv-se,moviemaster.movie.information,hämta mig info på film {movie}
+sv-se,moviemaster.movie.information,hämta mig info på filmen {movie}
+sv-se,moviemaster.movie.information,hämta mig info på videon {movie}
+sv-se,moviemaster.movie.information,hämta mig information om film {movie}
+sv-se,moviemaster.movie.information,hämta mig information om filmen {movie}
+sv-se,moviemaster.movie.information,hämta mig information om videon {movie}
+sv-se,moviemaster.movie.information,hämta mig information på film {movie}
+sv-se,moviemaster.movie.information,hämta mig information på filmen {movie}
+sv-se,moviemaster.movie.information,hämta mig information på videon {movie}
+sv-se,moviemaster.movie.information,hämta info om film {movie}
+sv-se,moviemaster.movie.information,hämta info om filmen {movie}
+sv-se,moviemaster.movie.information,hämta info om videon {movie}
+sv-se,moviemaster.movie.information,hämta info på film {movie}
+sv-se,moviemaster.movie.information,hämta info på filmen {movie}
+sv-se,moviemaster.movie.information,hämta info på videon {movie}
+sv-se,moviemaster.movie.information,hämta information om film {movie}
+sv-se,moviemaster.movie.information,hämta information om filmen {movie}
+sv-se,moviemaster.movie.information,hämta information om videon {movie}
+sv-se,moviemaster.movie.information,hämta information på film {movie}
+sv-se,moviemaster.movie.information,hämta information på filmen {movie}
+sv-se,moviemaster.movie.information,hämta information på videon {movie}
+sv-se,moviemaster.movie.information,berätta oss info om film {movie}
+sv-se,moviemaster.movie.information,berätta oss info om filmen {movie}
+sv-se,moviemaster.movie.information,berätta oss info om videon {movie}
+sv-se,moviemaster.movie.information,berätta oss info på film {movie}
+sv-se,moviemaster.movie.information,berätta oss info på filmen {movie}
+sv-se,moviemaster.movie.information,berätta oss info på videon {movie}
+sv-se,moviemaster.movie.information,berätta oss information om film {movie}
+sv-se,moviemaster.movie.information,berätta oss information om filmen {movie}
+sv-se,moviemaster.movie.information,berätta oss information om videon {movie}
+sv-se,moviemaster.movie.information,berätta oss information på film {movie}
+sv-se,moviemaster.movie.information,berätta oss information på filmen {movie}
+sv-se,moviemaster.movie.information,berätta oss information på videon {movie}
+sv-se,moviemaster.movie.information,berätta mig info om film {movie}
+sv-se,moviemaster.movie.information,berätta mig info om filmen {movie}
+sv-se,moviemaster.movie.information,berätta mig info om videon {movie}
+sv-se,moviemaster.movie.information,berätta mig info på film {movie}
+sv-se,moviemaster.movie.information,berätta mig info på filmen {movie}
+sv-se,moviemaster.movie.information,berätta mig info på videon {movie}
+sv-se,moviemaster.movie.information,berätta mig information om film {movie}
+sv-se,moviemaster.movie.information,berätta mig information om filmen {movie}
+sv-se,moviemaster.movie.information,berätta mig information om videon {movie}
+sv-se,moviemaster.movie.information,berätta mig information på film {movie}
+sv-se,moviemaster.movie.information,berätta mig information på filmen {movie}
+sv-se,moviemaster.movie.information,berätta mig information på videon {movie}
+sv-se,moviemaster.movie.information,berätta info om film {movie}
+sv-se,moviemaster.movie.information,berätta info om filmen {movie}
+sv-se,moviemaster.movie.information,berätta info om videon {movie}
+sv-se,moviemaster.movie.information,berätta info på film {movie}
+sv-se,moviemaster.movie.information,berätta info på filmen {movie}
+sv-se,moviemaster.movie.information,berätta info på videon {movie}
+sv-se,moviemaster.movie.information,berätta information om film {movie}
+sv-se,moviemaster.movie.information,berätta information om filmen {movie}
+sv-se,moviemaster.movie.information,berätta information om videon {movie}
+sv-se,moviemaster.movie.information,berätta information på film {movie}
+sv-se,moviemaster.movie.information,berätta information på filmen {movie}
+sv-se,moviemaster.movie.information,berätta information på videon {movie}
+sv-se,moviemaster.movie.information,ge oss info om film {movie}
+sv-se,moviemaster.movie.information,ge oss info om filmen {movie}
+sv-se,moviemaster.movie.information,ge oss info om videon {movie}
+sv-se,moviemaster.movie.information,ge oss info på film {movie}
+sv-se,moviemaster.movie.information,ge oss info på filmen {movie}
+sv-se,moviemaster.movie.information,ge oss info på videon {movie}
+sv-se,moviemaster.movie.information,ge oss information om film {movie}
+sv-se,moviemaster.movie.information,ge oss information om filmen {movie}
+sv-se,moviemaster.movie.information,ge oss information om videon {movie}
+sv-se,moviemaster.movie.information,ge oss information på film {movie}
+sv-se,moviemaster.movie.information,ge oss information på filmen {movie}
+sv-se,moviemaster.movie.information,ge oss information på videon {movie}
+sv-se,moviemaster.movie.information,ge mig info om film {movie}
+sv-se,moviemaster.movie.information,ge mig info om filmen {movie}
+sv-se,moviemaster.movie.information,ge mig info om videon {movie}
+sv-se,moviemaster.movie.information,ge mig info på film {movie}
+sv-se,moviemaster.movie.information,ge mig info på filmen {movie}
+sv-se,moviemaster.movie.information,ge mig info på videon {movie}
+sv-se,moviemaster.movie.information,ge mig information om film {movie}
+sv-se,moviemaster.movie.information,ge mig information om filmen {movie}
+sv-se,moviemaster.movie.information,ge mig information om videon {movie}
+sv-se,moviemaster.movie.information,ge mig information på film {movie}
+sv-se,moviemaster.movie.information,ge mig information på filmen {movie}
+sv-se,moviemaster.movie.information,ge mig information på videon {movie}
+sv-se,moviemaster.movie.information,ge info om film {movie}
+sv-se,moviemaster.movie.information,ge info om filmen {movie}
+sv-se,moviemaster.movie.information,ge info om videon {movie}
+sv-se,moviemaster.movie.information,ge info på film {movie}
+sv-se,moviemaster.movie.information,ge info på filmen {movie}
+sv-se,moviemaster.movie.information,ge info på videon {movie}
+sv-se,moviemaster.movie.information,ge information om film {movie}
+sv-se,moviemaster.movie.information,ge information om filmen {movie}
+sv-se,moviemaster.movie.information,ge information om videon {movie}
+sv-se,moviemaster.movie.information,ge information på film {movie}
+sv-se,moviemaster.movie.information,ge information på filmen {movie}
+sv-se,moviemaster.movie.information,ge information på videon {movie}
+sv-se,moviemaster.movie.information,kan du hämta information om film {movie}
+sv-se,moviemaster.movie.information,kan du hämta information om filmen {movie}
+sv-se,moviemaster.movie.information,kan du hämta information om videon {movie}
+sv-se,moviemaster.movie.information,kan du hämta info om film {movie}
+sv-se,moviemaster.movie.information,kan du hämta info om filmen {movie}
+sv-se,moviemaster.movie.information,kan du hämta info om videon {movie}
+sv-se,moviemaster.movie.information,har du information om film {movie}
+sv-se,moviemaster.movie.information,har du information om filmen {movie}
+sv-se,moviemaster.movie.information,har du information om videon {movie}
+sv-se,moviemaster.movie.information,har du info om film {movie}
+sv-se,moviemaster.movie.information,har du info om filmen {movie}
+sv-se,moviemaster.movie.information,har du info om videon {movie}
+sv-se,moviemaster.movie.popular,sök efter populära film
+sv-se,moviemaster.movie.popular,sök efter populära filmer
+sv-se,moviemaster.movie.popular,sök efter populära video
+sv-se,moviemaster.movie.popular,sök populära film
+sv-se,moviemaster.movie.popular,sök populära filmer
+sv-se,moviemaster.movie.popular,sök populära video
+sv-se,moviemaster.movie.popular,lista populära film
+sv-se,moviemaster.movie.popular,lista populära filmer
+sv-se,moviemaster.movie.popular,lista populära video
+sv-se,moviemaster.movie.popular,vad är de populära film ut nu
+sv-se,moviemaster.movie.popular,vad är de populära film ut
+sv-se,moviemaster.movie.popular,vad är de populära film spelar nu
+sv-se,moviemaster.movie.popular,vad är de populära film spelar
+sv-se,moviemaster.movie.popular,vad är de populära filmen ut nu
+sv-se,moviemaster.movie.popular,vad är de populära filmen ut
+sv-se,moviemaster.movie.popular,vad är de populära filmen spelar nu
+sv-se,moviemaster.movie.popular,vad är de populära filmen spelar
+sv-se,moviemaster.movie.popular,vad är de populära videon ut nu
+sv-se,moviemaster.movie.popular,vad är de populära videon ut
+sv-se,moviemaster.movie.popular,vad är de populära videon spelar nu
+sv-se,moviemaster.movie.popular,vad är de populära videon spelar
+sv-se,moviemaster.movie.popular,vad är populära film ut nu
+sv-se,moviemaster.movie.popular,vad är populära film ut
+sv-se,moviemaster.movie.popular,vad är populära film spelar nu
+sv-se,moviemaster.movie.popular,vad är populära film spelar
+sv-se,moviemaster.movie.popular,vad är populära filmen ut nu
+sv-se,moviemaster.movie.popular,vad är populära filmen ut
+sv-se,moviemaster.movie.popular,vad är populära filmen spelar nu
+sv-se,moviemaster.movie.popular,vad är populära filmen spelar
+sv-se,moviemaster.movie.popular,vad är populära videon ut nu
+sv-se,moviemaster.movie.popular,vad är populära videon ut
+sv-se,moviemaster.movie.popular,vad är populära videon spelar nu
+sv-se,moviemaster.movie.popular,vad är populära videon spelar
+sv-se,moviemaster.movie.production,vilket företag gjorde filmen {movie}
+sv-se,moviemaster.movie.production,vilket företag producerade filmen {movie}
+sv-se,moviemaster.movie.production,vem gjorde filmen {movie}
+sv-se,moviemaster.movie.production,vem producerade filmen {movie}
+sv-se,moviemaster.movie.recommendations,rekommendera film såsom {movie}
+sv-se,moviemaster.movie.recommendations,rekommendera film liknande {movie}
+sv-se,moviemaster.movie.recommendations,rekommendera filmen såsom {movie}
+sv-se,moviemaster.movie.recommendations,rekommendera filmen liknande {movie}
+sv-se,moviemaster.movie.recommendations,rekommendera videon såsom {movie}
+sv-se,moviemaster.movie.recommendations,rekommendera videon liknande {movie}
+sv-se,moviemaster.movie.recommendations,vilka film du rekommenderar såsom {movie}
+sv-se,moviemaster.movie.recommendations,vilka film du rekommenderar liknande {movie}
+sv-se,moviemaster.movie.recommendations,vilka film skulle du rekommenderar såsom {movie}
+sv-se,moviemaster.movie.recommendations,vilka film skulle du rekommenderar liknande {movie}
+sv-se,moviemaster.movie.recommendations,vilka filmer du rekommenderar såsom {movie}
+sv-se,moviemaster.movie.recommendations,vilka filmer du rekommenderar liknande {movie}
+sv-se,moviemaster.movie.recommendations,vilka filmer skulle du rekommenderar såsom {movie}
+sv-se,moviemaster.movie.recommendations,vilka filmer skulle du rekommenderar liknande {movie}
+sv-se,moviemaster.movie.recommendations,vilka video du rekommenderar såsom {movie}
+sv-se,moviemaster.movie.recommendations,vilka video du rekommenderar liknande {movie}
+sv-se,moviemaster.movie.recommendations,vilka video skulle du rekommenderar såsom {movie}
+sv-se,moviemaster.movie.recommendations,vilka video skulle du rekommenderar liknande {movie}
+sv-se,moviemaster.movie.recommendations,hämta bra film såsom {movie}
+sv-se,moviemaster.movie.recommendations,hämta bra film liknande {movie}
+sv-se,moviemaster.movie.recommendations,hämta bra filmen såsom {movie}
+sv-se,moviemaster.movie.recommendations,hämta bra filmen liknande {movie}
+sv-se,moviemaster.movie.recommendations,hämta bra videon såsom {movie}
+sv-se,moviemaster.movie.recommendations,hämta bra videon liknande {movie}
+sv-se,moviemaster.movie.recommendations,hämta film såsom {movie}
+sv-se,moviemaster.movie.recommendations,hämta film liknande {movie}
+sv-se,moviemaster.movie.recommendations,hämta filmen såsom {movie}
+sv-se,moviemaster.movie.recommendations,hämta filmen liknande {movie}
+sv-se,moviemaster.movie.recommendations,hämta videon såsom {movie}
+sv-se,moviemaster.movie.recommendations,hämta videon liknande {movie}
+sv-se,moviemaster.movie.recommendations,lista bra film såsom {movie}
+sv-se,moviemaster.movie.recommendations,lista bra film liknande {movie}
+sv-se,moviemaster.movie.recommendations,lista bra filmen såsom {movie}
+sv-se,moviemaster.movie.recommendations,lista bra filmen liknande {movie}
+sv-se,moviemaster.movie.recommendations,lista bra videon såsom {movie}
+sv-se,moviemaster.movie.recommendations,lista bra videon liknande {movie}
+sv-se,moviemaster.movie.recommendations,lista film såsom {movie}
+sv-se,moviemaster.movie.recommendations,lista film liknande {movie}
+sv-se,moviemaster.movie.recommendations,lista filmen såsom {movie}
+sv-se,moviemaster.movie.recommendations,lista filmen liknande {movie}
+sv-se,moviemaster.movie.recommendations,lista videon såsom {movie}
+sv-se,moviemaster.movie.recommendations,lista videon liknande {movie}
+sv-se,moviemaster.movie.runtime,Hur lång är film {movie}
+sv-se,moviemaster.movie.runtime,Hur lång är filmen {movie}
+sv-se,moviemaster.movie.runtime,Hur lång är videon {movie}
+sv-se,moviemaster.movie.runtime,Vilken är längden för film {movie}
+sv-se,moviemaster.movie.runtime,Vilken är längden för filmen {movie}
+sv-se,moviemaster.movie.runtime,Vilken är längden för videon {movie}
+sv-se,moviemaster.movie.runtime,Vilken är tiden för film {movie}
+sv-se,moviemaster.movie.runtime,Vilken är tiden för filmen {movie}
+sv-se,moviemaster.movie.runtime,Vilken är tiden för videon {movie}
+sv-se,moviemaster.movie.runtime,Hämta längden för film {movie}
+sv-se,moviemaster.movie.runtime,Hämta längden för filmen {movie}
+sv-se,moviemaster.movie.runtime,Hämta längden för videon {movie}
+sv-se,moviemaster.movie.runtime,Hämta tiden för film {movie}
+sv-se,moviemaster.movie.runtime,Hämta tiden för filmen {movie}
+sv-se,moviemaster.movie.runtime,Hämta tiden för videon {movie}
+sv-se,moviemaster.movie.top,sök efter den högst rankade film är ute nu
+sv-se,moviemaster.movie.top,sök efter den högst rankade film är ute
+sv-se,moviemaster.movie.top,sök efter den högst rankade film som spelas nu
+sv-se,moviemaster.movie.top,sök efter den högst rankade film som spelas
+sv-se,moviemaster.movie.top,sök efter den högst rankade filmen är ute nu
+sv-se,moviemaster.movie.top,sök efter den högst rankade filmen är ute
+sv-se,moviemaster.movie.top,sök efter den högst rankade filmen som spelas nu
+sv-se,moviemaster.movie.top,sök efter den högst rankade filmen som spelas
+sv-se,moviemaster.movie.top,sök efter den högst rankade videon är ute nu
+sv-se,moviemaster.movie.top,sök efter den högst rankade videon är ute
+sv-se,moviemaster.movie.top,sök efter den högst rankade videon som spelas nu
+sv-se,moviemaster.movie.top,sök efter den högst rankade videon som spelas
+sv-se,moviemaster.movie.top,sök efter den mest populära film är ute nu
+sv-se,moviemaster.movie.top,sök efter den mest populära film är ute
+sv-se,moviemaster.movie.top,sök efter den mest populära film som spelas nu
+sv-se,moviemaster.movie.top,sök efter den mest populära film som spelas
+sv-se,moviemaster.movie.top,sök efter den mest populära filmen är ute nu
+sv-se,moviemaster.movie.top,sök efter den mest populära filmen är ute
+sv-se,moviemaster.movie.top,sök efter den mest populära filmen som spelas nu
+sv-se,moviemaster.movie.top,sök efter den mest populära filmen som spelas
+sv-se,moviemaster.movie.top,sök efter den mest populära videon är ute nu
+sv-se,moviemaster.movie.top,sök efter den mest populära videon är ute
+sv-se,moviemaster.movie.top,sök efter den mest populära videon som spelas nu
+sv-se,moviemaster.movie.top,sök efter den mest populära videon som spelas
+sv-se,moviemaster.movie.top,sök efter den populära film är ute nu
+sv-se,moviemaster.movie.top,sök efter den populära film är ute
+sv-se,moviemaster.movie.top,sök efter den populära film som spelas nu
+sv-se,moviemaster.movie.top,sök efter den populära film som spelas
+sv-se,moviemaster.movie.top,sök efter den populära filmen är ute nu
+sv-se,moviemaster.movie.top,sök efter den populära filmen är ute
+sv-se,moviemaster.movie.top,sök efter den populära filmen som spelas nu
+sv-se,moviemaster.movie.top,sök efter den populära filmen som spelas
+sv-se,moviemaster.movie.top,sök efter den populära videon är ute nu
+sv-se,moviemaster.movie.top,sök efter den populära videon är ute
+sv-se,moviemaster.movie.top,sök efter den populära videon som spelas nu
+sv-se,moviemaster.movie.top,sök efter den populära videon som spelas
+sv-se,moviemaster.movie.top,vad är den högst rankade film är ute nu
+sv-se,moviemaster.movie.top,vad är den högst rankade film är ute
+sv-se,moviemaster.movie.top,vad är den högst rankade film som spelas nu
+sv-se,moviemaster.movie.top,vad är den högst rankade film som spelas
+sv-se,moviemaster.movie.top,vad är den högst rankade filmen är ute nu
+sv-se,moviemaster.movie.top,vad är den högst rankade filmen är ute
+sv-se,moviemaster.movie.top,vad är den högst rankade filmen som spelas nu
+sv-se,moviemaster.movie.top,vad är den högst rankade filmen som spelas
+sv-se,moviemaster.movie.top,vad är den högst rankade videon är ute nu
+sv-se,moviemaster.movie.top,vad är den högst rankade videon är ute
+sv-se,moviemaster.movie.top,vad är den högst rankade videon som spelas nu
+sv-se,moviemaster.movie.top,vad är den högst rankade videon som spelas
+sv-se,moviemaster.movie.top,vad är den mest populära film är ute nu
+sv-se,moviemaster.movie.top,vad är den mest populära film är ute
+sv-se,moviemaster.movie.top,vad är den mest populära film som spelas nu
+sv-se,moviemaster.movie.top,vad är den mest populära film som spelas
+sv-se,moviemaster.movie.top,vad är den mest populära filmen är ute nu
+sv-se,moviemaster.movie.top,vad är den mest populära filmen är ute
+sv-se,moviemaster.movie.top,vad är den mest populära filmen som spelas nu
+sv-se,moviemaster.movie.top,vad är den mest populära filmen som spelas
+sv-se,moviemaster.movie.top,vad är den mest populära videon är ute nu
+sv-se,moviemaster.movie.top,vad är den mest populära videon är ute
+sv-se,moviemaster.movie.top,vad är den mest populära videon som spelas nu
+sv-se,moviemaster.movie.top,vad är den mest populära videon som spelas
+sv-se,moviemaster.movie.top,vad är den populära film är ute nu
+sv-se,moviemaster.movie.top,vad är den populära film är ute
+sv-se,moviemaster.movie.top,vad är den populära film som spelas nu
+sv-se,moviemaster.movie.top,vad är den populära film som spelas
+sv-se,moviemaster.movie.top,vad är den populära filmen är ute nu
+sv-se,moviemaster.movie.top,vad är den populära filmen är ute
+sv-se,moviemaster.movie.top,vad är den populära filmen som spelas nu
+sv-se,moviemaster.movie.top,vad är den populära filmen som spelas
+sv-se,moviemaster.movie.top,vad är den populära videon är ute nu
+sv-se,moviemaster.movie.top,vad är den populära videon är ute
+sv-se,moviemaster.movie.top,vad är den populära videon som spelas nu
+sv-se,moviemaster.movie.top,vad är den populära videon som spelas
+sv-se,moviemaster.movie.top,lista den högst rankade film är ute nu
+sv-se,moviemaster.movie.top,lista den högst rankade film är ute
+sv-se,moviemaster.movie.top,lista den högst rankade film som spelas nu
+sv-se,moviemaster.movie.top,lista den högst rankade film som spelas
+sv-se,moviemaster.movie.top,lista den högst rankade filmen är ute nu
+sv-se,moviemaster.movie.top,lista den högst rankade filmen är ute
+sv-se,moviemaster.movie.top,lista den högst rankade filmen som spelas nu
+sv-se,moviemaster.movie.top,lista den högst rankade filmen som spelas
+sv-se,moviemaster.movie.top,lista den högst rankade videon är ute nu
+sv-se,moviemaster.movie.top,lista den högst rankade videon är ute
+sv-se,moviemaster.movie.top,lista den högst rankade videon som spelas nu
+sv-se,moviemaster.movie.top,lista den högst rankade videon som spelas
+sv-se,moviemaster.movie.top,lista den mest populära film är ute nu
+sv-se,moviemaster.movie.top,lista den mest populära film är ute
+sv-se,moviemaster.movie.top,lista den mest populära film som spelas nu
+sv-se,moviemaster.movie.top,lista den mest populära film som spelas
+sv-se,moviemaster.movie.top,lista den mest populära filmen är ute nu
+sv-se,moviemaster.movie.top,lista den mest populära filmen är ute
+sv-se,moviemaster.movie.top,lista den mest populära filmen som spelas nu
+sv-se,moviemaster.movie.top,lista den mest populära filmen som spelas
+sv-se,moviemaster.movie.top,lista den mest populära videon är ute nu
+sv-se,moviemaster.movie.top,lista den mest populära videon är ute
+sv-se,moviemaster.movie.top,lista den mest populära videon som spelas nu
+sv-se,moviemaster.movie.top,lista den mest populära videon som spelas
+sv-se,moviemaster.movie.top,lista den populära film är ute nu
+sv-se,moviemaster.movie.top,lista den populära film är ute
+sv-se,moviemaster.movie.top,lista den populära film som spelas nu
+sv-se,moviemaster.movie.top,lista den populära film som spelas
+sv-se,moviemaster.movie.top,lista den populära filmen är ute nu
+sv-se,moviemaster.movie.top,lista den populära filmen är ute
+sv-se,moviemaster.movie.top,lista den populära filmen som spelas nu
+sv-se,moviemaster.movie.top,lista den populära filmen som spelas
+sv-se,moviemaster.movie.top,lista den populära videon är ute nu
+sv-se,moviemaster.movie.top,lista den populära videon är ute
+sv-se,moviemaster.movie.top,lista den populära videon som spelas nu
+sv-se,moviemaster.movie.top,lista den populära videon som spelas
+sv-se,moviemaster.movie.year,vilket datum var film {movie} släppt
+sv-se,moviemaster.movie.year,vilket datum var film {movie} gjord
+sv-se,moviemaster.movie.year,vilket datum var filmen {movie} släppt
+sv-se,moviemaster.movie.year,vilket datum var filmen {movie} gjord
+sv-se,moviemaster.movie.year,vilket datum var videon {movie} släppt
+sv-se,moviemaster.movie.year,vilket datum var videon {movie} gjord
+sv-se,moviemaster.movie.year,när var film {movie} släppt
+sv-se,moviemaster.movie.year,när var film {movie} gjord
+sv-se,moviemaster.movie.year,när var filmen {movie} släppt
+sv-se,moviemaster.movie.year,när var filmen {movie} gjord
+sv-se,moviemaster.movie.year,när var videon {movie} släppt
+sv-se,moviemaster.movie.year,när var videon {movie} gjord
+sv-se,moviemaster.movie.year,vilket år var film {movie} släppt
+sv-se,moviemaster.movie.year,vilket år var film {movie} gjord
+sv-se,moviemaster.movie.year,vilket år var filmen {movie} släppt
+sv-se,moviemaster.movie.year,vilket år var filmen {movie} gjord
+sv-se,moviemaster.movie.year,vilket år var videon {movie} släppt
+sv-se,moviemaster.movie.year,vilket år var videon {movie} gjord
+sv-se,wikiquote-skill.random,berätta för mig ett visdom
+sv-se,wikiquote-skill.random,berätta för mig ett citat
+sv-se,wikiquote-skill.random,berätta för mig några visdom
+sv-se,wikiquote-skill.random,berätta för mig några citat
+sv-se,wikiquote-skill.random,ge mig en klokhet
+sv-se,wikiquote-skill.random,ge mig en visdom
+sv-se,wikiquote-skill.random,ge mig en citat
+sv-se,wikiquote-skill.random,ge mig ett klokhet
+sv-se,wikiquote-skill.random,ge mig ett visdom
+sv-se,wikiquote-skill.random,ge mig ett citat
+sv-se,wikiquote-skill.random,ge mig några klokhet
+sv-se,wikiquote-skill.random,ge mig några visdom
+sv-se,wikiquote-skill.random,ge mig några citat
+sv-se,wikiquote-skill.random,Jag behöver lite visdom
+sv-se,wikiquote-skill.specific,berätta för mig ett {subject} visdom
+sv-se,wikiquote-skill.specific,berätta för mig ett {subject} citat
+sv-se,wikiquote-skill.specific,berätta för mig en {subject} visdom
+sv-se,wikiquote-skill.specific,berätta för mig en {subject} citat
+sv-se,wikiquote-skill.specific,berätta för mig några {subject} visdom
+sv-se,wikiquote-skill.specific,berätta för mig några {subject} citat
+sv-se,wikiquote-skill.specific,ge mig ett {subject} visdom
+sv-se,wikiquote-skill.specific,ge mig ett {subject} citat
+sv-se,wikiquote-skill.specific,ge mig en {subject} visdom
+sv-se,wikiquote-skill.specific,ge mig en {subject} citat
+sv-se,wikiquote-skill.specific,ge mig några {subject} visdom
+sv-se,wikiquote-skill.specific,ge mig några {subject} citat
+sv-se,wikiquote-skill.specific,Jag behöver lite {subject} visdomsord
+sv-se,wikiquote-skill.specific,Jag behöver lite {subject} citat
+sv-se,wikiquote-skill.specific,berätta citat om {subject}
+sv-se,wikiquote-skill.specific,berätta citat från {subject}
+sv-se,wikiquote-skill.specific,ge mig ett citat om {subject}
+sv-se,wikiquote-skill.specific,ge mig ett citat från {subject}
+sv-se,wikiquote-skill.specific,Jag behöver ett citat om {subject}
+sv-se,wikiquote-skill.specific,Jag behöver ett citat från {subject}

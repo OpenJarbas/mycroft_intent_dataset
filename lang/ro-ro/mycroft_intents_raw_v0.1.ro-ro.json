@@ -1,0 +1,73 @@
+{
+  "ro-ro": {
+    "auto-volume-skill.activate": [
+      "Porne\u0219te volumul automat",
+      "Seteaz\u0103 volum automat activ",
+      "Porne\u0219te volumul automat",
+      "Porne\u0219te volumul automat"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Dezactiveaz\u0103 volum automat",
+      "Seteaz\u0103 volum automat inactiv",
+      "Opre\u0219te volumul automat",
+      "Opre\u0219te volum automat"
+    ],
+    "auto-volume-skill.reset": [
+      "Sterge m\u0103sur\u0103torile de volum automat",
+      "Sterge m\u0103sur\u0103torile pentru volumul automat",
+      "Sterge m\u0103sur\u0103torile pentru volumul automat"
+    ],
+    "cocktail.Needed": [
+      "ce este necesar pentru a face (o|un) {drink}",
+      "ce (am|ai) nevoie (pentru|s\u0103 fac|s\u0103 faci) (o|un) {drink}",
+      "care (este ingredientul|sunt ingredientele) pentru (o|un) {drink}"
+    ],
+    "cocktail.Recipie": [
+      "cum (s-ar|se) (face|prepara) (o|un) {drink}",
+      "(spune|spune-mi) cum sa (fac|preg\u0103tesc) (o|un) {drink}",
+      "(d\u0103-mi|d\u0103-ne) instruc\u021biuni pentru (o|un) {drink}",
+      "cum se (face|pregateste) (o|un) {drink}",
+      "care este re\u021beta pentru (o|un) {drink}"
+    ],
+    "count-skill.count": [
+      "Num\u0103r\u0103 p\u00e2n\u0103 la {number}"
+    ],
+    "count-skill.countdown": [
+      "Num\u0103r\u0103toare invers\u0103 de la {number}",
+      "Num\u0103r\u0103toarea invers\u0103 de la {number}",
+      "Num\u0103r\u0103 \u00eenapoi de la {number}",
+      "Num\u0103r\u0103 \u00eenapoi de la {number}",
+      "Num\u0103r\u0103 \u00eenapoi de la {number}",
+      "De la {number} num\u0103r\u0103 \u00eenapoi ",
+      "De la {number} num\u0103r\u0103 \u00eenapoi "
+    ],
+    "dice-skill.Dice": [
+      "rostogole\u0219te ({count}|) d {type} (+|plus|) ({modifier}|)"
+    ],
+    "dice-skill.NormalDice": [
+      "rostogole\u0219te ({count}|) (zaruri)"
+    ],
+    "dice-skill.Range": [
+      "Genereaz\u0103 un num\u0103r aleator \u00eentre {low} \u0219i {high}",
+      "Genereaz\u0103 un num\u0103r aleator \u00eentre {low} \u0219i {high}",
+      "Spune-mi un num\u0103r \u00eentre {low} \u0219i {high}",
+      "Spune-mi un num\u0103r \u00eentre {low} and {high}"
+    ],
+    "email-skill.check.email": [
+      "Verifica email-ul meu",
+      "Verific\u0103 emailul meu",
+      "Am mesaje noi",
+      "Am vreun mesaj",
+      "Am mesaje noi"
+    ],
+    "emby-skill.emby": [
+      "reda\u021bi {media} de la emby",
+      "reda\u021bi {media} din mb"
+    ],
+    "iss-tracker-skill.tracker.iss": [
+      "Unde este sta\u021bia spa\u021bial\u0103 interna\u021bional\u0103",
+      "Localiza\u021bi I S S",
+      "Unde este I S S"
+    ]
+  }
+}

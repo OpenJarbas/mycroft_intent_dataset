@@ -1,0 +1,1700 @@
+pt-br,auto-volume-skill.activate,Ative auto volume
+pt-br,auto-volume-skill.activate,Ativar auto volume
+pt-br,auto-volume-skill.activate,Defina volume automático ativo
+pt-br,auto-volume-skill.activate,Defina volume automático como ativo
+pt-br,auto-volume-skill.activate,Defina volume automático para ativo
+pt-br,auto-volume-skill.activate,Definir volume automático ativo
+pt-br,auto-volume-skill.activate,Definir volume automático como ativo
+pt-br,auto-volume-skill.activate,Definir volume automático para ativo
+pt-br,auto-volume-skill.activate,Ligue auto volume
+pt-br,auto-volume-skill.activate,Ligar auto volume
+pt-br,auto-volume-skill.activate,ligar volume automático
+pt-br,auto-volume-skill.activate,ligar o volume automático
+pt-br,auto-volume-skill.activate,ative volume automático
+pt-br,auto-volume-skill.activate,ative o volume automático
+pt-br,auto-volume-skill.activate,Ativar volume automático
+pt-br,auto-volume-skill.activate,Ativar o volume automático
+pt-br,auto-volume-skill.deactivate,Desative volume automático
+pt-br,auto-volume-skill.deactivate,Desative o volume automático
+pt-br,auto-volume-skill.deactivate,Desativar volume automático
+pt-br,auto-volume-skill.deactivate,Desativar o volume automático
+pt-br,auto-volume-skill.deactivate,Mude volume automático inativo
+pt-br,auto-volume-skill.deactivate,Mude volume automático para inativo
+pt-br,auto-volume-skill.deactivate,Mude o volume automático inativo
+pt-br,auto-volume-skill.deactivate,Mude o volume automático para inativo
+pt-br,auto-volume-skill.deactivate,Mudar volume automático inativo
+pt-br,auto-volume-skill.deactivate,Mudar volume automático para inativo
+pt-br,auto-volume-skill.deactivate,Mudar o volume automático inativo
+pt-br,auto-volume-skill.deactivate,Mudar o volume automático para inativo
+pt-br,auto-volume-skill.deactivate,Coloque volume automático inativo
+pt-br,auto-volume-skill.deactivate,Coloque volume automático para inativo
+pt-br,auto-volume-skill.deactivate,Coloque o volume automático inativo
+pt-br,auto-volume-skill.deactivate,Coloque o volume automático para inativo
+pt-br,auto-volume-skill.deactivate,Colocar volume automático inativo
+pt-br,auto-volume-skill.deactivate,Colocar volume automático para inativo
+pt-br,auto-volume-skill.deactivate,Colocar o volume automático inativo
+pt-br,auto-volume-skill.deactivate,Colocar o volume automático para inativo
+pt-br,auto-volume-skill.deactivate,Desligue volume automático
+pt-br,auto-volume-skill.deactivate,Desligue o volume automático
+pt-br,auto-volume-skill.deactivate,Desligar volume automático
+pt-br,auto-volume-skill.deactivate,Desligar o volume automático
+pt-br,auto-volume-skill.deactivate,Coloque volume automático como desligado
+pt-br,auto-volume-skill.deactivate,Coloque volume automático para desligado
+pt-br,auto-volume-skill.deactivate,Coloque o volume automático como desligado
+pt-br,auto-volume-skill.deactivate,Coloque o volume automático para desligado
+pt-br,auto-volume-skill.deactivate,Colocar volume automático como desligado
+pt-br,auto-volume-skill.deactivate,Colocar volume automático para desligado
+pt-br,auto-volume-skill.deactivate,Colocar o volume automático como desligado
+pt-br,auto-volume-skill.deactivate,Colocar o volume automático para desligado
+pt-br,auto-volume-skill.deactivate,Mudar volume automático como desligado
+pt-br,auto-volume-skill.deactivate,Mudar volume automático para desligado
+pt-br,auto-volume-skill.deactivate,Mudar o volume automático como desligado
+pt-br,auto-volume-skill.deactivate,Mudar o volume automático para desligado
+pt-br,auto-volume-skill.deactivate,Mude volume automático como desligado
+pt-br,auto-volume-skill.deactivate,Mude volume automático para desligado
+pt-br,auto-volume-skill.deactivate,Mude o volume automático como desligado
+pt-br,auto-volume-skill.deactivate,Mude o volume automático para desligado
+pt-br,auto-volume-skill.deactivate,Definir volume automático como desligado
+pt-br,auto-volume-skill.deactivate,Definir volume automático para desligado
+pt-br,auto-volume-skill.deactivate,Definir o volume automático como desligado
+pt-br,auto-volume-skill.deactivate,Definir o volume automático para desligado
+pt-br,auto-volume-skill.deactivate,Mudar volume automático como desligado
+pt-br,auto-volume-skill.deactivate,Mudar volume automático para desligado
+pt-br,auto-volume-skill.deactivate,Mudar o volume automático como desligado
+pt-br,auto-volume-skill.deactivate,Mudar o volume automático para desligado
+pt-br,auto-volume-skill.reset,Limpe medições automáticas de volume
+pt-br,auto-volume-skill.reset,Limpe as medições automáticas de volume
+pt-br,auto-volume-skill.reset,Limpar medições automáticas de volume
+pt-br,auto-volume-skill.reset,Limpar as medições automáticas de volume
+pt-br,auto-volume-skill.reset,Apague medições de volume automático
+pt-br,auto-volume-skill.reset,Apague as medições de volume automático
+pt-br,auto-volume-skill.reset,Apagar medições de volume automático
+pt-br,auto-volume-skill.reset,Apagar as medições de volume automático
+pt-br,auto-volume-skill.reset,Restaure padrões de medições de volume automático
+pt-br,auto-volume-skill.reset,Restaure os padrões de medições de volume automático
+pt-br,auto-volume-skill.reset,Restaurar padrões de medições de volume automático
+pt-br,auto-volume-skill.reset,Restaurar os padrões de medições de volume automático
+pt-br,cocktail.Needed,o que é necessário para fazer um {drink}
+pt-br,cocktail.Needed,O que você preciso para fazer um {drink}
+pt-br,cocktail.Needed,O que você preciso para fazer o {drink}
+pt-br,cocktail.Needed,O que você precisa para fazer um {drink}
+pt-br,cocktail.Needed,O que você precisa para fazer o {drink}
+pt-br,cocktail.Needed,O que eu preciso para fazer um {drink}
+pt-br,cocktail.Needed,O que eu preciso para fazer o {drink}
+pt-br,cocktail.Needed,O que eu precisa para fazer um {drink}
+pt-br,cocktail.Needed,O que eu precisa para fazer o {drink}
+pt-br,cocktail.Needed,qual é o ingrediente para um {drink}
+pt-br,cocktail.Needed,qual é o ingredientes para um {drink}
+pt-br,cocktail.Needed,qual é os ingrediente para um {drink}
+pt-br,cocktail.Needed,qual é os ingredientes para um {drink}
+pt-br,cocktail.Needed,qual são o ingrediente para um {drink}
+pt-br,cocktail.Needed,qual são o ingredientes para um {drink}
+pt-br,cocktail.Needed,qual são os ingrediente para um {drink}
+pt-br,cocktail.Needed,qual são os ingredientes para um {drink}
+pt-br,cocktail.Needed,quais é o ingrediente para um {drink}
+pt-br,cocktail.Needed,quais é o ingredientes para um {drink}
+pt-br,cocktail.Needed,quais é os ingrediente para um {drink}
+pt-br,cocktail.Needed,quais é os ingredientes para um {drink}
+pt-br,cocktail.Needed,quais são o ingrediente para um {drink}
+pt-br,cocktail.Needed,quais são o ingredientes para um {drink}
+pt-br,cocktail.Needed,quais são os ingrediente para um {drink}
+pt-br,cocktail.Needed,quais são os ingredientes para um {drink}
+pt-br,cocktail.Recipie,como você preparar uma {drink}
+pt-br,cocktail.Recipie,como você preparar um {drink}
+pt-br,cocktail.Recipie,como você fazer uma {drink}
+pt-br,cocktail.Recipie,como você fazer um {drink}
+pt-br,cocktail.Recipie,como eu preparar uma {drink}
+pt-br,cocktail.Recipie,como eu preparar um {drink}
+pt-br,cocktail.Recipie,como eu fazer uma {drink}
+pt-br,cocktail.Recipie,como eu fazer um {drink}
+pt-br,cocktail.Recipie,diga nos como preparar uma {drink}
+pt-br,cocktail.Recipie,diga nos como preparar um {drink}
+pt-br,cocktail.Recipie,diga nos como fazer uma {drink}
+pt-br,cocktail.Recipie,diga nos como fazer um {drink}
+pt-br,cocktail.Recipie,diga me como preparar uma {drink}
+pt-br,cocktail.Recipie,diga me como preparar um {drink}
+pt-br,cocktail.Recipie,diga me como fazer uma {drink}
+pt-br,cocktail.Recipie,diga me como fazer um {drink}
+pt-br,cocktail.Recipie,dê nos instruções para preparar uma {drink}
+pt-br,cocktail.Recipie,dê nos instruções para preparar um {drink}
+pt-br,cocktail.Recipie,dê me instruções para preparar uma {drink}
+pt-br,cocktail.Recipie,dê me instruções para preparar um {drink}
+pt-br,cocktail.Recipie,como preparar uma {drink}
+pt-br,cocktail.Recipie,como preparar um {drink}
+pt-br,cocktail.Recipie,como fazer uma {drink}
+pt-br,cocktail.Recipie,como fazer um {drink}
+pt-br,cocktail.Recipie,qual a receita para uma {drink}
+pt-br,cocktail.Recipie,qual a receita para um {drink}
+pt-br,count-skill.count,Conte até {number}
+pt-br,count-skill.countdown,Contagem regressiva de {number}
+pt-br,count-skill.countdown,Contar de {number}
+pt-br,count-skill.countdown,Contar de trás para {number}
+pt-br,count-skill.countdown,Conte de volta em {number}
+pt-br,count-skill.countdown,Contagem regressiva de {number}
+pt-br,count-skill.countdown,De {number} contagem regressiva
+pt-br,count-skill.countdown,De {number} contar para trás
+pt-br,dice-skill.Dice,Lista d {type}
+pt-br,dice-skill.Dice,Lista d {type} {modifier}
+pt-br,dice-skill.Dice,Lista d {type} plus
+pt-br,dice-skill.Dice,Lista d {type} plus {modifier}
+pt-br,dice-skill.Dice,Lista d {type} +
+pt-br,dice-skill.Dice,Lista d {type} + {modifier}
+pt-br,dice-skill.Dice,Lista {count} d {type}
+pt-br,dice-skill.Dice,Lista {count} d {type} {modifier}
+pt-br,dice-skill.Dice,Lista {count} d {type} plus
+pt-br,dice-skill.Dice,Lista {count} d {type} plus {modifier}
+pt-br,dice-skill.Dice,Lista {count} d {type} +
+pt-br,dice-skill.Dice,Lista {count} d {type} + {modifier}
+pt-br,dice-skill.NormalDice,Lista die
+pt-br,dice-skill.NormalDice,Lista dice
+pt-br,dice-skill.NormalDice,Lista {count} die
+pt-br,dice-skill.NormalDice,Lista {count} dice
+pt-br,dice-skill.Range,Gerar um número aleatório entre {low} e {high}
+pt-br,dice-skill.Range,Gere um número aleatório entre {low} e {high}
+pt-br,dice-skill.Range,Diga-me um número de {low} e {high}
+pt-br,dice-skill.Range,Diga-me um número entre {low} e {high}
+pt-br,email-skill.check.email,verifique meu email
+pt-br,email-skill.check.email,cheque meu email
+pt-br,email-skill.check.email,verifique meu email
+pt-br,email-skill.check.email,tenho algum email ?
+pt-br,email-skill.check.email,tenho algum email novo ?
+pt-br,email-skill.check.email,tenho algum novo email ?
+pt-br,email-skill.check.email,tenho algum novo email novo ?
+pt-br,email-skill.check.email,Eu tenho algum email ?
+pt-br,email-skill.check.email,Eu tenho algum email novo ?
+pt-br,email-skill.check.email,Eu tenho algum novo email ?
+pt-br,email-skill.check.email,Eu tenho algum novo email novo ?
+pt-br,email-skill.check.email,eu tenho algum e-mail ?
+pt-br,email-skill.check.email,tenho algum email novo?
+pt-br,email-skill.check.email,eu tenho algum email novo?
+pt-br,email-skill.enquire.email,Eu tenho algum email de {email} ?
+pt-br,email-skill.enquire.email,Eu tenho algum novo email de {email} ?
+pt-br,email-skill.enquire.email,Eu tenho email de {email} ?
+pt-br,email-skill.enquire.email,Eu tenho email vindo de {email} ?
+pt-br,email-skill.enquire.email,Eu tenho algum email de {email} ?
+pt-br,email-skill.enquire.email,Eu tenho algum email vindo de {email} ?
+pt-br,email-skill.enquire.email,Eu recebi algum email de {email} ?
+pt-br,email-skill.notify,Me fale sobre os emails
+pt-br,email-skill.notify,Me fale sobre os email
+pt-br,email-skill.notify,Me fale sobre os novos emails
+pt-br,email-skill.notify,Me fale sobre os novos email
+pt-br,email-skill.notify,Me fale sobre o emails
+pt-br,email-skill.notify,Me fale sobre o email
+pt-br,email-skill.notify,Me fale sobre o novos emails
+pt-br,email-skill.notify,Me fale sobre o novos email
+pt-br,email-skill.notify,Me informe sobre os emails
+pt-br,email-skill.notify,Me informe sobre os email
+pt-br,email-skill.notify,Me informe sobre os novos emails
+pt-br,email-skill.notify,Me informe sobre os novos email
+pt-br,email-skill.notify,Me informe sobre o emails
+pt-br,email-skill.notify,Me informe sobre o email
+pt-br,email-skill.notify,Me informe sobre o novos emails
+pt-br,email-skill.notify,Me informe sobre o novos email
+pt-br,email-skill.notify,Me fale quando eu receber emails
+pt-br,email-skill.notify,Me fale quando eu receber email
+pt-br,email-skill.notify,Me fale quando eu receber novos emails
+pt-br,email-skill.notify,Me fale quando eu receber novos email
+pt-br,email-skill.notify,Me fale quando eu receber novo emails
+pt-br,email-skill.notify,Me fale quando eu receber novo email
+pt-br,email-skill.notify,Me informe quando eu receber emails
+pt-br,email-skill.notify,Me informe quando eu receber email
+pt-br,email-skill.notify,Me informe quando eu receber novos emails
+pt-br,email-skill.notify,Me informe quando eu receber novos email
+pt-br,email-skill.notify,Me informe quando eu receber novo emails
+pt-br,email-skill.notify,Me informe quando eu receber novo email
+pt-br,email-skill.notify,Me fale quando eu receber email de {sender}
+pt-br,email-skill.notify,Me fale quando eu receber email vindo de {sender}
+pt-br,email-skill.notify,Me fale quando eu receber um email de {sender}
+pt-br,email-skill.notify,Me fale quando eu receber um email vindo de {sender}
+pt-br,email-skill.notify,Me avise quando eu receber email de {sender}
+pt-br,email-skill.notify,Me avise quando eu receber email vindo de {sender}
+pt-br,email-skill.notify,Me avise quando eu receber um email de {sender}
+pt-br,email-skill.notify,Me avise quando eu receber um email vindo de {sender}
+pt-br,email-skill.notify,Me informe quando eu receber email de {sender}
+pt-br,email-skill.notify,Me informe quando eu receber email vindo de {sender}
+pt-br,email-skill.notify,Me informe quando eu receber um email de {sender}
+pt-br,email-skill.notify,Me informe quando eu receber um email vindo de {sender}
+pt-br,email-skill.notify,Me fale sobre emails de {sender}
+pt-br,email-skill.notify,Me fale sobre emails vindo de {sender}
+pt-br,email-skill.notify,Me fale sobre email de {sender}
+pt-br,email-skill.notify,Me fale sobre email vindo de {sender}
+pt-br,email-skill.notify,Me avise sobre emails de {sender}
+pt-br,email-skill.notify,Me avise sobre emails vindo de {sender}
+pt-br,email-skill.notify,Me avise sobre email de {sender}
+pt-br,email-skill.notify,Me avise sobre email vindo de {sender}
+pt-br,email-skill.notify,Me informe sobre emails de {sender}
+pt-br,email-skill.notify,Me informe sobre emails vindo de {sender}
+pt-br,email-skill.notify,Me informe sobre email de {sender}
+pt-br,email-skill.notify,Me informe sobre email vindo de {sender}
+pt-br,email-skill.notify,Me notifique sobre emails
+pt-br,email-skill.notify,Me notifique sobre novos emails
+pt-br,email-skill.notify,Me notifique sobre os emails
+pt-br,email-skill.notify,Me notifique sobre os novos emails
+pt-br,email-skill.notify,Me avise sobre novos emails enviados por {sender}
+pt-br,email-skill.notify,Me avise sobre novos emails de {sender}
+pt-br,email-skill.notify,Me avise sobre novos emails vindo de {sender}
+pt-br,email-skill.notify,Me avise sobre emails enviados por {sender}
+pt-br,email-skill.notify,Me avise sobre emails de {sender}
+pt-br,email-skill.notify,Me avise sobre emails vindo de {sender}
+pt-br,email-skill.notify,Me avise sobre os novos emails enviados por {sender}
+pt-br,email-skill.notify,Me avise sobre os novos emails de {sender}
+pt-br,email-skill.notify,Me avise sobre os novos emails vindo de {sender}
+pt-br,email-skill.notify,Me avise sobre os emails enviados por {sender}
+pt-br,email-skill.notify,Me avise sobre os emails de {sender}
+pt-br,email-skill.notify,Me avise sobre os emails vindo de {sender}
+pt-br,email-skill.notify,Me notifique sobre novos emails enviados por {sender}
+pt-br,email-skill.notify,Me notifique sobre novos emails de {sender}
+pt-br,email-skill.notify,Me notifique sobre novos emails vindo de {sender}
+pt-br,email-skill.notify,Me notifique sobre emails enviados por {sender}
+pt-br,email-skill.notify,Me notifique sobre emails de {sender}
+pt-br,email-skill.notify,Me notifique sobre emails vindo de {sender}
+pt-br,email-skill.notify,Me notifique sobre os novos emails enviados por {sender}
+pt-br,email-skill.notify,Me notifique sobre os novos emails de {sender}
+pt-br,email-skill.notify,Me notifique sobre os novos emails vindo de {sender}
+pt-br,email-skill.notify,Me notifique sobre os emails enviados por {sender}
+pt-br,email-skill.notify,Me notifique sobre os emails de {sender}
+pt-br,email-skill.notify,Me notifique sobre os emails vindo de {sender}
+pt-br,email-skill.notify,Me avise quando chegar novos emails
+pt-br,email-skill.notify,Me avise quando chegar emails
+pt-br,email-skill.notify,Me avise quando chegar email
+pt-br,email-skill.notify,Me avise quando chegar um email
+pt-br,email-skill.notify,Me avise quando eu receber novos emails
+pt-br,email-skill.notify,Me avise quando eu receber emails
+pt-br,email-skill.notify,Me avise quando eu receber email
+pt-br,email-skill.notify,Me avise quando eu receber um email
+pt-br,email-skill.notify,Me notifique quando chegar novos emails
+pt-br,email-skill.notify,Me notifique quando chegar emails
+pt-br,email-skill.notify,Me notifique quando chegar email
+pt-br,email-skill.notify,Me notifique quando chegar um email
+pt-br,email-skill.notify,Me notifique quando eu receber novos emails
+pt-br,email-skill.notify,Me notifique quando eu receber emails
+pt-br,email-skill.notify,Me notifique quando eu receber email
+pt-br,email-skill.notify,Me notifique quando eu receber um email
+pt-br,email-skill.notify,Me avise quando chegarem novos emails enviado por {sender}
+pt-br,email-skill.notify,Me avise quando chegarem novos emails vindo de {sender}
+pt-br,email-skill.notify,Me avise quando chegarem novos emails de {sender}
+pt-br,email-skill.notify,Me avise quando chegarem emails enviado por {sender}
+pt-br,email-skill.notify,Me avise quando chegarem emails vindo de {sender}
+pt-br,email-skill.notify,Me avise quando chegarem emails de {sender}
+pt-br,email-skill.notify,Me avise quando chegarem email enviado por {sender}
+pt-br,email-skill.notify,Me avise quando chegarem email vindo de {sender}
+pt-br,email-skill.notify,Me avise quando chegarem email de {sender}
+pt-br,email-skill.notify,Me avise quando chegarem um email enviado por {sender}
+pt-br,email-skill.notify,Me avise quando chegarem um email vindo de {sender}
+pt-br,email-skill.notify,Me avise quando chegarem um email de {sender}
+pt-br,email-skill.notify,Me avise quando chegar novos emails enviado por {sender}
+pt-br,email-skill.notify,Me avise quando chegar novos emails vindo de {sender}
+pt-br,email-skill.notify,Me avise quando chegar novos emails de {sender}
+pt-br,email-skill.notify,Me avise quando chegar emails enviado por {sender}
+pt-br,email-skill.notify,Me avise quando chegar emails vindo de {sender}
+pt-br,email-skill.notify,Me avise quando chegar emails de {sender}
+pt-br,email-skill.notify,Me avise quando chegar email enviado por {sender}
+pt-br,email-skill.notify,Me avise quando chegar email vindo de {sender}
+pt-br,email-skill.notify,Me avise quando chegar email de {sender}
+pt-br,email-skill.notify,Me avise quando chegar um email enviado por {sender}
+pt-br,email-skill.notify,Me avise quando chegar um email vindo de {sender}
+pt-br,email-skill.notify,Me avise quando chegar um email de {sender}
+pt-br,email-skill.notify,Me avise quando eu receber novos emails enviado por {sender}
+pt-br,email-skill.notify,Me avise quando eu receber novos emails vindo de {sender}
+pt-br,email-skill.notify,Me avise quando eu receber novos emails de {sender}
+pt-br,email-skill.notify,Me avise quando eu receber emails enviado por {sender}
+pt-br,email-skill.notify,Me avise quando eu receber emails vindo de {sender}
+pt-br,email-skill.notify,Me avise quando eu receber emails de {sender}
+pt-br,email-skill.notify,Me avise quando eu receber email enviado por {sender}
+pt-br,email-skill.notify,Me avise quando eu receber email vindo de {sender}
+pt-br,email-skill.notify,Me avise quando eu receber email de {sender}
+pt-br,email-skill.notify,Me avise quando eu receber um email enviado por {sender}
+pt-br,email-skill.notify,Me avise quando eu receber um email vindo de {sender}
+pt-br,email-skill.notify,Me avise quando eu receber um email de {sender}
+pt-br,email-skill.notify,Me notifique quando chegarem novos emails enviado por {sender}
+pt-br,email-skill.notify,Me notifique quando chegarem novos emails vindo de {sender}
+pt-br,email-skill.notify,Me notifique quando chegarem novos emails de {sender}
+pt-br,email-skill.notify,Me notifique quando chegarem emails enviado por {sender}
+pt-br,email-skill.notify,Me notifique quando chegarem emails vindo de {sender}
+pt-br,email-skill.notify,Me notifique quando chegarem emails de {sender}
+pt-br,email-skill.notify,Me notifique quando chegarem email enviado por {sender}
+pt-br,email-skill.notify,Me notifique quando chegarem email vindo de {sender}
+pt-br,email-skill.notify,Me notifique quando chegarem email de {sender}
+pt-br,email-skill.notify,Me notifique quando chegarem um email enviado por {sender}
+pt-br,email-skill.notify,Me notifique quando chegarem um email vindo de {sender}
+pt-br,email-skill.notify,Me notifique quando chegarem um email de {sender}
+pt-br,email-skill.notify,Me notifique quando chegar novos emails enviado por {sender}
+pt-br,email-skill.notify,Me notifique quando chegar novos emails vindo de {sender}
+pt-br,email-skill.notify,Me notifique quando chegar novos emails de {sender}
+pt-br,email-skill.notify,Me notifique quando chegar emails enviado por {sender}
+pt-br,email-skill.notify,Me notifique quando chegar emails vindo de {sender}
+pt-br,email-skill.notify,Me notifique quando chegar emails de {sender}
+pt-br,email-skill.notify,Me notifique quando chegar email enviado por {sender}
+pt-br,email-skill.notify,Me notifique quando chegar email vindo de {sender}
+pt-br,email-skill.notify,Me notifique quando chegar email de {sender}
+pt-br,email-skill.notify,Me notifique quando chegar um email enviado por {sender}
+pt-br,email-skill.notify,Me notifique quando chegar um email vindo de {sender}
+pt-br,email-skill.notify,Me notifique quando chegar um email de {sender}
+pt-br,email-skill.notify,Me notifique quando eu receber novos emails enviado por {sender}
+pt-br,email-skill.notify,Me notifique quando eu receber novos emails vindo de {sender}
+pt-br,email-skill.notify,Me notifique quando eu receber novos emails de {sender}
+pt-br,email-skill.notify,Me notifique quando eu receber emails enviado por {sender}
+pt-br,email-skill.notify,Me notifique quando eu receber emails vindo de {sender}
+pt-br,email-skill.notify,Me notifique quando eu receber emails de {sender}
+pt-br,email-skill.notify,Me notifique quando eu receber email enviado por {sender}
+pt-br,email-skill.notify,Me notifique quando eu receber email vindo de {sender}
+pt-br,email-skill.notify,Me notifique quando eu receber email de {sender}
+pt-br,email-skill.notify,Me notifique quando eu receber um email enviado por {sender}
+pt-br,email-skill.notify,Me notifique quando eu receber um email vindo de {sender}
+pt-br,email-skill.notify,Me notifique quando eu receber um email de {sender}
+pt-br,email-skill.stop,Não me avise sobre novos emails
+pt-br,email-skill.stop,Não me avise sobre emails
+pt-br,email-skill.stop,Não me avise sobre email
+pt-br,email-skill.stop,Não me notifique sobre novos emails
+pt-br,email-skill.stop,Não me notifique sobre emails
+pt-br,email-skill.stop,Não me notifique sobre email
+pt-br,email-skill.stop,Não me avise sobre novos emails de {sender}
+pt-br,email-skill.stop,Não me avise sobre novos emails vindo de {sender}
+pt-br,email-skill.stop,Não me avise sobre emails de {sender}
+pt-br,email-skill.stop,Não me avise sobre emails vindo de {sender}
+pt-br,email-skill.stop,Não me avise sobre email de {sender}
+pt-br,email-skill.stop,Não me avise sobre email vindo de {sender}
+pt-br,email-skill.stop,Não me notifique sobre novos emails de {sender}
+pt-br,email-skill.stop,Não me notifique sobre novos emails vindo de {sender}
+pt-br,email-skill.stop,Não me notifique sobre emails de {sender}
+pt-br,email-skill.stop,Não me notifique sobre emails vindo de {sender}
+pt-br,email-skill.stop,Não me notifique sobre email de {sender}
+pt-br,email-skill.stop,Não me notifique sobre email vindo de {sender}
+pt-br,email-skill.stop,Não me avise mais sobre novos emails
+pt-br,email-skill.stop,Não me avise mais sobre emails
+pt-br,email-skill.stop,Não me avise mais sobre email
+pt-br,email-skill.stop,Não me notifique mais sobre novos emails
+pt-br,email-skill.stop,Não me notifique mais sobre emails
+pt-br,email-skill.stop,Não me notifique mais sobre email
+pt-br,email-skill.stop,Não me avise mais sobre novos emails vindo de {sender}
+pt-br,email-skill.stop,Não me avise mais sobre novos emails de {sender}
+pt-br,email-skill.stop,Não me avise mais sobre emails vindo de {sender}
+pt-br,email-skill.stop,Não me avise mais sobre emails de {sender}
+pt-br,email-skill.stop,Não me avise mais sobre email vindo de {sender}
+pt-br,email-skill.stop,Não me avise mais sobre email de {sender}
+pt-br,email-skill.stop,Não me notifique mais sobre novos emails vindo de {sender}
+pt-br,email-skill.stop,Não me notifique mais sobre novos emails de {sender}
+pt-br,email-skill.stop,Não me notifique mais sobre emails vindo de {sender}
+pt-br,email-skill.stop,Não me notifique mais sobre emails de {sender}
+pt-br,email-skill.stop,Não me notifique mais sobre email vindo de {sender}
+pt-br,email-skill.stop,Não me notifique mais sobre email de {sender}
+pt-br,email-skill.stop,Não me avise sobre novos emails
+pt-br,email-skill.stop,Não me avise sobre emails
+pt-br,email-skill.stop,Não me avise sobre email
+pt-br,email-skill.stop,Não me fale sobre novos emails
+pt-br,email-skill.stop,Não me fale sobre emails
+pt-br,email-skill.stop,Não me fale sobre email
+pt-br,email-skill.stop,Não me avise sobre novos emails de {sender}
+pt-br,email-skill.stop,Não me avise sobre novos emails vindo de {sender}
+pt-br,email-skill.stop,Não me avise sobre emails de {sender}
+pt-br,email-skill.stop,Não me avise sobre emails vindo de {sender}
+pt-br,email-skill.stop,Não me avise sobre email de {sender}
+pt-br,email-skill.stop,Não me avise sobre email vindo de {sender}
+pt-br,email-skill.stop,Não me fale sobre novos emails de {sender}
+pt-br,email-skill.stop,Não me fale sobre novos emails vindo de {sender}
+pt-br,email-skill.stop,Não me fale sobre emails de {sender}
+pt-br,email-skill.stop,Não me fale sobre emails vindo de {sender}
+pt-br,email-skill.stop,Não me fale sobre email de {sender}
+pt-br,email-skill.stop,Não me fale sobre email vindo de {sender}
+pt-br,email-skill.stop,Não me avise mais sobre novos emails
+pt-br,email-skill.stop,Não me avise mais sobre emails
+pt-br,email-skill.stop,Não me avise mais sobre email
+pt-br,email-skill.stop,Não me fale mais sobre novos emails
+pt-br,email-skill.stop,Não me fale mais sobre emails
+pt-br,email-skill.stop,Não me fale mais sobre email
+pt-br,email-skill.stop,Não me avise mais sobre novos emails de {sender}
+pt-br,email-skill.stop,Não me avise mais sobre novos emails vindo de {sender}
+pt-br,email-skill.stop,Não me avise mais sobre emails de {sender}
+pt-br,email-skill.stop,Não me avise mais sobre emails vindo de {sender}
+pt-br,email-skill.stop,Não me avise mais sobre email de {sender}
+pt-br,email-skill.stop,Não me avise mais sobre email vindo de {sender}
+pt-br,email-skill.stop,Não me fale mais sobre novos emails de {sender}
+pt-br,email-skill.stop,Não me fale mais sobre novos emails vindo de {sender}
+pt-br,email-skill.stop,Não me fale mais sobre emails de {sender}
+pt-br,email-skill.stop,Não me fale mais sobre emails vindo de {sender}
+pt-br,email-skill.stop,Não me fale mais sobre email de {sender}
+pt-br,email-skill.stop,Não me fale mais sobre email vindo de {sender}
+pt-br,emby-skill.diagnostic,verificar a conexão emily
+pt-br,emby-skill.diagnostic,verificar a conexão nv
+pt-br,emby-skill.diagnostic,verificar a conexão mv
+pt-br,emby-skill.diagnostic,verificar a conexão mb
+pt-br,emby-skill.diagnostic,verificar a conexão emby
+pt-br,emby-skill.diagnostic,executar diagnóstico emily
+pt-br,emby-skill.diagnostic,executar diagnóstico nv
+pt-br,emby-skill.diagnostic,executar diagnóstico mv
+pt-br,emby-skill.diagnostic,executar diagnóstico mb
+pt-br,emby-skill.diagnostic,executar diagnóstico emby
+pt-br,emby-skill.diagnostic,verificar emily
+pt-br,emby-skill.diagnostic,verificar nv
+pt-br,emby-skill.diagnostic,verificar mv
+pt-br,emby-skill.diagnostic,verificar mb
+pt-br,emby-skill.diagnostic,verificar emby
+pt-br,emby-skill.emby,tocar {media} do emby
+pt-br,emby-skill.emby,tocar {media} do mb
+pt-br,emby-skill.emby,tocando artista {artist} de emby
+pt-br,emby-skill.emby,tocando artista {artist} do mb
+pt-br,emby-skill.emby,tocando album {album} de emby
+pt-br,emby-skill.emby,tocar album{album} de mb
+pt-br,fairytalez-skill.continue,Continue a história
+pt-br,fairytalez-skill.continue,Continue contando histórias
+pt-br,fairytalez-skill.continue,Continuar conto de fadas
+pt-br,fairytalez-skill.continue,Continue contando conto de fadas
+pt-br,fairytalez-skill.continue,Continuar o conto de fadas
+pt-br,fairytalez-skill.continue,Continue com o conto de fadas
+pt-br,fairytalez-skill.continue,Continue com o conto de fadas
+pt-br,fairytalez-skill.fairytalez,me conta pra mim um bom conto de fadas
+pt-br,fairytalez-skill.fairytalez,me conta pra mim um bom história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,me conta pra mim uma boa conto de fadas
+pt-br,fairytalez-skill.fairytalez,me conta pra mim uma boa história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,me conta para mim um bom conto de fadas
+pt-br,fairytalez-skill.fairytalez,me conta para mim um bom história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,me conta para mim uma boa conto de fadas
+pt-br,fairytalez-skill.fairytalez,me conta para mim uma boa história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,conta pra mim um bom conto de fadas
+pt-br,fairytalez-skill.fairytalez,conta pra mim um bom história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,conta pra mim uma boa conto de fadas
+pt-br,fairytalez-skill.fairytalez,conta pra mim uma boa história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,conta para mim um bom conto de fadas
+pt-br,fairytalez-skill.fairytalez,conta para mim um bom história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,conta para mim uma boa conto de fadas
+pt-br,fairytalez-skill.fairytalez,conta para mim uma boa história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,conte pra mim um bom conto de fadas
+pt-br,fairytalez-skill.fairytalez,conte pra mim um bom história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,conte pra mim uma boa conto de fadas
+pt-br,fairytalez-skill.fairytalez,conte pra mim uma boa história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,conte para mim um bom conto de fadas
+pt-br,fairytalez-skill.fairytalez,conte para mim um bom história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,conte para mim uma boa conto de fadas
+pt-br,fairytalez-skill.fairytalez,conte para mim uma boa história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,diga pra mim um bom conto de fadas
+pt-br,fairytalez-skill.fairytalez,diga pra mim um bom história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,diga pra mim uma boa conto de fadas
+pt-br,fairytalez-skill.fairytalez,diga pra mim uma boa história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,diga para mim um bom conto de fadas
+pt-br,fairytalez-skill.fairytalez,diga para mim um bom história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,diga para mim uma boa conto de fadas
+pt-br,fairytalez-skill.fairytalez,diga para mim uma boa história de conto de fadas
+pt-br,fairytalez-skill.fairytalez,Leia a estória {tale}
+pt-br,fairytalez-skill.fairytalez,Leia para mim a estória {tale}
+pt-br,fairytalez-skill.fairytalez,Conte a estória {tale}
+pt-br,fairytalez-skill.fairytalez,Conte para mim a estória {tale}
+pt-br,iss-tracker-skill.tracker.iss,Onde fica a estação espacial internacional?
+pt-br,iss-tracker-skill.tracker.iss,Localize I S S
+pt-br,iss-tracker-skill.tracker.iss,Onde está I S S
+pt-br,laugh.Laugh,ria como a alexa
+pt-br,laugh.Laugh,você consegue rir
+pt-br,laugh.Laugh,você pode rir
+pt-br,laugh.Laugh,você sabe rir
+pt-br,laugh.Laugh,riso do mal
+pt-br,laugh.Laugh,riso maligna
+pt-br,laugh.Laugh,risadinha do mal
+pt-br,laugh.Laugh,risadinha maligna
+pt-br,laugh.Laugh,risada do mal
+pt-br,laugh.Laugh,risada maligna
+pt-br,laugh.RandomLaugh,ria aleatoriamente
+pt-br,laugh.RandomLaugh,disparar risada aleatória
+pt-br,laugh.RandomLaugh,disparar risos aleatória
+pt-br,laugh.RandomLaugh,disparar riso aleatória
+pt-br,laugh.RandomLaugh,riso do mal aleatória
+pt-br,laugh.RandomLaugh,riso maligna aleatória
+pt-br,laugh.RandomLaugh,risadinha do mal aleatória
+pt-br,laugh.RandomLaugh,risadinha maligna aleatória
+pt-br,laugh.RandomLaugh,risada do mal aleatória
+pt-br,laugh.RandomLaugh,risada maligna aleatória
+pt-br,mark-2.brightness,reduza o brilho dos seus olhos para {brightness}
+pt-br,mark-2.brightness,reduza o brilho dos seus olhos para {brightness} por cento
+pt-br,mark-2.brightness,reduza o brilho dos olhos para {brightness}
+pt-br,mark-2.brightness,reduza o brilho dos olhos para {brightness} por cento
+pt-br,mark-2.brightness,diminua o brilho para {brightness}
+pt-br,mark-2.brightness,diminua o brilho para {brightness} por cento
+pt-br,mark-2.brightness,reduza a iluminação dos seus olhos para {brightness}
+pt-br,mark-2.brightness,reduza a iluminação dos seus olhos para {brightness} por cento
+pt-br,mark-2.brightness,reduza o brilho dos seus olhos para {brightness}
+pt-br,mark-2.brightness,reduza o brilho dos seus olhos para {brightness} por cento
+pt-br,mark-2.brightness,aumente a iluminação para {brightness}
+pt-br,mark-2.brightness,aumente a iluminação para {brightness} por cento
+pt-br,mark-2.brightness,aumente o brilho para {brightness}
+pt-br,mark-2.brightness,aumente o brilho para {brightness} por cento
+pt-br,mark-2.brightness,reduza a iluminação para {brightness}
+pt-br,mark-2.brightness,reduza a iluminação para {brightness} por cento
+pt-br,mark-2.brightness,reduza o brilho para {brightness}
+pt-br,mark-2.brightness,reduza o brilho para {brightness} por cento
+pt-br,mark-2.brightness,aumente a iluminação para {brightness}
+pt-br,mark-2.brightness,aumente a iluminação para {brightness} por cento
+pt-br,mark-2.brightness,aumente o brilho para {brightness}
+pt-br,mark-2.brightness,aumente o brilho para {brightness} por cento
+pt-br,mark-2.brightness,reduza a iluminação para {brightness}
+pt-br,mark-2.brightness,reduza a iluminação para {brightness} por cento
+pt-br,mark-2.brightness,reduza o brilho para {brightness}
+pt-br,mark-2.brightness,reduza o brilho para {brightness} por cento
+pt-br,mark-2.brightness,aumente um pouquinho o brilho para {brightness}
+pt-br,mark-2.brightness,aumente um pouquinho o brilho para {brightness} por cento
+pt-br,mark-2.brightness,aumente um pouco o brilho para {brightness}
+pt-br,mark-2.brightness,aumente um pouco o brilho para {brightness} por cento
+pt-br,mark-2.brightness,passe a iluminação para {brightness}
+pt-br,mark-2.brightness,passe a iluminação para {brightness} por cento
+pt-br,mark-2.brightness,passe a iluminação dos olhos para {brightness}
+pt-br,mark-2.brightness,passe a iluminação dos olhos para {brightness} por cento
+pt-br,mark-2.brightness,passe a iluminação dos seus olhos para {brightness}
+pt-br,mark-2.brightness,passe a iluminação dos seus olhos para {brightness} por cento
+pt-br,mark-2.brightness,passe o brilho para {brightness}
+pt-br,mark-2.brightness,passe o brilho para {brightness} por cento
+pt-br,mark-2.brightness,passe o brilho dos olhos para {brightness}
+pt-br,mark-2.brightness,passe o brilho dos olhos para {brightness} por cento
+pt-br,mark-2.brightness,passe o brilho dos seus olhos para {brightness}
+pt-br,mark-2.brightness,passe o brilho dos seus olhos para {brightness} por cento
+pt-br,mark-2.brightness,troque a iluminação para {brightness}
+pt-br,mark-2.brightness,troque a iluminação para {brightness} por cento
+pt-br,mark-2.brightness,troque a iluminação dos olhos para {brightness}
+pt-br,mark-2.brightness,troque a iluminação dos olhos para {brightness} por cento
+pt-br,mark-2.brightness,troque a iluminação dos seus olhos para {brightness}
+pt-br,mark-2.brightness,troque a iluminação dos seus olhos para {brightness} por cento
+pt-br,mark-2.brightness,troque o brilho para {brightness}
+pt-br,mark-2.brightness,troque o brilho para {brightness} por cento
+pt-br,mark-2.brightness,troque o brilho dos olhos para {brightness}
+pt-br,mark-2.brightness,troque o brilho dos olhos para {brightness} por cento
+pt-br,mark-2.brightness,troque o brilho dos seus olhos para {brightness}
+pt-br,mark-2.brightness,troque o brilho dos seus olhos para {brightness} por cento
+pt-br,mark-2.brightness,mude a iluminação para {brightness}
+pt-br,mark-2.brightness,mude a iluminação para {brightness} por cento
+pt-br,mark-2.brightness,mude a iluminação dos olhos para {brightness}
+pt-br,mark-2.brightness,mude a iluminação dos olhos para {brightness} por cento
+pt-br,mark-2.brightness,mude a iluminação dos seus olhos para {brightness}
+pt-br,mark-2.brightness,mude a iluminação dos seus olhos para {brightness} por cento
+pt-br,mark-2.brightness,mude o brilho para {brightness}
+pt-br,mark-2.brightness,mude o brilho para {brightness} por cento
+pt-br,mark-2.brightness,mude o brilho dos olhos para {brightness}
+pt-br,mark-2.brightness,mude o brilho dos olhos para {brightness} por cento
+pt-br,mark-2.brightness,mude o brilho dos seus olhos para {brightness}
+pt-br,mark-2.brightness,mude o brilho dos seus olhos para {brightness} por cento
+pt-br,mark-2.brightness,defina a iluminação para {brightness}
+pt-br,mark-2.brightness,defina a iluminação para {brightness} por cento
+pt-br,mark-2.brightness,defina a iluminação dos olhos para {brightness}
+pt-br,mark-2.brightness,defina a iluminação dos olhos para {brightness} por cento
+pt-br,mark-2.brightness,defina a iluminação dos seus olhos para {brightness}
+pt-br,mark-2.brightness,defina a iluminação dos seus olhos para {brightness} por cento
+pt-br,mark-2.brightness,defina o brilho para {brightness}
+pt-br,mark-2.brightness,defina o brilho para {brightness} por cento
+pt-br,mark-2.brightness,defina o brilho dos olhos para {brightness}
+pt-br,mark-2.brightness,defina o brilho dos olhos para {brightness} por cento
+pt-br,mark-2.brightness,defina o brilho dos seus olhos para {brightness}
+pt-br,mark-2.brightness,defina o brilho dos seus olhos para {brightness} por cento
+pt-br,mark-2.brightness,switch your illumination to {brightness}
+pt-br,mark-2.brightness,switch your illumination to {brightness} percent
+pt-br,mark-2.brightness,switch your illumination level to {brightness}
+pt-br,mark-2.brightness,switch your illumination level to {brightness} percent
+pt-br,mark-2.brightness,switch your brightness to {brightness}
+pt-br,mark-2.brightness,switch your brightness to {brightness} percent
+pt-br,mark-2.brightness,switch your brightness level to {brightness}
+pt-br,mark-2.brightness,switch your brightness level to {brightness} percent
+pt-br,mark-2.brightness,switch your eye illumination to {brightness}
+pt-br,mark-2.brightness,switch your eye illumination to {brightness} percent
+pt-br,mark-2.brightness,switch your eye illumination level to {brightness}
+pt-br,mark-2.brightness,switch your eye illumination level to {brightness} percent
+pt-br,mark-2.brightness,switch your eye brightness to {brightness}
+pt-br,mark-2.brightness,switch your eye brightness to {brightness} percent
+pt-br,mark-2.brightness,switch your eye brightness level to {brightness}
+pt-br,mark-2.brightness,switch your eye brightness level to {brightness} percent
+pt-br,mark-2.brightness,switch the illumination to {brightness}
+pt-br,mark-2.brightness,switch the illumination to {brightness} percent
+pt-br,mark-2.brightness,switch the illumination level to {brightness}
+pt-br,mark-2.brightness,switch the illumination level to {brightness} percent
+pt-br,mark-2.brightness,switch the brightness to {brightness}
+pt-br,mark-2.brightness,switch the brightness to {brightness} percent
+pt-br,mark-2.brightness,switch the brightness level to {brightness}
+pt-br,mark-2.brightness,switch the brightness level to {brightness} percent
+pt-br,mark-2.brightness,switch the eye illumination to {brightness}
+pt-br,mark-2.brightness,switch the eye illumination to {brightness} percent
+pt-br,mark-2.brightness,switch the eye illumination level to {brightness}
+pt-br,mark-2.brightness,switch the eye illumination level to {brightness} percent
+pt-br,mark-2.brightness,switch the eye brightness to {brightness}
+pt-br,mark-2.brightness,switch the eye brightness to {brightness} percent
+pt-br,mark-2.brightness,switch the eye brightness level to {brightness}
+pt-br,mark-2.brightness,switch the eye brightness level to {brightness} percent
+pt-br,mark-2.brightness,set your illumination to {brightness}
+pt-br,mark-2.brightness,set your illumination to {brightness} percent
+pt-br,mark-2.brightness,set your illumination level to {brightness}
+pt-br,mark-2.brightness,set your illumination level to {brightness} percent
+pt-br,mark-2.brightness,set your brightness to {brightness}
+pt-br,mark-2.brightness,set your brightness to {brightness} percent
+pt-br,mark-2.brightness,set your brightness level to {brightness}
+pt-br,mark-2.brightness,set your brightness level to {brightness} percent
+pt-br,mark-2.brightness,set your eye illumination to {brightness}
+pt-br,mark-2.brightness,set your eye illumination to {brightness} percent
+pt-br,mark-2.brightness,set your eye illumination level to {brightness}
+pt-br,mark-2.brightness,set your eye illumination level to {brightness} percent
+pt-br,mark-2.brightness,set your eye brightness to {brightness}
+pt-br,mark-2.brightness,set your eye brightness to {brightness} percent
+pt-br,mark-2.brightness,set your eye brightness level to {brightness}
+pt-br,mark-2.brightness,set your eye brightness level to {brightness} percent
+pt-br,mark-2.brightness,set the illumination to {brightness}
+pt-br,mark-2.brightness,set the illumination to {brightness} percent
+pt-br,mark-2.brightness,set the illumination level to {brightness}
+pt-br,mark-2.brightness,set the illumination level to {brightness} percent
+pt-br,mark-2.brightness,set the brightness to {brightness}
+pt-br,mark-2.brightness,set the brightness to {brightness} percent
+pt-br,mark-2.brightness,set the brightness level to {brightness}
+pt-br,mark-2.brightness,set the brightness level to {brightness} percent
+pt-br,mark-2.brightness,set the eye illumination to {brightness}
+pt-br,mark-2.brightness,set the eye illumination to {brightness} percent
+pt-br,mark-2.brightness,set the eye illumination level to {brightness}
+pt-br,mark-2.brightness,set the eye illumination level to {brightness} percent
+pt-br,mark-2.brightness,set the eye brightness to {brightness}
+pt-br,mark-2.brightness,set the eye brightness to {brightness} percent
+pt-br,mark-2.brightness,set the eye brightness level to {brightness}
+pt-br,mark-2.brightness,set the eye brightness level to {brightness} percent
+pt-br,mark-2.brightness,change your illumination to {brightness}
+pt-br,mark-2.brightness,change your illumination to {brightness} percent
+pt-br,mark-2.brightness,change your illumination level to {brightness}
+pt-br,mark-2.brightness,change your illumination level to {brightness} percent
+pt-br,mark-2.brightness,change your brightness to {brightness}
+pt-br,mark-2.brightness,change your brightness to {brightness} percent
+pt-br,mark-2.brightness,change your brightness level to {brightness}
+pt-br,mark-2.brightness,change your brightness level to {brightness} percent
+pt-br,mark-2.brightness,change your eye illumination to {brightness}
+pt-br,mark-2.brightness,change your eye illumination to {brightness} percent
+pt-br,mark-2.brightness,change your eye illumination level to {brightness}
+pt-br,mark-2.brightness,change your eye illumination level to {brightness} percent
+pt-br,mark-2.brightness,change your eye brightness to {brightness}
+pt-br,mark-2.brightness,change your eye brightness to {brightness} percent
+pt-br,mark-2.brightness,change your eye brightness level to {brightness}
+pt-br,mark-2.brightness,change your eye brightness level to {brightness} percent
+pt-br,mark-2.brightness,change the illumination to {brightness}
+pt-br,mark-2.brightness,change the illumination to {brightness} percent
+pt-br,mark-2.brightness,change the illumination level to {brightness}
+pt-br,mark-2.brightness,change the illumination level to {brightness} percent
+pt-br,mark-2.brightness,change the brightness to {brightness}
+pt-br,mark-2.brightness,change the brightness to {brightness} percent
+pt-br,mark-2.brightness,change the brightness level to {brightness}
+pt-br,mark-2.brightness,change the brightness level to {brightness} percent
+pt-br,mark-2.brightness,change the eye illumination to {brightness}
+pt-br,mark-2.brightness,change the eye illumination to {brightness} percent
+pt-br,mark-2.brightness,change the eye illumination level to {brightness}
+pt-br,mark-2.brightness,change the eye illumination level to {brightness} percent
+pt-br,mark-2.brightness,change the eye brightness to {brightness}
+pt-br,mark-2.brightness,change the eye brightness to {brightness} percent
+pt-br,mark-2.brightness,change the eye brightness level to {brightness}
+pt-br,mark-2.brightness,change the eye brightness level to {brightness} percent
+pt-br,mark-2.brightness,defina da iluminação do olho
+pt-br,mark-2.brightness,defina da iluminação dos seus olhos
+pt-br,mark-2.brightness,defina da iluminação dos olhos
+pt-br,mark-2.brightness,defina do brilho do olho
+pt-br,mark-2.brightness,defina do brilho dos seus olhos
+pt-br,mark-2.brightness,defina do brilho dos olhos
+pt-br,mark-2.brightness,defina o nível da iluminação do olho
+pt-br,mark-2.brightness,defina o nível da iluminação dos seus olhos
+pt-br,mark-2.brightness,defina o nível da iluminação dos olhos
+pt-br,mark-2.brightness,defina o nível do brilho do olho
+pt-br,mark-2.brightness,defina o nível do brilho dos seus olhos
+pt-br,mark-2.brightness,defina o nível do brilho dos olhos
+pt-br,mark-2.brightness,ajuste da iluminação do olho
+pt-br,mark-2.brightness,ajuste da iluminação dos seus olhos
+pt-br,mark-2.brightness,ajuste da iluminação dos olhos
+pt-br,mark-2.brightness,ajuste do brilho do olho
+pt-br,mark-2.brightness,ajuste do brilho dos seus olhos
+pt-br,mark-2.brightness,ajuste do brilho dos olhos
+pt-br,mark-2.brightness,ajuste o nível da iluminação do olho
+pt-br,mark-2.brightness,ajuste o nível da iluminação dos seus olhos
+pt-br,mark-2.brightness,ajuste o nível da iluminação dos olhos
+pt-br,mark-2.brightness,ajuste o nível do brilho do olho
+pt-br,mark-2.brightness,ajuste o nível do brilho dos seus olhos
+pt-br,mark-2.brightness,ajuste o nível do brilho dos olhos
+pt-br,mark-2.brightness,mude da iluminação do olho
+pt-br,mark-2.brightness,mude da iluminação dos seus olhos
+pt-br,mark-2.brightness,mude da iluminação dos olhos
+pt-br,mark-2.brightness,mude do brilho do olho
+pt-br,mark-2.brightness,mude do brilho dos seus olhos
+pt-br,mark-2.brightness,mude do brilho dos olhos
+pt-br,mark-2.brightness,mude o nível da iluminação do olho
+pt-br,mark-2.brightness,mude o nível da iluminação dos seus olhos
+pt-br,mark-2.brightness,mude o nível da iluminação dos olhos
+pt-br,mark-2.brightness,mude o nível do brilho do olho
+pt-br,mark-2.brightness,mude o nível do brilho dos seus olhos
+pt-br,mark-2.brightness,mude o nível do brilho dos olhos
+pt-br,mark-2.brightness,você está muito escuro
+pt-br,mark-2.brightness,você está muito brilho
+pt-br,mark-2.brightness,você está com muito escuro
+pt-br,mark-2.brightness,você está com muito brilho
+pt-br,mark-2.brightness,você está muito escuro
+pt-br,mark-2.brightness,você está muito brilho
+pt-br,mark-2.brightness,você está com muito escuro
+pt-br,mark-2.brightness,você está com muito brilho
+pt-br,mark-2.brightness,aumente o brilho
+pt-br,mark-2.brightness,escureça um pouquinho
+pt-br,mark-2.brightness,escureça um pouco
+pt-br,mark-2.brightness.auto,definir brilho para automático
+pt-br,mark-2.brightness.auto,brilho automático
+pt-br,mark-2.device.brightness.settings,exibir configurações de brilho
+pt-br,mark-2.device.brightness.settings,exibir configurações de brilho do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações da tela inicial
+pt-br,mark-2.device.homescreen.settings,exibir configurações de rosto inativa
+pt-br,mark-2.device.homescreen.settings,exibir configurações de rosto de repouso
+pt-br,mark-2.device.homescreen.settings,exibir configurações de rosto inicial
+pt-br,mark-2.device.homescreen.settings,exibir configurações de tela inativa
+pt-br,mark-2.device.homescreen.settings,exibir configurações de tela de repouso
+pt-br,mark-2.device.homescreen.settings,exibir configurações de tela inicial
+pt-br,mark-2.device.homescreen.settings,exibir configurações de página inativa
+pt-br,mark-2.device.homescreen.settings,exibir configurações de página de repouso
+pt-br,mark-2.device.homescreen.settings,exibir configurações de página inicial
+pt-br,mark-2.device.homescreen.settings,exibir configurações da rosto inativa
+pt-br,mark-2.device.homescreen.settings,exibir configurações da rosto de repouso
+pt-br,mark-2.device.homescreen.settings,exibir configurações da rosto inicial
+pt-br,mark-2.device.homescreen.settings,exibir configurações da tela inativa
+pt-br,mark-2.device.homescreen.settings,exibir configurações da tela de repouso
+pt-br,mark-2.device.homescreen.settings,exibir configurações da tela inicial
+pt-br,mark-2.device.homescreen.settings,exibir configurações da página inativa
+pt-br,mark-2.device.homescreen.settings,exibir configurações da página de repouso
+pt-br,mark-2.device.homescreen.settings,exibir configurações da página inicial
+pt-br,mark-2.device.homescreen.settings,exibir configurações de rosto inativa do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações de rosto de repouso do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações de rosto inicial do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações de tela inativa do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações de tela de repouso do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações de tela inicial do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações de página inativa do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações de página de repouso do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações de página inicial do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações da rosto inativa do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações da rosto de repouso do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações da rosto inicial do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações da tela inativa do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações da tela de repouso do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações da tela inicial do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações da página inativa do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações da página de repouso do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações da página inicial do dispositivo
+pt-br,mark-2.device.reset.settings,exibir configurações da restauração de fábrica
+pt-br,mark-2.device.reset.settings,exibir configurações da restauração de fábrica do dispositivo
+pt-br,mark-2.device.settings,exibir configurações do dispositivo
+pt-br,mark-2.device.settings,abrir configurações
+pt-br,mark-2.device.ssh.settings,exibir configurações de ssh
+pt-br,mark-2.device.ssh.settings,exibir configurações de ssh do dispositivo
+pt-br,mark-2.device.wifi.settings,exibir tela da rede sem fio
+pt-br,mark-2.device.wifi.settings,exibir configurações sem fio
+pt-br,mark-2.device.wifi.settings,exibir configurações wifi
+pt-br,mark-2.device.wifi.settings,exibir a tela de conexões wifi
+pt-br,moviemaster.genre.movie.search,exibir curtas que são ( de ) {genre}
+pt-br,moviemaster.genre.movie.search,exibir filmes que são ( de ) {genre}
+pt-br,moviemaster.genre.movie.search,procurar curtas que são ( de ) {genre}
+pt-br,moviemaster.genre.movie.search,procurar filmes que são ( de ) {genre}
+pt-br,moviemaster.genre.movie.search,buscar curtas que são ( de ) {genre}
+pt-br,moviemaster.genre.movie.search,buscar filmes que são ( de ) {genre}
+pt-br,moviemaster.genre.movie.search,listar curtas que são ( de ) {genre}
+pt-br,moviemaster.genre.movie.search,listar filmes que são ( de ) {genre}
+pt-br,moviemaster.genre.movie.search,procurar curtas de {genre}
+pt-br,moviemaster.genre.movie.search,procurar filmes de {genre}
+pt-br,moviemaster.genre.movie.search,procurar curtas {genre}
+pt-br,moviemaster.genre.movie.search,procurar filmes {genre}
+pt-br,moviemaster.genre.movie.search,buscar curtas de {genre}
+pt-br,moviemaster.genre.movie.search,buscar filmes de {genre}
+pt-br,moviemaster.genre.movie.search,buscar curtas {genre}
+pt-br,moviemaster.genre.movie.search,buscar filmes {genre}
+pt-br,moviemaster.genre.movie.search,listar curtas de {genre}
+pt-br,moviemaster.genre.movie.search,listar filmes de {genre}
+pt-br,moviemaster.genre.movie.search,listar curtas {genre}
+pt-br,moviemaster.genre.movie.search,listar filmes {genre}
+pt-br,moviemaster.genre.tv.search,exibir seriados ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,exibir séries ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,exibir programas ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,mostrar seriados ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,mostrar séries ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,mostrar programas ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,obter seriados ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,obter séries ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,obter programas ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,buscar seriados ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,buscar séries ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,buscar programas ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,procurar seriados ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,procurar séries ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,procurar programas ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,listar seriados ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,listar séries ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,listar programas ( de TV ) que são de {genre}
+pt-br,moviemaster.genre.tv.search,pegar {genre} seriados
+pt-br,moviemaster.genre.tv.search,pegar {genre} séries
+pt-br,moviemaster.genre.tv.search,pegar {genre} programas
+pt-br,moviemaster.genre.tv.search,pegar {genre} programas de televisão
+pt-br,moviemaster.genre.tv.search,pegar {genre} programas de TV
+pt-br,moviemaster.genre.tv.search,encontrar {genre} seriados
+pt-br,moviemaster.genre.tv.search,encontrar {genre} séries
+pt-br,moviemaster.genre.tv.search,encontrar {genre} programas
+pt-br,moviemaster.genre.tv.search,encontrar {genre} programas de televisão
+pt-br,moviemaster.genre.tv.search,encontrar {genre} programas de TV
+pt-br,moviemaster.genre.tv.search,listar {genre} seriados
+pt-br,moviemaster.genre.tv.search,listar {genre} séries
+pt-br,moviemaster.genre.tv.search,listar {genre} programas
+pt-br,moviemaster.genre.tv.search,listar {genre} programas de televisão
+pt-br,moviemaster.genre.tv.search,listar {genre} programas de TV
+pt-br,moviemaster.movie.cast,quem está no curta {movie}
+pt-br,moviemaster.movie.cast,quem está no filme {movie}
+pt-br,moviemaster.movie.cast,quem estreia no curta {movie}
+pt-br,moviemaster.movie.cast,quem estreia no filme {movie}
+pt-br,moviemaster.movie.cast,quem contracena no curta {movie}
+pt-br,moviemaster.movie.cast,quem contracena no filme {movie}
+pt-br,moviemaster.movie.cast,quem atua no curta {movie}
+pt-br,moviemaster.movie.cast,quem atua no filme {movie}
+pt-br,moviemaster.movie.description,o que se trata o filme {movie}
+pt-br,moviemaster.movie.description,o que se trata é o filme {movie}
+pt-br,moviemaster.movie.description,o que o filme {movie}
+pt-br,moviemaster.movie.description,o que é o filme {movie}
+pt-br,moviemaster.movie.description,do que o filme {movie}
+pt-br,moviemaster.movie.description,do que é o filme {movie}
+pt-br,moviemaster.movie.description,de que se trata o filme {movie}
+pt-br,moviemaster.movie.description,de que se trata é o filme {movie}
+pt-br,moviemaster.movie.description,do que se trata o filme {movie}
+pt-br,moviemaster.movie.description,do que se trata é o filme {movie}
+pt-br,moviemaster.movie.description,sobre o que se trata o filme {movie}
+pt-br,moviemaster.movie.description,sobre o que se trata é o filme {movie}
+pt-br,moviemaster.movie.description,sobre o que o filme {movie}
+pt-br,moviemaster.movie.description,sobre o que é o filme {movie}
+pt-br,moviemaster.movie.description,sobre do que o filme {movie}
+pt-br,moviemaster.movie.description,sobre do que é o filme {movie}
+pt-br,moviemaster.movie.description,sobre de que se trata o filme {movie}
+pt-br,moviemaster.movie.description,sobre de que se trata é o filme {movie}
+pt-br,moviemaster.movie.description,sobre do que se trata o filme {movie}
+pt-br,moviemaster.movie.description,sobre do que se trata é o filme {movie}
+pt-br,moviemaster.movie.description,fala pra mim sobre o filme {movie}
+pt-br,moviemaster.movie.description,fale para mim sobre o filme {movie}
+pt-br,moviemaster.movie.description,conte para mim sobre o filme {movie}
+pt-br,moviemaster.movie.description,me diga sobre o filme {movie}
+pt-br,moviemaster.movie.description,me dá uma resumo do curta {movie}
+pt-br,moviemaster.movie.description,me dá uma resumo do filme {movie}
+pt-br,moviemaster.movie.description,me dá uma sinopse do curta {movie}
+pt-br,moviemaster.movie.description,me dá uma sinopse do filme {movie}
+pt-br,moviemaster.movie.description,me dá uma descrição do curta {movie}
+pt-br,moviemaster.movie.description,me dá uma descrição do filme {movie}
+pt-br,moviemaster.movie.description,me dê uma resumo do curta {movie}
+pt-br,moviemaster.movie.description,me dê uma resumo do filme {movie}
+pt-br,moviemaster.movie.description,me dê uma sinopse do curta {movie}
+pt-br,moviemaster.movie.description,me dê uma sinopse do filme {movie}
+pt-br,moviemaster.movie.description,me dê uma descrição do curta {movie}
+pt-br,moviemaster.movie.description,me dê uma descrição do filme {movie}
+pt-br,moviemaster.movie.description,nos dê uma resumo do curta {movie}
+pt-br,moviemaster.movie.description,nos dê uma resumo do filme {movie}
+pt-br,moviemaster.movie.description,nos dê uma sinopse do curta {movie}
+pt-br,moviemaster.movie.description,nos dê uma sinopse do filme {movie}
+pt-br,moviemaster.movie.description,nos dê uma descrição do curta {movie}
+pt-br,moviemaster.movie.description,nos dê uma descrição do filme {movie}
+pt-br,moviemaster.movie.description,.
+pt-br,moviemaster.movie.genres,a quais gêneros o filme {movie} pertence
+pt-br,moviemaster.movie.genres,a quais gênero o filme {movie} pertence
+pt-br,moviemaster.movie.genres,a qual gêneros o filme {movie} pertence
+pt-br,moviemaster.movie.genres,a qual gênero o filme {movie} pertence
+pt-br,moviemaster.movie.genres,qual é o gêneros do curta {movie}
+pt-br,moviemaster.movie.genres,qual é o gêneros do filme {movie}
+pt-br,moviemaster.movie.genres,qual é o gênero do curta {movie}
+pt-br,moviemaster.movie.genres,qual é o gênero do filme {movie}
+pt-br,moviemaster.movie.genres,quais são gêneros do curta {movie}
+pt-br,moviemaster.movie.genres,quais são gêneros do filme {movie}
+pt-br,moviemaster.movie.genres,quais são gênero do curta {movie}
+pt-br,moviemaster.movie.genres,quais são gênero do filme {movie}
+pt-br,moviemaster.movie.genres,quais são os gênero do filme {movie}
+pt-br,moviemaster.movie.genres,quais são os gênero do filme {movie}
+pt-br,moviemaster.movie.genres,quais são o gênero do filme {movie}
+pt-br,moviemaster.movie.genres,quais são o gênero do filme {movie}
+pt-br,moviemaster.movie.genres,quais é os gênero do filme {movie}
+pt-br,moviemaster.movie.genres,quais é os gênero do filme {movie}
+pt-br,moviemaster.movie.genres,quais é o gênero do filme {movie}
+pt-br,moviemaster.movie.genres,quais é o gênero do filme {movie}
+pt-br,moviemaster.movie.genres,qual são os gênero do filme {movie}
+pt-br,moviemaster.movie.genres,qual são os gênero do filme {movie}
+pt-br,moviemaster.movie.genres,qual são o gênero do filme {movie}
+pt-br,moviemaster.movie.genres,qual são o gênero do filme {movie}
+pt-br,moviemaster.movie.genres,qual é os gênero do filme {movie}
+pt-br,moviemaster.movie.genres,qual é os gênero do filme {movie}
+pt-br,moviemaster.movie.genres,qual é o gênero do filme {movie}
+pt-br,moviemaster.movie.genres,qual é o gênero do filme {movie}
+pt-br,moviemaster.movie.information,tem informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,tem informações do filme {movie}
+pt-br,moviemaster.movie.information,tem informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,tem informação do filme {movie}
+pt-br,moviemaster.movie.information,existe informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,existe informações do filme {movie}
+pt-br,moviemaster.movie.information,existe informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,existe informação do filme {movie}
+pt-br,moviemaster.movie.information,procure informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,procure informações do filme {movie}
+pt-br,moviemaster.movie.information,procure informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,procure informação do filme {movie}
+pt-br,moviemaster.movie.information,há informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,há informações do filme {movie}
+pt-br,moviemaster.movie.information,há informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,há informação do filme {movie}
+pt-br,moviemaster.movie.information,encontre informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,encontre informações do filme {movie}
+pt-br,moviemaster.movie.information,encontre informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,encontre informação do filme {movie}
+pt-br,moviemaster.movie.information,nos fale informações do filme {movie}
+pt-br,moviemaster.movie.information,nos fale informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,nos fale informação do filme {movie}
+pt-br,moviemaster.movie.information,nos fale informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,nos diga informações do filme {movie}
+pt-br,moviemaster.movie.information,nos diga informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,nos diga informação do filme {movie}
+pt-br,moviemaster.movie.information,nos diga informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,nos dê informações do filme {movie}
+pt-br,moviemaster.movie.information,nos dê informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,nos dê informação do filme {movie}
+pt-br,moviemaster.movie.information,nos dê informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,me fale informações do filme {movie}
+pt-br,moviemaster.movie.information,me fale informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,me fale informação do filme {movie}
+pt-br,moviemaster.movie.information,me fale informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,me diga informações do filme {movie}
+pt-br,moviemaster.movie.information,me diga informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,me diga informação do filme {movie}
+pt-br,moviemaster.movie.information,me diga informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,me dê informações do filme {movie}
+pt-br,moviemaster.movie.information,me dê informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,me dê informação do filme {movie}
+pt-br,moviemaster.movie.information,me dê informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,você consegue informações do filme {movie}
+pt-br,moviemaster.movie.information,você consegue informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,você consegue informação do filme {movie}
+pt-br,moviemaster.movie.information,você consegue informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,você pode pegar informações do filme {movie}
+pt-br,moviemaster.movie.information,você pode pegar informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,você pode pegar informação do filme {movie}
+pt-br,moviemaster.movie.information,você pode pegar informação sobre o filme {movie}
+pt-br,moviemaster.movie.information,você tem informações do filme {movie}
+pt-br,moviemaster.movie.information,você tem informações sobre o filme {movie}
+pt-br,moviemaster.movie.information,você tem informação do filme {movie}
+pt-br,moviemaster.movie.information,você tem informação sobre o filme {movie}
+pt-br,moviemaster.movie.popular,buscar curtas populares
+pt-br,moviemaster.movie.popular,buscar filmes populares
+pt-br,moviemaster.movie.popular,procurar curtas populares
+pt-br,moviemaster.movie.popular,procurar filmes populares
+pt-br,moviemaster.movie.popular,listar curtas populares
+pt-br,moviemaster.movie.popular,listar filmes populares
+pt-br,moviemaster.movie.popular,quais são os filmes populares em exibição agora
+pt-br,moviemaster.movie.popular,quais são os filmes populares em exibição
+pt-br,moviemaster.movie.popular,quais são os filmes populares exibindo agora
+pt-br,moviemaster.movie.popular,quais são os filmes populares exibindo
+pt-br,moviemaster.movie.popular,quais são os filmes populares saindo agora
+pt-br,moviemaster.movie.popular,quais são os filmes populares saindo
+pt-br,moviemaster.movie.popular,quais os filmes populares em exibição agora
+pt-br,moviemaster.movie.popular,quais os filmes populares em exibição
+pt-br,moviemaster.movie.popular,quais os filmes populares exibindo agora
+pt-br,moviemaster.movie.popular,quais os filmes populares exibindo
+pt-br,moviemaster.movie.popular,quais os filmes populares saindo agora
+pt-br,moviemaster.movie.popular,quais os filmes populares saindo
+pt-br,moviemaster.movie.production,qual estúdio fez o filme {movie}
+pt-br,moviemaster.movie.production,qual estúdio produziu o filme {movie}
+pt-br,moviemaster.movie.production,qual empresa fez o filme {movie}
+pt-br,moviemaster.movie.production,qual empresa produziu o filme {movie}
+pt-br,moviemaster.movie.production,quem fez o filme {movie}
+pt-br,moviemaster.movie.production,quem produziu o filme {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes iguais {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes iguais ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes como {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes como ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes parecidos com {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes parecidos com ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes parecidos {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes similares {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes similares ao {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomendaria como {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomendaria como ao {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomendaria similar {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomendaria similar ao {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomendaria igual {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomendaria igual ao {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomendaria parecido com {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomendaria parecido com ao {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomendaria parecido {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomendaria parecido ao {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomenda como {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomenda como ao {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomenda similar {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomenda similar ao {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomenda igual {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomenda igual ao {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomenda parecido com {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomenda parecido com ao {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomenda parecido {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você recomenda parecido ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas iguais à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas iguais ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas como à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas como ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas com à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas com ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas similares à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar fitas similares ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes iguais à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes iguais ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes como à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes como ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes com à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes com ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes similares à {movie}
+pt-br,moviemaster.movie.recommendations,recomendar filmes similares ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas iguais à {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas iguais ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas como à {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas como ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas com à {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas com ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas similares à {movie}
+pt-br,moviemaster.movie.recommendations,recomende fitas similares ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes iguais à {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes iguais ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes como à {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes como ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes com à {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes com ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes similares à {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes similares ao {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas iguais à {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas iguais ao {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas como à {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas como ao {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas com à {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas com ao {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas similares à {movie}
+pt-br,moviemaster.movie.recommendations,liste fitas similares ao {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes iguais à {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes iguais ao {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes como à {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes como ao {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes com à {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes com ao {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes similares à {movie}
+pt-br,moviemaster.movie.recommendations,liste filmes similares ao {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas iguais à {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas iguais ao {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas como à {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas como ao {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas com à {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas com ao {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas similares à {movie}
+pt-br,moviemaster.movie.recommendations,listar fitas similares ao {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes iguais à {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes iguais ao {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes como à {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes como ao {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes com à {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes com ao {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes parecidas à {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes parecidas ao {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes parecidos à {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes parecidos ao {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes similares à {movie}
+pt-br,moviemaster.movie.recommendations,listar filmes similares ao {movie}
+pt-br,moviemaster.movie.runtime,Quanto dura o fita {movie}
+pt-br,moviemaster.movie.runtime,Quanto dura o filme {movie}
+pt-br,moviemaster.movie.runtime,Quanto dura é o fita {movie}
+pt-br,moviemaster.movie.runtime,Quanto dura é o filme {movie}
+pt-br,moviemaster.movie.runtime,Quanto tempo o fita {movie}
+pt-br,moviemaster.movie.runtime,Quanto tempo o filme {movie}
+pt-br,moviemaster.movie.runtime,Quanto tempo é o fita {movie}
+pt-br,moviemaster.movie.runtime,Quanto tempo é o filme {movie}
+pt-br,moviemaster.movie.runtime,Qual é a tamanho do fita {movie}
+pt-br,moviemaster.movie.runtime,Qual é a tamanho do filme {movie}
+pt-br,moviemaster.movie.runtime,Qual é a duração do fita {movie}
+pt-br,moviemaster.movie.runtime,Qual é a duração do filme {movie}
+pt-br,moviemaster.movie.runtime,Qual é a tempo do fita {movie}
+pt-br,moviemaster.movie.runtime,Qual é a tempo do filme {movie}
+pt-br,moviemaster.movie.runtime,Qual é o tamanho do fita {movie}
+pt-br,moviemaster.movie.runtime,Qual é o tamanho do filme {movie}
+pt-br,moviemaster.movie.runtime,Qual é o duração do fita {movie}
+pt-br,moviemaster.movie.runtime,Qual é o duração do filme {movie}
+pt-br,moviemaster.movie.runtime,Qual é o tempo do fita {movie}
+pt-br,moviemaster.movie.runtime,Qual é o tempo do filme {movie}
+pt-br,moviemaster.movie.runtime,Mostre a tempo da fita {movie}
+pt-br,moviemaster.movie.runtime,Mostre a tempo da filme {movie}
+pt-br,moviemaster.movie.runtime,Mostre a tempo do fita {movie}
+pt-br,moviemaster.movie.runtime,Mostre a tempo do filme {movie}
+pt-br,moviemaster.movie.runtime,Mostre a tamanho da fita {movie}
+pt-br,moviemaster.movie.runtime,Mostre a tamanho da filme {movie}
+pt-br,moviemaster.movie.runtime,Mostre a tamanho do fita {movie}
+pt-br,moviemaster.movie.runtime,Mostre a tamanho do filme {movie}
+pt-br,moviemaster.movie.runtime,Mostre a duração da fita {movie}
+pt-br,moviemaster.movie.runtime,Mostre a duração da filme {movie}
+pt-br,moviemaster.movie.runtime,Mostre a duração do fita {movie}
+pt-br,moviemaster.movie.runtime,Mostre a duração do filme {movie}
+pt-br,moviemaster.movie.runtime,Mostre o tempo da fita {movie}
+pt-br,moviemaster.movie.runtime,Mostre o tempo da filme {movie}
+pt-br,moviemaster.movie.runtime,Mostre o tempo do fita {movie}
+pt-br,moviemaster.movie.runtime,Mostre o tempo do filme {movie}
+pt-br,moviemaster.movie.runtime,Mostre o tamanho da fita {movie}
+pt-br,moviemaster.movie.runtime,Mostre o tamanho da filme {movie}
+pt-br,moviemaster.movie.runtime,Mostre o tamanho do fita {movie}
+pt-br,moviemaster.movie.runtime,Mostre o tamanho do filme {movie}
+pt-br,moviemaster.movie.runtime,Mostre o duração da fita {movie}
+pt-br,moviemaster.movie.runtime,Mostre o duração da filme {movie}
+pt-br,moviemaster.movie.runtime,Mostre o duração do fita {movie}
+pt-br,moviemaster.movie.runtime,Mostre o duração do filme {movie}
+pt-br,moviemaster.movie.runtime,Diga a tempo da fita {movie}
+pt-br,moviemaster.movie.runtime,Diga a tempo da filme {movie}
+pt-br,moviemaster.movie.runtime,Diga a tempo do fita {movie}
+pt-br,moviemaster.movie.runtime,Diga a tempo do filme {movie}
+pt-br,moviemaster.movie.runtime,Diga a tamanho da fita {movie}
+pt-br,moviemaster.movie.runtime,Diga a tamanho da filme {movie}
+pt-br,moviemaster.movie.runtime,Diga a tamanho do fita {movie}
+pt-br,moviemaster.movie.runtime,Diga a tamanho do filme {movie}
+pt-br,moviemaster.movie.runtime,Diga a duração da fita {movie}
+pt-br,moviemaster.movie.runtime,Diga a duração da filme {movie}
+pt-br,moviemaster.movie.runtime,Diga a duração do fita {movie}
+pt-br,moviemaster.movie.runtime,Diga a duração do filme {movie}
+pt-br,moviemaster.movie.runtime,Diga o tempo da fita {movie}
+pt-br,moviemaster.movie.runtime,Diga o tempo da filme {movie}
+pt-br,moviemaster.movie.runtime,Diga o tempo do fita {movie}
+pt-br,moviemaster.movie.runtime,Diga o tempo do filme {movie}
+pt-br,moviemaster.movie.runtime,Diga o tamanho da fita {movie}
+pt-br,moviemaster.movie.runtime,Diga o tamanho da filme {movie}
+pt-br,moviemaster.movie.runtime,Diga o tamanho do fita {movie}
+pt-br,moviemaster.movie.runtime,Diga o tamanho do filme {movie}
+pt-br,moviemaster.movie.runtime,Diga o duração da fita {movie}
+pt-br,moviemaster.movie.runtime,Diga o duração da filme {movie}
+pt-br,moviemaster.movie.runtime,Diga o duração do fita {movie}
+pt-br,moviemaster.movie.runtime,Diga o duração do filme {movie}
+pt-br,moviemaster.movie.runtime,Veja a tempo da fita {movie}
+pt-br,moviemaster.movie.runtime,Veja a tempo da filme {movie}
+pt-br,moviemaster.movie.runtime,Veja a tempo do fita {movie}
+pt-br,moviemaster.movie.runtime,Veja a tempo do filme {movie}
+pt-br,moviemaster.movie.runtime,Veja a tamanho da fita {movie}
+pt-br,moviemaster.movie.runtime,Veja a tamanho da filme {movie}
+pt-br,moviemaster.movie.runtime,Veja a tamanho do fita {movie}
+pt-br,moviemaster.movie.runtime,Veja a tamanho do filme {movie}
+pt-br,moviemaster.movie.runtime,Veja a duração da fita {movie}
+pt-br,moviemaster.movie.runtime,Veja a duração da filme {movie}
+pt-br,moviemaster.movie.runtime,Veja a duração do fita {movie}
+pt-br,moviemaster.movie.runtime,Veja a duração do filme {movie}
+pt-br,moviemaster.movie.runtime,Veja o tempo da fita {movie}
+pt-br,moviemaster.movie.runtime,Veja o tempo da filme {movie}
+pt-br,moviemaster.movie.runtime,Veja o tempo do fita {movie}
+pt-br,moviemaster.movie.runtime,Veja o tempo do filme {movie}
+pt-br,moviemaster.movie.runtime,Veja o tamanho da fita {movie}
+pt-br,moviemaster.movie.runtime,Veja o tamanho da filme {movie}
+pt-br,moviemaster.movie.runtime,Veja o tamanho do fita {movie}
+pt-br,moviemaster.movie.runtime,Veja o tamanho do filme {movie}
+pt-br,moviemaster.movie.runtime,Veja o duração da fita {movie}
+pt-br,moviemaster.movie.runtime,Veja o duração da filme {movie}
+pt-br,moviemaster.movie.runtime,Veja o duração do fita {movie}
+pt-br,moviemaster.movie.runtime,Veja o duração do filme {movie}
+pt-br,moviemaster.movie.top,procure os mais cotados fitas em cartaz agora
+pt-br,moviemaster.movie.top,procure os mais cotados fitas em cartaz
+pt-br,moviemaster.movie.top,procure os mais cotados fitas em exibição agora
+pt-br,moviemaster.movie.top,procure os mais cotados fitas em exibição
+pt-br,moviemaster.movie.top,procure os mais cotados fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,procure os mais cotados fitas sendo exibidos
+pt-br,moviemaster.movie.top,procure os mais cotados fitas saindo agora
+pt-br,moviemaster.movie.top,procure os mais cotados fitas saindo
+pt-br,moviemaster.movie.top,procure os mais cotados filmes em cartaz agora
+pt-br,moviemaster.movie.top,procure os mais cotados filmes em cartaz
+pt-br,moviemaster.movie.top,procure os mais cotados filmes em exibição agora
+pt-br,moviemaster.movie.top,procure os mais cotados filmes em exibição
+pt-br,moviemaster.movie.top,procure os mais cotados filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,procure os mais cotados filmes sendo exibidos
+pt-br,moviemaster.movie.top,procure os mais cotados filmes saindo agora
+pt-br,moviemaster.movie.top,procure os mais cotados filmes saindo
+pt-br,moviemaster.movie.top,procure os mais populares fitas em cartaz agora
+pt-br,moviemaster.movie.top,procure os mais populares fitas em cartaz
+pt-br,moviemaster.movie.top,procure os mais populares fitas em exibição agora
+pt-br,moviemaster.movie.top,procure os mais populares fitas em exibição
+pt-br,moviemaster.movie.top,procure os mais populares fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,procure os mais populares fitas sendo exibidos
+pt-br,moviemaster.movie.top,procure os mais populares fitas saindo agora
+pt-br,moviemaster.movie.top,procure os mais populares fitas saindo
+pt-br,moviemaster.movie.top,procure os mais populares filmes em cartaz agora
+pt-br,moviemaster.movie.top,procure os mais populares filmes em cartaz
+pt-br,moviemaster.movie.top,procure os mais populares filmes em exibição agora
+pt-br,moviemaster.movie.top,procure os mais populares filmes em exibição
+pt-br,moviemaster.movie.top,procure os mais populares filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,procure os mais populares filmes sendo exibidos
+pt-br,moviemaster.movie.top,procure os mais populares filmes saindo agora
+pt-br,moviemaster.movie.top,procure os mais populares filmes saindo
+pt-br,moviemaster.movie.top,procure os melhores fitas em cartaz agora
+pt-br,moviemaster.movie.top,procure os melhores fitas em cartaz
+pt-br,moviemaster.movie.top,procure os melhores fitas em exibição agora
+pt-br,moviemaster.movie.top,procure os melhores fitas em exibição
+pt-br,moviemaster.movie.top,procure os melhores fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,procure os melhores fitas sendo exibidos
+pt-br,moviemaster.movie.top,procure os melhores fitas saindo agora
+pt-br,moviemaster.movie.top,procure os melhores fitas saindo
+pt-br,moviemaster.movie.top,procure os melhores filmes em cartaz agora
+pt-br,moviemaster.movie.top,procure os melhores filmes em cartaz
+pt-br,moviemaster.movie.top,procure os melhores filmes em exibição agora
+pt-br,moviemaster.movie.top,procure os melhores filmes em exibição
+pt-br,moviemaster.movie.top,procure os melhores filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,procure os melhores filmes sendo exibidos
+pt-br,moviemaster.movie.top,procure os melhores filmes saindo agora
+pt-br,moviemaster.movie.top,procure os melhores filmes saindo
+pt-br,moviemaster.movie.top,procurar os mais cotados fitas em cartaz agora
+pt-br,moviemaster.movie.top,procurar os mais cotados fitas em cartaz
+pt-br,moviemaster.movie.top,procurar os mais cotados fitas em exibição agora
+pt-br,moviemaster.movie.top,procurar os mais cotados fitas em exibição
+pt-br,moviemaster.movie.top,procurar os mais cotados fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,procurar os mais cotados fitas sendo exibidos
+pt-br,moviemaster.movie.top,procurar os mais cotados fitas saindo agora
+pt-br,moviemaster.movie.top,procurar os mais cotados fitas saindo
+pt-br,moviemaster.movie.top,procurar os mais cotados filmes em cartaz agora
+pt-br,moviemaster.movie.top,procurar os mais cotados filmes em cartaz
+pt-br,moviemaster.movie.top,procurar os mais cotados filmes em exibição agora
+pt-br,moviemaster.movie.top,procurar os mais cotados filmes em exibição
+pt-br,moviemaster.movie.top,procurar os mais cotados filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,procurar os mais cotados filmes sendo exibidos
+pt-br,moviemaster.movie.top,procurar os mais cotados filmes saindo agora
+pt-br,moviemaster.movie.top,procurar os mais cotados filmes saindo
+pt-br,moviemaster.movie.top,procurar os mais populares fitas em cartaz agora
+pt-br,moviemaster.movie.top,procurar os mais populares fitas em cartaz
+pt-br,moviemaster.movie.top,procurar os mais populares fitas em exibição agora
+pt-br,moviemaster.movie.top,procurar os mais populares fitas em exibição
+pt-br,moviemaster.movie.top,procurar os mais populares fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,procurar os mais populares fitas sendo exibidos
+pt-br,moviemaster.movie.top,procurar os mais populares fitas saindo agora
+pt-br,moviemaster.movie.top,procurar os mais populares fitas saindo
+pt-br,moviemaster.movie.top,procurar os mais populares filmes em cartaz agora
+pt-br,moviemaster.movie.top,procurar os mais populares filmes em cartaz
+pt-br,moviemaster.movie.top,procurar os mais populares filmes em exibição agora
+pt-br,moviemaster.movie.top,procurar os mais populares filmes em exibição
+pt-br,moviemaster.movie.top,procurar os mais populares filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,procurar os mais populares filmes sendo exibidos
+pt-br,moviemaster.movie.top,procurar os mais populares filmes saindo agora
+pt-br,moviemaster.movie.top,procurar os mais populares filmes saindo
+pt-br,moviemaster.movie.top,procurar os melhores fitas em cartaz agora
+pt-br,moviemaster.movie.top,procurar os melhores fitas em cartaz
+pt-br,moviemaster.movie.top,procurar os melhores fitas em exibição agora
+pt-br,moviemaster.movie.top,procurar os melhores fitas em exibição
+pt-br,moviemaster.movie.top,procurar os melhores fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,procurar os melhores fitas sendo exibidos
+pt-br,moviemaster.movie.top,procurar os melhores fitas saindo agora
+pt-br,moviemaster.movie.top,procurar os melhores fitas saindo
+pt-br,moviemaster.movie.top,procurar os melhores filmes em cartaz agora
+pt-br,moviemaster.movie.top,procurar os melhores filmes em cartaz
+pt-br,moviemaster.movie.top,procurar os melhores filmes em exibição agora
+pt-br,moviemaster.movie.top,procurar os melhores filmes em exibição
+pt-br,moviemaster.movie.top,procurar os melhores filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,procurar os melhores filmes sendo exibidos
+pt-br,moviemaster.movie.top,procurar os melhores filmes saindo agora
+pt-br,moviemaster.movie.top,procurar os melhores filmes saindo
+pt-br,moviemaster.movie.top,buscar os mais cotados fitas em cartaz agora
+pt-br,moviemaster.movie.top,buscar os mais cotados fitas em cartaz
+pt-br,moviemaster.movie.top,buscar os mais cotados fitas em exibição agora
+pt-br,moviemaster.movie.top,buscar os mais cotados fitas em exibição
+pt-br,moviemaster.movie.top,buscar os mais cotados fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,buscar os mais cotados fitas sendo exibidos
+pt-br,moviemaster.movie.top,buscar os mais cotados fitas saindo agora
+pt-br,moviemaster.movie.top,buscar os mais cotados fitas saindo
+pt-br,moviemaster.movie.top,buscar os mais cotados filmes em cartaz agora
+pt-br,moviemaster.movie.top,buscar os mais cotados filmes em cartaz
+pt-br,moviemaster.movie.top,buscar os mais cotados filmes em exibição agora
+pt-br,moviemaster.movie.top,buscar os mais cotados filmes em exibição
+pt-br,moviemaster.movie.top,buscar os mais cotados filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,buscar os mais cotados filmes sendo exibidos
+pt-br,moviemaster.movie.top,buscar os mais cotados filmes saindo agora
+pt-br,moviemaster.movie.top,buscar os mais cotados filmes saindo
+pt-br,moviemaster.movie.top,buscar os mais populares fitas em cartaz agora
+pt-br,moviemaster.movie.top,buscar os mais populares fitas em cartaz
+pt-br,moviemaster.movie.top,buscar os mais populares fitas em exibição agora
+pt-br,moviemaster.movie.top,buscar os mais populares fitas em exibição
+pt-br,moviemaster.movie.top,buscar os mais populares fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,buscar os mais populares fitas sendo exibidos
+pt-br,moviemaster.movie.top,buscar os mais populares fitas saindo agora
+pt-br,moviemaster.movie.top,buscar os mais populares fitas saindo
+pt-br,moviemaster.movie.top,buscar os mais populares filmes em cartaz agora
+pt-br,moviemaster.movie.top,buscar os mais populares filmes em cartaz
+pt-br,moviemaster.movie.top,buscar os mais populares filmes em exibição agora
+pt-br,moviemaster.movie.top,buscar os mais populares filmes em exibição
+pt-br,moviemaster.movie.top,buscar os mais populares filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,buscar os mais populares filmes sendo exibidos
+pt-br,moviemaster.movie.top,buscar os mais populares filmes saindo agora
+pt-br,moviemaster.movie.top,buscar os mais populares filmes saindo
+pt-br,moviemaster.movie.top,buscar os melhores fitas em cartaz agora
+pt-br,moviemaster.movie.top,buscar os melhores fitas em cartaz
+pt-br,moviemaster.movie.top,buscar os melhores fitas em exibição agora
+pt-br,moviemaster.movie.top,buscar os melhores fitas em exibição
+pt-br,moviemaster.movie.top,buscar os melhores fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,buscar os melhores fitas sendo exibidos
+pt-br,moviemaster.movie.top,buscar os melhores fitas saindo agora
+pt-br,moviemaster.movie.top,buscar os melhores fitas saindo
+pt-br,moviemaster.movie.top,buscar os melhores filmes em cartaz agora
+pt-br,moviemaster.movie.top,buscar os melhores filmes em cartaz
+pt-br,moviemaster.movie.top,buscar os melhores filmes em exibição agora
+pt-br,moviemaster.movie.top,buscar os melhores filmes em exibição
+pt-br,moviemaster.movie.top,buscar os melhores filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,buscar os melhores filmes sendo exibidos
+pt-br,moviemaster.movie.top,buscar os melhores filmes saindo agora
+pt-br,moviemaster.movie.top,buscar os melhores filmes saindo
+pt-br,moviemaster.movie.top,busque os mais cotados fitas em cartaz agora
+pt-br,moviemaster.movie.top,busque os mais cotados fitas em cartaz
+pt-br,moviemaster.movie.top,busque os mais cotados fitas em exibição agora
+pt-br,moviemaster.movie.top,busque os mais cotados fitas em exibição
+pt-br,moviemaster.movie.top,busque os mais cotados fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,busque os mais cotados fitas sendo exibidos
+pt-br,moviemaster.movie.top,busque os mais cotados fitas saindo agora
+pt-br,moviemaster.movie.top,busque os mais cotados fitas saindo
+pt-br,moviemaster.movie.top,busque os mais cotados filmes em cartaz agora
+pt-br,moviemaster.movie.top,busque os mais cotados filmes em cartaz
+pt-br,moviemaster.movie.top,busque os mais cotados filmes em exibição agora
+pt-br,moviemaster.movie.top,busque os mais cotados filmes em exibição
+pt-br,moviemaster.movie.top,busque os mais cotados filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,busque os mais cotados filmes sendo exibidos
+pt-br,moviemaster.movie.top,busque os mais cotados filmes saindo agora
+pt-br,moviemaster.movie.top,busque os mais cotados filmes saindo
+pt-br,moviemaster.movie.top,busque os mais populares fitas em cartaz agora
+pt-br,moviemaster.movie.top,busque os mais populares fitas em cartaz
+pt-br,moviemaster.movie.top,busque os mais populares fitas em exibição agora
+pt-br,moviemaster.movie.top,busque os mais populares fitas em exibição
+pt-br,moviemaster.movie.top,busque os mais populares fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,busque os mais populares fitas sendo exibidos
+pt-br,moviemaster.movie.top,busque os mais populares fitas saindo agora
+pt-br,moviemaster.movie.top,busque os mais populares fitas saindo
+pt-br,moviemaster.movie.top,busque os mais populares filmes em cartaz agora
+pt-br,moviemaster.movie.top,busque os mais populares filmes em cartaz
+pt-br,moviemaster.movie.top,busque os mais populares filmes em exibição agora
+pt-br,moviemaster.movie.top,busque os mais populares filmes em exibição
+pt-br,moviemaster.movie.top,busque os mais populares filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,busque os mais populares filmes sendo exibidos
+pt-br,moviemaster.movie.top,busque os mais populares filmes saindo agora
+pt-br,moviemaster.movie.top,busque os mais populares filmes saindo
+pt-br,moviemaster.movie.top,busque os melhores fitas em cartaz agora
+pt-br,moviemaster.movie.top,busque os melhores fitas em cartaz
+pt-br,moviemaster.movie.top,busque os melhores fitas em exibição agora
+pt-br,moviemaster.movie.top,busque os melhores fitas em exibição
+pt-br,moviemaster.movie.top,busque os melhores fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,busque os melhores fitas sendo exibidos
+pt-br,moviemaster.movie.top,busque os melhores fitas saindo agora
+pt-br,moviemaster.movie.top,busque os melhores fitas saindo
+pt-br,moviemaster.movie.top,busque os melhores filmes em cartaz agora
+pt-br,moviemaster.movie.top,busque os melhores filmes em cartaz
+pt-br,moviemaster.movie.top,busque os melhores filmes em exibição agora
+pt-br,moviemaster.movie.top,busque os melhores filmes em exibição
+pt-br,moviemaster.movie.top,busque os melhores filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,busque os melhores filmes sendo exibidos
+pt-br,moviemaster.movie.top,busque os melhores filmes saindo agora
+pt-br,moviemaster.movie.top,busque os melhores filmes saindo
+pt-br,moviemaster.movie.top,quais são os mais cotados fitas em cartaz agora
+pt-br,moviemaster.movie.top,quais são os mais cotados fitas em cartaz
+pt-br,moviemaster.movie.top,quais são os mais cotados fitas em exibição agora
+pt-br,moviemaster.movie.top,quais são os mais cotados fitas em exibição
+pt-br,moviemaster.movie.top,quais são os mais cotados fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,quais são os mais cotados fitas sendo exibidos
+pt-br,moviemaster.movie.top,quais são os mais cotados fitas saindo agora
+pt-br,moviemaster.movie.top,quais são os mais cotados fitas saindo
+pt-br,moviemaster.movie.top,quais são os mais cotados filmes em cartaz agora
+pt-br,moviemaster.movie.top,quais são os mais cotados filmes em cartaz
+pt-br,moviemaster.movie.top,quais são os mais cotados filmes em exibição agora
+pt-br,moviemaster.movie.top,quais são os mais cotados filmes em exibição
+pt-br,moviemaster.movie.top,quais são os mais cotados filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,quais são os mais cotados filmes sendo exibidos
+pt-br,moviemaster.movie.top,quais são os mais cotados filmes saindo agora
+pt-br,moviemaster.movie.top,quais são os mais cotados filmes saindo
+pt-br,moviemaster.movie.top,quais são os mais populares fitas em cartaz agora
+pt-br,moviemaster.movie.top,quais são os mais populares fitas em cartaz
+pt-br,moviemaster.movie.top,quais são os mais populares fitas em exibição agora
+pt-br,moviemaster.movie.top,quais são os mais populares fitas em exibição
+pt-br,moviemaster.movie.top,quais são os mais populares fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,quais são os mais populares fitas sendo exibidos
+pt-br,moviemaster.movie.top,quais são os mais populares fitas saindo agora
+pt-br,moviemaster.movie.top,quais são os mais populares fitas saindo
+pt-br,moviemaster.movie.top,quais são os mais populares filmes em cartaz agora
+pt-br,moviemaster.movie.top,quais são os mais populares filmes em cartaz
+pt-br,moviemaster.movie.top,quais são os mais populares filmes em exibição agora
+pt-br,moviemaster.movie.top,quais são os mais populares filmes em exibição
+pt-br,moviemaster.movie.top,quais são os mais populares filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,quais são os mais populares filmes sendo exibidos
+pt-br,moviemaster.movie.top,quais são os mais populares filmes saindo agora
+pt-br,moviemaster.movie.top,quais são os mais populares filmes saindo
+pt-br,moviemaster.movie.top,quais são os melhores fitas em cartaz agora
+pt-br,moviemaster.movie.top,quais são os melhores fitas em cartaz
+pt-br,moviemaster.movie.top,quais são os melhores fitas em exibição agora
+pt-br,moviemaster.movie.top,quais são os melhores fitas em exibição
+pt-br,moviemaster.movie.top,quais são os melhores fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,quais são os melhores fitas sendo exibidos
+pt-br,moviemaster.movie.top,quais são os melhores fitas saindo agora
+pt-br,moviemaster.movie.top,quais são os melhores fitas saindo
+pt-br,moviemaster.movie.top,quais são os melhores filmes em cartaz agora
+pt-br,moviemaster.movie.top,quais são os melhores filmes em cartaz
+pt-br,moviemaster.movie.top,quais são os melhores filmes em exibição agora
+pt-br,moviemaster.movie.top,quais são os melhores filmes em exibição
+pt-br,moviemaster.movie.top,quais são os melhores filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,quais são os melhores filmes sendo exibidos
+pt-br,moviemaster.movie.top,quais são os melhores filmes saindo agora
+pt-br,moviemaster.movie.top,quais são os melhores filmes saindo
+pt-br,moviemaster.movie.top,liste os mais cotados fitas em cartaz agora
+pt-br,moviemaster.movie.top,liste os mais cotados fitas em cartaz
+pt-br,moviemaster.movie.top,liste os mais cotados fitas em exibição agora
+pt-br,moviemaster.movie.top,liste os mais cotados fitas em exibição
+pt-br,moviemaster.movie.top,liste os mais cotados fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,liste os mais cotados fitas sendo exibidos
+pt-br,moviemaster.movie.top,liste os mais cotados fitas saindo agora
+pt-br,moviemaster.movie.top,liste os mais cotados fitas saindo
+pt-br,moviemaster.movie.top,liste os mais cotados filmes em cartaz agora
+pt-br,moviemaster.movie.top,liste os mais cotados filmes em cartaz
+pt-br,moviemaster.movie.top,liste os mais cotados filmes em exibição agora
+pt-br,moviemaster.movie.top,liste os mais cotados filmes em exibição
+pt-br,moviemaster.movie.top,liste os mais cotados filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,liste os mais cotados filmes sendo exibidos
+pt-br,moviemaster.movie.top,liste os mais cotados filmes saindo agora
+pt-br,moviemaster.movie.top,liste os mais cotados filmes saindo
+pt-br,moviemaster.movie.top,liste os mais populares fitas em cartaz agora
+pt-br,moviemaster.movie.top,liste os mais populares fitas em cartaz
+pt-br,moviemaster.movie.top,liste os mais populares fitas em exibição agora
+pt-br,moviemaster.movie.top,liste os mais populares fitas em exibição
+pt-br,moviemaster.movie.top,liste os mais populares fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,liste os mais populares fitas sendo exibidos
+pt-br,moviemaster.movie.top,liste os mais populares fitas saindo agora
+pt-br,moviemaster.movie.top,liste os mais populares fitas saindo
+pt-br,moviemaster.movie.top,liste os mais populares filmes em cartaz agora
+pt-br,moviemaster.movie.top,liste os mais populares filmes em cartaz
+pt-br,moviemaster.movie.top,liste os mais populares filmes em exibição agora
+pt-br,moviemaster.movie.top,liste os mais populares filmes em exibição
+pt-br,moviemaster.movie.top,liste os mais populares filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,liste os mais populares filmes sendo exibidos
+pt-br,moviemaster.movie.top,liste os mais populares filmes saindo agora
+pt-br,moviemaster.movie.top,liste os mais populares filmes saindo
+pt-br,moviemaster.movie.top,liste os melhores fitas em cartaz agora
+pt-br,moviemaster.movie.top,liste os melhores fitas em cartaz
+pt-br,moviemaster.movie.top,liste os melhores fitas em exibição agora
+pt-br,moviemaster.movie.top,liste os melhores fitas em exibição
+pt-br,moviemaster.movie.top,liste os melhores fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,liste os melhores fitas sendo exibidos
+pt-br,moviemaster.movie.top,liste os melhores fitas saindo agora
+pt-br,moviemaster.movie.top,liste os melhores fitas saindo
+pt-br,moviemaster.movie.top,liste os melhores filmes em cartaz agora
+pt-br,moviemaster.movie.top,liste os melhores filmes em cartaz
+pt-br,moviemaster.movie.top,liste os melhores filmes em exibição agora
+pt-br,moviemaster.movie.top,liste os melhores filmes em exibição
+pt-br,moviemaster.movie.top,liste os melhores filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,liste os melhores filmes sendo exibidos
+pt-br,moviemaster.movie.top,liste os melhores filmes saindo agora
+pt-br,moviemaster.movie.top,liste os melhores filmes saindo
+pt-br,moviemaster.movie.top,listar os mais cotados fitas em cartaz agora
+pt-br,moviemaster.movie.top,listar os mais cotados fitas em cartaz
+pt-br,moviemaster.movie.top,listar os mais cotados fitas em exibição agora
+pt-br,moviemaster.movie.top,listar os mais cotados fitas em exibição
+pt-br,moviemaster.movie.top,listar os mais cotados fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,listar os mais cotados fitas sendo exibidos
+pt-br,moviemaster.movie.top,listar os mais cotados fitas saindo agora
+pt-br,moviemaster.movie.top,listar os mais cotados fitas saindo
+pt-br,moviemaster.movie.top,listar os mais cotados filmes em cartaz agora
+pt-br,moviemaster.movie.top,listar os mais cotados filmes em cartaz
+pt-br,moviemaster.movie.top,listar os mais cotados filmes em exibição agora
+pt-br,moviemaster.movie.top,listar os mais cotados filmes em exibição
+pt-br,moviemaster.movie.top,listar os mais cotados filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,listar os mais cotados filmes sendo exibidos
+pt-br,moviemaster.movie.top,listar os mais cotados filmes saindo agora
+pt-br,moviemaster.movie.top,listar os mais cotados filmes saindo
+pt-br,moviemaster.movie.top,listar os mais populares fitas em cartaz agora
+pt-br,moviemaster.movie.top,listar os mais populares fitas em cartaz
+pt-br,moviemaster.movie.top,listar os mais populares fitas em exibição agora
+pt-br,moviemaster.movie.top,listar os mais populares fitas em exibição
+pt-br,moviemaster.movie.top,listar os mais populares fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,listar os mais populares fitas sendo exibidos
+pt-br,moviemaster.movie.top,listar os mais populares fitas saindo agora
+pt-br,moviemaster.movie.top,listar os mais populares fitas saindo
+pt-br,moviemaster.movie.top,listar os mais populares filmes em cartaz agora
+pt-br,moviemaster.movie.top,listar os mais populares filmes em cartaz
+pt-br,moviemaster.movie.top,listar os mais populares filmes em exibição agora
+pt-br,moviemaster.movie.top,listar os mais populares filmes em exibição
+pt-br,moviemaster.movie.top,listar os mais populares filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,listar os mais populares filmes sendo exibidos
+pt-br,moviemaster.movie.top,listar os mais populares filmes saindo agora
+pt-br,moviemaster.movie.top,listar os mais populares filmes saindo
+pt-br,moviemaster.movie.top,listar os melhores fitas em cartaz agora
+pt-br,moviemaster.movie.top,listar os melhores fitas em cartaz
+pt-br,moviemaster.movie.top,listar os melhores fitas em exibição agora
+pt-br,moviemaster.movie.top,listar os melhores fitas em exibição
+pt-br,moviemaster.movie.top,listar os melhores fitas sendo exibidos agora
+pt-br,moviemaster.movie.top,listar os melhores fitas sendo exibidos
+pt-br,moviemaster.movie.top,listar os melhores fitas saindo agora
+pt-br,moviemaster.movie.top,listar os melhores fitas saindo
+pt-br,moviemaster.movie.top,listar os melhores filmes em cartaz agora
+pt-br,moviemaster.movie.top,listar os melhores filmes em cartaz
+pt-br,moviemaster.movie.top,listar os melhores filmes em exibição agora
+pt-br,moviemaster.movie.top,listar os melhores filmes em exibição
+pt-br,moviemaster.movie.top,listar os melhores filmes sendo exibidos agora
+pt-br,moviemaster.movie.top,listar os melhores filmes sendo exibidos
+pt-br,moviemaster.movie.top,listar os melhores filmes saindo agora
+pt-br,moviemaster.movie.top,listar os melhores filmes saindo
+pt-br,moviemaster.movie.year,em qual ano a fita {movie} foi lançado
+pt-br,moviemaster.movie.year,em qual ano a fita {movie} foi feito
+pt-br,moviemaster.movie.year,em qual ano a filme {movie} foi lançado
+pt-br,moviemaster.movie.year,em qual ano a filme {movie} foi feito
+pt-br,moviemaster.movie.year,em qual ano o fita {movie} foi lançado
+pt-br,moviemaster.movie.year,em qual ano o fita {movie} foi feito
+pt-br,moviemaster.movie.year,em qual ano o filme {movie} foi lançado
+pt-br,moviemaster.movie.year,em qual ano o filme {movie} foi feito
+pt-br,moviemaster.movie.year,em qual data a fita {movie} foi lançado
+pt-br,moviemaster.movie.year,em qual data a fita {movie} foi feito
+pt-br,moviemaster.movie.year,em qual data a filme {movie} foi lançado
+pt-br,moviemaster.movie.year,em qual data a filme {movie} foi feito
+pt-br,moviemaster.movie.year,em qual data o fita {movie} foi lançado
+pt-br,moviemaster.movie.year,em qual data o fita {movie} foi feito
+pt-br,moviemaster.movie.year,em qual data o filme {movie} foi lançado
+pt-br,moviemaster.movie.year,em qual data o filme {movie} foi feito
+pt-br,moviemaster.movie.year,em que data a fita {movie} foi lançado
+pt-br,moviemaster.movie.year,em que data a fita {movie} foi feito
+pt-br,moviemaster.movie.year,em que data a filme {movie} foi lançado
+pt-br,moviemaster.movie.year,em que data a filme {movie} foi feito
+pt-br,moviemaster.movie.year,em que data o fita {movie} foi lançado
+pt-br,moviemaster.movie.year,em que data o fita {movie} foi feito
+pt-br,moviemaster.movie.year,em que data o filme {movie} foi lançado
+pt-br,moviemaster.movie.year,em que data o filme {movie} foi feito
+pt-br,moviemaster.movie.year,quando a fita {movie} foi lançado
+pt-br,moviemaster.movie.year,quando a fita {movie} foi feito
+pt-br,moviemaster.movie.year,quando a filme {movie} foi lançado
+pt-br,moviemaster.movie.year,quando a filme {movie} foi feito
+pt-br,moviemaster.movie.year,quando o fita {movie} foi lançado
+pt-br,moviemaster.movie.year,quando o fita {movie} foi feito
+pt-br,moviemaster.movie.year,quando o filme {movie} foi lançado
+pt-br,moviemaster.movie.year,quando o filme {movie} foi feito
+pt-br,moviemaster.movie.year,em que ano a fita {movie} foi lançado
+pt-br,moviemaster.movie.year,em que ano a fita {movie} foi feito
+pt-br,moviemaster.movie.year,em que ano a filme {movie} foi lançado
+pt-br,moviemaster.movie.year,em que ano a filme {movie} foi feito
+pt-br,moviemaster.movie.year,em que ano o fita {movie} foi lançado
+pt-br,moviemaster.movie.year,em que ano o fita {movie} foi feito
+pt-br,moviemaster.movie.year,em que ano o filme {movie} foi lançado
+pt-br,moviemaster.movie.year,em que ano o filme {movie} foi feito
+pt-br,theia-ide-skill.restart,Reiniciar IDE
+pt-br,theia-ide-skill.start,Ativar IDE
+pt-br,theia-ide-skill.stop,Desativar IDE
+pt-br,wikiquote-skill.random,me fale uma provérbio
+pt-br,wikiquote-skill.random,me fale uma citação
+pt-br,wikiquote-skill.random,me fale alguma provérbio
+pt-br,wikiquote-skill.random,me fale alguma citação
+pt-br,wikiquote-skill.random,me fale um provérbio
+pt-br,wikiquote-skill.random,me fale um citação
+pt-br,wikiquote-skill.random,me fale algum provérbio
+pt-br,wikiquote-skill.random,me fale algum citação
+pt-br,wikiquote-skill.random,me diga uma provérbio
+pt-br,wikiquote-skill.random,me diga uma citação
+pt-br,wikiquote-skill.random,me diga alguma provérbio
+pt-br,wikiquote-skill.random,me diga alguma citação
+pt-br,wikiquote-skill.random,me diga um provérbio
+pt-br,wikiquote-skill.random,me diga um citação
+pt-br,wikiquote-skill.random,me diga algum provérbio
+pt-br,wikiquote-skill.random,me diga algum citação
+pt-br,wikiquote-skill.random,me mostre alguma provérbio
+pt-br,wikiquote-skill.random,me mostre alguma citação
+pt-br,wikiquote-skill.random,me mostre uma provérbio
+pt-br,wikiquote-skill.random,me mostre uma citação
+pt-br,wikiquote-skill.random,me mostre algum provérbio
+pt-br,wikiquote-skill.random,me mostre algum citação
+pt-br,wikiquote-skill.random,me mostre um provérbio
+pt-br,wikiquote-skill.random,me mostre um citação
+pt-br,wikiquote-skill.random,me dê alguma provérbio
+pt-br,wikiquote-skill.random,me dê alguma citação
+pt-br,wikiquote-skill.random,me dê uma provérbio
+pt-br,wikiquote-skill.random,me dê uma citação
+pt-br,wikiquote-skill.random,me dê algum provérbio
+pt-br,wikiquote-skill.random,me dê algum citação
+pt-br,wikiquote-skill.random,me dê um provérbio
+pt-br,wikiquote-skill.random,me dê um citação
+pt-br,wikiquote-skill.random,Preciso de algum provérbio
+pt-br,wikiquote-skill.random,Preciso de algum conselho
+pt-br,wikiquote-skill.specific,me fale uma provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,me fale uma citação sobre {subject}
+pt-br,wikiquote-skill.specific,me fale alguma provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,me fale alguma citação sobre {subject}
+pt-br,wikiquote-skill.specific,me fale um provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,me fale um citação sobre {subject}
+pt-br,wikiquote-skill.specific,me fale algum provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,me fale algum citação sobre {subject}
+pt-br,wikiquote-skill.specific,me diga uma provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,me diga uma citação sobre {subject}
+pt-br,wikiquote-skill.specific,me diga alguma provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,me diga alguma citação sobre {subject}
+pt-br,wikiquote-skill.specific,me diga um provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,me diga um citação sobre {subject}
+pt-br,wikiquote-skill.specific,me diga algum provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,me diga algum citação sobre {subject}
+pt-br,wikiquote-skill.specific,Me mostre uma provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,Me mostre uma citação sobre {subject}
+pt-br,wikiquote-skill.specific,Me mostre alguma provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,Me mostre alguma citação sobre {subject}
+pt-br,wikiquote-skill.specific,Me mostre um provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,Me mostre um citação sobre {subject}
+pt-br,wikiquote-skill.specific,Me mostre algum provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,Me mostre algum citação sobre {subject}
+pt-br,wikiquote-skill.specific,Me dê uma provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,Me dê uma citação sobre {subject}
+pt-br,wikiquote-skill.specific,Me dê alguma provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,Me dê alguma citação sobre {subject}
+pt-br,wikiquote-skill.specific,Me dê um provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,Me dê um citação sobre {subject}
+pt-br,wikiquote-skill.specific,Me dê algum provérbio sobre {subject}
+pt-br,wikiquote-skill.specific,Me dê algum citação sobre {subject}
+pt-br,wikiquote-skill.specific,Eu preciso de algum citação sobre
+pt-br,wikiquote-skill.specific,Eu preciso de algum citação de} {subject}
+pt-br,wikiquote-skill.specific,Eu preciso de algum provérbio sobre
+pt-br,wikiquote-skill.specific,Eu preciso de algum provérbio de} {subject}
+pt-br,wikiquote-skill.specific,Eu preciso de alguma citação sobre
+pt-br,wikiquote-skill.specific,Eu preciso de alguma citação de} {subject}
+pt-br,wikiquote-skill.specific,Eu preciso de alguma provérbio sobre
+pt-br,wikiquote-skill.specific,Eu preciso de alguma provérbio de} {subject}
+pt-br,wikiquote-skill.specific,me fale uma citação sobre {subject}
+pt-br,wikiquote-skill.specific,me fale uma citação de {subject}
+pt-br,wikiquote-skill.specific,me diga uma citação sobre {subject}
+pt-br,wikiquote-skill.specific,me diga uma citação de {subject}
+pt-br,wikiquote-skill.specific,me mostre uma citação sobre {subject}
+pt-br,wikiquote-skill.specific,me mostre uma citação de {subject}
+pt-br,wikiquote-skill.specific,me dê uma citação sobre {subject}
+pt-br,wikiquote-skill.specific,me dê uma citação de {subject}
+pt-br,wikiquote-skill.specific,Eu preciso de uma citação sobre {subject}
+pt-br,wikiquote-skill.specific,Eu preciso de uma citação de {subject}

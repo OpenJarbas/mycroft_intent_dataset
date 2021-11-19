@@ -1,0 +1,61 @@
+{
+  "gl-es": {
+    "cocktail.Needed": [
+      "que \u00e9 necesario para facer (un|unha) {drink}",
+      "que (eu|vostede) (precisa|preciso) para facer (o|um) {drink}",
+      "(cales|cal) (son|\u00e9) (os|o) (ingredientes|ingrediente) (de|para) (un|unha) {drink}"
+    ],
+    "cocktail.Recipie": [
+      "como (eu|vostede) (facer|preparar) (un|unha) {drink}",
+      "di (me|nos) como (facer|preparar) (un|unha) {drink}",
+      "d\u00e1 (me|nos) instruci\u00f3ns para preparar (un|unha) {drink}",
+      "como (facer|preparar) (un|unha) {drink}",
+      "cal \u00e9 a receita para (un|unha) {drink}"
+    ],
+    "email-skill.check.email": [
+      "revisa o meu correo",
+      "revisa o meu correo",
+      "te\u00f1o alg\u00fan correo",
+      "te\u00f1o alg\u00fan correo",
+      "te\u00f1o alg\u00fan correo novo"
+    ],
+    "email-skill.enquire.email": [
+      "Te\u00f1o alg\u00fan correo de {email}?",
+      "Te\u00f1o (alg\u00fan|) correo de {email}?",
+      "Recib\u00edn alg\u00fan correo de {email}?"
+    ],
+    "email-skill.notify": [
+      "(inf\u00f3rmame|f\u00e1lame) sobre (o|os) (novo|novos) (correo|correos)",
+      "(inf\u00f3rmame|f\u00e1lame) cando eu reciba (novo|novos) (correo|correos)",
+      "(inf\u00f3rmame|av\u00edsame|f\u00e1lame) sobre (correo|correos) de {sender}",
+      "(inf\u00f3rmame|av\u00edsame|f\u00e1lame) sobre (correo|correos) de {sender}",
+      "(inf\u00f3rmame|f\u00e1lame) sobre (o|os) (novo|novos) (correo|correos)",
+      "(notif\u00edcame|av\u00edsame) sobre (os|) (correos | novos correos) ( de | enviados por ) {sender}",
+      "(inf\u00f3rmame|f\u00e1lame) cando eu reciba (novo|novos) (correo|correos)",
+      "(inf\u00f3rmame|av\u00edsame|f\u00e1lame) sobre (correo|correos) de {sender}"
+    ],
+    "email-skill.stop": [
+      "Non me (notifiques|avises) sobre ( correo | correos | novos correos)",
+      "non me (notifiques|avises) sobre ( correo | correos | novos correos) (de ) {sender}",
+      "non me (notifiques|avises) m\u00e1is sobre ( correo | correos | novos correos)",
+      "non me (notifiques|avises) m\u00e1is sobre ( correo | correos | novos correos) (de) {sender}",
+      "non me (avises) m\u00e1is sobre ( correo | correos | novos correos)",
+      "non me (avises) m\u00e1is sobre ( correo | correos | novos correos) (de) {sender}",
+      "non me (avises) m\u00e1is sobre ( correo | correos | novos correos)",
+      "non me (avises) m\u00e1is sobre ( correo | correos | novos correos) (de) {sender}"
+    ],
+    "emby-skill.diagnostic": [
+      "verificar a conexi\u00f3n (emby|mb|mv|nv|emily)",
+      "executar diagn\u00f3stico (emby|mb|mv|nv|emily)",
+      "verificar (emby|mb|mv|nv|emily)"
+    ],
+    "emby-skill.emby": [
+      "tocar {media} proveniente do emby",
+      "tocar {media} proveniente do mb",
+      "tocando artista {artist} proveniente de emby",
+      "tocando artista {artist} proveniente do mb",
+      "tocando \u00e1lbum {album} `proveniente de emby",
+      "tocar \u00e1lbum{album} proveniente de mb"
+    ]
+  }
+}

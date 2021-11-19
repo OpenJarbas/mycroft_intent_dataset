@@ -1,0 +1,297 @@
+{
+  "sv-se": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "kristallkula",
+      "Spegel spegel"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "framtid",
+      "framtiden",
+      "imorgon"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "ber\u00e4tta",
+      "Vad"
+    ],
+    "Number-Guess-Mycroft-Skill.NumberGuess": [
+      "Nummer gissning",
+      "nummergissningslek"
+    ],
+    "Number-Guess-Mycroft-Skill.Play": [
+      "Spela",
+      "Starta ett spel"
+    ],
+    "Number-Guess-Mycroft-Skill.Suggest": [
+      "Ska vi",
+      "L\u00e5t oss",
+      "Skulle vi inte",
+      "Vi kanske skulle",
+      "Vi borde"
+    ],
+    "aircrack.Clients": [
+      "klient",
+      "klienter",
+      "anslutning",
+      "anslutningar"
+    ],
+    "aircrack.Crack": [
+      "hacka"
+    ],
+    "aircrack.Deauth": [
+      "koppla ner"
+    ],
+    "aircrack.Interface": [
+      "enheter",
+      "gr\u00e4nssnitt",
+      "enhet",
+      "gr\u00e4nssnitt"
+    ],
+    "aircrack.List": [
+      "lista",
+      "skanna"
+    ],
+    "aircrack.Monitor": [
+      "\u00f6vervaka",
+      "\u00f6vervakning"
+    ],
+    "aircrack.Network": [
+      "tr\u00e5dl\u00f6sa n\u00e4tverk",
+      "n\u00e4tverk",
+      "tr\u00e5dl\u00f6sa n\u00e4tverk",
+      "n\u00e4tverk",
+      "wifi n\u00e4tverk",
+      "wifi n\u00e4tverk"
+    ],
+    "aircrack.Password": [
+      "l\u00f6senord",
+      "l\u00f6senord"
+    ],
+    "aircrack.Select": [
+      "v\u00e4lj",
+      "anv\u00e4nd"
+    ],
+    "aircrack.Start": [
+      "starta",
+      "b\u00f6rja"
+    ],
+    "aircrack.Stop": [
+      "stoppa",
+      "slut"
+    ],
+    "cocktail.Again": [
+      "nu igen"
+    ],
+    "cocktail.Ingredients": [
+      "ingrediens",
+      "ingredienser"
+    ],
+    "cocktail.TellMe": [
+      "vad \u00e4r",
+      "ber\u00e4tta"
+    ],
+    "cocktail.What": [
+      "vad var",
+      "vad var"
+    ],
+    "decide-skill.DecideKeyword": [
+      "V\u00e4lj",
+      "best\u00e4m",
+      "Vad ska jag ha p\u00e5 mig",
+      "Vad ska jag \u00e4ta",
+      "spel"
+    ],
+    "fallback-aiml.Memory": [
+      "hj\u00e4rna",
+      "minne",
+      "sinne",
+      "allting"
+    ],
+    "fallback-aiml.Reset": [
+      "gl\u00f6m",
+      "\u00e5terst\u00e4ll"
+    ],
+    "fallback-unknown.question": [
+      "vad \u00e4r",
+      "vad kommer",
+      "vad var",
+      "vad g\u00f6r",
+      "var \u00e4r",
+      "vart \u00e4r",
+      "var kommer",
+      "vart kommer",
+      "var gjorde",
+      "vart gjorde",
+      "var g\u00f6r",
+      "vart g\u00f6r",
+      "n\u00e4r \u00e4r",
+      "n\u00e4r kommer",
+      "n\u00e4r g\u00f6r",
+      "n\u00e4r gjorde"
+    ],
+    "fallback-unknown.who.is": [
+      "vem \u00e4r",
+      "vem kommer",
+      "vem gjorde",
+      "vem g\u00f6r",
+      "vem ska"
+    ],
+    "fallback-unknown.why.is": [
+      "varf\u00f6r \u00e4r",
+      "varf\u00f6r ska",
+      "varf\u00f6r kommer",
+      "varf\u00f6r gjorde",
+      "varf\u00f6r g\u00f6r"
+    ],
+    "ip.IP": [
+      "IP adress",
+      "IP-adress",
+      "IP",
+      "n\u00e4tverksadress"
+    ],
+    "ip.query": [
+      "vad",
+      "vilken",
+      "ber\u00e4tta",
+      "visa"
+    ],
+    "laugh.Laugh": [
+      "skratta",
+      "skrattar",
+      "skratt",
+      "skratt"
+    ],
+    "laugh.Stop": [
+      "avbryt",
+      "avbryt",
+      "stopp"
+    ],
+    "lifx-mycroft.Brightness": [
+      "ljusstyrka",
+      "ljushet"
+    ],
+    "lifx-mycroft.Decrease": [
+      "g\u00f6r m\u00f6rkare",
+      "svag",
+      "svagt",
+      "s\u00e4nk",
+      "dimma",
+      "g\u00f6r m\u00f6rkare",
+      "s\u00e4nk",
+      "ner"
+    ],
+    "lifx-mycroft.Increase": [
+      "g\u00f6r ljusare",
+      "lys upp",
+      "t\u00e4nd",
+      "intensifiera",
+      "\u00f6ka",
+      "upp"
+    ],
+    "lifx-mycroft.Off": [
+      "av",
+      "st\u00e4ng av"
+    ],
+    "lifx-mycroft.On": [
+      "p\u00e5",
+      "sl\u00e5 p\u00e5"
+    ],
+    "lifx-mycroft.Saturation": [
+      "m\u00e4ttnad",
+      "intensitet"
+    ],
+    "lifx-mycroft.Temperature": [
+      "temperatur",
+      "v\u00e4rme",
+      "f\u00e4rgtemperatur",
+      "kelvin",
+      "f\u00e4rg temperatur"
+    ],
+    "lifx-mycroft.Turn": [
+      "\u00e4ndra",
+      "st\u00e4ll",
+      "s\u00e4tt",
+      "toggla",
+      "byt",
+      "g\u00f6r"
+    ],
+    "list-manager-skill.add": [
+      "l\u00e4gg till",
+      "skapa"
+    ],
+    "list-manager-skill.del": [
+      "ta bort"
+    ],
+    "list-manager-skill.list": [
+      "lista",
+      "listor"
+    ],
+    "list-manager-skill.what": [
+      "som",
+      "vad"
+    ],
+    "personal.WhatAreYouKeyword": [
+      "vad \u00e4r du"
+    ],
+    "personal.WhenWereYouBornKeyword": [
+      "n\u00e4r f\u00f6ddes du",
+      "n\u00e4r skapades du"
+    ],
+    "personal.WhereWereYouBornKeyword": [
+      "var f\u00f6ddes du",
+      "var skapades du"
+    ],
+    "personal.WhoAreYouKeyword": [
+      "vem \u00e4r du"
+    ],
+    "personal.WhoMadeYouKeyword": [
+      "vem skapade dig",
+      "vilka skapade dig",
+      "vem byggde dig",
+      "vilka byggde dig"
+    ],
+    "remember-skill.All": [
+      "Alla"
+    ],
+    "remember-skill.Did": [
+      "gjorde"
+    ],
+    "remember-skill.Forget": [
+      "gl\u00f6m"
+    ],
+    "remember-skill.Phrase": [
+      "fras",
+      "fraser"
+    ],
+    "remember-skill.Remember": [
+      "kom ih\u00e5g"
+    ],
+    "remember-skill.You": [
+      "du"
+    ],
+    "speedtest-skill.Run": [
+      "k\u00f6r"
+    ],
+    "speedtest-skill.Speedtest": [
+      "hastighetstest",
+      "hastighets test"
+    ],
+    "white-house-adventure.Delete": [
+      "ta bort"
+    ],
+    "white-house-adventure.Play": [
+      "spela",
+      "g\u00e5 till",
+      "g\u00e5 till"
+    ],
+    "white-house-adventure.Save": [
+      "spara",
+      "sparfil",
+      "sparat"
+    ],
+    "white-house-adventure.Zork": [
+      "zork",
+      "bervl\u00e5da",
+      "vita huset"
+    ]
+  }
+}

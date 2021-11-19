@@ -1,0 +1,64 @@
+hu-hu,Crystal-Ball-Mycroft-Skill.CrystalBall,Varázsgömb
+hu-hu,Crystal-Ball-Mycroft-Skill.CrystalBall,Tükröm tükröm
+hu-hu,Crystal-Ball-Mycroft-Skill.Future,jövő
+hu-hu,Crystal-Ball-Mycroft-Skill.Future,jövőt
+hu-hu,Crystal-Ball-Mycroft-Skill.Future,holnap
+hu-hu,Crystal-Ball-Mycroft-Skill.Future,holnapot
+hu-hu,Crystal-Ball-Mycroft-Skill.Query,Mondd
+hu-hu,Crystal-Ball-Mycroft-Skill.Query,Mondd meg
+hu-hu,Crystal-Ball-Mycroft-Skill.Query,Mi
+hu-hu,Crystal-Ball-Mycroft-Skill.Query,mit
+hu-hu,Number-Guess-Mycroft-Skill.NumberGuess,Számkitalálós
+hu-hu,Number-Guess-Mycroft-Skill.NumberGuess,számkitalálóst
+hu-hu,Number-Guess-Mycroft-Skill.NumberGuess,számkitalálós játék
+hu-hu,Number-Guess-Mycroft-Skill.NumberGuess,játékot
+hu-hu,Number-Guess-Mycroft-Skill.Play,Játsszunk
+hu-hu,Number-Guess-Mycroft-Skill.Play,játszunk
+hu-hu,Number-Guess-Mycroft-Skill.Play,játszanánk
+hu-hu,Number-Guess-Mycroft-Skill.Play,játszani
+hu-hu,Number-Guess-Mycroft-Skill.Play,Játék indítása
+hu-hu,Number-Guess-Mycroft-Skill.Suggest,Javaslom
+hu-hu,Number-Guess-Mycroft-Skill.Suggest,Jó lenne
+hu-hu,Number-Guess-Mycroft-Skill.Suggest,Miért nem
+hu-hu,Number-Guess-Mycroft-Skill.Suggest,Mi lenne ha
+hu-hu,Number-Guess-Mycroft-Skill.Suggest,Talán
+hu-hu,fallback-aiml.Memory,agy
+hu-hu,fallback-aiml.Memory,agyadat
+hu-hu,fallback-aiml.Memory,emlékezet
+hu-hu,fallback-aiml.Memory,emlékezeted
+hu-hu,fallback-aiml.Memory,memória
+hu-hu,fallback-aiml.Memory,memóriád
+hu-hu,fallback-aiml.Memory,memóriádat
+hu-hu,fallback-aiml.Memory,elme
+hu-hu,fallback-aiml.Memory,elméd
+hu-hu,fallback-aiml.Memory,elmédet
+hu-hu,fallback-aiml.Memory,minden
+hu-hu,fallback-aiml.Memory,mindent
+hu-hu,fallback-aiml.Reset,felejts el
+hu-hu,fallback-aiml.Reset,állíts
+hu-hu,fallback-aiml.Reset,állítsd vissza
+hu-hu,plasma-activities-skill.ActivitiesCreateKeyword,új aktivitás létrehozása
+hu-hu,plasma-activities-skill.ActivitiesCreateKeyword,hozz létre új aktivitást
+hu-hu,plasma-activities-skill.ActivitiesCreateKeyword,aktivitás létrehozása
+hu-hu,plasma-activities-skill.ActivitiesCreateKeyword,új aktivitás indítása
+hu-hu,plasma-activities-skill.ActivitiesCreateKeyword,hozz létre egy új aktivitást
+hu-hu,plasma-activities-skill.ActivitiesCreateKeyword,indíts egy új aktivitást
+hu-hu,plasma-activities-skill.ActivitiesCreateKeyword,aktivitás létrehozása
+hu-hu,plasma-activities-skill.ActivitiesCreateKeyword,új aktivitás
+hu-hu,plasma-activities-skill.ActivitiesCreateKeyword,új aktivitás
+hu-hu,plasma-activities-skill.ActivitiesRemoveKeyword,aktivitás eltávolítása
+hu-hu,plasma-activities-skill.ActivitiesRemoveKeyword,távolítsd el az aktivitást
+hu-hu,plasma-activities-skill.ActivitiesRemoveKeyword,aktivitás törlése
+hu-hu,plasma-activities-skill.ActivitiesRemoveKeyword,töröld az aktivitást
+hu-hu,plasma-activities-skill.ActivitiesShowKeyword,mutasd a jelenlegi aktivitásokat
+hu-hu,plasma-activities-skill.ActivitiesShowKeyword,mutasd az aktivitásokat
+hu-hu,plasma-activities-skill.ActivitiesShowKeyword,aktivitások
+hu-hu,plasma-activities-skill.ActivitiesShowKeyword,mutasd a jelenlegi aktivitásokat
+hu-hu,plasma-activities-skill.ActivitiesShowKeyword,aktivitások mutatása
+hu-hu,plasma-activities-skill.ActivitiesStopKeyword,jelenlegi aktivitás leállítása
+hu-hu,plasma-activities-skill.ActivitiesStopKeyword,kilövése
+hu-hu,plasma-activities-skill.ActivitiesStopKeyword,lődd ki az aktivitást
+hu-hu,plasma-activities-skill.ActivitiesStopKeyword,állítsd le az aktivitást
+hu-hu,plasma-activities-skill.ActivitiesSwitchKeyword,válts aktivitást
+hu-hu,plasma-activities-skill.ActivitiesSwitchKeyword,válts másik aktivitásra
+hu-hu,plasma-activities-skill.ActivitiesSwitchKeyword,aktivitás váltása

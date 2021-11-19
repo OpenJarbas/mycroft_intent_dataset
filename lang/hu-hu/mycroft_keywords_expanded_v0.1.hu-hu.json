@@ -1,0 +1,94 @@
+{
+  "hu-hu": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Var\u00e1zsg\u00f6mb",
+      "T\u00fckr\u00f6m t\u00fckr\u00f6m"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "j\u00f6v\u0151",
+      "j\u00f6v\u0151t",
+      "holnap",
+      "holnapot"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "Mondd",
+      "Mondd meg",
+      "Mi",
+      "mit"
+    ],
+    "Number-Guess-Mycroft-Skill.NumberGuess": [
+      "Sz\u00e1mkital\u00e1l\u00f3s",
+      "sz\u00e1mkital\u00e1l\u00f3st",
+      "sz\u00e1mkital\u00e1l\u00f3s j\u00e1t\u00e9k",
+      "j\u00e1t\u00e9kot"
+    ],
+    "Number-Guess-Mycroft-Skill.Play": [
+      "J\u00e1tsszunk",
+      "j\u00e1tszunk",
+      "j\u00e1tszan\u00e1nk",
+      "j\u00e1tszani",
+      "J\u00e1t\u00e9k ind\u00edt\u00e1sa"
+    ],
+    "Number-Guess-Mycroft-Skill.Suggest": [
+      "Javaslom",
+      "J\u00f3 lenne",
+      "Mi\u00e9rt nem",
+      "Mi lenne ha",
+      "Tal\u00e1n"
+    ],
+    "fallback-aiml.Memory": [
+      "agy",
+      "agyadat",
+      "eml\u00e9kezet",
+      "eml\u00e9kezeted",
+      "mem\u00f3ria",
+      "mem\u00f3ri\u00e1d",
+      "mem\u00f3ri\u00e1dat",
+      "elme",
+      "elm\u00e9d",
+      "elm\u00e9det",
+      "minden",
+      "mindent"
+    ],
+    "fallback-aiml.Reset": [
+      "felejts el",
+      "\u00e1ll\u00edts",
+      "\u00e1ll\u00edtsd vissza"
+    ],
+    "plasma-activities-skill.ActivitiesCreateKeyword": [
+      "\u00faj aktivit\u00e1s l\u00e9trehoz\u00e1sa",
+      "hozz l\u00e9tre \u00faj aktivit\u00e1st",
+      "aktivit\u00e1s l\u00e9trehoz\u00e1sa",
+      "\u00faj aktivit\u00e1s ind\u00edt\u00e1sa",
+      "hozz l\u00e9tre egy \u00faj aktivit\u00e1st",
+      "ind\u00edts egy \u00faj aktivit\u00e1st",
+      "aktivit\u00e1s l\u00e9trehoz\u00e1sa",
+      "\u00faj aktivit\u00e1s",
+      "\u00faj aktivit\u00e1s"
+    ],
+    "plasma-activities-skill.ActivitiesRemoveKeyword": [
+      "aktivit\u00e1s elt\u00e1vol\u00edt\u00e1sa",
+      "t\u00e1vol\u00edtsd el az aktivit\u00e1st",
+      "aktivit\u00e1s t\u00f6rl\u00e9se",
+      "t\u00f6r\u00f6ld az aktivit\u00e1st"
+    ],
+    "plasma-activities-skill.ActivitiesShowKeyword": [
+      "mutasd a jelenlegi aktivit\u00e1sokat",
+      "mutasd az aktivit\u00e1sokat",
+      "aktivit\u00e1sok",
+      "mutasd a jelenlegi aktivit\u00e1sokat",
+      "aktivit\u00e1sok mutat\u00e1sa"
+    ],
+    "plasma-activities-skill.ActivitiesStopKeyword": [
+      "jelenlegi aktivit\u00e1s le\u00e1ll\u00edt\u00e1sa",
+      "kil\u00f6v\u00e9se",
+      "l\u0151dd ki az aktivit\u00e1st",
+      "\u00e1ll\u00edtsd le az aktivit\u00e1st"
+    ],
+    "plasma-activities-skill.ActivitiesSwitchKeyword": [
+      "v\u00e1lts aktivit\u00e1st",
+      "v\u00e1lts m\u00e1sik aktivit\u00e1sra",
+      "aktivit\u00e1s v\u00e1lt\u00e1sa"
+    ]
+  }
+}

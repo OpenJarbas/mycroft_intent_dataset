@@ -1,0 +1,162 @@
+{
+  "ro-ro": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Bila de cristal",
+      "oglind\u0103 oglind\u0103"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "viitor",
+      "m\u00e2ine"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "Spune-mi",
+      "ce"
+    ],
+    "Number-Guess-Mycroft-Skill.NumberGuess": [
+      "Ghici Numarul ",
+      "joc de ghicit num\u0103rul"
+    ],
+    "Number-Guess-Mycroft-Skill.Play": [
+      "Joac\u0103",
+      "\u00cencepe\u021bi un joc"
+    ],
+    "Number-Guess-Mycroft-Skill.Suggest": [
+      "Hai",
+      "Las\u0103-ne",
+      "De ce nu?",
+      "Ce zici s\u0103?",
+      "Noi ar trebui s\u0103"
+    ],
+    "cocktail.Again": [
+      "din nou"
+    ],
+    "cocktail.Ingredients": [
+      "ingredient",
+      "ingrediente"
+    ],
+    "cocktail.TellMe": [
+      "ce sunt",
+      "spune-mi"
+    ],
+    "cocktail.What": [
+      "ce a fost",
+      "ce au fost"
+    ],
+    "cut-up-skill.CutUp": [
+      "Decupare",
+      "Randomizeaz\u0103"
+    ],
+    "cut-up-skill.Maximum": [
+      "Maxim"
+    ],
+    "cut-up-skill.Minimum": [
+      "Minim"
+    ],
+    "cut-up-skill.Randomness": [
+      "Aleatoriu"
+    ],
+    "cut-up-skill.Set": [
+      "seteaz\u0103",
+      "configura\u021bia",
+      "Seteaz\u0103 configura\u021bia "
+    ],
+    "decide-skill.DecideKeyword": [
+      "Decide",
+      "Ce ar trebui sa port",
+      "Ce ar trebui s\u0103 m\u0103n\u00e2nc",
+      "joc"
+    ],
+    "fallback-aiml.Memory": [
+      "creier",
+      "memorie",
+      "minte",
+      "Tot"
+    ],
+    "fallback-aiml.Reset": [
+      "uitat",
+      "reseteaz\u0103"
+    ],
+    "krunner-search-skill.CalculateKeyword": [
+      "calculeaza"
+    ],
+    "krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword": [
+      "c\u0103uta\u021bi acest computer pentru",
+      "c\u0103uta\u021bi acest lucru",
+      "c\u0103uta\u021bi computerul pentru",
+      "fi\u0219ier de c\u0103utare",
+      "fi\u0219ier de c\u0103utare",
+      "numele fi\u0219ierului de c\u0103utare",
+      "c\u0103uta\u021bi calculatorul pentru",
+      "sistem de c\u0103utare",
+      "sistem",
+      "c\u0103utare sistem",
+      "sistem de c\u0103utare fi\u0219iere",
+      "Gaseste fisier"
+    ],
+    "krunner-search-skill.RecentFileKeyword": [
+      "afi\u0219a\u021bi recent",
+      "afi\u0219a\u021bi fi\u0219ierele recente",
+      "afi\u0219a\u021bi documente recente",
+      "documente recente",
+      "fisiere recente"
+    ],
+    "plasma-activities-skill.ActivitiesCreateKeyword": [
+      "crea\u021bi o nou\u0103 activitate",
+      "crea\u021bi o nou\u0103 activitate",
+      "crea\u021bi activitatea",
+      "\u00eencepe\u021bi o nou\u0103 activitate",
+      "creez\u0103 noi activit\u0103\u021bi",
+      "\u00eencepe\u021bi noi activit\u0103\u021bi",
+      "crea\u021bi activit\u0103\u021bi",
+      "activitate nou\u0103",
+      "noi activit\u0103\u021bi"
+    ],
+    "plasma-activities-skill.ActivitiesRemoveKeyword": [
+      "elimina\u021bi activitatea",
+      "elimina\u021bi activitatea",
+      "\u0219terge\u021bi activitatea",
+      "\u0219terge\u021bi activitatea"
+    ],
+    "plasma-activities-skill.ActivitiesShowKeyword": [
+      "arat\u0103 activit\u0103\u021bile curente",
+      "arat\u0103 activit\u0103\u021bi",
+      "activitati",
+      "afi\u0219a\u021bi activit\u0103\u021bile curente",
+      "activit\u0103\u021bile de afi\u0219are"
+    ],
+    "plasma-activities-skill.ActivitiesStopKeyword": [
+      "ucide activitatea curent\u0103",
+      "ucide activitatea"
+    ],
+    "plasma-activities-skill.ActivitiesSwitchKeyword": [
+      "comuta activitatea curent\u0103",
+      "trecerea la activitate",
+      "comuta activitatea"
+    ],
+    "query.Question": [
+      "ce",
+      "cine",
+      "c\u00e2nd",
+      "cum",
+      "unde"
+    ],
+    "white-house-adventure.Delete": [
+      "\u0219terge"
+    ],
+    "white-house-adventure.Play": [
+      "joaca",
+      "dute la",
+      "dute la"
+    ],
+    "white-house-adventure.Save": [
+      "salveaza",
+      "salveazajoc",
+      "salvat"
+    ],
+    "white-house-adventure.Zork": [
+      "zork",
+      "C\u0103su\u021b\u0103 po\u0219tal\u0103",
+      "casa alba"
+    ]
+  }
+}

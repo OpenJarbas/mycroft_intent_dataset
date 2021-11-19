@@ -1,0 +1,211 @@
+{
+  "pt-br": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Bola de Cristal",
+      "Espelho espelho"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "futuro",
+      "amanh\u00e3"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "Me conte",
+      "Qual"
+    ],
+    "Number-Guess-Mycroft-Skill.NumberGuess": [
+      "Adivinhe o N\u00famero",
+      "jogo de adivinha\u00e7\u00e3o de n\u00famero"
+    ],
+    "Number-Guess-Mycroft-Skill.Play": [
+      "Jogar",
+      "Iniciar um jogo"
+    ],
+    "Number-Guess-Mycroft-Skill.Suggest": [
+      "Vamos",
+      "Deixe-nos",
+      "Por que n\u00f3s n\u00e3o",
+      "Que tal n\u00f3s",
+      "N\u00f3s dever\u00edamos"
+    ],
+    "aircrack.Clients": [
+      "cliente",
+      "clientes",
+      "conex\u00e3o",
+      "conex\u00f5es"
+    ],
+    "aircrack.Crack": [
+      "crackear",
+      "hacker"
+    ],
+    "aircrack.Deauth": [
+      "desautenticar",
+      "desautenticar",
+      "desconectar",
+      "desautenticar",
+      "desautenticar"
+    ],
+    "aircrack.Interface": [
+      "dispositivos",
+      "interfaces",
+      "dispositivo",
+      "interface"
+    ],
+    "aircrack.List": [
+      "listar",
+      "varrer"
+    ],
+    "aircrack.Monitor": [
+      "monitorar",
+      "monitoramento",
+      "descarregar",
+      "descarregamento"
+    ],
+    "aircrack.Network": [
+      "redes sem fio",
+      "redes",
+      "rede sem fio",
+      "rede",
+      "rede sem fio",
+      "redes sem fio"
+    ],
+    "aircrack.Password": [
+      "senha",
+      "senha"
+    ],
+    "aircrack.Select": [
+      "selecionar",
+      "usar"
+    ],
+    "aircrack.Start": [
+      "come\u00e7ar",
+      "iniciar"
+    ],
+    "aircrack.Stop": [
+      "parar",
+      "fim"
+    ],
+    "cocktail.Again": [
+      "de novo"
+    ],
+    "cocktail.Ingredients": [
+      "ingrediente",
+      "ingredientes"
+    ],
+    "cocktail.TellMe": [
+      "o que s\u00e3o",
+      "me fale",
+      "me conte",
+      "me diga"
+    ],
+    "cocktail.What": [
+      "o que era",
+      "o que eram"
+    ],
+    "cut-up-skill.CutUp": [
+      "Cortar",
+      "Aleat\u00f3rio"
+    ],
+    "cut-up-skill.Maximum": [
+      "M\u00e1ximo"
+    ],
+    "cut-up-skill.Minimum": [
+      "M\u00ednimo"
+    ],
+    "cut-up-skill.Randomness": [
+      "Aleatoriedade"
+    ],
+    "cut-up-skill.Set": [
+      "Conjunto",
+      "Configura\u00e7\u00e3o",
+      "Definir configura\u00e7\u00e3o"
+    ],
+    "decide-skill.DecideKeyword": [
+      "Decida",
+      "O que eu devo vestir",
+      "O que eu devo comer",
+      "jogo"
+    ],
+    "fallback-aiml.Memory": [
+      "c\u00e9rebro",
+      "Mem\u00f3ria",
+      "mente",
+      "tudo"
+    ],
+    "fallback-aiml.Reset": [
+      "esquecer",
+      "Reiniciar"
+    ],
+    "laugh.Laugh": [
+      "ria",
+      "risada",
+      "rindo",
+      "risos",
+      "risadas",
+      "risada"
+    ],
+    "laugh.Stop": [
+      "abortar",
+      "cancelar",
+      "pare"
+    ],
+    "list-manager-skill.add": [
+      "adicionar",
+      "criar"
+    ],
+    "list-manager-skill.del": [
+      "remover"
+    ],
+    "list-manager-skill.list": [
+      "lista",
+      "listas"
+    ],
+    "list-manager-skill.what": [
+      "qual",
+      "o qu\u00ea"
+    ],
+    "remember-skill.All": [
+      "Todos"
+    ],
+    "remember-skill.Did": [
+      "fiz"
+    ],
+    "remember-skill.Forget": [
+      "esquecer"
+    ],
+    "remember-skill.Phrase": [
+      "frase",
+      "frases"
+    ],
+    "remember-skill.Remember": [
+      "lembrar"
+    ],
+    "remember-skill.You": [
+      "voc\u00ea"
+    ],
+    "speedtest-skill.Run": [
+      "executar"
+    ],
+    "speedtest-skill.Speedtest": [
+      "teste de velocidade",
+      "teste de velocidade"
+    ],
+    "white-house-adventure.Delete": [
+      "excluir"
+    ],
+    "white-house-adventure.Play": [
+      "Toque",
+      "vamos para",
+      "vamos para"
+    ],
+    "white-house-adventure.Save": [
+      "Salve",
+      "savegame",
+      "salvou"
+    ],
+    "white-house-adventure.Zork": [
+      "zork",
+      "caixa de correio",
+      "casa branca"
+    ]
+  }
+}

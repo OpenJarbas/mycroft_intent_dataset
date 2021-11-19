@@ -1,0 +1,40 @@
+de-de,alarm.ampm,am
+de-de,alarm.ampm,a.m
+de-de,alarm.ampm,a.m.
+de-de,alarm.ampm,AM
+de-de,alarm.ampm,A.M
+de-de,alarm.ampm,pm
+de-de,alarm.ampm,p.m.
+de-de,alarm.ampm,p.m
+de-de,alarm.ampm,PM
+de-de,alarm.ampm,P.M
+de-de,alarm.ampm,Morgen
+de-de,alarm.ampm,abend
+de-de,alarm.ampm,morgens
+de-de,alarm.ampm,abends
+de-de,alarm.daytype,(day | weekday | weekdays | weekend | weekends | tomorrow | today)
+de-de,alarm.daytype,(monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays)
+de-de,alarm.daytype,(monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays) and (monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays)
+de-de,alarm.daytype,(monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays) (monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays)
+de-de,alarm.exceptdaytype,(day | weekday | weekend)
+de-de,alarm.exceptdaytype,(monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays)
+de-de,alarm.exceptdaytype,(monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays) and (monday | mondays | tuesday | tuesdays | wednesday | wednesdays | thursday | thursdays | friday | fridays | saturday | saturdays | sunday | sundays)
+de-de,alarm.length,(#|##|###) (minute|minutes|hour|hours|day|days)
+de-de,alarm.length,(#|##|###) (minute|minutes|hour|hours|day|days) und (#|##|###) (minute|minutes|hour|hours|day|days)
+de-de,alarm.length,(#|##|###) (minute|minutes|hour|hours|day|days) (#|##|###) (minute|minutes|hour|hours|day|days) und (#|##|###) (minute|minutes|hour|hours|day|days)
+de-de,alarm.time,(#|##)(:##|)
+de-de,alarm.time,Mittag
+de-de,alarm.time,Mitternacht
+de-de,mark-2.brightness,voll
+de-de,mark-2.brightness,hell
+de-de,mark-2.brightness,halb
+de-de,mark-2.brightness,dämmrig
+de-de,mark-2.brightness,niedrig
+de-de,mark-2.brightness,automatisch
+de-de,mark-2.brightness,automatisch
+de-de,mycroft-timer.all,alle
+de-de,mycroft-timer.duration,(#|##|###) (minutes|seconds|hours) (and|)
+de-de,mycroft-timer.duration,(#|##|###) (minute|second|hour) (and|)
+de-de,mycroft-timer.timervalue,:0
+de-de,mycroft-timer.timervalue,:0 :0
+de-de,mycroft-timer.timervalue,:0 :0 :0

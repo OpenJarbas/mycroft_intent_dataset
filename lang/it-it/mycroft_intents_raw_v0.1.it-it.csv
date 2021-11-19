@@ -1,0 +1,149 @@
+it-it,auto-volume-skill.activate,(Attiva|Attivare) il volume automatico
+it-it,auto-volume-skill.activate,(Impostare|Imposta|Settare|Setta) (|il) volume automatico (|su) attivo
+it-it,auto-volume-skill.activate,(Accendere|Accendi) (|il) volume automatico
+it-it,auto-volume-skill.activate,(Impostare|Imposta|Settare|Setta) (|il) volume automatico (su) acceso
+it-it,auto-volume-skill.deactivate,(Disattiva|Disattivare) il volume automatico
+it-it,auto-volume-skill.deactivate,(Imposta|Impostare) il volume automatico su inattivo
+it-it,auto-volume-skill.deactivate,(Spegnere|Spegni) (|il) volume automatico
+it-it,auto-volume-skill.deactivate,(Impostare|Imposta|Metti) il volume automatico (su) spento
+it-it,auto-volume-skill.reset,Pulisci (|le) (misure|misurazioni) (|del) volume automatico
+it-it,auto-volume-skill.reset,Cancella le misure (di|del) volume automatico
+it-it,auto-volume-skill.reset,Reimposta le (misure|misurazioni) (di|del) volume automatico
+it-it,cocktail.Needed,che cosa server per fare (un|una) {drink}
+it-it,cocktail.Needed,che cosa (mi|) serve (per|per fare) (un|una) {drink}
+it-it,cocktail.Needed,quali sono gli ingredienti del {drink}
+it-it,cocktail.Recipie,come (io|tu) (potrei|fare) (fare|mescolare) (un|uno) {drink}
+it-it,cocktail.Recipie,dimmi come (fare|preparare) (un|uno) {drink}
+it-it,cocktail.Recipie,dammi istruzioni per (un|uno) {drink}
+it-it,cocktail.Recipie,come (fare|mixare) (un|uno) {drink}
+it-it,cocktail.Recipie,qual'è la ricetta per (un|uno) {drink}
+it-it,count-skill.count,Conta fino a {number}
+it-it,count-skill.countdown,Conto alla rovescia da {number}
+it-it,count-skill.countdown,Conta indietro da {number}
+it-it,count-skill.countdown,Conta all'indietro da {number}
+it-it,count-skill.countdown,Conta indietro da {number}
+it-it,count-skill.countdown,Conto alla rovescia da {number}
+it-it,count-skill.countdown,Da {number} conta indietro
+it-it,count-skill.countdown,Da {number} conta inverso
+it-it,dice-skill.Dice,lancia ({count} |) d {type} (+|più|) ({modifier} |)
+it-it,dice-skill.NormalDice,lancia ({count} |) (dadi|dado)
+it-it,dice-skill.Range,Genera un numero casuale da {low} a {high}
+it-it,dice-skill.Range,Genera un numero casuale tra {low} e {high}
+it-it,dice-skill.Range,Dimmi un numero da {low} a {high}
+it-it,dice-skill.Range,Dimmi un numero tra {low} e {high} 
+it-it,email-skill.check.email,controlla la mia posta
+it-it,email-skill.check.email,controlla la mia posta.
+it-it,email-skill.check.email,ho nuova posta 
+it-it,email-skill.check.email,ho della posta
+it-it,email-skill.check.email,ho nuova posta
+it-it,email-skill.enquire.email,Ho nuova posta da {email}
+it-it,email-skill.enquire.email,Ho della posta da {email}
+it-it,email-skill.enquire.email,Ho ricevuto della posta da {email}
+it-it,email-skill.notify,controlla la (posta|email|nuova posta|email)
+it-it,email-skill.notify,Avvisami quando arriva (posta|email|nuova posta|nuova email)
+it-it,email-skill.notify,Avvisami quando arriva (nuova posta|una email|email) da {sender}
+it-it,email-skill.notify,Controlla la (posta|email) da {sender}
+it-it,email-skill.notify,Avvisami di (posta|email|nuova posta|nuove email)
+it-it,email-skill.notify,Avvisami dell'arrivo di (posta|eamil|nuova posta|nuove emial) da {sender}
+it-it,email-skill.notify,Avvisami quando ricevo (posta|email|nuova posta|nuove email)
+it-it,email-skill.notify,Avvisami quando ricevo (posta|una email|email) da {sender}
+it-it,email-skill.stop,Non notificarmi la (posta|mail|nuova posta|nuova mail)
+it-it,email-skill.stop,Non notificarmi (posta|mail|nuova posta|nuove mail) da {sender}
+it-it,email-skill.stop,non notificarmi più le (mail|email|nuove mail|nuove email)
+it-it,email-skill.stop,non notificarmi più le (mail|email|nuove mail|nuove email) da {sender}
+it-it,email-skill.stop,non notificarmi la (posta|mail|nuova posta|nuova mail)
+it-it,email-skill.stop,non notificarmi la (posta|mail|nuova posta|nuova mail) da {sender}
+it-it,email-skill.stop,non notificarmi più la (posta|mail|nuova posta|nuova mail)
+it-it,email-skill.stop,non notificarmi più la (posta|mail|nuova posta|nuova mail) da {sender}
+it-it,emby-skill.diagnostic,controlla la connessione a (emby|mb|mv|nv|emily)
+it-it,emby-skill.diagnostic,Eseguire la diagnostica a (emby|mb|mv|nv|emily)
+it-it,emby-skill.diagnostic,controllare (emby|mb|mv|nv|emily)
+it-it,emby-skill.emby,suona {media} con emby
+it-it,emby-skill.emby,suona {media} su mb
+it-it,emby-skill.emby,riproduci l'artista {artist} da emby
+it-it,emby-skill.emby,riproduci l'artista {artist} da mb
+it-it,emby-skill.emby,riproduci l'album {album} da emby
+it-it,emby-skill.emby,riproduci l'album {album} da mb
+it-it,fairytalez-skill.continue,Continua la storia
+it-it,fairytalez-skill.continue,Continua a raccontare la storia
+it-it,fairytalez-skill.continue,Continua la fiaba
+it-it,fairytalez-skill.continue,Continua a raccontare la fiaba
+it-it,fairytalez-skill.continue,Continua la fiaba
+it-it,fairytalez-skill.continue,Continua con la fiaba
+it-it,fairytalez-skill.continue,Continua con la fiaba
+it-it,fairytalez-skill.fairytalez,(Racoonta|Leggi)(mi| ) una (bella| ) (storia| favola)
+it-it,fairytalez-skill.fairytalez,(Racconta|Leggi)(mi| ) la storia {tale}
+it-it,iss-tracker-skill.tracker.iss,Dov'è la stazione spaziale internazionale
+it-it,iss-tracker-skill.tracker.iss,Trova la Stazione Spaziale Internazionale
+it-it,iss-tracker-skill.tracker.iss,Dove è la Stazione Spaziale Internazionale
+it-it,laugh.Laugh,ridi come alexa
+it-it,laugh.Laugh,puoi ridere
+it-it,laugh.Laugh,(risate|ridi|risata) malvagia
+it-it,laugh.RandomLaugh,ridi casualmente
+it-it,laugh.RandomLaugh,attivare (risata|risate|risa) casuali
+it-it,laugh.RandomLaugh,(risate|ridi|risata) (casuali|casuale)
+it-it,mark-2.brightness,abbassare (i|tuoi|gli) occhi al {brightness} (percento|)
+it-it,mark-2.brightness,abbassare al {brightness} (percento|)
+it-it,mark-2.brightness,abbassare la (luminosità|illuminazione) dei tuoi occhi al {brightness} (percento|)
+it-it,mark-2.brightness,(alza|abbassa) (|la|l') (luminosità|illuminazione) (a|al) {brightness} (percento|)
+it-it,mark-2.brightness,(abbassa|alza) (la|l) (luminosità|illuminazione) al {brightness} (percento|)
+it-it,mark-2.brightness,aumenta (un po'|) (la luminosità|l'illuminazione|la luce) (a|al) {brightness} (percento|)
+it-it,mark-2.brightness,(cambia|imposta|passa) (a|al) {brightness} (percento|per cento|) di (luminosità|illuminazione|intensità)
+it-it,mark-2.brightness,(cambia|setta|imposta|passa) (la|l'|)(luminosità|illuminazione|intensità) (degli|dei tuoi|) (occhi|) (|a|al) {brightness} (percento|)
+it-it,mark-2.brightness,(cambia|imposta|passa) (il|il tuo|la tua) (livello di|) (luminosità|illuminazione|intensità)
+it-it,mark-2.brightness,sei (troppo|) (luminoso|scuro)
+it-it,mark-2.brightness,sei (troppo|) (luminoso|fioco)
+it-it,mark-2.brightness,alza la luminosità
+it-it,mark-2.brightness,abbassa la luminosità
+it-it,mark-2.brightness.auto,imposta la luminosità su automatico
+it-it,mark-2.brightness.auto,luminosità automatica
+it-it,mark-2.device.brightness.settings,mostra le impostazioni di luminosità
+it-it,mark-2.device.brightness.settings,mostra le impostazioni di luminosità del dispositivo
+it-it,mark-2.device.homescreen.settings,mostra le impostazioni di homescreen
+it-it,mark-2.device.homescreen.settings,(mostra|mostrami) le (impostazioni|preferenze) (della schermata|dello schermo|della faccia|del viso|della pagina) (home|inattivo|inattiva|a riposo)
+it-it,mark-2.device.homescreen.settings,(mostra|mostrami) le (impostazioni|preferenze) (della schermata|dello schermo|della faccia|del viso|della pagina) (home|inattivo|inattiva|a riposo) del dispositivo
+it-it,mark-2.device.reset.settings,mostra le impostazioni di ripristino di fabbrica
+it-it,mark-2.device.reset.settings,mostra le impostazioni di ripristino dei dati di fabbrica del dispositivo
+it-it,mark-2.device.settings,mostra le impostazioni del dispositivo
+it-it,mark-2.device.settings,aprire le impostazioni
+it-it,mark-2.device.ssh.settings,mostra le impostazioni ssh
+it-it,mark-2.device.ssh.settings,mostra le impostazioni ssh del dispositivo
+it-it,mark-2.device.wifi.settings,mostra lo schermo wireless
+it-it,mark-2.device.wifi.settings,mostra le impostazioni wireless
+it-it,mark-2.device.wifi.settings,mostra le impostazioni wifi
+it-it,mark-2.device.wifi.settings,mostra la schermata wifi
+it-it,moviemaster.genre.movie.search,(elenca|trova) (film|) (di|d'|) {genre}
+it-it,moviemaster.genre.movie.search,(elenca|cerca|trova) film (di|d'|) {genre}
+it-it,moviemaster.genre.tv.search,(dimmi|trova|quali sono) (programmi TV|programmi televisivi|programmi) (|di|del) {genre}
+it-it,moviemaster.genre.tv.search,(elenco|cerca|trova|cercami|trovami) (|di) (serie TV|serie|show|show televisivi) {genre}
+it-it,moviemaster.movie.cast,chi (recita|interpreta|c'è) nel (film|) {movie}
+it-it,moviemaster.movie.description,di cosa parla (il film|) {movie}
+it-it,moviemaster.movie.description,(Dimmi|Dicci|Parlami|Parlaci|Raccontami|Raccontaci) del film {movie}
+it-it,moviemaster.movie.description,(cerca|trova|dammi|cercami|trovami) una (descrizione|sinossi) (di|del) (|film) {movie}
+it-it,moviemaster.movie.description, 
+it-it,moviemaster.movie.genres,A (che|quale|quali) (genere|generi) (può appartenere|appartiene) ( |il film) {movie}
+it-it,moviemaster.movie.genres,(Qual|quali) (è|sono) (il|i) (genere|generi) (del film|di) {movie}
+it-it,moviemaster.movie.genres,di (quali|quale|che) (generi|genere) (è|sono) ( |il|i) ( |film) {movie}
+it-it,moviemaster.movie.information,(cerca|trova|guarda|cercami|trovami|ci sono) (informazioni|info) (su|riguardo) (|il|al) (|film) {movie}
+it-it,moviemaster.movie.information,(dammi|dimmi|trova|cerca|trovami|cercami) (informazioni|info) (su|riguardo) (|il|al) (|film) {movie}
+it-it,moviemaster.movie.information,(hai|puoi trovare|puoi cercare) (|delle) (info|informazioni) (su|sul) (|film) {movie}
+it-it,moviemaster.movie.popular,(Elenca|Cerca|Dimmi) ( |dei|di|i) film più popolari
+it-it,moviemaster.movie.popular,Quali sono i film più popolari ( |in proiezione) (al momento|del momento|ora) ( |nei cinema|al cinema)
+it-it,moviemaster.movie.production,(chi|quale compagnia|quale casa di produzione) (ha prodotto|ha fatto) il film {movie}
+it-it,moviemaster.movie.recommendations,(raccomanda|raccomandami|consiglia|consigliami) (|dei|un) film (simili a|simile a|come|tipo) {movie}
+it-it,moviemaster.movie.recommendations,(quali|quale) film (|mi) (raccomandi|raccomanderesti|consigli|consiglieresti) (simili a|simile a|come|tipo) {movie}
+it-it,moviemaster.movie.recommendations,(raccomanda|raccomandami|consiglia|consigliami|trova|trovami|elenca|elencami) (|dei|un) (|bei|bel) film (simili a|simile a|come|tipo) {movie}
+it-it,moviemaster.movie.runtime,Quanto (dura|è lungo) (il film|) {movie}
+it-it,moviemaster.movie.runtime,Qual è la (durata|lunghezza) (del film|di) {movie}
+it-it,moviemaster.movie.runtime,(Quanto dura|Quanto è lungo|Qual è la( durata| lunghezza)) (del film|di|de) {movie}
+it-it,moviemaster.movie.top,(elenca|quali sono|cerca) i (migliori|più popolari|più votati) film (in sala|nelle sale|al cinema|nei cinema) (in proiezione|fuori|disponibili) (|in questo momento|al momento|ora)
+it-it,moviemaster.movie.year,(in quale anno|quando|in che anno) è stato (fatto|realizzato|rilasciato) il film {movie}
+it-it,wikiquote-skill.random,dimmi (qualche|una) (citazione|aforisma)
+it-it,wikiquote-skill.random,dammi (qualche|una) (citazione|aforisma)
+it-it,wikiquote-skill.random,Ho bisogno di qualche aforisma
+it-it,wikiquote-skill.specific,dimmi (qualche|una) (citazione|aforisma) di {subject}
+it-it,wikiquote-skill.specific,dammi (qualche|una) (citazione|aforisma) di {subject}
+it-it,wikiquote-skill.specific,Ho bisogno di (qualche|una) (citazione|aforisma) di {subject}
+it-it,wikiquote-skill.specific,dimmi una citazione (di|su) {subject}
+it-it,wikiquote-skill.specific,dammi una citazione (di|su) {subject}
+it-it,wikiquote-skill.specific,Ho bisogno di una citazione (di|su) {subject}

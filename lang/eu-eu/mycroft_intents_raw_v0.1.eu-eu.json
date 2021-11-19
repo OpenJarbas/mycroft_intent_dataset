@@ -1,0 +1,42 @@
+{
+  "eu-eu": {
+    "auto-volume-skill.activate": [
+      "Aktibatu bolumen automatikoa",
+      "Bolumen automatikoa aktibatu",
+      "Piztu bolumen automatikoa",
+      "Bolumen automatikoa piztu"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Bolumen automatikoa desaktibatu",
+      "Desaktibatu bolumen automatikoa",
+      "Bolumen automatikoa itzali",
+      "Itzali bolumen automatikoa"
+    ],
+    "auto-volume-skill.reset": [
+      "Garbitu bolumen automatikoaren neurketak",
+      "Ezabatu bolumen automatikoaren neurketak",
+      "Berrezarri bolumen automatikoaren neurketak",
+      "Bolumen automatikoaren neurketak garbitu",
+      "Bolumen automatikoaren neurketak ezabatu",
+      "Bolumen automatikoaren neurketak berrezarri"
+    ],
+    "count-skill.count": [
+      "Kontatu {number} arte"
+    ],
+    "count-skill.countdown": [
+      "kontatu atzeraka {number}tik (hasita|)",
+      "kontatu atzeraka {number}etik (hasita|)",
+      "kontatu atzeraka {number}retik (hasita|)"
+    ],
+    "iss-tracker-skill.tracker.iss": [
+      "(Aurkitu|kokatu|non dago) (Nazioarteko Espazio Estazioa|ISS|I Ese Ese)"
+    ],
+    "wikiquote-skill.random": [
+      "Jakinduria (pixka|apur) bat (behar dut|)",
+      "(eman|emadazu|emaidazu|esan|esadazu|esaidazu) aipuren bat"
+    ],
+    "wikiquote-skill.specific": [
+      "(eman|emadazu|emaidazu|esan|esadazu|esaidazu) {subject}(en|ren) (esaldi|aipu) bat"
+    ]
+  }
+}

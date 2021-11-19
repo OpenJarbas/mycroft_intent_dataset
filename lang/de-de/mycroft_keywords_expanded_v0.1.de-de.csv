@@ -1,0 +1,868 @@
+de-de,Crystal-Ball-Mycroft-Skill.CrystalBall,Kristallkugel
+de-de,Crystal-Ball-Mycroft-Skill.CrystalBall,Spieglein Spieglein
+de-de,Crystal-Ball-Mycroft-Skill.Future,Zukunft
+de-de,Crystal-Ball-Mycroft-Skill.Future,morgen
+de-de,Crystal-Ball-Mycroft-Skill.Query,Sag mir
+de-de,Crystal-Ball-Mycroft-Skill.Query,Was
+de-de,Number-Guess-Mycroft-Skill.NumberGuess,errate Zahl
+de-de,Number-Guess-Mycroft-Skill.NumberGuess,Zahl Ratespiel
+de-de,Number-Guess-Mycroft-Skill.Play,Spiele
+de-de,Number-Guess-Mycroft-Skill.Play,starte ein Spiel
+de-de,Number-Guess-Mycroft-Skill.Suggest,Lass uns
+de-de,Number-Guess-Mycroft-Skill.Suggest,Lass uns
+de-de,Number-Guess-Mycroft-Skill.Suggest,Warum nicht
+de-de,Number-Guess-Mycroft-Skill.Suggest,Wie wäre es mit uns
+de-de,Number-Guess-Mycroft-Skill.Suggest,Wir sollten
+de-de,Skill-Gui-Examples.gui.example.eight,Audioplayer-Beispiele anzeigen
+de-de,Skill-Gui-Examples.gui.example.eight,Beispiel für Audiodelegierten anzeigen
+de-de,Skill-Gui-Examples.gui.example.eight,Beispiel Audiodelegierten anzeigen
+de-de,Skill-Gui-Examples.gui.example.five,Beispiel einen proportionalen Delegaten anzeigen
+de-de,Skill-Gui-Examples.gui.example.five,Beispiel proportionalen Delegaten anzeigen
+de-de,Skill-Gui-Examples.gui.example.five,Beispiel für einen proportionalen Delegaten anzeigen
+de-de,Skill-Gui-Examples.gui.example.five,Beispiel für proportionalen Delegaten anzeigen
+de-de,Skill-Gui-Examples.gui.example.five,Beispiel Autofit-Label anzeigen
+de-de,Skill-Gui-Examples.gui.example.five.wrapText,Beispiel für einen proportionalen Zeilenumbruch
+de-de,Skill-Gui-Examples.gui.example.five.wrapText,Beispiel automatischen Etikettenumbruch
+de-de,Skill-Gui-Examples.gui.example.four,beispiel für einfliegendes zeigen
+de-de,Skill-Gui-Examples.gui.example.menu,Gui Beispiele zeigen
+de-de,Skill-Gui-Examples.gui.example.menu,GUI-Testbeispiele anzeigen
+de-de,Skill-Gui-Examples.gui.example.menu,Beispielmenü anzeigen
+de-de,Skill-Gui-Examples.gui.example.one,Einfaches Textbeispiel anzeigen
+de-de,Skill-Gui-Examples.gui.example.seven,Beispiel für Ereignisse anzeigen
+de-de,Skill-Gui-Examples.gui.example.six,Beispiel für Listenansicht anzeigen
+de-de,Skill-Gui-Examples.gui.example.three,Beispiel für paginierten Text anzeigen
+de-de,Skill-Gui-Examples.gui.example.two,Einfaches Bildbeispiel anzeigen
+de-de,aircrack.Clients,Klient
+de-de,aircrack.Clients,Klienten
+de-de,aircrack.Clients,Verbindung
+de-de,aircrack.Clients,Verbindungen
+de-de,aircrack.Crack,knacken
+de-de,aircrack.Crack,hacken
+de-de,aircrack.Deauth,deauth
+de-de,aircrack.Deauth,deauthenticate
+de-de,aircrack.Deauth,trennen
+de-de,aircrack.Deauth,dee auturisieren
+de-de,aircrack.Deauth,dee authentifizieren
+de-de,aircrack.Interface,Geräte
+de-de,aircrack.Interface,Schnittstellen
+de-de,aircrack.Interface,Gerät
+de-de,aircrack.Interface,Schnittstelle
+de-de,aircrack.List,Liste
+de-de,aircrack.List,suche
+de-de,aircrack.Monitor,Monitor
+de-de,aircrack.Monitor,Überwachen
+de-de,aircrack.Monitor,Auszug
+de-de,aircrack.Monitor,laden
+de-de,aircrack.Network,drahtlose Netzwerke
+de-de,aircrack.Network,Netzwerke
+de-de,aircrack.Network,drahtloses Netzwerk
+de-de,aircrack.Network,Netzwerk
+de-de,aircrack.Network,WiFi-Netzwerk
+de-de,aircrack.Network,WiFi-Netzwerke
+de-de,aircrack.Password,Passwort
+de-de,aircrack.Password,Passwort
+de-de,aircrack.Select,auswählen
+de-de,aircrack.Select,benutzen
+de-de,aircrack.Start,starte
+de-de,aircrack.Start,beginne
+de-de,aircrack.Stop,anhalten
+de-de,aircrack.Stop,ende
+de-de,avmusic.neon.AVmusicKeyword,AVmusik
+de-de,avmusic.neon.AVmusicKeyword,AV show
+de-de,avmusic.neon.AVmusicKeyword,A V show
+de-de,avmusic.neon.AVmusicKeyword,AV musik
+de-de,avmusic.neon.AVmusicKeyword,AV
+de-de,avmusic.neon.AVmusicKeyword,A V
+de-de,avmusic.neon.AVmusicKeyword,A V musik
+de-de,avmusic.neon.AVmusicKeyword,A Vmusik
+de-de,avmusic.neon.AVmusicKeyword,finde das Lied
+de-de,avmusic.neon.AVmusicKeyword,such mir was
+de-de,avmusic.neon.AVmusicKeyword,finde die Musik
+de-de,avmusic.neon.AVmusicKeyword,finde das Musikvideo
+de-de,avmusic.neon.AVmusicKeyword,Suche nach der Band
+de-de,avmusic.neon.AVmusicKeyword,suche nach dem Lied
+de-de,avmusic.neon.AVmusicKeyword,spiele die Musik
+de-de,avmusic.neon.AVmusicKeyword,spiele ein wenig
+de-de,avmusic.neon.AVmusicKeyword,AV play
+de-de,avmusic.neon.AVmusicKeyword,AV spiele ein wenig
+de-de,avmusic.neon.AVmusicKeyword,AV finde das Lied
+de-de,avmusic.neon.AVmusicKeyword,AV such mir was
+de-de,avmusic.neon.AVmusicKeyword,AV finde die Musik
+de-de,avmusic.neon.AVmusicKeyword,AV finde das Video
+de-de,avmusic.neon.AVmusicKeyword,AV finde das Musikvideo
+de-de,avmusic.neon.AVmusicKeyword,AV Suche nach der Band
+de-de,avmusic.neon.AVmusicKeyword,AV suche nach dem Lied
+de-de,avmusic.neon.AVmusicKeyword,AV spiele die Musik
+de-de,avmusic.neon.AVmusicKeyword,AV musik
+de-de,avmusic.neon.AVmusicKeyword,AV video
+de-de,avmusic.neon.AVmusicKeyword,AV music video
+de-de,avmusic.neon.AVmusicKeyword,AV song
+de-de,avmusic.neon.AVmusicKeyword,AV this song
+de-de,avmusic.neon.AVmusicKeyword,A V Musik spielen
+de-de,avmusic.neon.AVmusicKeyword,A V spiele die Musik
+de-de,avmusic.neon.AVmusicKeyword,A V Musik suche nach dem Lied
+de-de,avmusic.neon.AVmusicKeyword,A V musik such mir was
+de-de,avmusic.neon.AVmusicKeyword,A V musik finde die Musik
+de-de,avmusic.neon.AVmusicKeyword,A V musik finde das video
+de-de,avmusic.neon.AVmusicKeyword,A V musik finde das Musikvideo
+de-de,avmusic.neon.AVmusicKeyword,A V musik finde das Video
+de-de,avmusic.neon.AVmusicKeyword,A V musik suche nach dem Lied
+de-de,avmusic.neon.AVmusicKeyword,A V musik spiele die Musik
+de-de,avmusic.neon.AgreementKeyword,ja
+de-de,avmusic.neon.AgreementKeyword,sicher
+de-de,avmusic.neon.AgreementKeyword,jawoll
+de-de,avmusic.neon.AgreementKeyword,fortsetzen
+de-de,avmusic.neon.AgreementKeyword,beginen
+de-de,avmusic.neon.AgreementKeyword,starten
+de-de,avmusic.neon.AgreementKeyword,gehe
+de-de,avmusic.neon.AgreementKeyword,los
+de-de,avmusic.neon.AgreementKeyword,Machen wir das
+de-de,avmusic.neon.AgreementKeyword,mach es
+de-de,avmusic.neon.AgreementKeyword,natürlich
+de-de,avmusic.neon.AgreementKeyword,mach halt
+de-de,avmusic.neon.AgreementKeyword,mache
+de-de,avmusic.neon.AgreementKeyword,ich tat
+de-de,avmusic.neon.AgreementKeyword,ändere
+de-de,avmusic.neon.AgreementKeyword,ändere meine meinung
+de-de,avmusic.neon.DeclineKeyword,nein
+de-de,avmusic.neon.DeclineKeyword,nicht
+de-de,avmusic.neon.DeclineKeyword,halt
+de-de,avmusic.neon.DeclineKeyword,nachs nicht
+de-de,avmusic.neon.DeclineKeyword,stop
+de-de,avmusic.neon.DeclineKeyword,abbrechen
+de-de,avmusic.neon.DeclineKeyword,verlassen
+de-de,avmusic.neon.DeclineKeyword,ende
+de-de,avmusic.neon.DeclineKeyword,end
+de-de,avmusic.neon.DeclineKeyword,nicht jetzt
+de-de,avmusic.neon.DeclineKeyword,das ist genug
+de-de,avmusic.neon.DeclineKeyword,genug
+de-de,caffeinewiz.neon.CaffeineKeyword,koffein
+de-de,caffeinewiz.neon.GoodbyeKeyword,Auf Wiedersehen
+de-de,caffeinewiz.neon.GoodbyeKeyword,bye
+de-de,caffeinewiz.neon.GoodbyeKeyword,das wars
+de-de,caffeinewiz.neon.GoodbyeKeyword,ende
+de-de,caffeinewiz.neon.GoodbyeKeyword,end
+de-de,caffeinewiz.neon.GoodbyeKeyword,Wir sind fertig
+de-de,cocktail.Again,nochmal
+de-de,cocktail.Ingredients,Zutat
+de-de,cocktail.Ingredients,Zutaten
+de-de,cocktail.TellMe,was sind
+de-de,cocktail.TellMe,sag mir
+de-de,cocktail.What,was war
+de-de,cocktail.What,was waren
+de-de,configuration.ConfigurationSkillKeyword,config
+de-de,configuration.ConfigurationSkillKeyword,configuration
+de-de,configuration.ConfigurationSkillKeyword,setting
+de-de,configuration.ConfigurationSkillUpdateVerb,update
+de-de,configuration.ConfigurationSkillUpdateVerb,reload
+de-de,configuration.ConfigurationSkillUpdateVerb,sync
+de-de,configuration.ConfigurationSkillUpdateVerb,synchronize
+de-de,configuration.DeviceLocation,Ort
+de-de,configuration.DeviceLocation,Stadt
+de-de,configuration.DeviceLocation,Platz
+de-de,configuration.DeviceLocation,Land
+de-de,configuration.GetKeyword,Was
+de-de,configuration.GetKeyword,was ist
+de-de,configuration.GetKeyword,Gib mir
+de-de,configuration.GetKeyword,sag mir
+de-de,configuration.ListenerKeyword,Empfänger
+de-de,configuration.ListenerKeyword,Aktivierword Empfänger
+de-de,configuration.ListenerKeyword,Aktivierword engine
+de-de,configuration.ListenerKeyword,Aktivierword
+de-de,configuration.ListenerKeyword,Aktivierer
+de-de,configuration.ListenerType,pocketsphinx
+de-de,configuration.ListenerType,precise
+de-de,configuration.ListenerType,snow boy
+de-de,configuration.ListenerType,snowboy
+de-de,configuration.ListenerType,default
+de-de,configuration.Location,Ort
+de-de,configuration.Location,Stadt
+de-de,configuration.Location,Bundesland
+de-de,configuration.Location,Land
+de-de,configuration.Location,Platz
+de-de,configuration.Name,name
+de-de,configuration.PreciseKeyword,precise
+de-de,configuration.PreciseKeyword,mycroft precise
+de-de,configuration.PreciseKeyword,precise model
+de-de,configuration.SetKeyword,setze
+de-de,configuration.SetKeyword,mache
+de-de,configuration.SetKeyword,ordne zu
+de-de,configuration.SetKeyword,ändere
+de-de,configuration.What,Was
+de-de,configuration.What,Nenne mir
+de-de,configuration.What,Woher
+de-de,configuration.WhereAreYou,wo bin ich
+de-de,configuration.WhereAreYou,wo bist du
+de-de,configuration.WhereAreYou,wo sind wir
+de-de,cut-up-skill.CutUp,Zerteile
+de-de,cut-up-skill.CutUp,Randomisiere
+de-de,cut-up-skill.Maximum,Maximum
+de-de,cut-up-skill.Minimum,Minimum
+de-de,cut-up-skill.Randomness,Zufälligkeit
+de-de,cut-up-skill.Set,Setze
+de-de,cut-up-skill.Set,Einstellung
+de-de,cut-up-skill.Set,Konfiguration
+de-de,cut-up-skill.Set,Setze Einstellung
+de-de,cut-up-skill.Set,Setze Konfiguration
+de-de,decide-skill.DecideKeyword,Entscheide
+de-de,decide-skill.DecideKeyword,Was sollte ich tragen
+de-de,decide-skill.DecideKeyword,Was sollte ich essen
+de-de,decide-skill.DecideKeyword,Spiel
+de-de,deezer.deezer,deezer
+de-de,deezer.deezer,in deezer
+de-de,deezer.deezer,auf deezer
+de-de,deezer.deezer,mit deezer
+de-de,deezer.deezer,bei deezer
+de-de,deezer.music,musik
+de-de,deezer.music,ganze album
+de-de,fallback-aiml.Memory,Gehirn
+de-de,fallback-aiml.Memory,Gedächtnis
+de-de,fallback-aiml.Memory,bedenke
+de-de,fallback-aiml.Memory,beachte
+de-de,fallback-aiml.Memory,denke an
+de-de,fallback-aiml.Memory,alles
+de-de,fallback-aiml.Reset,vergiß
+de-de,fallback-aiml.Reset,Setze zurück
+de-de,fallback-unknown.question,was ist
+de-de,fallback-unknown.question,was wird
+de-de,fallback-unknown.question,was hat
+de-de,fallback-unknown.question,was macht
+de-de,fallback-unknown.question,was tun
+de-de,fallback-unknown.question,wo ist
+de-de,fallback-unknown.question,wo wird
+de-de,fallback-unknown.question,wo hat
+de-de,fallback-unknown.question,wo macht
+de-de,fallback-unknown.question,wo tun
+de-de,fallback-unknown.question,wann ist
+de-de,fallback-unknown.question,wann wird
+de-de,fallback-unknown.question,wann hat
+de-de,fallback-unknown.question,wann macht
+de-de,fallback-unknown.question,wann tun
+de-de,fallback-unknown.who.is,wer ist
+de-de,fallback-unknown.who.is,wer wird
+de-de,fallback-unknown.who.is,wer hat
+de-de,fallback-unknown.who.is,wer macht
+de-de,fallback-unknown.who.is,wer tut
+de-de,fallback-unknown.why.is,warum ist
+de-de,fallback-unknown.why.is,warum wird
+de-de,fallback-unknown.why.is,warum
+de-de,fallback-unknown.why.is,warum tut
+de-de,fallback-unknown.why.is,warum machst
+de-de,fallback-wolfram-alpha.Give,nenne
+de-de,fallback-wolfram-alpha.Give,gib
+de-de,fallback-wolfram-alpha.Give,Was
+de-de,fallback-wolfram-alpha.Give,Email
+de-de,fallback-wolfram-alpha.Give,Sende
+de-de,fallback-wolfram-alpha.Source,Quelle
+de-de,fallback-wolfram-alpha.Source,Quellen
+de-de,fallback-wolfram-alpha.Source,Details
+de-de,fallback-wolfram-alpha.Source,deteil
+de-de,fallback-wolfram-alpha.Source,Info
+de-de,homeassistant.AutomationActionKeyword,aktiviere
+de-de,homeassistant.AutomationActionKeyword,feuere
+de-de,homeassistant.AutomationActionKeyword,rufe an
+de-de,homeassistant.AutomationActionKeyword,löse aus
+de-de,homeassistant.AutomationActionKeyword,Szene
+de-de,homeassistant.AutomationActionKeyword,Automatisierung
+de-de,homeassistant.AutomationActionKeyword,Skript
+de-de,homeassistant.ClimateKeyword,Setze die {entity} Temperatur auf {temperature}
+de-de,homeassistant.DecreaseVerb,reduziere
+de-de,homeassistant.DecreaseVerb,herunter
+de-de,homeassistant.DeviceTrackerKeyword,wo ist
+de-de,homeassistant.DeviceTrackerKeyword,orte
+de-de,homeassistant.DeviceTrackerKeyword,Ort
+de-de,homeassistant.DeviceTrackerKeyword,wo
+de-de,homeassistant.IncreaseVerb,erhöhe
+de-de,homeassistant.IncreaseVerb,hoch
+de-de,homeassistant.LightBrightenVerb,erhelle
+de-de,homeassistant.LightBrightenVerb,heller
+de-de,homeassistant.LightBrightenVerb,hell
+de-de,homeassistant.LightBrightenVerb,hoch
+de-de,homeassistant.LightDimVerb,dimme
+de-de,homeassistant.LightDimVerb,dunkler
+de-de,homeassistant.LightDimVerb,dunkel
+de-de,homeassistant.LightDimVerb,niedriger
+de-de,homeassistant.LightDimVerb,herunter
+de-de,homeassistant.LightsKeyword,mache an
+de-de,homeassistant.LightsKeyword,erleuchte
+de-de,homeassistant.LightsKeyword,Lichter
+de-de,homeassistant.LightsKeyword,Lampe
+de-de,homeassistant.LightsKeyword,Lampen
+de-de,homeassistant.LightsKeyword,Glühbirne
+de-de,homeassistant.LightsKeyword,Glühbirnen
+de-de,homeassistant.LightsKeyword,L.E.D.
+de-de,homeassistant.LightsKeyword,schalte ein
+de-de,homeassistant.LightsKeyword,schalte an
+de-de,homeassistant.LightsKeyword,schalte aus
+de-de,homeassistant.LightsKeyword,schalte um
+de-de,homeassistant.SensorStatusKeyword,gib an
+de-de,homeassistant.SensorStatusKeyword,Status
+de-de,homeassistant.SensorStatusKeyword,Sensor
+de-de,homeassistant.SensorStatusKeyword,Detektor
+de-de,homeassistant.SensorStatusKeyword,Anzeiger
+de-de,homeassistant.SensorStatusKeyword,Wert
+de-de,homeassistant.SensorStatusKeyword,lies
+de-de,homeassistant.SensorStatusKeyword,what ist das aktuelle
+de-de,homeassistant.SensorStatusKeyword,what ist die aktuelle
+de-de,homeassistant.SensorStatusKeyword,what ist der aktuelle
+de-de,homeassistant.SensorStatusKeyword,was ist aktuell
+de-de,homeassistant.SensorStatusKeyword,erzähl
+de-de,homeassistant.SensorStatusKeyword,sag mir das aktuellen
+de-de,homeassistant.SensorStatusKeyword,sag mir das aktuelle
+de-de,homeassistant.SensorStatusKeyword,sag mir die aktuellen
+de-de,homeassistant.SensorStatusKeyword,sag mir die aktuelle
+de-de,homeassistant.SensorStatusKeyword,sag mir der aktuellen
+de-de,homeassistant.SensorStatusKeyword,sag mir der aktuelle
+de-de,homeassistant.SensorStatusKeyword,Sag mit das aktuellen
+de-de,homeassistant.SensorStatusKeyword,Sag mit das aktuelle
+de-de,homeassistant.SensorStatusKeyword,Sag mit die aktuellen
+de-de,homeassistant.SensorStatusKeyword,Sag mit die aktuelle
+de-de,homeassistant.SensorStatusKeyword,Sag mit den aktuellen
+de-de,homeassistant.SensorStatusKeyword,Sag mit den aktuelle
+de-de,homeassistant.SensorStatusKeyword,Gib mir den Wert von
+de-de,homeassistant.SensorStatusKeyword,Was ist der Wert des Thermostats
+de-de,homeassistant.SetVerb,setze
+de-de,homeassistant.SwitchActionKeyword,drehe
+de-de,homeassistant.SwitchActionKeyword,wechsle
+de-de,installer.Install,installieren
+de-de,ip.IP,IP Adresse
+de-de,ip.IP,IP
+de-de,ip.IP,Netzwerkadresse
+de-de,ip.query,wie
+de-de,ip.query,was
+de-de,ip.query,nenne mir
+de-de,ip.query,zeige mir
+de-de,joke.Adult,Porno
+de-de,joke.Adult,sexy
+de-de,joke.Adult,sex
+de-de,joke.Adult,dirty
+de-de,joke.Adult,verrucht
+de-de,joke.Adult,frech
+de-de,joke.Adult,nuttig
+de-de,joke.Chuck,chuck
+de-de,joke.Chuck,chuck norris
+de-de,joke.Joke,Witz
+de-de,joke.Joke,lass mich lachen
+de-de,joke.Joke,Erleuchete meinen Tag
+de-de,joke.Joke,erhelle meine Tag
+de-de,joke.Joke,erzähle einen Witz
+de-de,joke.Neutral,Neutral
+de-de,joke.Neutral,nicht beleidigend
+de-de,joke.Neutral,normal
+de-de,joke.Neutral,harmlos
+de-de,krunner-search-skill.CalculateKeyword,rechne
+de-de,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,durchsuche den Computer nach
+de-de,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,suche das
+de-de,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,durchsuche Computer nach
+de-de,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,suche Datei
+de-de,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,suche Datei
+de-de,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,suche Dateinamen
+de-de,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,durschuche den computer nach
+de-de,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,suche System
+de-de,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,System
+de-de,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,Systemsuche
+de-de,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,Systemsuchdatei
+de-de,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,finde Datei
+de-de,krunner-search-skill.RecentFileKeyword,Letzten anzeigen
+de-de,krunner-search-skill.RecentFileKeyword,zeige neueste Dateien an
+de-de,krunner-search-skill.RecentFileKeyword,zeige neueste Dokumente an
+de-de,krunner-search-skill.RecentFileKeyword,neueste Dokumente
+de-de,krunner-search-skill.RecentFileKeyword,neueste Dateien
+de-de,laugh.Laugh,lach
+de-de,laugh.Laugh,Lachen
+de-de,laugh.Laugh,Gelächter
+de-de,laugh.Laugh,Gelächter
+de-de,laugh.Stop,abbrechen
+de-de,laugh.Stop,brich ab
+de-de,laugh.Stop,stop
+de-de,learning-skill.Learning,lernen
+de-de,learning-skill.Learning,beibringen
+de-de,learning-skill.Learning,zeigen
+de-de,learning-skill.Learning,Lehrer
+de-de,learning-skill.Private,privates
+de-de,learning-skill.Private,geheimes
+de-de,learning-skill.Private,für dich
+de-de,learning-skill.Private,bewahren
+de-de,learning-skill.Query,kannst du
+de-de,learning-skill.Query,willst du
+de-de,learning-skill.Query,willst
+de-de,learning-skill.Query,kannst
+de-de,learning-skill.Query,darf ich
+de-de,learning-skill.Something,etwas
+de-de,learning-skill.Something,sein
+de-de,learning-skill.Something,irgendwas
+de-de,learning-skill.cancel,abbrechen
+de-de,learning-skill.cancel,halt
+de-de,learning-skill.cancel,exit
+de-de,learning-skill.cancel,stop
+de-de,learning-skill.humor,humor
+de-de,learning-skill.humor,witz
+de-de,learning-skill.humor,spaß
+de-de,learning-skill.humor,lachen
+de-de,learning-skill.love,liebe
+de-de,learning-skill.love,leindenschaft
+de-de,learning-skill.love,gefühle
+de-de,learning-skill.science,wissenschaft
+de-de,learning-skill.science,wissen
+de-de,learning-skill.science,weissheit
+de-de,lifx-mycroft.Brightness,Helligkeit
+de-de,lifx-mycroft.Brightness,Lichtstärke
+de-de,lifx-mycroft.Decrease,abdunkeln
+de-de,lifx-mycroft.Decrease,dämpfen
+de-de,lifx-mycroft.Decrease,verblassen
+de-de,lifx-mycroft.Decrease,dimmen
+de-de,lifx-mycroft.Decrease,schwärzen
+de-de,lifx-mycroft.Decrease,reduzieren
+de-de,lifx-mycroft.Decrease,herunter
+de-de,lifx-mycroft.Increase,erhellen
+de-de,lifx-mycroft.Increase,erhellen
+de-de,lifx-mycroft.Increase,beleuchten
+de-de,lifx-mycroft.Increase,verstärken
+de-de,lifx-mycroft.Increase,erhöhen
+de-de,lifx-mycroft.Increase,herauf
+de-de,lifx-mycroft.Increase,hoch
+de-de,lifx-mycroft.Off,ab
+de-de,lifx-mycroft.Off,aus
+de-de,lifx-mycroft.Off,deaktivieren
+de-de,lifx-mycroft.On,an
+de-de,lifx-mycroft.On,aktivieren
+de-de,lifx-mycroft.Saturation,Sättigung
+de-de,lifx-mycroft.Saturation,Intensität
+de-de,lifx-mycroft.Temperature,Temperatur
+de-de,lifx-mycroft.Temperature,Wärme
+de-de,lifx-mycroft.Temperature,Farbtemperatur
+de-de,lifx-mycroft.Temperature,Kelvin
+de-de,lifx-mycroft.Temperature,Farbtemperatur
+de-de,lifx-mycroft.Turn,wende
+de-de,lifx-mycroft.Turn,wechsle
+de-de,lifx-mycroft.Turn,setze
+de-de,lifx-mycroft.Turn,wechsle
+de-de,lifx-mycroft.Turn,schalte um
+de-de,lifx-mycroft.Turn,ändere
+de-de,lifx-mycroft.Turn,schalte um
+de-de,lifx-mycroft.Turn,wechsle
+de-de,lifx-mycroft.Turn,mache
+de-de,list-manager-skill.add,füge hinzu
+de-de,list-manager-skill.add,hinzufügen
+de-de,list-manager-skill.add,erstelle
+de-de,list-manager-skill.add,erstelle n
+de-de,list-manager-skill.del,entferne
+de-de,list-manager-skill.del,entferne n
+de-de,list-manager-skill.list,Liste
+de-de,list-manager-skill.list,Listen
+de-de,list-manager-skill.what,welche
+de-de,list-manager-skill.what,was
+de-de,mycroft-node-red.WhyKeyword,warum
+de-de,mycroft-timer.All,alle
+de-de,mycroft-timer.All,laufen
+de-de,mycroft-timer.Cancel,stornieren
+de-de,mycroft-timer.Cancel,löschen
+de-de,mycroft-timer.Cancel,abschalten
+de-de,mycroft-timer.Cancel,töten
+de-de,mycroft-timer.Cancel,stop
+de-de,mycroft-timer.Cancel,stoppen
+de-de,mycroft-timer.Mute,mute
+de-de,mycroft-timer.Mute,leise
+de-de,mycroft-timer.Mute,verlassen
+de-de,mycroft-timer.Mute,ende
+de-de,mycroft-timer.Timer,timer
+de-de,mycroft-timer.Timer,timers
+de-de,national-parks-skill.Describe,beschreibe
+de-de,national-parks-skill.Describe,Erzähl mir von
+de-de,national-parks-skill.List,Liste
+de-de,national-parks-skill.National.Park,Nationalpark
+de-de,national-parks-skill.National.Parks,Nationalparks
+de-de,national-parks-skill.Quiz.Repeat,wiederhole das Nationalparkquiz
+de-de,national-parks-skill.Quiz.me,stelle mir Quizfragen zu den Nationalparks
+de-de,national-parks-skill.Whereis,Wo ist
+de-de,pairing.DeviceKeyword,Einheit
+de-de,pairing.DeviceKeyword,Gerät
+de-de,pairing.DeviceKeyword,mycroft
+de-de,pairing.PairingKeyword,Mein Gerät koppeln
+de-de,pairing.PairingKeyword,Mein Gerät registrieren
+de-de,personal.WhatAreYouKeyword,Was machst du
+de-de,personal.WhatAreYouKeyword,für was bist du gut
+de-de,personal.WhenWereYouBornKeyword,Wann wurdest du geboren
+de-de,personal.WhenWereYouBornKeyword,Wann wurdest du geschaffen
+de-de,personal.WhereWereYouBornKeyword,Wo bist du geboren
+de-de,personal.WhereWereYouBornKeyword,Wo wurdest du gemacht
+de-de,personal.WhoAreYouKeyword,wer bist du
+de-de,personal.WhoMadeYouKeyword,wer hat dich gemacht
+de-de,personal.WhoMadeYouKeyword,wer hat dich erfunden
+de-de,plasma-activities-skill.ActivitiesCreateKeyword,Eine neue Aktivität erstellen
+de-de,plasma-activities-skill.ActivitiesCreateKeyword,Neue Aktivität erstellen
+de-de,plasma-activities-skill.ActivitiesCreateKeyword,Aktivität erstellen
+de-de,plasma-activities-skill.ActivitiesCreateKeyword,Starte eine neue Aktivität
+de-de,plasma-activities-skill.ActivitiesCreateKeyword,Erstelle neue Aktivitäten
+de-de,plasma-activities-skill.ActivitiesCreateKeyword,starte neue Aktivitäten
+de-de,plasma-activities-skill.ActivitiesCreateKeyword,erstelle Aktivitäten
+de-de,plasma-activities-skill.ActivitiesCreateKeyword,neue Aktivität
+de-de,plasma-activities-skill.ActivitiesCreateKeyword,neue Aktivitäten
+de-de,plasma-activities-skill.ActivitiesRemoveKeyword,entferne Aktivität
+de-de,plasma-activities-skill.ActivitiesRemoveKeyword,entferne die Aktivität
+de-de,plasma-activities-skill.ActivitiesRemoveKeyword,lösche Aktivität
+de-de,plasma-activities-skill.ActivitiesRemoveKeyword,Lösche die Aktivität
+de-de,plasma-activities-skill.ActivitiesShowKeyword,zeige aktuelle Aktivitäten
+de-de,plasma-activities-skill.ActivitiesShowKeyword,zeige Aktivitäten
+de-de,plasma-activities-skill.ActivitiesShowKeyword,Aktivitäten
+de-de,plasma-activities-skill.ActivitiesShowKeyword,Zeige mir die aktuellen Aktivitäten an
+de-de,plasma-activities-skill.ActivitiesShowKeyword,zeige Aktivitäten an
+de-de,plasma-activities-skill.ActivitiesStopKeyword,beende momentane Aktivität
+de-de,plasma-activities-skill.ActivitiesStopKeyword,beende Aktivität
+de-de,plasma-activities-skill.ActivitiesSwitchKeyword,wechsle momentane Aktivität
+de-de,plasma-activities-skill.ActivitiesSwitchKeyword,wechsle zur Aktivität
+de-de,plasma-activities-skill.ActivitiesSwitchKeyword,wechsle Aktivität
+de-de,playback-control.Next,nächster
+de-de,playback-control.Next,weiter
+de-de,playback-control.Pause,pause
+de-de,playback-control.PlayResume,fortsetzen
+de-de,playback-control.PlayResume,weiter
+de-de,playback-control.Prev,voheriger
+de-de,playback-control.Resume,fortsetzen
+de-de,playback-control.Resume,weiter
+de-de,playback-control.Track,Titel
+de-de,pokemon-skill.Ability,Fähigkeit
+de-de,pokemon-skill.Ability,Fähigkeiten
+de-de,pokemon-skill.AbilityEffectEntry,detaillierte Infos
+de-de,pokemon-skill.AbilityEffectEntry,detaillierte Informationen
+de-de,pokemon-skill.AbilityEffectEntryShort,einige Infos
+de-de,pokemon-skill.AbilityEffectEntryShort,einige Informationen
+de-de,pokemon-skill.AbilityEffectEntryShort,Infos
+de-de,pokemon-skill.AbilityEffectEntryShort,Informationen
+de-de,pokemon-skill.AbilityFlavorText,Flavour-Text
+de-de,pokemon-skill.AbilityFlavorText,Im Pokedex steht
+de-de,pokemon-skill.AbilityFlavorText,Pokedex
+de-de,pokemon-skill.Against,gegen
+de-de,pokemon-skill.Attack,Attacke
+de-de,pokemon-skill.Base,Basis
+de-de,pokemon-skill.Base,Basisstatistik
+de-de,pokemon-skill.Base,Basisstatistiken
+de-de,pokemon-skill.CaptureRate,fangen
+de-de,pokemon-skill.CaptureRate,Fangrate
+de-de,pokemon-skill.CaptureRate,Fangrate
+de-de,pokemon-skill.CaptureRate,fangen
+de-de,pokemon-skill.CaptureRate,Fangrate
+de-de,pokemon-skill.Color,Farbe
+de-de,pokemon-skill.Defense,Verteidigung
+de-de,pokemon-skill.Effective,effektiv
+de-de,pokemon-skill.Effective,Effektivität
+de-de,pokemon-skill.Effective,gut
+de-de,pokemon-skill.Effective,schlecht
+de-de,pokemon-skill.Effective,Schaden
+de-de,pokemon-skill.Egg,Ei
+de-de,pokemon-skill.Egg,Eigruppe
+de-de,pokemon-skill.Egg,Eier
+de-de,pokemon-skill.Egg,Eigruppen
+de-de,pokemon-skill.Egg,schlüpfe aus
+de-de,pokemon-skill.Egg,brüte
+de-de,pokemon-skill.Egg,schlüpft
+de-de,pokemon-skill.EnglishLength,Fuß
+de-de,pokemon-skill.EnglishLength,Zoll
+de-de,pokemon-skill.EnglishWeight,Pfund
+de-de,pokemon-skill.Evolve,entwickeln
+de-de,pokemon-skill.Evolve,Evolution
+de-de,pokemon-skill.Evolve,entwickelt sich
+de-de,pokemon-skill.Evolve,kommt
+de-de,pokemon-skill.Evolve,Zug
+de-de,pokemon-skill.Experience,Erfahrung
+de-de,pokemon-skill.Experience,E x p
+de-de,pokemon-skill.Experience,Exp
+de-de,pokemon-skill.Experience,Erfahrungspunkte
+de-de,pokemon-skill.Experience,Erfahrungspunkte
+de-de,pokemon-skill.Experience,erfahren
+de-de,pokemon-skill.Final,finale
+de-de,pokemon-skill.Final,letzte
+de-de,pokemon-skill.First,Basis
+de-de,pokemon-skill.First,erste
+de-de,pokemon-skill.First,einfach
+de-de,pokemon-skill.First,am einfachsten
+de-de,pokemon-skill.Form,Form
+de-de,pokemon-skill.From,von
+de-de,pokemon-skill.From,vor
+de-de,pokemon-skill.From,vorherig
+de-de,pokemon-skill.Game,Spiel
+de-de,pokemon-skill.Game,Pokemon Version
+de-de,pokemon-skill.Game,Generation
+de-de,pokemon-skill.Game,Gen
+de-de,pokemon-skill.HP,Hp
+de-de,pokemon-skill.HP,H p
+de-de,pokemon-skill.HP,Gesundheit
+de-de,pokemon-skill.Habitat,Lebensraum
+de-de,pokemon-skill.Habitat,lebt
+de-de,pokemon-skill.Habitat,Leben
+de-de,pokemon-skill.Habitat,Zuhause
+de-de,pokemon-skill.Happiness,Glücklichkeit
+de-de,pokemon-skill.Happiness,glücklich
+de-de,pokemon-skill.Happiness,fühlen
+de-de,pokemon-skill.Happiness,Gefühl
+de-de,pokemon-skill.Happiness,Freundschaft
+de-de,pokemon-skill.Happiness,freundlich
+de-de,pokemon-skill.Height,Höhe
+de-de,pokemon-skill.Height,hoch
+de-de,pokemon-skill.Height,groß
+de-de,pokemon-skill.ID,Pokedex
+de-de,pokemon-skill.ID,ID
+de-de,pokemon-skill.ID,Nummer
+de-de,pokemon-skill.ID,I D
+de-de,pokemon-skill.Into,in
+de-de,pokemon-skill.Into,zu
+de-de,pokemon-skill.Into,nächster
+de-de,pokemon-skill.Into,nach
+de-de,pokemon-skill.Into,wann
+de-de,pokemon-skill.Into,werden
+de-de,pokemon-skill.Into,wie
+de-de,pokemon-skill.Introduced,vorgestellt
+de-de,pokemon-skill.Introduced,zuerst gesehen
+de-de,pokemon-skill.Learn,lernen
+de-de,pokemon-skill.MetricLength,Meter
+de-de,pokemon-skill.MetricLength,c m
+de-de,pokemon-skill.MetricLength,cm
+de-de,pokemon-skill.MetricWeight,Kilogramm
+de-de,pokemon-skill.MetricWeight,Kilogramm
+de-de,pokemon-skill.MetricWeight,Gramm
+de-de,pokemon-skill.MetricWeight,kg
+de-de,pokemon-skill.MetricWeight,k g
+de-de,pokemon-skill.Move,Attacke
+de-de,pokemon-skill.Nature,Natur
+de-de,pokemon-skill.Nature,mögen
+de-de,pokemon-skill.Pokemon,Pokemon
+de-de,pokemon-skill.Shape,Form
+de-de,pokemon-skill.Shape,geformt
+de-de,pokemon-skill.Special,spezial
+de-de,pokemon-skill.Speed,Initiative
+de-de,pokemon-skill.Speed,schnell
+de-de,pokemon-skill.Type,Typ
+de-de,pokemon-skill.Type,Typen
+de-de,pokemon-skill.Weight,Gewicht
+de-de,pokemon-skill.Weight,wiegen
+de-de,pokemon-skill.Weight,schwer
+de-de,pokemon-skill.Weight,wiegt
+de-de,pokemon-skill.Weight,Masse
+de-de,pokemon-skill.Weight,Fett
+de-de,query.Question,was
+de-de,query.Question,wer
+de-de,query.Question,wann
+de-de,query.Question,wie
+de-de,query.Question,wo
+de-de,remember-skill.All,Alle
+de-de,remember-skill.Did,tat
+de-de,remember-skill.Forget,vergiss
+de-de,remember-skill.Phrase,Phrase
+de-de,remember-skill.Phrase,Phrasen
+de-de,remember-skill.Remember,erinnere
+de-de,remember-skill.You,du
+de-de,simple-youtube.official,official
+de-de,simple-youtube.youtube,youtube
+de-de,simple-youtube.youtube,you tube
+de-de,singing.Sing,singe
+de-de,singing.Sing,singe mir ein lied
+de-de,singing.Sing,kannst du mir ein Lied singen
+de-de,singing.Sing,singe mir etwas vor
+de-de,singing.Sing,singe mir was vor
+de-de,singing.Sing,singe für mich
+de-de,sip.neon.accept,Akzeptieren
+de-de,sip.neon.accept,Antworten
+de-de,sip.neon.accept,Anruf annehmen
+de-de,sip.neon.accept,Anruf beantworten
+de-de,sip.neon.and_say,und sag
+de-de,sip.neon.and_say,und sage
+de-de,sip.neon.call,Anruf
+de-de,sip.neon.reject,ablehnen
+de-de,sip.neon.reject,auflegen
+de-de,sip.neon.reject,Anruf ablehnen
+de-de,sip.neon.reject,Anruf auflegen
+de-de,sip.neon.reject,Anruf aufhängen
+de-de,sip.neon.reject,einhängen
+de-de,speak.Speak,spreche
+de-de,speak.Speak,sage
+de-de,speak.Speak,wiederhole
+de-de,speedtest-skill.Run,starte
+de-de,speedtest-skill.Speedtest,Geschwindigkeitstest
+de-de,speedtest-skill.Speedtest,Geschwindigkeitstest
+de-de,speedtest-skill.Speedtest,Speed Test
+de-de,speedtest-skill.Speedtest,Speedtest
+de-de,spotify-skill.Device,device
+de-de,spotify-skill.Device,unit
+de-de,spotify-skill.Device,devices
+de-de,spotify-skill.Device,units
+de-de,spotify-skill.Play,Spiele
+de-de,spotify-skill.Play,höre
+de-de,spotify-skill.Play,start
+de-de,spotify-skill.Search,suche
+de-de,spotify-skill.Search,schaue nach
+de-de,spotify-skill.Spotify,Spotify
+de-de,spotify-skill.Spotify,nutze Spotify
+de-de,spotify-skill.Spotify,mit Spotify
+de-de,spotify-skill.Spotify,auf Spotify
+de-de,spotify-skill.Transfer,Übertrage
+de-de,spotify-skill.Transfer,bewege
+de-de,version-checker.Check,prüfen
+de-de,version-checker.Check,finde
+de-de,version-checker.Check,Was ist
+de-de,version-checker.Check,welche
+de-de,version-checker.PlatformBuild,platform build
+de-de,version-checker.PlatformBuild,platform version
+de-de,version-checker.PlatformBuild,firmware version
+de-de,version-checker.Version,version
+de-de,version-checker.Version,code
+de-de,version-checker.Version,release
+de-de,voip.accept,Akzeptieren
+de-de,voip.accept,Antworten
+de-de,voip.accept,Anruf annehmen
+de-de,voip.accept,Anruf beantworten
+de-de,voip.and_say,und sag
+de-de,voip.and_say,und sage
+de-de,voip.call,Anruf
+de-de,voip.reject,ablehnen
+de-de,voip.reject,auflegen
+de-de,voip.reject,Anruf ablehnen
+de-de,voip.reject,Anruf auflegen
+de-de,voip.reject,Anruf aufhängen
+de-de,voip.reject,einhängen
+de-de,volume.Decrease,leiser
+de-de,volume.Decrease,reduziere
+de-de,volume.Decrease,verringern
+de-de,volume.Decrease,herunterdrehen
+de-de,volume.Increase,lauter
+de-de,volume.Increase,anheben
+de-de,volume.Increase,steigern
+de-de,volume.Increase,erhöhen
+de-de,volume.Increase,aufdrehen
+de-de,volume.Level,0
+de-de,volume.Level,1
+de-de,volume.Level,2
+de-de,volume.Level,3
+de-de,volume.Level,4
+de-de,volume.Level,5
+de-de,volume.Level,6
+de-de,volume.Level,7
+de-de,volume.Level,8
+de-de,volume.Level,9
+de-de,volume.Level,10
+de-de,volume.Level,11
+de-de,volume.Level,Leise
+de-de,volume.Level,normal
+de-de,volume.Level,laut
+de-de,volume.Mute,mute
+de-de,volume.Mute,leise
+de-de,volume.Mute,stumm
+de-de,volume.Mute,ruhe
+de-de,volume.Unmute,zurücksetzen
+de-de,volume.Unmute,unmute
+de-de,volume.Unmute,wiederherstellen
+de-de,volume.Unmute,aufheben
+de-de,volume.Volume,Lautstärke
+de-de,volume.Volume,Lautspecher
+de-de,volume.Volume,audio
+de-de,volume.Volume,sound
+de-de,volume.neon.Decrease,leiser
+de-de,volume.neon.Decrease,reduziere
+de-de,volume.neon.Decrease,verringern
+de-de,volume.neon.Decrease,herunterdrehen
+de-de,volume.neon.Increase,lauter
+de-de,volume.neon.Increase,anheben
+de-de,volume.neon.Increase,steigern
+de-de,volume.neon.Increase,erhöhen
+de-de,volume.neon.Increase,aufdrehen
+de-de,volume.neon.Level,0
+de-de,volume.neon.Level,1
+de-de,volume.neon.Level,2
+de-de,volume.neon.Level,3
+de-de,volume.neon.Level,4
+de-de,volume.neon.Level,5
+de-de,volume.neon.Level,6
+de-de,volume.neon.Level,7
+de-de,volume.neon.Level,8
+de-de,volume.neon.Level,9
+de-de,volume.neon.Level,10
+de-de,volume.neon.Level,11
+de-de,volume.neon.Level,Leise
+de-de,volume.neon.Level,normal
+de-de,volume.neon.Level,laut
+de-de,volume.neon.Mute,mute
+de-de,volume.neon.Mute,leise
+de-de,volume.neon.Mute,stumm
+de-de,volume.neon.Mute,ruhe
+de-de,volume.neon.Unmute,zurücksetzen
+de-de,volume.neon.Unmute,unmute
+de-de,volume.neon.Unmute,wiederherstellen
+de-de,volume.neon.Unmute,aufheben
+de-de,volume.neon.Volume,Lautstärke
+de-de,volume.neon.Volume,Lautspecher
+de-de,volume.neon.Volume,audio
+de-de,volume.neon.Volume,sound
+de-de,weather.Forecast,Vorhersage
+de-de,weather.Humidity,Feuchtigkeit
+de-de,weather.Humidity,Luftfeuchte
+de-de,weather.Humidity,Luftfeuchtigkeit
+de-de,weather.Later,nächste Stunden
+de-de,weather.Later,später
+de-de,weather.Later,demnächst
+de-de,weather.Later,paar Stunden
+de-de,weather.Later,einigen stunden
+de-de,weather.Later,Bald
+de-de,weather.Location,Seattle
+de-de,weather.Location,Los Angeles california
+de-de,weather.Location,los angeles
+de-de,weather.Location,la
+de-de,weather.Location,Lawrence kansas
+de-de,weather.Location,portland oregon
+de-de,weather.Location,portland
+de-de,weather.Location,spokane
+de-de,weather.Location,new york
+de-de,weather.Location,chicago
+de-de,weather.Location,houston
+de-de,weather.Location,austin
+de-de,weather.Location,san diego
+de-de,weather.Location,san francisco
+de-de,weather.Location,san jose
+de-de,weather.Location,boston
+de-de,weather.Location,washington d c
+de-de,weather.Location,atlanta
+de-de,weather.Next,nächste
+de-de,weather.Next,nocheinmal
+de-de,weather.Next,weiter
+de-de,weather.Next,zukünftig
+de-de,weather.Precipitation,Regen
+de-de,weather.Precipitation,Schnee
+de-de,weather.Precipitation,Niederschlag
+de-de,weather.Precipitation,Regnerisch
+de-de,weather.Query,wie
+de-de,weather.Query,was ist
+de-de,weather.Query,sage
+de-de,weather.Query,wann
+de-de,weather.Sunrise,Sonnenaufgang
+de-de,weather.Sunrise,aufgang der Sonne
+de-de,weather.Sunrise,dämmerung
+de-de,weather.Sunrise,Tagesanbruch
+de-de,weather.Sunset,Sonnenuntergang
+de-de,weather.Sunset,abenddämmerung
+de-de,weather.Weather,Wetter
+de-de,weather.Weather,Temperatur
+de-de,weather.Weather,Prognose
+de-de,weather.WeatherType,regen
+de-de,weather.WeatherType,regnen
+de-de,weather.WeatherType,Schnee
+de-de,weather.WeatherType,schneien
+de-de,weather.WeatherType,Schneeregen
+de-de,weather.WeatherType,Hagel
+de-de,weather.WeatherType,hageln
+de-de,weather.WeatherType,sonnig
+de-de,weather.WeatherType,Sonne
+de-de,weather.WeatherType,hot
+de-de,weather.WeatherType,warm
+de-de,weather.WeatherType,kälte
+de-de,weather.WeatherType,kalt
+de-de,weather.Windy,Windig
+de-de,weather.Windy,Wind
+de-de,weather.Windy,luftig
+de-de,white-house-adventure.Delete,lösche
+de-de,white-house-adventure.Play,spiele
+de-de,white-house-adventure.Play,gehe zu
+de-de,white-house-adventure.Play,gehe zu
+de-de,white-house-adventure.Save,speichern
+de-de,white-house-adventure.Save,Speicherstand
+de-de,white-house-adventure.Save,gespeichert
+de-de,white-house-adventure.Zork,zork
+de-de,white-house-adventure.Zork,Briefkasten
+de-de,white-house-adventure.Zork,weißes Haus

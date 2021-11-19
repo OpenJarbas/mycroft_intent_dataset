@@ -1,0 +1,161 @@
+fr-fr,auto-volume-skill.activate,Activer le volume automatique
+fr-fr,auto-volume-skill.activate,Activer le volume automatique
+fr-fr,auto-volume-skill.activate,Allumer le volume automatique
+fr-fr,auto-volume-skill.activate,Active le volume automatique
+fr-fr,auto-volume-skill.deactivate,Désactiver le volume automatique
+fr-fr,auto-volume-skill.deactivate,Désactiver le volume automatique
+fr-fr,auto-volume-skill.deactivate,Éteindre le volume automatique
+fr-fr,auto-volume-skill.deactivate,Désactive le volume automatique
+fr-fr,auto-volume-skill.reset,Supprimer les mesures du volume automatique
+fr-fr,auto-volume-skill.reset,Effacer les mesures du volume automatique
+fr-fr,auto-volume-skill.reset,Réinitialiser les mesures du volume automatique
+fr-fr,cocktail.Needed,De quoi a-t-on besoin pour faire (un|une) {drink}
+fr-fr,cocktail.Needed,De quoi (j'aurai|tu auras) besoin (pour|pour faire) (un|une) {drink}
+fr-fr,cocktail.Needed,Quels sont les (ingrédients|ingrédient) (d'|pour) (un|une) {drink}
+fr-fr,cocktail.Recipie,Comment dois (je|tu) (faire|préparer) (un|une) {drink}
+fr-fr,cocktail.Recipie,dis (moi|nous) comment (faire|préparer) (un|une) {drink}
+fr-fr,cocktail.Recipie,donne (moi|nous) les instructions pour (un|une) {drink}
+fr-fr,cocktail.Recipie,comment (faire|préparer) (un|une) {drink}
+fr-fr,cocktail.Recipie,Quelle est la recette pour (un|une) {drink}
+fr-fr,count-skill.count,Compte jusqu'à {number}
+fr-fr,count-skill.countdown,Compte à rebours depuis {number}
+fr-fr,count-skill.countdown,Compte à rebours depuis {number}
+fr-fr,count-skill.countdown,Compte à l'envers depuis {number}
+fr-fr,count-skill.countdown,Compte à l'envers depuis {number}
+fr-fr,count-skill.countdown,Compte à rebours depuis {number}
+fr-fr,count-skill.countdown,Compte à rebours depuis {number}.
+fr-fr,count-skill.countdown,Compte à rebours depuis {number} 
+fr-fr,ddg.birthdate,quand est né {person}
+fr-fr,ddg.birthdate,quelle est la date de naissance de {person}
+fr-fr,ddg.birthdate,quand {person} est né
+fr-fr,ddg.search_duck,cherche sur duck duck go au sujet de {query}
+fr-fr,ddg.search_duck,cherche sur duck duck au sujet de {query}
+fr-fr,ddg.search_duck,demande à duck duck à propos de {query}
+fr-fr,ddg.search_duck,demande à duck duck go à propos de {query}
+fr-fr,ddg.search_duck,que dit duck duck go à propos de {query}
+fr-fr,ddg.search_duck,que dit duck duck à propos de {query}
+fr-fr,ddg.search_duck,cherche sur duck au sujet de {query}
+fr-fr,ddg.search_duck,que dit duck à propos de {query}
+fr-fr,ddg.who,qui est {person}
+fr-fr,dice-skill.Dice,lancer ({count}|) d {type} (+|plus|) ({modifier}|)
+fr-fr,dice-skill.NormalDice,lancer ({count}|) (les dés|le dé)
+fr-fr,dice-skill.Range,Génère un nombre aléatoire entre {low} et {high}
+fr-fr,dice-skill.Range,Génère un nombre aléatoire entre {low} et {high}
+fr-fr,dice-skill.Range,Donne-moi un nombre entre {low} et {high}
+fr-fr,dice-skill.Range,Dis-moi un nombre entre {low} et {high}
+fr-fr,email-skill.check.email,mettre à jour mes courriels
+fr-fr,email-skill.check.email,mettre à jour mes courriels
+fr-fr,email-skill.check.email,est-ce que j'ai des nouveaux courriels
+fr-fr,email-skill.check.email,est-ce que j'ai des nouveaux courriels
+fr-fr,email-skill.check.email,est-ce que j'ai des nouveaux courriels
+fr-fr,email-skill.enquire.email,Est-ce que j'ai des courriels de l’adresse {email}
+fr-fr,email-skill.enquire.email,AI-je reçu (un|des) (email|mail|courriel) de {email}
+fr-fr,email-skill.enquire.email,Ai-je reçu des courriels de {email}
+fr-fr,email-skill.notify,parle moi de mes (emails|courriels|mails)
+fr-fr,email-skill.notify,dis-moi quand je reçois un (mail | email | courriel | nouveau mail | nouvel email | nouveau courriel)
+fr-fr,email-skill.notify,dis-moi quand je reçois (un mail | un courriel | un email) (de | provenant de) {sender}
+fr-fr,email-skill.notify,parle-me des (mails|emails|courriels) (de | provenant de) {sender}
+fr-fr,email-skill.notify,notifie moi des (emails | mails | courriels | nouveaux emails | nouveaux mails | nouveaux courriels)
+fr-fr,email-skill.notify,M'avertir quand je reçois un (message | nouveau message | courriel | nouveau courriel) de {sender}
+fr-fr,email-skill.notify,M'avertir quand je reçois un (message | courriel | nouveau message | nouveau courriel)
+fr-fr,email-skill.notify,dis-moi quand je reçois (un mail | un courriel | un email) (de | provenant de) {sender}
+fr-fr,email-skill.stop,ne me notifie pas de (courriels | email | mails | nouveaux courriels | nouveaux emails | nouveaux mails)
+fr-fr,email-skill.stop,ne m'avertis pas quand je reçois un (courriel | mail | nouveau courriel | nouveau mail) (de | par) {sender}
+fr-fr,email-skill.stop,Ne m'avertis (pas|plus) des (emails | mails | courriels | nouveaux emails | nouveaux mails | nouveaux courriels)
+fr-fr,email-skill.stop,Arrête de m'avertir lorsque je reçois un (courriel | mail | nouveau courriel | nouveau mail) (de | par) {sender}
+fr-fr,email-skill.stop,ne me (parle|notifie) pas (d'|de|des) (emails | mails | courriels | nouveaux emails | nouveaux mails | nouveaux courriels)
+fr-fr,email-skill.stop,Ne m'averti pas quand je reçois un (message | nouveau message | courriel | nouveau courriel) (de|par) {sender}
+fr-fr,email-skill.stop,ne me parle plus de (courriels | mails | nouveaux courriels | nouveaux mails | nouveaux courriels)
+fr-fr,email-skill.stop,ne me parle plus de (courriel | mail | nouveau courriel | nouveau mails) (de | par) {sender}
+fr-fr,emby-skill.diagnostic,vérifie la connexion (aimby|m bi|m vi|n vi|émily)
+fr-fr,emby-skill.diagnostic,exécute (le|un) diagnostic (aimby|m bi|m vi|n vi|émily)
+fr-fr,emby-skill.diagnostic,vérifie (aimby|m bi|m vi|n vi|émily)
+fr-fr,emby-skill.emby,Lire {media} avec emby
+fr-fr,emby-skill.emby,lire {media} avec mb
+fr-fr,emby-skill.emby,(joue|jouer) l'artiste {artist} (de|qui se trouve sur) aimby
+fr-fr,emby-skill.emby,(joue|jouer) l'artiste {artist} (de|qui se trouve sur) m bi
+fr-fr,emby-skill.emby,(joue|jouer) l'album {album} (de|qui se trouve sur) emby
+fr-fr,emby-skill.emby,(joue|jouer) l'album {album} (de|qui se trouve sur) m bi
+fr-fr,fairytalez-skill.continue,Continue l'histoire
+fr-fr,fairytalez-skill.continue,Continue à raconter l'histoire
+fr-fr,fairytalez-skill.continue,Continue le conte de fées
+fr-fr,fairytalez-skill.continue,Continue de raconter le conte de fées
+fr-fr,fairytalez-skill.continue,Continue le conte de fées
+fr-fr,fairytalez-skill.continue,Continue avec le conte de fée
+fr-fr,fairytalez-skill.continue,Continue avec le conte de fée
+fr-fr,fairytalez-skill.fairytalez,(Racontes|Lis) (moi|) un(e bonne|bon) (histoire|compte de fée)
+fr-fr,fairytalez-skill.fairytalez,(Raconte|Lis) (moi|) l'histoire de {tale}
+fr-fr,iss-tracker-skill.tracker.iss,Où est la station spatiale internationale
+fr-fr,iss-tracker-skill.tracker.iss,Localise l'I S S
+fr-fr,iss-tracker-skill.tracker.iss,Où est l'I S S
+fr-fr,laugh.Laugh,ris comme alexa
+fr-fr,laugh.Laugh,peux tu rire ?
+fr-fr,laugh.Laugh,rire démoniaque
+fr-fr,laugh.RandomLaugh,ris aléatoirement
+fr-fr,laugh.RandomLaugh,active le rire aléatoire
+fr-fr,laugh.RandomLaugh,rire aléatoire
+fr-fr,mark-2.brightness,affaiblir (les|vos) yeux à {brightness} (pourcent|)
+fr-fr,mark-2.brightness,affaiblir à {brightness} (pourcent|)
+fr-fr,mark-2.brightness,baisser (la luminosité|l'illumination) de vos yeux à {brightness} (pourcent|)
+fr-fr,mark-2.brightness,mettre (la luminosité|l'illumination) (plus bas|plus haut) à {brightness} (pourcent|)
+fr-fr,mark-2.brightness,(augmenter|diminuer) (la|le|l'|) (luminosité|éclairage) à {brightness} (pourcent|)
+fr-fr,mark-2.brightness,éclairci (un peu|) à {brightness} (pourcent|)
+fr-fr,mark-2.brightness,(change|set|switch) de {brightness} (percent|) (eye|) (brightness|illumination)
+fr-fr,mark-2.brightness,(change|set|switch) (the|your) (eye|) (brightness|illumination) (level|) à {brightness} (percent|)
+fr-fr,mark-2.brightness,(change|set|switch) (the|your) (eye|) (brightness|illumination) (level|)
+fr-fr,mark-2.brightness,tu es (trop|) (clair|foncé)
+fr-fr,mark-2.brightness,tu es (trop|) (lumineux|sombre)
+fr-fr,mark-2.brightness,éclaircir
+fr-fr,mark-2.brightness,baisser un peu l'intensité
+fr-fr,mark-2.brightness.auto,régler la luminosité sur automatique
+fr-fr,mark-2.brightness.auto,luminosité automatique
+fr-fr,mark-2.device.brightness.settings,afficher les réglages de luminosité
+fr-fr,mark-2.device.brightness.settings,montre les réglages de luminosité de l'appareil
+fr-fr,mark-2.device.homescreen.settings,affiche les paramètres de l'écran d'accueil
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de (home|resting|idle) (screen|face|page)
+fr-fr,mark-2.device.homescreen.settings,montre le paramètre de l'appareil (home|resting|idle) (screen|face|page)
+fr-fr,mark-2.device.reset.settings,affiche les paramètres de réinitialisation d'usine
+fr-fr,mark-2.device.reset.settings,affiche les réglages de réinitialisation d'usine de l'appareil
+fr-fr,mark-2.device.settings,afficher les paramètres de l'appareil
+fr-fr,mark-2.device.settings,Ouvre les paramètres
+fr-fr,mark-2.device.ssh.settings,Afficher les paramètre SSH
+fr-fr,mark-2.device.ssh.settings,Afficher les paramètre SSH de l'appareil
+fr-fr,mark-2.device.wifi.settings,Afficher l'affichage Wifi
+fr-fr,mark-2.device.wifi.settings,Afficher la configuration Wifi
+fr-fr,mark-2.device.wifi.settings,Afficher les (réglages|paramètres) Wifi
+fr-fr,mark-2.device.wifi.settings,affiche l'écran wifi
+fr-fr,moviemaster.genre.movie.search,(liste|trouve) moi les (films|vidéos) du genre {genre}
+fr-fr,moviemaster.genre.movie.search,(liste|trouve) les (films|videos) {genre}
+fr-fr,moviemaster.genre.tv.search,(liste|trouve|récupère) les (émissions| émissions télé) du genre {genre}
+fr-fr,moviemaster.genre.tv.search,(liste|trouve|récupère) les (émissions télé|émissions) {genre}
+fr-fr,moviemaster.movie.cast,qui (joue) dans (le film) {movie}
+fr-fr,moviemaster.movie.description,De quoi parle le film {movie} ?
+fr-fr,moviemaster.movie.description,Parle (me|us) du (movie|film|flick) {movie}
+fr-fr,moviemaster.movie.description,Donne (moi|nous) (une description|le synoptique) du film {movie}
+fr-fr,moviemaster.movie.description, 
+fr-fr,moviemaster.movie.genres,A (quel genre|quels genres) le film {movie} appartient-il?
+fr-fr,moviemaster.movie.genres,Quels sont les genres du film {movie}
+fr-fr,moviemaster.movie.genres,De (quels genres|quel genre) (est|sont) (le|les) (film|films) {movie}
+fr-fr,moviemaster.movie.information,(trouve|récupère|recherche|cherche|y a t-il) des(informations|info) (sur|à propos) (le|du) film {movie} 
+fr-fr,moviemaster.movie.information,(donne|dit|récupère) (moi|nous) des (informations|infos) (sur|à propos) du film {movie}
+fr-fr,moviemaster.movie.information,(est-ce que tu a|peux-tu récupérer) des (informations|infos) sur le film {movie}
+fr-fr,moviemaster.movie.popular,(liste|recherche) (des|les) films populaires
+fr-fr,moviemaster.movie.popular,quels sont les films populaires du moment qui sont (joués|sortis) 
+fr-fr,moviemaster.movie.production,(qui|quel studio) (a produit|a fait) le film {movie}
+fr-fr,moviemaster.movie.recommendations,recommander des (films|video) (similaire au film|comme le film) {movie}
+fr-fr,moviemaster.movie.recommendations,quels sont les films que vous recommanderiez (similaire au film|comme le film|comme) {movie}
+fr-fr,moviemaster.movie.recommendations,(liste|récupère) (les|des) (|bons) films (similaires au film|comme le film|comme) {movie}
+fr-fr,moviemaster.movie.runtime,Combien (|de temps) dure le film {movie}
+fr-fr,moviemaster.movie.runtime,Quelle est (la durée|la longueur) du film {movie}
+fr-fr,moviemaster.movie.runtime,Obtiens la (durée|longueur) du film {movie}
+fr-fr,moviemaster.movie.top,(liste|quels sont|recherche) le (meilleur film|film le plus populaire|le film le mieux noté) du moment
+fr-fr,moviemaster.movie.year,(en quelle année|quand est-ce que|a quel date) le film {movie} a été (fait|réalisé|diffusé)
+fr-fr,wikiquote-skill.random,(dis|raconte) moi (quelques|une|des) (citation|chose)
+fr-fr,wikiquote-skill.random,donne moi (quelques|une|des) (citation|chose)
+fr-fr,wikiquote-skill.random,J'ai besoin de sagesse
+fr-fr,wikiquote-skill.specific,(dis|racontre) moi (quelques|une|des) citations (au sujet de|sur|de|à propos de) {subject}
+fr-fr,wikiquote-skill.specific,donne moi (quelques|une|des) citations (au sujet de|sur|de|à propos de) {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin de (quelques|) citations (au sujet de|sur|de|à propos de) {subject}
+fr-fr,wikiquote-skill.specific,(dis|racontre) moi une citations (au sujet de|sur|de|à propos de) {subject}
+fr-fr,wikiquote-skill.specific,donne moi une citation (au sujet de|sur|de|à propos de) {subject}
+fr-fr,wikiquote-skill.specific,J'ai besoin d'une citation (au sujet de|sur|de|à propos de) {subject}

@@ -1,0 +1,99 @@
+ca-es,cocktail.Needed,què (es necessita|cal|és necessari) (per|per a) fer (un|una) {drink}
+ca-es,cocktail.Needed,què (necessito|necessites|necessitem|em cal|et cal|ens cal) (per fer|per|per a|per a fer) (un|una) {drink}
+ca-es,cocktail.Needed,(quin és l'ingredient|quins són els ingredients) (d'|per fer |per a fer )(un|una) {drink}
+ca-es,cocktail.Recipie,com es (barrejaria|barreja) (un|una) {drink}
+ca-es,cocktail.Recipie,digues- (me|nos) com (fer|barrejar|preparar) (un|una) {drink}
+ca-es,cocktail.Recipie,dona('m|'ns) instruccions per (un|una) {drink}
+ca-es,cocktail.Recipie,com (fer|barrejar) (un|una) {drink}
+ca-es,cocktail.Recipie,qual és la recepta de (un|una) {drink}
+ca-es,ddg.birthdate,quan va néixer {person}
+ca-es,ddg.birthdate,quan va nàixer {person}
+ca-es,ddg.birthdate,(quan|quin) és l'aniversari (de |d'){person}
+ca-es,ddg.birthdate,quina és la data de naixement (de |d'){person}
+ca-es,ddg.search_duck,(cerca|busca|consulta|demana) a (duck duck go|ddg|de de ge|l'ànec) {query}
+ca-es,ddg.search_duck,(cerca|busca|consulta|demana) {query} a (duck duck go|ddg|de de ge|l'ànec)
+ca-es,ddg.search_duck,(cercar|buscar|consultar|demanar) a (duck duck go|ddg|de de ge|l'ànec) {query}
+ca-es,ddg.search_duck,(cercar|buscar|consultar|demanar) {query} a (duck duck go|ddg|de de ge|l'ànec)
+ca-es,ddg.search_duck,què diu (duck duck go|ddg|de de ge|l'ànec) (sobre|de) {query}
+ca-es,ddg.search_duck,què posa a (duck duck go|ddg|de de ge|l'ànec) (sobre|de) {query}
+ca-es,ddg.who,qui és {person}
+ca-es,email-skill.check.email,revisa el correu electronic
+ca-es,email-skill.check.email,comprova el meu correu
+ca-es,email-skill.check.email,tinc algun correu nou
+ca-es,email-skill.check.email,tinc cap correu
+ca-es,email-skill.check.email,tinc cap correu electronic nou
+ca-es,email-skill.enquire.email,Tinc un correu de {email}
+ca-es,email-skill.enquire.email,He rebut (qualsevol | ) correu de {email}
+ca-es,email-skill.enquire.email,He rebut correus de {email}
+ca-es,email-skill.notify,digues-me si tinc (correu | correu electrònic | nou correu | correu electrònic)
+ca-es,email-skill.notify,digues-me quan tingui (correu | correu electrònic | nou correu | correu electrònic)
+ca-es,email-skill.notify,digues-me quan rebi (un correu | un correu electrònic | un correu electrònic) (de) {sender}
+ca-es,email-skill.notify,avisa'm de (correu | correu electrònic) (de) {sender}
+ca-es,email-skill.notify,notifica'm de (correu | correu electrònic | correu nou | correu electrònic nou)
+ca-es,email-skill.notify,notifica'm de (correu | correu electrònic | correu nou | correu electrònic nou) (de) {sender}
+ca-es,email-skill.notify,notifica'm quan rebi (correu | correu electrònic | correu nou | correu electrònic nou)
+ca-es,email-skill.notify,notifica'm quan rebi (un correu | un correu electrònic | correu electrònic) (de) {sender}
+ca-es,email-skill.stop,no em notifiquis si tinc (correu|correu electrònic|correu nou|correu electrònic nou)
+ca-es,email-skill.stop,no em notifiquis si tinc (correu | correu electrònic | correu nou | correu electrònic nou) (de) {sender}
+ca-es,email-skill.stop,no em notifiquis més si tinc (correu | correu electrònic | correu nou | correu electrònic nou)
+ca-es,email-skill.stop,no em notifiquis més si tinc (correu | correu electrònic | correu nou | correu electrònic nou) (de) {sender}
+ca-es,email-skill.stop,no m'avisis si tinc (correu | correu electrònic | correu nou | correu electrònic nou)
+ca-es,email-skill.stop,no m'avisis si tinc (correu | correu electrònic | correu nou | correu electrònic nou) (de) {sender}
+ca-es,email-skill.stop,no m'avisis més si tinc (correu | correu electrònic | correu nou | correu electrònic nou)
+ca-es,email-skill.stop,no m'avisis més si tinc (correu | correu electrònic | correu nou | correu electrònic nou) (de) {sender}
+ca-es,emby-skill.diagnostic,comprovant la connexió (emby|mb|mv|nv|emily) 
+ca-es,emby-skill.diagnostic,Executa el diagnòstic (emby|mb|mv|nv|emily)
+ca-es,emby-skill.diagnostic,comprova (emby|mb|mv|nv|emily)
+ca-es,emby-skill.emby,reprodueix {media} des d'emby
+ca-es,emby-skill.emby,reprodueix {media} des de mb
+ca-es,emby-skill.emby,Posa l'artista {artist} a l'emby
+ca-es,emby-skill.emby,posa l'artista {artist} a mb
+ca-es,emby-skill.emby,posa l'album {album} a l'emby
+ca-es,emby-skill.emby,posa l'album {album} a mb
+ca-es,icanhazdadjokes.joke,(conta|diga|digue|explica)'m (alguna|una) broma
+ca-es,icanhazdadjokes.joke,(conta|diga|digue|explica) (alguna|una) broma
+ca-es,icanhazdadjokes.joke,(conta|diga|digue|explica)'m (algun|un) acudit
+ca-es,icanhazdadjokes.joke,(conta|diga|digue|explica) (algun|un) acudit
+ca-es,icanhazdadjokes.joke,digues-me (alguna|una) broma
+ca-es,icanhazdadjokes.joke,digues (alguna|una) broma
+ca-es,icanhazdadjokes.joke,digues-me (algun|un) acudit
+ca-es,icanhazdadjokes.joke,digues (algun|un) acudit
+ca-es,icanhazdadjokes.joke,(m'expliques|coneixes|saps) (cap|alguna) broma
+ca-es,icanhazdadjokes.joke,(m'expliques|coneixes|saps) (cap|algun) acudit
+ca-es,icanhazdadjokes.joke,pots dir-me (alguna|una) broma
+ca-es,icanhazdadjokes.joke,pots dir-me (algun|un) acudit
+ca-es,icanhazdadjokes.joke,fes-me riure
+ca-es,icanhazdadjokes.search_joke,(diga|digue|conta|explica)'m (alguna|una) broma (de|sobre) {search}
+ca-es,icanhazdadjokes.search_joke,(diga|digue|conta|explica)'m (algun|un) acudit (de|sobre) {search}
+ca-es,icanhazdadjokes.search_joke,saps (cap|alguna) broma (de|sobre) {search}
+ca-es,icanhazdadjokes.search_joke,saps (cap|algun) acudit (de|sobre) {search}
+ca-es,icanhazdadjokes.search_joke,em pots (dir|contar|explicar) (bromes|acudits) (de|sobre) {search}
+ca-es,icanhazdadjokes.search_joke,pots (dir|contar|explicar)-me (bromes|acudits) (de|sobre) {search}
+ca-es,icanhazdadjokes.search_joke,(broma|acudit) (de|sobre) {search}
+ca-es,icanhazdadjokes.search_joke,(una|alguna) broma (de|sobre) {search}
+ca-es,icanhazdadjokes.search_joke,(un|algun) acudit (de|sobre) {search}
+ca-es,icanhazdadjokes.search_joke,saps (bromes|acudits) (sobre|de) {search}
+ca-es,wikipedia-for-humans.wiki,(wiki|wikipedia|viqui|viquipèdia) {query}
+ca-es,wikipedia-for-humans.wiki,explica(|'m|ns) sobre {query}
+ca-es,wikipedia-for-humans.wiki,què diu la (wiki|wikipedia|viqui|viquipèdia) sobre {query}
+ca-es,wikipedia-for-humans.wiki,què hi diu la (wiki|wikipedia|viqui|viquipèdia) sobre {query}
+ca-es,wikipedia-for-humans.wiki,què posa a la (wiki|wikipedia|viqui|viquipèdia) sobre {query}
+ca-es,wikipedia-for-humans.wiki,què hi ha a la (wiki|wikipedia|viqui|viquipèdia) sobre {query}
+ca-es,wikipedia-for-humans.wiki,què hi posa a la (wiki|wikipedia|viqui|viquipèdia) sobre {query}
+ca-es,wikipedia-for-humans.wiki,(cerca|busca) a la (wiki|wikipedia|viqui|viquipèdia) (sobre|) {query}
+ca-es,wikipedia-for-humans.wikiroulette,(wiki|wikipedia|viqui|viquipèdia) ruleta
+ca-es,wikipedia-for-humans.wikiroulette,ruleta (wiki|wikipedia|viqui|viquipèdia)
+ca-es,wikipedia-for-humans.wikiroulette,(jugar|juga|juguem) a la (wiki|wikipedia) ruleta
+ca-es,wikipedia-for-humans.wikiroulette,(pàgina|article) (wiki|wikipedia|viqui|viquipèdia) (aleatòria|aleatori|a l'atzar)
+ca-es,wikipedia-for-humans.wikiroulette,(pàgina|article) (aleatòria|aleatori|a l'atzar) de la (wiki|wikipedia|viqui|viquipèdia)
+ca-es,wikipedia-for-humans.wikiroulette,(pàgina|article) (aleatòria|aleatori|a l'atzar) (wiki|wikipedia|viqui|viquipèdia) 
+ca-es,wikipedia-for-humans.wikiroulette,(wiki|wikipedia|viqui|viquipèdia) (aleatòria|aleatori|a l'atzar)
+ca-es,wikipedia-for-humans.wikiroulette,(mostra|obre|veure|mostrar|obrir) (wiki|wikipedia) (aleatòria|aleatori|a l'atzar)
+ca-es,wikipedia-for-humans.wikiroulette,(mostra|obre|veure|mostrar|obrir) (pàgina|article) (wiki|wikipedia) (aleatòria|aleatori|a l'atzar)
+ca-es,wikipedia-for-humans.wikiroulette,(mostra|obre|veure|mostrar|obrir) (una|un) (pàgina|article) (wiki|wikipedia) (aleatòria|aleatori|a l'atzar)
+ca-es,wolfie.search_wolfie,(cerca|busca|consulta|demana) a (volfram alfa|wolfram alpha|al llop|el llop) {query}
+ca-es,wolfie.search_wolfie,(cerca|busca|consulta|demana) {query} a (volfram alfa|wolfram alpha|al llop|el llop)
+ca-es,wolfie.search_wolfie,(cercar|buscar|consultar|demanar) a (volfram alfa|wolfram alpha|al llop|el llop) {query}
+ca-es,wolfie.search_wolfie,(cercar|buscar|consultar|demanar) {query} a (volfram alfa|wolfram alpha|al llop|el llop)
+ca-es,wolfie.search_wolfie,què diu (volfram alfa|wolfram alpha|el llop|al llop) (sobre|de) {query}
+ca-es,wolfie.search_wolfie,què posa (a volfram alfa|a wolfram alpha|al llop|el llop) (sobre|de) {query}

@@ -1,0 +1,93 @@
+ru-ru,auto-volume-skill.activate,Активировать автоматическую громкость
+ru-ru,auto-volume-skill.activate,Активировать автоматическую громкость
+ru-ru,auto-volume-skill.activate,Включить автогромкость
+ru-ru,auto-volume-skill.activate,Включить автоматическое управление громкостью
+ru-ru,auto-volume-skill.deactivate,Отключить автоматическую громкость
+ru-ru,auto-volume-skill.deactivate,Деактивировать автоматическую громкость
+ru-ru,auto-volume-skill.deactivate,Отключить автоматическую громкость
+ru-ru,auto-volume-skill.deactivate,Отключить режим автоматической настройки громкости
+ru-ru,auto-volume-skill.reset,Очистка измерений автоматической громкости
+ru-ru,auto-volume-skill.reset,Удаление измерений автоматической громкости
+ru-ru,auto-volume-skill.reset,Сброс измерений автоматической громкости
+ru-ru,cocktail.Needed,что понадобится чтобы сделать {drink}
+ru-ru,cocktail.Needed,что тебе понадобиться чтобы сделать простой {drink}
+ru-ru,cocktail.Needed,что тебе понадобиться чтобы сделать порцию {drink}
+ru-ru,cocktail.Needed,что тебе понадобиться для простой {drink}
+ru-ru,cocktail.Needed,что тебе понадобиться для порцию {drink}
+ru-ru,cocktail.Needed,что мне понадобиться чтобы сделать простой {drink}
+ru-ru,cocktail.Needed,что мне понадобиться чтобы сделать порцию {drink}
+ru-ru,cocktail.Needed,что мне понадобиться для простой {drink}
+ru-ru,cocktail.Needed,что мне понадобиться для порцию {drink}
+ru-ru,cocktail.Needed,какие нужны ингредиенты для такого {drink}
+ru-ru,cocktail.Needed,какие нужны ингредиенты для этого {drink}
+ru-ru,cocktail.Needed,какие нужны ингредиенты на такого {drink}
+ru-ru,cocktail.Needed,какие нужны ингредиенты на этого {drink}
+ru-ru,cocktail.Needed,какие нужны ингредиент для такого {drink}
+ru-ru,cocktail.Needed,какие нужны ингредиент для этого {drink}
+ru-ru,cocktail.Needed,какие нужны ингредиент на такого {drink}
+ru-ru,cocktail.Needed,какие нужны ингредиент на этого {drink}
+ru-ru,cocktail.Recipie,как нужно тебе смешать {drink}
+ru-ru,cocktail.Recipie,как нужно тебе сделать {drink}
+ru-ru,cocktail.Recipie,как нужно мне смешать {drink}
+ru-ru,cocktail.Recipie,как нужно мне сделать {drink}
+ru-ru,cocktail.Recipie,как нужно я смешать {drink}
+ru-ru,cocktail.Recipie,как нужно я сделать {drink}
+ru-ru,cocktail.Recipie,как нужно ты смешать {drink}
+ru-ru,cocktail.Recipie,как нужно ты сделать {drink}
+ru-ru,cocktail.Recipie,как бы тебе смешать {drink}
+ru-ru,cocktail.Recipie,как бы тебе сделать {drink}
+ru-ru,cocktail.Recipie,как бы мне смешать {drink}
+ru-ru,cocktail.Recipie,как бы мне сделать {drink}
+ru-ru,cocktail.Recipie,как бы я смешать {drink}
+ru-ru,cocktail.Recipie,как бы я сделать {drink}
+ru-ru,cocktail.Recipie,как бы ты смешать {drink}
+ru-ru,cocktail.Recipie,как бы ты сделать {drink}
+ru-ru,cocktail.Recipie,скажи нам как смешать {drink}
+ru-ru,cocktail.Recipie,скажи нам как сделать {drink}
+ru-ru,cocktail.Recipie,скажи мне как смешать {drink}
+ru-ru,cocktail.Recipie,скажи мне как сделать {drink}
+ru-ru,cocktail.Recipie,дай нам инструкции для {drink}
+ru-ru,cocktail.Recipie,дай мне инструкции для {drink}
+ru-ru,cocktail.Recipie,как смешать {drink}
+ru-ru,cocktail.Recipie,как сделать {drink}
+ru-ru,cocktail.Recipie,какой рецепт у {drink}
+ru-ru,cocktail.Recipie,какой рецепт для {drink}
+ru-ru,count-skill.count,Сосчитай до {number}
+ru-ru,count-skill.countdown,Обратный отсчёт от {number}
+ru-ru,count-skill.countdown,Считаю с {number}
+ru-ru,count-skill.countdown,Обратный отсчёт с {number}
+ru-ru,count-skill.countdown,Считаю обратно с {number}
+ru-ru,count-skill.countdown,Обратный отсчет от {number}
+ru-ru,count-skill.countdown,Обратный отсчёт от {number}
+ru-ru,count-skill.countdown,Обратный отсчёт с {number}
+ru-ru,dice-skill.Dice,брось d {type}
+ru-ru,dice-skill.Dice,брось d {type} {modifier}
+ru-ru,dice-skill.Dice,брось d {type} плюс
+ru-ru,dice-skill.Dice,брось d {type} плюс {modifier}
+ru-ru,dice-skill.Dice,брось d {type} +
+ru-ru,dice-skill.Dice,брось d {type} + {modifier}
+ru-ru,dice-skill.Dice,брось {count} d {type}
+ru-ru,dice-skill.Dice,брось {count} d {type} {modifier}
+ru-ru,dice-skill.Dice,брось {count} d {type} плюс
+ru-ru,dice-skill.Dice,брось {count} d {type} плюс {modifier}
+ru-ru,dice-skill.Dice,брось {count} d {type} +
+ru-ru,dice-skill.Dice,брось {count} d {type} + {modifier}
+ru-ru,dice-skill.NormalDice,брось костей
+ru-ru,dice-skill.NormalDice,брось кубиков
+ru-ru,dice-skill.NormalDice,брось куба
+ru-ru,dice-skill.NormalDice,брось кубов
+ru-ru,dice-skill.NormalDice,брось {count} костей
+ru-ru,dice-skill.NormalDice,брось {count} кубиков
+ru-ru,dice-skill.NormalDice,брось {count} куба
+ru-ru,dice-skill.NormalDice,брось {count} кубов
+ru-ru,dice-skill.Range,Генерация случайного числа от {low} до {high}
+ru-ru,dice-skill.Range,Сгенерировать случайное число между {low} и {high}
+ru-ru,dice-skill.Range,Назовите число от {low} до {high}
+ru-ru,dice-skill.Range,Назовите число между {low} и {high}
+ru-ru,email-skill.check.email,Проверь мой почтовый ящик
+ru-ru,email-skill.check.email,проверь мою почту
+ru-ru,email-skill.check.email,Проверь есть ли у меня новые письма
+ru-ru,email-skill.check.email,Есть ли у меня почта
+ru-ru,email-skill.check.email,Проверь есть ли у меня есть новые электронные письма
+ru-ru,emby-skill.emby,Играй {media} из эмби
+ru-ru,emby-skill.emby,Играй {media} из мб

@@ -1,0 +1,52 @@
+{
+  "ab-dz": {
+    "cocktail.Needed": [
+      "dacu i ne\u1e25wa\u01e7 akken ad neg yiwet {drink}",
+      "dacu i ne\u1e25wa\u01e7 akken ad neg yiwen {drink}",
+      "acu i tesri\u1e0d i ad neg yiwet {drink}",
+      "acu i tesri\u1e0d i ad neg yiwen {drink}",
+      "acu i tesri\u1e0d i akken yiwet {drink}",
+      "acu i tesri\u1e0d i akken yiwen {drink}",
+      "acu i sri\u0263 i ad neg yiwet {drink}",
+      "acu i sri\u0263 i ad neg yiwen {drink}",
+      "acu i sri\u0263 i akken yiwet {drink}",
+      "acu i sri\u0263 i akken yiwen {drink}",
+      "acu-ten asafar i yiwet {drink}",
+      "acu-ten asafar i yiwen {drink}",
+      "acu-ten asafar n yiwet {drink}",
+      "acu-ten asafar n yiwen {drink}",
+      "acu-ten isufar i yiwet {drink}",
+      "acu-ten isufar i yiwen {drink}",
+      "acu-ten isufar n yiwet {drink}",
+      "acu-ten isufar n yiwen {drink}"
+    ],
+    "cocktail.Recipie": [
+      "amek ara tge\u1e0d ad neg yiwet {drink}",
+      "amek ara tge\u1e0d ad neg yiwen {drink}",
+      "amek ara tge\u1e0d akken yiwet {drink}",
+      "amek ara tge\u1e0d akken yiwen {drink}",
+      "amek ara ge\u0263 ad neg yiwet {drink}",
+      "amek ara ge\u0263 ad neg yiwen {drink}",
+      "amek ara ge\u0263 akken yiwet {drink}",
+      "amek ara ge\u0263 akken yiwen {drink}",
+      "ini-d nekkni amek ara heyyi\u0263 yiwet {drink}",
+      "ini-d nekkni amek ara heyyi\u0263 yiwen {drink}",
+      "ini-d nekkni amek ara ge\u0263 yiwet {drink}",
+      "ini-d nekkni amek ara ge\u0263 yiwen {drink}",
+      "ini-d nekk amek ara heyyi\u0263 yiwet {drink}",
+      "ini-d nekk amek ara heyyi\u0263 yiwen {drink}",
+      "ini-d nekk amek ara ge\u0263 yiwet {drink}",
+      "ini-d nekk amek ara ge\u0263 yiwen {drink}",
+      "awi-d nekkni tina\u1e0din i yiwet {drink}",
+      "awi-d nekkni tina\u1e0din i yiwen {drink}",
+      "awi-d nekk tina\u1e0din i yiwet {drink}",
+      "awi-d nekk tina\u1e0din i yiwen {drink}",
+      "amek ara i uheggi yiwet {drink}",
+      "amek ara i uheggi yiwen {drink}",
+      "amek ara neg yiwet {drink}",
+      "amek ara neg yiwen {drink}",
+      "acu n tasesfart i yiwet {drink}",
+      "acu n tasesfart i yiwen {drink}"
+    ]
+  }
+}

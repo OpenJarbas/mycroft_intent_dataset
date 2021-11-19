@@ -1,0 +1,148 @@
+sv-se,auto-volume-skill.activate,Aktivera automatisk volym
+sv-se,auto-volume-skill.activate,(Aktivera|sätt på|slå på) automatisk volym
+sv-se,auto-volume-skill.activate,Sätt på automatisk volym
+sv-se,auto-volume-skill.activate,Sätt automatisk volym (till) på
+sv-se,auto-volume-skill.deactivate,(Inaktivera|stäng av|avaktivera) automatisk volym
+sv-se,auto-volume-skill.deactivate,Sätt automatisk volym till inaktiv
+sv-se,auto-volume-skill.deactivate,Stäng av automatisk volym
+sv-se,auto-volume-skill.deactivate,Sätt automatisk volym (till) av
+sv-se,auto-volume-skill.reset,Rensa autovolym mätningar
+sv-se,auto-volume-skill.reset,Ta bort mätningarna för automatisk volym
+sv-se,auto-volume-skill.reset,Återställ mätningarna för automatisk volym
+sv-se,cocktail.Needed,vad behövs för att göra (en|ett) {drink}
+sv-se,cocktail.Needed,vad behöver (jag|man|en) (för att göra|till) (en|ett) {drink}
+sv-se,cocktail.Needed,vilka (ingredienser|ingrediens) (innehåller|ingår i) (en|ett) {drink}
+sv-se,cocktail.Recipie,hur (gör|blandar|mixar) (jag|man) (en|ett) {drink}
+sv-se,cocktail.Recipie,berätta (för (mig|oss)|) hur man (blandar|mixar|gör) (en|ett) {drink}
+sv-se,cocktail.Recipie,ge (mig|oss) instruktioner för (att (blanda|mixa|göra)|) (en|ett) {drink}
+sv-se,cocktail.Recipie,hur (blandar|mixar|gör) (man|en|jag|) (en|ett) {drink}
+sv-se,cocktail.Recipie,vad är recepted för (att (blanda|mixa|göra)) (en|ett) {drink}
+sv-se,count-skill.count,Ränka till {number}
+sv-se,count-skill.countdown,Nedräkning från {number}
+sv-se,count-skill.countdown,Räkna (ner|ned) från {number}
+sv-se,count-skill.countdown,Räkna baklänges från {number}
+sv-se,count-skill.countdown,Räkna tillbaka från {number}
+sv-se,count-skill.countdown,Räkna baklänges från {number}
+sv-se,count-skill.countdown,Från {number} räkna (ner|ned)
+sv-se,count-skill.countdown,Från {number} räkna baklänges
+sv-se,dice-skill.Dice,kasta ({count}|) d {type} (+|plus|) ({modifier}|)
+sv-se,dice-skill.NormalDice,kasta ({count}|) (tärningar|tärningen)
+sv-se,dice-skill.Range,Generera ett slumpmässigt tal från {low} till {high}
+sv-se,dice-skill.Range,Generera ett slumpmässigt tal mellan {low} och {high}
+sv-se,dice-skill.Range,Berätta ett nummer från {low} och {high}
+sv-se,dice-skill.Range,Berätta ett nummer mellan {low} och {high}
+sv-se,email-skill.check.email,kolla min epost
+sv-se,email-skill.check.email,kolla min epost
+sv-se,email-skill.check.email,har jag någon ny epost
+sv-se,email-skill.check.email,har jag någon e-post
+sv-se,email-skill.check.email,har jag någon ny epost
+sv-se,email-skill.enquire.email,Har jag epost från {email}
+sv-se,email-skill.enquire.email,Har jag fått (någon | ) e-post (av|från) från {email}
+sv-se,email-skill.enquire.email,Fick jag några e-postmeddelanden från {email}
+sv-se,email-skill.notify,berätta för mig (mail | e-post | ny e-post | epost-meddelanden)
+sv-se,email-skill.notify,berätta när jag får (mail | e-post | ny e-post | nytt epost-meddelanden)
+sv-se,email-skill.notify,berätta när jag får (ett e-post meddelande | en e-post | e-post) (från | av) {sender}
+sv-se,email-skill.notify,berätta om (mail | e-post) (från | av) {sender}
+sv-se,email-skill.notify,meddela mig om (mail | e-post | ny e-post | nya epost-meddelanden)
+sv-se,email-skill.notify,meddela mig om (mail | e-post | ny e-post | nya epost-meddelanden) (från | av) {sender}
+sv-se,email-skill.notify,meddela mig när jag får (mail | e-post | ny e-post | nya epost-meddelanden)
+sv-se,email-skill.notify,meddela mig när jag får (en e-post | ett e-post meddelande | e-post) (från | av) {sender}
+sv-se,email-skill.stop,meddela mig inte om (mail | e-post | ny e-post | nya epost-meddelanden)
+sv-se,email-skill.stop,meddela mig inte om (mail | e-post | ny e-post | nya epost-meddelanden) (från | av) {sender}
+sv-se,email-skill.stop,meddela mig inte längre om (mail | e-post | ny e-post | nya epost-meddelanden)
+sv-se,email-skill.stop,meddela mig inte längre om (mail | e-post | ny e-post | nya epost-meddelanden) (från | av) {sender}
+sv-se,email-skill.stop,berätta inte för mig om (mail | e-post | ny e-post | nya epost-meddelanden)
+sv-se,email-skill.stop,berätta inte för mig om (mail | e-post | ny e-post | nya epost-meddelanden) (från | av) {sender}
+sv-se,email-skill.stop,berätta inte längre för mig om (mail | e-post | ny e-post | nya epost-meddelanden)
+sv-se,email-skill.stop,berätta inte längre om (mail | e-post | ny e-post | nya epost-meddelanden) (från | av) {sender}
+sv-se,emby-skill.diagnostic,kontrollera (emby|mb|mv|nv|emily) anslutningen
+sv-se,emby-skill.diagnostic,kör diagnostik (emby|mb|mv|nv|emily)
+sv-se,emby-skill.diagnostic,kontrollera (emby|mb|mv|nv|emily)
+sv-se,emby-skill.emby,spela {media} från emby
+sv-se,emby-skill.emby,spela {media} från mb
+sv-se,emby-skill.emby,spela artisten {artist} från emby
+sv-se,emby-skill.emby,spela artisten {artist} från mb
+sv-se,emby-skill.emby,spela albumet {album} från emby
+sv-se,emby-skill.emby,spela albumet {album} från mb
+sv-se,fairytalez-skill.continue,Fortsätt berättelsen
+sv-se,fairytalez-skill.continue,Fortsätt med berättelsen
+sv-se,fairytalez-skill.continue,Fortsätt sagan
+sv-se,fairytalez-skill.continue,Fortsätt berätta sagan
+sv-se,fairytalez-skill.continue,Fortsätt sagan
+sv-se,fairytalez-skill.continue,Fortsätt med sagan
+sv-se,fairytalez-skill.continue,Fortsätt med sagan
+sv-se,fairytalez-skill.fairytalez,(Berätta|Läs) (mig |) en (bra| ) (berättelse| saga)
+sv-se,fairytalez-skill.fairytalez,(Berätta för|Läs för) (mig| ) berättelsen {tale}
+sv-se,iss-tracker-skill.tracker.iss,Var är den internationella rymdstationen
+sv-se,iss-tracker-skill.tracker.iss,Hitta I S S
+sv-se,iss-tracker-skill.tracker.iss,Var är I S S
+sv-se,laugh.Laugh,skratta som alexa
+sv-se,laugh.Laugh,kan du skratta
+sv-se,laugh.Laugh,ond (skrattar|garva|skrattande|skratt)
+sv-se,laugh.RandomLaugh,skratta slumpmässigt
+sv-se,laugh.RandomLaugh,utlös slumpmässigt (skratt|skrattande|skrattar|garv)
+sv-se,laugh.RandomLaugh,slumpmässigt (skratt|skrattar|skrattar|skratt)
+sv-se,mark-2.brightness,dimma (|dina) ögon till {brightness} [percent}
+sv-se,mark-2.brightness,dimma ner till {brightness} (procent|)
+sv-se,mark-2.brightness,sänk ögonens (ljusstyrka|belysning) till {brightness} (procent|)
+sv-se,mark-2.brightness,ändra (ljusstyrkan|belysningen) (ner|upp) till {brightness} (procent|)
+sv-se,mark-2.brightness,ändra (ner|upp) (ljusstyrkan|belysningen) till {brightness} (procent|)
+sv-se,mark-2.brightness,öka ljuset upp (lite|) till {brightness} (procent|)
+sv-se,mark-2.brightness,(ändra|sätt|växla) till {brightness} (procent|) (ögon|) (ljusstyrka|belysning)
+sv-se,mark-2.brightness,(ändra|sätt|växla) (nivån|) (på|) (ljusstyrka|belysning) (på|dina) (ögon|) till {brightness} (procent|)
+sv-se,mark-2.brightness,(ändra|sätt|växla) (nivån|) (på|dina) (ögon|) (ljusstyrka|belysning)
+sv-se,mark-2.brightness,du håller (på|) att (ljusna|dimma)
+sv-se,mark-2.brightness,du är (på gång|) att (ljusna|dimma)
+sv-se,mark-2.brightness,ljusna upp
+sv-se,mark-2.brightness,dimma ner det lite
+sv-se,mark-2.brightness.auto,ställ in ljusstyrkan på auto
+sv-se,mark-2.brightness.auto,automatisk ljusstyrka
+sv-se,mark-2.device.brightness.settings,visa inställning för ljusstyrka
+sv-se,mark-2.device.brightness.settings,visa enhetens ljusstyrkeinställning
+sv-se,mark-2.device.homescreen.settings,visa hemskärmsinställning
+sv-se,mark-2.device.homescreen.settings,visa (hem|vila|overksam) (skärm|ansikte|sida) inställning
+sv-se,mark-2.device.homescreen.settings,visa enhetens (hem|vila|overksam) (skärm|ansikte|sida) inställning
+sv-se,mark-2.device.reset.settings,visa fabriksinställning
+sv-se,mark-2.device.reset.settings,visa enhetens fabriksinställning
+sv-se,mark-2.device.settings,visa enhetsinställningar
+sv-se,mark-2.device.settings,öppna inställningar
+sv-se,mark-2.device.ssh.settings,visa ssh inställningar
+sv-se,mark-2.device.ssh.settings,visa enhetens ssh inställningar
+sv-se,mark-2.device.wifi.settings,visa trådlös skärmen
+sv-se,mark-2.device.wifi.settings,visa trådlösa inställningar
+sv-se,mark-2.device.wifi.settings,visa wifi inställningar
+sv-se,mark-2.device.wifi.settings,visa wifiskärm
+sv-se,moviemaster.genre.movie.search,(lista|hitta) (video|filmer) som är (i|) {genre}
+sv-se,moviemaster.genre.movie.search,(lista|hitta) {genre} (video|filmer)
+sv-se,moviemaster.genre.tv.search,(lista|hitta|få) (TV-program|TV program|program) som är (|en) {genre}
+sv-se,moviemaster.genre.tv.search,(lista|hitta|få) {genre} (TV-program|TV program|program)
+sv-se,moviemaster.movie.cast,vem (agerar|spelar|är med) i (videon|filmen|film) {movie}
+sv-se,moviemaster.movie.description,vad handlar (videon|filmen|film) {movie} om
+sv-se,moviemaster.movie.description,berätta för (mig|oss) om (videon|filmen|film) {movie}
+sv-se,moviemaster.movie.description,(ge|hämta) (mig|oss) en (beskrivning|sammanfattning) av (videon|filmen|film) {movie}
+sv-se,moviemaster.movie.genres,vilken (genre|genren) tillhör (videon|filmen|film) {movie}
+sv-se,moviemaster.movie.genres,vilken är (genre|genren) för (videon|filmen|film) {movie}
+sv-se,moviemaster.movie.genres,vilken (genre|genren) (är|tillhör) denna (videon|filmen|film) {movie}
+sv-se,moviemaster.movie.information,(hitta|hämta|leta efter|är där) (information|info) (på|om) (videon|filmen|film) {movie}
+sv-se,moviemaster.movie.information,(ge|berätta|hämta) (|mig|oss) (information|info) (på|om) (videon|filmen|film) {movie}
+sv-se,moviemaster.movie.information,(har du|kan du hämta) (info|information) om (videon|filmen|film) {movie}
+sv-se,moviemaster.movie.popular,(lista|sök|sök efter) populära (video|filmer|film)
+sv-se,moviemaster.movie.popular,vad är ( |de) populära (videon|filmen|film) (spelar|ut) ( |nu)
+sv-se,moviemaster.movie.production,(vem|vilket företag) (producerade|gjorde) filmen {movie}
+sv-se,moviemaster.movie.recommendations,rekommendera (videon|filmen|film) (liknande|såsom) {movie}
+sv-se,moviemaster.movie.recommendations,vilka (video|filmer|film) (skulle du|du) rekommenderar (liknande|såsom) {movie}
+sv-se,moviemaster.movie.recommendations,(lista|hämta) (|bra) (videon|filmen|film) (liknande|såsom) {movie}
+sv-se,moviemaster.movie.runtime,Hur lång är (videon|filmen|film) {movie}
+sv-se,moviemaster.movie.runtime,Vilken är (tiden|längden) för (videon|filmen|film) {movie}
+sv-se,moviemaster.movie.runtime,Hämta (tiden|längden) för (videon|filmen|film) {movie}
+sv-se,moviemaster.movie.top,(lista|vad är|sök efter) den (populära|mest populära|högst rankade) (videon|filmen|film) (som spelas|är ute) (|nu)
+sv-se,moviemaster.movie.year,(vilket år|när|vilket datum) var (videon|filmen|film) {movie} (gjord|släppt)
+sv-se,wikiquote-skill.random,berätta för mig (några|ett) (citat|visdom)
+sv-se,wikiquote-skill.random,ge mig (några|ett|en) (citat|visdom|klokhet)
+sv-se,wikiquote-skill.random,Jag behöver lite visdom
+sv-se,wikiquote-skill.specific,berätta för mig (några|en|ett) {subject} (citat|visdom)
+sv-se,wikiquote-skill.specific,ge mig (några|en|ett) {subject} (citat|visdom)
+sv-se,wikiquote-skill.specific,Jag behöver lite {subject} (citat|visdomsord)
+sv-se,wikiquote-skill.specific,berätta citat (från|om) {subject}
+sv-se,wikiquote-skill.specific,ge mig ett citat (från|om) {subject}
+sv-se,wikiquote-skill.specific,Jag behöver ett citat (från|om) {subject}

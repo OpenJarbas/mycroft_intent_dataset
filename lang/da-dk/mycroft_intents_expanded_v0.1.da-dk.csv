@@ -1,0 +1,378 @@
+da-dk,auto-volume-skill.activate,Aktivér auto volume
+da-dk,auto-volume-skill.activate,Sæt autovolumen til aktiv
+da-dk,auto-volume-skill.activate,Tænd auto volume
+da-dk,auto-volume-skill.activate,Sæt auto volume til
+da-dk,auto-volume-skill.deactivate,Deaktivér autovolumen
+da-dk,auto-volume-skill.deactivate,Sæt autovolume til inaktiv
+da-dk,auto-volume-skill.deactivate,Sluk auto volume
+da-dk,auto-volume-skill.deactivate,Sæt auto volume fra
+da-dk,auto-volume-skill.reset,Ryd autovolumenmålinger
+da-dk,auto-volume-skill.reset,Slet autovolumenmålinger
+da-dk,auto-volume-skill.reset,Nulstil autovolumenmålinger
+da-dk,cocktail.Needed,hvad skal bruges til ( en ) {drink}
+da-dk,cocktail.Needed,hvad behæver jeg
+da-dk,cocktail.Needed,hvad behæver du} til ( at lave ) ( en ) {drink}
+da-dk,cocktail.Needed,hvad behæver du} for ( at lave ) ( en ) {drink}
+da-dk,cocktail.Needed,hvad er indgridienserne for ( en ) {drink}
+da-dk,cocktail.Needed,hvad er indgridienserne i ( en ) {drink}
+da-dk,cocktail.Needed,hvad er indgridienser for ( en ) {drink}
+da-dk,cocktail.Needed,hvad er indgridienser i ( en ) {drink}
+da-dk,cocktail.Recipie,hvordan kan du mixe ( en ) {drink}
+da-dk,cocktail.Recipie,hvordan kan du lave ( en ) {drink}
+da-dk,cocktail.Recipie,hvordan kan jeg mixe ( en ) {drink}
+da-dk,cocktail.Recipie,hvordan kan jeg lave ( en ) {drink}
+da-dk,cocktail.Recipie,hvordan vil du mixe ( en ) {drink}
+da-dk,cocktail.Recipie,hvordan vil du lave ( en ) {drink}
+da-dk,cocktail.Recipie,hvordan vil jeg mixe ( en ) {drink}
+da-dk,cocktail.Recipie,hvordan vil jeg lave ( en ) {drink}
+da-dk,cocktail.Recipie,fortæl mig
+da-dk,cocktail.Recipie,fortæl os} hvordan man mixer ( en ) {drink}
+da-dk,cocktail.Recipie,fortæl os} hvordan man laver ( en ) {drink}
+da-dk,cocktail.Recipie,giv os instruktion til ( en ) {drink}
+da-dk,cocktail.Recipie,giv os instruktion for ( en ) {drink}
+da-dk,cocktail.Recipie,giv mig instruktion til ( en ) {drink}
+da-dk,cocktail.Recipie,giv mig instruktion for ( en ) {drink}
+da-dk,cocktail.Recipie,hvordan mixes ( en ) {drink}
+da-dk,cocktail.Recipie,hvordan laver ( en ) {drink}
+da-dk,cocktail.Recipie,hvad er receptien på ( en ) {drink}
+da-dk,cocktail.Recipie,hvad er receptien for ( en ) {drink}
+da-dk,count-skill.count,Tæl til {number}
+da-dk,count-skill.countdown,Tæller ned fra {number}
+da-dk,count-skill.countdown,Nedtælling fra {number}
+da-dk,count-skill.countdown,Tæl baglæns fra {number}
+da-dk,count-skill.countdown,Tæl baglæns fra {number}
+da-dk,count-skill.countdown,Tæl baglæns fra {number}
+da-dk,count-skill.countdown,Tæl ned fra {number}
+da-dk,count-skill.countdown,Tæl baglæns fra {number}
+da-dk,dice-skill.Dice,kast d {type}
+da-dk,dice-skill.Dice,kast d {type} {modifier}
+da-dk,dice-skill.Dice,kast d {type} plus
+da-dk,dice-skill.Dice,kast d {type} plus {modifier}
+da-dk,dice-skill.Dice,kast d {type} +
+da-dk,dice-skill.Dice,kast d {type} + {modifier}
+da-dk,dice-skill.Dice,kast {count} d {type}
+da-dk,dice-skill.Dice,kast {count} d {type} {modifier}
+da-dk,dice-skill.Dice,kast {count} d {type} plus
+da-dk,dice-skill.Dice,kast {count} d {type} plus {modifier}
+da-dk,dice-skill.Dice,kast {count} d {type} +
+da-dk,dice-skill.Dice,kast {count} d {type} + {modifier}
+da-dk,dice-skill.NormalDice,kast terning
+da-dk,dice-skill.NormalDice,kast terninger
+da-dk,dice-skill.NormalDice,kast {count} terning
+da-dk,dice-skill.NormalDice,kast {count} terninger
+da-dk,dice-skill.Range,Generér et tilfældigt nummer fra {low} til {high}
+da-dk,dice-skill.Range,Generér et tilfældigt nummer mellem {low} og {high}
+da-dk,dice-skill.Range,Sig mit et nummer mellem {low} og {high}
+da-dk,dice-skill.Range,Giv mig et nummer mellem {low} og {high}
+da-dk,email-skill.check.email,kontroler min email
+da-dk,email-skill.check.email,kontroler min mail
+da-dk,email-skill.check.email,har jeg nogen nye emails
+da-dk,email-skill.check.email,har jeg nogen emails
+da-dk,email-skill.check.email,har jeg nogen nye emails
+da-dk,emby-skill.emby,spil {media} fra emby
+da-dk,emby-skill.emby,spil {media} fra mb
+da-dk,iss-tracker-skill.tracker.iss,Hvor er den internationale rumstation
+da-dk,iss-tracker-skill.tracker.iss,Lokaliser I S S
+da-dk,iss-tracker-skill.tracker.iss,Hvor er I S S
+da-dk,laugh.Laugh,Grin ligesom Alexa
+da-dk,laugh.Laugh,kan du grine
+da-dk,laugh.Laugh,ond grine
+da-dk,laugh.Laugh,ond grin
+da-dk,laugh.Laugh,ond latter
+da-dk,laugh.RandomLaugh,grin tilfældigt
+da-dk,laugh.RandomLaugh,trigger tilfældig grin
+da-dk,laugh.RandomLaugh,trigger tilfældig latter
+da-dk,laugh.RandomLaugh,tilfældig grin
+da-dk,laugh.RandomLaugh,tilfældig latter
+da-dk,moviemaster.genre.movie.search,find film der er en {genre}
+da-dk,moviemaster.genre.movie.search,find film der er i genren {genre}
+da-dk,moviemaster.genre.movie.search,list film der er en {genre}
+da-dk,moviemaster.genre.movie.search,list film der er i genren {genre}
+da-dk,moviemaster.genre.movie.search,find {genre} film
+da-dk,moviemaster.genre.movie.search,list {genre} film
+da-dk,moviemaster.genre.tv.search,find programmer der er {genre}
+da-dk,moviemaster.genre.tv.search,find programmer der er en {genre}
+da-dk,moviemaster.genre.tv.search,find fjernsynsprogrammer der er {genre}
+da-dk,moviemaster.genre.tv.search,find fjernsynsprogrammer der er en {genre}
+da-dk,moviemaster.genre.tv.search,find tv-shows der er {genre}
+da-dk,moviemaster.genre.tv.search,find tv-shows der er en {genre}
+da-dk,moviemaster.genre.tv.search,list programmer der er {genre}
+da-dk,moviemaster.genre.tv.search,list programmer der er en {genre}
+da-dk,moviemaster.genre.tv.search,list fjernsynsprogrammer der er {genre}
+da-dk,moviemaster.genre.tv.search,list fjernsynsprogrammer der er en {genre}
+da-dk,moviemaster.genre.tv.search,list tv-shows der er {genre}
+da-dk,moviemaster.genre.tv.search,list tv-shows der er en {genre}
+da-dk,moviemaster.genre.tv.search,find {genre} programmer
+da-dk,moviemaster.genre.tv.search,find {genre} fjernsnsprogrammer
+da-dk,moviemaster.genre.tv.search,find {genre} tv-shows
+da-dk,moviemaster.genre.tv.search,list {genre} programmer
+da-dk,moviemaster.genre.tv.search,list {genre} fjernsnsprogrammer
+da-dk,moviemaster.genre.tv.search,list {genre} tv-shows
+da-dk,moviemaster.movie.cast,hvem er i filmen {movie}
+da-dk,moviemaster.movie.cast,hvem er i film {movie}
+da-dk,moviemaster.movie.cast,hvem spiller i filmen {movie}
+da-dk,moviemaster.movie.cast,hvem spiller i film {movie}
+da-dk,moviemaster.movie.description,Hvad er filmen {movie} om
+da-dk,moviemaster.movie.description,Hvad er film {movie} om
+da-dk,moviemaster.movie.description,fortæl os om filmen {movie}
+da-dk,moviemaster.movie.description,fortæl os om film {movie}
+da-dk,moviemaster.movie.description,fortæl mig om filmen {movie}
+da-dk,moviemaster.movie.description,fortæl mig om film {movie}
+da-dk,moviemaster.movie.description,fortæl om filmen {movie}
+da-dk,moviemaster.movie.description,fortæl om film {movie}
+da-dk,moviemaster.movie.description,giv os en synopsis om filmen {movie}
+da-dk,moviemaster.movie.description,giv os en synopsis om film {movie}
+da-dk,moviemaster.movie.description,giv os en synopsis af filmen {movie}
+da-dk,moviemaster.movie.description,giv os en synopsis af film {movie}
+da-dk,moviemaster.movie.description,giv os en beskrivelse om filmen {movie}
+da-dk,moviemaster.movie.description,giv os en beskrivelse om film {movie}
+da-dk,moviemaster.movie.description,giv os en beskrivelse af filmen {movie}
+da-dk,moviemaster.movie.description,giv os en beskrivelse af film {movie}
+da-dk,moviemaster.movie.description,giv mig en synopsis om filmen {movie}
+da-dk,moviemaster.movie.description,giv mig en synopsis om film {movie}
+da-dk,moviemaster.movie.description,giv mig en synopsis af filmen {movie}
+da-dk,moviemaster.movie.description,giv mig en synopsis af film {movie}
+da-dk,moviemaster.movie.description,giv mig en beskrivelse om filmen {movie}
+da-dk,moviemaster.movie.description,giv mig en beskrivelse om film {movie}
+da-dk,moviemaster.movie.description,giv mig en beskrivelse af filmen {movie}
+da-dk,moviemaster.movie.description,giv mig en beskrivelse af film {movie}
+da-dk,moviemaster.movie.genres,Hvilke genrer tilhører flick {movie}
+da-dk,moviemaster.movie.genres,Hvilke genrer tilhører filmen {movie}
+da-dk,moviemaster.movie.genres,Hvilke genrer tilhører film {movie}
+da-dk,moviemaster.movie.genres,hvad er genren til flick {movie}
+da-dk,moviemaster.movie.genres,hvad er genren til filmen {movie}
+da-dk,moviemaster.movie.genres,hvad er genren til film {movie}
+da-dk,moviemaster.movie.information,er der info om filmen {movie}
+da-dk,moviemaster.movie.information,er der info om film {movie}
+da-dk,moviemaster.movie.information,er der info på filmen {movie}
+da-dk,moviemaster.movie.information,er der info på film {movie}
+da-dk,moviemaster.movie.information,er der information om filmen {movie}
+da-dk,moviemaster.movie.information,er der information om film {movie}
+da-dk,moviemaster.movie.information,er der information på filmen {movie}
+da-dk,moviemaster.movie.information,er der information på film {movie}
+da-dk,moviemaster.movie.information,slå op info om filmen {movie}
+da-dk,moviemaster.movie.information,slå op info om film {movie}
+da-dk,moviemaster.movie.information,slå op info på filmen {movie}
+da-dk,moviemaster.movie.information,slå op info på film {movie}
+da-dk,moviemaster.movie.information,slå op information om filmen {movie}
+da-dk,moviemaster.movie.information,slå op information om film {movie}
+da-dk,moviemaster.movie.information,slå op information på filmen {movie}
+da-dk,moviemaster.movie.information,slå op information på film {movie}
+da-dk,moviemaster.movie.information,find info om filmen {movie}
+da-dk,moviemaster.movie.information,find info om film {movie}
+da-dk,moviemaster.movie.information,find info på filmen {movie}
+da-dk,moviemaster.movie.information,find info på film {movie}
+da-dk,moviemaster.movie.information,find information om filmen {movie}
+da-dk,moviemaster.movie.information,find information om film {movie}
+da-dk,moviemaster.movie.information,find information på filmen {movie}
+da-dk,moviemaster.movie.information,find information på film {movie}
+da-dk,moviemaster.movie.information,find os info om filmen {movie}
+da-dk,moviemaster.movie.information,find os info om film {movie}
+da-dk,moviemaster.movie.information,find os info på filmen {movie}
+da-dk,moviemaster.movie.information,find os info på film {movie}
+da-dk,moviemaster.movie.information,find os information om filmen {movie}
+da-dk,moviemaster.movie.information,find os information om film {movie}
+da-dk,moviemaster.movie.information,find os information på filmen {movie}
+da-dk,moviemaster.movie.information,find os information på film {movie}
+da-dk,moviemaster.movie.information,find mig info om filmen {movie}
+da-dk,moviemaster.movie.information,find mig info om film {movie}
+da-dk,moviemaster.movie.information,find mig info på filmen {movie}
+da-dk,moviemaster.movie.information,find mig info på film {movie}
+da-dk,moviemaster.movie.information,find mig information om filmen {movie}
+da-dk,moviemaster.movie.information,find mig information om film {movie}
+da-dk,moviemaster.movie.information,find mig information på filmen {movie}
+da-dk,moviemaster.movie.information,find mig information på film {movie}
+da-dk,moviemaster.movie.information,find info om filmen {movie}
+da-dk,moviemaster.movie.information,find info om film {movie}
+da-dk,moviemaster.movie.information,find info på filmen {movie}
+da-dk,moviemaster.movie.information,find info på film {movie}
+da-dk,moviemaster.movie.information,find information om filmen {movie}
+da-dk,moviemaster.movie.information,find information om film {movie}
+da-dk,moviemaster.movie.information,find information på filmen {movie}
+da-dk,moviemaster.movie.information,find information på film {movie}
+da-dk,moviemaster.movie.information,fortæl os info om filmen {movie}
+da-dk,moviemaster.movie.information,fortæl os info om film {movie}
+da-dk,moviemaster.movie.information,fortæl os info på filmen {movie}
+da-dk,moviemaster.movie.information,fortæl os info på film {movie}
+da-dk,moviemaster.movie.information,fortæl os information om filmen {movie}
+da-dk,moviemaster.movie.information,fortæl os information om film {movie}
+da-dk,moviemaster.movie.information,fortæl os information på filmen {movie}
+da-dk,moviemaster.movie.information,fortæl os information på film {movie}
+da-dk,moviemaster.movie.information,fortæl mig info om filmen {movie}
+da-dk,moviemaster.movie.information,fortæl mig info om film {movie}
+da-dk,moviemaster.movie.information,fortæl mig info på filmen {movie}
+da-dk,moviemaster.movie.information,fortæl mig info på film {movie}
+da-dk,moviemaster.movie.information,fortæl mig information om filmen {movie}
+da-dk,moviemaster.movie.information,fortæl mig information om film {movie}
+da-dk,moviemaster.movie.information,fortæl mig information på filmen {movie}
+da-dk,moviemaster.movie.information,fortæl mig information på film {movie}
+da-dk,moviemaster.movie.information,fortæl info om filmen {movie}
+da-dk,moviemaster.movie.information,fortæl info om film {movie}
+da-dk,moviemaster.movie.information,fortæl info på filmen {movie}
+da-dk,moviemaster.movie.information,fortæl info på film {movie}
+da-dk,moviemaster.movie.information,fortæl information om filmen {movie}
+da-dk,moviemaster.movie.information,fortæl information om film {movie}
+da-dk,moviemaster.movie.information,fortæl information på filmen {movie}
+da-dk,moviemaster.movie.information,fortæl information på film {movie}
+da-dk,moviemaster.movie.information,oplys os info om filmen {movie}
+da-dk,moviemaster.movie.information,oplys os info om film {movie}
+da-dk,moviemaster.movie.information,oplys os info på filmen {movie}
+da-dk,moviemaster.movie.information,oplys os info på film {movie}
+da-dk,moviemaster.movie.information,oplys os information om filmen {movie}
+da-dk,moviemaster.movie.information,oplys os information om film {movie}
+da-dk,moviemaster.movie.information,oplys os information på filmen {movie}
+da-dk,moviemaster.movie.information,oplys os information på film {movie}
+da-dk,moviemaster.movie.information,oplys mig info om filmen {movie}
+da-dk,moviemaster.movie.information,oplys mig info om film {movie}
+da-dk,moviemaster.movie.information,oplys mig info på filmen {movie}
+da-dk,moviemaster.movie.information,oplys mig info på film {movie}
+da-dk,moviemaster.movie.information,oplys mig information om filmen {movie}
+da-dk,moviemaster.movie.information,oplys mig information om film {movie}
+da-dk,moviemaster.movie.information,oplys mig information på filmen {movie}
+da-dk,moviemaster.movie.information,oplys mig information på film {movie}
+da-dk,moviemaster.movie.information,oplys info om filmen {movie}
+da-dk,moviemaster.movie.information,oplys info om film {movie}
+da-dk,moviemaster.movie.information,oplys info på filmen {movie}
+da-dk,moviemaster.movie.information,oplys info på film {movie}
+da-dk,moviemaster.movie.information,oplys information om filmen {movie}
+da-dk,moviemaster.movie.information,oplys information om film {movie}
+da-dk,moviemaster.movie.information,oplys information på filmen {movie}
+da-dk,moviemaster.movie.information,oplys information på film {movie}
+da-dk,moviemaster.movie.popular,søg efter populære film
+da-dk,moviemaster.movie.popular,søgning populære film
+da-dk,moviemaster.movie.popular,liste populære film
+da-dk,moviemaster.movie.popular,hvad er de populære film er ude nu
+da-dk,moviemaster.movie.popular,hvad er de populære film der spiller nu
+da-dk,moviemaster.movie.popular,hvad er populære film er ude nu
+da-dk,moviemaster.movie.popular,hvad er populære film der spiller nu
+da-dk,moviemaster.movie.production,hvilket firma lavet filmen {movie}
+da-dk,moviemaster.movie.production,hvilket firma produceret filmen {movie}
+da-dk,moviemaster.movie.production,hvem lavet filmen {movie}
+da-dk,moviemaster.movie.production,hvem produceret filmen {movie}
+da-dk,moviemaster.movie.recommendations,anbefal en film der lignende {movie}
+da-dk,moviemaster.movie.recommendations,anbefal en film der ligner {movie}
+da-dk,moviemaster.movie.recommendations,hvilke film kan du anbefale der lignende {movie}
+da-dk,moviemaster.movie.recommendations,hvilke film kan du anbefale der ligner {movie}
+da-dk,moviemaster.movie.recommendations,hvilke film ville du anbefale der lignende {movie}
+da-dk,moviemaster.movie.recommendations,hvilke film ville du anbefale der ligner {movie}
+da-dk,moviemaster.movie.recommendations,få film der lignende {movie}
+da-dk,moviemaster.movie.recommendations,få film der ligner {movie}
+da-dk,moviemaster.movie.recommendations,få gode film der lignende {movie}
+da-dk,moviemaster.movie.recommendations,få gode film der ligner {movie}
+da-dk,moviemaster.movie.recommendations,list film der lignende {movie}
+da-dk,moviemaster.movie.recommendations,list film der ligner {movie}
+da-dk,moviemaster.movie.recommendations,list gode film der lignende {movie}
+da-dk,moviemaster.movie.recommendations,list gode film der ligner {movie}
+da-dk,moviemaster.movie.runtime,Hvor lang tid varer {movie}
+da-dk,moviemaster.movie.runtime,Hvor lang tid varer filmen {movie}
+da-dk,moviemaster.movie.runtime,Hvor lang tid er {movie}
+da-dk,moviemaster.movie.runtime,Hvor lang tid er filmen {movie}
+da-dk,moviemaster.movie.runtime,Hvad er spiletiden på ( film )
+da-dk,moviemaster.movie.runtime,Hvad er spiletiden på filmen ( film )
+da-dk,moviemaster.movie.runtime,Hvad er spiletiden for ( film )
+da-dk,moviemaster.movie.runtime,Hvad er spiletiden for filmen ( film )
+da-dk,moviemaster.movie.runtime,Få længden af flick {movie}
+da-dk,moviemaster.movie.runtime,Få længden af film {movie}
+da-dk,moviemaster.movie.runtime,Få længden af film {movie}
+da-dk,moviemaster.movie.runtime,Få runtime af flick {movie}
+da-dk,moviemaster.movie.runtime,Få runtime af film {movie}
+da-dk,moviemaster.movie.runtime,Få runtime af film {movie}
+da-dk,moviemaster.movie.top,søg efter de højst vurderede film er ude nu
+da-dk,moviemaster.movie.top,søg efter de højst vurderede film er ude
+da-dk,moviemaster.movie.top,søg efter de højst vurderede film der spiller nu
+da-dk,moviemaster.movie.top,søg efter de højst vurderede film der spiller
+da-dk,moviemaster.movie.top,søg efter de mest populære film er ude nu
+da-dk,moviemaster.movie.top,søg efter de mest populære film er ude
+da-dk,moviemaster.movie.top,søg efter de mest populære film der spiller nu
+da-dk,moviemaster.movie.top,søg efter de mest populære film der spiller
+da-dk,moviemaster.movie.top,søg efter de top film er ude nu
+da-dk,moviemaster.movie.top,søg efter de top film er ude
+da-dk,moviemaster.movie.top,søg efter de top film der spiller nu
+da-dk,moviemaster.movie.top,søg efter de top film der spiller
+da-dk,moviemaster.movie.top,hvad er de højst vurderede film er ude nu
+da-dk,moviemaster.movie.top,hvad er de højst vurderede film er ude
+da-dk,moviemaster.movie.top,hvad er de højst vurderede film der spiller nu
+da-dk,moviemaster.movie.top,hvad er de højst vurderede film der spiller
+da-dk,moviemaster.movie.top,hvad er de mest populære film er ude nu
+da-dk,moviemaster.movie.top,hvad er de mest populære film er ude
+da-dk,moviemaster.movie.top,hvad er de mest populære film der spiller nu
+da-dk,moviemaster.movie.top,hvad er de mest populære film der spiller
+da-dk,moviemaster.movie.top,hvad er de top film er ude nu
+da-dk,moviemaster.movie.top,hvad er de top film er ude
+da-dk,moviemaster.movie.top,hvad er de top film der spiller nu
+da-dk,moviemaster.movie.top,hvad er de top film der spiller
+da-dk,moviemaster.movie.top,list de højst vurderede film er ude nu
+da-dk,moviemaster.movie.top,list de højst vurderede film er ude
+da-dk,moviemaster.movie.top,list de højst vurderede film der spiller nu
+da-dk,moviemaster.movie.top,list de højst vurderede film der spiller
+da-dk,moviemaster.movie.top,list de mest populære film er ude nu
+da-dk,moviemaster.movie.top,list de mest populære film er ude
+da-dk,moviemaster.movie.top,list de mest populære film der spiller nu
+da-dk,moviemaster.movie.top,list de mest populære film der spiller
+da-dk,moviemaster.movie.top,list de top film er ude nu
+da-dk,moviemaster.movie.top,list de top film er ude
+da-dk,moviemaster.movie.top,list de top film der spiller nu
+da-dk,moviemaster.movie.top,list de top film der spiller
+da-dk,moviemaster.movie.year,hvilken dato var filmen {movie} frigivet
+da-dk,moviemaster.movie.year,hvilken dato var filmen {movie} lavet
+da-dk,moviemaster.movie.year,hvornår var filmen {movie} frigivet
+da-dk,moviemaster.movie.year,hvornår var filmen {movie} lavet
+da-dk,moviemaster.movie.year,hvilket år var filmen {movie} frigivet
+da-dk,moviemaster.movie.year,hvilket år var filmen {movie} lavet
+da-dk,moviemaster.tmdb,Hvad er filmen {movie} om
+da-dk,moviemaster.tmdb,Fortæl mig om filmen {movie}
+da-dk,moviemaster.tmdb,Hvem spiller i filmen {movie}
+da-dk,moviemaster.tmdb,Fortæl mig om skuespilleren {actor}
+da-dk,moviemaster.tmdb,Hvornår blev filmen {movie} lavet
+da-dk,wikiquote-skill.random,fortæl mig et klogt
+da-dk,wikiquote-skill.random,fortæl mig et visdom
+da-dk,wikiquote-skill.random,fortæl mig et citat
+da-dk,wikiquote-skill.random,fortæl mig noget klogt
+da-dk,wikiquote-skill.random,fortæl mig noget visdom
+da-dk,wikiquote-skill.random,fortæl mig noget citat
+da-dk,wikiquote-skill.random,fortæl mig nogle klogt
+da-dk,wikiquote-skill.random,fortæl mig nogle visdom
+da-dk,wikiquote-skill.random,fortæl mig nogle citat
+da-dk,wikiquote-skill.random,giv mig noget klogt
+da-dk,wikiquote-skill.random,giv mig noget visdom
+da-dk,wikiquote-skill.random,giv mig noget citat
+da-dk,wikiquote-skill.random,giv mig et klogt
+da-dk,wikiquote-skill.random,giv mig et visdom
+da-dk,wikiquote-skill.random,giv mig et citat
+da-dk,wikiquote-skill.random,giv mig nogle klogt
+da-dk,wikiquote-skill.random,giv mig nogle visdom
+da-dk,wikiquote-skill.random,giv mig nogle citat
+da-dk,wikiquote-skill.random,Jeg behøver noget klogt
+da-dk,wikiquote-skill.specific,fortæl mig noget {subject} klogt
+da-dk,wikiquote-skill.specific,fortæl mig noget {subject} visdom
+da-dk,wikiquote-skill.specific,fortæl mig noget {subject} citat
+da-dk,wikiquote-skill.specific,fortæl mig et {subject} klogt
+da-dk,wikiquote-skill.specific,fortæl mig et {subject} visdom
+da-dk,wikiquote-skill.specific,fortæl mig et {subject} citat
+da-dk,wikiquote-skill.specific,fortæl mig en {subject} klogt
+da-dk,wikiquote-skill.specific,fortæl mig en {subject} visdom
+da-dk,wikiquote-skill.specific,fortæl mig en {subject} citat
+da-dk,wikiquote-skill.specific,fortæl mig nogle {subject} klogt
+da-dk,wikiquote-skill.specific,fortæl mig nogle {subject} visdom
+da-dk,wikiquote-skill.specific,fortæl mig nogle {subject} citat
+da-dk,wikiquote-skill.specific,giv mig noget {subject} klogt
+da-dk,wikiquote-skill.specific,giv mig noget {subject} visdom
+da-dk,wikiquote-skill.specific,giv mig noget {subject} citat
+da-dk,wikiquote-skill.specific,giv mig et {subject} klogt
+da-dk,wikiquote-skill.specific,giv mig et {subject} visdom
+da-dk,wikiquote-skill.specific,giv mig et {subject} citat
+da-dk,wikiquote-skill.specific,giv mig en {subject} klogt
+da-dk,wikiquote-skill.specific,giv mig en {subject} visdom
+da-dk,wikiquote-skill.specific,giv mig en {subject} citat
+da-dk,wikiquote-skill.specific,giv mig nogle {subject} klogt
+da-dk,wikiquote-skill.specific,giv mig nogle {subject} visdom
+da-dk,wikiquote-skill.specific,giv mig nogle {subject} citat
+da-dk,wikiquote-skill.specific,Jeg har brug for noget {subject} klogt
+da-dk,wikiquote-skill.specific,Jeg har brug for noget {subject} visdom
+da-dk,wikiquote-skill.specific,Jeg har brug for noget {subject} citat
+da-dk,wikiquote-skill.specific,fortæl mig et citat om {subject}
+da-dk,wikiquote-skill.specific,fortæl mig et citat fra {subject}
+da-dk,wikiquote-skill.specific,Giv mig et citat om {subject}
+da-dk,wikiquote-skill.specific,Giv mig et citat fra {subject}
+da-dk,wikiquote-skill.specific,Jeg har brug for et tilbud om {subject}
+da-dk,wikiquote-skill.specific,Jeg har brug for et tilbud fra {subject}

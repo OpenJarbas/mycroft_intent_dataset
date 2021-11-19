@@ -1,0 +1,599 @@
+{
+  "de-de": {
+    "alarm.alarm.status": [
+      "Status der Alarme",
+      "Welche Alarme habe ich?",
+      "Habe ich irgendwelche Alarme?",
+      "Habe ich irgendwelche Alarme eingestellt?",
+      "Wann ist mein n\u00e4chster Alarm?",
+      "Status des Alarms",
+      "Status des {time} ({ampm}|) Alarms",
+      "Status des {time} ({ampm}|) {daytype} Alarms",
+      "status meines {time} ({ampm}|) alarm",
+      "status meines {time} ({ampm}|) {daytype} alarm",
+      "Wie viel Zeit bleibt noch \u00fcbrig? bis {time} ({ampm}|)",
+      "Wie viel Zeit bleibt noch \u00fcbrig? bis {time} ({ampm}|) {daytype}",
+      "Zeit \u00fcbrig auf meinen {time} ({ampm}|) alarm",
+      "Zeit \u00fcbrig auf meinem {time} ({ampm}|) {daytype} alarm",
+      "Zeit \u00fcbrig auf meinem {length} alarm",
+      "Wie viel Zeit bleibt noch \u00fcbrig? {length} alarm"
+    ],
+    "alarm.delete": [
+      "(cancel | remove | erase| delete) (my | the) {time} ({ampm}|) alarm."
+    ],
+    "alarm.delete.all": [
+      "(delete | remove | cancel | erase ) (all | all of | ) (the | my | ) alarms."
+    ],
+    "alarm.set.morning": [
+      "wecke mich morgen fr\u00fch auf.",
+      "weck mich morgen auf.",
+      "wecke mich um {time} morgen fr\u00fch."
+    ],
+    "alarm.set.recurring": [
+      "(set|) (a|an|) (alarm|) (for|at|on|) {time} ({ampm}|)( alarm|)( for|) every {daytype}",
+      "(set|) (a|an|) (alarm|) (for|at|on|) {time}({ampm}|) (alarm|) (for|) every {daytype}",
+      "(set|) (a|an|) {time} ({ampm}|) (alarm|) (for|at|on|) every {daytype}",
+      "(set|) (a|an|) recurring {time} ({ampm}|) alarm (for|at|on|) {daytype}",
+      "(set|) (a|an|) recurring alarm (for|on|at|) {time}({ampm}| {ampm}|) {daytype}",
+      "(set|) (a|an|) alarm every {daytype} (at|for|on|) {time} ({ampm}|)"
+    ],
+    "alarm.set.sunrise": [
+      "Weck mich bei Sonnenaufgang auf.",
+      "Weck mich morgen bei Sonnenaufgang.",
+      "Kannst du mich bei Sonnenaufgang wecken?",
+      "Kannst du mich morgen bei Sonnenaufgang wecken?"
+    ],
+    "alarm.set.time": [
+      "wecke mich auf in {length}.",
+      "wecke mich auf in {length} von jetzt.",
+      "stelle einen Alarm ein auf {length} von jetzt.",
+      "Stellen Sie den Alarm f\u00fcr ein {length} von jetzt.",
+      "Alarm instellen f\u00fcr {length} von jetzt.",
+      "setze (an|a) alarm f\u00fcr {time} ({ampm}|) (this|) ({daytype}|)",
+      "setze ein Alarm (for|on|) {daytype} {time} ({ampm}|)",
+      "setze (a|an) {daytype} alarm f\u00fcr {time} ({ampm}|)",
+      "setze (a|an) {daytype} alarm um {time} ({ampm}|)",
+      "setze (a|an) {daytype} alarm um {time} ({ampm}|)",
+      "setze ein alarm f\u00fcr {time} ({ampm}|)",
+      "setze ein alarm f\u00fcr {time} ({ampm}|) {daytype}",
+      "setze ein alarm f\u00fcr {time} ({ampm}|) diesen {daytype}",
+      "setze (a|an|) {time} alarm",
+      "setze (a|an|) {time} {ampm} alarm"
+    ],
+    "alarm.set.time.24hr": [
+      "wake mich (at {time}| for {time}| ) jeden {daytype} (at {time}| for {time}| ) (called {label} | ).",
+      "(set | create | make) an alarm (clock | ) (at {time}| for {time}| ) jeden {daytype} (at {time}| for {time}| )  (called {label} | ).",
+      "(set | create | make) an alarm (clock | ) (at {time}| for {time}| )   am (the|)  {daytype}.",
+      "(set | create | make) an alarm (clock | ) (at {time}| for {time}| )  ({daytype}|) ",
+      "wake mich auf in {length}.",
+      "wake mich auch in {length} von jetzt."
+    ],
+    "alarm.stop": [
+      "stope alarm.",
+      "schalte alarm aus.",
+      "T\u00f6te den Alarm.",
+      "deaktiviere den alarm.",
+      "L\u00f6schen Sie den Alarm.",
+      "Ich hab es geschafft.",
+      "das ist genug!",
+      "halte den Mund!"
+    ],
+    "auto-volume-skill.activate": [
+      "Aktiviere automatische Lautst\u00e4rke",
+      "Schalte automatische Lautst\u00e4rke ein",
+      "Schalte Lautst\u00e4rke auf automatisch",
+      "Stelle automatische Lautst\u00e4rke auf (to) an"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Deaktiviere die automatische Lautst\u00e4rke ",
+      "Setze automatische Lautst\u00e4rke auf inaktiv ",
+      "Setze automatische Lautst\u00e4rke auf aus",
+      "Stelle (die|) automatische Lautst\u00e4rke (auf) aus"
+    ],
+    "auto-volume-skill.reset": [
+      "L\u00f6sche automatische Lautst\u00e4rkemessung",
+      "Automatische Lautst\u00e4rkenmessungen l\u00f6schen",
+      "Setze (die|) automatische Lautst\u00e4rkemessung zur\u00fcck"
+    ],
+    "cocktail.Needed": [
+      "was wird f\u00fcr (ein|einen) {drink} ben\u00f6tigt",
+      "was (brauche|brauchst) (ich|du) f\u00fcr (ein|einen) {drink}",
+      "was sind die (Zutaten|Zutat) (von|f\u00fcr) (ein|einen) {drink}"
+    ],
+    "cocktail.Recipie": [
+      "wie (mache|mische|mixe) (ich) (ein|einen|eine|) {drink}",
+      "sag (mir|uns) wie man (ein|einen) {drink} (macht|mixt)",
+      "Gib (mir|uns) Anweisungen f\u00fcr (ein|eine|einen) {drink}",
+      "wie man (ein|einen) {drink} (macht|mixt)",
+      "(Wie|Was) ist das Rezept f\u00fcr (ein|eine|einen) {drink}"
+    ],
+    "count-skill.count": [
+      "Z\u00e4hle bis {number}"
+    ],
+    "count-skill.countdown": [
+      "Countdown von {number}",
+      "Z\u00e4hle von {number} herunter",
+      "Z\u00e4hle von {number} r\u00fcckw\u00e4rts",
+      "Z\u00e4hle von {number} r\u00fcckw\u00e4rts",
+      "Z\u00e4hle von {number} r\u00fcckw\u00e4rts",
+      "Von {number} z\u00e4hle herunter",
+      "Von {number} z\u00e4hle r\u00fcckw\u00e4rts"
+    ],
+    "dice-skill.Dice": [
+      "wirf ({count}|) d {type} (+|plus|) ({modifier}|)"
+    ],
+    "dice-skill.NormalDice": [
+      "wirf ({count}|) W\u00fcrfel"
+    ],
+    "dice-skill.Range": [
+      "Erzeuge eine zuf\u00e4llige Zahl von {low} bis {high}",
+      "Erzeuge eine zuf\u00e4llige Zahl zwischen {low} und {high}",
+      "Nenne mir eine Zahl von {low} und {high}",
+      "Nenne mir eine Zahl zwischen {low} und {high}"
+    ],
+    "email-skill.check.email": [
+      "pr\u00fcfe meine E-Mail",
+      "Pr\u00fcfe meine Post",
+      "Habe ich neue Post",
+      "Habe ich neue E-Mails",
+      "Habe ich irgendwelche neuen E-Mails"
+    ],
+    "email-skill.enquire.email": [
+      "Habe ich eine E-Mail von {email}",
+      "Habe ich eine E-Mail (von | ){email} bekommen",
+      "Habe ich E-Mails von {email} erhalten"
+    ],
+    "email-skill.notify": [
+      "Erz\u00e4hl mir von (mail | email | new mail | email)",
+      "Sage mir, wann ich (E-Mail | E-Mail | Neue E-Mail | Neue E-Mail) bekomme",
+      "Sag mir wenn ich (eine E-Mail | eine E-Mail | eine E-Mail) (von | bis) {sender} bekomme",
+      "Erz\u00e4hl mir von (mail | email) (von | von) {sender}",
+      "Benachrichtige mich \u00fcber (mail | email | neue mail | neue email)",
+      "Benachrichtige mich \u00fcber (E-Mail | E-Mail | Neue E-Mail | Neue E-Mail) (von | bis) {sender}",
+      "Benachrichtige mich, wenn ich (E-Mail | E-Mail | Neue E-Mail | Neue E-Mail) bekomme",
+      "Benachrichtigen Sie mich, wenn ich (eine E-Mail | eine E-Mail | eine E-Mail) (von | bis) {sender} erhalte"
+    ],
+    "email-skill.stop": [
+      "Benachrichtige mich \u00fcber (mail | email | neue mail | neue email)",
+      "Benachrichtige mich nicht mehr \u00fcber (mail | email | neue mail | neue email) (von | by) {sender}",
+      "benachrichtige mich nicht mehr \u00fcber (mail | email | new mail | new email)",
+      "Benachrichtige mich nicht mehr \u00fcber (mail | email | new mail | new email) (von | durch) {sender}",
+      "zeige mir keine (mail | email | new mail | new email)",
+      "Erz\u00e4hl mir nichts von (mail | email | new mail | new email) (von | durch) {sender}",
+      "erz\u00e4hle mir nichts mehr von (mail | email | neuen mail | neuen email)",
+      "erz\u00e4hle mir nicht mehr von (mail | email | neue mail | neue email) (von | durch) {sender}"
+    ],
+    "emby-skill.diagnostic": [
+      "\u00dcberpr\u00fcfe die (emby|mb|mv|nv|emily) Verbindung",
+      "Diagnose von (emby|mb|mv|nv|emily) ausf\u00fchren ",
+      "\u00dcberpr\u00fcfe (emby|mb|mv|nv|emily)"
+    ],
+    "emby-skill.emby": [
+      "spiele {media} von Emby",
+      "spiele {media} von mb",
+      "Spiele Artist {artist} von Emby",
+      "Spiele Artist {artist} von Datenbank",
+      "Spiele Album {album} von Emby",
+      "Spiele Album {album} von Emby"
+    ],
+    "fairytalez-skill.continue": [
+      "Setze Geschichte fort",
+      "Erz\u00e4hle Geschichte weiter",
+      "Setze M\u00e4rchen fort",
+      "Erz\u00e4hle M\u00e4rchen weiter",
+      "Setze M\u00e4rchen fort",
+      "Fahre mit dem M\u00e4rchen fort",
+      "Fahre mit dem M\u00e4rchen fort"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "(Erz\u00e4hl|Lies) (mir| ) ein(e|) (gute|s| ) (Geschichte| M\u00e4rchen) (vor|)",
+      "(Erz\u00e4hl|Lies) (mir| ) die Geschichte {tale} (vor|)"
+    ],
+    "homeassistant.set.climate": [
+      "Setze die {entity} auf {temp} Grad",
+      "Setze die {entity} Temperatur auf {temp} Grad",
+      "Setze die {entity} Temperatur auf {temp} Grad"
+    ],
+    "homeassistant.set.light.brightness": [
+      "Setze die Helligkeit von {{entity}} auf {{brightnessvalue}} Prozent"
+    ],
+    "installer.install.custom": [
+      "benutzerdefinierten skill herunterladen"
+    ],
+    "installer.list.skills": [
+      "(zeige|Liste) (verf\u00fcgbare|installierbare) skills.",
+      "Welche (skills|) kann ich installieren?",
+      "Welche F\u00e4higkeiten kann ich installieren?"
+    ],
+    "installer.uninstall": [
+      "deinstalliere (skill|) {skill}",
+      "entferne skill {skill}"
+    ],
+    "iss-tracker-skill.tracker.iss": [
+      "Wo ist die Internationale Raumstation",
+      "Orte die ISS",
+      "Wo ist die ISS"
+    ],
+    "laugh.Laugh": [
+      "Lach wie Alexa",
+      "kannst du lachen",
+      "b\u00f6ses (Lachen|Gel\u00e4chter)"
+    ],
+    "laugh.RandomLaugh": [
+      "lach zuf\u00e4llig",
+      "l\u00f6se zuf\u00e4lliges (Lachen|Gel\u00e4chter) aus",
+      "zuf\u00e4lliges (Lachen|Gel\u00e4chter)"
+    ],
+    "learning-skill.say.differently": [
+      "kannst du (das|auch mal|) anders (antworten|sagen)",
+      "lass dir (mal|) etwas neues einfallen",
+      "erg\u00e4nze (auch mal|) deine antworten"
+    ],
+    "learning-skill.something_for_my_skill": [
+      "daf\u00fcr (solltest |kannst) du (das|den) {skill} (|Skill) (verwenden|nutzen|nehmen|benutzen)",
+      "(versuche |mache) es mal (das|mit dem) {skill} (|Skill)",
+      "(verwende|nutze|nehme|benutze) dazu (das|den) {skill} (|Skill)",
+      "wie (w\u00e4re|w\u00e4rs) (es|) mit dem {skill} (|Skill)"
+    ],
+    "learning-skill.will_let_you_know": [
+      "ich will es (|dir) erkl\u00e4ren",
+      "du (solltest|sollst|wirst ) (noch|)(|etwas mehr|etwas|einiges ) (\u00fcber {category}|) lernen",
+      "ich (erkl\u00e4re es |erkl\u00e4rs) dir",
+      "das hat (etwas|einiges|)mit {category} zu tun",
+      "{category} ist (wohl|scheinbar|durchaus) nicht deine st\u00e4rke",
+      "(das |der|dabei) war (|es) (als|mit) {category} gedacht",
+      "das (solltest|sollst) du mit {category} nehmen"
+    ],
+    "learning-skill.work.on.dialog": [
+      "(ich m\u00f6chte|kannst du |willst du) (|die|deine|meine|mein) (dialoge|dialog) in {skill} (|Skill) anpassen",
+      "(erweitere|erg\u00e4nze) (deine|mein|meine) Dialoge",
+      "(ich habe lust|kannst du|m\u00e4chtest du) an deinen Dialogen (in {skill} (|Skill)|) arbeiten"
+    ],
+    "mark-2.brightness": [
+      "dimme (die|deine) Augen auf {brightness} (Prozent|)",
+      "dimme auf {brightness} (percent|) herunter",
+      "verringere die (Helligkeit|Beleuchtung) deiner Augen auf {brightness} (Prozent|)",
+      "stelle (die|) (Helligkeit|Beleuchtung) (runter|hoch) auf {brightness} (Prozent|)",
+      "stelle (die|) (Helligkeit|Beleuchtung) auf {brightness} (Prozent|) (runter|hoch)",
+      "(ein wenig |) aufhellen auf {brightness} (Prozent |)",
+      "(\u00e4ndere | setze | schalte) die (Auge |) (Helligkeit | Beleuchtung) auf {brightness} (Prozent |)",
+      "(\u00e4ndere | stelle | schalte) (die | deine) (Augen |) (Helligkeit | Beleuchtung) (Pegel |) auf {brightness} (Prozent |)",
+      "(\u00e4ndere | stelle | schalte) (die | deine) (Augen |) (Helligkeits | Beleuchtungs) (Pegel |)",
+      "du bist (zu |) (hell | schwach)",
+      "du bist (auch |) (hell | schwach)",
+      "helle auf",
+      "dimme ein bisschen ab"
+    ],
+    "mark-2.brightness.auto": [
+      "stelle Helligkeit auf automatisch",
+      "automatische Helligkeit"
+    ],
+    "mark-2.device.brightness.settings": [
+      "Helligkeitseinstellungen anzeigen",
+      "zeige die Helligkeitseinstellungen des Ger\u00e4ts"
+    ],
+    "mark-2.device.homescreen.settings": [
+      "Homescreen-Einstellungen anzeigen",
+      "zeigw (home | resting | idle) (screen | face | page) settings",
+      "zeige die (Home | Ruhe | Ruhezustand) (Bildschirm | Gesicht | Seite) Einstellungen des Ger\u00e4tes an"
+    ],
+    "mark-2.device.reset.settings": [
+      "Werkseinstellungen anzeigen",
+      "Einstellungen f\u00fcr Zur\u00fccksetzen anzeigen"
+    ],
+    "mark-2.device.settings": [
+      "Ger\u00e4teeinstellungen anzeigen",
+      "Einstellungen \u00f6ffnen"
+    ],
+    "mark-2.device.ssh.settings": [
+      "ssh einstellungen anzeigen",
+      "zeige ssh Ger\u00e4te Einstellungen"
+    ],
+    "mark-2.device.wifi.settings": [
+      "drahtlos suche anzeigen",
+      "zeige wireless Einstellungen",
+      "zeige w-lan einstellungen",
+      "zeige w-lan bildschirm"
+    ],
+    "moviemaster.genre.movie.search": [
+      "(liste | finde) (movies | filme) die (in |) {genre} sind",
+      "(liste|finde) {genre} (movies|filme)"
+    ],
+    "moviemaster.genre.tv.search": [
+      "(liste|finde|hole) (Fernsehssendungen|Sendung|Sendungen) die (|in) {genre} sind",
+      "(liste|finde|hole) {genre} (Fernsehsendungen|Sendungen|Sendung)"
+    ],
+    "moviemaster.movie.cast": [
+      "wer (handelt|spielt|ist) im (movie|film|Titel) {movie}"
+    ],
+    "moviemaster.movie.description": [
+      "Worum geht es in (movie | film | flick) {movie}",
+      "erz\u00e4hle (mir|uns) vom (Movie|Film|flick) {movie}",
+      "(gib|nenne) (mir|uns) eine (Beschreibung|Zusammenfassung) des (movies|films|flicks) {movie}",
+      " "
+    ],
+    "moviemaster.movie.genres": [
+      "Zu welchem (Genres|Genre) geh\u00f6rt der (Movie|Film|Flick) {movie}",
+      "Was sind die (Genres|Genre) der (Movie|Film|Flick) {movie}",
+      "Welches (Genres|Genre) (hat|ist) das (Movie|Film|flick) {movie}"
+    ],
+    "moviemaster.movie.information": [
+      "(finde|hole|schaue nach|gibt es) nach (informationen|infos) (\u00fcber|zum) (movie | film | flick) {movie}",
+      "(gib|hole|suche) (|mir|uns) (informationen|infos) (zu|\u00fcber) den (movie | film | flick) {movie}",
+      "(hast du|kannst du) (infos|informationen) \u00fcber den (Movie|Film|flick) {movie} (finden|bekommen|)"
+    ],
+    "moviemaster.movie.popular": [
+      "(liste|suche|finde) beliebte (Movies|Filme|Flicks)",
+      "Was sind ( |die) beliebtesten (Movies|Filme|Flicks) (aktulle|aktuell) ( |gespielte)"
+    ],
+    "moviemaster.movie.production": [
+      "(wer|welche Firma) (produziert|produzierte) den Film {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "empfehle (einen|) (Movie|Film|Flicks) (\u00e4hnlich zu|\u00e4hnlich) (wie|){movie}",
+      "Was empfehlst du (\u00e4hnliche|vergleichbare) (movies|Filme|Filme) wie {movie}",
+      "(liste|suche|finde) (|gute) (movies | Filme | flicks) (\u00e4hnlich wie|vergleichbar mit) {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "Wie (lange|lang) ist der (movie|film|flick) {movie}",
+      "Was ist die (laufzeit|l\u00e4nge) vom (movie|Film|Flick) {movie}",
+      "suche die (Laufzeit | L\u00e4nge) des (Films|Movies|Flicks) {movie}"
+    ],
+    "moviemaster.movie.top": [
+      "(Liste|Was sind|Suche) die (Top|Beliebtesten|Besten) (Movies|Filme|Flicks) zum abspielen"
+    ],
+    "moviemaster.movie.year": [
+      "(in welchem Jahr | wann | zu welchem Datum) wurde der (Movie | Film | Flick) {movie} (gemacht | ver\u00f6ffentlicht)"
+    ],
+    "mycroft-node-red.converse.disable": [
+      "mache (node|node red) zu einem (fallback| fall back) (|skill)",
+      "setze die Priorit\u00e4t f\u00fcr (node|node red) zur\u00fcck",
+      "(node|node red) soll nach mycroft antworten"
+    ],
+    "mycroft-node-red.converse.enable": [
+      "Priorisiere (node|node red)",
+      "gebe (node|node red) Priorit\u00e4t (vor mycroft|)",
+      "(node|node red) soll vor mycroft antworten"
+    ],
+    "mycroft-node-red.pingnode": [
+      "ping node red",
+      "sag node red hallo",
+      "ist node red erreichbar",
+      "node red status"
+    ],
+    "mycroft-timer.cancel.timer": [
+      "beende den {duration} timer",
+      "Schalte den timer aus",
+      "Schalte den timmer um {duration} aus",
+      "breche den timer ab",
+      "(cancel|remove|delete|abort) (the|a|) {duration} (timer|)",
+      "deaktiviere den Timer",
+      "deaktiviere den {duration} timer",
+      "bereche den {all} timer ab",
+      "losche {all} timer",
+      "deaktiviere {all} timer"
+    ],
+    "mycroft-timer.start.timer": [
+      "Starte einen  timer.",
+      "Starte timer.",
+      "Starte (##-hour|##-minute|##-second) timer",
+      "Starte (##-hour|##-minute|##-second) timer (namens|f\u00fcr) {name}.",
+      "(Starte|Setze) (einen|) {duration} timer.",
+      "(Starte|Setze) (einen|) {duration} timer (namens|f\u00fcr) {name}.",
+      "(Starte|Setze) einen timer for {duration}.",
+      "Timer {duration}.",
+      "Timer f\u00fcr {duration}.",
+      "Timer f\u00fcr {duration} (namens|f\u00fcr) {name}.",
+      "{duration} timer.",
+      "{duration} timer (namens|f\u00fcr) {name}.",
+      "Give me a {duration} timer.",
+      "Setze einen Timer \u00fcber {duration}.",
+      "Setze einen {duration} timer.",
+      "Gebe mir einen {duration} timer Bitte.",
+      "Z\u00e4hle {duration} f\u00fcr mich.",
+      "Zeit {duration} f\u00fcr mich.",
+      "ich brauche einen {duration} timer.",
+      "erstelle einen timer f\u00fcr {duration}.",
+      "erstelle einen timer f\u00fcr {duration} (namens|f\u00fcr) {name}."
+    ],
+    "mycroft-timer.status.timer": [
+      "Wie viel (Zeit|) bleibt noch \u00fcbrig von ({duration} timer| timers)",
+      "Wie viel Zeit bleibt noch auf den Timern?",
+      "Wie viel Zeit bleibt noch",
+      "status der timer",
+      "status des timers",
+      "timer status",
+      "status des ({duration} timer| timer})",
+      "wie lange noch",
+      "bleibt noch Zeit",
+      "verbleibende zeit von ({duration} timer| timer)",
+      "verbleibende Zeit von (timer|{duration} timer|)?",
+      "Timer auflisten",
+      "Liste timer auf"
+    ],
+    "mycroft-timer.stop": [
+      "stope timer.",
+      "beende timer.",
+      "deaktiviere timer."
+    ],
+    "mycroft-timer.stop.timer": [
+      "stope alle timer",
+      "stope timer",
+      "l\u00f6sche all timer",
+      "l\u00f6sche timer"
+    ],
+    "parrot.did.you.hear.me": [
+      "(kann|hast) du mir (das|)?"
+    ],
+    "parrot.repeat.stt": [
+      "was habe ich (dir|gerade) (gesagt|mitgeteilt)?",
+      "Was denkst du, was ich gesagt habe?",
+      "Was hast du zu mir gesagt?",
+      "sage mir was ich dir (gerade|) gesagt habe.",
+      "was denkst du will ich von dir"
+    ],
+    "parrot.repeat.tts": [
+      "was hast du (gerade|) (gesagt|gemeint)?",
+      "wiederhole was du  (gerade | ) sagtest.",
+      "Kannst du das wiederholen?",
+      "Wiedehole das",
+      "Kannst du das nochmal sagen?",
+      "Sag das noch einmal",
+      "Was war das?",
+      "Wie bitte"
+    ],
+    "sip.neon.call": [
+      "Rufe {{contact}} an",
+      "kannst du {{contact}} anrufen",
+      "Telefon {{Kontakt}}"
+    ],
+    "sip.neon.call_and_say": [
+      "Rufe {{contact}} an und (sag | sage) {{Speech}}",
+      "Ruf {{contact}} an und (sag | sage) {{Speech}}",
+      "Telefon {{contakt}} und (sag | sage) {{Speech}}"
+    ],
+    "sip.neon.converse.disable": [
+      "mache (SIP | VOIP | Telefon | Anrufe) (| a | an) (Fallback | Fallback) (| Skill)",
+      "(deaktivieren | ausschalten | abbrechen | t\u00f6te | stoppe | beende) (SIP | VOIP | telefoniere | anrufe) (Priorit\u00e4t | unterhalten)",
+      "l\u00f6se (SIP | VOIP | Telefon | Anrufe) aus (zuletzt | zum schluss | am Ende | zum Ende)"
+    ],
+    "sip.neon.converse.enable": [
+      "mache (SIP | VOIP | Telefon | Anrufe) (| mit | an) Priorit\u00e4t (| F\u00e4higkeit)",
+      "l\u00f6se (SIP | VOIP | Telefon | Anrufe) aus (zuerst | vor dem Anpassen)"
+    ],
+    "sip.neon.login": [
+      "SIP-Login",
+      "VOIP Login",
+      "Melde mich bei SIP an",
+      "Melde mich bei VOIP an"
+    ],
+    "sip.neon.restart": [
+      "SIP (neustart | reboot)",
+      "VOIP (neustart | reboot)",
+      "(neustart | reboot) SIP",
+      "(neustart | reboot) VOIP"
+    ],
+    "spotify-skill.PlayAlbum": [
+      "spiele das Album {album}",
+      "spiele das Album (namens|){album}",
+      "spiele das Album (namens|){album} (von|){artist}",
+      "spiele das Album {album} (von|) (der band|der Gruppe|den Musikern|dem Duo|dem Interpret|){artist}",
+      "spiele das Album (namens|){album} (von|) (der band|der Gruppe|den Musikern|dem Duo|dem Interpret|){artist}",
+      "//spiele das Album holy mountain",
+      "//spiele das Album namens holy mountain",
+      "//spiele das Album holy mountain von sleep",
+      "//spiele das Album namens holy mountain von sleep",
+      "//spiele das Album namens holy mountain von der band sleep"
+    ],
+    "spotify-skill.PlayOn": [
+      "nutze {device} um die Playliste {playlist} zu spielen",
+      "Spiele Playliste {playlist} auf {device}",
+      "Spiele liste {playlist} auf {device} "
+    ],
+    "spotify-skill.PlayPlaylist": [
+      "Spiele (die|meine) playliste {playlist}( auf spotify|)"
+    ],
+    "spotify-skill.PlaySomeMusic": [
+      "Spiele (etwas )musik( von {artist}|)",
+      "Spiele (etwas|ein Lied|ein Titel|ein St\u00fcck)( von {artist}|)",
+      "Spiel etwas"
+    ],
+    "spotify-skill.PlaySong": [
+      "Spiele {track}( von {artist}|) (vom|aus)( dem Album|der Platte|der Aufnahme|) {album}",
+      "Spiele {track} (von|vom) (die Band|die Gruppe|den Musikern|dem Duo|Interpret|){artist}",
+      "Spiele {track} (aus|vom)( dem Album| der Platte| der Aufnahme|) {album} (von|durch){artist}",
+      "spiele (der|die|das) (Lied|St\u00fcck|Titel|Zusammensetzung)( | namens|) {track}( von {artist}|) (aus|von)( dem Album| der Platte| der Aufnahme|) {album}",
+      "Spiel {track}( von {artist}|)",
+      "//play holy mountain",
+      "//play the song holy mountain",
+      "//play the song holy mountain by sleep",
+      "//play holy mountain by the band sleep",
+      "//play holy mountain by the band called sleep",
+      "//play holy mountain by the group sleep",
+      "//play holy mountain by the group called sleep",
+      "//play holy mountain off holy mountain",
+      "//play holy mountain by sleep from holy mountain",
+      "//play holy mountain off the album holy mountain",
+      "//",
+      "//FAILING:",
+      "//",
+      "//play holy mountain by sleep from called holy mountain",
+      "//play holy mountain from the album called holy mountain",
+      "//play holy mountain by the band sleep from called holy mountain",
+      "//play the song called holy mountain by the band called sleep",
+      "//play the song called holy mountain by sleep",
+      "//play holy mountain by the band called sleep from called holy mountain",
+      "//play the song called holy mountain off the album named holy mountain",
+      "//play the song named holy mountain from holy mountain",
+      "//play the song named holy mountain from named holy mountain",
+      "//play the song named holy mountain by sleep off the album named holy mountain",
+      "//play the song named holy mountain by sleep off the album holy mountain",
+      "//play the song holy mountain by the musicians sleep",
+      "//play the song holy mountain by the musicians named sleep",
+      "//play the song called holy mountain by the musicians sleep",
+      "//play the song called holy mountain by the musicians called sleep"
+    ],
+    "support.contact.support": [
+      "Ich habe ein Problem",
+      "etwas funktioniert nicht",
+      "Was ist los mit dir?",
+      "Erstelle mir eine Problembehandlungsanforderung",
+      "Fehlerbehebung f\u00fcr mein Ger\u00e4t",
+      "Kontaktiere den Support",
+      "Erstelle ein Support-Ticket"
+    ],
+    "theia-ide-skill.restart": [
+      "Neustart IDE"
+    ],
+    "theia-ide-skill.start": [
+      "Aktivieren IDE"
+    ],
+    "theia-ide-skill.stop": [
+      "Deaktivieren IDE"
+    ],
+    "voip.call": [
+      "Rufe {{contact}} an",
+      "kannst du {{contact}} anrufen",
+      "Telefon {{Kontakt}}"
+    ],
+    "voip.call_and_say": [
+      "Rufe {{contact}} an und (sag | sage) {{Speech}}",
+      "Ruf {{contact}} an und (sag | sage) {{Speech}}",
+      "Telefon {{contakt}} und (sag | sage) {{Speech}}"
+    ],
+    "voip.converse.disable": [
+      "mache (SIP | VOIP | Telefon | Anrufe) (| a | an) (Fallback | Fallback) (| Skill)",
+      "(deaktivieren | ausschalten | abbrechen | t\u00f6te | stoppe | beende) (SIP | VOIP | telefoniere | anrufe) (Priorit\u00e4t | unterhalten)",
+      "l\u00f6se (SIP | VOIP | Telefon | Anrufe) aus (zuletzt | zum schluss | am Ende | zum Ende)"
+    ],
+    "voip.converse.enable": [
+      "mache (SIP | VOIP | Telefon | Anrufe) (| mit | an) Priorit\u00e4t (| F\u00e4higkeit)",
+      "l\u00f6se (SIP | VOIP | Telefon | Anrufe) aus (zuerst | vor dem Anpassen)"
+    ],
+    "voip.login": [
+      "SIP-Login",
+      "VOIP Login",
+      "Melde mich bei SIP an",
+      "Melde mich bei VOIP an"
+    ],
+    "voip.restart": [
+      "SIP (neustart | reboot)",
+      "VOIP (neustart | reboot)",
+      "(neustart | reboot) SIP",
+      "(neustart | reboot) VOIP"
+    ],
+    "wikiquote-skill.random": [
+      "nenne mir (ein|eine) (Zitat|Weisheit)",
+      "gib mir (ein|eine) (Zitat|Weisheit)",
+      "Ich brauche eine Weisheit"
+    ],
+    "wikiquote-skill.specific": [
+      "nenne mir (ein|eine) {subject} (Zitat|Weisheit)",
+      "gib mir (ein|eine) {subject} (Zitat|Weisheit)",
+      "Ich brauche {subject} (Zitat(e)|Weisheit(en))",
+      "nenne mir ein Zitat (von|\u00fcber) {subject}",
+      "gib mir ein Zitat (von|\u00fcber) {subject}",
+      "Ich brauche ein Zitat (von|\u00fcber) {subject}"
+    ]
+  }
+}

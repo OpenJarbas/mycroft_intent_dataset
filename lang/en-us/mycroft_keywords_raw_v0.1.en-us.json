@@ -1,0 +1,4953 @@
+{
+  "en-us": {
+    "Communication.neon.Neon": [
+      "neon",
+      "leon",
+      "nyan"
+    ],
+    "Communication.neon.draft": [
+      "send",
+      "draft",
+      "start",
+      "create"
+    ],
+    "Communication.neon.message": [
+      "message",
+      "shout",
+      "text"
+    ],
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Crystal Ball",
+      "Mirror mirror"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "future",
+      "tomorrow"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "Tell me",
+      "What"
+    ],
+    "Number-Guess-Mycroft-Skill.NumberGuess": [
+      "Number Guess",
+      "number guessing game"
+    ],
+    "Number-Guess-Mycroft-Skill.Play": [
+      "Play",
+      "Start a game"
+    ],
+    "Number-Guess-Mycroft-Skill.Suggest": [
+      "Let's",
+      "Let us",
+      "Why don't we",
+      "How about we",
+      "We should"
+    ],
+    "Skill-Gui-Examples.gui.example.eight": [
+      "show audio player example",
+      "show audio delegate example"
+    ],
+    "Skill-Gui-Examples.gui.example.eleven": [
+      "show video player example"
+    ],
+    "Skill-Gui-Examples.gui.example.five": [
+      "show proportional delegate example",
+      "show autofit label example"
+    ],
+    "Skill-Gui-Examples.gui.example.five.wrapText": [
+      "show proportional wrap text example",
+      "show autofit label wrap text example"
+    ],
+    "Skill-Gui-Examples.gui.example.four": [
+      "show sliding image example "
+    ],
+    "Skill-Gui-Examples.gui.example.menu": [
+      "show gui examples",
+      "show gui test examples",
+      "show examples menu"
+    ],
+    "Skill-Gui-Examples.gui.example.nine": [
+      "show html url example "
+    ],
+    "Skill-Gui-Examples.gui.example.one": [
+      "show simple text example "
+    ],
+    "Skill-Gui-Examples.gui.example.seven": [
+      "show events example"
+    ],
+    "Skill-Gui-Examples.gui.example.six": [
+      "show list view example "
+    ],
+    "Skill-Gui-Examples.gui.example.ten": [
+      "show html raw example "
+    ],
+    "Skill-Gui-Examples.gui.example.three": [
+      "show paginated text example "
+    ],
+    "Skill-Gui-Examples.gui.example.two": [
+      "show simple image example "
+    ],
+    "about.neon.License": [
+      "license"
+    ],
+    "about.neon.Long": [
+      "extended",
+      "long",
+      "complete",
+      "full"
+    ],
+    "about.neon.Neon": [
+      "neon",
+      "leon",
+      "nyan"
+    ],
+    "about.neon.Skills": [
+      "my skills",
+      "your skills",
+      "what you can do",
+      "what can you do",
+      "installed skills"
+    ],
+    "about.neon.Tell": [
+      "tell me",
+      "list"
+    ],
+    "aircrack.Clients": [
+      "client",
+      "clients",
+      "connection",
+      "connections"
+    ],
+    "aircrack.Crack": [
+      "crack",
+      "hack"
+    ],
+    "aircrack.Deauth": [
+      "deauth",
+      "deauthenticate",
+      "disconnect",
+      "dee auth",
+      "dee authenticate"
+    ],
+    "aircrack.Interface": [
+      "devices",
+      "interfaces",
+      "device",
+      "interface"
+    ],
+    "aircrack.List": [
+      "list",
+      "scan"
+    ],
+    "aircrack.Monitor": [
+      "monitor",
+      "monitoring",
+      "dump",
+      "dumping"
+    ],
+    "aircrack.Network": [
+      "wireless networks",
+      "networks",
+      "wireless network",
+      "network",
+      "wifi network",
+      "wifi networks"
+    ],
+    "aircrack.Password": [
+      "password",
+      "pass word"
+    ],
+    "aircrack.Select": [
+      "select",
+      "use"
+    ],
+    "aircrack.Start": [
+      "start",
+      "begin"
+    ],
+    "aircrack.Stop": [
+      "stop",
+      "end"
+    ],
+    "alerts.neon.Neon": [
+      "neon",
+      "leon",
+      "nyan",
+      "me on"
+    ],
+    "alerts.neon.alarm": [
+      "alarm",
+      "alarms",
+      "wake me up"
+    ],
+    "alerts.neon.alert": [
+      "alert",
+      "alerts"
+    ],
+    "alerts.neon.all": [
+      "all",
+      "every"
+    ],
+    "alerts.neon.articles": [
+      "a",
+      "an",
+      "the",
+      "for",
+      "me",
+      "at",
+      "am",
+      "pm",
+      "remind"
+    ],
+    "alerts.neon.cancel": [
+      "cancel",
+      "clear",
+      "remove"
+    ],
+    "alerts.neon.dayOfWeek": [
+      "sunday",
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday",
+      "saturday",
+      "sundays",
+      "mondays",
+      "tuesdays",
+      "wednesdays",
+      "thursdays",
+      "fridays",
+      "saturdays"
+    ],
+    "alerts.neon.dismiss": [
+      "dismiss",
+      "got it",
+      "okay",
+      "cancel",
+      "quiet",
+      "stop",
+      "silence",
+      "shut up",
+      "clear",
+      "end",
+      "exit"
+    ],
+    "alerts.neon.endKeyword": [
+      "end",
+      "disable"
+    ],
+    "alerts.neon.endQuietHours": [
+      "wake up",
+      "miss anything",
+      "missed anything",
+      "what did i miss",
+      "what have i missed"
+    ],
+    "alerts.neon.event": [
+      "appointment",
+      "event"
+    ],
+    "alerts.neon.everyday": [
+      "everyday",
+      "every day",
+      "daily",
+      "nightly",
+      "every morning",
+      "every afternoon",
+      "every evening",
+      "every night"
+    ],
+    "alerts.neon.howMuchTime": [
+      "how much time is left",
+      "timer status",
+      "how long"
+    ],
+    "alerts.neon.list": [
+      "list my",
+      "list all my",
+      "list all of my",
+      "tell me my",
+      "tell me all my",
+      "tell me all of my",
+      "read my",
+      "read all my",
+      "read all of my",
+      "read me my",
+      "read me all my",
+      "read me all of my",
+      "show my",
+      "show me my",
+      "show me all my",
+      "show me all of my",
+      "what are my",
+      "are there any"
+    ],
+    "alerts.neon.next": [
+      "next"
+    ],
+    "alerts.neon.playable": [
+      "playable",
+      "playback",
+      "audible",
+      "audio",
+      "speakable",
+      "voice",
+      "recording",
+      "recorded",
+      "replay"
+    ],
+    "alerts.neon.priority": [
+      "priority",
+      "priority level"
+    ],
+    "alerts.neon.reminder": [
+      "reminder",
+      "reminders"
+    ],
+    "alerts.neon.repeat": [
+      "every",
+      "repeating"
+    ],
+    "alerts.neon.script": [
+      "script",
+      "skill file",
+      "file"
+    ],
+    "alerts.neon.set": [
+      "set",
+      "create",
+      "add",
+      "make",
+      "start"
+    ],
+    "alerts.neon.setReminder": [
+      "remind me",
+      "tell me to"
+    ],
+    "alerts.neon.snooze": [
+      "snooze",
+      "wait",
+      "hold"
+    ],
+    "alerts.neon.startQuietHours": [
+      "go to sleep",
+      "quiet hours",
+      "nap time",
+      "do not disturb me"
+    ],
+    "alerts.neon.timeKeywords": [
+      "hour",
+      "hours",
+      "minute",
+      "minutes",
+      "day",
+      "days"
+    ],
+    "alerts.neon.timer": [
+      "timer",
+      "timers",
+      "time"
+    ],
+    "alerts.neon.until": [
+      "until"
+    ],
+    "alerts.neon.weekdays": [
+      "weekday",
+      "weekdays",
+      "week day",
+      "week days"
+    ],
+    "alerts.neon.weekends": [
+      "weekend",
+      "weekends",
+      "week end",
+      "week ends"
+    ],
+    "apod.ExplainKeyword": [
+      "explain",
+      "summary",
+      "describe",
+      "tell me more"
+    ],
+    "audio-record.AudioRecordSkillDeleteVerb": [
+      "delete",
+      "erase",
+      "remove"
+    ],
+    "audio-record.AudioRecordSkillKeyword": [
+      "record",
+      "recording"
+    ],
+    "audio-record.AudioRecordSkillPlayVerb": [
+      "run",
+      "play",
+      "replay",
+      "playback",
+      "reproduce",
+      "running",
+      "playing",
+      "replaying",
+      "reproducing"
+    ],
+    "audio-record.AudioRecordSkillStopVerb": [
+      "end",
+      "stop",
+      "cancel"
+    ],
+    "avmusic.neon.AVmusicKeyword": [
+      "play (| some| this music)",
+      "play",
+      "avplay",
+      "search for this (band|song)",
+      "i want to (hear|listen to)",
+      "ask youtube"
+    ],
+    "avmusic.neon.AgreementKeyword": [
+      "yes",
+      "sure",
+      "proceed",
+      "continue",
+      "begin",
+      "start",
+      "go ahead",
+      "lets do it",
+      "do it",
+      "of course",
+      "actually do",
+      "changed my mind"
+    ],
+    "avmusic.neon.DeclineKeyword": [
+      "no",
+      "dont",
+      "not",
+      "do not",
+      "stop",
+      "break",
+      "leave",
+      "quit",
+      "end",
+      "not now",
+      "that's enough",
+      "enough"
+    ],
+    "avmusic.neon.Mix": [
+      "playlist",
+      "mix",
+      "album",
+      "radio"
+    ],
+    "avmusic.neon.Neon": [
+      "neon",
+      "leon",
+      "nyan",
+      "av",
+      "a v",
+      "av music",
+      "a v music"
+    ],
+    "avmusic.neon.Playback": [
+      "pause",
+      "pause now",
+      "resume",
+      "proceed",
+      "continue",
+      "next",
+      "previous",
+      "skip",
+      "back",
+      "last",
+      "forward"
+    ],
+    "avmusic.neon.Repeat": [
+      "on repeat",
+      "repeat",
+      "on loop",
+      "repeat",
+      "forever"
+    ],
+    "avmusic.neon.Video": [
+      "video",
+      "tutorial",
+      "show"
+    ],
+    "bandcamp.bandcamp": [
+      "in bandcamp",
+      "in band camp",
+      "at bandcamp",
+      "at band camp",
+      "on bandcamp",
+      "on band camp",
+      "from bandcamp",
+      "from band camp",
+      "search bandcamp",
+      "search band camp",
+      "search bandcamp for",
+      "search band camp for",
+      "bandcamp for",
+      "band camp for",
+      "bandcamp",
+      "band camp"
+    ],
+    "better-stop.StopKeyword": [
+      "stop"
+    ],
+    "bitchute-skill.BitChuteKeyword": [
+      "bitchute"
+    ],
+    "bitchute-skill.BitChuteLauncherIdKeyword": [
+      "ID03"
+    ],
+    "bitchute-skill.BitChuteLiveSearchPageKeyword": [
+      "show bitchute homepage",
+      "take me to bitchute homepage",
+      "open bitchute homepage"
+    ],
+    "bitchute-skill.BitChutePauseKeyword": [
+      "pause bitchute"
+    ],
+    "bitchute-skill.BitChuteResumeKeyword": [
+      "resume bitchute"
+    ],
+    "bitchute-skill.BitChuteSearchPageKeyword": [
+      "search bitchute for "
+    ],
+    "blue-marble.animate": [
+      "animate that",
+      "create animation",
+      "sun animation",
+      "video of that",
+      "video for that"
+    ],
+    "blue-marble.picture": [
+      "picture",
+      "image",
+      "photo",
+      "imagery",
+      "day"
+    ],
+    "caffeinewiz.neon.CaffeineKeyword": [
+      "tell me caffeine content of",
+      "tell me caffiene content of",
+      "tell me the caffeine content of",
+      "tell me the caffiene content of"
+    ],
+    "caffeinewiz.neon.GoodbyeKeyword": [
+      "goodbye",
+      "thats all",
+      "that is all",
+      "were done",
+      "we're done",
+      "we are done"
+    ],
+    "caffeinewiz.neon.NoIntent": [
+      "no i do not",
+      "no",
+      "not now",
+      "i am done",
+      "nevermind"
+    ],
+    "caffeinewiz.neon.UpdateCaffeine": [
+      "update caffeine wiz database",
+      "update caffeine database"
+    ],
+    "caffeinewiz.neon.YesIDo": [
+      "yes i do",
+      "i do",
+      "i would",
+      "yes i would",
+      "yes",
+      "ok",
+      "okay",
+      "sure"
+    ],
+    "caffeinewiz.neon.caffeine": [
+      "caffeine",
+      "caffiene",
+      "caff"
+    ],
+    "ccc.ccc": [
+      "cult cinema",
+      "movie classics",
+      "cinema classics",
+      "cult movie classics",
+      "cult cinema classics"
+    ],
+    "ccc.classic": [
+      "classic",
+      "classics"
+    ],
+    "ccc.horror": [
+      "horror"
+    ],
+    "ccc.movie": [
+      "movie",
+      "movies",
+      "film",
+      "films"
+    ],
+    "ccc.play": [
+      "play",
+      "start"
+    ],
+    "ccc.trailer": [
+      "trailer",
+      "movie trailer"
+    ],
+    "ccc.video": [
+      "video",
+      "videos"
+    ],
+    "chandra-xray.ExplainKeyword": [
+      "explain",
+      "summary",
+      "describe",
+      "tell me more"
+    ],
+    "chandra-xray.latest": [
+      "latest",
+      "last",
+      "most recent",
+      "new",
+      "newest"
+    ],
+    "classic-scifi-horror.horror": [
+      "horror"
+    ],
+    "classic-scifi-horror.movie": [
+      "movie",
+      "movies",
+      "film",
+      "films"
+    ],
+    "classic-scifi-horror.old": [
+      "old",
+      "old time",
+      "classic"
+    ],
+    "classic-scifi-horror.picfixer": [
+      "pic fixer",
+      "picfixer"
+    ],
+    "classic-scifi-horror.play": [
+      "play",
+      "start"
+    ],
+    "classic-scifi-horror.public_domain": [
+      "public domain"
+    ],
+    "classic-scifi-horror.scifi": [
+      "scifi",
+      "sci fi",
+      "sci-fi",
+      "science fiction"
+    ],
+    "classic-scifi-horror.video": [
+      "video",
+      "videos"
+    ],
+    "cocktail.Again": [
+      "again"
+    ],
+    "cocktail.Ingredients": [
+      "ingredient",
+      "ingredients"
+    ],
+    "cocktail.TellMe": [
+      "what are",
+      "tell me"
+    ],
+    "cocktail.What": [
+      "what was",
+      "what were"
+    ],
+    "configuration.ConfigurationSkillKeyword": [
+      "config",
+      "configuration",
+      "setting"
+    ],
+    "configuration.ConfigurationSkillUpdateVerb": [
+      "update",
+      "reload",
+      "sync",
+      "synchronize"
+    ],
+    "configuration.DeviceLocation": [
+      "location",
+      "city",
+      "state",
+      "country",
+      "place"
+    ],
+    "configuration.GetKeyword": [
+      "what",
+      "what is",
+      "give me",
+      "tell me"
+    ],
+    "configuration.ListenerKeyword": [
+      "listener",
+      "wake word listener",
+      "wake word engine",
+      "wake word",
+      "hot word engine"
+    ],
+    "configuration.ListenerType": [
+      "pocketsphinx",
+      "precise",
+      "snow boy",
+      "snowboy",
+      "default"
+    ],
+    "configuration.Name": [
+      "name"
+    ],
+    "configuration.PreciseKeyword": [
+      "precise",
+      "mycroft precise",
+      "precise model",
+      "model"
+    ],
+    "configuration.SetKeyword": [
+      "set",
+      "make",
+      "assign",
+      "change"
+    ],
+    "configuration.Using": [
+      "using"
+    ],
+    "configuration.What": [
+      "what",
+      "tell me",
+      "where"
+    ],
+    "configuration.WhereAreYou": [
+      "where am I",
+      "where are you",
+      "where you at"
+    ],
+    "confucius-quotes.birth": [
+      "born",
+      "birth",
+      "birthday"
+    ],
+    "confucius-quotes.confucius": [
+      "confucius"
+    ],
+    "confucius-quotes.death": [
+      "die",
+      "death"
+    ],
+    "confucius-quotes.live": [
+      "live",
+      "alive"
+    ],
+    "confucius-quotes.quote": [
+      "quote",
+      "say",
+      "saying"
+    ],
+    "confucius-quotes.when": [
+      "live",
+      "alive"
+    ],
+    "countries.question": [
+      "what",
+      "how many",
+      "tell me"
+    ],
+    "countries.that": [
+      "that"
+    ],
+    "countries.where": [
+      "where is that"
+    ],
+    "custom-conversation.neon.Neon": [
+      "neon",
+      "leon",
+      "nyan"
+    ],
+    "custom-conversation.neon.UpdateScripts": [
+      "update my conversations",
+      "update my scripts",
+      "update my conversation scripts",
+      "update my script files",
+      "update my skill files"
+    ],
+    "custom-conversation.neon.default": [
+      "set my startup script to"
+    ],
+    "custom-conversation.neon.email": [
+      "email me",
+      "send me"
+    ],
+    "custom-conversation.neon.script": [
+      "script",
+      "skill file",
+      "file"
+    ],
+    "custom-conversation.neon.tell": [
+      "tell me available script files",
+      "what scripts are available",
+      "tell me skill files that i have",
+      "what are skill files that i have",
+      "what skill files do i have",
+      "tell me my scripts",
+      "tell me your scripts",
+      "tell me my skill files",
+      "list my skill files",
+      "list my scripts"
+    ],
+    "cut-up-skill.CutUp": [
+      "Cut Up",
+      "Randomize"
+    ],
+    "cut-up-skill.Maximum": [
+      "Maximum"
+    ],
+    "cut-up-skill.Minimum": [
+      "Minimum"
+    ],
+    "cut-up-skill.Randomness": [
+      "Randomness"
+    ],
+    "cut-up-skill.Set": [
+      "Set",
+      "Config",
+      "Set Config"
+    ],
+    "dagon.audio_theatre": [
+      "radio theatre",
+      "audio theatre",
+      "radio drama",
+      "audio drama",
+      "illustrated reading"
+    ],
+    "dagon.comic": [
+      "comic",
+      "comics",
+      "motion comic",
+      "visual story",
+      "visual comic",
+      "motion comic",
+      "animated comic"
+    ],
+    "dagon.dagon": [
+      "dagon"
+    ],
+    "dagon.lovecraft": [
+      "lovecraft",
+      "h p lovecraft",
+      "h. p. lovecraft"
+    ],
+    "dagon.play": [
+      "play",
+      "start"
+    ],
+    "dagon.reading": [
+      "reading",
+      "readings",
+      "read",
+      "audiobook",
+      "audio book",
+      "book",
+      "story",
+      "short story",
+      "audio theatre",
+      "radio theatre",
+      "theatre"
+    ],
+    "dagon.video": [
+      "video",
+      "illustrated reading"
+    ],
+    "date-time.Date": [
+      "date",
+      "day"
+    ],
+    "date-time.Display": [
+      "display",
+      "show"
+    ],
+    "date-time.Query": [
+      "what",
+      "tell"
+    ],
+    "date-time.Time": [
+      "time"
+    ],
+    "days-in-history-skill.TellMeMoreKeyword": [
+      "more",
+      "another"
+    ],
+    "days-in-history-skill.TodayInHistoryKeyword": [
+      "today in history",
+      "historical events",
+      "events in history"
+    ],
+    "ddg.More": [
+      "tell me more",
+      "know more",
+      "continue"
+    ],
+    "decide-skill.DecideKeyword": [
+      "Decide",
+      "What should I wear",
+      "What should I eat",
+      "game"
+    ],
+    "deezer.deezer": [
+      "deezer",
+      "in deezer",
+      "deezer for",
+      "on deezer",
+      "at deezer"
+    ],
+    "deezer.music": [
+      "music",
+      "full album"
+    ],
+    "dismissal-skill.Nevermind": [
+      "nevermind",
+      "never mind",
+      "forget it",
+      "dismiss",
+      "dismissed",
+      "go away",
+      "nothing",
+      "ignore",
+      "abort"
+    ],
+    "documentaries.blacklist": [
+      "teaser",
+      "trailer",
+      "behind the scenes",
+      "official trailer"
+    ],
+    "documentaries.documentaries": [
+      "reddit documentaries",
+      "documentaries",
+      "documentary",
+      "reddit documentary"
+    ],
+    "documentaries.reddit": [
+      "reddit",
+      "red it",
+      "read it"
+    ],
+    "dust.dust": [
+      "dust",
+      "dust skill"
+    ],
+    "dust.horror": [
+      "horror"
+    ],
+    "dust.movie": [
+      "movie",
+      "movies",
+      "film",
+      "films"
+    ],
+    "dust.play": [
+      "play",
+      "start"
+    ],
+    "dust.scifi": [
+      "scifi",
+      "sci fi",
+      "sci-fi",
+      "science fiction"
+    ],
+    "dust.short": [
+      "short"
+    ],
+    "dust.trailer": [
+      "trailer"
+    ],
+    "dust.video": [
+      "video",
+      "videos"
+    ],
+    "epic-horror-theatre.atlanta": [
+      "atlanta",
+      "atlanta radio",
+      "atlanta radio theatre",
+      "atlanta theatre",
+      "atlanta audio theatre"
+    ],
+    "epic-horror-theatre.audio_theatre": [
+      "radio theatre",
+      "audio theatre",
+      "radio drama",
+      "audio drama"
+    ],
+    "epic-horror-theatre.color_out_of_space": [
+      "color out of space",
+      "color of space",
+      "colour out of space",
+      "colour of space"
+    ],
+    "epic-horror-theatre.epic_horror": [
+      "horror theatre",
+      "epic horror theatre"
+    ],
+    "epic-horror-theatre.horror": [
+      "horror"
+    ],
+    "epic-horror-theatre.innsmouth": [
+      "innsmouth",
+      "shadow over innsmouth",
+      "the shadow over innsmouth",
+      "the shadow of innsmouth",
+      "shadow of innsmouth"
+    ],
+    "epic-horror-theatre.lovecraft": [
+      "lovecraft",
+      "h p lovecraft",
+      "h. p. lovecraft"
+    ],
+    "epic-horror-theatre.mountains_of_madness": [
+      "mountains of madness",
+      "mountain madness",
+      "mountain of madness",
+      "at mountains of madness",
+      "at mountain madness",
+      "at mountain of madness",
+      "at the mountains of madness",
+      "at the mountain madness",
+      "at the mountain of madnes"
+    ],
+    "epic-horror-theatre.play": [
+      "play",
+      "start"
+    ],
+    "epic-horror-theatre.reading": [
+      "reading",
+      "readings",
+      "read",
+      "audiobook",
+      "audio book",
+      "book",
+      "story",
+      "short story",
+      "audio theatre",
+      "radio theatre",
+      "theatre"
+    ],
+    "euronews.de": [
+      "German"
+    ],
+    "euronews.en": [
+      "English"
+    ],
+    "euronews.es": [
+      "Spanish"
+    ],
+    "euronews.euro": [
+      "euro",
+      "european"
+    ],
+    "euronews.euronews": [
+      "euro news",
+      "euronews"
+    ],
+    "euronews.fr": [
+      "French"
+    ],
+    "euronews.it": [
+      "Italian"
+    ],
+    "euronews.news": [
+      "news"
+    ],
+    "euronews.pt": [
+      "Portuguese"
+    ],
+    "euronews.video": [
+      "video"
+    ],
+    "fallback-aiml.Memory": [
+      "brain",
+      "memory",
+      "mind",
+      "everything"
+    ],
+    "fallback-aiml.Reset": [
+      "forget",
+      "reset"
+    ],
+    "fallback-unknown.question": [
+      "what is",
+      "what will",
+      "what did",
+      "what does",
+      "what do",
+      "where is",
+      "where will",
+      "where did",
+      "where does",
+      "where do",
+      "when is",
+      "when will",
+      "when did",
+      "when does",
+      "when do"
+    ],
+    "fallback-unknown.who.is": [
+      "who is",
+      "who will",
+      "who did",
+      "who does",
+      "who do"
+    ],
+    "fallback-unknown.why.is": [
+      "why is",
+      "why will",
+      "why did",
+      "why does",
+      "why do"
+    ],
+    "fallback-wolfram-alpha.Give": [
+      "tell",
+      "give",
+      "what",
+      "email",
+      "send"
+    ],
+    "fallback-wolfram-alpha.Source": [
+      "source",
+      "sources",
+      "detail",
+      "details"
+    ],
+    "food-wizard.ReadRecipeKeyword": [
+      "read recipe"
+    ],
+    "food-wizard.RecipeKeyword": [
+      "search recipes ",
+      "search recipes containing",
+      "search recipes with",
+      "show recipe of",
+      "show recipes with"
+    ],
+    "food-wizard.RecipesSlideshowKeyword": [
+      "show recipes slideshow "
+    ],
+    "futurism-cartoons.another": [
+      "another",
+      "one more",
+      "another one",
+      "give me more"
+    ],
+    "futurism-cartoons.next": [
+      "next",
+      "after"
+    ],
+    "futurism-cartoons.picture": [
+      "picture",
+      "image",
+      "photo",
+      "imagery",
+      "comic",
+      "show",
+      "cartoon"
+    ],
+    "futurism-cartoons.previous": [
+      "previous",
+      "before",
+      "go back"
+    ],
+    "helioviewer.animate": [
+      "animate that",
+      "create animation",
+      "sun animation",
+      "video of that",
+      "video for that"
+    ],
+    "helioviewer.atmosphere": [
+      "atmosphere",
+      "heliosphere",
+      "photosphere"
+    ],
+    "helioviewer.eit": [
+      "EIT",
+      "Extreme ultraviolet Imaging Telescope",
+      "ultra violet",
+      "ultraviolet",
+      "ultra violet telescope"
+    ],
+    "helioviewer.high": [
+      "high",
+      "upper"
+    ],
+    "helioviewer.inner": [
+      "inner",
+      "small",
+      "smaller",
+      "c2",
+      "c 2",
+      "see to"
+    ],
+    "helioviewer.lasco": [
+      "LASCO",
+      "Large Angle Spectrometric Coronagraph",
+      "Coronagraph",
+      "solar corona",
+      "coronal image",
+      "solar Coronagraph",
+      "sun Coronagraph",
+      "sun corona"
+    ],
+    "helioviewer.low": [
+      "low",
+      "lower"
+    ],
+    "helioviewer.magnetic": [
+      "magnetic",
+      "magnetic field",
+      "magnetogram",
+      "magnetosphere"
+    ],
+    "helioviewer.mdi": [
+      "mdi",
+      "Michelson Doppler Imager"
+    ],
+    "helioviewer.next": [
+      "next",
+      "after"
+    ],
+    "helioviewer.outer": [
+      "large",
+      "larger",
+      "big",
+      "outer",
+      "c3",
+      "c 3"
+    ],
+    "helioviewer.picture": [
+      "picture",
+      "image",
+      "photo",
+      "imagery",
+      "day",
+      "show"
+    ],
+    "helioviewer.previous": [
+      "previous",
+      "before",
+      "go back"
+    ],
+    "helioviewer.sun": [
+      "sun",
+      "solar",
+      "heliosphere"
+    ],
+    "helioviewer.temperature": [
+      "temperature",
+      "degrees",
+      "kelvin"
+    ],
+    "helioviewer.visible": [
+      "visible",
+      "visible light",
+      "visible spectrum",
+      "Continuum",
+      "hmiigr"
+    ],
+    "hello-world.HelloWorldKeyword": [
+      "hello world",
+      "greetings"
+    ],
+    "hello-world.HowAreYouKeyword": [
+      "how are you",
+      "how have you been",
+      "how has your day been"
+    ],
+    "hello-world.ThankYouKeyword": [
+      "thank you",
+      "thanks"
+    ],
+    "homeassistant.AutomationActionKeyword": [
+      "activate",
+      "fire",
+      "call up",
+      "trigger",
+      "scene",
+      "automation",
+      "script"
+    ],
+    "homeassistant.ClimateKeyword": [
+      "set the {entity} temperature to {temperature}"
+    ],
+    "homeassistant.DecreaseVerb": [
+      "decrease",
+      "down"
+    ],
+    "homeassistant.DeviceTrackerKeyword": [
+      "where is",
+      "locate|location",
+      "where"
+    ],
+    "homeassistant.IncreaseVerb": [
+      "increase",
+      "up"
+    ],
+    "homeassistant.LightBrightenVerb": [
+      "brighten|brighter|bright|up"
+    ],
+    "homeassistant.LightDimVerb": [
+      "dim|dimmer|dark|darken|lower|down"
+    ],
+    "homeassistant.LightsKeyword": [
+      "light",
+      "lights",
+      "lamp",
+      "lamps",
+      "bulb",
+      "bulbs",
+      "l.e.d.",
+      "turn on",
+      "turn off",
+      "toggle"
+    ],
+    "homeassistant.SensorStatusKeyword": [
+      "state",
+      "status",
+      "sensor",
+      "detector",
+      "value",
+      "read out",
+      "what is the current",
+      "what is current",
+      "tell me the current",
+      "tell me current",
+      "give me the value of",
+      "what is the value of thermostat"
+    ],
+    "homeassistant.SetVerb": [
+      "set"
+    ],
+    "homeassistant.SwitchActionKeyword": [
+      "turn",
+      "switch"
+    ],
+    "horrorbabble.audiobook": [
+      "audiobook",
+      "audio book",
+      "reading",
+      "story reading",
+      "book reading"
+    ],
+    "horrorbabble.horror": [
+      "horror"
+    ],
+    "horrorbabble.horrorbabble": [
+      "horror babble",
+      "horrorbabble"
+    ],
+    "horrorbabble.horrorstory": [
+      "horror story",
+      "lovecraftian story",
+      "horror reading",
+      "lovecraftian reading",
+      "horror audiobook",
+      "lovecraftian audiobook",
+      "horror audio book",
+      "lovecraftian audio book",
+      "weird tales",
+      "weird tale"
+    ],
+    "horrorbabble.play": [
+      "play",
+      "start"
+    ],
+    "horrorbabble.video": [
+      "video",
+      "videos"
+    ],
+    "hppodcraft.episode": [
+      "episode",
+      "podcast"
+    ],
+    "hppodcraft.hppodcraft": [
+      "H P Podcraft",
+      "Lovecraft Literary Podcast",
+      "Lovecraft Podcast"
+    ],
+    "hppodcraft.lovecraft": [
+      "lovecraft",
+      "h p lovecraft",
+      "h. p. lovecraft"
+    ],
+    "hppodcraft.reading": [
+      "reading",
+      "readings",
+      "read",
+      "audiobook",
+      "audio book",
+      "book",
+      "story",
+      "short story"
+    ],
+    "hubble-telescope.ExplainKeyword": [
+      "explain",
+      "summary",
+      "describe",
+      "tell me more"
+    ],
+    "hubble-telescope.HubblePerson": [
+      "Hubble",
+      "Edwin Hubble",
+      "Edwin Powell Hubble"
+    ],
+    "hubble-telescope.HubbleTelescope": [
+      "hubble telescope",
+      "hubble space telescope",
+      "hubble"
+    ],
+    "hubble-telescope.how": [
+      "how",
+      "how does"
+    ],
+    "hubble-telescope.instruments": [
+      "instruments",
+      "experiments",
+      "science"
+    ],
+    "hubble-telescope.latest": [
+      "latest",
+      "last",
+      "most recent",
+      "new",
+      "newest",
+      "of the day"
+    ],
+    "hubble-telescope.where": [
+      "where",
+      "what is the position",
+      "what is the current position",
+      "what is the location",
+      "what is the current location"
+    ],
+    "hubble-telescope.why": [
+      "tell me more",
+      "why",
+      "explain",
+      "know more"
+    ],
+    "hubble-telescope.work": [
+      "work",
+      "function"
+    ],
+    "installer.Install": [
+      "install"
+    ],
+    "ip.IP": [
+      "IP address",
+      "IP",
+      "network address"
+    ],
+    "ip.query": [
+      "how",
+      "what",
+      "tell",
+      "show"
+    ],
+    "iss-location.how_many": [
+      "how many",
+      "number",
+      "total"
+    ],
+    "iss-location.iss": [
+      "ISS",
+      "I S S",
+      "space station",
+      "international space station"
+    ],
+    "iss-location.onboard": [
+      "on board",
+      "on the",
+      "aboard",
+      "staying"
+    ],
+    "iss-location.who": [
+      "who",
+      "person",
+      "persons",
+      "people"
+    ],
+    "joke.Adult": [
+      "adult",
+      "sexy",
+      "sex",
+      "dirty",
+      "raunchy",
+      "naughty"
+    ],
+    "joke.Chuck": [
+      "chuck",
+      "chuck norris"
+    ],
+    "joke.Joke": [
+      "joke",
+      "make me laugh",
+      "brighten my day",
+      "tell me joke"
+    ],
+    "joke.Neutral": [
+      "neutral",
+      "non-offensive",
+      "geeky"
+    ],
+    "kings-of-horror.horror": [
+      "horror"
+    ],
+    "kings-of-horror.indie": [
+      "indie"
+    ],
+    "kings-of-horror.kings-of-horror": [
+      "kings of horror"
+    ],
+    "kings-of-horror.movie": [
+      "movie",
+      "movies",
+      "film",
+      "films"
+    ],
+    "kings-of-horror.play": [
+      "play",
+      "start"
+    ],
+    "kings-of-horror.video": [
+      "video",
+      "videos"
+    ],
+    "krunner-search-skill.CalculateKeyword": [
+      "calculate "
+    ],
+    "krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword": [
+      "search this computer for",
+      "search this ",
+      "search computer for",
+      "search file",
+      "search filename",
+      "search the computer for",
+      "search system",
+      "system",
+      "system search",
+      "system search file",
+      "find file",
+      "search file"
+    ],
+    "krunner-search-skill.RecentFileKeyword": [
+      "display recent ",
+      "display recent files",
+      "display recent documents",
+      "recent documents",
+      "recent files"
+    ],
+    "laugh.Laugh": [
+      "laugh",
+      "laughing",
+      "laughs",
+      "laughter"
+    ],
+    "laugh.Stop": [
+      "abort",
+      "cancel",
+      "stop"
+    ],
+    "launcher.neon.BrowseKeyword": [
+      "go to",
+      "navigate to",
+      "browse to"
+    ],
+    "launcher.neon.LaunchKeyword": [
+      "launch",
+      "lunch",
+      "open"
+    ],
+    "launcher.neon.Neon": [
+      "neon",
+      "leon",
+      "nyan"
+    ],
+    "learning-skill.Learning": [
+      "learn",
+      "teach",
+      "show",
+      "teacher",
+      "keep"
+    ],
+    "learning-skill.Private": [
+      "private",
+      "personal",
+      "secret",
+      "confidential",
+      "save",
+      "to you"
+    ],
+    "learning-skill.Query": [
+      "can you",
+      "do you want",
+      "want",
+      "can",
+      "may i"
+    ],
+    "learning-skill.Something": [
+      "something",
+      "some",
+      "anything"
+    ],
+    "learning-skill.cancel": [
+      "abort",
+      "stop",
+      "exit",
+      "stop"
+    ],
+    "learning-skill.humor": [
+      "humor",
+      "joke",
+      "fun",
+      "funny"
+    ],
+    "learning-skill.love": [
+      "love",
+      "fervor",
+      "emotions"
+    ],
+    "learning-skill.science": [
+      "science",
+      "knowledge",
+      "know-how"
+    ],
+    "lifx-mycroft.Brightness": [
+      "brightness",
+      "luminosity"
+    ],
+    "lifx-mycroft.Decrease": [
+      "darken",
+      "dull",
+      "fade",
+      "dim",
+      "blacken",
+      "decrease",
+      "down"
+    ],
+    "lifx-mycroft.Increase": [
+      "brighten",
+      "lighten",
+      "illuminate",
+      "intensify",
+      "increase",
+      "up"
+    ],
+    "lifx-mycroft.Off": [
+      "off",
+      "disable"
+    ],
+    "lifx-mycroft.On": [
+      "on",
+      "enable"
+    ],
+    "lifx-mycroft.Saturation": [
+      "saturation",
+      "intensity"
+    ],
+    "lifx-mycroft.Temperature": [
+      "temp",
+      "warmth",
+      "colortemp",
+      "kelvin",
+      "color temperature"
+    ],
+    "lifx-mycroft.Turn": [
+      "turn",
+      "set",
+      "change",
+      "toggle",
+      "switch",
+      "make"
+    ],
+    "list-manager-skill.add": [
+      "add",
+      "create"
+    ],
+    "list-manager-skill.del": [
+      "remove"
+    ],
+    "list-manager-skill.list": [
+      "list",
+      "lists"
+    ],
+    "list-manager-skill.what": [
+      "which",
+      "what"
+    ],
+    "mbta-bus-tracking-skill.'No.Saved.Routes": [
+      "there are no saved routes"
+    ],
+    "mbta-bus-tracking-skill.Arrivals": [
+      "arrival",
+      "arrivals",
+      "times",
+      "arrival times",
+      "next bus",
+      "next busses"
+    ],
+    "mbta-bus-tracking-skill.List": [
+      "list",
+      "list my",
+      "list all"
+    ],
+    "mbta-bus-tracking-skill.Remove": [
+      "forget",
+      "remove",
+      "delete",
+      "nuke"
+    ],
+    "mbta-bus-tracking-skill.Route": [
+      "route",
+      "bus route",
+      "for route",
+      "for bus route"
+    ],
+    "mbta-bus-tracking-skill.Route.Name": [
+      "silverline 1",
+      "silverline 2",
+      "silverline to",
+      "silverline 3",
+      "silverline 4",
+      "silverline for",
+      "silverline 5",
+      "crosstown 1",
+      "crosstown 2",
+      "crosstown 3",
+      "SL1",
+      "SL2",
+      "SL3",
+      "SL4",
+      "SL5",
+      "CT1",
+      "CT2",
+      "CT3",
+      "1",
+      "4",
+      "5",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18",
+      "19",
+      "21",
+      "22",
+      "23",
+      "24",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "34E",
+      "35",
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "47",
+      "50",
+      "51",
+      "52",
+      "55",
+      "57",
+      "57A",
+      "57 A",
+      "59",
+      "60",
+      "62",
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "69",
+      "70",
+      "70A",
+      "70 A",
+      "71",
+      "72",
+      "73",
+      "74",
+      "75",
+      "76",
+      "77",
+      "78",
+      "79",
+      "80",
+      "83",
+      "84",
+      "85",
+      "86",
+      "87",
+      "88",
+      "89",
+      "90",
+      "91",
+      "92",
+      "93",
+      "94",
+      "95",
+      "96",
+      "97",
+      "99",
+      "100",
+      "101",
+      "104",
+      "105",
+      "106",
+      "108",
+      "109",
+      "110",
+      "111",
+      "112",
+      "114",
+      "116",
+      "117",
+      "119",
+      "120",
+      "121",
+      "131",
+      "132",
+      "134",
+      "136",
+      "137",
+      "170",
+      "171",
+      "195",
+      "201",
+      "202",
+      "210",
+      "211",
+      "212",
+      "214",
+      "215",
+      "216",
+      "217",
+      "220",
+      "221",
+      "222",
+      "225",
+      "230",
+      "236",
+      "238",
+      "240",
+      "245",
+      "325",
+      "326",
+      "350",
+      "351",
+      "352",
+      "354",
+      "411",
+      "424",
+      "426",
+      "428",
+      "429",
+      "430",
+      "434",
+      "435",
+      "436",
+      "439",
+      "441",
+      "442",
+      "448",
+      "449",
+      "450",
+      "451",
+      "455",
+      "456",
+      "459",
+      "465",
+      "501",
+      "502",
+      "503",
+      "504",
+      "505",
+      "553",
+      "554",
+      "556",
+      "558",
+      "710",
+      "712",
+      "713",
+      "714",
+      "716"
+    ],
+    "mbta-bus-tracking-skill.Routes": [
+      "routes"
+    ],
+    "mbta-bus-tracking-skill.Save": [
+      "save"
+    ],
+    "mbta-bus-tracking-skill.Shortcut": [
+      "shortcut",
+      "shotcut  "
+    ],
+    "mbta-bus-tracking-skill.Shortcuts": [
+      "shortcuts"
+    ],
+    "mbta-bus-tracking-skill.Shutdown": [
+      "shutdown",
+      "shut down"
+    ],
+    "mbta-bus-tracking-skill.T.Bus": [
+      "t bus",
+      "transit"
+    ],
+    "mbta-bus-tracking-skill.Tracking": [
+      "track",
+      "tracking",
+      "start tracking"
+    ],
+    "messaging.neon.Neon": [
+      "neon",
+      "leon",
+      "nyan"
+    ],
+    "messaging.neon.draft": [
+      "send",
+      "draft",
+      "start",
+      "create"
+    ],
+    "messaging.neon.email": [
+      "email"
+    ],
+    "messaging.neon.klat": [
+      "klat"
+    ],
+    "messaging.neon.message": [
+      "message",
+      "shout"
+    ],
+    "messaging.neon.no": [
+      "no",
+      "cancel",
+      "discard",
+      "nope",
+      "stop",
+      "dont",
+      "do not"
+    ],
+    "messaging.neon.sms": [
+      "text",
+      "sms"
+    ],
+    "messaging.neon.yes": [
+      "yes",
+      "confirm",
+      "affirmative",
+      "send",
+      "okay",
+      "go",
+      "sure",
+      "ok"
+    ],
+    "mycroft-node-red.WhyKeyword": [
+      "why"
+    ],
+    "mycroft-timer.All": [
+      "all",
+      "running"
+    ],
+    "mycroft-timer.Cancel": [
+      "cancel",
+      "turn off",
+      "kill",
+      "delete",
+      "stop"
+    ],
+    "mycroft-timer.Mute": [
+      "mute",
+      "silence",
+      "quiet"
+    ],
+    "mycroft-timer.Timer": [
+      "timer",
+      "timers"
+    ],
+    "myepisodes-skill.check": [
+      "check",
+      "any new",
+      "anything new"
+    ],
+    "myepisodes-skill.episodes": [
+      "episodes",
+      "tv shows",
+      "shows"
+    ],
+    "naptime.SleepCommand": [
+      "go to sleep",
+      "nap time",
+      "sleepy time tea",
+      "sleepytime tea"
+    ],
+    "natgeo-pod.ExplainKeyword": [
+      "explain",
+      "summary",
+      "describe",
+      "tell me more"
+    ],
+    "national-parks-skill.Describe": [
+      "describe",
+      "tell me about"
+    ],
+    "national-parks-skill.In": [
+      "in",
+      "in the state of",
+      "located in"
+    ],
+    "national-parks-skill.List": [
+      "list"
+    ],
+    "national-parks-skill.Location": [
+      "alabama",
+      "alaska",
+      "arizona",
+      "arkansas",
+      "california",
+      "colorado",
+      "connecticut",
+      "delaware",
+      "district of columbia",
+      "washington dc",
+      "dc",
+      "florida",
+      "georgia",
+      "hawaii",
+      "idaho",
+      "illinois",
+      "indiana",
+      "iowa",
+      "kansas",
+      "kentucky",
+      "louisiana",
+      "maine",
+      "maryland",
+      "massachusetts",
+      "michigan",
+      "minnesota",
+      "mississippi",
+      "missouri",
+      "montana",
+      "nebraska",
+      "nevada",
+      "new hampshire",
+      "new jersey",
+      "new mexico",
+      "new york",
+      "north carolina",
+      "north dakota",
+      "ohio",
+      "oklahoma",
+      "oregon",
+      "pennsylvania",
+      "rhode island",
+      "south carolina",
+      "south dakota",
+      "tennessee",
+      "texas",
+      "utah",
+      "vermont",
+      "virginia",
+      "washington",
+      "west virginia",
+      "wisconsin",
+      "wyoming"
+    ],
+    "national-parks-skill.National.Park": [
+      "national park "
+    ],
+    "national-parks-skill.National.Parks": [
+      "national parks "
+    ],
+    "national-parks-skill.Quiz.Repeat": [
+      "repeat national parks quiz "
+    ],
+    "national-parks-skill.Quiz.me": [
+      "quiz me on national parks"
+    ],
+    "national-parks-skill.Whereis": [
+      "where is"
+    ],
+    "news.ca": [
+      "Catalan",
+      "Catalonia"
+    ],
+    "news.de": [
+      "German"
+    ],
+    "news.en": [
+      "English"
+    ],
+    "news.en-au": [
+      "australia",
+      "australian"
+    ],
+    "news.en-ca": [
+      "canada",
+      "canadian"
+    ],
+    "news.en-gb": [
+      "british",
+      "united kingdom",
+      "UK"
+    ],
+    "news.en-us": [
+      "america",
+      "american",
+      "united states"
+    ],
+    "news.es": [
+      "Spanish"
+    ],
+    "news.euro": [
+      "euro",
+      "european"
+    ],
+    "news.euronews": [
+      "euronews"
+    ],
+    "news.fi": [
+      "finland",
+      "finnish"
+    ],
+    "news.fr": [
+      "French",
+      "france"
+    ],
+    "news.fr24": [
+      "France24",
+      "France 24",
+      "France twenty four",
+      "France twenty fourth"
+    ],
+    "news.it": [
+      "Italian",
+      "Italy"
+    ],
+    "news.news": [
+      "news"
+    ],
+    "news.nl": [
+      "dutch",
+      "Nederlands",
+      "Netherlands"
+    ],
+    "news.pt-pt": [
+      "Portuguese",
+      "Portugal"
+    ],
+    "news.rt": [
+      "Russia Today"
+    ],
+    "news.ru": [
+      "russian",
+      "russia"
+    ],
+    "news.sv": [
+      "sweden",
+      "swedish"
+    ],
+    "news.video": [
+      "video"
+    ],
+    "npr-news.News": [
+      "news"
+    ],
+    "npr-news.Play": [
+      "play",
+      "what is",
+      "start",
+      "latest"
+    ],
+    "old-world-radio.old_world": [
+      "old world",
+      "fallout",
+      "old world radio"
+    ],
+    "old-world-radio.radio": [
+      "radio",
+      "station",
+      "radio station"
+    ],
+    "old-world-radio.storyteller": [
+      "story teller",
+      "storyteller",
+      "tunes and tales",
+      "tales and tunes"
+    ],
+    "old-world-radio.vintage": [
+      "vintage"
+    ],
+    "omeleto.horror": [
+      "horror"
+    ],
+    "omeleto.movie": [
+      "movie",
+      "movies",
+      "film",
+      "films"
+    ],
+    "omeleto.omeleto": [
+      "omeleto",
+      "omeleto skill"
+    ],
+    "omeleto.play": [
+      "play",
+      "start"
+    ],
+    "omeleto.scifi": [
+      "scifi",
+      "sci fi",
+      "sci-fi",
+      "science fiction"
+    ],
+    "omeleto.short": [
+      "short"
+    ],
+    "omeleto.trailer": [
+      "trailer"
+    ],
+    "omeleto.video": [
+      "video",
+      "videos"
+    ],
+    "pairing.DeviceKeyword": [
+      "unit",
+      "device",
+      "mycroft",
+      "mark one",
+      "mark two"
+    ],
+    "pairing.PairingKeyword": [
+      "pair",
+      "pairing",
+      "register"
+    ],
+    "pandora.Change": [
+      "change",
+      "switch",
+      "play"
+    ],
+    "pandora.Debug": [
+      "debug",
+      "debugging"
+    ],
+    "pandora.Next": [
+      "skip",
+      "next"
+    ],
+    "pandora.Off": [
+      "off"
+    ],
+    "pandora.On": [
+      "on"
+    ],
+    "pandora.Pandora": [
+      "pandora",
+      "pandora's",
+      "pianobar",
+      "piano bar"
+    ],
+    "pandora.Pause": [
+      "pause"
+    ],
+    "pandora.Play": [
+      "start",
+      "play"
+    ],
+    "pandora.Query": [
+      "list",
+      "what"
+    ],
+    "pandora.Resume": [
+      "resume"
+    ],
+    "pandora.Song": [
+      "song",
+      "track",
+      "tune"
+    ],
+    "pandora.Station": [
+      "stations",
+      "station",
+      "channel",
+      "channels",
+      "radio"
+    ],
+    "parrot.ParrotKeyword": [
+      "parrot",
+      "parroting",
+      "repeating what i say",
+      "repeating everything",
+      "repeating me"
+    ],
+    "parrot.StopKeyword": [
+      "stop",
+      "disengage",
+      "off",
+      "abort",
+      "offline",
+      "cancel",
+      "disable"
+    ],
+    "personal.WhatAreYouKeyword": [
+      "what are you"
+    ],
+    "personal.WhenWereYouBornKeyword": [
+      "when were you born",
+      "when were you created"
+    ],
+    "personal.WhereWereYouBornKeyword": [
+      "where were you born",
+      "where were you created"
+    ],
+    "personal.WhoAreYouKeyword": [
+      "who are you"
+    ],
+    "personal.WhoMadeYouKeyword": [
+      "who made you",
+      "who were you made by",
+      "who created you",
+      "who built you"
+    ],
+    "pick-number.AndKeyword": [
+      "and",
+      "to",
+      "too",
+      "two"
+    ],
+    "pick-number.BetweenKeyword": [
+      "between",
+      "from"
+    ],
+    "pick-number.NumberKeyword": [
+      "number",
+      "value"
+    ],
+    "pick-number.PickKeyword": [
+      "pick",
+      "choose",
+      "select"
+    ],
+    "pickup-lines.about": [
+      "about"
+    ],
+    "pickup-lines.accountant": [
+      "accountant"
+    ],
+    "pickup-lines.airport": [
+      "airport"
+    ],
+    "pickup-lines.alien": [
+      "alien",
+      "aliens",
+      "extraterrestrial",
+      "extraterrestrials",
+      "ET"
+    ],
+    "pickup-lines.animal": [
+      "animal"
+    ],
+    "pickup-lines.anime": [
+      "anime"
+    ],
+    "pickup-lines.artist": [
+      "artist"
+    ],
+    "pickup-lines.astronomy": [
+      "astronomy"
+    ],
+    "pickup-lines.atheist": [
+      "atheist"
+    ],
+    "pickup-lines.australian": [
+      "australian"
+    ],
+    "pickup-lines.avengers": [
+      "avengers"
+    ],
+    "pickup-lines.backtoschool": [
+      "back to school",
+      "school"
+    ],
+    "pickup-lines.bad": [
+      "bad"
+    ],
+    "pickup-lines.baseball": [
+      "baseball"
+    ],
+    "pickup-lines.basketball": [
+      "basketball"
+    ],
+    "pickup-lines.beach": [
+      "beach"
+    ],
+    "pickup-lines.bigbangtheory": [
+      "big bang theory"
+    ],
+    "pickup-lines.biker": [
+      "biker"
+    ],
+    "pickup-lines.biochem": [
+      "biochem",
+      "bio chemistry",
+      "biochemistry"
+    ],
+    "pickup-lines.blackfriday": [
+      "black friday"
+    ],
+    "pickup-lines.bollywood": [
+      "bollywood"
+    ],
+    "pickup-lines.bookworm": [
+      "book worm"
+    ],
+    "pickup-lines.bowling": [
+      "bowling"
+    ],
+    "pickup-lines.brandname": [
+      "brand name"
+    ],
+    "pickup-lines.breakingbad": [
+      "breaking bad"
+    ],
+    "pickup-lines.breakup": [
+      "breakup",
+      "break up"
+    ],
+    "pickup-lines.buddhist": [
+      "buddhist"
+    ],
+    "pickup-lines.business": [
+      "business"
+    ],
+    "pickup-lines.callofduty": [
+      "call of duty"
+    ],
+    "pickup-lines.canadian": [
+      "canadian"
+    ],
+    "pickup-lines.car": [
+      "car"
+    ],
+    "pickup-lines.casino": [
+      "casino"
+    ],
+    "pickup-lines.catholic": [
+      "catholic"
+    ],
+    "pickup-lines.celebrity": [
+      "celebrity"
+    ],
+    "pickup-lines.cheerleader": [
+      "cheerleader"
+    ],
+    "pickup-lines.cheesy": [
+      "cheesy"
+    ],
+    "pickup-lines.chocolate": [
+      "chocolate"
+    ],
+    "pickup-lines.christian": [
+      "christian"
+    ],
+    "pickup-lines.christmas": [
+      "christmas"
+    ],
+    "pickup-lines.coffee": [
+      "coffee"
+    ],
+    "pickup-lines.computer": [
+      "computer"
+    ],
+    "pickup-lines.cowboy": [
+      "cowboy"
+    ],
+    "pickup-lines.croatian": [
+      "croatian"
+    ],
+    "pickup-lines.crude": [
+      "crude"
+    ],
+    "pickup-lines.czech": [
+      "czech"
+    ],
+    "pickup-lines.denmark": [
+      "denmark"
+    ],
+    "pickup-lines.dentist": [
+      "dentist"
+    ],
+    "pickup-lines.desi": [
+      "desi"
+    ],
+    "pickup-lines.disney": [
+      "disney"
+    ],
+    "pickup-lines.doctor": [
+      "doctor"
+    ],
+    "pickup-lines.doctorwho": [
+      "doctor who"
+    ],
+    "pickup-lines.dog": [
+      "dog"
+    ],
+    "pickup-lines.drake": [
+      "drake"
+    ],
+    "pickup-lines.dutch": [
+      "dutch"
+    ],
+    "pickup-lines.easter": [
+      "easter"
+    ],
+    "pickup-lines.economics": [
+      "economics"
+    ],
+    "pickup-lines.engineering": [
+      "engineering",
+      "engineer"
+    ],
+    "pickup-lines.ethnicity": [
+      "ethnicity"
+    ],
+    "pickup-lines.fencing": [
+      "fencing"
+    ],
+    "pickup-lines.filipino": [
+      "filipino"
+    ],
+    "pickup-lines.finnish": [
+      "finnish"
+    ],
+    "pickup-lines.firefighter": [
+      "firefighter",
+      "fire fighter"
+    ],
+    "pickup-lines.food": [
+      "food"
+    ],
+    "pickup-lines.football": [
+      "football"
+    ],
+    "pickup-lines.fortnite": [
+      "fortnite"
+    ],
+    "pickup-lines.french": [
+      "french"
+    ],
+    "pickup-lines.gameofthrones": [
+      "game of thrones"
+    ],
+    "pickup-lines.gaylesbian": [
+      "gay",
+      "lesbian",
+      "lgbt",
+      "homosexual"
+    ],
+    "pickup-lines.germany": [
+      "germany"
+    ],
+    "pickup-lines.ghetto": [
+      "ghetto"
+    ],
+    "pickup-lines.golf": [
+      "golf"
+    ],
+    "pickup-lines.gothic": [
+      "gothic"
+    ],
+    "pickup-lines.gym": [
+      "gym"
+    ],
+    "pickup-lines.halloween": [
+      "halloween"
+    ],
+    "pickup-lines.halo": [
+      "halo"
+    ],
+    "pickup-lines.harrypotter": [
+      "harry potter"
+    ],
+    "pickup-lines.himym": [
+      "himym"
+    ],
+    "pickup-lines.hindu": [
+      "hindu"
+    ],
+    "pickup-lines.historical": [
+      "historical"
+    ],
+    "pickup-lines.hockey": [
+      "hockey"
+    ],
+    "pickup-lines.hungergames": [
+      "hunger games"
+    ],
+    "pickup-lines.icecream": [
+      "icecream"
+    ],
+    "pickup-lines.iceland": [
+      "iceland"
+    ],
+    "pickup-lines.independence": [
+      "independence"
+    ],
+    "pickup-lines.indonesian": [
+      "indonesian"
+    ],
+    "pickup-lines.islamic": [
+      "islamic"
+    ],
+    "pickup-lines.italian": [
+      "italian"
+    ],
+    "pickup-lines.jamaican": [
+      "jamaican"
+    ],
+    "pickup-lines.jewish": [
+      "jewish"
+    ],
+    "pickup-lines.justinbieber": [
+      "justin bieber"
+    ],
+    "pickup-lines.lacrosse": [
+      "lacrosse"
+    ],
+    "pickup-lines.law": [
+      "law"
+    ],
+    "pickup-lines.leaguelegends": [
+      "league legends",
+      "league of legends"
+    ],
+    "pickup-lines.lotr": [
+      "lotr",
+      "lord of the rings",
+      "lord of rings"
+    ],
+    "pickup-lines.madmen": [
+      "madmen"
+    ],
+    "pickup-lines.magic": [
+      "magic"
+    ],
+    "pickup-lines.marijuana": [
+      "marijuana"
+    ],
+    "pickup-lines.mario": [
+      "mario"
+    ],
+    "pickup-lines.math": [
+      "math"
+    ],
+    "pickup-lines.mean": [
+      "mean"
+    ],
+    "pickup-lines.medieval": [
+      "medieval"
+    ],
+    "pickup-lines.memes": [
+      "memes"
+    ],
+    "pickup-lines.mexican": [
+      "mexican"
+    ],
+    "pickup-lines.military": [
+      "military"
+    ],
+    "pickup-lines.minecraft": [
+      "minecraft"
+    ],
+    "pickup-lines.modelun": [
+      "modelun"
+    ],
+    "pickup-lines.mormon": [
+      "mormon"
+    ],
+    "pickup-lines.movie": [
+      "movie"
+    ],
+    "pickup-lines.musicfestival": [
+      "music festival",
+      "music",
+      "festival"
+    ],
+    "pickup-lines.musician": [
+      "musician"
+    ],
+    "pickup-lines.norway": [
+      "norway"
+    ],
+    "pickup-lines.nye": [
+      "nye"
+    ],
+    "pickup-lines.olympics": [
+      "olympics"
+    ],
+    "pickup-lines.physics": [
+      "physics"
+    ],
+    "pickup-lines.pickup_line": [
+      "pickup line",
+      "pick up line"
+    ],
+    "pickup-lines.pirate": [
+      "pirate"
+    ],
+    "pickup-lines.pizza": [
+      "pizza"
+    ],
+    "pickup-lines.pokemon": [
+      "pokemon"
+    ],
+    "pickup-lines.police": [
+      "police"
+    ],
+    "pickup-lines.polish": [
+      "polish"
+    ],
+    "pickup-lines.political": [
+      "political"
+    ],
+    "pickup-lines.portuguese": [
+      "portuguese",
+      "portugal"
+    ],
+    "pickup-lines.psychology": [
+      "psychology"
+    ],
+    "pickup-lines.random": [
+      "random"
+    ],
+    "pickup-lines.realestate": [
+      "real estate"
+    ],
+    "pickup-lines.redneck": [
+      "redneck",
+      "red neck"
+    ],
+    "pickup-lines.rejections": [
+      "rejections"
+    ],
+    "pickup-lines.robot": [
+      "robot"
+    ],
+    "pickup-lines.satprep": [
+      "satprep"
+    ],
+    "pickup-lines.scientology": [
+      "scientology"
+    ],
+    "pickup-lines.scifi": [
+      "scifi",
+      "sci fi",
+      "science fiction",
+      "science"
+    ],
+    "pickup-lines.senior": [
+      "senior"
+    ],
+    "pickup-lines.shakespeare": [
+      "shakespeare"
+    ],
+    "pickup-lines.soccer": [
+      "soccer"
+    ],
+    "pickup-lines.spanish": [
+      "spanish",
+      "spain"
+    ],
+    "pickup-lines.stockmarket": [
+      "stockmarket",
+      "stock market"
+    ],
+    "pickup-lines.stpattys": [
+      "stpattys"
+    ],
+    "pickup-lines.superman": [
+      "superman"
+    ],
+    "pickup-lines.sweden": [
+      "sweden"
+    ],
+    "pickup-lines.tall": [
+      "tall"
+    ],
+    "pickup-lines.tennis": [
+      "tennis"
+    ],
+    "pickup-lines.thanksgiving": [
+      "thanksgiving"
+    ],
+    "pickup-lines.tinder": [
+      "tinder"
+    ],
+    "pickup-lines.travel": [
+      "travel"
+    ],
+    "pickup-lines.treehugger": [
+      "tree hugger"
+    ],
+    "pickup-lines.trump": [
+      "trump"
+    ],
+    "pickup-lines.twilight": [
+      "twilight"
+    ],
+    "pickup-lines.twitter": [
+      "twitter"
+    ],
+    "pickup-lines.valentinesday": [
+      "valentines day",
+      "valentine day"
+    ],
+    "pickup-lines.vegan": [
+      "vegan"
+    ],
+    "pickup-lines.videogame": [
+      "videogame",
+      "video game",
+      "games"
+    ],
+    "pickup-lines.volleyball": [
+      "volleyball",
+      "volley ball"
+    ],
+    "pickup-lines.waitress": [
+      "waitress"
+    ],
+    "pickup-lines.walkingdead": [
+      "walking dead"
+    ],
+    "pickup-lines.warcraft": [
+      "warcraft"
+    ],
+    "pickup-lines.wedding": [
+      "wedding"
+    ],
+    "pickup-lines.women": [
+      "women",
+      "female",
+      "girl"
+    ],
+    "pickup-lines.yoga": [
+      "yoga"
+    ],
+    "pickup-lines.zelda": [
+      "zelda"
+    ],
+    "plasma-activities-skill.ActivitiesCreateKeyword": [
+      "create a new activity",
+      "create new activity",
+      "create activity",
+      "start a new activity",
+      "create new activities",
+      "start new activities",
+      "create activities",
+      "new activity",
+      "new activities"
+    ],
+    "plasma-activities-skill.ActivitiesRemoveKeyword": [
+      "remove activity",
+      "remove the activity",
+      "delete activity",
+      "delete the activity"
+    ],
+    "plasma-activities-skill.ActivitiesShowKeyword": [
+      "show current activities",
+      "show activities",
+      "activities",
+      "display current activities",
+      "display activities"
+    ],
+    "plasma-activities-skill.ActivitiesStopKeyword": [
+      "kill current activity",
+      "kill activity"
+    ],
+    "plasma-activities-skill.ActivitiesSwitchKeyword": [
+      "switch current activity",
+      "switch to activity",
+      "switch activity"
+    ],
+    "playback-control.Next": [
+      "next",
+      "skip"
+    ],
+    "playback-control.Pause": [
+      "pause"
+    ],
+    "playback-control.PlayResume": [
+      "play resume",
+      "resume play"
+    ],
+    "playback-control.Prev": [
+      "previous",
+      "go back",
+      "go back one"
+    ],
+    "playback-control.Resume": [
+      "resume",
+      "unpause"
+    ],
+    "playback-control.Track": [
+      "track",
+      "song"
+    ],
+    "pokemon-skill.Ability": [
+      "ability",
+      "abilities"
+    ],
+    "pokemon-skill.AbilityEffectEntry": [
+      "detailed info",
+      "detailed information"
+    ],
+    "pokemon-skill.AbilityEffectEntryShort": [
+      "some info",
+      "some information",
+      "info",
+      "information"
+    ],
+    "pokemon-skill.AbilityFlavorText": [
+      "flavor text",
+      "pokedex say",
+      "pokedex"
+    ],
+    "pokemon-skill.Against": [
+      "against"
+    ],
+    "pokemon-skill.Attack": [
+      "attack"
+    ],
+    "pokemon-skill.Base": [
+      "base",
+      "base stat",
+      "base stats"
+    ],
+    "pokemon-skill.CaptureRate": [
+      "capture",
+      "capture rate",
+      "rate of capture",
+      "catch",
+      "catch rate"
+    ],
+    "pokemon-skill.Color": [
+      "color"
+    ],
+    "pokemon-skill.Defense": [
+      "defense"
+    ],
+    "pokemon-skill.Effective": [
+      "effective",
+      "effectiveness",
+      "good",
+      "bad",
+      "damage"
+    ],
+    "pokemon-skill.Egg": [
+      "egg",
+      "egg group",
+      "eggs",
+      "egg groups",
+      "hatch from",
+      "hatch",
+      "hatches"
+    ],
+    "pokemon-skill.EnglishLength": [
+      "feet",
+      "inches"
+    ],
+    "pokemon-skill.EnglishWeight": [
+      "pounds"
+    ],
+    "pokemon-skill.Evolve": [
+      "evolve",
+      "evolution",
+      "evolves",
+      "comes",
+      "turn"
+    ],
+    "pokemon-skill.Experience": [
+      "experience",
+      "e x p",
+      "exp",
+      "ex points",
+      "experience points",
+      "experienced"
+    ],
+    "pokemon-skill.Final": [
+      "final",
+      "last"
+    ],
+    "pokemon-skill.First": [
+      "first",
+      "base",
+      "simple",
+      "simplest"
+    ],
+    "pokemon-skill.Form": [
+      "form"
+    ],
+    "pokemon-skill.From": [
+      "from",
+      "before",
+      "previous"
+    ],
+    "pokemon-skill.Game": [
+      "game",
+      "pokemon version",
+      "generation",
+      "gen"
+    ],
+    "pokemon-skill.HP": [
+      "hp",
+      "h p",
+      "health"
+    ],
+    "pokemon-skill.Habitat": [
+      "habitat",
+      "lives",
+      "live",
+      "home"
+    ],
+    "pokemon-skill.Happiness": [
+      "happiness",
+      "happy",
+      "feel",
+      "feeling",
+      "friendship",
+      "friendly"
+    ],
+    "pokemon-skill.Height": [
+      "height",
+      "tall",
+      "big"
+    ],
+    "pokemon-skill.ID": [
+      "id",
+      "number",
+      "i d",
+      "pokedex"
+    ],
+    "pokemon-skill.Into": [
+      "into",
+      "to",
+      "next",
+      "after",
+      "when",
+      "will",
+      "how"
+    ],
+    "pokemon-skill.Introduced": [
+      "introduced",
+      "first seen"
+    ],
+    "pokemon-skill.Learn": [
+      "learn"
+    ],
+    "pokemon-skill.MetricLength": [
+      "meters",
+      "c m",
+      "cm"
+    ],
+    "pokemon-skill.MetricWeight": [
+      "kilograms",
+      "kilo-grams",
+      "grams",
+      "kg",
+      "k g"
+    ],
+    "pokemon-skill.Move": [
+      "move"
+    ],
+    "pokemon-skill.Nature": [
+      "nature",
+      "like"
+    ],
+    "pokemon-skill.Pokemon": [
+      "Pokemon"
+    ],
+    "pokemon-skill.Shape": [
+      "shape",
+      "shaped"
+    ],
+    "pokemon-skill.Special": [
+      "special"
+    ],
+    "pokemon-skill.Speed": [
+      "speed",
+      "fast"
+    ],
+    "pokemon-skill.Type": [
+      "type",
+      "types"
+    ],
+    "pokemon-skill.Weight": [
+      "weight",
+      "weigh",
+      "heavy",
+      "weighs",
+      "mass",
+      "fat"
+    ],
+    "query.Question": [
+      "what",
+      "who",
+      "when",
+      "how",
+      "where"
+    ],
+    "quote-of-day.art": [
+      "art",
+      "artistic"
+    ],
+    "quote-of-day.funny": [
+      "fun",
+      "funny"
+    ],
+    "quote-of-day.inspire": [
+      "inspire",
+      "inspirational"
+    ],
+    "quote-of-day.life": [
+      "life"
+    ],
+    "quote-of-day.love": [
+      "love"
+    ],
+    "quote-of-day.management": [
+      "management"
+    ],
+    "quote-of-day.quote_of_day": [
+      "quote of the day",
+      "quote of today",
+      "today's quote",
+      "today quote"
+    ],
+    "quote-of-day.said_that": [
+      "said that",
+      "quote from",
+      "said that",
+      "said quote",
+      "says that",
+      "said so",
+      "said that quote",
+      "said the quote"
+    ],
+    "quote-of-day.sports": [
+      "sports",
+      "sport"
+    ],
+    "quote-of-day.students": [
+      "student",
+      "students",
+      "academic",
+      "school"
+    ],
+    "quote-of-day.who": [
+      "who",
+      "what person"
+    ],
+    "release-test.ReleaseKeyword": [
+      "invoking test",
+      "invoke test",
+      "invoke release test",
+      "release test",
+      "released test"
+    ],
+    "remember-skill.All": [
+      "All"
+    ],
+    "remember-skill.Did": [
+      "did"
+    ],
+    "remember-skill.Forget": [
+      "forget"
+    ],
+    "remember-skill.Phrase": [
+      "phrase",
+      "phrases"
+    ],
+    "remember-skill.Remember": [
+      "remember"
+    ],
+    "remember-skill.You": [
+      "you"
+    ],
+    "reminder.ReminderSkillAmount": [
+      "all|all my",
+      "1",
+      "2",
+      "next",
+      "following"
+    ],
+    "reminder.ReminderSkillCreateVerb": [
+      "remind",
+      "notify",
+      "notify me",
+      "remind me",
+      "reminder",
+      "set reminder"
+    ],
+    "reminder.ReminderSkillDeleteVerb": [
+      "erase",
+      "cancel",
+      "delete",
+      "remove"
+    ],
+    "reminder.ReminderSkillKeyword": [
+      "reminder",
+      "reminders",
+      "notification",
+      "notifications"
+    ],
+    "reminder.ReminderSkillListVerb": [
+      "show",
+      "list"
+    ],
+    "reminder.ReminderSkillStopVerb": [
+      "off",
+      "end",
+      "stop"
+    ],
+    "rocket-launch.ExactLaunchKeyword": [
+      "exact time"
+    ],
+    "rocket-launch.MoreKeyword": [
+      "tell me more",
+      "tell me about it",
+      "know more",
+      "elaborate",
+      "what is the mission",
+      "what is mission",
+      "what mission",
+      "mission description",
+      "describe mission",
+      "about mission"
+    ],
+    "rocket-launch.SpaceLaunchKeyword": [
+      "(space|rocket) launch",
+      "(space|rocket) launch",
+      "space flight"
+    ],
+    "rocket-launch.next": [
+      "next",
+      "after"
+    ],
+    "rocket-launch.picture": [
+      "picture",
+      "image",
+      "photo",
+      "imagery",
+      "day"
+    ],
+    "rocket-launch.previous": [
+      "previous",
+      "before"
+    ],
+    "simple-youtube.official": [
+      "official"
+    ],
+    "simple-youtube.youtube": [
+      "youtube",
+      "you tube"
+    ],
+    "singing.Sing": [
+      "sing",
+      "sing me a song"
+    ],
+    "sip.neon.accept": [
+      "Accept",
+      "Answer",
+      "Accept Call",
+      "Answer Call"
+    ],
+    "sip.neon.and_say": [
+      "and say"
+    ],
+    "sip.neon.call": [
+      "Call"
+    ],
+    "sip.neon.end_call": [
+      "hang up",
+      "end call",
+      "stop",
+      "exit"
+    ],
+    "sip.neon.hold_call": [
+      "Hold call",
+      "put call on hold",
+      "place call on hold",
+      "hold"
+    ],
+    "sip.neon.mute": [
+      "mute",
+      "mute call"
+    ],
+    "sip.neon.reject": [
+      "reject",
+      "hang up",
+      "reject call",
+      "hang up call",
+      "hang call",
+      "hang"
+    ],
+    "smod.doom": [
+      "doom"
+    ],
+    "smod.metal": [
+      "metal"
+    ],
+    "smod.music": [
+      "music",
+      "song",
+      "songs",
+      "album",
+      "full album"
+    ],
+    "smod.play": [
+      "play",
+      "start"
+    ],
+    "smod.smod": [
+      "stoned meadow of doom",
+      "stoned meadow doom",
+      "smod"
+    ],
+    "smod.stoner": [
+      "stoner",
+      "stoned"
+    ],
+    "smod.video": [
+      "video",
+      "videos"
+    ],
+    "soundcloud-audio-player.SoundcloudKeyword": [
+      "soundcloud"
+    ],
+    "soundcloud-audio-player.SoundcloudNextKeyword": [
+      "play next song",
+      "soundcloud next song",
+      "goto next track",
+      "play next track"
+    ],
+    "soundcloud-audio-player.SoundcloudPauseKeyword": [
+      "pause soundcloud"
+    ],
+    "soundcloud-audio-player.SoundcloudPreviousKeyword": [
+      "play previous song",
+      "soundcloud previous song",
+      "goto previous track",
+      "plat previous track"
+    ],
+    "soundcloud-audio-player.SoundcloudResumeKeyword": [
+      "resume soundcloud"
+    ],
+    "sovietwave.music": [
+      "music"
+    ],
+    "sovietwave.play": [
+      "play",
+      "start"
+    ],
+    "sovietwave.radio": [
+      "radio",
+      "web radio",
+      "livestream",
+      "live stream"
+    ],
+    "sovietwave.sovietwave": [
+      "soviet wave",
+      "sovietwave",
+      "soviet synthwave",
+      "soviet synth wave"
+    ],
+    "sovietwave.video": [
+      "video",
+      "videos"
+    ],
+    "space-news.news": [
+      "news"
+    ],
+    "space-news.next": [
+      "next",
+      "after",
+      "more"
+    ],
+    "space-news.open": [
+      "open",
+      "show"
+    ],
+    "space-news.picture": [
+      "picture",
+      "image",
+      "photo",
+      "imagery"
+    ],
+    "space-news.previous": [
+      "previous",
+      "before"
+    ],
+    "space-news.space": [
+      "space"
+    ],
+    "space-news.website": [
+      "website",
+      "site",
+      "webpage",
+      "web page",
+      "web site"
+    ],
+    "speak.Speak": [
+      "speak",
+      "say",
+      "repeat"
+    ],
+    "speed-test.neon.RunSpeedTest": [
+      "how fast is my connection",
+      "how slow is my connection",
+      "how fast is my internet",
+      "how slow is my internet",
+      "check my internet speed",
+      "test my internet speed",
+      "internet speed test",
+      "run speed test",
+      "run a speed test",
+      "start speed test",
+      "start a speed test"
+    ],
+    "speedtest-skill.Run": [
+      "run"
+    ],
+    "speedtest-skill.Speedtest": [
+      "speedtest",
+      "speed test"
+    ],
+    "spelling.SpellingKeyword": [
+      "spell",
+      "spell word",
+      "spelling of",
+      "spelling of word"
+    ],
+    "spotify-skill.Device": [
+      "device",
+      "unit",
+      "devices",
+      "units"
+    ],
+    "spotify-skill.For": [
+      "for",
+      "for album",
+      "for the album",
+      "for artist",
+      "for the artist"
+    ],
+    "spotify-skill.Search": [
+      "search",
+      "look for"
+    ],
+    "spotify-skill.Spotify": [
+      "spotify",
+      "using spotify",
+      "with spotify",
+      "on Spotify"
+    ],
+    "spotify-skill.Transfer": [
+      "transfer",
+      "move"
+    ],
+    "stephen-hawking.StephenHawking": [
+      "stephen hawking"
+    ],
+    "stephen-hawking.birth": [
+      "born",
+      "birth",
+      "birthday"
+    ],
+    "stephen-hawking.death": [
+      "die",
+      "death"
+    ],
+    "stephen-hawking.quote": [
+      "quote"
+    ],
+    "stop.StopKeyword": [
+      "stop",
+      "silence",
+      "shut up",
+      "be quiet"
+    ],
+    "trve-kvlt.black-metal": [
+      "black metal"
+    ],
+    "trve-kvlt.music": [
+      "music",
+      "song",
+      "songs",
+      "album",
+      "full album"
+    ],
+    "trve-kvlt.play": [
+      "play",
+      "start"
+    ],
+    "trve-kvlt.trve": [
+      "true cult",
+      "trve kvlt",
+      "true kult",
+      "trve cult"
+    ],
+    "trve-kvlt.video": [
+      "video",
+      "videos"
+    ],
+    "tts-control.AvailableKeyword": [
+      "available",
+      "configurable",
+      "permitted",
+      "permited",
+      "allowed"
+    ],
+    "tts-control.ChangeKeyword": [
+      "change",
+      "switch",
+      "make"
+    ],
+    "tts-control.CurrentKeyword": [
+      "current",
+      "current",
+      "present",
+      "actual",
+      "active",
+      "activated",
+      "turned on",
+      "selected",
+      "configured"
+    ],
+    "tts-control.DemoKeyword": [
+      "demo",
+      "show",
+      "showcase",
+      "rotate",
+      "demonstrate",
+      "play all"
+    ],
+    "tts-control.LangKeyword": [
+      "lang",
+      "langs",
+      "language",
+      "languages"
+    ],
+    "tts-control.TTSKeyword": [
+      "tts",
+      "t t s",
+      "text to speech",
+      "text to speak"
+    ],
+    "tts-control.VoiceKeyword": [
+      "voice",
+      "voices",
+      "speech"
+    ],
+    "tts-control.ap": [
+      "alan pope",
+      "pope"
+    ],
+    "tts-control.awb": [
+      "alan black",
+      "black"
+    ],
+    "tts-control.bing": [
+      "bing"
+    ],
+    "tts-control.croak": [
+      "croak",
+      "croaked"
+    ],
+    "tts-control.engine": [
+      "engine",
+      "module",
+      "engines",
+      "modules"
+    ],
+    "tts-control.espeak": [
+      "espeak",
+      "e speak",
+      "robotic"
+    ],
+    "tts-control.espeakVoices": [
+      "f 1",
+      "f 2",
+      "f 3",
+      "f 4",
+      "f 5",
+      "f1",
+      "f2",
+      "f3",
+      "f4",
+      "f5",
+      "female 1",
+      "female 2",
+      "female 3",
+      "female 4",
+      "female 5",
+      "m1",
+      "m2",
+      "m3",
+      "m4",
+      "m5",
+      "m6",
+      "m7",
+      "m 1",
+      "m 2",
+      "m 3",
+      "m 4",
+      "m 5",
+      "m 6",
+      "m 7",
+      "male 1",
+      "male 2",
+      "male 3",
+      "male 4",
+      "male 5",
+      "male 6",
+      "male 7"
+    ],
+    "tts-control.female": [
+      "female"
+    ],
+    "tts-control.google": [
+      "google"
+    ],
+    "tts-control.ibm": [
+      "ibm",
+      "watson"
+    ],
+    "tts-control.kal": [
+      "Kevin Lenzo",
+      "Kevin",
+      "Lenzo"
+    ],
+    "tts-control.male": [
+      "male"
+    ],
+    "tts-control.mary": [
+      "mary"
+    ],
+    "tts-control.mimic": [
+      "mimic",
+      "mimic1",
+      "mimic 1",
+      "mimic one",
+      "first mimic",
+      "1 mimic"
+    ],
+    "tts-control.mimic2": [
+      "mimic 2",
+      "mimic two",
+      "mimic to",
+      "mimic too",
+      "mimic2",
+      "second mimic",
+      "2 mimic",
+      "remote mycroft",
+      "server mycroft",
+      "backend mycroft",
+      "mycroft backend",
+      "mycroft server",
+      "remote mimic",
+      "backend mimic",
+      "server mimic"
+    ],
+    "tts-control.mimic2VoicesMale": [
+      "Kusal"
+    ],
+    "tts-control.mimicVoicesFemale": [
+      "slt"
+    ],
+    "tts-control.mimicVoicesMale": [
+      "ap",
+      "kal"
+    ],
+    "tts-control.polly": [
+      "polly",
+      "amazon"
+    ],
+    "tts-control.pollyVoicesFemale": [
+      "Salli",
+      "Joanna",
+      "Ivy",
+      "Kendra",
+      "Kimberly"
+    ],
+    "tts-control.pollyVoicesMale": [
+      "Matthew",
+      "Justin",
+      "Joey"
+    ],
+    "tts-control.responsivevoice": [
+      "responsive voice"
+    ],
+    "tts-control.rms": [
+      "Richard Marshall Stallman",
+      "Richard",
+      "Richard Marshall",
+      "Richard Stallman",
+      "Marshall Stallman",
+      "Stallman"
+    ],
+    "tts-control.slt": [
+      "Stefanie L. Tomko",
+      "Stefanie L Tomko",
+      "Stefanie Tomko",
+      "slt",
+      "s l t",
+      "Stefanie"
+    ],
+    "tts-control.whisper": [
+      "whisper",
+      "whispers",
+      "whispered"
+    ],
+    "tts-control.yandex": [
+      "yandex"
+    ],
+    "unsplash-wallpaper-plasma-skill.UnsplashPlasmaDesktopSkillKeyword": [
+      "change wallpaper type",
+      "change wallpaper",
+      "new wallpaper type",
+      "new wallpaper "
+    ],
+    "version-checker.Check": [
+      "check",
+      "find",
+      "running",
+      "what is"
+    ],
+    "version-checker.PlatformBuild": [
+      "platform build",
+      "platform version",
+      "firmware version"
+    ],
+    "version-checker.Version": [
+      "version",
+      "code",
+      "release",
+      "system software"
+    ],
+    "viirs.clouds": [
+      "cloud",
+      "clouds"
+    ],
+    "viirs.equator": [
+      "equator"
+    ],
+    "viirs.gaps": [
+      "gaps",
+      "holes",
+      "strips",
+      "black"
+    ],
+    "viirs.less_zoom": [
+      "less zoom",
+      "decrease zoom",
+      "reduce zoom",
+      "zoom out"
+    ],
+    "viirs.max": [
+      "max",
+      "maximum"
+    ],
+    "viirs.min": [
+      "min",
+      "minimum"
+    ],
+    "viirs.more_zoom": [
+      "more zoom",
+      "increase zoom",
+      "zoom in"
+    ],
+    "viirs.next": [
+      "next",
+      "after"
+    ],
+    "viirs.picture": [
+      "picture",
+      "image",
+      "photo",
+      "imagery",
+      "day"
+    ],
+    "viirs.previous": [
+      "previous",
+      "before"
+    ],
+    "viirs.set_zoom": [
+      "set zoom",
+      "change zoom",
+      "maximum zoom",
+      "minimum zoom"
+    ],
+    "viirs.why": [
+      "why",
+      "explain"
+    ],
+    "voip.accept": [
+      "Accept",
+      "Answer",
+      "Accept Call",
+      "Answer Call"
+    ],
+    "voip.and_say": [
+      "and say"
+    ],
+    "voip.call": [
+      "Call"
+    ],
+    "voip.hold_call": [
+      "Hold call",
+      "put call on hold",
+      "place call on hold",
+      "hold"
+    ],
+    "voip.mute": [
+      "mute",
+      "mute call"
+    ],
+    "voip.reject": [
+      "reject",
+      "hang up",
+      "reject call",
+      "hang up call",
+      "hang call",
+      "hang"
+    ],
+    "volume.Decrease": [
+      "lower",
+      "reduce",
+      "decrease",
+      "turn down",
+      "quieter",
+      "down"
+    ],
+    "volume.Increase": [
+      "rise",
+      "raise",
+      "boost",
+      "increase",
+      "turn up",
+      "louder",
+      "up",
+      "higher"
+    ],
+    "volume.Level": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "quiet",
+      "normal",
+      "loud"
+    ],
+    "volume.Mute": [
+      "mute",
+      "silence"
+    ],
+    "volume.Unmute": [
+      "reset",
+      "unmute",
+      "restore"
+    ],
+    "volume.Volume": [
+      "volume",
+      "speaker",
+      "audio",
+      "sound"
+    ],
+    "volume.neon.Decrease": [
+      "lower",
+      "reduce",
+      "decrease",
+      "turn down",
+      "quieter",
+      "less loud"
+    ],
+    "volume.neon.Increase": [
+      "rise",
+      "raise",
+      "boost",
+      "increase",
+      "turn up",
+      "louder"
+    ],
+    "volume.neon.Level": [
+      "quiet",
+      "normal",
+      "loud"
+    ],
+    "volume.neon.Mic": [
+      "device mic",
+      "device microphone",
+      "mic",
+      "microphone",
+      "input",
+      "mike"
+    ],
+    "volume.neon.Mute": [
+      "mute",
+      "silence",
+      "disable",
+      "turn off"
+    ],
+    "volume.neon.Percent": [
+      "percent"
+    ],
+    "volume.neon.Query": [
+      "what",
+      "tell me",
+      "get",
+      "say",
+      "speak"
+    ],
+    "volume.neon.Set": [
+      "set",
+      "adjust"
+    ],
+    "volume.neon.Unmute": [
+      "reset",
+      "unmute",
+      "restore"
+    ],
+    "volume.neon.Volume": [
+      "volume",
+      "speaker",
+      "speakers",
+      "audio",
+      "sound",
+      "mic",
+      "microphone",
+      "input",
+      "output",
+      "talk"
+    ],
+    "wallpapers.AVPorn": [
+      "AVPorn",
+      "AV Porn",
+      "av "
+    ],
+    "wallpapers.AbandonedPorn": [
+      "AbandonedPorn",
+      "Abandoned Porn",
+      "abandoned "
+    ],
+    "wallpapers.AdPorn": [
+      "AdPorn",
+      "Ad Porn",
+      "ad "
+    ],
+    "wallpapers.AdrenalinePorn": [
+      "AdrenalinePorn",
+      "Adrenaline Porn",
+      "adrenaline "
+    ],
+    "wallpapers.AerialPorn": [
+      "AerialPorn",
+      "Aerial Porn",
+      "aerial "
+    ],
+    "wallpapers.AgriculturePorn": [
+      "AgriculturePorn",
+      "Agriculture Porn",
+      "agriculture "
+    ],
+    "wallpapers.AlbumArtPorn": [
+      "AlbumArtPorn",
+      "Album Art Porn",
+      "album art "
+    ],
+    "wallpapers.AmateurEarthPorn": [
+      "AmateurEarthPorn",
+      "Amateur Earth Porn",
+      "amateur earth "
+    ],
+    "wallpapers.AmateurPhotography": [
+      "AmateurPhotography",
+      "Amateur Photography",
+      "amateur photography"
+    ],
+    "wallpapers.AnimalPorn": [
+      "AnimalPorn",
+      "Animal Porn",
+      "animal "
+    ],
+    "wallpapers.ApocalypsePorn": [
+      "ApocalypsePorn",
+      "Apocalypse Porn",
+      "apocalypse "
+    ],
+    "wallpapers.ArchitecturePorn": [
+      "ArchitecturePorn",
+      "Architecture Porn",
+      "architecture "
+    ],
+    "wallpapers.ArtPorn": [
+      "ArtPorn",
+      "Art Porn",
+      "art "
+    ],
+    "wallpapers.ArtefactPorn": [
+      "ArtefactPorn",
+      "Artefact Porn",
+      "artefact "
+    ],
+    "wallpapers.ArtistOfTheDay": [
+      "ArtistOfTheDay",
+      "Artist Of The Day",
+      "artist of the day"
+    ],
+    "wallpapers.AutumnPorn": [
+      "AutumnPorn",
+      "Autumn Porn",
+      "autumn "
+    ],
+    "wallpapers.BackgroundArt": [
+      "BackgroundArt",
+      "Background Art",
+      "background art"
+    ],
+    "wallpapers.BeachPorn": [
+      "BeachPorn",
+      "Beach Porn",
+      "beach "
+    ],
+    "wallpapers.BoatPorn": [
+      "BoatPorn",
+      "Boat Porn",
+      "boat "
+    ],
+    "wallpapers.BonsaiPorn": [
+      "BonsaiPorn",
+      "Bonsai Porn",
+      "bonsai "
+    ],
+    "wallpapers.BookPorn": [
+      "BookPorn",
+      "Book Porn",
+      "book "
+    ],
+    "wallpapers.BotanicalPorn": [
+      "BotanicalPorn",
+      "Botanical Porn",
+      "botanical "
+    ],
+    "wallpapers.BridgePorn": [
+      "BridgePorn",
+      "Bridge Porn",
+      "bridge "
+    ],
+    "wallpapers.CabinPorn": [
+      "CabinPorn",
+      "Cabin Porn",
+      "cabin "
+    ],
+    "wallpapers.CarPorn": [
+      "CarPorn",
+      "Car Porn",
+      "car "
+    ],
+    "wallpapers.CemeteryPorn": [
+      "CemeteryPorn",
+      "Cemetery Porn",
+      "cemetery "
+    ],
+    "wallpapers.ChurchPorn": [
+      "ChurchPorn",
+      "Church Porn",
+      "church "
+    ],
+    "wallpapers.CityPorn": [
+      "CityPorn",
+      "City Porn",
+      "city "
+    ],
+    "wallpapers.ClimbingPorn": [
+      "ClimbingPorn",
+      "Climbing Porn",
+      "climbing "
+    ],
+    "wallpapers.ComicBookPorn": [
+      "ComicBookPorn",
+      "Comic Book Porn",
+      "comic book "
+    ],
+    "wallpapers.Conservation": [
+      "Conservation",
+      "Conservation",
+      "conservation"
+    ],
+    "wallpapers.CulinaryPorn": [
+      "CulinaryPorn",
+      "Culinary Porn",
+      "culinary "
+    ],
+    "wallpapers.DesertPorn": [
+      "DesertPorn",
+      "Desert Porn",
+      "desert "
+    ],
+    "wallpapers.DesignPorn": [
+      "DesignPorn",
+      "Design Porn",
+      "design "
+    ],
+    "wallpapers.DessertPorn": [
+      "DessertPorn",
+      "Dessert Porn",
+      "dessert "
+    ],
+    "wallpapers.DestructionPorn": [
+      "DestructionPorn",
+      "Destruction Porn",
+      "destruction "
+    ],
+    "wallpapers.EarthPorn": [
+      "EarthPorn",
+      "Earth Porn",
+      "earth "
+    ],
+    "wallpapers.EarthPornVids": [
+      "EarthPornVids",
+      "Earth Porn Vids",
+      "earth  vids"
+    ],
+    "wallpapers.EarthlingPorn": [
+      "EarthlingPorn",
+      "Earthling Porn",
+      "earthling "
+    ],
+    "wallpapers.ExposurePorn": [
+      "ExposurePorn",
+      "Exposure Porn",
+      "exposure "
+    ],
+    "wallpapers.EyeCandy": [
+      "EyeCandy",
+      "Eye Candy",
+      "eye candy"
+    ],
+    "wallpapers.F1Porn": [
+      "F1Porn",
+      "Formula1 Porn",
+      "formula1 "
+    ],
+    "wallpapers.FWEPP": [
+      "FWEPP",
+      "FWEPP",
+      "fwepp"
+    ],
+    "wallpapers.FashionPorn": [
+      "FashionPorn",
+      "Fashion Porn",
+      "fashion "
+    ],
+    "wallpapers.FirePorn": [
+      "FirePorn",
+      "Fire Porn",
+      "fire "
+    ],
+    "wallpapers.FoodPorn": [
+      "FoodPorn",
+      "Food Porn",
+      "food "
+    ],
+    "wallpapers.FossilPorn": [
+      "FossilPorn",
+      "Fossil Porn",
+      "fossil "
+    ],
+    "wallpapers.FractalPorn": [
+      "FractalPorn",
+      "Fractal Porn",
+      "fractal "
+    ],
+    "wallpapers.FuturePorn": [
+      "FuturePorn",
+      "Future Porn",
+      "future "
+    ],
+    "wallpapers.GamerPorn": [
+      "GamerPorn",
+      "Gamer Porn",
+      "gamer "
+    ],
+    "wallpapers.GeekPorn": [
+      "GeekPorn",
+      "Geek Porn",
+      "geek "
+    ],
+    "wallpapers.GeologyPorn": [
+      "GeologyPorn",
+      "Geology Porn",
+      "geology "
+    ],
+    "wallpapers.GunPorn": [
+      "GunPorn",
+      "Gun Porn",
+      "gun "
+    ],
+    "wallpapers.HellscapePorn": [
+      "HellscapePorn",
+      "Hellscape Porn",
+      "hellscape "
+    ],
+    "wallpapers.HistoryPorn": [
+      "HistoryPorn",
+      "History Porn",
+      "history "
+    ],
+    "wallpapers.HousePorn": [
+      "HousePorn",
+      "House Porn",
+      "house "
+    ],
+    "wallpapers.HumanPorn": [
+      "HumanPorn",
+      "Human Porn",
+      "human "
+    ],
+    "wallpapers.ITookAPicture": [
+      "ITookAPicture",
+      "I Took A Picture",
+      "i took a picture"
+    ],
+    "wallpapers.ImaginaryLandscapes": [
+      "ImaginaryLandscapes",
+      "Imaginary Landscapes",
+      "imaginary landscapes"
+    ],
+    "wallpapers.ImaginaryWildlands": [
+      "ImaginaryWildlands",
+      "Imaginary Wildlands",
+      "imaginary wildlands"
+    ],
+    "wallpapers.IncredibleIndia": [
+      "IncredibleIndia",
+      "Incredible India",
+      "incredible india"
+    ],
+    "wallpapers.InfraredPorn": [
+      "InfraredPorn",
+      "Infrared Porn",
+      "infrared "
+    ],
+    "wallpapers.InfrastructurePorn": [
+      "InfrastructurePorn",
+      "Infrastructure Porn",
+      "infrastructure "
+    ],
+    "wallpapers.InstrumentPorn": [
+      "InstrumentPorn",
+      "Instrument Porn",
+      "instrument "
+    ],
+    "wallpapers.InterstellarArt": [
+      "InterstellarArt",
+      "Interstellar Art",
+      "interstellar art"
+    ],
+    "wallpapers.JoshuaTree": [
+      "JoshuaTree",
+      "Joshua Tree",
+      "joshua tree"
+    ],
+    "wallpapers.KnifePorn": [
+      "KnifePorn",
+      "Knife Porn",
+      "knife "
+    ],
+    "wallpapers.LakePorn": [
+      "LakePorn",
+      "Lake Porn",
+      "lake "
+    ],
+    "wallpapers.LavaPorn": [
+      "LavaPorn",
+      "Lava Porn",
+      "lava "
+    ],
+    "wallpapers.MTGPorn": [
+      "MTGPorn",
+      "MTG Porn",
+      "mtg "
+    ],
+    "wallpapers.MachinePorn": [
+      "MachinePorn",
+      "Machine Porn",
+      "machine "
+    ],
+    "wallpapers.MacroPorn": [
+      "MacroPorn",
+      "Macro Porn",
+      "macro "
+    ],
+    "wallpapers.MegalithPorn": [
+      "MegalithPorn",
+      "Megalith Porn",
+      "megalith "
+    ],
+    "wallpapers.MetalPorn": [
+      "MetalPorn",
+      "Metal Porn",
+      "metal "
+    ],
+    "wallpapers.MicroPorn": [
+      "MicroPorn",
+      "Micro Porn",
+      "micro "
+    ],
+    "wallpapers.MilitaryPorn": [
+      "MilitaryPorn",
+      "Military Porn",
+      "military "
+    ],
+    "wallpapers.MotorcyclePorn": [
+      "MotorcyclePorn",
+      "Motorcycle Porn",
+      "motorcycle "
+    ],
+    "wallpapers.MoviePosterPorn": [
+      "MoviePosterPorn",
+      "Movie Poster Porn",
+      "movie poster "
+    ],
+    "wallpapers.MushroomPorn": [
+      "MushroomPorn",
+      "Mushroom Porn",
+      "mushroom "
+    ],
+    "wallpapers.NZPhotos": [
+      "NZPhotos",
+      "NZ Photos",
+      "nz photos"
+    ],
+    "wallpapers.NationalGeographic": [
+      "NationalGeographic",
+      "National Geographic",
+      "national geographic"
+    ],
+    "wallpapers.Nature": [
+      "Nature",
+      "Nature",
+      "nature"
+    ],
+    "wallpapers.NatureGifs": [
+      "NatureGifs",
+      "Nature Gifs",
+      "nature gifs"
+    ],
+    "wallpapers.NaturePics": [
+      "NaturePics",
+      "Nature Pics",
+      "nature pics"
+    ],
+    "wallpapers.NewsPorn": [
+      "NewsPorn",
+      "News Porn",
+      "news "
+    ],
+    "wallpapers.NotSafeForNature": [
+      "NotSafeForNature",
+      "Not Safe For Nature",
+      "not safe for nature"
+    ],
+    "wallpapers.OrganizationPorn": [
+      "OrganizationPorn",
+      "Organization Porn",
+      "organization "
+    ],
+    "wallpapers.PolicePorn": [
+      "PolicePorn",
+      "Police Porn",
+      "police "
+    ],
+    "wallpapers.PowerWashingPorn": [
+      "PowerWashingPorn",
+      "Power Washing Porn",
+      "power washing "
+    ],
+    "wallpapers.QuotesPorn": [
+      "QuotesPorn",
+      "Quotes Porn",
+      "quotes "
+    ],
+    "wallpapers.RandomKeyword": [
+      "random"
+    ],
+    "wallpapers.RetailPorn": [
+      "RetailPorn",
+      "Retail Porn",
+      "retail "
+    ],
+    "wallpapers.RidesPorn": [
+      "RidesPorn",
+      "Rides Porn",
+      "rides "
+    ],
+    "wallpapers.RoomPorn": [
+      "RoomPorn",
+      "Room Porn",
+      "room "
+    ],
+    "wallpapers.RuralPorn": [
+      "RuralPorn",
+      "Rural Porn",
+      "rural "
+    ],
+    "wallpapers.Schweiz": [
+      "Schweiz",
+      "Schweiz",
+      "schweiz"
+    ],
+    "wallpapers.SeaPorn": [
+      "SeaPorn",
+      "Sea Porn",
+      "sea "
+    ],
+    "wallpapers.SkyPorn": [
+      "SkyPorn",
+      "Sky Porn",
+      "sky "
+    ],
+    "wallpapers.SpaceFlightPorn": [
+      "SpaceFlightPorn",
+      "Space Flight Porn",
+      "space flight "
+    ],
+    "wallpapers.SpacePorn": [
+      "SpacePorn",
+      "Space Porn",
+      "space "
+    ],
+    "wallpapers.SpecArt": [
+      "SpecArt",
+      "Spec Art",
+      "spec art"
+    ],
+    "wallpapers.SportsPorn": [
+      "SportsPorn",
+      "Sports Porn",
+      "sports "
+    ],
+    "wallpapers.SpringPorn": [
+      "SpringPorn",
+      "Spring Porn",
+      "spring "
+    ],
+    "wallpapers.StarshipPorn": [
+      "StarshipPorn",
+      "Starship Porn",
+      "starship "
+    ],
+    "wallpapers.SteamPorn": [
+      "SteamPorn",
+      "Steam Porn",
+      "steam "
+    ],
+    "wallpapers.StreetArtPorn": [
+      "StreetArtPorn",
+      "Street Art Porn",
+      "street art "
+    ],
+    "wallpapers.SummerPorn": [
+      "SummerPorn",
+      "Summer Porn",
+      "summer "
+    ],
+    "wallpapers.TeaPorn": [
+      "TeaPorn",
+      "Tea Porn",
+      "tea "
+    ],
+    "wallpapers.TechnologyPorn": [
+      "TechnologyPorn",
+      "Technology Porn",
+      "technology "
+    ],
+    "wallpapers.TelevisionPosterPorn": [
+      "TelevisionPosterPorn",
+      "Television Poster Porn",
+      "television poster "
+    ],
+    "wallpapers.ThingsCutInHalfPorn": [
+      "ThingsCutInHalfPorn",
+      "Things Cut In Half Porn",
+      "things cut in half "
+    ],
+    "wallpapers.ToolPorn": [
+      "ToolPorn",
+      "Tool Porn",
+      "tool "
+    ],
+    "wallpapers.UniformPorn": [
+      "UniformPorn",
+      "Uniform Porn",
+      "uniform "
+    ],
+    "wallpapers.ViewPorn": [
+      "ViewPorn",
+      "View Porn",
+      "view "
+    ],
+    "wallpapers.VillagePorn": [
+      "VillagePorn",
+      "Village Porn",
+      "village "
+    ],
+    "wallpapers.WaterPorn": [
+      "WaterPorn",
+      "Water Porn",
+      "water "
+    ],
+    "wallpapers.WeatherPorn": [
+      "WeatherPorn",
+      "Weather Porn",
+      "weather "
+    ],
+    "wallpapers.WinterPorn": [
+      "WinterPorn",
+      "Winter Porn",
+      "winter "
+    ],
+    "wallpapers.drydockporn": [
+      "drydockporn",
+      "Drydock Porn",
+      "drydock "
+    ],
+    "wallpapers.next": [
+      "next",
+      "after"
+    ],
+    "wallpapers.previous": [
+      "previous",
+      "before",
+      "go back"
+    ],
+    "wallpapers.remoteplaces": [
+      "remoteplaces",
+      "Remote Places",
+      "remote places"
+    ],
+    "wallpapers.roadporn": [
+      "roadporn",
+      "Road Porn",
+      "road "
+    ],
+    "wallpapers.sculptureporn": [
+      "sculptureporn",
+      "Sculpture Porn",
+      "sculpture "
+    ],
+    "wallpapers.set": [
+      "set",
+      "change",
+      "make",
+      "use"
+    ],
+    "wallpapers.wallpapers": [
+      "wallpapers",
+      "wallpaper",
+      "wall paper",
+      "wall papers"
+    ],
+    "wayne-june-lovecraft.audio_theatre": [
+      "radio theatre",
+      "audio theatre",
+      "radio drama",
+      "audio drama"
+    ],
+    "wayne-june-lovecraft.call": [
+      "call"
+    ],
+    "wayne-june-lovecraft.cthulhu": [
+      "cthulhu"
+    ],
+    "wayne-june-lovecraft.doorstep": [
+      "doorstep",
+      "door step"
+    ],
+    "wayne-june-lovecraft.dunwich": [
+      "dunwich"
+    ],
+    "wayne-june-lovecraft.herbert_west": [
+      "Herbert West"
+    ],
+    "wayne-june-lovecraft.horror": [
+      "horror"
+    ],
+    "wayne-june-lovecraft.house": [
+      "house"
+    ],
+    "wayne-june-lovecraft.innsmouth": [
+      "innsmouth"
+    ],
+    "wayne-june-lovecraft.lovecraft": [
+      "lovecraft",
+      "h p lovecraft",
+      "h. p. lovecraft"
+    ],
+    "wayne-june-lovecraft.lurking_fear": [
+      "lurking fear"
+    ],
+    "wayne-june-lovecraft.mountains": [
+      "At The Mountains Of Madness",
+      "Mountains Of Madness"
+    ],
+    "wayne-june-lovecraft.play": [
+      "play",
+      "start"
+    ],
+    "wayne-june-lovecraft.reading": [
+      "reading",
+      "readings",
+      "read",
+      "audiobook",
+      "audio book",
+      "book",
+      "story",
+      "short story"
+    ],
+    "wayne-june-lovecraft.reanimator": [
+      "reanimator",
+      "re animator"
+    ],
+    "wayne-june-lovecraft.red_hook": [
+      "red hook"
+    ],
+    "wayne-june-lovecraft.shadow": [
+      "shadow"
+    ],
+    "wayne-june-lovecraft.shunned": [
+      "shunned"
+    ],
+    "wayne-june-lovecraft.thing": [
+      "the thing",
+      "thing"
+    ],
+    "wayne-june-lovecraft.tomb": [
+      "The tomb",
+      "tomb"
+    ],
+    "wayne-june-lovecraft.virgin_finlay": [
+      "To Virgil Finlay Upon His Drawing for Mr. Bloch\u2019s Tale The Faceless God",
+      "Virgil Finlay Upon His Drawing The Faceless God",
+      "Virgil Finlay",
+      "Virgil Finlay Drawing The Faceless God",
+      "Virgil Finlay The Faceless God Drawing",
+      "To Virgil Finlay"
+    ],
+    "wayne-june-lovecraft.wayne_june": [
+      "wayne june",
+      "wayne jude"
+    ],
+    "weather.Forecast": [
+      "forecast"
+    ],
+    "weather.Humidity": [
+      "humid",
+      "humidity",
+      "steamy"
+    ],
+    "weather.Later": [
+      "next hour",
+      "next hours",
+      "few hours",
+      "next few hours",
+      "couple of hours",
+      "next couple of hours",
+      "later"
+    ],
+    "weather.Location": [
+      "Seattle",
+      "Los Angeles california|los angeles|la",
+      "Lawrence kansas",
+      "portland oregon|portland",
+      "spokane",
+      "new york",
+      "chicago",
+      "houston",
+      "austin",
+      "san diego",
+      "san francisco",
+      "san jose",
+      "boston",
+      "washington d c",
+      "atlanta"
+    ],
+    "weather.Next": [
+      "next",
+      "again",
+      "when",
+      "will"
+    ],
+    "weather.Precipitation": [
+      "rain",
+      "snow",
+      "precipitation",
+      "rainy",
+      "snowy"
+    ],
+    "weather.Query": [
+      "how",
+      "what is",
+      "tell",
+      "when"
+    ],
+    "weather.Sunrise": [
+      "sunrise",
+      "sun rise",
+      "dawn",
+      "daybreak",
+      "day break"
+    ],
+    "weather.Sunset": [
+      "sunset",
+      "sun set",
+      "dusk"
+    ],
+    "weather.Weather": [
+      "weather",
+      "temperature",
+      "how cold",
+      "how chilly",
+      "how cool",
+      "how warm",
+      "how hot"
+    ],
+    "weather.WeatherType": [
+      "rain|raining",
+      "snow|snowing",
+      "sleet",
+      "hail|hailing",
+      "sunny|sun",
+      "hot|warm",
+      "cold|cool"
+    ],
+    "weather.Windy": [
+      "wind",
+      "windy",
+      "breezy",
+      "gusting",
+      "blowing"
+    ],
+    "webb-telescope.ExplainKeyword": [
+      "explain",
+      "summary",
+      "describe",
+      "tell me more"
+    ],
+    "webb-telescope.WebbTelescope": [
+      "(web|webb|james web|james webb) (telescope|space telescope)",
+      "(webb|james web|james webb)"
+    ],
+    "webb-telescope.latest": [
+      "latest",
+      "last",
+      "most recent",
+      "new",
+      "newest",
+      "of the day"
+    ],
+    "white-house-adventure.Delete": [
+      "delete"
+    ],
+    "white-house-adventure.Play": [
+      "play",
+      "goto",
+      "go to"
+    ],
+    "white-house-adventure.Save": [
+      "save",
+      "savegame",
+      "saved"
+    ],
+    "white-house-adventure.Zork": [
+      "zork",
+      "mailbox",
+      "white house"
+    ],
+    "wiki.More": [
+      "more",
+      "continue"
+    ],
+    "wiki.Wikipedia": [
+      "wiki",
+      "wikipedia",
+      "tell me about",
+      "tell us about",
+      "what does wikipedia say about",
+      "search"
+    ],
+    "wikihow.HowToKeyword": [
+      "how to",
+      "how do i",
+      "how 2",
+      "wikihow",
+      "wiki how"
+    ],
+    "wikihow.RandomKeyword": [
+      "random"
+    ],
+    "wikihow.RepeatKeyword": [
+      "repeat",
+      "say again",
+      "start over",
+      "from the beginning"
+    ],
+    "wikihow.TellMoreKeyword": [
+      "tell me more",
+      "elaborate",
+      "describe",
+      "explain",
+      "explanation"
+    ],
+    "wikihow.continue": [
+      "continue",
+      "resume"
+    ],
+    "wikihow.next": [
+      "next",
+      "after"
+    ],
+    "wikihow.pause": [
+      "pause"
+    ],
+    "wikihow.picture": [
+      "picture",
+      "image",
+      "photo",
+      "imagery",
+      "how to",
+      "guide",
+      "step by step",
+      "step",
+      "show"
+    ],
+    "wikihow.previous": [
+      "previous",
+      "before",
+      "go back"
+    ],
+    "wikipedia-for-humans.More": [
+      "know more",
+      "tell me more",
+      "tell more",
+      "continue"
+    ],
+    "wink-iot.Brighten": [
+      "brighten",
+      "raise",
+      "increase"
+    ],
+    "wink-iot.Dim": [
+      "dim",
+      "darken",
+      "lower"
+    ],
+    "wink-iot.Light": [
+      "light",
+      "lights",
+      "overhead light",
+      "overhead light"
+    ],
+    "wink-iot.OnOff": [
+      "on",
+      "off"
+    ],
+    "wink-iot.Query": [
+      "tell",
+      "query",
+      "lit",
+      "is light on"
+    ],
+    "wink-iot.Switch": [
+      "flip",
+      "switch",
+      "turn",
+      "set"
+    ],
+    "xkcd.next": [
+      "next",
+      "after"
+    ],
+    "xkcd.picture": [
+      "picture",
+      "image",
+      "photo",
+      "imagery",
+      "comic",
+      "xkcd",
+      "show"
+    ],
+    "xkcd.previous": [
+      "previous",
+      "before",
+      "go back"
+    ],
+    "youtube-skill.YoutubeKeyword": [
+      "youtube"
+    ],
+    "youtube-skill.YoutubeLauncherIdKeyword": [
+      "ID01"
+    ],
+    "youtube-skill.YoutubeLiveSearchPageKeyword": [
+      "show youtube live search"
+    ],
+    "youtube-skill.YoutubePauseKeyword": [
+      "pause youtube"
+    ],
+    "youtube-skill.YoutubeResumeKeyword": [
+      "resume youtube"
+    ],
+    "youtube-skill.YoutubeSearchPageKeyword": [
+      "search youtube for "
+    ]
+  }
+}

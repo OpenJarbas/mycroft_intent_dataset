@@ -1,0 +1,49 @@
+{
+  "pl-pl": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Kryszta\u0142owa kula",
+      "lustro lustro"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "przysz\u0142o\u015b\u0107",
+      "jutro"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "powiedz mi",
+      "co"
+    ],
+    "cocktail.Again": [
+      "ponownie"
+    ],
+    "cocktail.Ingredients": [
+      "sk\u0142adnik",
+      "sk\u0142adniki"
+    ],
+    "cocktail.TellMe": [
+      "jakie s\u0105",
+      "powiedz mi"
+    ],
+    "cocktail.What": [
+      "co by\u0142o",
+      "co by\u0142o"
+    ],
+    "white-house-adventure.Delete": [
+      "usu\u0144"
+    ],
+    "white-house-adventure.Play": [
+      "graj",
+      "id\u017a do",
+      "id\u017a do"
+    ],
+    "white-house-adventure.Save": [
+      "zapis",
+      "zapis gry",
+      "zapisano"
+    ],
+    "white-house-adventure.Zork": [
+      "zork",
+      "Skrzynka Pocztowa",
+      "bia\u0142y dom"
+    ]
+  }
+}

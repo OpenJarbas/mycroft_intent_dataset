@@ -1,0 +1,152 @@
+pt-br,auto-volume-skill.activate,(Ativar|Ative) auto volume
+pt-br,auto-volume-skill.activate,(Definir|Defina) volume automático (para|como|) ativo
+pt-br,auto-volume-skill.activate,(Ligar|Ligue) auto volume
+pt-br,auto-volume-skill.activate,(Ativar|ative|ligar) (o|) volume automático
+pt-br,auto-volume-skill.deactivate,(Desativar|Desative) (o|) volume automático
+pt-br,auto-volume-skill.deactivate,(Colocar|Coloque|Mudar|Mude) (o|) volume automático (para|) inativo
+pt-br,auto-volume-skill.deactivate,(Desligar|Desligue) (o|) volume automático
+pt-br,auto-volume-skill.deactivate,(Mudar|Definir|Mude|Mudar|Colocar|Coloque) (o|) volume automático (para|como) desligado
+pt-br,auto-volume-skill.reset,(Limpar|Limpe) (as|) medições automáticas de volume
+pt-br,auto-volume-skill.reset,(Apagar |Apague) (as|) medições de volume automático
+pt-br,auto-volume-skill.reset,(Restaurar|Restaure) (os|) padrões de medições de volume automático
+pt-br,cocktail.Needed,o que é necessário para fazer um {drink}
+pt-br,cocktail.Needed,O que (eu|você) (precisa|preciso) para fazer (o|um) {drink}
+pt-br,cocktail.Needed,(quais|qual) (são|é) (os|o) (ingredientes|ingrediente) para um {drink}
+pt-br,cocktail.Recipie,como (eu|você) (fazer|preparar) (um|uma) {drink}
+pt-br,cocktail.Recipie,diga (me|nos) como (fazer|preparar) (um|uma) {drink}
+pt-br,cocktail.Recipie,dê (me|nos) instruções para preparar (um|uma) {drink}
+pt-br,cocktail.Recipie,como (fazer|preparar) (um|uma) {drink}
+pt-br,cocktail.Recipie,qual a receita para (um|uma) {drink}
+pt-br,count-skill.count,Conte até {number}
+pt-br,count-skill.countdown,Contagem regressiva de {number}
+pt-br,count-skill.countdown,Contar de {number}
+pt-br,count-skill.countdown,Contar de trás para {number}
+pt-br,count-skill.countdown,Conte de volta em {number}
+pt-br,count-skill.countdown,Contagem regressiva de {number}
+pt-br,count-skill.countdown,De {number} contagem regressiva
+pt-br,count-skill.countdown,De {number} contar para trás
+pt-br,dice-skill.Dice,Lista ({count}|) d {type} (+|plus|) ({modifier}|)
+pt-br,dice-skill.NormalDice,Lista ({count}|) (dice|die)
+pt-br,dice-skill.Range,Gerar um número aleatório entre {low} e {high}
+pt-br,dice-skill.Range,Gere um número aleatório entre {low} e {high}
+pt-br,dice-skill.Range,Diga-me um número de {low} e {high}
+pt-br,dice-skill.Range,Diga-me um número entre {low} e {high}
+pt-br,email-skill.check.email,verifique meu email
+pt-br,email-skill.check.email,(verifique|cheque) meu email
+pt-br,email-skill.check.email,(Eu|) tenho algum (novo|) email (novo|) ?
+pt-br,email-skill.check.email,eu tenho algum e-mail ?
+pt-br,email-skill.check.email,(eu|) tenho algum email novo?
+pt-br,email-skill.enquire.email,Eu tenho algum (novo|) email de {email} ?
+pt-br,email-skill.enquire.email,Eu tenho (algum|) email (vindo|) de {email} ?
+pt-br,email-skill.enquire.email,Eu recebi algum email de {email} ?
+pt-br,email-skill.notify,Me (informe|fale) sobre (o|os) (novos|) (email|emails)
+pt-br,email-skill.notify,Me (informe|fale) quando eu receber (novo|novos|) ( email | emails ) 
+pt-br,email-skill.notify,Me (informe|avise|fale) quando eu receber (um|) email (vindo|) de {sender}
+pt-br,email-skill.notify,Me (informe|avise|fale) sobre (email|emails) (vindo|) de {sender}
+pt-br,email-skill.notify,Me notifique sobre (os|) (novos emails | emails) 
+pt-br,email-skill.notify,Me (notifique|avise) sobre (os|) (emails | novos emails) ( vindo de | de | enviados por ) {sender}
+pt-br,email-skill.notify,Me (notifique|avise) quando (eu receber|chegar) ( um email | email | emails | novos emails )
+pt-br,email-skill.notify,Me (notifique|avise) quando (eu receber|chegar|chegarem) (um email | email | emails | novos emails ) (de| vindo de| enviado por) {sender}
+pt-br,email-skill.stop,Não me (notifique|avise) sobre ( email | emails | novos emails)
+pt-br,email-skill.stop,Não me (notifique|avise) sobre ( email | emails | novos emails) ( vindo de | de ) {sender}
+pt-br,email-skill.stop,Não me (notifique|avise) mais sobre ( email | emails | novos emails)
+pt-br,email-skill.stop,Não me (notifique|avise) mais sobre ( email | emails | novos emails) ( de | vindo de ) {sender}
+pt-br,email-skill.stop,Não me (fale|avise) sobre ( email | emails | novos emails)
+pt-br,email-skill.stop,Não me (fale|avise) sobre ( email | emails | novos emails) ( vindo de | de ) {sender}
+pt-br,email-skill.stop,Não me (fale|avise) mais sobre ( email | emails | novos emails) 
+pt-br,email-skill.stop,Não me (fale|avise) mais sobre ( email | emails | novos emails) ( vindo de | de ) {sender}
+pt-br,emby-skill.diagnostic,verificar a conexão (emby|mb|mv|nv|emily)
+pt-br,emby-skill.diagnostic,executar diagnóstico (emby|mb|mv|nv|emily)
+pt-br,emby-skill.diagnostic,verificar (emby|mb|mv|nv|emily)
+pt-br,emby-skill.emby,tocar {media} do emby
+pt-br,emby-skill.emby,tocar {media} do mb
+pt-br,emby-skill.emby,tocando artista {artist} de emby
+pt-br,emby-skill.emby,tocando artista {artist} do mb
+pt-br,emby-skill.emby,tocando album {album} de emby
+pt-br,emby-skill.emby,tocar album{album} de mb
+pt-br,fairytalez-skill.continue,Continue a história
+pt-br,fairytalez-skill.continue,Continue contando histórias
+pt-br,fairytalez-skill.continue,Continuar conto de fadas
+pt-br,fairytalez-skill.continue,Continue contando conto de fadas
+pt-br,fairytalez-skill.continue,Continuar o conto de fadas
+pt-br,fairytalez-skill.continue,Continue com o conto de fadas
+pt-br,fairytalez-skill.continue,Continue com o conto de fadas
+pt-br,fairytalez-skill.fairytalez,(diga|conte|conta|me conta) (para mim|pra mim) (uma boa|um bom) (história de conto de fadas|conto de fadas)
+pt-br,fairytalez-skill.fairytalez,(Conte|Leia) (para mim|) a estória {tale}
+pt-br,iss-tracker-skill.tracker.iss,Onde fica a estação espacial internacional?
+pt-br,iss-tracker-skill.tracker.iss,Localize I S S
+pt-br,iss-tracker-skill.tracker.iss,Onde está I S S
+pt-br,laugh.Laugh,ria como a alexa
+pt-br,laugh.Laugh,você (sabe|pode|consegue) rir
+pt-br,laugh.Laugh,(risada|risadinha|riso) (maligna|do mal)
+pt-br,laugh.RandomLaugh,ria aleatoriamente
+pt-br,laugh.RandomLaugh,disparar (riso|risos|risada) aleatória
+pt-br,laugh.RandomLaugh,(risada|risadinha|riso) (maligna|do mal) aleatória
+pt-br,mark-2.brightness,reduza o brilho (dos|dos seus) olhos para {brightness} (por cento|)
+pt-br,mark-2.brightness,diminua o brilho para {brightness} (por cento|)
+pt-br,mark-2.brightness,reduza (o brilho|a iluminação) dos seus olhos para {brightness} (por cento|)
+pt-br,mark-2.brightness,(reduza|aumente) (o brilho|a iluminação) para {brightness} (por cento|)
+pt-br,mark-2.brightness,(reduza|aumente) (o brilho|a iluminação) para {brightness} (por cento|)
+pt-br,mark-2.brightness,aumente (um pouco|um pouquinho) o brilho para {brightness} (por cento|)
+pt-br,mark-2.brightness,(defina|mude|troque|passe) (o brilho|a iluminação) (dos seus olhos|dos olhos|) para {brightness} (por cento|)
+pt-br,mark-2.brightness,(change|set|switch) (the|your) (eye|) (brightness|illumination) (level|) to {brightness} (percent|)
+pt-br,mark-2.brightness,(mude|ajuste|defina) (o nível|) (do brilho|da iluminação) (dos olhos|dos seus olhos|do olho)
+pt-br,mark-2.brightness,você está (com|) (muito brilho|muito escuro)
+pt-br,mark-2.brightness,você está (com|) (muito brilho|muito escuro)
+pt-br,mark-2.brightness,aumente o brilho
+pt-br,mark-2.brightness,escureça (um pouco|um pouquinho)
+pt-br,mark-2.brightness.auto,definir brilho para automático
+pt-br,mark-2.brightness.auto,brilho automático
+pt-br,mark-2.device.brightness.settings,exibir configurações de brilho
+pt-br,mark-2.device.brightness.settings,exibir configurações de brilho do dispositivo
+pt-br,mark-2.device.homescreen.settings,exibir configurações da tela inicial
+pt-br,mark-2.device.homescreen.settings,exibir configurações (da|de) (página|tela|rosto) (inicial|de repouso|inativa)
+pt-br,mark-2.device.homescreen.settings,exibir configurações (da|de) (página|tela|rosto) (inicial|de repouso|inativa) do dispositivo
+pt-br,mark-2.device.reset.settings,exibir configurações da restauração de fábrica
+pt-br,mark-2.device.reset.settings,exibir configurações da restauração de fábrica do dispositivo
+pt-br,mark-2.device.settings,exibir configurações do dispositivo
+pt-br,mark-2.device.settings,abrir configurações
+pt-br,mark-2.device.ssh.settings,exibir configurações de ssh
+pt-br,mark-2.device.ssh.settings,exibir configurações de ssh do dispositivo
+pt-br,mark-2.device.wifi.settings,exibir tela da rede sem fio
+pt-br,mark-2.device.wifi.settings,exibir configurações sem fio
+pt-br,mark-2.device.wifi.settings,exibir configurações wifi
+pt-br,mark-2.device.wifi.settings,exibir a tela de conexões wifi
+pt-br,moviemaster.genre.movie.search,(listar|buscar|procurar|exibir) (filmes|curtas) que são (de) {genre}
+pt-br,moviemaster.genre.movie.search,(listar|buscar|procurar) (filmes|curtas|filmes de|curtas de) {genre}
+pt-br,moviemaster.genre.tv.search,(listar|procurar|buscar|obter|mostrar|exibir) (programas|séries|seriados) (de TV) que são de {genre}
+pt-br,moviemaster.genre.tv.search,(listar|encontrar|pegar) {genre} (programas de TV|programas de televisão|programas|séries|seriados)
+pt-br,moviemaster.movie.cast,quem (atua|contracena|estreia|está) no (filme|curta) {movie}
+pt-br,moviemaster.movie.description,(sobre|) (do que se trata|de que se trata|do que|o que|o que se trata) (é|) o filme {movie}
+pt-br,moviemaster.movie.description,(me diga|conte para mim|fale para mim|fala pra mim) sobre o filme {movie}
+pt-br,moviemaster.movie.description,(nos dê|me dê|me dá) uma (descrição|sinopse|resumo) do (filme|curta) {movie}
+pt-br,moviemaster.movie.description,.
+pt-br,moviemaster.movie.genres,(a qual|a quais) (gênero|gêneros) o filme {movie} pertence
+pt-br,moviemaster.movie.genres,(quais são|qual é o) (gênero|gêneros) do (filme|curta) {movie}
+pt-br,moviemaster.movie.genres,(qual|quais) (é|são) (o|os) (gênero|gênero) do filme {movie}
+pt-br,moviemaster.movie.information,(encontre|há|procure|existe|tem) (informação|informações) (do|sobre o) filme {movie}
+pt-br,moviemaster.movie.information,(me|nos) (dê|diga|fale) (informação|informações) (sobre o|do) filme {movie}
+pt-br,moviemaster.movie.information,(você tem|você pode pegar|você consegue) (informação|informações) (sobre o|do) filme {movie}
+pt-br,moviemaster.movie.popular,(listar|procurar|buscar) (filmes|curtas) populares
+pt-br,moviemaster.movie.popular,quais ( |são) os filmes populares (saindo|exibindo|em exibição) ( |agora)
+pt-br,moviemaster.movie.production,(quem|qual empresa|qual estúdio) (produziu|fez) o filme {movie}
+pt-br,moviemaster.movie.recommendations,recomende filmes (similares|parecidos|parecidos com|como|iguais) (ao|) {movie}
+pt-br,moviemaster.movie.recommendations,qual filme você (recomenda|recomendaria) (parecido|parecido com|igual|similar|como) (ao|) {movie}
+pt-br,moviemaster.movie.recommendations,(listar|liste|recomende|recomendar) (filmes|fitas) (similares|parecidos|parecidas|parecidos|parecidas|com|como|iguais) (ao|à) {movie}
+pt-br,moviemaster.movie.runtime,Quanto (tempo|dura) (é|) o (filme|fita) {movie}
+pt-br,moviemaster.movie.runtime,Qual é (o|a) (tempo|duração|tamanho) do (filme|fita) {movie}
+pt-br,moviemaster.movie.runtime,(Veja|Diga|Mostre) (o|a) (duração|tamanho|tempo) (do|da) (filme|fita) {movie}
+pt-br,moviemaster.movie.top,(listar|liste|quais são|busque|buscar|procurar|procure) os (melhores|mais populares|mais cotados) (filmes|fitas) (saindo|sendo exibidos|em exibição|em cartaz) (|agora)
+pt-br,moviemaster.movie.year,(em que ano|quando|em que data|em qual data|em qual ano) (o|a) (filme|fita) {movie} foi (feito|lançado)
+pt-br,theia-ide-skill.restart,Reiniciar IDE
+pt-br,theia-ide-skill.start,Ativar IDE
+pt-br,theia-ide-skill.stop,Desativar IDE
+pt-br,wikiquote-skill.random,me (diga|fale) (algum|um|alguma|uma) (citação|provérbio)
+pt-br,wikiquote-skill.random,me (dê|mostre) (um|algum|uma|alguma) (citação|provérbio)
+pt-br,wikiquote-skill.random,Preciso de algum (conselho|provérbio)
+pt-br,wikiquote-skill.specific,me (diga|fale) (algum|um|alguma|uma) (citação|provérbio) sobre {subject}
+pt-br,wikiquote-skill.specific,Me (dê|mostre) (algum|um|alguma|uma) (citação|provérbio) sobre {subject}
+pt-br,wikiquote-skill.specific,Eu preciso de (algum|alguma) (citação|provérbio) (sobre|de} {subject}
+pt-br,wikiquote-skill.specific,me (diga|fale) uma citação (de|sobre) {subject}
+pt-br,wikiquote-skill.specific,me (dê|mostre) uma citação (de|sobre) {subject}
+pt-br,wikiquote-skill.specific,Eu preciso de uma citação (de|sobre) {subject}

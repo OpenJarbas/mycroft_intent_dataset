@@ -1,0 +1,61 @@
+{
+  "es-lm": {
+    "cocktail.Needed": [
+      "qu\u00e9 se necesita para hacer un {drink}",
+      "qu\u00e9 (hace falta|necesito|necesitas) para hacer un {drink}",
+      "(cu\u00e1les son los ingredientes|cu\u00e1l es el ingreditente) (de|para hacer) un {drink}"
+    ],
+    "cocktail.Recipie": [
+      "c\u00f3mo (hago|har\u00eda|haces|harias) para (hacer|preparar) (un|una) {drink}",
+      "(cu\u00e9ntame|dime|dinos|cu\u00e9ntanos) como (hacer|preparar) (un|una) {drink}",
+      "(dame|dinos|danos) (las|) instrucciones para (hacer|preparar|) (un|una) {drink}",
+      "c\u00f3mo (hacer|preparar|mezclar) (un|una) {drink}",
+      "cu\u00e1l es la receta (de|para) (un|una) {drink}"
+    ],
+    "email-skill.check.email": [
+      "comprueba mi (email|correo electr\u00f3nico).",
+      "Revisa mi correo",
+      "\u00bftengo alg\u00fan correo nuevo?",
+      "\u00bftengo alg\u00fan (email|correo|correo electr\u00f3nico)?",
+      "\u00bftengo alg\u00fan (email|correo|correo electr\u00f3nico) nuevo?"
+    ],
+    "email-skill.enquire.email": [
+      "\u00bfTengo un correo electr\u00f3nico de {email}?",
+      "\u00bfRecib\u00ed (cualquier |) correo electr\u00f3nico (por|de) de {email}?",
+      "\u00bfHe Recibido correos electr\u00f3nicos de {email}?"
+    ],
+    "email-skill.notify": [
+      "Dime si hay (correo | correo electr\u00f3nico | nuevo correo | email)",
+      "Dime cuando tenga (correo | correo electr\u00f3nico | nuevo correo | email)",
+      "Dime cuando tenga (un correo | un correo electr\u00f3nico | email) (de | por) {sender}",
+      "Dime de (correo | email) (de | por) {sender}",
+      "Notif\u00edcame de (correo | email | nuevo correo | nuevo email)",
+      "av\u00edsame cuando tenga (un|) (correo | correo electr\u00f3nico | nuevo correo | email) (de | procedente de) {sender}",
+      "av\u00edsame cuando tenga (un|) (correo | correo electr\u00f3nico | nuevo correo | email)",
+      "av\u00edsame cuando tenga (un|) (correo |correo electr\u00f3nico |email) (de | procedente de) {sender}"
+    ],
+    "email-skill.stop": [
+      "No me notifiques de (correo | email | nuevo correo | nuevo email)",
+      "No me avises de (correo | correo electr\u00f3nico | nuevo correo | email)  (de | procedente de) {sender}",
+      "No me notifiques de nuevo de (correo | email | nuevo correo | nuevo email)",
+      "No me notifiques de nuevo (correo | correo electr\u00f3nico | nuevo correo | email) (de | procedente de) {sender}",
+      "No me avises de (correo | email | nuevo correo | nuevo email)",
+      "No me avises de (correo | correo electr\u00f3nico | nuevo correo | email) (de | procedente de) {sender}",
+      "No me notifiques de nuevo de (correo | email | nuevo correo | nuevo email)",
+      "No vuelvas a notificarme de (un|) (correo | correo electr\u00f3nico | nuevo correo | email) (de | procedente de) {sender}"
+    ],
+    "emby-skill.diagnostic": [
+      "comprobando (emby|mb|mv|nv|emily) conexi\u00f3n",
+      "Ejecutar diagn\u00f3stico de (emby|mb|mv|nv|emily)",
+      "comprobar (emby|mb|mv|nv|emily)"
+    ],
+    "emby-skill.emby": [
+      "Reproduce {media} en emby",
+      "reproduce {media} en emby",
+      "Pon (a|el artista| ) {artist} (en|por|de|desde) emby",
+      "Pon (a|el artista| ) {artist} (en|por|de|desde) mb",
+      "Pon ( |el album) {album} (en|por|desde) emby",
+      "Pon ( |el album) {album} (en|por|de|desde) mb"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+hu-hu,auto-volume-skill.activate,Aktiválja az automatikus hangerőt
+hu-hu,auto-volume-skill.activate,Automatikus hangerő beállítása aktívnak
+hu-hu,auto-volume-skill.activate,Kapcsolja be az automatikus hangerőt
+hu-hu,auto-volume-skill.activate,Automatikus hangerő beállítása (to) on
+hu-hu,auto-volume-skill.deactivate,Automatikus hangerő kikapcsolása
+hu-hu,auto-volume-skill.deactivate,Automatikus hangerő beállítása inaktívnak
+hu-hu,auto-volume-skill.deactivate,Kapcsolja ki az automatikus hangerőt
+hu-hu,auto-volume-skill.deactivate,Automatikus hangerő beállítása (to) off
+hu-hu,auto-volume-skill.reset,Automata hangerő mérési eredményeinek törlése
+hu-hu,auto-volume-skill.reset,Automatikus hangerő mérések törlése
+hu-hu,auto-volume-skill.reset,Automatikus hangerő mérések törlése
+hu-hu,email-skill.check.email,ellenőrizd az (email|e mail|emailemet|emailjeimet)
+hu-hu,email-skill.check.email,ellenőrizd a leveleimet
+hu-hu,email-skill.check.email,van új levelem
+hu-hu,email-skill.check.email,érkezett (új|) levelem
+hu-hu,email-skill.check.email,kaptam új levelet
+hu-hu,emby-skill.emby,(lejátszás|játszd|játssz le) {media} (az|) (mb|nb|enbi|emby) (szerverről|)
+hu-hu,emby-skill.emby,{media} lejátszása (az|) (mb|nb|enbi|emby) (szerverről|)
+hu-hu,wikiquote-skill.random,mondj egy idézetet
+hu-hu,wikiquote-skill.random,kérek egy idézetet|bölcsességet
+hu-hu,wikiquote-skill.random,bölcsességet kérek
+hu-hu,wikiquote-skill.random,idézetet kérek
+hu-hu,wikiquote-skill.specific,kérek egy {subject} (idézetet|idézetek|idézet)
+hu-hu,wikiquote-skill.specific,mondj egy {subject} (idézetet|idézetek|idézet)
+hu-hu,wikiquote-skill.specific,{subject} bölcsességet kérek

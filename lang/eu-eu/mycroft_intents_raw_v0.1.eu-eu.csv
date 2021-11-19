@@ -1,0 +1,22 @@
+eu-eu,auto-volume-skill.activate,Aktibatu bolumen automatikoa
+eu-eu,auto-volume-skill.activate,Bolumen automatikoa aktibatu
+eu-eu,auto-volume-skill.activate,Piztu bolumen automatikoa
+eu-eu,auto-volume-skill.activate,Bolumen automatikoa piztu
+eu-eu,auto-volume-skill.deactivate,Bolumen automatikoa desaktibatu
+eu-eu,auto-volume-skill.deactivate,Desaktibatu bolumen automatikoa
+eu-eu,auto-volume-skill.deactivate,Bolumen automatikoa itzali
+eu-eu,auto-volume-skill.deactivate,Itzali bolumen automatikoa
+eu-eu,auto-volume-skill.reset,Garbitu bolumen automatikoaren neurketak
+eu-eu,auto-volume-skill.reset,Ezabatu bolumen automatikoaren neurketak
+eu-eu,auto-volume-skill.reset,Berrezarri bolumen automatikoaren neurketak
+eu-eu,auto-volume-skill.reset,Bolumen automatikoaren neurketak garbitu
+eu-eu,auto-volume-skill.reset,Bolumen automatikoaren neurketak ezabatu
+eu-eu,auto-volume-skill.reset,Bolumen automatikoaren neurketak berrezarri
+eu-eu,count-skill.count,Kontatu {number} arte
+eu-eu,count-skill.countdown,kontatu atzeraka {number}tik (hasita|)
+eu-eu,count-skill.countdown,kontatu atzeraka {number}etik (hasita|)
+eu-eu,count-skill.countdown,kontatu atzeraka {number}retik (hasita|)
+eu-eu,iss-tracker-skill.tracker.iss,(Aurkitu|kokatu|non dago) (Nazioarteko Espazio Estazioa|ISS|I Ese Ese)
+eu-eu,wikiquote-skill.random,Jakinduria (pixka|apur) bat (behar dut|)
+eu-eu,wikiquote-skill.random,(eman|emadazu|emaidazu|esan|esadazu|esaidazu) aipuren bat
+eu-eu,wikiquote-skill.specific,(eman|emadazu|emaidazu|esan|esadazu|esaidazu) {subject}(en|ren) (esaldi|aipu) bat

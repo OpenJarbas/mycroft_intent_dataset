@@ -1,0 +1,513 @@
+{
+  "fr-fr": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Boule de cristal",
+      "Miroir Miroir"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "futur|\u00e0 venir",
+      "demain"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "Dis-moi",
+      "quoi|ce que|ce qui|qu'est-ce que"
+    ],
+    "Number-Guess-Mycroft-Skill.NumberGuess": [
+      "Devine le (nombre|num\u00e9ro)",
+      "jeu de devinette des (nombres|num\u00e9ro)"
+    ],
+    "Number-Guess-Mycroft-Skill.Play": [
+      "Joue",
+      "Lance un jeu"
+    ],
+    "Number-Guess-Mycroft-Skill.Suggest": [
+      "Allons|nous allons",
+      "Laisse nous",
+      "Pourquoi ne pas",
+      "Et si nous",
+      "Nous devrions"
+    ],
+    "aircrack.Clients": [
+      "client",
+      "clients",
+      "connexion",
+      "connexions"
+    ],
+    "aircrack.Crack": [
+      "casser",
+      "pirater"
+    ],
+    "aircrack.Deauth": [
+      "d\u00e9s-authentifier",
+      "d\u00e9s-authentifie",
+      "d\u00e9connecter",
+      "d\u00e9s-authentifier",
+      "d\u00e9s-authentifie"
+    ],
+    "aircrack.Interface": [
+      "p\u00e9riph\u00e9riques",
+      "interfaces",
+      "p\u00e9riph\u00e9rique",
+      "interface"
+    ],
+    "aircrack.List": [
+      "liste",
+      "explorer"
+    ],
+    "aircrack.Monitor": [
+      "surveiller",
+      "contr\u00f4ler",
+      "vider",
+      "vidage"
+    ],
+    "aircrack.Network": [
+      "r\u00e9seaux sans fil",
+      "r\u00e9seaux",
+      "r\u00e9seau sans fil",
+      "r\u00e9seau",
+      "r\u00e9seau wifi",
+      "r\u00e9seaux wifi"
+    ],
+    "aircrack.Password": [
+      "mot de passe",
+      "mot de passe"
+    ],
+    "aircrack.Select": [
+      "s\u00e9lectionner",
+      "utiliser"
+    ],
+    "aircrack.Start": [
+      "d\u00e9marrer",
+      "commencer"
+    ],
+    "aircrack.Stop": [
+      "arr\u00eater",
+      "fin"
+    ],
+    "cocktail.Again": [
+      "encore"
+    ],
+    "cocktail.Ingredients": [
+      "ingr\u00e9dient",
+      "ingr\u00e9dients"
+    ],
+    "cocktail.TellMe": [
+      "quels sont",
+      "dis moi"
+    ],
+    "cocktail.What": [
+      "quel \u00e9tait",
+      "qu'est ce qui \u00e9tait"
+    ],
+    "cut-up-skill.CutUp": [
+      "D\u00e9coupe",
+      "Al\u00e9a"
+    ],
+    "cut-up-skill.Maximum": [
+      "Maximum"
+    ],
+    "cut-up-skill.Minimum": [
+      "Minimum"
+    ],
+    "cut-up-skill.Randomness": [
+      "al\u00e9a"
+    ],
+    "cut-up-skill.Set": [
+      "D\u00e9finir",
+      "Configuration",
+      "D\u00e9finir la configuration"
+    ],
+    "ddg.More": [
+      "dis-m'en plus",
+      "en savoir plus",
+      "continuer"
+    ],
+    "decide-skill.DecideKeyword": [
+      "D\u00e9cide",
+      "Que dois-je porter",
+      "Que dois-je manger",
+      "jeu"
+    ],
+    "fallback-aiml.Memory": [
+      "cerveau",
+      "m\u00e9moire",
+      "esprit",
+      "tout"
+    ],
+    "fallback-aiml.Reset": [
+      "oublier",
+      "effacer"
+    ],
+    "krunner-search-skill.CalculateKeyword": [
+      "calculer "
+    ],
+    "krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword": [
+      "cherche cet ordinateur pour",
+      "chercher ",
+      "chercher dans l'ordinateur",
+      "chercher le fichier",
+      "chercher le fichier",
+      "chercher avec le nom du fichier",
+      "chercher dans tout l'ordinateur",
+      "chercher dans le syst\u00e8me",
+      "syst\u00e8me",
+      "recherche syst\u00e8me",
+      "recherche le fichier dans le syst\u00e8me",
+      "trouver le fichier"
+    ],
+    "krunner-search-skill.RecentFileKeyword": [
+      "afficher r\u00e9cemment ",
+      "afficher les fichiers r\u00e9cemment ouverts",
+      "afficher les documents r\u00e9cemment ouverts",
+      "documents r\u00e9cemment ouverts",
+      "fichiers r\u00e9cemment ouverts"
+    ],
+    "laugh.Laugh": [
+      "rire",
+      "ris",
+      "ris",
+      "rire"
+    ],
+    "laugh.Stop": [
+      "abandonner",
+      "Annuler",
+      "stop"
+    ],
+    "lifx-mycroft.Brightness": [
+      "luminosit\u00e9",
+      "luminosit\u00e9"
+    ],
+    "lifx-mycroft.Decrease": [
+      "assombrir",
+      "sombre",
+      "p\u00e2lir",
+      "att\u00e9nuer",
+      "obscurcir",
+      "diminuer",
+      "vers le bas"
+    ],
+    "lifx-mycroft.Increase": [
+      "augmenter la luminosit\u00e9",
+      "augmenter l'\u00e9clairage",
+      "illuminer",
+      "intensifier",
+      "augmenter",
+      "vers le haut"
+    ],
+    "lifx-mycroft.Off": [
+      "arr\u00eat",
+      "d\u00e9sactiver"
+    ],
+    "lifx-mycroft.On": [
+      "marche",
+      "activer"
+    ],
+    "lifx-mycroft.Saturation": [
+      "saturation",
+      "intensit\u00e9"
+    ],
+    "lifx-mycroft.Temperature": [
+      "temp\u00e9rature",
+      "chaleur",
+      "temp\u00e9rature de couleur",
+      "kelvin",
+      "temp\u00e9rature de couleur"
+    ],
+    "lifx-mycroft.Turn": [
+      "tourner",
+      "r\u00e9gler",
+      "changer",
+      "mettre",
+      "mettre",
+      "faire"
+    ],
+    "list-manager-skill.add": [
+      "ajouter",
+      "cr\u00e9er"
+    ],
+    "list-manager-skill.del": [
+      "supprimer"
+    ],
+    "list-manager-skill.list": [
+      "Liste",
+      "listes"
+    ],
+    "list-manager-skill.what": [
+      "qui",
+      "quel"
+    ],
+    "plasma-activities-skill.ActivitiesCreateKeyword": [
+      "cr\u00e9er une nouvelle activit\u00e9",
+      "cr\u00e9er nouvelle activit\u00e9",
+      "cr\u00e9er activit\u00e9",
+      "d\u00e9marrer une nouvelle activit\u00e9",
+      "cr\u00e9er de nouvelles activit\u00e9s",
+      "d\u00e9marrer de nouvelles activit\u00e9s",
+      "cr\u00e9er des activit\u00e9s",
+      "nouvelle activit\u00e9",
+      "nouvelles activit\u00e9s"
+    ],
+    "plasma-activities-skill.ActivitiesRemoveKeyword": [
+      "supprimer activit\u00e9",
+      "supprimer l'activit\u00e9",
+      "supprimer activit\u00e9",
+      "supprimer l'activit\u00e9"
+    ],
+    "plasma-activities-skill.ActivitiesShowKeyword": [
+      "afficher les activit\u00e9s actuelles",
+      "afficher activit\u00e9s",
+      "activit\u00e9s",
+      "afficher activit\u00e9s courantes",
+      "afficher activit\u00e9s"
+    ],
+    "plasma-activities-skill.ActivitiesStopKeyword": [
+      "supprmer activit\u00e9 actuelle",
+      "supprimer activit\u00e9"
+    ],
+    "plasma-activities-skill.ActivitiesSwitchKeyword": [
+      "changer l'activit\u00e9 actuelle",
+      "changer d'activit\u00e9",
+      "changer activit\u00e9"
+    ],
+    "pokemon-skill.Ability": [
+      "aptitude",
+      "comp\u00e9tences"
+    ],
+    "pokemon-skill.AbilityEffectEntry": [
+      "information d\u00e9taill\u00e9e",
+      "information d\u00e9taill\u00e9e"
+    ],
+    "pokemon-skill.AbilityEffectEntryShort": [
+      "quelques informations",
+      "quelques informations",
+      "information",
+      "Information"
+    ],
+    "pokemon-skill.AbilityFlavorText": [
+      "texte de saveur",
+      "le pokedex dit",
+      "pok\u00e9dex"
+    ],
+    "pokemon-skill.Against": [
+      "contre"
+    ],
+    "pokemon-skill.Attack": [
+      "attaque"
+    ],
+    "pokemon-skill.Base": [
+      "base",
+      "Stat de la base",
+      "Statistiques de la base"
+    ],
+    "pokemon-skill.CaptureRate": [
+      "capture",
+      "taux de capture",
+      "taux de capture",
+      "attrape",
+      "taux de capture"
+    ],
+    "pokemon-skill.Color": [
+      "couleur"
+    ],
+    "pokemon-skill.Defense": [
+      "d\u00e9fense"
+    ],
+    "pokemon-skill.Effective": [
+      "effet",
+      "efficacit\u00e9",
+      "correct",
+      "mauvais",
+      "dommage"
+    ],
+    "pokemon-skill.Egg": [
+      "\u0153uf",
+      "groupe d'\u0153ufs",
+      "oeufs",
+      "groupes d'\u0153ufs",
+      "\u00e9clos de",
+      "\u00e9clos",
+      "\u00e9closes"
+    ],
+    "pokemon-skill.EnglishLength": [
+      "m\u00e8tres",
+      "pouces"
+    ],
+    "pokemon-skill.EnglishWeight": [
+      "poids"
+    ],
+    "pokemon-skill.Evolve": [
+      "\u00e9voluer",
+      "\u00e9volution",
+      "\u00e9volue",
+      "provient",
+      "Tour"
+    ],
+    "pokemon-skill.Experience": [
+      "exp\u00e9rience",
+      "e x p",
+      "exp",
+      "points d'exp\u00e9rience",
+      "points d'exp\u00e9rience",
+      "exp\u00e9riment\u00e9"
+    ],
+    "pokemon-skill.Final": [
+      "Final",
+      "dernier"
+    ],
+    "pokemon-skill.First": [
+      "base",
+      "premi\u00e8re",
+      "simple",
+      "plus simple"
+    ],
+    "pokemon-skill.Form": [
+      "formulaire"
+    ],
+    "pokemon-skill.From": [
+      "de",
+      "avant",
+      "pr\u00e9c\u00e9dent"
+    ],
+    "pokemon-skill.Game": [
+      "jeu",
+      "version de pokemon",
+      "g\u00e9n\u00e9ration",
+      "gen"
+    ],
+    "pokemon-skill.HP": [
+      "points de vie",
+      "h p",
+      "sant\u00e9"
+    ],
+    "pokemon-skill.Habitat": [
+      "habitat",
+      "vit",
+      "vivre",
+      "domicile"
+    ],
+    "pokemon-skill.Happiness": [
+      "bonheur",
+      "heureux",
+      "sentir",
+      "sentiment",
+      "amiti\u00e9",
+      "sympathique"
+    ],
+    "pokemon-skill.Height": [
+      "taille",
+      "grand",
+      "grande"
+    ],
+    "pokemon-skill.ID": [
+      "pok\u00e9dex",
+      "id",
+      "nombre",
+      "i d"
+    ],
+    "pokemon-skill.Into": [
+      "dans",
+      "vers",
+      "suivant",
+      "apr\u00e8s",
+      "quand",
+      "sera",
+      "comment"
+    ],
+    "pokemon-skill.Introduced": [
+      "pr\u00e9sent\u00e9",
+      "premi\u00e8re vue"
+    ],
+    "pokemon-skill.Learn": [
+      "apprends"
+    ],
+    "pokemon-skill.MetricLength": [
+      "m\u00e8tres",
+      "c m",
+      "centim\u00e8tre"
+    ],
+    "pokemon-skill.MetricWeight": [
+      "kilogrammes",
+      "kilo-grammes",
+      "grammes",
+      "kilogramme",
+      "kilo gramme"
+    ],
+    "pokemon-skill.Move": [
+      "d\u00e9placer"
+    ],
+    "pokemon-skill.Nature": [
+      "nature",
+      "comme"
+    ],
+    "pokemon-skill.Pokemon": [
+      "Pok\u00e9mon"
+    ],
+    "pokemon-skill.Shape": [
+      "forme",
+      "fa\u00e7onn\u00e9"
+    ],
+    "pokemon-skill.Special": [
+      "sp\u00e9cial"
+    ],
+    "pokemon-skill.Speed": [
+      "vitesse",
+      "rapide"
+    ],
+    "pokemon-skill.Type": [
+      "type",
+      "types"
+    ],
+    "pokemon-skill.Weight": [
+      "poids",
+      "peser",
+      "lourd",
+      "p\u00e8se",
+      "masse",
+      "mati\u00e8re grasse"
+    ],
+    "remember-skill.All": [
+      "Tout"
+    ],
+    "remember-skill.Did": [
+      "fait"
+    ],
+    "remember-skill.Forget": [
+      "oublier"
+    ],
+    "remember-skill.Phrase": [
+      "phrase",
+      "phrases"
+    ],
+    "remember-skill.Remember": [
+      "rappelles toi"
+    ],
+    "remember-skill.You": [
+      "toi"
+    ],
+    "speedtest-skill.Run": [
+      "Ex\u00e9cuter"
+    ],
+    "speedtest-skill.Speedtest": [
+      "speedtest",
+      "test de vitesse"
+    ],
+    "white-house-adventure.Delete": [
+      "supprimer"
+    ],
+    "white-house-adventure.Play": [
+      "jouer",
+      "aller \u00e0",
+      "aller \u00e0"
+    ],
+    "white-house-adventure.Save": [
+      "(sauvegarder|enregistrer)",
+      "(sauvegarder|enregistrer) le jeu",
+      "(sauvegard\u00e9|enregistr\u00e9)"
+    ],
+    "white-house-adventure.Zork": [
+      "zork",
+      "bo\u00eete aux lettres",
+      "maison blanche"
+    ]
+  }
+}

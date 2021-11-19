@@ -1,0 +1,127 @@
+nl-nl,auto-volume-skill.activate,Activeer automatische geluidssterkte
+nl-nl,auto-volume-skill.activate,Zet automatisch geluidsniveau aan
+nl-nl,auto-volume-skill.activate,Schakel automatisch geluidsniveau in
+nl-nl,auto-volume-skill.activate,Zet automatisch geluidsniveau (op) aan
+nl-nl,auto-volume-skill.deactivate,Automatisch geluidsniveau uitschakelen
+nl-nl,auto-volume-skill.deactivate,Zet het automatisch geluidsniveau uit
+nl-nl,auto-volume-skill.deactivate,Automatisch geluidsniveau uitschakelen
+nl-nl,auto-volume-skill.deactivate,Schakel automatisch geluidsniveau (op) uit
+nl-nl,auto-volume-skill.reset,Verwijder automatische geluidsmetingen
+nl-nl,auto-volume-skill.reset,Verwijder automatische geuildsmetingen
+nl-nl,auto-volume-skill.reset,Herstel de automatische geluidsmetingen
+nl-nl,cocktail.Needed,wat is nodig om een {drink} te maken
+nl-nl,cocktail.Needed,wat heb (ik|je) nodig (voor|om) een {drink} (te maken)?
+nl-nl,cocktail.Needed,wat (zijn de|is het) (ingredienten|ingredient) (van|voor) een {drink}
+nl-nl,cocktail.Recipie,hoe moet (ik|je) een {drink} (maken|mixen)
+nl-nl,cocktail.Recipie,vertel (me|ons) hoe je een {drink} (maakt|mixt)
+nl-nl,cocktail.Recipie,geef (mij |ons) instructies voor (een | ) {drink}
+nl-nl,cocktail.Recipie,hoe (maak |mix) je (een | ) {drink}
+nl-nl,cocktail.Recipie,wat is het recept voor (een | ) {drink}
+nl-nl,count-skill.count,Tel tot {number}
+nl-nl,count-skill.countdown,Aftellen (van|vanaf) {number}
+nl-nl,count-skill.countdown,Aftellen (van|vanaf) {number}
+nl-nl,count-skill.countdown,Terug tellen (van|vanaf) {number}
+nl-nl,count-skill.countdown,Terug tellen (van|vanaf) {number}
+nl-nl,count-skill.countdown,Tel terug (van|vanaf) {number}
+nl-nl,count-skill.countdown,Tel af (van|vanaf) {number}
+nl-nl,count-skill.countdown,Tel terug (van|vanaf) {number}
+nl-nl,dice-skill.Dice,rol ({count}|) d {type} (+|plus|) ({modifier}|)
+nl-nl,dice-skill.NormalDice,rol ({count}l) (dobbelsteen|dobbelstenen)
+nl-nl,dice-skill.Range,Genereer een willekeurig nummer van {low} tot {high}
+nl-nl,dice-skill.Range,Genereer een willekeurig nummer tussen {low} en {high}
+nl-nl,dice-skill.Range,Geef mij een nummer tussen {low} en {high}
+nl-nl,dice-skill.Range,Vertel mij een nummer tussen {low} en {high}
+nl-nl,email-skill.check.email,cointroleer mijn e-mail
+nl-nl,email-skill.check.email,controleer mijn e-mail
+nl-nl,email-skill.check.email,heb ik nog nieuwe mails
+nl-nl,email-skill.check.email,heb ik nieuwe e-mails
+nl-nl,email-skill.check.email,Heb ik nog nieuwe mail
+nl-nl,email-skill.enquire.email,Heb ik mail van {email}
+nl-nl,email-skill.enquire.email,heb ik (een | ) E-mail van {email}
+nl-nl,email-skill.enquire.email,Heb ik mail ontvangen van {email}
+nl-nl,email-skill.notify,Vertel me over (mail | E-mail)
+nl-nl,email-skill.notify,vertel me wanneer ik een (mail | E-mail | nieuwe mail | nieuwe E-mail) ontvang
+nl-nl,email-skill.notify,vertel me wanneer ik ( een mail | een E-mail) ontvang van {sender}
+nl-nl,email-skill.notify,vertel me over de (mail | E-mail) van {sender}
+nl-nl,email-skill.notify,verwittig me bij een (mail | E-mail | nieuwe mail | nieuwe E-mail)
+nl-nl,email-skill.notify,meld mij als ik (mail | email | niewe mail) (van | door) {sender}
+nl-nl,email-skill.notify,laat me weten wanneer ik een (mail | E-mail | nieuwe mail | nieuwe E-mail) ontvang
+nl-nl,email-skill.notify,vertel me wanneer ik ( een mail | een E-mail) ontvang van {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail)
+nl-nl,email-skill.stop,verwittig me net meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail) (van | door | afkomstig van) {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail)
+nl-nl,email-skill.stop,verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail) (van | door | afkomstig van) {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail)
+nl-nl,email-skill.stop,verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail) (van | door | afkomstig van) {sender}
+nl-nl,email-skill.stop,verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail)
+nl-nl,email-skill.stop,verwittig me niet meer bij een (mail | E-mail | nieuwe mail | nieuwe E-mail) (van | door | afkomstig van) {sender}
+nl-nl,emby-skill.diagnostic,Check de (emby|mb|mv|nv|emily) connectie
+nl-nl,emby-skill.diagnostic,Draai diagnose (emby|mb|mv|nv|emily)
+nl-nl,emby-skill.diagnostic,check (emby|mb|mv|nv|emily)
+nl-nl,emby-skill.emby,speelt {media} van emby
+nl-nl,emby-skill.emby,speelt {media} van mb
+nl-nl,emby-skill.emby,Speel artiest {artist} op Emby
+nl-nl,emby-skill.emby,speel artist {artist} op mb
+nl-nl,emby-skill.emby,Speel album {album} van emby.
+nl-nl,emby-skill.emby,Speel album {album} van mb
+nl-nl,fairytalez-skill.continue,Verdergaan met het verhaal
+nl-nl,fairytalez-skill.continue,Ga verder met verhalen te vertellen
+nl-nl,fairytalez-skill.continue,Verdergaan met sprookje
+nl-nl,fairytalez-skill.continue,Verdergaan met sprookje te vertellen
+nl-nl,fairytalez-skill.continue,Verdergaan met sprookje
+nl-nl,fairytalez-skill.continue,Verdergaan met het sprookje
+nl-nl,fairytalez-skill.continue,Verdergaan met het sprookje
+nl-nl,fairytalez-skill.fairytalez,(Lees|Vertel) (mij| ) een (goed|leuk| ) (verhaaltje|sprookje) voor
+nl-nl,fairytalez-skill.fairytalez,Lees (aan mij| ) het (verhaal|verhaaltje) {tale} voor
+nl-nl,homeassistant.set.climate,zet de {entity} op {temp} graden
+nl-nl,homeassistant.set.climate,stel de {entity} temperatuur in op {temp} graden
+nl-nl,homeassistant.set.climate,verander de {entity} temperatuur naar {temp} graden
+nl-nl,homeassistant.set.light.brightness,zet (de )?helderheid van {{entity}} op {{brightnessvalue}} procent
+nl-nl,iss-tracker-skill.tracker.iss,Waar is het internationaal ruimtestation?
+nl-nl,iss-tracker-skill.tracker.iss,Zoek I S S
+nl-nl,iss-tracker-skill.tracker.iss,Waar is het I S S
+nl-nl,laugh.Laugh,lach als alexa
+nl-nl,laugh.Laugh,kan jij lachen
+nl-nl,laugh.Laugh,kwaadaardig(e)? (lach|lachen|gelach)
+nl-nl,laugh.RandomLaugh,lach willekeurig
+nl-nl,laugh.RandomLaugh,trigger (een)? willekeurig(e)? (lach|lachen|gelach)
+nl-nl,laugh.RandomLaugh,willekeurig(e)? (lach|lachen|gelach)
+nl-nl,mark-2.brightness,dim (the|your) ogen tot {brightness} (percent|)
+nl-nl,mark-2.brightness,dim tot {brightness}(percent|)
+nl-nl,mark-2.brightness,verlaag de (brightness|illumination) van je ogen tot {brightness}(percent|)
+nl-nl,mark-2.brightness,zet (the|)(brightness|illumination) (down|up) tot {brightness} (percent|)
+nl-nl,mark-2.brightness,zet (down|up) (the|) (brightness|illumination) to {brightness} (percent|)
+nl-nl,mark-2.brightness,licht het op(een beetje|) tot {brightness} (procent )
+nl-nl,mark-2.brightness,(verander|zet|switch) naar {brightness} (procent) (oog|) (helderheid|verlichting)
+nl-nl,mark-2.brightness,(verander|zet|switch) (de|jou) (eye |) (helderheid|verlichting) (level|) naar {brightness} (procent|)
+nl-nl,mark-2.brightness,(verander|zet|switch) (het|jou) (oog|) (helderheid|verlichting) (level|)
+nl-nl,mark-2.brightness,je bent (ook|) (helder|gedimd)
+nl-nl,mark-2.brightness,je bent (ook |) (helder | gedimd)
+nl-nl,mark-2.brightness,maak het helder
+nl-nl,mark-2.brightness,dim het een beetje
+nl-nl,mark-2.brightness.auto,Zet helderheid op automatisch 
+nl-nl,mark-2.brightness.auto,Automatische helderheid 
+nl-nl,mark-2.device.brightness.settings,Laat de helderheidsinstellingen zien
+nl-nl,mark-2.device.brightness.settings,Laat de helderheidsinstellingen van het apparaat zien
+nl-nl,mark-2.device.homescreen.settings,Laat de instellingen van het thuisscherm zien
+nl-nl,mark-2.device.homescreen.settings,toon (home|rust|inactief) (scherm|gezicht|pagina) instellingen
+nl-nl,mark-2.device.homescreen.settings,toon (home|rust|inactief) (scherm|gezicht|pagina) instellingen
+nl-nl,mark-2.device.reset.settings,toon fabrieksinstellingen
+nl-nl,mark-2.device.reset.settings,de fabrieksinstellingen voor het apparaat weergeven
+nl-nl,mark-2.device.settings,Laat apparaatinstellingen zien
+nl-nl,mark-2.device.settings,Open instellingen 
+nl-nl,mark-2.device.ssh.settings,Laat de ssh instellingen zien
+nl-nl,mark-2.device.ssh.settings,Laat de ssh instellingen van dit apparaat zien
+nl-nl,mark-2.device.wifi.settings,toon draadloos scherm
+nl-nl,mark-2.device.wifi.settings,Laat de draadloze instellingen zien
+nl-nl,mark-2.device.wifi.settings,Laat de wifi instellingen zien
+nl-nl,mark-2.device.wifi.settings,show wifi screen
+nl-nl,wikiquote-skill.random,geef me (een|wat) (citaat|wijsheid)
+nl-nl,wikiquote-skill.random,geef me (een|wat) (citaat|wijsheid)
+nl-nl,wikiquote-skill.random,Ik heb wijsheid nodig
+nl-nl,wikiquote-skill.specific,geef me (een citaat|wat wijsheid) over {subject}
+nl-nl,wikiquote-skill.specific,geef me (een citaat|wat wijsheid) over {subject}
+nl-nl,wikiquote-skill.specific,Ik heb (een citaat|wat wijsheid) nodig over {subject}
+nl-nl,wikiquote-skill.specific,geef me een citaat (van|over) {subject}
+nl-nl,wikiquote-skill.specific,geef me een citaat (van|over) {subject}
+nl-nl,wikiquote-skill.specific,ik heb een citaat nodig (van|over) {subject}

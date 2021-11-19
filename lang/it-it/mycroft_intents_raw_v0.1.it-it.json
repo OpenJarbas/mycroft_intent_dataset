@@ -1,0 +1,239 @@
+{
+  "it-it": {
+    "auto-volume-skill.activate": [
+      "(Attiva|Attivare) il volume automatico",
+      "(Impostare|Imposta|Settare|Setta) (|il) volume automatico (|su) attivo",
+      "(Accendere|Accendi) (|il) volume automatico",
+      "(Impostare|Imposta|Settare|Setta) (|il) volume automatico (su) acceso"
+    ],
+    "auto-volume-skill.deactivate": [
+      "(Disattiva|Disattivare) il volume automatico",
+      "(Imposta|Impostare) il volume automatico su inattivo",
+      "(Spegnere|Spegni) (|il) volume automatico",
+      "(Impostare|Imposta|Metti) il volume automatico (su) spento"
+    ],
+    "auto-volume-skill.reset": [
+      "Pulisci (|le) (misure|misurazioni) (|del) volume automatico",
+      "Cancella le misure (di|del) volume automatico",
+      "Reimposta le (misure|misurazioni) (di|del) volume automatico"
+    ],
+    "cocktail.Needed": [
+      "che cosa server per fare (un|una) {drink}",
+      "che cosa (mi|) serve (per|per fare) (un|una) {drink}",
+      "quali sono gli ingredienti del {drink}"
+    ],
+    "cocktail.Recipie": [
+      "come (io|tu) (potrei|fare) (fare|mescolare) (un|uno) {drink}",
+      "dimmi come (fare|preparare) (un|uno) {drink}",
+      "dammi istruzioni per (un|uno) {drink}",
+      "come (fare|mixare) (un|uno) {drink}",
+      "qual'\u00e8 la ricetta per (un|uno) {drink}"
+    ],
+    "count-skill.count": [
+      "Conta fino a {number}"
+    ],
+    "count-skill.countdown": [
+      "Conto alla rovescia da {number}",
+      "Conta indietro da {number}",
+      "Conta all'indietro da {number}",
+      "Conta indietro da {number}",
+      "Conto alla rovescia da {number}",
+      "Da {number} conta indietro",
+      "Da {number} conta inverso"
+    ],
+    "dice-skill.Dice": [
+      "lancia ({count} |) d {type} (+|pi\u00f9|) ({modifier} |)"
+    ],
+    "dice-skill.NormalDice": [
+      "lancia ({count} |) (dadi|dado)"
+    ],
+    "dice-skill.Range": [
+      "Genera un numero casuale da {low} a {high}",
+      "Genera un numero casuale tra {low} e {high}",
+      "Dimmi un numero da {low} a {high}",
+      "Dimmi un numero tra {low} e {high} "
+    ],
+    "email-skill.check.email": [
+      "controlla la mia posta",
+      "controlla la mia posta.",
+      "ho nuova posta ",
+      "ho della posta",
+      "ho nuova posta"
+    ],
+    "email-skill.enquire.email": [
+      "Ho nuova posta da {email}",
+      "Ho della posta da {email}",
+      "Ho ricevuto della posta da {email}"
+    ],
+    "email-skill.notify": [
+      "controlla la (posta|email|nuova posta|email)",
+      "Avvisami quando arriva (posta|email|nuova posta|nuova email)",
+      "Avvisami quando arriva (nuova posta|una email|email) da {sender}",
+      "Controlla la (posta|email) da {sender}",
+      "Avvisami di (posta|email|nuova posta|nuove email)",
+      "Avvisami dell'arrivo di (posta|eamil|nuova posta|nuove emial) da {sender}",
+      "Avvisami quando ricevo (posta|email|nuova posta|nuove email)",
+      "Avvisami quando ricevo (posta|una email|email) da {sender}"
+    ],
+    "email-skill.stop": [
+      "Non notificarmi la (posta|mail|nuova posta|nuova mail)",
+      "Non notificarmi (posta|mail|nuova posta|nuove mail) da {sender}",
+      "non notificarmi pi\u00f9 le (mail|email|nuove mail|nuove email)",
+      "non notificarmi pi\u00f9 le (mail|email|nuove mail|nuove email) da {sender}",
+      "non notificarmi la (posta|mail|nuova posta|nuova mail)",
+      "non notificarmi la (posta|mail|nuova posta|nuova mail) da {sender}",
+      "non notificarmi pi\u00f9 la (posta|mail|nuova posta|nuova mail)",
+      "non notificarmi pi\u00f9 la (posta|mail|nuova posta|nuova mail) da {sender}"
+    ],
+    "emby-skill.diagnostic": [
+      "controlla la connessione a (emby|mb|mv|nv|emily)",
+      "Eseguire la diagnostica a (emby|mb|mv|nv|emily)",
+      "controllare (emby|mb|mv|nv|emily)"
+    ],
+    "emby-skill.emby": [
+      "suona {media} con emby",
+      "suona {media} su mb",
+      "riproduci l'artista {artist} da emby",
+      "riproduci l'artista {artist} da mb",
+      "riproduci l'album {album} da emby",
+      "riproduci l'album {album} da mb"
+    ],
+    "fairytalez-skill.continue": [
+      "Continua la storia",
+      "Continua a raccontare la storia",
+      "Continua la fiaba",
+      "Continua a raccontare la fiaba",
+      "Continua la fiaba",
+      "Continua con la fiaba",
+      "Continua con la fiaba"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "(Racoonta|Leggi)(mi| ) una (bella| ) (storia| favola)",
+      "(Racconta|Leggi)(mi| ) la storia {tale}"
+    ],
+    "iss-tracker-skill.tracker.iss": [
+      "Dov'\u00e8 la stazione spaziale internazionale",
+      "Trova la Stazione Spaziale Internazionale",
+      "Dove \u00e8 la Stazione Spaziale Internazionale"
+    ],
+    "laugh.Laugh": [
+      "ridi come alexa",
+      "puoi ridere",
+      "(risate|ridi|risata) malvagia"
+    ],
+    "laugh.RandomLaugh": [
+      "ridi casualmente",
+      "attivare (risata|risate|risa) casuali",
+      "(risate|ridi|risata) (casuali|casuale)"
+    ],
+    "mark-2.brightness": [
+      "abbassare (i|tuoi|gli) occhi al {brightness} (percento|)",
+      "abbassare al {brightness} (percento|)",
+      "abbassare la (luminosit\u00e0|illuminazione) dei tuoi occhi al {brightness} (percento|)",
+      "(alza|abbassa) (|la|l') (luminosit\u00e0|illuminazione) (a|al) {brightness} (percento|)",
+      "(abbassa|alza) (la|l) (luminosit\u00e0|illuminazione) al {brightness} (percento|)",
+      "aumenta (un po'|) (la luminosit\u00e0|l'illuminazione|la luce) (a|al) {brightness} (percento|)",
+      "(cambia|imposta|passa) (a|al) {brightness} (percento|per cento|) di (luminosit\u00e0|illuminazione|intensit\u00e0)",
+      "(cambia|setta|imposta|passa) (la|l'|)(luminosit\u00e0|illuminazione|intensit\u00e0) (degli|dei tuoi|) (occhi|) (|a|al) {brightness} (percento|)",
+      "(cambia|imposta|passa) (il|il tuo|la tua) (livello di|) (luminosit\u00e0|illuminazione|intensit\u00e0)",
+      "sei (troppo|) (luminoso|scuro)",
+      "sei (troppo|) (luminoso|fioco)",
+      "alza la luminosit\u00e0",
+      "abbassa la luminosit\u00e0"
+    ],
+    "mark-2.brightness.auto": [
+      "imposta la luminosit\u00e0 su automatico",
+      "luminosit\u00e0 automatica"
+    ],
+    "mark-2.device.brightness.settings": [
+      "mostra le impostazioni di luminosit\u00e0",
+      "mostra le impostazioni di luminosit\u00e0 del dispositivo"
+    ],
+    "mark-2.device.homescreen.settings": [
+      "mostra le impostazioni di homescreen",
+      "(mostra|mostrami) le (impostazioni|preferenze) (della schermata|dello schermo|della faccia|del viso|della pagina) (home|inattivo|inattiva|a riposo)",
+      "(mostra|mostrami) le (impostazioni|preferenze) (della schermata|dello schermo|della faccia|del viso|della pagina) (home|inattivo|inattiva|a riposo) del dispositivo"
+    ],
+    "mark-2.device.reset.settings": [
+      "mostra le impostazioni di ripristino di fabbrica",
+      "mostra le impostazioni di ripristino dei dati di fabbrica del dispositivo"
+    ],
+    "mark-2.device.settings": [
+      "mostra le impostazioni del dispositivo",
+      "aprire le impostazioni"
+    ],
+    "mark-2.device.ssh.settings": [
+      "mostra le impostazioni ssh",
+      "mostra le impostazioni ssh del dispositivo"
+    ],
+    "mark-2.device.wifi.settings": [
+      "mostra lo schermo wireless",
+      "mostra le impostazioni wireless",
+      "mostra le impostazioni wifi",
+      "mostra la schermata wifi"
+    ],
+    "moviemaster.genre.movie.search": [
+      "(elenca|trova) (film|) (di|d'|) {genre}",
+      "(elenca|cerca|trova) film (di|d'|) {genre}"
+    ],
+    "moviemaster.genre.tv.search": [
+      "(dimmi|trova|quali sono) (programmi TV|programmi televisivi|programmi) (|di|del) {genre}",
+      "(elenco|cerca|trova|cercami|trovami) (|di) (serie TV|serie|show|show televisivi) {genre}"
+    ],
+    "moviemaster.movie.cast": [
+      "chi (recita|interpreta|c'\u00e8) nel (film|) {movie}"
+    ],
+    "moviemaster.movie.description": [
+      "di cosa parla (il film|) {movie}",
+      "(Dimmi|Dicci|Parlami|Parlaci|Raccontami|Raccontaci) del film {movie}",
+      "(cerca|trova|dammi|cercami|trovami) una (descrizione|sinossi) (di|del) (|film) {movie}",
+      " "
+    ],
+    "moviemaster.movie.genres": [
+      "A (che|quale|quali) (genere|generi) (pu\u00f2 appartenere|appartiene) ( |il film) {movie}",
+      "(Qual|quali) (\u00e8|sono) (il|i) (genere|generi) (del film|di) {movie}",
+      "di (quali|quale|che) (generi|genere) (\u00e8|sono) ( |il|i) ( |film) {movie}"
+    ],
+    "moviemaster.movie.information": [
+      "(cerca|trova|guarda|cercami|trovami|ci sono) (informazioni|info) (su|riguardo) (|il|al) (|film) {movie}",
+      "(dammi|dimmi|trova|cerca|trovami|cercami) (informazioni|info) (su|riguardo) (|il|al) (|film) {movie}",
+      "(hai|puoi trovare|puoi cercare) (|delle) (info|informazioni) (su|sul) (|film) {movie}"
+    ],
+    "moviemaster.movie.popular": [
+      "(Elenca|Cerca|Dimmi) ( |dei|di|i) film pi\u00f9 popolari",
+      "Quali sono i film pi\u00f9 popolari ( |in proiezione) (al momento|del momento|ora) ( |nei cinema|al cinema)"
+    ],
+    "moviemaster.movie.production": [
+      "(chi|quale compagnia|quale casa di produzione) (ha prodotto|ha fatto) il film {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "(raccomanda|raccomandami|consiglia|consigliami) (|dei|un) film (simili a|simile a|come|tipo) {movie}",
+      "(quali|quale) film (|mi) (raccomandi|raccomanderesti|consigli|consiglieresti) (simili a|simile a|come|tipo) {movie}",
+      "(raccomanda|raccomandami|consiglia|consigliami|trova|trovami|elenca|elencami) (|dei|un) (|bei|bel) film (simili a|simile a|come|tipo) {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "Quanto (dura|\u00e8 lungo) (il film|) {movie}",
+      "Qual \u00e8 la (durata|lunghezza) (del film|di) {movie}",
+      "(Quanto dura|Quanto \u00e8 lungo|Qual \u00e8 la( durata| lunghezza)) (del film|di|de) {movie}"
+    ],
+    "moviemaster.movie.top": [
+      "(elenca|quali sono|cerca) i (migliori|pi\u00f9 popolari|pi\u00f9 votati) film (in sala|nelle sale|al cinema|nei cinema) (in proiezione|fuori|disponibili) (|in questo momento|al momento|ora)"
+    ],
+    "moviemaster.movie.year": [
+      "(in quale anno|quando|in che anno) \u00e8 stato (fatto|realizzato|rilasciato) il film {movie}"
+    ],
+    "wikiquote-skill.random": [
+      "dimmi (qualche|una) (citazione|aforisma)",
+      "dammi (qualche|una) (citazione|aforisma)",
+      "Ho bisogno di qualche aforisma"
+    ],
+    "wikiquote-skill.specific": [
+      "dimmi (qualche|una) (citazione|aforisma) di {subject}",
+      "dammi (qualche|una) (citazione|aforisma) di {subject}",
+      "Ho bisogno di (qualche|una) (citazione|aforisma) di {subject}",
+      "dimmi una citazione (di|su) {subject}",
+      "dammi una citazione (di|su) {subject}",
+      "Ho bisogno di una citazione (di|su) {subject}"
+    ]
+  }
+}

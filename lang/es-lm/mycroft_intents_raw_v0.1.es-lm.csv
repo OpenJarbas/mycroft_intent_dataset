@@ -1,0 +1,41 @@
+es-lm,cocktail.Needed,qué se necesita para hacer un {drink}
+es-lm,cocktail.Needed,qué (hace falta|necesito|necesitas) para hacer un {drink}
+es-lm,cocktail.Needed,(cuáles son los ingredientes|cuál es el ingreditente) (de|para hacer) un {drink}
+es-lm,cocktail.Recipie,cómo (hago|haría|haces|harias) para (hacer|preparar) (un|una) {drink}
+es-lm,cocktail.Recipie,(cuéntame|dime|dinos|cuéntanos) como (hacer|preparar) (un|una) {drink}
+es-lm,cocktail.Recipie,(dame|dinos|danos) (las|) instrucciones para (hacer|preparar|) (un|una) {drink}
+es-lm,cocktail.Recipie,cómo (hacer|preparar|mezclar) (un|una) {drink}
+es-lm,cocktail.Recipie,cuál es la receta (de|para) (un|una) {drink}
+es-lm,email-skill.check.email,comprueba mi (email|correo electrónico).
+es-lm,email-skill.check.email,Revisa mi correo
+es-lm,email-skill.check.email,¿tengo algún correo nuevo?
+es-lm,email-skill.check.email,¿tengo algún (email|correo|correo electrónico)?
+es-lm,email-skill.check.email,¿tengo algún (email|correo|correo electrónico) nuevo?
+es-lm,email-skill.enquire.email,¿Tengo un correo electrónico de {email}?
+es-lm,email-skill.enquire.email,¿Recibí (cualquier |) correo electrónico (por|de) de {email}?
+es-lm,email-skill.enquire.email,¿He Recibido correos electrónicos de {email}?
+es-lm,email-skill.notify,Dime si hay (correo | correo electrónico | nuevo correo | email)
+es-lm,email-skill.notify,Dime cuando tenga (correo | correo electrónico | nuevo correo | email)
+es-lm,email-skill.notify,Dime cuando tenga (un correo | un correo electrónico | email) (de | por) {sender}
+es-lm,email-skill.notify,Dime de (correo | email) (de | por) {sender}
+es-lm,email-skill.notify,Notifícame de (correo | email | nuevo correo | nuevo email)
+es-lm,email-skill.notify,avísame cuando tenga (un|) (correo | correo electrónico | nuevo correo | email) (de | procedente de) {sender}
+es-lm,email-skill.notify,avísame cuando tenga (un|) (correo | correo electrónico | nuevo correo | email)
+es-lm,email-skill.notify,avísame cuando tenga (un|) (correo |correo electrónico |email) (de | procedente de) {sender}
+es-lm,email-skill.stop,No me notifiques de (correo | email | nuevo correo | nuevo email)
+es-lm,email-skill.stop,No me avises de (correo | correo electrónico | nuevo correo | email)  (de | procedente de) {sender}
+es-lm,email-skill.stop,No me notifiques de nuevo de (correo | email | nuevo correo | nuevo email)
+es-lm,email-skill.stop,No me notifiques de nuevo (correo | correo electrónico | nuevo correo | email) (de | procedente de) {sender}
+es-lm,email-skill.stop,No me avises de (correo | email | nuevo correo | nuevo email)
+es-lm,email-skill.stop,No me avises de (correo | correo electrónico | nuevo correo | email) (de | procedente de) {sender}
+es-lm,email-skill.stop,No me notifiques de nuevo de (correo | email | nuevo correo | nuevo email)
+es-lm,email-skill.stop,No vuelvas a notificarme de (un|) (correo | correo electrónico | nuevo correo | email) (de | procedente de) {sender}
+es-lm,emby-skill.diagnostic,comprobando (emby|mb|mv|nv|emily) conexión
+es-lm,emby-skill.diagnostic,Ejecutar diagnóstico de (emby|mb|mv|nv|emily)
+es-lm,emby-skill.diagnostic,comprobar (emby|mb|mv|nv|emily)
+es-lm,emby-skill.emby,Reproduce {media} en emby
+es-lm,emby-skill.emby,reproduce {media} en emby
+es-lm,emby-skill.emby,Pon (a|el artista| ) {artist} (en|por|de|desde) emby
+es-lm,emby-skill.emby,Pon (a|el artista| ) {artist} (en|por|de|desde) mb
+es-lm,emby-skill.emby,Pon ( |el album) {album} (en|por|desde) emby
+es-lm,emby-skill.emby,Pon ( |el album) {album} (en|por|de|desde) mb

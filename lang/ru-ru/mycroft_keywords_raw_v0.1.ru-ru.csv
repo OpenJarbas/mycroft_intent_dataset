@@ -1,0 +1,157 @@
+ru-ru,Crystal-Ball-Mycroft-Skill.CrystalBall,Кристальный шар
+ru-ru,Crystal-Ball-Mycroft-Skill.CrystalBall,Свет мой зеркальце
+ru-ru,Crystal-Ball-Mycroft-Skill.Future,будущее 
+ru-ru,Crystal-Ball-Mycroft-Skill.Future,завтра
+ru-ru,Crystal-Ball-Mycroft-Skill.Query,скажи мне 
+ru-ru,Crystal-Ball-Mycroft-Skill.Query,Что
+ru-ru,Number-Guess-Mycroft-Skill.NumberGuess,Угадай число
+ru-ru,Number-Guess-Mycroft-Skill.NumberGuess,игра угадай число 
+ru-ru,Number-Guess-Mycroft-Skill.Play,играй
+ru-ru,Number-Guess-Mycroft-Skill.Play,начни игру 
+ru-ru,Number-Guess-Mycroft-Skill.Suggest,давай
+ru-ru,Number-Guess-Mycroft-Skill.Suggest,давай мы 
+ru-ru,Number-Guess-Mycroft-Skill.Suggest,почему бы нам не 
+ru-ru,Number-Guess-Mycroft-Skill.Suggest,Как насчет нас
+ru-ru,Number-Guess-Mycroft-Skill.Suggest,Нам стоит
+ru-ru,aircrack.Clients,клиент
+ru-ru,aircrack.Clients,клиенты
+ru-ru,aircrack.Clients,соединение
+ru-ru,aircrack.Clients,соединения
+ru-ru,aircrack.Crack,сломай
+ru-ru,aircrack.Crack,взломай
+ru-ru,aircrack.Deauth,деаутентификация
+ru-ru,aircrack.Deauth,деаутентификация
+ru-ru,aircrack.Deauth,разъедини
+ru-ru,aircrack.Deauth,разъединять
+ru-ru,aircrack.Deauth,отмени удостоверение
+ru-ru,aircrack.Interface,устройства
+ru-ru,aircrack.Interface,интерфейсы
+ru-ru,aircrack.Interface,устройство
+ru-ru,aircrack.Interface,интерфейс
+ru-ru,aircrack.List,список
+ru-ru,aircrack.List,скан
+ru-ru,aircrack.Monitor,наблюдай
+ru-ru,aircrack.Monitor,наблюдение
+ru-ru,aircrack.Monitor,выложи
+ru-ru,aircrack.Monitor,выкладывать
+ru-ru,aircrack.Network,беспроводные сети
+ru-ru,aircrack.Network,сети
+ru-ru,aircrack.Network,беспроводная сеть
+ru-ru,aircrack.Network,сеть
+ru-ru,aircrack.Network,беспроводная интернет сеть
+ru-ru,aircrack.Network,беспроводные интернет сети
+ru-ru,aircrack.Password,пароль
+ru-ru,aircrack.Password,пароль
+ru-ru,aircrack.Select,выбери
+ru-ru,aircrack.Select,используй
+ru-ru,aircrack.Start,начни
+ru-ru,aircrack.Start,старт
+ru-ru,aircrack.Stop,стоп
+ru-ru,aircrack.Stop,конец
+ru-ru,cocktail.Again,еще раз 
+ru-ru,cocktail.Ingredients,ингредиент
+ru-ru,cocktail.Ingredients,ингредиенты
+ru-ru,cocktail.TellMe,что
+ru-ru,cocktail.TellMe,скажи мне
+ru-ru,cocktail.What,какой был
+ru-ru,cocktail.What,какие были
+ru-ru,cut-up-skill.CutUp,Мешаю
+ru-ru,cut-up-skill.Maximum,Максимальный
+ru-ru,cut-up-skill.Minimum,Минимальный
+ru-ru,cut-up-skill.Randomness,Случайный
+ru-ru,cut-up-skill.Set,Установи
+ru-ru,cut-up-skill.Set,Настрой
+ru-ru,cut-up-skill.Set,Установи настройку
+ru-ru,decide-skill.DecideKeyword,выбери
+ru-ru,decide-skill.DecideKeyword,Что мне стоит надеть
+ru-ru,decide-skill.DecideKeyword,Чего бы мне съесть
+ru-ru,decide-skill.DecideKeyword,игра
+ru-ru,fallback-aiml.Memory,мозг
+ru-ru,fallback-aiml.Memory,память
+ru-ru,fallback-aiml.Memory,сознание
+ru-ru,fallback-aiml.Memory,все
+ru-ru,fallback-aiml.Reset,забудь
+ru-ru,fallback-aiml.Reset,сбрось
+ru-ru,krunner-search-skill.CalculateKeyword,посчитай 
+ru-ru,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,найди в этом компьютере
+ru-ru,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,найди 
+ru-ru,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,найди в этом компьютере
+ru-ru,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,найди в файле
+ru-ru,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,найди в файле
+ru-ru,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,найди в файле
+ru-ru,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,найди в компьютере
+ru-ru,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,найди в системе
+ru-ru,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,система
+ru-ru,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,поиск системы
+ru-ru,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,системный поиск файла
+ru-ru,krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword,найди файл
+ru-ru,krunner-search-skill.RecentFileKeyword,покажи последний 
+ru-ru,krunner-search-skill.RecentFileKeyword,покажи последние файлы
+ru-ru,krunner-search-skill.RecentFileKeyword,покажи последние документы
+ru-ru,krunner-search-skill.RecentFileKeyword,недавние документы
+ru-ru,krunner-search-skill.RecentFileKeyword,недавние файлы
+ru-ru,lifx-mycroft.Brightness,яркость
+ru-ru,lifx-mycroft.Brightness,яркость света
+ru-ru,lifx-mycroft.Decrease,затемни
+ru-ru,lifx-mycroft.Decrease,сделай тусклым
+ru-ru,lifx-mycroft.Decrease,блёкнуть
+ru-ru,lifx-mycroft.Decrease,матовый
+ru-ru,lifx-mycroft.Decrease,зачерни
+ru-ru,lifx-mycroft.Decrease,уменьши
+ru-ru,lifx-mycroft.Decrease,вниз
+ru-ru,lifx-mycroft.Increase,увеличь яркость
+ru-ru,lifx-mycroft.Increase,освети
+ru-ru,lifx-mycroft.Increase,иллюминируй
+ru-ru,lifx-mycroft.Increase,усиль
+ru-ru,lifx-mycroft.Increase,увеличь
+ru-ru,lifx-mycroft.Increase,вверх
+ru-ru,lifx-mycroft.Off,отключи
+ru-ru,lifx-mycroft.Off,выключи
+ru-ru,lifx-mycroft.On,включи
+ru-ru,lifx-mycroft.On,включить
+ru-ru,lifx-mycroft.Saturation,насыщенность
+ru-ru,lifx-mycroft.Saturation,интенсивность
+ru-ru,lifx-mycroft.Temperature,температура 
+ru-ru,lifx-mycroft.Temperature,теплота
+ru-ru,lifx-mycroft.Temperature,цвет температуры
+ru-ru,lifx-mycroft.Temperature,келвин
+ru-ru,lifx-mycroft.Temperature,цвет температуры
+ru-ru,lifx-mycroft.Turn,повернуть
+ru-ru,lifx-mycroft.Turn,установи
+ru-ru,lifx-mycroft.Turn,поменяй
+ru-ru,lifx-mycroft.Turn,выбери
+ru-ru,lifx-mycroft.Turn,смени
+ru-ru,lifx-mycroft.Turn,сделай
+ru-ru,plasma-activities-skill.ActivitiesCreateKeyword,создай новую активность
+ru-ru,plasma-activities-skill.ActivitiesCreateKeyword,создай новую активность
+ru-ru,plasma-activities-skill.ActivitiesCreateKeyword,создай активность
+ru-ru,plasma-activities-skill.ActivitiesCreateKeyword,начни новую активность
+ru-ru,plasma-activities-skill.ActivitiesCreateKeyword,создай новые активности
+ru-ru,plasma-activities-skill.ActivitiesCreateKeyword,начни новые активности
+ru-ru,plasma-activities-skill.ActivitiesCreateKeyword,создай активности
+ru-ru,plasma-activities-skill.ActivitiesCreateKeyword,новая активность
+ru-ru,plasma-activities-skill.ActivitiesCreateKeyword,новые активности
+ru-ru,plasma-activities-skill.ActivitiesRemoveKeyword,удали активность
+ru-ru,plasma-activities-skill.ActivitiesRemoveKeyword,удали активность
+ru-ru,plasma-activities-skill.ActivitiesRemoveKeyword,сотри активность
+ru-ru,plasma-activities-skill.ActivitiesRemoveKeyword,убери активность
+ru-ru,plasma-activities-skill.ActivitiesShowKeyword,покажи действующие активности
+ru-ru,plasma-activities-skill.ActivitiesShowKeyword,покажи активности
+ru-ru,plasma-activities-skill.ActivitiesShowKeyword,активности
+ru-ru,plasma-activities-skill.ActivitiesShowKeyword,покажи текущие активности
+ru-ru,plasma-activities-skill.ActivitiesShowKeyword,покажи активности
+ru-ru,plasma-activities-skill.ActivitiesStopKeyword,убей текущую активность
+ru-ru,plasma-activities-skill.ActivitiesStopKeyword,убей активность
+ru-ru,plasma-activities-skill.ActivitiesSwitchKeyword,поменяй текущую активность
+ru-ru,plasma-activities-skill.ActivitiesSwitchKeyword,смени на активность
+ru-ru,plasma-activities-skill.ActivitiesSwitchKeyword,смени активность
+ru-ru,white-house-adventure.Delete,удали
+ru-ru,white-house-adventure.Play,Играй
+ru-ru,white-house-adventure.Play,иди
+ru-ru,white-house-adventure.Play,иди к
+ru-ru,white-house-adventure.Save,сохрани
+ru-ru,white-house-adventure.Save,сохрани игру
+ru-ru,white-house-adventure.Save,сохранено
+ru-ru,white-house-adventure.Zork,Зорк
+ru-ru,white-house-adventure.Zork,почтовый ящик
+ru-ru,white-house-adventure.Zork,белый дом

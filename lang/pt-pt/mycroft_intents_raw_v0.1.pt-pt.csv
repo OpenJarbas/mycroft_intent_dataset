@@ -1,0 +1,28 @@
+pt-pt,ddg.search_wolfie,pergunta ao pato {query}
+pt-pt,icanhazdadjokes.joke,diz-me uma anedota
+pt-pt,icanhazdadjokes.joke,diz-me umma piada
+pt-pt,icanhazdadjokes.joke,conta uma anedota
+pt-pt,icanhazdadjokes.joke,conta uma piada
+pt-pt,icanhazdadjokes.joke,sabes alguma anedota
+pt-pt,icanhazdadjokes.joke,sabes alguma piada
+pt-pt,icanhazdadjokes.joke,faz-me rir
+pt-pt,icanhazdadjokes.search_joke,diz-me uma anedota sobre {search}
+pt-pt,icanhazdadjokes.search_joke,diz-me uma piada sobre {search}
+pt-pt,icanhazdadjokes.search_joke,conta uma anedota sobre {search}
+pt-pt,icanhazdadjokes.search_joke,conta uma piada sobre {search}
+pt-pt,icanhazdadjokes.search_joke,sabes alguma anedota sobre {search}
+pt-pt,icanhazdadjokes.search_joke,sabes alguma piada sobre {search}
+pt-pt,laugh.Laugh,ri como a alexa
+pt-pt,laugh.Laugh,faz um riso malvado
+pt-pt,laugh.Laugh,risada malefica
+pt-pt,laugh.Laugh,ri te maleficamente
+pt-pt,laugh.Laugh,riso malefico
+pt-pt,laugh.Laugh,sabes rir-te
+pt-pt,laugh.Laugh,sabes rir te
+pt-pt,laugh.Laugh,sabes te rir
+pt-pt,laugh.Laugh,sabes-te rir
+pt-pt,laugh.Laugh,consegues rir
+pt-pt,laugh.Laugh,consegues rir te
+pt-pt,laugh.Laugh,consegues rir-te
+pt-pt,laugh.RandomLaugh,(ri|riso|ri te) (aleatoriamente|aleatorio|ocasional|ocasionalmente|as vezes)
+pt-pt,wolfie.search_wolfie,pergunta ao lobo {query}

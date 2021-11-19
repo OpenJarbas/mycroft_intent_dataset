@@ -1,0 +1,170 @@
+sv-se,Crystal-Ball-Mycroft-Skill.CrystalBall,kristallkula
+sv-se,Crystal-Ball-Mycroft-Skill.CrystalBall,Spegel spegel
+sv-se,Crystal-Ball-Mycroft-Skill.Future,framtid|framtiden
+sv-se,Crystal-Ball-Mycroft-Skill.Future,imorgon
+sv-se,Crystal-Ball-Mycroft-Skill.Query,berätta
+sv-se,Crystal-Ball-Mycroft-Skill.Query,Vad
+sv-se,Number-Guess-Mycroft-Skill.NumberGuess,Nummer gissning
+sv-se,Number-Guess-Mycroft-Skill.NumberGuess,nummergissningslek
+sv-se,Number-Guess-Mycroft-Skill.Play,Spela
+sv-se,Number-Guess-Mycroft-Skill.Play,Starta ett spel
+sv-se,Number-Guess-Mycroft-Skill.Suggest,Ska vi
+sv-se,Number-Guess-Mycroft-Skill.Suggest,Låt oss
+sv-se,Number-Guess-Mycroft-Skill.Suggest,Skulle vi inte
+sv-se,Number-Guess-Mycroft-Skill.Suggest,Vi kanske skulle
+sv-se,Number-Guess-Mycroft-Skill.Suggest,Vi borde
+sv-se,aircrack.Clients,klient
+sv-se,aircrack.Clients,klienter
+sv-se,aircrack.Clients,anslutning
+sv-se,aircrack.Clients,anslutningar
+sv-se,aircrack.Crack,hacka
+sv-se,aircrack.Deauth,koppla ner
+sv-se,aircrack.Interface,enheter
+sv-se,aircrack.Interface,gränssnitt
+sv-se,aircrack.Interface,enhet
+sv-se,aircrack.Interface,gränssnitt
+sv-se,aircrack.List,lista
+sv-se,aircrack.List,skanna
+sv-se,aircrack.Monitor,övervaka
+sv-se,aircrack.Monitor,övervakning
+sv-se,aircrack.Network,trådlösa nätverk
+sv-se,aircrack.Network,nätverk
+sv-se,aircrack.Network,trådlösa nätverk
+sv-se,aircrack.Network,nätverk
+sv-se,aircrack.Network,wifi nätverk
+sv-se,aircrack.Network,wifi nätverk
+sv-se,aircrack.Password,lösenord
+sv-se,aircrack.Password,lösenord
+sv-se,aircrack.Select,välj
+sv-se,aircrack.Select,använd
+sv-se,aircrack.Start,starta
+sv-se,aircrack.Start,börja
+sv-se,aircrack.Stop,stoppa
+sv-se,aircrack.Stop,slut
+sv-se,cocktail.Again,nu igen
+sv-se,cocktail.Ingredients,ingrediens
+sv-se,cocktail.Ingredients,ingredienser
+sv-se,cocktail.TellMe,vad är
+sv-se,cocktail.TellMe,berätta
+sv-se,cocktail.What,vad var
+sv-se,cocktail.What,vad var
+sv-se,decide-skill.DecideKeyword,Välj|bestäm
+sv-se,decide-skill.DecideKeyword,Vad ska jag ha på mig
+sv-se,decide-skill.DecideKeyword,Vad ska jag äta
+sv-se,decide-skill.DecideKeyword,spel
+sv-se,fallback-aiml.Memory,hjärna
+sv-se,fallback-aiml.Memory,minne
+sv-se,fallback-aiml.Memory,sinne
+sv-se,fallback-aiml.Memory,allting
+sv-se,fallback-aiml.Reset,glöm
+sv-se,fallback-aiml.Reset,återställ
+sv-se,fallback-unknown.question,vad är
+sv-se,fallback-unknown.question,vad kommer
+sv-se,fallback-unknown.question,vad var
+sv-se,fallback-unknown.question,vad gör
+sv-se,fallback-unknown.question,var är
+sv-se,fallback-unknown.question,vart är
+sv-se,fallback-unknown.question,var kommer
+sv-se,fallback-unknown.question,vart kommer
+sv-se,fallback-unknown.question,var gjorde
+sv-se,fallback-unknown.question,vart gjorde
+sv-se,fallback-unknown.question,var gör
+sv-se,fallback-unknown.question,vart gör
+sv-se,fallback-unknown.question,när är
+sv-se,fallback-unknown.question,när kommer
+sv-se,fallback-unknown.question,när gör
+sv-se,fallback-unknown.question,när gjorde
+sv-se,fallback-unknown.who.is,vem är
+sv-se,fallback-unknown.who.is,vem kommer
+sv-se,fallback-unknown.who.is,vem gjorde
+sv-se,fallback-unknown.who.is,vem gör
+sv-se,fallback-unknown.who.is,vem ska
+sv-se,fallback-unknown.why.is,varför är
+sv-se,fallback-unknown.why.is,varför ska
+sv-se,fallback-unknown.why.is,varför kommer
+sv-se,fallback-unknown.why.is,varför gjorde
+sv-se,fallback-unknown.why.is,varför gör
+sv-se,ip.IP,IP adress
+sv-se,ip.IP,IP-adress
+sv-se,ip.IP,IP
+sv-se,ip.IP,nätverksadress
+sv-se,ip.query,vad
+sv-se,ip.query,vilken
+sv-se,ip.query,berätta
+sv-se,ip.query,visa
+sv-se,laugh.Laugh,skratta
+sv-se,laugh.Laugh,skrattar
+sv-se,laugh.Laugh,skratt
+sv-se,laugh.Laugh,skratt
+sv-se,laugh.Stop,avbryt
+sv-se,laugh.Stop,avbryt
+sv-se,laugh.Stop,stopp
+sv-se,lifx-mycroft.Brightness,ljusstyrka
+sv-se,lifx-mycroft.Brightness,ljushet
+sv-se,lifx-mycroft.Decrease,gör mörkare
+sv-se,lifx-mycroft.Decrease,svag|svagt
+sv-se,lifx-mycroft.Decrease,sänk
+sv-se,lifx-mycroft.Decrease,dimma
+sv-se,lifx-mycroft.Decrease,gör mörkare
+sv-se,lifx-mycroft.Decrease,sänk
+sv-se,lifx-mycroft.Decrease,ner
+sv-se,lifx-mycroft.Increase,gör ljusare
+sv-se,lifx-mycroft.Increase,lys upp
+sv-se,lifx-mycroft.Increase,tänd
+sv-se,lifx-mycroft.Increase,intensifiera
+sv-se,lifx-mycroft.Increase,öka
+sv-se,lifx-mycroft.Increase,upp
+sv-se,lifx-mycroft.Off,av
+sv-se,lifx-mycroft.Off,stäng av
+sv-se,lifx-mycroft.On,på
+sv-se,lifx-mycroft.On,slå på
+sv-se,lifx-mycroft.Saturation,mättnad
+sv-se,lifx-mycroft.Saturation,intensitet
+sv-se,lifx-mycroft.Temperature,temperatur
+sv-se,lifx-mycroft.Temperature,värme
+sv-se,lifx-mycroft.Temperature,färgtemperatur
+sv-se,lifx-mycroft.Temperature,kelvin
+sv-se,lifx-mycroft.Temperature,färg temperatur
+sv-se,lifx-mycroft.Turn,ändra
+sv-se,lifx-mycroft.Turn,ställ
+sv-se,lifx-mycroft.Turn,sätt
+sv-se,lifx-mycroft.Turn,toggla
+sv-se,lifx-mycroft.Turn,byt
+sv-se,lifx-mycroft.Turn,gör
+sv-se,list-manager-skill.add,lägg till
+sv-se,list-manager-skill.add,skapa
+sv-se,list-manager-skill.del,ta bort
+sv-se,list-manager-skill.list,lista
+sv-se,list-manager-skill.list,listor
+sv-se,list-manager-skill.what,som
+sv-se,list-manager-skill.what,vad
+sv-se,personal.WhatAreYouKeyword,vad är du
+sv-se,personal.WhenWereYouBornKeyword,när föddes du
+sv-se,personal.WhenWereYouBornKeyword,när skapades du
+sv-se,personal.WhereWereYouBornKeyword,var föddes du
+sv-se,personal.WhereWereYouBornKeyword,var skapades du
+sv-se,personal.WhoAreYouKeyword,vem är du
+sv-se,personal.WhoMadeYouKeyword,vem skapade dig
+sv-se,personal.WhoMadeYouKeyword,vilka skapade dig
+sv-se,personal.WhoMadeYouKeyword,vem byggde dig
+sv-se,personal.WhoMadeYouKeyword,vilka byggde dig
+sv-se,remember-skill.All,Alla
+sv-se,remember-skill.Did,gjorde
+sv-se,remember-skill.Forget,glöm
+sv-se,remember-skill.Phrase,fras
+sv-se,remember-skill.Phrase,fraser
+sv-se,remember-skill.Remember,kom ihåg
+sv-se,remember-skill.You,du
+sv-se,speedtest-skill.Run,kör
+sv-se,speedtest-skill.Speedtest,hastighetstest
+sv-se,speedtest-skill.Speedtest,hastighets test
+sv-se,white-house-adventure.Delete,ta bort
+sv-se,white-house-adventure.Play,spela
+sv-se,white-house-adventure.Play,gå till
+sv-se,white-house-adventure.Play,gå till
+sv-se,white-house-adventure.Save,spara
+sv-se,white-house-adventure.Save,sparfil
+sv-se,white-house-adventure.Save,sparat
+sv-se,white-house-adventure.Zork,zork
+sv-se,white-house-adventure.Zork,bervlåda
+sv-se,white-house-adventure.Zork,vita huset

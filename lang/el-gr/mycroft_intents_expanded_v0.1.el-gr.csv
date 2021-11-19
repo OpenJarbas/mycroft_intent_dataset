@@ -1,0 +1,140 @@
+el-gr,auto-volume-skill.activate,Ενεργοποίησε την αυτόματη ένταση
+el-gr,auto-volume-skill.activate,Όρισε την αυτόματη ένταση σε ενεργή
+el-gr,auto-volume-skill.activate,Ενεργοποιήστε την αυτόματη ένταση
+el-gr,auto-volume-skill.activate,Όρισε την αυτόματη ένταση ( στο ) ενεργό
+el-gr,auto-volume-skill.deactivate,Απενεργοποίησε την αυτόματη ένταση
+el-gr,auto-volume-skill.deactivate,Απενεργοποιήστε την αυτόματη ένταση
+el-gr,auto-volume-skill.deactivate,Απενεργοποιήστε την αυτόματη ένταση
+el-gr,auto-volume-skill.deactivate,Θέστε την αυτόματη ένταση ( στο ) ανενεργό
+el-gr,auto-volume-skill.reset,Εκκαθάριση παραμέτρων αυτόματης έντασης
+el-gr,auto-volume-skill.reset,Διαφραφή παραμέτρων αυτόματης έντασης
+el-gr,auto-volume-skill.reset,Επαναφορά παραμέτρων αυτόματης έντασης
+el-gr,cocktail.Needed,τι χρειάζεται για να φτιάξω το {drink}
+el-gr,cocktail.Needed,τι χρειάζεται για να φτιάξω ένα {drink}
+el-gr,cocktail.Needed,τι χρειάζεσαι για να φτάξεις το {drink}
+el-gr,cocktail.Needed,τι χρειάζεσαι για να φτάξεις ένα {drink}
+el-gr,cocktail.Needed,τι χρειάζεσαι για να φτιάξω το {drink}
+el-gr,cocktail.Needed,τι χρειάζεσαι για να φτιάξω ένα {drink}
+el-gr,cocktail.Needed,τι χρειάζεσαι για το {drink}
+el-gr,cocktail.Needed,τι χρειάζεσαι για ένα {drink}
+el-gr,cocktail.Needed,τι χρειάζομαι για να φτάξεις το {drink}
+el-gr,cocktail.Needed,τι χρειάζομαι για να φτάξεις ένα {drink}
+el-gr,cocktail.Needed,τι χρειάζομαι για να φτιάξω το {drink}
+el-gr,cocktail.Needed,τι χρειάζομαι για να φτιάξω ένα {drink}
+el-gr,cocktail.Needed,τι χρειάζομαι για το {drink}
+el-gr,cocktail.Needed,τι χρειάζομαι για ένα {drink}
+el-gr,cocktail.Needed,ποια είναι τα ( συστατικά ) για το {drink}
+el-gr,cocktail.Needed,ποια είναι τα ( συστατικά ) για ένα {drink}
+el-gr,cocktail.Needed,ποια είναι τα ( συστατικά ) του το {drink}
+el-gr,cocktail.Needed,ποια είναι τα ( συστατικά ) του ένα {drink}
+el-gr,cocktail.Recipie,πώς φτιάχνεις το {drink}
+el-gr,cocktail.Recipie,πώς φτιάχνεις ένα {drink}
+el-gr,cocktail.Recipie,πώς φτιάχνω το {drink}
+el-gr,cocktail.Recipie,πώς φτιάχνω ένα {drink}
+el-gr,cocktail.Recipie,πες μας πώς να φτιάξουμε το {drink}
+el-gr,cocktail.Recipie,πες μας πώς να φτιάξουμε ένα {drink}
+el-gr,cocktail.Recipie,πες μας πώς να φτιάξω το {drink}
+el-gr,cocktail.Recipie,πες μας πώς να φτιάξω ένα {drink}
+el-gr,cocktail.Recipie,πες μου πώς να φτιάξουμε το {drink}
+el-gr,cocktail.Recipie,πες μου πώς να φτιάξουμε ένα {drink}
+el-gr,cocktail.Recipie,πες μου πώς να φτιάξω το {drink}
+el-gr,cocktail.Recipie,πες μου πώς να φτιάξω ένα {drink}
+el-gr,cocktail.Recipie,δώσε μας οδηγίες για το {drink}
+el-gr,cocktail.Recipie,δώσε μας οδηγίες για ένα {drink}
+el-gr,cocktail.Recipie,δώσε μου οδηγίες για το {drink}
+el-gr,cocktail.Recipie,δώσε μου οδηγίες για ένα {drink}
+el-gr,cocktail.Recipie,πώς να ( φτιάξω ) το {drink}
+el-gr,cocktail.Recipie,πώς να ( φτιάξω ) ένα {drink}
+el-gr,cocktail.Recipie,ποια είναι η συνταγή για το {drink}
+el-gr,cocktail.Recipie,ποια είναι η συνταγή για ένα {drink}
+el-gr,count-skill.count,Μέτρα ως το {number}
+el-gr,count-skill.countdown,Μέτρα αντίστροφα από το {number}
+el-gr,count-skill.countdown,Μέτρα αντίστροφα από το {number}
+el-gr,count-skill.countdown,Μέτρα αντίστροφα από το {number}
+el-gr,count-skill.countdown,Μέτρα αντίστροφα από το {number}
+el-gr,count-skill.countdown,Μέτρα αντίστροφα από το {number}
+el-gr,count-skill.countdown,Από το {number} μέτρα αντίστροφα
+el-gr,count-skill.countdown,Από το {number} μέτρα αντίστροφα
+el-gr,fairytalez-skill.continue,Συνεχίζω την ιστορία
+el-gr,fairytalez-skill.continue,Συνεχίζω την αφήγηση της ιστορίας
+el-gr,fairytalez-skill.continue,Συνεχίζω το παραμύθι
+el-gr,fairytalez-skill.continue,Συνεχίζω τη διήγηση του παραμυθιού
+el-gr,fairytalez-skill.continue,Συνεχίζω το παραμύθι
+el-gr,fairytalez-skill.continue,Συνεχίζω με το παραμύθι
+el-gr,fairytalez-skill.continue,Συνεχίζω με το παραμύθι
+el-gr,fairytalez-skill.fairytalez,Διάβασέ ένα καλό παραμύθι
+el-gr,fairytalez-skill.fairytalez,Διάβασέ ένα καλό ιστορία
+el-gr,fairytalez-skill.fairytalez,Διάβασέ ένα καλή παραμύθι
+el-gr,fairytalez-skill.fairytalez,Διάβασέ ένα καλή ιστορία
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μια καλό παραμύθι
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μια καλό ιστορία
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μια καλή παραμύθι
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μια καλή ιστορία
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μου ένα καλό παραμύθι
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μου ένα καλό ιστορία
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μου ένα καλή παραμύθι
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μου ένα καλή ιστορία
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μου μια καλό παραμύθι
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μου μια καλό ιστορία
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μου μια καλή παραμύθι
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μου μια καλή ιστορία
+el-gr,fairytalez-skill.fairytalez,Πες ένα καλό παραμύθι
+el-gr,fairytalez-skill.fairytalez,Πες ένα καλό ιστορία
+el-gr,fairytalez-skill.fairytalez,Πες ένα καλή παραμύθι
+el-gr,fairytalez-skill.fairytalez,Πες ένα καλή ιστορία
+el-gr,fairytalez-skill.fairytalez,Πες μια καλό παραμύθι
+el-gr,fairytalez-skill.fairytalez,Πες μια καλό ιστορία
+el-gr,fairytalez-skill.fairytalez,Πες μια καλή παραμύθι
+el-gr,fairytalez-skill.fairytalez,Πες μια καλή ιστορία
+el-gr,fairytalez-skill.fairytalez,Πες μου ένα καλό παραμύθι
+el-gr,fairytalez-skill.fairytalez,Πες μου ένα καλό ιστορία
+el-gr,fairytalez-skill.fairytalez,Πες μου ένα καλή παραμύθι
+el-gr,fairytalez-skill.fairytalez,Πες μου ένα καλή ιστορία
+el-gr,fairytalez-skill.fairytalez,Πες μου μια καλό παραμύθι
+el-gr,fairytalez-skill.fairytalez,Πες μου μια καλό ιστορία
+el-gr,fairytalez-skill.fairytalez,Πες μου μια καλή παραμύθι
+el-gr,fairytalez-skill.fairytalez,Πες μου μια καλή ιστορία
+el-gr,fairytalez-skill.fairytalez,Διάβασέ την ιστορία {tale}
+el-gr,fairytalez-skill.fairytalez,Διάβασέ μου την ιστορία {tale}
+el-gr,fairytalez-skill.fairytalez,Πες την ιστορία {tale}
+el-gr,fairytalez-skill.fairytalez,Πες μου την ιστορία {tale}
+el-gr,iss-tracker-skill.tracker.iss,Πού είναι ο διεθνής διαστημικός σταθμός
+el-gr,iss-tracker-skill.tracker.iss,Εντόπισε το Διεθνή Διαστημικό Σταθμό
+el-gr,iss-tracker-skill.tracker.iss,Πού είναι ο διαστημικός σταθμός
+el-gr,laugh.Laugh,γέλα σαν την αλέξα
+el-gr,laugh.Laugh,μπορείς να γελάσεις
+el-gr,laugh.Laugh,σατανικό ( γέλιο )
+el-gr,laugh.RandomLaugh,σπαστικό γέλιο
+el-gr,laugh.RandomLaugh,ρίξε ένα τυχαίο χαμόγελο
+el-gr,laugh.RandomLaugh,ρίξε ένα τυχαίο γέλωτα
+el-gr,laugh.RandomLaugh,ρίξε ένα τυχαίο γέλοιο
+el-gr,laugh.RandomLaugh,τυχαίο ( γέλοιο )
+el-gr,wikiquote-skill.random,πες μου μία παραπομπή
+el-gr,wikiquote-skill.random,πες μου μία γνωμικό
+el-gr,wikiquote-skill.random,πες μου ένα παραπομπή
+el-gr,wikiquote-skill.random,πες μου ένα γνωμικό
+el-gr,wikiquote-skill.random,δώσε μου μία παραπομπή
+el-gr,wikiquote-skill.random,δώσε μου μία γνωμικό
+el-gr,wikiquote-skill.random,δώσε μου ένα παραπομπή
+el-gr,wikiquote-skill.random,δώσε μου ένα γνωμικό
+el-gr,wikiquote-skill.random,Χρειάζομαι λίγη σοφία
+el-gr,wikiquote-skill.specific,πες μου μία {subject} σοφία
+el-gr,wikiquote-skill.specific,πες μου μία {subject} γνωμικό
+el-gr,wikiquote-skill.specific,πες μου ένα {subject} σοφία
+el-gr,wikiquote-skill.specific,πες μου ένα {subject} γνωμικό
+el-gr,wikiquote-skill.specific,πες μου κάποιο {subject} σοφία
+el-gr,wikiquote-skill.specific,πες μου κάποιο {subject} γνωμικό
+el-gr,wikiquote-skill.specific,δώσε μου μία {subject} σοφία
+el-gr,wikiquote-skill.specific,δώσε μου μία {subject} γνωμικό
+el-gr,wikiquote-skill.specific,δώσε μου ένα {subject} σοφία
+el-gr,wikiquote-skill.specific,δώσε μου ένα {subject} γνωμικό
+el-gr,wikiquote-skill.specific,δώσε μου κάποιο {subject} σοφία
+el-gr,wikiquote-skill.specific,δώσε μου κάποιο {subject} γνωμικό
+el-gr,wikiquote-skill.specific,Χρειάζομαι ένα {subject} σοφία
+el-gr,wikiquote-skill.specific,Χρειάζομαι ένα {subject} γνωμικό
+el-gr,wikiquote-skill.specific,πες μου ένα γνωμικό περί {subject}
+el-gr,wikiquote-skill.specific,πες μου ένα γνωμικό από {subject}
+el-gr,wikiquote-skill.specific,δώσε μου ένα γνωμικό περί {subject}
+el-gr,wikiquote-skill.specific,δώσε μου ένα γνωμικό από {subject}
+el-gr,wikiquote-skill.specific,Χρειάζομαι ένα γνωμικό περί {subject}
+el-gr,wikiquote-skill.specific,Χρειάζομαι ένα γνωμικό από {subject}

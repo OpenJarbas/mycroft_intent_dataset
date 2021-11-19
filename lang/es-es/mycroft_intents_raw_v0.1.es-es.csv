@@ -1,0 +1,153 @@
+es-es,auto-volume-skill.activate,Activar el volumen automático 
+es-es,auto-volume-skill.activate,Ajustar el volumen automático a activo 
+es-es,auto-volume-skill.activate,Enciende el volumen automático
+es-es,auto-volume-skill.activate,Ajusta el volumen automático
+es-es,auto-volume-skill.deactivate,Desactiva el volumen automático
+es-es,auto-volume-skill.deactivate,Ajusta el volumen automático a inactivo
+es-es,auto-volume-skill.deactivate,Apaga el volumen automático
+es-es,auto-volume-skill.deactivate,Ajusta el volumen automático en apagado
+es-es,auto-volume-skill.reset,Borra las mediciones de volumen automático
+es-es,auto-volume-skill.reset,Borra las mediciones de volumen automático
+es-es,auto-volume-skill.reset,Borra las mediciones de volumen automático
+es-es,cocktail.Needed,qué se necesita para hacer un {drink}
+es-es,cocktail.Needed,qué (hace falta|necesito|necesitas) para hacer un {drink}
+es-es,cocktail.Needed,(cuáles son los ingredientes|cuál es el ingreditente) (de|para hacer) un {drink}
+es-es,cocktail.Recipie,cómo (hago|haría|haces|harias) para (hacer|preparar) (un|una) {drink}
+es-es,cocktail.Recipie,(cuéntame|dime|dinos|cuéntanos) como (hacer|preparar) (un|una) {drink}
+es-es,cocktail.Recipie,(dame|dinos|danos) (las|) instrucciones para (hacer|preparar|) (un|una) {drink}
+es-es,cocktail.Recipie,cómo (hacer|preparar|mezclar) (un|una) {drink}
+es-es,cocktail.Recipie,cuál es la receta (de|para) (un|una) {drink}
+es-es,count-skill.count,Cuenta hasta {number}
+es-es,count-skill.countdown,Cuenta atrás desde {number}
+es-es,count-skill.countdown,Cuenta atrás desde {number}
+es-es,count-skill.countdown,Cuenta( hacia|) atrás desde {number}
+es-es,count-skill.countdown,Cuenta (hacia |)atrás desde {number}
+es-es,count-skill.countdown,Cuenta atrás desde {number}
+es-es,count-skill.countdown,Desde {number} cuenta hacia atrás
+es-es,count-skill.countdown,Desde {number} cuenta hacia atrás
+es-es,dice-skill.Dice,tira ({count}|) d {type} (+|plus|) ({modifier}|)
+es-es,dice-skill.NormalDice,tira ({count}|) (dado|dados)
+es-es,dice-skill.Range,Genera un número aleatorio del {low} al {high}
+es-es,dice-skill.Range,Genera un número aleatorio entre el {low} y el {high}
+es-es,dice-skill.Range,Dime un número del {low} al {high}
+es-es,dice-skill.Range,Dime un número entre {low} y {high}
+es-es,email-skill.check.email,comprueba mi (email|correo electrónico).
+es-es,email-skill.check.email,comprueba mi correo.
+es-es,email-skill.check.email,¿tengo algún correo nuevo?
+es-es,email-skill.check.email,¿tengo algún (email|correo|correo electrónico)?
+es-es,email-skill.check.email,¿tengo algún (email|correo|correo electrónico) nuevo?
+es-es,email-skill.enquire.email,¿Tengo un correo electrónico de {email}?
+es-es,email-skill.enquire.email,¿Recibí (cualquier |) correo electrónico (por|de) de {email}?
+es-es,email-skill.enquire.email,¿He Recibido correos electrónicos de {email}?
+es-es,email-skill.notify,Dime si hay (correo | correo electrónico | nuevo correo | email)
+es-es,email-skill.notify,Dime cuando tenga (correo | correo electrónico | nuevo correo | email)
+es-es,email-skill.notify,Dime cuando tenga (un correo | un correo electrónico | email) (de | por) {sender}
+es-es,email-skill.notify,Dime de (correo | email) (de | por) {sender}
+es-es,email-skill.notify,Notifícame de (correo | email | nuevo correo | nuevo email)
+es-es,email-skill.notify,avísame cuando tenga (un|) (correo | correo electrónico | nuevo correo | email) (de | procedente de) {sender}
+es-es,email-skill.notify,avísame cuando tenga (un|) (correo | correo electrónico | nuevo correo | email)
+es-es,email-skill.notify,avísame cuando tenga (un|) (correo |correo electrónico |email) (de | procedente de) {sender}
+es-es,email-skill.stop,No me notifiques de (correo | email | nuevo correo | nuevo email)
+es-es,email-skill.stop,No me avises de (correo | correo electrónico | nuevo correo | email)  (de | procedente de) {sender}
+es-es,email-skill.stop,No me notifiques de nuevo de (correo | email | nuevo correo | nuevo email)
+es-es,email-skill.stop,No me notifiques de nuevo (correo | correo electrónico | nuevo correo | email) (de | procedente de) {sender}
+es-es,email-skill.stop,No me avises de (correo | email | nuevo correo | nuevo email)
+es-es,email-skill.stop,No me avises de (correo | correo electrónico | nuevo correo | email) (de | procedente de) {sender}
+es-es,email-skill.stop,No me notifiques de nuevo de (correo | email | nuevo correo | nuevo email)
+es-es,email-skill.stop,No vuelvas a notificarme de (un|) (correo | correo electrónico | nuevo correo | email) (de | procedente de) {sender}
+es-es,emby-skill.diagnostic,comprobando (emby|mb|mv|nv|emily) conexión
+es-es,emby-skill.diagnostic,Ejecutar diagnóstico de (emby|mb|mv|nv|emily)
+es-es,emby-skill.diagnostic,comprobar (emby|mb|mv|nv|emily)
+es-es,emby-skill.emby,Reproduce {media} en emby
+es-es,emby-skill.emby,reproduce {media} desde emby
+es-es,emby-skill.emby,Pon (a|el artista| ) {artist} (en|por|de|desde) emby
+es-es,emby-skill.emby,Pon (a|el artista| ) {artist} (en|por|de|desde) mb
+es-es,emby-skill.emby,Pon ( |el album) {album} (en|por|desde) emby
+es-es,emby-skill.emby,Pon ( |el album) {album} (en|por|de|desde) mb
+es-es,fairytalez-skill.continue,Continúa la historia
+es-es,fairytalez-skill.continue,Continúa contando la historia
+es-es,fairytalez-skill.continue,Continúa el cuento de hadas
+es-es,fairytalez-skill.continue,Continúa contando el cuento de hadas
+es-es,fairytalez-skill.continue,Continúa el cuento de hadas
+es-es,fairytalez-skill.continue,Continúa con el cuento de hadas
+es-es,fairytalez-skill.continue,Continúa con el cuento de hadas
+es-es,fairytalez-skill.fairytalez,(Cuénta|Lee) (me|) (un buen cuento|una buena historia)
+es-es,fairytalez-skill.fairytalez,(Cuenta|Lee) (me|) el cuento de {tale}
+es-es,homeassistant.set.climate,pon el {entity} a {temp} grados
+es-es,homeassistant.set.climate,pon la temperatura de {entity} a {temp} grados
+es-es,homeassistant.set.climate,cambia la temperatura de {entity} a {temp} grados
+es-es,homeassistant.set.light.brightness,establece el brillo de {{entity}} a {{brightnessvalue}} por ciento
+es-es,iss-tracker-skill.tracker.iss,Dónde está la estación espacial internacional
+es-es,iss-tracker-skill.tracker.iss,(Encuentra|ubica) la I S S
+es-es,iss-tracker-skill.tracker.iss,Dónde está la I S S
+es-es,laugh.Laugh,ríete como Alexa
+es-es,laugh.Laugh,¿puedes reírte?
+es-es,laugh.Laugh,(risa|carcajada|risotada) malvada
+es-es,laugh.RandomLaugh,(ríete|reir|ríe) al azar
+es-es,laugh.RandomLaugh,activa una (risa|carcajada|risotada) aleatoria
+es-es,laugh.RandomLaugh,(risa|carcajada|risotada) aleatoria
+es-es,mark-2.brightness,oscurece (los|tus) ojos al {brightness} (por ciento|)
+es-es,mark-2.brightness,oscurécete al {brightness} (por ciento|)
+es-es,mark-2.brightness,(baja|reduce) (el brillo|la iluminación) de tus ojos al {brightness} (por ciento|)
+es-es,mark-2.brightness,(aumenta|reduce) (el brillo|la iluminación) al {brightness} (por ciento|)
+es-es,mark-2.brightness,(sube|baja) (el brillo|la iluminación) al {brightness} (por ciento|)
+es-es,mark-2.brightness,ilumínate (un poco|) (hasta|al) {brightness} (por ciento|)
+es-es,mark-2.brightness,(cambia|establece|pon) al {brightness} (por ciento|) (el brillo|la iluminación) (de tus ojos|)
+es-es,mark-2.brightness,(cambia|establece|pon) (el brillo|la iluminación) (de tus ojos|) al {brightness} (por ciento|)
+es-es,mark-2.brightness,(cambia|establece|pon) (el nivel de|) (de brillo|la iluminación) (de tus ojos|)
+es-es,mark-2.brightness,estás (demasiado|) (brillante|oscuro)
+es-es,mark-2.brightness,se te ve (demasiado|) (brillante|oscuro)
+es-es,mark-2.brightness,ilumínate
+es-es,mark-2.brightness,oscurécete un poco
+es-es,mark-2.brightness.auto,ajusta el brillo a automático
+es-es,mark-2.brightness.auto,brillo automático
+es-es,mark-2.device.brightness.settings,muestra los ajustes de brillo
+es-es,mark-2.device.brightness.settings,muestra los ajustes de brillo del dispositivo
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la pantalla de inicio
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la (pantalla|cara|página) (de inicio|de reposo|inactiva)
+es-es,mark-2.device.homescreen.settings,muestra la configuración de la (pantalla|cara|página) (de inicio|de reposo|inactiva) del dispositivo
+es-es,mark-2.device.reset.settings,muestra los ajustes de restablecimiento de fábrica
+es-es,mark-2.device.reset.settings,muestra los ajustes de restablecimiento de fábrica del dispositivo
+es-es,mark-2.device.settings,muestra la configuración del dispositivo
+es-es,mark-2.device.settings,abre (los ajustes|la configuración)
+es-es,mark-2.device.ssh.settings,muestra la configuración ssh
+es-es,mark-2.device.ssh.settings,muestra la configuración ssh del dispositivo
+es-es,mark-2.device.wifi.settings,muestra la pantalla de conexiones inalámbricas 
+es-es,mark-2.device.wifi.settings,muestra la configuración de conexiones inalámbricas
+es-es,mark-2.device.wifi.settings,muestra la configuración wifi
+es-es,mark-2.device.wifi.settings,muestra la pantalla de conexiones wifi
+es-es,moviemaster.genre.movie.search,(listar|encontrar) (películas|filmes) que son (un| ) {genre}
+es-es,moviemaster.genre.movie.search,(listar|encontrar) (películas|filmes) de {genre}
+es-es,moviemaster.genre.tv.search,(listar|encontrar|obtener) (programas de TV|programas de televisión|shows) que son del género {genre}
+es-es,moviemaster.genre.tv.search,(listar|encontrar|obtener) (programas de TV|programas de televisión|shows) del género {genre}
+es-es,moviemaster.movie.cast,Quién (actúa|trabaja|está) en la película {movie}
+es-es,moviemaster.movie.description,de qué se trata la película {movie}
+es-es,moviemaster.movie.description,(cuéntame|cuéntanos) acerca de la película {movie}
+es-es,moviemaster.movie.description,(dame|danos) una (descripción|sinopsis) (de la|del) (película|film) {movie}
+es-es,moviemaster.movie.description,.
+es-es,moviemaster.movie.genres,(A cuales|A cual) (géneros|género) pertenece (la|el) (película|filme) {movie} 
+es-es,moviemaster.movie.genres,(Cuales|Cual) (son|es) (los|el) (géneros|género) (de la|del) (película|filme) {movie}
+es-es,moviemaster.movie.genres,A que (géneros|género) pertenece (la|el) (película|filme) {movie}
+es-es,moviemaster.movie.information,(Averiguar|Obtener|Buscar) (información|info) acerca (de la|del) (película|filme) {movie}
+es-es,moviemaster.movie.information,(Dame|Danos) (información|info) acerca (de la|del) (película|filme) {movie}
+es-es,moviemaster.movie.information,(Tienes|Puedes obtener) (info|información) (de la|del) (película|filme) {movie}
+es-es,moviemaster.movie.popular,(Lista|Busca) (las|los) (peliculas|filmes) más populares
+es-es,moviemaster.movie.popular,Cuáles son (las|los) (películas|flimes) más populares ahora
+es-es,moviemaster.movie.production,(Quién|Qué companía) (produjo|hizo) la película {movie}
+es-es,moviemaster.movie.recommendations,Recomienda (películas|filmes) (similares a|parecidas a) {movie}
+es-es,moviemaster.movie.recommendations,Qué (películas|filmes) recomendarias (similares a|parecidas a) {movie}
+es-es,moviemaster.movie.recommendations,(Lista|obtiene) (|buenas|buenos) (películas|filmes) similares a {movie}
+es-es,moviemaster.movie.runtime,Cuánto dura (la película|el filme) {movie}
+es-es,moviemaster.movie.runtime,Cuánto dura (la|el) (película|filme) {movie}
+es-es,moviemaster.movie.runtime,Obtiene la duración (de la|del) (película|filme) {movie}
+es-es,moviemaster.movie.top,(lista|cuáles son|busca) (las|los) (películas|filmes) (top|más populares|mejores en el ranking) en cartelera (|ahora)
+es-es,moviemaster.movie.year,(En qué año|Cuándo|En qué fecha) fue lanzado (la|el) (película|filme) {movie}
+es-es,wikiquote-skill.random,dime ((alguna|una) cita|algo sabio)
+es-es,wikiquote-skill.random,dame ((alguna|una) cita|(|algo de) sabiduría)
+es-es,wikiquote-skill.random,Necesito algo de sabiduría
+es-es,wikiquote-skill.specific,dime ((alguna|una) cita|algo sabio) de {subject}
+es-es,wikiquote-skill.specific,dame ((alguna|una) cita|(algo de|) sabiduría) de {subject}
+es-es,wikiquote-skill.specific,Necesito (alguna cita|algo de sabiduría) de {subject}
+es-es,wikiquote-skill.specific,dime una cita (de|sobre) {subject}
+es-es,wikiquote-skill.specific,dame una cita (de|sobre) {subject}
+es-es,wikiquote-skill.specific,necesito una cita (de|sobre) {subject}

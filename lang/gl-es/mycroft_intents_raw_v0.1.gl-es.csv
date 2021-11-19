@@ -1,0 +1,41 @@
+gl-es,cocktail.Needed,que é necesario para facer (un|unha) {drink}
+gl-es,cocktail.Needed,que (eu|vostede) (precisa|preciso) para facer (o|um) {drink}
+gl-es,cocktail.Needed,(cales|cal) (son|é) (os|o) (ingredientes|ingrediente) (de|para) (un|unha) {drink}
+gl-es,cocktail.Recipie,como (eu|vostede) (facer|preparar) (un|unha) {drink}
+gl-es,cocktail.Recipie,di (me|nos) como (facer|preparar) (un|unha) {drink}
+gl-es,cocktail.Recipie,dá (me|nos) instrucións para preparar (un|unha) {drink}
+gl-es,cocktail.Recipie,como (facer|preparar) (un|unha) {drink}
+gl-es,cocktail.Recipie,cal é a receita para (un|unha) {drink}
+gl-es,email-skill.check.email,revisa o meu correo
+gl-es,email-skill.check.email,revisa o meu correo
+gl-es,email-skill.check.email,teño algún correo
+gl-es,email-skill.check.email,teño algún correo
+gl-es,email-skill.check.email,teño algún correo novo
+gl-es,email-skill.enquire.email,Teño algún correo de {email}?
+gl-es,email-skill.enquire.email,Teño (algún|) correo de {email}?
+gl-es,email-skill.enquire.email,Recibín algún correo de {email}?
+gl-es,email-skill.notify,(infórmame|fálame) sobre (o|os) (novo|novos) (correo|correos)
+gl-es,email-skill.notify,(infórmame|fálame) cando eu reciba (novo|novos) (correo|correos)
+gl-es,email-skill.notify,(infórmame|avísame|fálame) sobre (correo|correos) de {sender}
+gl-es,email-skill.notify,(infórmame|avísame|fálame) sobre (correo|correos) de {sender}
+gl-es,email-skill.notify,(infórmame|fálame) sobre (o|os) (novo|novos) (correo|correos)
+gl-es,email-skill.notify,(notifícame|avísame) sobre (os|) (correos | novos correos) ( de | enviados por ) {sender}
+gl-es,email-skill.notify,(infórmame|fálame) cando eu reciba (novo|novos) (correo|correos)
+gl-es,email-skill.notify,(infórmame|avísame|fálame) sobre (correo|correos) de {sender}
+gl-es,email-skill.stop,Non me (notifiques|avises) sobre ( correo | correos | novos correos)
+gl-es,email-skill.stop,non me (notifiques|avises) sobre ( correo | correos | novos correos) (de ) {sender}
+gl-es,email-skill.stop,non me (notifiques|avises) máis sobre ( correo | correos | novos correos)
+gl-es,email-skill.stop,non me (notifiques|avises) máis sobre ( correo | correos | novos correos) (de) {sender}
+gl-es,email-skill.stop,non me (avises) máis sobre ( correo | correos | novos correos)
+gl-es,email-skill.stop,non me (avises) máis sobre ( correo | correos | novos correos) (de) {sender}
+gl-es,email-skill.stop,non me (avises) máis sobre ( correo | correos | novos correos)
+gl-es,email-skill.stop,non me (avises) máis sobre ( correo | correos | novos correos) (de) {sender}
+gl-es,emby-skill.diagnostic,verificar a conexión (emby|mb|mv|nv|emily)
+gl-es,emby-skill.diagnostic,executar diagnóstico (emby|mb|mv|nv|emily)
+gl-es,emby-skill.diagnostic,verificar (emby|mb|mv|nv|emily)
+gl-es,emby-skill.emby,tocar {media} proveniente do emby
+gl-es,emby-skill.emby,tocar {media} proveniente do mb
+gl-es,emby-skill.emby,tocando artista {artist} proveniente de emby
+gl-es,emby-skill.emby,tocando artista {artist} proveniente do mb
+gl-es,emby-skill.emby,tocando álbum {album} `proveniente de emby
+gl-es,emby-skill.emby,tocar álbum{album} proveniente de mb

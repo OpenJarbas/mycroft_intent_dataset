@@ -1,0 +1,138 @@
+{
+  "da-dk": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Krystalkugle",
+      "Spejl spejl"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "fremtid",
+      "imorgen"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "fort\u00e6l mig",
+      "hvad"
+    ],
+    "Number-Guess-Mycroft-Skill.NumberGuess": [
+      "G\u00e6t nummer",
+      "g\u00e6t nummer spil"
+    ],
+    "Number-Guess-Mycroft-Skill.Play": [
+      "Spil",
+      "Start et spil"
+    ],
+    "Number-Guess-Mycroft-Skill.Suggest": [
+      "Lad os",
+      "Lad os",
+      "Skal vi ikke",
+      "Hvad med at vi",
+      "Vi burde"
+    ],
+    "cocktail.Again": [
+      "igen"
+    ],
+    "cocktail.Ingredients": [
+      "indgridiens",
+      "indgridienser"
+    ],
+    "cocktail.TellMe": [
+      "hvad er",
+      "fort\u00e6l mig"
+    ],
+    "cocktail.What": [
+      "hvad var",
+      "hvad var"
+    ],
+    "fallback-aiml.Memory": [
+      "hjerne",
+      "hukommelse",
+      "bevisthed",
+      "alt"
+    ],
+    "fallback-aiml.Reset": [
+      "glem",
+      "nulstill"
+    ],
+    "laugh.Laugh": [
+      "grin",
+      "grine",
+      "griner",
+      "latter"
+    ],
+    "laugh.Stop": [
+      "afslut",
+      "afbryd",
+      "stop"
+    ],
+    "learning-skill.Learning": [
+      "l\u00e6re",
+      "undervise",
+      "vise",
+      "l\u00e6rer",
+      "holde"
+    ],
+    "learning-skill.Private": [
+      "privat",
+      "personlig",
+      "hemmelighed",
+      "fortrolig",
+      "Gemme",
+      "til dig"
+    ],
+    "learning-skill.Query": [
+      "Kan du",
+      "vil du",
+      "vil",
+      "kan",
+      "M\u00e5 jeg",
+      "M\u00e5"
+    ],
+    "learning-skill.Something": [
+      "noget",
+      "hvad som helst"
+    ],
+    "learning-skill.cancel": [
+      "afbryd"
+    ],
+    "learning-skill.humor": [
+      "humor",
+      "joke",
+      "sjovt"
+    ],
+    "learning-skill.love": [
+      "k\u00e6rlighed",
+      "iver",
+      "f\u00f8lelser"
+    ],
+    "learning-skill.science": [
+      "videnskab",
+      "viden",
+      "know-how"
+    ],
+    "remember-skill.All": [
+      "Alt"
+    ],
+    "remember-skill.Did": [
+      "gjorde"
+    ],
+    "remember-skill.Forget": [
+      "glem"
+    ],
+    "remember-skill.Phrase": [
+      "frase",
+      "fraser"
+    ],
+    "remember-skill.Remember": [
+      "husk"
+    ],
+    "remember-skill.You": [
+      "dig"
+    ],
+    "speedtest-skill.Run": [
+      "k\u00f8r"
+    ],
+    "speedtest-skill.Speedtest": [
+      "hastighedstest",
+      "hastighedstest"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "de": {
+    "homeassistant.AutomationActionKeyword": [
+      "aktiviere"
+    ],
+    "homeassistant.LightActionKeyword": [
+      "schalte",
+      "knippse",
+      "mache",
+      "runter|dimme|verdunkle|dunkler",
+      "hell|heller"
+    ],
+    "homeassistant.LightBrightenVerb": [
+      "heller",
+      "hell"
+    ],
+    "homeassistant.LightDimVerb": [
+      "runter",
+      "dunkler"
+    ],
+    "homeassistant.SensorStatusKeyword": [
+      "sensor",
+      "was sagt sensor",
+      "wie ist der wert von ",
+      "was ist der wert von "
+    ]
+  }
+}

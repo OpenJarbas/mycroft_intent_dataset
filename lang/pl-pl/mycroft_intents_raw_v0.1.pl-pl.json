@@ -1,0 +1,30 @@
+{
+  "pl-pl": {
+    "cocktail.Needed": [
+      "co jest potrzebne do zrobienia {drink}",
+      "czego (potrzebuj\u0119 | potrzebujesz) do zrobienia {drink}",
+      "(jaki jest sk\u0142adnik | jakie s\u0105 sk\u0142adniki) {drink}"
+    ],
+    "cocktail.Recipie": [
+      "jak (mam zrobi\u0107 | zrobi\u0119) {drink}",
+      "powiedz (mi | nam) jak zrobi\u0107 {drink}",
+      "podaj (mi | nam) instrukcje dla {drink}",
+      "jak zrobi\u0107 {drink}",
+      "jaki jest przepis na {drink}"
+    ],
+    "wikiquote-skill.random": [
+      "(o|)powiedz mi (jak\u0105\u015b |jaki\u015b |)(cytat|m\u0105dro\u015b\u0107)",
+      "daj mi (jak\u0105\u015b |jaki\u015b |)(cytat|m\u0105dro\u015b\u0107)",
+      "zacytuj (co\u015b|kogo\u015b) m\u0105drego",
+      "zacytuj (co\u015b|kogo\u015b)",
+      "(poszukuj\u0119|potrzebuj\u0119) (jakiego\u015b|jakiej\u015b)(m\u0105dro\u015bci|o\u015bwiecenia|inspiracji)"
+    ],
+    "wikiquote-skill.specific": [
+      "(o|)powiedz mi (cytat|m\u0105dro\u015b\u0107) (o|na temat|) {subject}",
+      "daj mi (cytat|m\u0105dro\u015b\u0107) (o|na temat|) {subject}",
+      "potrzebuj\u0119 (jakiego\u015b |jakiej\u015b |)(cytatu|m\u0105dro\u015bci) (o|na temat|) {subject}",
+      "zacytuj (co\u015b|kogo\u015b) (m\u0105drego |)(o|na temat|) {subject}",
+      "poszukuj\u0119 (jakiego\u015b |jakiej\u015b |)(cytatu|m\u0105dro\u015bci|o\u015bwiecenia|inspiracji) (o|na temat|) {subject}"
+    ]
+  }
+}

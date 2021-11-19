@@ -1,0 +1,126 @@
+{
+  "tr-tr": {
+    "Crystal-Ball-Mycroft-Skill.CrystalBall": [
+      "Kristal top",
+      "Ayna ayna"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Future": [
+      "gelecek",
+      "yar\u0131n"
+    ],
+    "Crystal-Ball-Mycroft-Skill.Query": [
+      "Bana s\u00f6yle",
+      "Ne"
+    ],
+    "cut-up-skill.CutUp": [
+      "Par\u00e7ala",
+      "Geli\u015fig\u00fczel"
+    ],
+    "cut-up-skill.Maximum": [
+      "En \u00e7ok"
+    ],
+    "cut-up-skill.Minimum": [
+      "En az"
+    ],
+    "cut-up-skill.Randomness": [
+      "Rastgele"
+    ],
+    "cut-up-skill.Set": [
+      "Ayar",
+      "Yap\u0131land\u0131rma",
+      "Yap\u0131land\u0131rmay\u0131 ayarla"
+    ],
+    "fallback-aiml.Memory": [
+      "ak\u0131l",
+      "haf\u0131za",
+      "ak\u0131l",
+      "her \u015fey"
+    ],
+    "fallback-aiml.Reset": [
+      "unut",
+      "s\u0131f\u0131rla"
+    ],
+    "krunner-search-skill.CalculateKeyword": [
+      "hesapla"
+    ],
+    "krunner-search-skill.KrunnerPlasmaDesktopSkillKeyword": [
+      "bu bilgisayarda ara",
+      "bunu ara",
+      "arama bilgisayar\u0131",
+      "dosya ara",
+      "dosya ara",
+      "dosya ad\u0131n\u0131 ara",
+      "bilgisayarda ara",
+      "sistemi ara",
+      "sistem",
+      "sistem aramas\u0131",
+      "sistem arama dosyas\u0131",
+      "dosyay\u0131 bul"
+    ],
+    "krunner-search-skill.RecentFileKeyword": [
+      "son g\u00f6r\u00fcnt\u00fcleme",
+      "son dosyalar\u0131 g\u00f6ster",
+      "son belgeleri g\u00f6ster",
+      "son belgeler",
+      "son dosyalar"
+    ],
+    "plasma-activities-skill.ActivitiesCreateKeyword": [
+      "yeni bir etkinlik olu\u015ftur",
+      "yeni etkinlik olu\u015ftur",
+      "etkinlik olu\u015ftur",
+      "yeni bir faaliyet ba\u015flatmak",
+      "yeni etkinlikler olu\u015ftur",
+      "yeni faaliyetlere ba\u015fla",
+      "etkinlik olu\u015ftur",
+      "yeni aktivite",
+      "yeni aktiviteler"
+    ],
+    "plasma-activities-skill.ActivitiesRemoveKeyword": [
+      "etkinli\u011fi kald\u0131r",
+      "etkinli\u011fi kald\u0131r",
+      "etkinli\u011fi sil",
+      "etkinli\u011fi sil"
+    ],
+    "plasma-activities-skill.ActivitiesShowKeyword": [
+      "mevcut etkinlikleri g\u00f6ster",
+      "etkinlikleri g\u00f6ster",
+      "etkinlikler",
+      "mevcut etkinlikleri g\u00f6ster",
+      "etkinlikleri g\u00f6r\u00fcnt\u00fcleme"
+    ],
+    "plasma-activities-skill.ActivitiesStopKeyword": [
+      "mevcut etkinli\u011fi iptal et",
+      "etkinli\u011fi \u00f6ld\u00fcr"
+    ],
+    "plasma-activities-skill.ActivitiesSwitchKeyword": [
+      "mevcut etkinli\u011fi de\u011fi\u015ftir",
+      "faaliyete ge\u00e7",
+      "faaliyete ge\u00e7"
+    ],
+    "speedtest-skill.Run": [
+      "\u00e7al\u0131\u015ft\u0131r"
+    ],
+    "speedtest-skill.Speedtest": [
+      "h\u0131z testi",
+      "h\u0131z testi"
+    ],
+    "white-house-adventure.Delete": [
+      "sil"
+    ],
+    "white-house-adventure.Play": [
+      "oyna",
+      "git",
+      "git"
+    ],
+    "white-house-adventure.Save": [
+      "kaydet",
+      "oyunu kaydet",
+      "kaydedildi"
+    ],
+    "white-house-adventure.Zork": [
+      "zork",
+      "posta kutusu",
+      "Beyaz Saray"
+    ]
+  }
+}
