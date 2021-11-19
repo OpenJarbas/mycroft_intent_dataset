@@ -5,6 +5,7 @@ import shutil
 import glob
 import zipfile
 import json
+from ovos_utils.bracket_expansion import expand_options
 
 
 def download():
@@ -14,7 +15,7 @@ def download():
         "Neon": "https://github.com/OpenVoiceOS/ovos_skill_manager/raw/master/ovos_skills_manager/res/Neon.jsondb",
         "Pling": "https://github.com/OpenVoiceOS/ovos_skill_manager/raw/master/ovos_skills_manager/res/Pling.jsondb",
         "OVOS": "https://github.com/OpenVoiceOS/ovos_skill_manager/raw/master/ovos_skills_manager/res/OVOS.jsondb",
-   #     "AndloSkillList": "https://github.com/OpenVoiceOS/ovos_skill_manager/blob/master/ovos_skills_manager/res/AndloSkillList.jsondb"
+        #"AndloSkillList": "https://github.com/OpenVoiceOS/ovos_skill_manager/blob/master/ovos_skills_manager/res/AndloSkillList.jsondb"
     }
     intents = {}
     entities = {}
@@ -73,16 +74,71 @@ def download():
                 keywords[lang][name] = samples
                 print(lang, "keyword:", name, keywords[lang][name])
             # delete
-            # shutil.rmtree(dst, ignore_errors=True)
-            # shutil.rmtree(src, ignore_errors=True)
+            shutil.rmtree(dst, ignore_errors=True)
+            shutil.rmtree(src, ignore_errors=True)
+
+    with open("mycroft_intents_raw_v0.1.json", "w") as f:
+        json.dump(intents, f, indent=2, sort_keys=True)
+    with open("mycroft_keywords_raw_v0.1.json", "w") as f:
+        json.dump(keywords, f, indent=2, sort_keys=True)
+    with open("mycroft_entities_raw_v0.1.json", "w") as f:
+        json.dump(entities, f, indent=2, sort_keys=True)
+    return intents, entities, keywords
+
+
+def load_dataset():
+    if not exists("mycroft_intents_raw_v0.1.json"):
+        intents, entities, keywords = download()
+    else:
+        with open("mycroft_intents_raw_v0.1.json") as f:
+            intents = json.load(f)
+        with open("mycroft_keywords_raw_v0.1.json") as f:
+            keywords = json.load(f)
+        with open("mycroft_entities_raw_v0.1.json") as f:
+            entities = json.load(f)
+    return intents, entities, keywords
+
+
+def normalize():
+    if exists("mycroft_intents_expanded_v0.1.json"):
+        with open("mycroft_intents_expanded_v0.1.json") as f:
+            intents = json.load(f)
+        with open("mycroft_keywords_expanded_v0.1.json") as f:
+            keywords = json.load(f)
+        with open("mycroft_entities_expanded_v0.1.json") as f:
+            entities = json.load(f)
+        return intents, entities, keywords
+
+    intents, entities, keywords = load_dataset()
+    for lang, intent_samples in intents.items():
+        for intent_name, samples in intent_samples.items():
+            expanded = []
+            for s in samples:
+                expanded += expand_options(s)
+            intents[lang][intent_name] = expanded
+    for lang, intent_samples in entities.items():
+        for intent_name, samples in intent_samples.items():
+            expanded = []
+            for s in samples:
+                expanded += expand_options(s)
+            entities[lang][intent_name] = expanded
+    for lang, intent_samples in keywords.items():
+        for intent_name, samples in intent_samples.items():
+            expanded = []
+            for s in samples:
+                expanded += expand_options(s)
+            keywords[lang][intent_name] = expanded
+
+    with open("mycroft_intents_expanded_v0.1.json", "w") as f:
+        json.dump(intents, f, indent=2, sort_keys=True)
+    with open("mycroft_keywords_expanded_v0.1.json", "w") as f:
+        json.dump(keywords, f, indent=2, sort_keys=True)
+    with open("mycroft_entities_expanded_v0.1.json", "w") as f:
+        json.dump(entities, f, indent=2, sort_keys=True)
 
     return intents, entities, keywords
 
 
-intents, entities, keywords = download()
-with open("mycroft_intents_raw_v0.1.json", "w") as f:
-    json.dump(intents, f, indent=2, sort_keys=True)
-with open("mycroft_keywords_raw_v0.1.json", "w") as f:
-    json.dump(keywords, f, indent=2, sort_keys=True)
-with open("mycroft_entities_raw_v0.1.json", "w") as f:
-    json.dump(entities, f, indent=2, sort_keys=True)
+download()
+#load_dataset()
+normalize()
