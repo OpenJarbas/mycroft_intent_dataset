@@ -77,11 +77,11 @@ def download():
             shutil.rmtree(dst, ignore_errors=True)
             shutil.rmtree(src, ignore_errors=True)
 
-    with open("mycroft_intents_raw_v0.1.json", "w") as f:
+    with open("mycroft_intents_raw_v0.1.json", "w", encoding="utf-8") as f:
         json.dump(intents, f, indent=2, sort_keys=True)
-    with open("mycroft_keywords_raw_v0.1.json", "w") as f:
+    with open("mycroft_keywords_raw_v0.1.json", "w", encoding="utf-8") as f:
         json.dump(keywords, f, indent=2, sort_keys=True)
-    with open("mycroft_entities_raw_v0.1.json", "w") as f:
+    with open("mycroft_entities_raw_v0.1.json", "w", encoding="utf-8") as f:
         json.dump(entities, f, indent=2, sort_keys=True)
     return intents, entities, keywords
 
@@ -90,22 +90,22 @@ def load_dataset():
     if not exists("mycroft_intents_raw_v0.1.json"):
         intents, entities, keywords = download()
     else:
-        with open("mycroft_intents_raw_v0.1.json") as f:
+        with open("mycroft_intents_raw_v0.1.json", encoding="utf-8") as f:
             intents = json.load(f)
-        with open("mycroft_keywords_raw_v0.1.json") as f:
+        with open("mycroft_keywords_raw_v0.1.json", encoding="utf-8") as f:
             keywords = json.load(f)
-        with open("mycroft_entities_raw_v0.1.json") as f:
+        with open("mycroft_entities_raw_v0.1.json", encoding="utf-8") as f:
             entities = json.load(f)
     return intents, entities, keywords
 
 
 def normalize():
     if exists("mycroft_intents_expanded_v0.1.json"):
-        with open("mycroft_intents_expanded_v0.1.json") as f:
+        with open("mycroft_intents_expanded_v0.1.json", encoding="utf-8") as f:
             intents = json.load(f)
-        with open("mycroft_keywords_expanded_v0.1.json") as f:
+        with open("mycroft_keywords_expanded_v0.1.json", encoding="utf-8") as f:
             keywords = json.load(f)
-        with open("mycroft_entities_expanded_v0.1.json") as f:
+        with open("mycroft_entities_expanded_v0.1.json", encoding="utf-8") as f:
             entities = json.load(f)
         return intents, entities, keywords
 
@@ -129,16 +129,43 @@ def normalize():
                 expanded += expand_options(s)
             keywords[lang][intent_name] = expanded
 
-    with open("mycroft_intents_expanded_v0.1.json", "w") as f:
+    with open("mycroft_intents_expanded_v0.1.json", "w", encoding="utf-8") as f:
         json.dump(intents, f, indent=2, sort_keys=True)
-    with open("mycroft_keywords_expanded_v0.1.json", "w") as f:
+    with open("mycroft_keywords_expanded_v0.1.json", "w", encoding="utf-8") as f:
         json.dump(keywords, f, indent=2, sort_keys=True)
-    with open("mycroft_entities_expanded_v0.1.json", "w") as f:
+    with open("mycroft_entities_expanded_v0.1.json", "w", encoding="utf-8") as f:
         json.dump(entities, f, indent=2, sort_keys=True)
 
     return intents, entities, keywords
 
 
-download()
+def dict2csv(dataset):
+    csv = []
+    for lang, entries in dataset.items():
+        for label, samples in entries.items():
+            csv += [f"{lang},{label},{s.replace(',', '')}" for s in samples]
+
+    return "\n".join(csv)
+
+
+def convert():
+    intents, entities, keywords = load_dataset()
+    with open("mycroft_intents_raw_v0.1.csv", "w", encoding="utf-8") as f:
+        f.write(dict2csv(intents))
+    with open("mycroft_keywords_raw_v0.1.csv", "w", encoding="utf-8") as f:
+        f.write(dict2csv(keywords))
+    with open("mycroft_entities_raw_v0.1.csv", "w", encoding="utf-8") as f:
+        f.write(dict2csv(entities))
+
+    intents, entities, keywords = normalize()
+    with open("mycroft_intents_expanded_v0.1.csv", "w", encoding="utf-8") as f:
+        f.write(dict2csv(intents))
+    with open("mycroft_keywords_expanded_v0.1.csv", "w", encoding="utf-8") as f:
+        f.write(dict2csv(keywords))
+    with open("mycroft_entities_expanded_v0.1.csv", "w", encoding="utf-8") as f:
+        f.write(dict2csv(entities))
+
+#download()
 #load_dataset()
-normalize()
+#normalize()
+convert()
