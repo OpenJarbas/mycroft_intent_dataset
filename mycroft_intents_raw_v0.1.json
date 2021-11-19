@@ -1,33 +1,16 @@
 {
-  "OLDda-dk": {
-    "moviemaster.movie.cast": [
-      "hvem (spiller | er) i (film | filmen) {movie}"
+  "ab-dz": {
+    "cocktail.Needed": [
+      "dacu i ne\u1e25wa\u01e7 akken ad neg (yiwen|yiwet) {drink}",
+      "acu i (sri\u0263|tesri\u1e0d) i (akken|ad neg) (yiwen|yiwet) {drink}",
+      "acu-ten (isufar|asafar) (n|i) (yiwen|yiwet) {drink}  "
     ],
-    "moviemaster.movie.description": [
-      "Hvad er (film | filmen) {movie} om",
-      "fort\u00e6l (|mig | os) om (film | filmen) {movie}",
-      "giv (mig | os) en (beskrivelse | synopsis) (af|om) (film | filmen) {movie}"
-    ],
-    "moviemaster.movie.genres": [
-      "Hvilke genrer tilh\u00f8rer (film | filmen | flick) {movie}",
-      "hvad er genren til (film | filmen | flick) {movie}"
-    ],
-    "moviemaster.movie.information": [
-      "(find | sl\u00e5 op | er der) (information | info) (p\u00e5 | om) (film | filmen) {movie}",
-      "(oplys | fort\u00e6l | find) (| mig | os) (information | info) (p\u00e5 | om) (film | filmen) {movie}"
-    ],
-    "moviemaster.movie.production": [
-      "(hvem | hvilket firma) (produceret | lavet) filmen {movie}"
-    ],
-    "moviemaster.movie.year": [
-      "(hvilket \u00e5r | hvorn\u00e5r | hvilken dato) var filmen {movie} (lavet | frigivet)"
-    ],
-    "moviemaster.tmdb": [
-      "Hvad er filmen {movie} om",
-      "Fort\u00e6l mig om filmen {movie}",
-      "Hvem spiller i filmen {movie}",
-      "Fort\u00e6l mig om skuespilleren {actor}",
-      "Hvorn\u00e5r blev filmen {movie} lavet"
+    "cocktail.Recipie": [
+      "amek ara (ge\u0263|tge\u1e0d) (akken| ad neg) (yiwen|yiwet) {drink}",
+      "ini-d (nekk|nekkni) amek ara (ge\u0263|heyyi\u0263) (yiwen|yiwet) {drink} ",
+      "awi-d (nekk|nekkni) tina\u1e0din i (yiwen|yiwet) {drink}",
+      "amek ara (neg|i uheggi) (yiwen|yiwet) {drink}",
+      "acu n tasesfart i (yiwen|yiwet) {drink} "
     ]
   },
   "ca-es": {
@@ -252,29 +235,27 @@
       "(list | find) {genre} (tv-shows | fjernsnsprogrammer | programmer)"
     ],
     "moviemaster.movie.cast": [
-      "hvem (spiller | er) i filmen {film}"
+      "hvem (spiller | er) i (film | filmen) {movie}"
     ],
     "moviemaster.movie.description": [
-      "Hvad handler filmen {movie} om",
-      "fort\u00e6l (mig | os) om (filmen|) {movie}",
-      "giv (mig | os) en (beskrivelse | synopsis) af (filmen|) {movie}"
+      "Hvad er (film | filmen) {movie} om",
+      "fort\u00e6l (|mig | os) om (film | filmen) {movie}",
+      "giv (mig | os) en (beskrivelse | synopsis) (af|om) (film | filmen) {movie}"
     ],
     "moviemaster.movie.genres": [
-      "hvad (genrer | genre) tilh\u00f8rer (filmen|) {movie}",
-      "hvad er (genrer | genre) af (filmen|) {movie}",
-      "hvad (genrer | genre) er (filmem | ) {film}"
+      "Hvilke genrer tilh\u00f8rer (film | filmen | flick) {movie}",
+      "hvad er genren til (film | filmen | flick) {movie}"
     ],
     "moviemaster.movie.information": [
-      "(find | led efter | er der) (information | info) (p\u00e5 | om) (filmen |) {movie}",
-      "(giv | fort\u00e6l | hent) (| mig | os) (information | info) (p\u00e5 | om) (filmen | ) {movie}",
-      "(har du | kan du f\u00e5) (info | information) (p\u00e5| om) (filmen | ) {movie}"
+      "(find | sl\u00e5 op | er der) (information | info) (p\u00e5 | om) (film | filmen) {movie}",
+      "(oplys | fort\u00e6l | find) (| mig | os) (information | info) (p\u00e5 | om) (film | filmen) {movie}"
     ],
     "moviemaster.movie.popular": [
       "(liste | s\u00f8gning | s\u00f8g efter) popul\u00e6re film",
       "hvad er (| de) popul\u00e6re film (der spiller | er ude) nu"
     ],
     "moviemaster.movie.production": [
-      "(hvem | hvilket firma) ahr (produceret | lavet) filmen {movie}"
+      "(hvem | hvilket firma) (produceret | lavet) filmen {movie}"
     ],
     "moviemaster.movie.recommendations": [
       "anbefal en film der (ligner | lignende) {movie}",
@@ -291,6 +272,13 @@
     ],
     "moviemaster.movie.year": [
       "(hvilket \u00e5r | hvorn\u00e5r | hvilken dato) var filmen {movie} (lavet | frigivet)"
+    ],
+    "moviemaster.tmdb": [
+      "Hvad er filmen {movie} om",
+      "Fort\u00e6l mig om filmen {movie}",
+      "Hvem spiller i filmen {movie}",
+      "Fort\u00e6l mig om skuespilleren {actor}",
+      "Hvorn\u00e5r blev filmen {movie} lavet"
     ],
     "wikiquote-skill.random": [
       "fort\u00e6l mig (nogle | noget | et) (citat | visdom | klogt)",
@@ -3826,20 +3814,6 @@
       "dimmi una citazione (di|su) {subject}",
       "dammi una citazione (di|su) {subject}",
       "Ho bisogno di una citazione (di|su) {subject}"
-    ]
-  },
-  "kab-dz": {
-    "cocktail.Needed": [
-      "dacu i ne\u1e25wa\u01e7 akken ad neg (yiwen|yiwet) {drink}",
-      "acu i (sri\u0263|tesri\u1e0d) i (akken|ad neg) (yiwen|yiwet) {drink}",
-      "acu-ten (isufar|asafar) (n|i) (yiwen|yiwet) {drink}  "
-    ],
-    "cocktail.Recipie": [
-      "amek ara (ge\u0263|tge\u1e0d) (akken| ad neg) (yiwen|yiwet) {drink}",
-      "ini-d (nekk|nekkni) amek ara (ge\u0263|heyyi\u0263) (yiwen|yiwet) {drink} ",
-      "awi-d (nekk|nekkni) tina\u1e0din i (yiwen|yiwet) {drink}",
-      "amek ara (neg|i uheggi) (yiwen|yiwet) {drink}",
-      "acu n tasesfart i (yiwen|yiwet) {drink} "
     ]
   },
   "nl-nl": {

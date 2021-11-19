@@ -13,7 +13,8 @@ def download():
         "MycroftMarketplace": "https://github.com/OpenVoiceOS/ovos_skill_manager/raw/master/ovos_skills_manager/res/MycroftMarketplace.jsondb",
         "Neon": "https://github.com/OpenVoiceOS/ovos_skill_manager/raw/master/ovos_skills_manager/res/Neon.jsondb",
         "Pling": "https://github.com/OpenVoiceOS/ovos_skill_manager/raw/master/ovos_skills_manager/res/Pling.jsondb",
-        "OVOS": "https://github.com/OpenVoiceOS/ovos_skill_manager/raw/master/ovos_skills_manager/res/OVOS.jsondb"
+        "OVOS": "https://github.com/OpenVoiceOS/ovos_skill_manager/raw/master/ovos_skills_manager/res/OVOS.jsondb",
+   #     "AndloSkillList": "https://github.com/OpenVoiceOS/ovos_skill_manager/blob/master/ovos_skills_manager/res/AndloSkillList.jsondb"
     }
     intents = {}
     entities = {}
@@ -43,7 +44,7 @@ def download():
             # parse
             for path in glob.glob(f'{dst}/*/*/*/*.intent'):
                 name = f'{folder}.{path.split("/")[-1]}'.replace("skill-", "").replace(".intent", "")
-                lang = path.split("/")[-2]
+                lang = path.split("/")[-2].lower()[-5:]
                 with open(path) as f:
                     samples = f.read().split("\n")
                     samples = [s for s in samples if s and not s.startswith("#")]
@@ -53,7 +54,7 @@ def download():
                 print(lang, "intent:", name, intents[lang][name])
             for path in glob.glob(f'{dst}/*/*/*/*.entity'):
                 name = f'{folder}.{path.split("/")[-1]}'.replace("skill-", "").replace(".entity", "")
-                lang = path.split("/")[-2]
+                lang = path.split("/")[-2].lower()[-5:]
                 with open(path) as f:
                     samples = f.read().split("\n")
                     samples = [s for s in samples if s and not s.startswith("#")]
@@ -63,7 +64,7 @@ def download():
                 print(lang, "entity:", name, entities[lang][name])
             for path in glob.glob(f'{dst}/*/*/*/*.voc'):
                 name = f'{folder}.{path.split("/")[-1]}'.replace("skill-", "").replace(".voc", "")
-                lang = path.split("/")[-2]
+                lang = path.split("/")[-2].lower()[-5:]
                 with open(path) as f:
                     samples = f.read().split("\n")
                     samples = [s for s in samples if s and not s.startswith("#")]

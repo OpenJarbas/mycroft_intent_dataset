@@ -1,4 +1,39 @@
 {
+  "ab-dz": {
+    "cocktail.Again": [
+      "rnu "
+    ],
+    "cocktail.Ingredients": [
+      "asafar ",
+      "isufar"
+    ],
+    "cocktail.TellMe": [
+      "acu-tent",
+      "ini-yi-d "
+    ],
+    "cocktail.What": [
+      "dacu-t ",
+      "dacu i yellan "
+    ],
+    "white-house-adventure.Delete": [
+      "kkes "
+    ],
+    "white-house-adventure.Play": [
+      "urar",
+      "ddu ar",
+      "ddu ar"
+    ],
+    "white-house-adventure.Save": [
+      "sekles",
+      "sekles urar",
+      "yettwasekles"
+    ],
+    "white-house-adventure.Zork": [
+      "zork",
+      "tabwa\u1e6d n tib\u1e5batin ",
+      "axxam amellal "
+    ]
+  },
   "ca-es": {
     "Crystal-Ball-Mycroft-Skill.CrystalBall": [
       "Bola de cristall",
@@ -9004,41 +9039,6 @@
       "zork",
       "cassetta della posta",
       "casa bianca"
-    ]
-  },
-  "kab-dz": {
-    "cocktail.Again": [
-      "rnu "
-    ],
-    "cocktail.Ingredients": [
-      "asafar ",
-      "isufar"
-    ],
-    "cocktail.TellMe": [
-      "acu-tent",
-      "ini-yi-d "
-    ],
-    "cocktail.What": [
-      "dacu-t ",
-      "dacu i yellan "
-    ],
-    "white-house-adventure.Delete": [
-      "kkes "
-    ],
-    "white-house-adventure.Play": [
-      "urar",
-      "ddu ar",
-      "ddu ar"
-    ],
-    "white-house-adventure.Save": [
-      "sekles",
-      "sekles urar",
-      "yettwasekles"
-    ],
-    "white-house-adventure.Zork": [
-      "zork",
-      "tabwa\u1e6d n tib\u1e5batin ",
-      "axxam amellal "
     ]
   },
   "nl-nl": {
