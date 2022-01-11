@@ -13600,6 +13600,10 @@ en-us,countries.region,Eastern Asia
 en-us,countries.region,Melanesia
 en-us,countries.region,Micronesia
 en-us,countries.region,Central Asia
+en-us,device-control-center.neon.dialogmode,random
+en-us,device-control-center.neon.dialogmode,default
+en-us,device-control-center.neon.dialogmode,primary
+en-us,device-control-center.neon.dialogmode,normal
 en-us,launcher.neon.program,chrome
 en-us,launcher.neon.program,chromium
 en-us,launcher.neon.program,browser
@@ -13818,6 +13822,42 @@ en-us,mycroft-timer.duration,# minute and
 en-us,mycroft-timer.timervalue,:0
 en-us,mycroft-timer.timervalue,:0 :0
 en-us,mycroft-timer.timervalue,:0 :0 :0
+en-us,usb-cam.neon.duration,### hours
+en-us,usb-cam.neon.duration,### hours and
+en-us,usb-cam.neon.duration,### seconds
+en-us,usb-cam.neon.duration,### seconds and
+en-us,usb-cam.neon.duration,### minutes
+en-us,usb-cam.neon.duration,### minutes and
+en-us,usb-cam.neon.duration,## hours
+en-us,usb-cam.neon.duration,## hours and
+en-us,usb-cam.neon.duration,## seconds
+en-us,usb-cam.neon.duration,## seconds and
+en-us,usb-cam.neon.duration,## minutes
+en-us,usb-cam.neon.duration,## minutes and
+en-us,usb-cam.neon.duration,# hours
+en-us,usb-cam.neon.duration,# hours and
+en-us,usb-cam.neon.duration,# seconds
+en-us,usb-cam.neon.duration,# seconds and
+en-us,usb-cam.neon.duration,# minutes
+en-us,usb-cam.neon.duration,# minutes and
+en-us,usb-cam.neon.duration,### hour
+en-us,usb-cam.neon.duration,### hour and
+en-us,usb-cam.neon.duration,### second
+en-us,usb-cam.neon.duration,### second and
+en-us,usb-cam.neon.duration,### minute
+en-us,usb-cam.neon.duration,### minute and
+en-us,usb-cam.neon.duration,## hour
+en-us,usb-cam.neon.duration,## hour and
+en-us,usb-cam.neon.duration,## second
+en-us,usb-cam.neon.duration,## second and
+en-us,usb-cam.neon.duration,## minute
+en-us,usb-cam.neon.duration,## minute and
+en-us,usb-cam.neon.duration,# hour
+en-us,usb-cam.neon.duration,# hour and
+en-us,usb-cam.neon.duration,# second
+en-us,usb-cam.neon.duration,# second and
+en-us,usb-cam.neon.duration,# minute
+en-us,usb-cam.neon.duration,# minute and
 es-es,mark-2.brightness,máximo
 es-es,mark-2.brightness,brillo
 es-es,mark-2.brightness,medio

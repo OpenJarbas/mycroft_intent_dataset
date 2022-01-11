@@ -1,0 +1,61 @@
+{
+  "de": {
+    "homeassistant.homeassistant.automation.trigger": [
+      "automatisierung {{dev_name}} geschaltet"
+    ],
+    "homeassistant.homeassistant.brightness.badreq": [
+      "Bitte w\u00e4hlen sie eine Helligkeit zwischen 0 und 100",
+      "Wie hell bitte? Sie k\u00f6nnen von 0 bis 100 w\u00e4hlen"
+    ],
+    "homeassistant.homeassistant.brightness.cantdim.dimmable": [
+      "Kann {{dev_name}} nicht dimmen. Es ist nicht dimmbar."
+    ],
+    "homeassistant.homeassistant.brightness.cantdim.off": [
+      "Kann {{dev_name}} nicht dimmen. Es ist aus."
+    ],
+    "homeassistant.homeassistant.brightness.decreased": [
+      "{{dev_name}} wurde auf {{brightness}} Prozent gedimmt",
+      "{{dev_name}} wurde gedimmt"
+    ],
+    "homeassistant.homeassistant.brightness.dimmed": [
+      "{{dev_name}} wurde auf {{brightness}} Prozent gedimmt"
+    ],
+    "homeassistant.homeassistant.brightness.increased": [
+      "Helligkeit von {{dev_name}} wurde auf {{brightness}} erh\u00f6ht",
+      "Helligkeit von {{dev_name}} wurde erh\u00f6ht"
+    ],
+    "homeassistant.homeassistant.device.already": [
+      "{{dev_name}} bereits {{action}}"
+    ],
+    "homeassistant.homeassistant.device.off": [
+      "schalte {{dev_name}} aus"
+    ],
+    "homeassistant.homeassistant.device.on": [
+      "schalte {{dev_name}} ein"
+    ],
+    "homeassistant.homeassistant.device.toggle": [
+      "{{dev_name}} wurde umgeschaltet"
+    ],
+    "homeassistant.homeassistant.device.unknown": [
+      "Die home-assistant komponente {{dev_name}} konnte nicht gefunden werden"
+    ],
+    "homeassistant.homeassistant.error.offline": [
+      "Der Homeassistant-Server scheint offline zu sein",
+      "Der Homeassistant-Server ist nicht erreichbar"
+    ],
+    "homeassistant.homeassistant.error.sorry": [
+      "Ich verstehe deine anfrage nicht",
+      "Keine ahnung was du meinst"
+    ],
+    "homeassistant.homeassistant.sensor": [
+      "Aktuell ist {{dev_name}} auf {{value}} {{unit}}",
+      "{{dev_name}} hat den Wert: {{value}} {{unit}}",
+      "{{dev_name}} ist {{value}} {{unit}}"
+    ],
+    "homeassistant.homeassistant.tracker.found": [
+      "letzter bekannter Ort von {{dev_name}} ist {{location}}",
+      "{{dev_name}} ist bei {{location}}",
+      "{{dev_name}} wurde in {{location}} erkannt"
+    ]
+  }
+}

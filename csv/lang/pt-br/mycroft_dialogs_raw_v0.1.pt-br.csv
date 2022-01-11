@@ -1,0 +1,293 @@
+pt-br,Crystal-Ball-Mycroft-Skill.random.answer,Sim
+pt-br,Crystal-Ball-Mycroft-Skill.random.answer,Não
+pt-br,Crystal-Ball-Mycroft-Skill.random.answer,Tente perguntar novamente depois
+pt-br,Crystal-Ball-Mycroft-Skill.random.answer,Certamente
+pt-br,Crystal-Ball-Mycroft-Skill.random.answer,Claro que não
+pt-br,Crystal-Ball-Mycroft-Skill.random.answer,Com certeza
+pt-br,Crystal-Ball-Mycroft-Skill.random.answer,Neca
+pt-br,Crystal-Ball-Mycroft-Skill.random.answer,Por que não?
+pt-br,Crystal-Ball-Mycroft-Skill.random.answer,Eu não contaria com isso
+pt-br,Crystal-Ball-Mycroft-Skill.random.answer,Pode apostar!
+pt-br,Crystal-Ball-Mycroft-Skill.random.answer,Não conte com isso
+pt-br,Number-Guess-Mycroft-Skill.correct,Está certo!
+pt-br,Number-Guess-Mycroft-Skill.correct,Você entendeu!
+pt-br,Number-Guess-Mycroft-Skill.correct,Correto!
+pt-br,Number-Guess-Mycroft-Skill.correct,Esse é o número!
+pt-br,Number-Guess-Mycroft-Skill.correct,Bom trabalho!
+pt-br,Number-Guess-Mycroft-Skill.correct,Você venceu!
+pt-br,Number-Guess-Mycroft-Skill.get.lower,Qual que você quer que seja o limite inferior?
+pt-br,Number-Guess-Mycroft-Skill.get.upper,Qual que você quer que seja o limite superior?
+pt-br,Number-Guess-Mycroft-Skill.guess,Adivinhe o número
+pt-br,Number-Guess-Mycroft-Skill.guess,Qual número você acha que é?
+pt-br,Number-Guess-Mycroft-Skill.guess,Adivinhe
+pt-br,Number-Guess-Mycroft-Skill.input.error,Eu não consegui entender o que você disse
+pt-br,Number-Guess-Mycroft-Skill.input.error,Algo deu errado enquanto eu tentava entender isso
+pt-br,Number-Guess-Mycroft-Skill.input.error,Um erro de entrada aconteceu
+pt-br,Number-Guess-Mycroft-Skill.input.error,Pode repetir?
+pt-br,Number-Guess-Mycroft-Skill.invalid.input,Essa resposta foi inválida. Eu preciso de um número
+pt-br,Number-Guess-Mycroft-Skill.invalid.input,Por favor responda com um número
+pt-br,Number-Guess-Mycroft-Skill.invalid.input,Você precisa responder com um número
+pt-br,Number-Guess-Mycroft-Skill.invalid.input,Isso não é um número
+pt-br,Number-Guess-Mycroft-Skill.start.game,OK vamos jogar
+pt-br,Number-Guess-Mycroft-Skill.start.game,Que comece o jogo
+pt-br,Number-Guess-Mycroft-Skill.start.game,Iniciando o jogo
+pt-br,Number-Guess-Mycroft-Skill.start.game,Vamos começar
+pt-br,Number-Guess-Mycroft-Skill.start.game,Vamos ver o que você tem
+pt-br,Number-Guess-Mycroft-Skill.start.game,Tudo bem. Vamos jogar Adivinhe o Número
+pt-br,Number-Guess-Mycroft-Skill.too.high,Muito alto
+pt-br,Number-Guess-Mycroft-Skill.too.low,Muito baixo
+pt-br,aircrack.cannot.sudo,Erro eu não consigo dar sudo nos comandos do aircrack sem uma senha. Por favor veja as notas do github.com/JonStratton/skill-aircrack sobre sudo
+pt-br,aircrack.captured.handshake,aperto de mão capturado
+pt-br,aircrack.confirm.permission,Acessar uma rede wifi que você não esteja autorizado a usar pode ser ilegal. Por favor confirme que você tem permissão para se conectar a esta rede dizendo SIM caso contrário diga NÃO para cancelar.
+pt-br,aircrack.deauthing.clients,Clientes desautenticados conectados a rede {{selected_network}}.
+pt-br,aircrack.interfaces.are,As seguintes interfaces estão disponíveis: {{available_interfaces}}
+pt-br,aircrack.interfaces.are,Aqui estão as interfaces disponíveis: {{available_interfaces}}
+pt-br,aircrack.interfaces.are,{{available_interfaces}} estão disponíveis. 
+pt-br,aircrack.monitor.stopped.early,O monitor parou antes da captura do aperto de mão.
+pt-br,aircrack.networks.are,As seguintes redes estão disponíveis: {{available_networks}}
+pt-br,aircrack.no.interfaces,Não há interfaces disponíveis.
+pt-br,aircrack.no.networks,Não há redes disponíveis.
+pt-br,aircrack.no.password,Nenhuma senha encontrada.
+pt-br,aircrack.no.such.interface,Tal interface não foi encontrada. 
+pt-br,aircrack.no.such.network,Tal rede não foi encontrada.
+pt-br,aircrack.recovered.password,A seguinte senha foi recuperada: {{password}}
+pt-br,aircrack.select.interface.first,Favor selecionar a interface primeiro.
+pt-br,aircrack.selected.interface,Interface {{selected_interface}} selecionada.
+pt-br,aircrack.selected.network,Rede {{selected_network}} selecionada.
+pt-br,aircrack.start.monitor,Iniciando o Monitor
+pt-br,aircrack.stop.monitor,Parando o Monitor
+pt-br,auto-volume-skill.activate,OK
+pt-br,auto-volume-skill.activate,Auto volume ativado
+pt-br,auto-volume-skill.activate,Eu ativei o auto volume
+pt-br,auto-volume-skill.deactivate,OK
+pt-br,auto-volume-skill.deactivate,Auto volume desativado
+pt-br,auto-volume-skill.deactivate,Desativei auto volume
+pt-br,auto-volume-skill.reset,Eu desliguei agora o volume automático
+pt-br,cocktail.NotFound,Desculpe-me eu não consegui encontrar o drink que você pediu
+pt-br,cocktail.NotFound,Eu estou preocupado não consegui encontrar isso
+pt-br,cocktail.YouWillNeed,Você irá precisar {ingredients} e {final_ingredient}
+pt-br,cocktail.YouWillNeed,Você irá precisar {ingredients} e {final_ingredient}
+pt-br,cocktail.YouWillNeed,Os ingredientes necessários são: {ingredients} e {final_ingredient}
+pt-br,count-skill.count_error,Eu não entendo. 
+pt-br,count-skill.count_error,Eu estou sentindo falta de algo.
+pt-br,count-skill.count_error,Repita?
+pt-br,count-skill.count_error,Desculpa. Eu não ouvi isso.
+pt-br,count-skill.count_start,Contando para {number}. começando agora!
+pt-br,count-skill.count_stop,Pronto!
+pt-br,count-skill.count_stop,Terminar!
+pt-br,count-skill.countdown_start,Contagem regressiva de {number}. Começando agora!
+pt-br,count-skill.countdown_stop,Pronto!
+pt-br,count-skill.countdown_stop,Terminar!
+pt-br,cut-up-skill.frag_type.set,Selecionou o tipo de fragmento {{frag_type}}.
+pt-br,cut-up-skill.maximum.set,Tamanho máximo do bloco definido para {{max}}.
+pt-br,cut-up-skill.minimum.set,Tamanho mínimo do pedaço definido para {{min}}.
+pt-br,cut-up-skill.randomness.set,Aleatoriedade definida para {{rand}} por cento.
+pt-br,dice-skill.multiple.modificator.result,Seus números são {result} perfazendo um total de {total}
+pt-br,dice-skill.multiple.result,Seus números são {result}
+pt-br,dice-skill.range.needed,Você precisa especificar um intervalo
+pt-br,dice-skill.range.needed,Preciso de um intervalo para fazer isso
+pt-br,dice-skill.range.needed,Me diga o intervalo do qual você quer seus números
+pt-br,dice-skill.single.modificator.result,O resultado é {total}.
+pt-br,dice-skill.single.result,O resultado é {result}.
+pt-br,dice-skill.single.result,Seu número é {result}
+pt-br,email-skill.already.looking.for.all,Eu já estou procurando por novas correspondências
+pt-br,email-skill.already.looking.for.all,Eu já estava procurando por novas correspondências
+pt-br,email-skill.already.looking.for.all,Eu já estou procurando por novos e-mails
+pt-br,email-skill.already.looking.for.specific,Eu já estou procurando por emails de {email}
+pt-br,email-skill.already.looking.for.specific,Eu já estava procurando por novos emails de {email}
+pt-br,email-skill.already.looking.for.specific,Eu já estou procurando por e-mails de {email}
+pt-br,email-skill.cancel.looking.for.all.look.specific,No momento estou procurando por todos os novos emails você quer que eu te notifique apenas sobre emails de {email}
+pt-br,email-skill.cancel.looking.for.all.look.specific,Eu já estava procurando por novos emails você quer que eu te notifique apenas sobre os novos emails de {email}
+pt-br,email-skill.cancel.looking.for.specific.look.all,Eu já estou procurando por {email} você quer que eu procure por todos os novos emails em vez disso?
+pt-br,email-skill.cancel.looking.for.specific.look.all,Neste momento estou procurando apenas por emails de {email}. Você quer que eu procure por todos emails ?
+pt-br,email-skill.cancel.looking.for.specific.look.all,Você quer que eu procure por todos os emails em vez de procurar por apenas emails de {email} ?
+pt-br,email-skill.error.getting.mail,Ocorreu um erro ao obter seu email. Tente verificar suas credenciais e informações do servidor.
+pt-br,email-skill.error.getting.mail,Verifique suas credenciais e informações do servidor porque houve um problema ao obter seu email
+pt-br,email-skill.error.getting.mail,Não consigo me conectar ao seu servidor de email. Verifique sua senha e as informações do servidor.
+pt-br,email-skill.list.subjects,Seu email número {message_num} é de {sender}. O assunto é sobre {subject}.
+pt-br,email-skill.list.subjects,O assunto do {message_num} email é sobre {subject}. É de {sender}.
+pt-br,email-skill.more.emails,Você gostaria de ouvir mais ?
+pt-br,email-skill.more.emails,quer ouvir mais dos seus emails?
+pt-br,email-skill.more.emails,você quer ouvir mais?
+pt-br,email-skill.no.emails.from,Não tem nenhum email de {sender}
+pt-br,email-skill.no.emails.from,Você não tem emails de {sender}
+pt-br,email-skill.no.emails.from,Você não recebeu nenhum email de {sender}
+pt-br,email-skill.no.more.emails,Okay
+pt-br,email-skill.no.new.email,Não há emails novos.
+pt-br,email-skill.no.new.email,Não há novos emails.
+pt-br,email-skill.no.new.email,Não há nenhum email novo
+pt-br,email-skill.no.new.email,Não existe nenhum email novo
+pt-br,email-skill.no.new.email,Não há novos emails para você.
+pt-br,email-skill.no.new.email,Não há nenhum email novo para você.
+pt-br,email-skill.no.new.email,Você não tem nenhum email novo
+pt-br,email-skill.no.new.email,Você não tem nenhum e-mail novo
+pt-br,email-skill.not.looking.for,No momento eu não estou procurando por emails de {email}
+pt-br,email-skill.not.looking.for,Eu não estou procurando por emails de {email}
+pt-br,email-skill.not.looking.for,Neste momento eu não estou procurando por emails de {email}
+pt-br,email-skill.notify.read.email,Você tem {size} novos emails. Você quer escutá-los?
+pt-br,email-skill.notify.read.email,Existem {size} novos emails. Você quer escutá-los?
+pt-br,email-skill.notify.read.email,Você quer escutar os seus {size} emails?
+pt-br,email-skill.poll.emails.not.started,Eu não estou procurando por novos emails
+pt-br,email-skill.poll.emails.not.started,No momento não estou procurando por novos emails
+pt-br,email-skill.setup,Para configurar a habilidade de e-mail por favor vá para home ponto mycroft ponto a i para inserir suas informações de e-mail.
+pt-br,email-skill.setup,Você precisa configurar a habilidade de e-mail. Para fazer isso por favor vá para home ponto mycroft ponto a i para inserir suas informações de e-mail.
+pt-br,email-skill.start.poll.email,Eu vou notificar você sobre novos emails
+pt-br,email-skill.start.poll.email,Okay eu vou começar a notificar você sobre novos emails
+pt-br,email-skill.start.poll.email,Eu estou começando a procurar por novos emails
+pt-br,email-skill.stop.looking.for,Eu vou parar de procurar por novos emails de {email}
+pt-br,email-skill.stop.looking.for,Okay eu vou parar de procurar por novos emails de {email}
+pt-br,email-skill.stop.poll.emails,Okay eu vou parar de procurar por novos emails
+pt-br,email-skill.stop.poll.emails,Tudo bem eu não vou mais procurar por novos emails
+pt-br,email-skill.stop.poll.emails.last.email.removed,Estou parando de procurar por novos emails pois não existem nenhum endereço de email que você quer ser notificado
+pt-br,email-skill.update.notify.data,Eu atualizei suas preferências de email
+pt-br,email-skill.update.notify.data,Tudo bem eu atualizei suas preferências de email 
+pt-br,emby-skill.configuration_fail,Não foi possível conectar ao servidor Emby. Verifique ou defina sua configuração em home.mycroft.ai
+pt-br,emby-skill.configuration_success,Conectado com sucesso ao servidor Emby em {hostname}
+pt-br,emby-skill.diag_auth_fail,Não consigo me autenticar ao servidor Emby. Verifique ou defina sua configuração em home.mycroft.ai
+pt-br,emby-skill.diag_auth_success,Me autentiquei com sucesso ao servidor Emby!
+pt-br,emby-skill.diag_public_info_fail,O servidor Emby em {host} não parece acessível ou não está respondendo.
+pt-br,emby-skill.diag_public_info_success,Ótimo! Eu posso acessar o {ServerName} localizado em {LocalAddress} versão em execução {Version}. Tentando autenticar.
+pt-br,emby-skill.diag_start,Vou executar um diagnóstico de verificação da conexão da habilidade Emby. Isso verificará se o servidor está acessível e se eu consigo me autenticar.
+pt-br,emby-skill.diag_stop,O diagnóstico não continuará.
+pt-br,emby-skill.diagnostic,O diagnóstico está completo. Posso conectar e autenticar no servidor Emby. Agora é hora de tocar música!
+pt-br,emby-skill.emby,Tocando {media}
+pt-br,emby-skill.general_check_settings_logs,Por favor verifique suas configurações no Mycroft.ai. Se esse problema persistir verifique os logs do Mycroft para obter mais informações.
+pt-br,emby-skill.play_fail,Não foi possível encontrar ou reproduzir {media}. Por favor tente novamente.
+pt-br,emby-skill.play_fail,Não foi possível encontrar ou reproduzir {media}. Por favor tente novamente. Se isso continuar verifique sua configuração em home.mycroft.ai
+pt-br,fairytalez-skill.continue,Continue contando {story}
+pt-br,fairytalez-skill.continue,Onde estávamos mesmo? Ah sim aqui. {story}
+pt-br,fairytalez-skill.fairytalez,Conheço mais de 2000 contos de fadas contos populares e fábulas de todo o mundo. Qual deles você gostaria de ouvir?
+pt-br,fairytalez-skill.from_fairytalez,Esses contos de fadas são de www ponto fairytalez ponto com.Eles adoram contos de fadas! Por favor visite o site onde você vai encontrar a maior coleção de contos de fadas contos populares e fábulas online.
+pt-br,fairytalez-skill.i_know_that,{story} é uma boa escolha. Vamos começar...
+pt-br,fairytalez-skill.i_know_that,Sim {story} é uma boa escolha. Começa assim...
+pt-br,fairytalez-skill.is_it_that,É aquele?
+pt-br,fairytalez-skill.is_it_that,Poderia ser isso?
+pt-br,fairytalez-skill.is_it_that,Devo te contar um presente?
+pt-br,fairytalez-skill.is_it_that,Você quer ouvir isso?
+pt-br,fairytalez-skill.let_me_think,Deixa eu ver. Eu conheço {story}
+pt-br,fairytalez-skill.let_me_think,bem eu preciso pensar se eu me lembrar {story}
+pt-br,fairytalez-skill.no_story,Então não sei que estória você quer ouvir.
+pt-br,fairytalez-skill.no_story_to_continue,Não há estória para continuarmos
+pt-br,fairytalez-skill.no_story_to_continue,Lamento. Não há estória para continuarmos.
+pt-br,fairytalez-skill.that_would_be,Eu posso contar a história {story}.
+pt-br,fairytalez-skill.that_would_be,Eu me lembro da {story}.
+pt-br,fairytalez-skill.title_by_author,{title} por {author}
+pt-br,fallback-aiml.reset.memory,Reiniciando base de conhecimentos
+pt-br,fallback-aiml.reset.memory,Esquecendo tudo
+pt-br,fallback-aiml.reset.memory,Certo eu vou reiniciar a minha memória
+pt-br,fallback-aiml.reset.memory,Limpeza cerebral iniciada
+pt-br,fallback-recommendations-skill.skill.download.confirmation,A habilidade {{skill_name}} pode fazer isso por você. Você gostaria que eu fizesse o download?
+pt-br,fallback-recommendations-skill.skill.download.confirmation,Eu encontrei uma habilidade chamada {{skill_name}} que poderia ajudá-lo com isso. Você gostaria que eu fizesse o download?
+pt-br,fallback-recommendations-skill.skill.download.refused,OK.
+pt-br,fallback-recommendations-skill.skill.download.refused,Tudo bem.
+pt-br,fallback-recommendations-skill.skill.downloading,Apenas um momento estou baixando a habilidade {{skill_name}}.
+pt-br,fallback-recommendations-skill.skill.downloading,Apenas um momento estou baixando a habilidade {{skill_name}}.
+pt-br,fallback-recommendations-skill.skill.downloading,Um momento estou baixando a habilidade {{skill_name}}.
+pt-br,fallback-recommendations-skill.skill.downloading,Ok deixe-me fazer o download da habilidade {{skill_name}}.
+pt-br,fallback-recommendations-skill.skill.downloading,Espere um momento enquanto eu baixo a habilidade {{skill_name}}.
+pt-br,fallback-recommendations-skill.skill.downloading,Ok estou baixando a habilidade {{skill_name}}.
+pt-br,iss-tracker-skill.location.current,O I S S ultrapassa a latitude de {{latitude}} de latitude {{longitude}} que corresponde a {{toponym}}
+pt-br,iss-tracker-skill.location.current,A estação espacial está a {latitude}} de latitude {{longitude}} de longitude sobre {{toponym}}
+pt-br,iss-tracker-skill.location.current,Está na latitude de {{latitude}} de longitude {{longitude}} sobre {{toponym}}
+pt-br,iss-tracker-skill.location.current,A estação espacial internacional está agora em {{toponym}} em {{latitude}} latitude {{longitude}} em longitude
+pt-br,iss-tracker-skill.location.current,Acima de {{toponym}} em latitude e longitude {{longitude}}
+pt-br,iss-tracker-skill.location.unknown,Desculpe {{latitude}} latitude {{longitude}} longitude não é conhecida
+pt-br,iss-tracker-skill.location.unknown,Desculpe a estação espacial está em {{latitude}} latitude {{longitude}} longitude mas eu não sei onde isso é
+pt-br,iss-tracker-skill.location.unknown,É em {{latitude}} latitude {{longitude}} longitude que não está codificada neste banco de dados
+pt-br,iss-tracker-skill.location.unknown,A ISS agora ultrapassou a longitude de {{latitude}} de latitude {{longitude}} mas não há recurso geográfico associado
+pt-br,laugh.cancel,o riso parou
+pt-br,laugh.cancel,Não vou rir mais
+pt-br,laugh.cancel_fail,Eu não estou rindo
+pt-br,list-manager-skill.add.item,{{item_name}} adicionado à sua lista {{list_name}}.
+pt-br,list-manager-skill.add.list,Sua nova lista {{list_name}} foi adicionada.
+pt-br,list-manager-skill.and,e
+pt-br,list-manager-skill.cancelled,Cancelado.
+pt-br,list-manager-skill.confirm.deletion,Tem certeza que deseja remover {{element}}?
+pt-br,list-manager-skill.del.item,{{item_name}} removido da sua lista {{list_name}}.
+pt-br,list-manager-skill.del.list,Sua lista {{list_name}} foi removida.
+pt-br,list-manager-skill.item.not.found,{{item_name}} não está na sua lista {{list_name}}.
+pt-br,list-manager-skill.list.found,Você já tem uma lista com o nome {{list_name}}.
+pt-br,list-manager-skill.list.not.found,Você não parece ter uma lista chamada {{list_name}}.
+pt-br,list-manager-skill.list.not.found,Eu não pude encontrar {{list_name}} entre as suas listas.
+pt-br,list-manager-skill.no.items,Você não tem nenhum item em {{list_name}}.
+pt-br,list-manager-skill.no.lists,Você não tem nenhuma lista ainda.
+pt-br,list-manager-skill.read.items,Na sua lista {{list_name}} você tem {{items}}
+pt-br,list-manager-skill.read.lists,Atualmente você tem {{list}} {{lists_names}}.
+pt-br,mark-2.auto.noon,Parece ser meio-dia vou atualizar o brilho.
+pt-br,mark-2.auto.sunrise,Tá bom. O sol vai chegar. Vou ajustar o brilho.
+pt-br,mark-2.auto.sunrise,Tá bom o som apareceu vou ajustar o nível de brilho
+pt-br,mark-2.auto.sunset,Tá bom está escurecendo vou ajustar o brilho de acordo.
+pt-br,mark-2.brightness.error,Não entendi o valor dito para o brilho. Me dê um valor de 0 a 100 por cento.
+pt-br,mark-2.brightness.not.found,Me diga o nível ou porcentagem de brilho para o meu rosto
+pt-br,mark-2.brightness.not.found,Que nível de brilho ou porcentagem você gostaria?
+pt-br,mark-2.brightness.not.found.final,Desculpe não entendi qual intensidade de brilho.
+pt-br,mark-2.brightness.not.found.final,Eu só entendo coisas como máximo ou 50%
+pt-br,mark-2.brightness.set,Tá bom definindo o brilho para {val}.
+pt-br,mark-2.brightness.set,Parece bom definindo brilho para {val}
+pt-br,mark-2.no.web.setting,Nenhuma cor para os olhos foi definida
+pt-br,mark-2.no.web.setting,Não achei nenhuma configuração da web para as cores dos olhos
+pt-br,mark-2.rebooting,Estou reiniciando agora já volto
+pt-br,mark-2.rebooting,Reiniciando volto daqui a alguns minutos
+pt-br,moviemaster.bad.movie.genre.catagory,Não encontrei (nenhuma|nenhum) (série|seriado) (de TV|de televisão) com o gênero {genre}
+pt-br,moviemaster.bad.tv.genre.catagory,Não encontrei (nenhuma|nenhum) (série|seriado) (de TV|de televisão) com o gênero {genre}
+pt-br,moviemaster.fallback.api,Retrocedendo à API padrão
+pt-br,moviemaster.genre.movie.search,os filmes com o gênero {genre} são;
+pt-br,moviemaster.genre.tv.search,(as séries|os seriados|os programas) (de TV) com o gênero {genre} são;
+pt-br,moviemaster.movie.cast,Aqui está o elenco de {movie}; {actorlist} e {lastactor}
+pt-br,moviemaster.movie.cast,As seguintes pessoas (estreiam|atuam|interpretam) no filme {movie}; {actorlist} e {lastactor}
+pt-br,moviemaster.movie.description,o filme {movie} é sobre isso.
+pt-br,moviemaster.movie.description,aqui está uma sinopse do filme {movie}.
+pt-br,moviemaster.movie.genre.multiple,O (filme|curta) pode ser encontrado em um dos gêneros; {genrelist} e {genrelistlast}
+pt-br,moviemaster.movie.genre.multiple,As pessoas consideram que o gênero desse (filme|curta) é {genrelist} ou {genrelistlast}
+pt-br,moviemaster.movie.genre.single,O filme {movie} poderia ser considerado um filme com o gênero {genre}
+pt-br,moviemaster.movie.genre.single,Você pode encontrar o filme {movie} na seção de {genre}
+pt-br,moviemaster.movie.info.response,{movie} foi lançado em {year} com um orçamento de {budget} doláres.
+pt-br,moviemaster.movie.popular,Os lançamentos de filme mais populares são {popularlist}.
+pt-br,moviemaster.movie.popular,{popularlist} no topo das bilheterias neste momento.
+pt-br,moviemaster.movie.production.multiple,As empresas {companies} e {lastcompany} produziram o filme {movie}
+pt-br,moviemaster.movie.production.multiple,{companies} e {lastcompany} produziram o filme {movie}
+pt-br,moviemaster.movie.production.single,A produtora {company} produziu o filme {movie}
+pt-br,moviemaster.movie.recommendations,Eu recomendo os filmes {movielist} se você gosta do filme {movie}
+pt-br,moviemaster.movie.recommendations,Os filmes {movielist} são uma boa escolha se você gosta do (filme|curta) {movie}
+pt-br,moviemaster.movie.runtime,(O|A) (filme|fita) {movie} dura {runtime} minutos.
+pt-br,moviemaster.movie.runtime,O filme {movie} tem duração de {runtime} minutos.
+pt-br,moviemaster.movie.runtime,Assistindo {movie}; Você pode esperar cerca de {runtime} minutos antes de poder ter uma pausa para ir ao banheiro.
+pt-br,moviemaster.movie.top,Estes são os filmes mais populares (em cartaz|exibindo) agora: {toplist}
+pt-br,moviemaster.movie.top,{toplist} são os filmes mais populares (sendo exibidos|em cartaz) agora.
+pt-br,moviemaster.movie.year,(o|a) (filme|fita) {movie} foi (feito|lançado) em {year}
+pt-br,moviemaster.no.api,Você deve digitar sua chave T M D B  A P I em home ponto mycroft ponto a i para usar a habilidade mestre de filme.
+pt-br,moviemaster.no.info,Desculpe. Eu não consigo encontrar nenhuma informação sobre o filme {movie}
+pt-br,moviemaster.no.info.general,Desculpe eu não consigo encontrar a lista que você está procurando agora; por favor pergunte novamente mais tarde.
+pt-br,moviemaster.no.valid.api,A chave A P I digitada não é válida. Consulte o arquivo leia-me para obter instruções sobre como obter uma.
+pt-br,picroft-google-aiy-voicekit-skill.error.initialize,Eu estou com problemas para iniciar a habilidade do kit de voz Google AIY. A habilidade não irá carregar.
+pt-br,remember-skill.delete,Devo deletar a frase: {{PHRASE}}?
+pt-br,remember-skill.deleteall,Devo deletar tudo que eu lembrei para você?
+pt-br,remember-skill.forgotten,Está esquecido.
+pt-br,remember-skill.gotphrase,Eu vou lembrar {{REMEMBER}} para você.
+pt-br,remember-skill.holdon,Eu guardarei esta frase.
+pt-br,remember-skill.iremembered,Eu lembro: {{REMEMBER}}.
+pt-br,remember-skill.short,Eu somente consigo lembrar frases ou palavras com mais de quatro letras. Por favor reformule.
+pt-br,remember-skill.sorry,Sinto muito eu não consigo lembrar de qualquer frase!
+pt-br,remember-skill.sorryforget,Sinto muito houve um erro e eu não consegui esquecer de nada!
+pt-br,remember-skill.sorrynophrase,Sinto muito eu não consegui achar uma frase que correspondesse a sua requisição. 
+pt-br,speedtest-skill.error,Ocorreu um erro e não consegui executar um teste de velocidade... me desculpe.
+pt-br,speedtest-skill.result,A sua velocidade de download é de {{DOWN}} megabits por segundo e sua velocidade de upload é de {{UP}} megabits por segundo.
+pt-br,speedtest-skill.running,Executando o teste de velocidade agora. Já volto com os resultados.
+pt-br,theia-ide-skill.downloading,Fazendo o download do pacote pré-compilado para a plataforma {platform}. Isso pode levar algum tempo dependendo da velocidade da internet.
+pt-br,theia-ide-skill.ide_already_running,A IDE Theia já está em execução. Para acessar abra um navegador e acesse {url}
+pt-br,theia-ide-skill.ide_is_not_running,A IDE Theia não está executando
+pt-br,theia-ide-skill.ide_restarted,IDE Theia iniciada. Para acessar abra um navegador e vá para {url}
+pt-br,theia-ide-skill.ide_started,A IDE Theia está em funcionamento. Para acessar abra um navegador e vá para {url}
+pt-br,theia-ide-skill.ide_stopped,A IDE Theia está parada
+pt-br,theia-ide-skill.install_start,Instalando a IDE Theia
+pt-br,theia-ide-skill.installed_BAD,A IDE Theia não foi instalada. Houve erros durante a instalação.
+pt-br,theia-ide-skill.installed_OK,A IDE Theia foi instalada.
+pt-br,theia-ide-skill.platform_not_supported,Esta plataforma não é suportada.
+pt-br,white-house-adventure.LeavingZork,Deixando o misterioso reino de Zork
+pt-br,white-house-adventure.LeavingZork,Agora saindo de Zork
+pt-br,white-house-adventure.LeavingZork,Saindo zork
+pt-br,white-house-adventure.NoSave,Não há nenhum jogo atual
+pt-br,white-house-adventure.NoSave,Nenhum jogo salvo existe
+pt-br,white-house-adventure.SaveDeleted,Salvar jogo excluído
+pt-br,white-house-adventure.SaveDeleted,Removido o jogo salvo
+pt-br,wikiquote-skill.notfound,Não encontrei nenhuma citação sobre {{subject}}

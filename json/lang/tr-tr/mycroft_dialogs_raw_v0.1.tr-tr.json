@@ -1,0 +1,126 @@
+{
+  "tr-tr": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "Evet",
+      "Hay\u0131r",
+      "Tekrar sormay\u0131 dene",
+      "Kesinlikle",
+      "Tabii ki de\u011fil",
+      "Tabiki",
+      "Hay\u0131r",
+      "Neden olmas\u0131n?",
+      "Ben bahse girmem",
+      "Kesinlikle!",
+      "Nefesini tutma"
+    ],
+    "auto-volume-skill.activate": [
+      "OK",
+      "Otomatik ses seviyesi aktifle\u015ftirildi.",
+      "Otomatik ses seviyesini aktifle\u015ftirdim."
+    ],
+    "auto-volume-skill.deactivate": [
+      "OK",
+      "Otomatik ses seviyesi kapal\u0131",
+      "Otomatik ses seviyesini kapad\u0131m"
+    ],
+    "auto-volume-skill.reset": [
+      "otomatik sesi s\u0131f\u0131rlad\u0131m"
+    ],
+    "cut-up-skill.frag_type.set": [
+      "{{frag_type}} par\u00e7a tipi se\u00e7ildi."
+    ],
+    "cut-up-skill.maximum.set": [
+      "En \u00e7ok y\u0131\u011f\u0131n boyutu {{max}} olarak ayarland\u0131."
+    ],
+    "cut-up-skill.minimum.set": [
+      "En az y\u0131\u011f\u0131n boyutu {{max}} olarak ayarland\u0131."
+    ],
+    "cut-up-skill.randomness.set": [
+      "Rasgele y\u00fczde {{rand}} olarak ayarland\u0131."
+    ],
+    "email-skill.error.getting.mail": [
+      "E-postan\u0131z al\u0131n\u0131rken bir hata olu\u015ftu Kimlik bilgilerinizi ve sunucu bilgilerinizi kontrol etmeyi deneyin",
+      "Postalar\u0131n\u0131z\u0131 al\u0131rken bir sorun olu\u015ftu\u011fu i\u00e7in kimlik bilgilerinizi ve sunucu bilgilerinizi kontrol edin",
+      "E-posta sunucunuza ba\u011flanam\u0131yorum Parolan\u0131z\u0131 ve sunucu bilgilerinizi kontrol edin"
+    ],
+    "email-skill.list.subjects": [
+      "{message_num} numaras\u0131 {sender} aitdir Konusu {subject} 'dir",
+      "{message_num} say\u0131l\u0131 mesaj\u0131n konusu {subject}'dir G\u00f6ndericisi {sender}'dir",
+      "{message_num} numaras\u0131 {sender} aitdir Konusu {subject} 'dir"
+    ],
+    "email-skill.more.emails": [
+      "daha fazlas\u0131n\u0131 duymak ister misin",
+      "e-postalar\u0131ndan daha fazlas\u0131n\u0131 duymak ister misin",
+      "daha fazla duymak ister misin"
+    ],
+    "email-skill.no.more.emails": [
+      "tamam"
+    ],
+    "email-skill.no.new.email": [
+      "Yeni bir e-posta yok",
+      "Yeni bir e-posta yok",
+      "Yeni posta yok",
+      "Yeni posta yok",
+      "Senin i\u00e7in yeni bir e-posta yok",
+      "Senin i\u00e7in yeni posta yok",
+      "Yeni postan\u0131z yok",
+      "Yeni bir e-postan yok"
+    ],
+    "email-skill.setup": [
+      "E-posta becerisi i\u00e7in e-posta bilgileri gerekli, bu ayarlar\u0131 girmek i\u00e7in l\u00fctfen ana sayfaya gidin http://wwwmycroftai",
+      "E-posta becerisini ayarlaman gerekiyor E-posta bilgilerinizi girmek i\u00e7in l\u00fctfen ana sayfaya gidin http://wwwmycroftai"
+    ],
+    "fallback-aiml.reset.memory": [
+      "Bilgi veritaban\u0131n\u0131 s\u0131f\u0131rlama",
+      "Her \u015feyi unut",
+      "Tamam, \u015fimdi haf\u0131zam\u0131 s\u0131f\u0131rlayaca\u011f\u0131m",
+      "Beyin silme ba\u015flat\u0131ld\u0131"
+    ],
+    "krunner-search-skill.krunner.recent": [
+      "Son dosyalar\u0131n\u0131z\u0131 g\u00f6r\u00fcnt\u00fcleme"
+    ],
+    "krunner-search-skill.krunner.search": [
+      "Yerel olarak {{Query}} i\u00e7in arama yap\u0131yorum"
+    ],
+    "picroft-google-aiy-voicekit-skill.error.initialize": [
+      "Google AIY ses seti yetene\u011fini ba\u015flat\u0131rken sorun ya\u015f\u0131yorum. Beceri y\u00fcklenmeyecek"
+    ],
+    "plasma-activities-skill.activities.create": [
+      "Faaliyetiniz {{ActivityName}} Olu\u015fturuldu"
+    ],
+    "plasma-activities-skill.activities.remove": [
+      "Etkinlik kald\u0131r\u0131ld\u0131"
+    ],
+    "plasma-activities-skill.activities.show": [
+      "Faaliyetleri G\u00f6r\u00fcnt\u00fcleme"
+    ],
+    "plasma-activities-skill.activities.stop": [
+      "{StopActivityName}} etkinli\u011fi durduruldu"
+    ],
+    "plasma-activities-skill.activities.switch": [
+      "{{SwitchActivityName}} etkinli\u011fi aktif et"
+    ],
+    "speedtest-skill.error": [
+      "Bir hata olu\u015ftu, h\u0131z testini \u00e7al\u0131\u015ft\u0131ramad\u0131m... \u00fczg\u00fcn\u00fcm."
+    ],
+    "speedtest-skill.result": [
+      "\u0130ndirme h\u0131z\u0131n saniyede {{DOWN}} Megabit ve y\u00fckleme h\u0131z\u0131n saniyede {{UP}} Megabit."
+    ],
+    "speedtest-skill.running": [
+      "H\u0131z testi \u015fimdi ba\u015fl\u0131yor, sonu\u00e7lar gelince bildirece\u011fim."
+    ],
+    "white-house-adventure.LeavingZork": [
+      "Gizemli Zork Krall\u0131\u011f\u0131'ndan ayr\u0131l",
+      "\u015eimdi Zork'tan ayr\u0131l",
+      "Zork'tan \u00e7\u0131k"
+    ],
+    "white-house-adventure.NoSave": [
+      "Mevcut bir kay\u0131tl\u0131 oyun yok",
+      "Kay\u0131tl\u0131 oyun yok"
+    ],
+    "white-house-adventure.SaveDeleted": [
+      "Kay\u0131tl\u0131 oyun silindi",
+      "Kay\u0131tl\u0131 oyun kald\u0131r\u0131ld\u0131"
+    ]
+  }
+}

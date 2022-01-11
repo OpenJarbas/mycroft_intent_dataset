@@ -1235,6 +1235,19 @@ en-us,ddg.search_duck,what does duck duck say about {query}
 en-us,ddg.search_duck,search the duck for {query}
 en-us,ddg.search_duck,what does the duck say about {query}
 en-us,ddg.who,who is {person}
+en-us,device-control-center.neon.change_dialog,switch to {dialogmode} dialogue mode
+en-us,device-control-center.neon.change_dialog,switch to {dialogmode} dialog mode
+en-us,device-control-center.neon.change_dialog,switch to the {dialogmode} dialogue mode
+en-us,device-control-center.neon.change_dialog,switch to the {dialogmode} dialog mode
+en-us,device-control-center.neon.change_dialog,i want you to begin {dialogmode} dialogue mode
+en-us,device-control-center.neon.change_dialog,i want you to begin {dialogmode} dialog mode
+en-us,device-control-center.neon.change_dialog,change your dialogue mode to {dialogmode}
+en-us,device-control-center.neon.change_dialog,change your dialog mode to {dialogmode}
+en-us,device-control-center.neon.exit_shutdown,i want you to exit
+en-us,device-control-center.neon.exit_shutdown,i want you to shutdown
+en-us,device-control-center.neon.exit_shutdown,i want you to shut down
+en-us,device-control-center.neon.show_demo,neon i want to see demo
+en-us,device-control-center.neon.show_demo,neon show me the demo
 en-us,dice-skill.Dice,roll d {type}
 en-us,dice-skill.Dice,roll d {type} {modifier}
 en-us,dice-skill.Dice,roll d {type} plus
@@ -7364,6 +7377,11 @@ en-us,spotify-skill.ShuffleOn,turn on spotify shuffling on
 en-us,spotify-skill.ShuffleOn,turn on spotify shuffling
 en-us,spotify-skill.ShuffleOn,turn on spotify shuffle on
 en-us,spotify-skill.ShuffleOn,turn on spotify shuffle
+en-us,support-helper.neon.contact.support,create a troubleshoot request
+en-us,support-helper.neon.contact.support,create a troubleshooting ticket
+en-us,support-helper.neon.contact.support,troubleshoot my device
+en-us,support-helper.neon.contact.support,contact support
+en-us,support-helper.neon.contact.support,create a support ticket
 en-us,support.contact.support,create a troubleshoot request
 en-us,support.contact.support,troubleshoot my device
 en-us,support.contact.support,contact support
@@ -7430,6 +7448,71 @@ en-us,twitch-streams.show_home_twitch,show twitch app
 en-us,twitch-streams.show_home_twitch,launch twitch app
 en-us,twitch-streams.show_home_twitch,open twitch tv
 en-us,twitch-streams.show_home_twitch,show twitch tv
+en-us,usb-cam.neon.ShowLastIntent,display last picture
+en-us,usb-cam.neon.ShowLastIntent,display last photo
+en-us,usb-cam.neon.ShowLastIntent,display latest picture
+en-us,usb-cam.neon.ShowLastIntent,display latest photo
+en-us,usb-cam.neon.ShowLastIntent,display last picture
+en-us,usb-cam.neon.ShowLastIntent,display my user last picture
+en-us,usb-cam.neon.ShowLastIntent,display my last photo
+en-us,usb-cam.neon.ShowLastIntent,display my latest picture
+en-us,usb-cam.neon.ShowLastIntent,display my latest photo
+en-us,usb-cam.neon.ShowLastIntent,show the last picture
+en-us,usb-cam.neon.ShowLastIntent,show the last photo
+en-us,usb-cam.neon.ShowLastIntent,show the last pic
+en-us,usb-cam.neon.ShowLastIntent,show the last pick
+en-us,usb-cam.neon.ShowLastIntent,show latest picture
+en-us,usb-cam.neon.ShowLastIntent,show latest photo
+en-us,usb-cam.neon.ShowLastIntent,show latest pic
+en-us,usb-cam.neon.ShowLastIntent,show latest pick
+en-us,usb-cam.neon.ShowLastIntent,show me my last picture
+en-us,usb-cam.neon.ShowLastIntent,show me my latest picture
+en-us,usb-cam.neon.ShowLastIntent,show me my latest photo
+en-us,usb-cam.neon.ShowLastIntent,show me my latest pic
+en-us,usb-cam.neon.ShowLastIntent,show me my latest pick
+en-us,usb-cam.neon.ShowLastIntent,display last video
+en-us,usb-cam.neon.ShowLastIntent,display latest video
+en-us,usb-cam.neon.ShowLastIntent,display my last video
+en-us,usb-cam.neon.ShowLastIntent,display my latest video
+en-us,usb-cam.neon.ShowLastIntent,show the last video
+en-us,usb-cam.neon.ShowLastIntent,show latest video
+en-us,usb-cam.neon.ShowLastIntent,show me my the last video
+en-us,usb-cam.neon.ShowLastIntent,show me my latest video
+en-us,usb-cam.neon.ShowLastIntent,playback my last video
+en-us,usb-cam.neon.ShowLastIntent,play back last video
+en-us,usb-cam.neon.ShowLastIntent,play back my user last video
+en-us,usb-cam.neon.ShowLastIntent,show my user photo
+en-us,usb-cam.neon.ShowLastIntent,show my user picture
+en-us,usb-cam.neon.ShowLastIntent,show my user video
+en-us,usb-cam.neon.TakePicIntent,take picture
+en-us,usb-cam.neon.TakePicIntent,take my user picture
+en-us,usb-cam.neon.TakePicIntent,take photo
+en-us,usb-cam.neon.TakePicIntent,take my user photo
+en-us,usb-cam.neon.TakePicIntent,take a picture
+en-us,usb-cam.neon.TakePicIntent,camera capture
+en-us,usb-cam.neon.TakePicIntent,webcam capture
+en-us,usb-cam.neon.TakeVidIntent,record {duration} video
+en-us,usb-cam.neon.TakeVidIntent,record my user {duration} video
+en-us,usb-cam.neon.TakeVidIntent,neon record {duration} video
+en-us,usb-cam.neon.TakeVidIntent,neon record my user {duration} video
+en-us,usb-cam.neon.TakeVidIntent,video {duration}
+en-us,usb-cam.neon.TakeVidIntent,video my user {duration}
+en-us,usb-cam.neon.TakeVidIntent,neon video {duration}
+en-us,usb-cam.neon.TakeVidIntent,neon video my user {duration}
+en-us,usb-cam.neon.TakeVidIntent,take {duration} recording
+en-us,usb-cam.neon.TakeVidIntent,take my user {duration} recording
+en-us,usb-cam.neon.TakeVidIntent,neon take {duration} recording
+en-us,usb-cam.neon.TakeVidIntent,neon take my user {duration} recording
+en-us,usb-cam.neon.TakeVidIntent,take {duration} video
+en-us,usb-cam.neon.TakeVidIntent,take my user {duration} video
+en-us,usb-cam.neon.TakeVidIntent,neon take {duration} video
+en-us,usb-cam.neon.TakeVidIntent,neon take my user {duration} video
+en-us,usb-cam.neon.TakeVidIntent,record for {duration}
+en-us,usb-cam.neon.TakeVidIntent,neon record for {duration}
+en-us,usb-cam.neon.TakeVidIntent,video record for {duration}
+en-us,usb-cam.neon.TakeVidIntent,neon video record for {duration}
+en-us,usb-cam.neon.TakeVidIntent,take a video
+en-us,usb-cam.neon.TakeVidIntent,neon take a video
 en-us,viirs.about,about viirs
 en-us,viirs.about,about Visible Infrared Imaging Radiometer Suite
 en-us,viirs.about,talk about Visible Infrared Imaging Radiometer Suite

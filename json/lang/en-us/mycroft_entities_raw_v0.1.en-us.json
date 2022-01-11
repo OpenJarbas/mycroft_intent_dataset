@@ -354,6 +354,12 @@
       "Micronesia",
       "Central Asia"
     ],
+    "device-control-center.neon.dialogmode": [
+      "random",
+      "default",
+      "primary",
+      "normal"
+    ],
     "launcher.neon.program": [
       "chrome",
       "chromium",
@@ -551,6 +557,10 @@
       ":0",
       ":0 :0",
       ":0 :0 :0"
+    ],
+    "usb-cam.neon.duration": [
+      "(#|##|###) (minutes|seconds|hours) (and|)",
+      "(#|##|###) (minute|second|hour) (and|)"
     ]
   }
 }

@@ -533,6 +533,15 @@
       "//play the song called holy mountain by the musicians sleep",
       "//play the song called holy mountain by the musicians called sleep"
     ],
+    "support-helper.neon.contact.support": [
+      "Ich habe ein Problem",
+      "etwas funktioniert nicht",
+      "Was ist los mit dir?",
+      "Erstelle mir eine Problembehandlungsanforderung",
+      "Fehlerbehebung f\u00fcr mein Ger\u00e4t",
+      "Kontaktiere den Support",
+      "Erstelle ein Support-Ticket"
+    ],
     "support.contact.support": [
       "Ich habe ein Problem",
       "etwas funktioniert nicht",

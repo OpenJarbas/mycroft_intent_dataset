@@ -1,0 +1,212 @@
+{
+  "es-lm": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "S\u00ed",
+      "No",
+      "Intenta preguntar m\u00e1s tarde",
+      "Definitivamente",
+      "Por supuesto que no",
+      "Por supuesto",
+      "Nop",
+      "\u00bfPor qu\u00e9 no?",
+      "Yo no contar\u00eda con eso",
+      "\u00a1Seguro!",
+      "Ten paciencia"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "\u00a1Muy bien!",
+      "\u00a1Bien hecho!",
+      "\u00a1Correcto!",
+      "\u00a1Has acertado!",
+      "\u00a1Buen trabajo!",
+      "\u00a1Has ganado!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "\u00bfCu\u00e1l quieres que sea el l\u00edmite inferior?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "\u00bfCu\u00e1l quieres que sea el l\u00edmite superior?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "Adivina el n\u00famero",
+      "\u00bfQue n\u00famero crees que es?",
+      "Adivina"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "No pude entender lo que has dicho",
+      "Algo fue mal cuando intentaba entender eso",
+      "Se ha producido un error de entrada",
+      "\u00bfPuedes decir eso otra vez?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "Esa respuesta no es v\u00e1lida. Necesito un n\u00famero",
+      "Por favor, responde con un n\u00famero",
+      "Tienes que responder con un n\u00famero",
+      "Eso no es un n\u00famero"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "De acuerdo, juguemos",
+      "Que comience el juego",
+      "Iniciando el juego",
+      "Empecemos",
+      "Veamos lo que tienes",
+      "De acuerdo. Juguemos a Adivina el N\u00famero"
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "Demasiado alto"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "Demasiado bajo"
+    ],
+    "cocktail.NotFound": [
+      "Perd\u00f3n, no puedo encontrar la bebida solicitada",
+      "Perd\u00f3n, no lo he encontrado"
+    ],
+    "cocktail.YouWillNeed": [
+      "Necesitar\u00e1s {ingredients} y {final_ingredient}",
+      "Necesitar\u00e1s {ingredients} y {final_ingredient}",
+      "Los ingredientes necesarios son: {ingredients} y {final_ingredient}"
+    ],
+    "email-skill.already.looking.for.all": [
+      "ya estoy buscando un correo nuevo",
+      "ya revis\u00e9 el correo nuevo",
+      "ya estoy buscando un correo nuevo"
+    ],
+    "email-skill.already.looking.for.specific": [
+      "ya estoy buscando un nuevo correo de {email}",
+      "ya he estado buscando un nuevo correo de {email}",
+      "ya estoy buscando el correo desde {email}"
+    ],
+    "email-skill.cancel.looking.for.all.look.specific": [
+      "actualmente estoy buscando todos los correos nuevos, \u00bfquieres que te notifique solamente los correos de {email}",
+      "ya he estado buscando nuevos correos electr\u00f3nicos,\u00bfquieres que te notifique solamente los nuevos correos electr\u00f3nicos de {email}"
+    ],
+    "email-skill.cancel.looking.for.specific.look.all": [
+      "actualmente estoy buscando correos de {email}, en vez de eso, \u00bfquieres que busque todos los correos nuevos?",
+      "ahora mismo, solo estoy buscando correos electr\u00f3nicos de {email}\u00a1quieres que busque para todos los correos electr\u00f3nicos?",
+      "\u00bfDesea que busque todos los correos electr\u00f3nicos en lugar de buscarlos solo para {email}?"
+    ],
+    "email-skill.error.getting.mail": [
+      "Hubo un error al obtener tu correo electr\u00f3nico. Comprueba tus credenciales y la informaci\u00f3n del servidor",
+      "Comprueba tus credenciales y la informaci\u00f3n del servidor porque hubo un problema obteniendo tu correo",
+      "No puedo conectar a tu servidor de correo. Comprueba tu contrase\u00f1a y la informaci\u00f3n del servidor."
+    ],
+    "email-skill.list.subjects": [
+      "Tu correo {message_num} es de {sender}. El asunto es {subject}.",
+      "El asunto del correo {message_num} es {subject} Es de {sender}."
+    ],
+    "email-skill.more.emails": [
+      "\u00bfquieres o\u00edr m\u00e1s?",
+      "\u00bfquieres o\u00edr mas correos?",
+      "\u00bfquieres o\u00edr m\u00e1s?"
+    ],
+    "email-skill.no.emails.from": [
+      "No hay correos de {sender}",
+      "No tienes correos de {sender}",
+      "No has recibido correos de {sender}"
+    ],
+    "email-skill.no.more.emails": [
+      "de acuerdo.",
+      "ok",
+      "aceptar"
+    ],
+    "email-skill.no.new.email": [
+      "No hay correo nuevo",
+      "No hay nuevos emails",
+      "No hay correo nuevo",
+      "No hay nuevos correo ( s ) .",
+      "No tienes correo nuevo",
+      "No tienes correos nuevos",
+      "No tienes correo nuevo",
+      "No tienes ning\u00fan correo nuevo"
+    ],
+    "email-skill.not.looking.for": [
+      "No estoy buscando correos por {email}",
+      "No estoy buscando correos por {email}",
+      "Justo ahora, no estoy buscando correos por {email}"
+    ],
+    "email-skill.notify.read.email": [
+      "Tienes {size} nuevos correos electr\u00f3nicos, \u00bfquieres escucharlos?",
+      "Hay {size} nuevos correos electr\u00f3nicos \u00bfQuieres escucharlos?",
+      "\u00bfQuieres escuchar tus {size} correos electr\u00f3nicos?"
+    ],
+    "email-skill.poll.emails.not.started": [
+      "no estoy buscando un correo nuevo",
+      "Actualmente no estoy mirando si hay nuevos emails"
+    ],
+    "email-skill.setup": [
+      "Para configurar el skill de correo electr\u00f3nico, ve a home punto mycroft punto a i para introducir la informaci\u00f3n necesaria",
+      "Tienes que configurar el skill de correo electr\u00f3nico. Para hacerlo, ve a home punto mycroft punto a i para introducir la informaci\u00f3n necesaria"
+    ],
+    "email-skill.start.poll.email": [
+      "Te notificar\u00e9 de nuevos correos",
+      "Bien, comenzar\u00e9 a notificarte en caso de nuevo correo",
+      "Comenzando a revisar correo nuevo"
+    ],
+    "email-skill.stop.looking.for": [
+      "No buscar\u00e9 nuevo correo de {email}",
+      "Bien, no buscar\u00e9 nuevo correo de {email}"
+    ],
+    "email-skill.stop.poll.emails": [
+      "Bien, no buscar\u00e9 nuevo correo",
+      "Muy bien, no volver\u00e9 a buscar nuevo correo de nuevo"
+    ],
+    "email-skill.stop.poll.emails.last.email.removed": [
+      "No buscar\u00e9 nuevo correo, porque no hay direcciones de correo de las cuales quieras ser notificado"
+    ],
+    "email-skill.update.notify.data": [
+      "Actualic\u00e9 tus preferencias de email",
+      "Muy bien, he actualizado tus preferencias de email"
+    ],
+    "emby-skill.configuration_fail": [
+      "allo al conectar con el servidor de Emby. Por favor, comprueba o empieza con la configuracion en home.mycroft.ai"
+    ],
+    "emby-skill.configuration_success": [
+      "Conectado correctamente al servidor de Emby en {hostname}"
+    ],
+    "emby-skill.diag_auth_fail": [
+      "Me es imposible autentificar con el servidor de emby. Por favor comprueba tu configuracion en home.mycroft.ai"
+    ],
+    "emby-skill.diag_auth_success": [
+      "Me he autenticado correctamente en el servidor Emby"
+    ],
+    "emby-skill.diag_public_info_fail": [
+      "El servidor emby en {host} no parece ser alcanzable o no responde"
+    ],
+    "emby-skill.diag_public_info_success": [
+      "\u00a1Genial! Puedo acceder {ServerName} alojado en {LocalAddress} ejecutando la versi\u00f3n {Version}. Intentando autenticar"
+    ],
+    "emby-skill.diag_start": [
+      "Voy a realizar un diagn\u00f3stico de comprobaci\u00f3n de la conexi\u00f3n de la habilidad emby. Esto comprobar\u00e1 si el servidor es accesible y si soy capaz de autenticarme"
+    ],
+    "emby-skill.diag_stop": [
+      "El diagn\u00f3stico no continuar\u00e1."
+    ],
+    "emby-skill.diagnostic": [
+      "El diagn\u00f3stico est\u00e1 completo. Ya me puedo conectar y autenticar en el servidor Emby. \u00a1Ahora es el momento de poner un poco de m\u00fasica!"
+    ],
+    "emby-skill.emby": [
+      "Reproduciendo {media}"
+    ],
+    "emby-skill.general_check_settings_logs": [
+      "Por favor, comprueba tu configuraci\u00f3n en Mycrof.ai. Si el problema persiste, comprueba los log de Mycroft para m\u00e1s informaci\u00f3n"
+    ],
+    "emby-skill.play_fail": [
+      "Imposible encontrar o reproducir {media}. Por favor int\u00e9ntelo de nuevo",
+      "No es posible encontrar o reproducir {media}. Por favor int\u00e9ntalo de nuevo. Si esto contin\u00faa ocurriendo, comprueba tu configuraci\u00f3n en home.Mycroft.ai"
+    ],
+    "white-house-adventure.LeavingZork": [
+      "Abandonando el reino misterioso de Zork",
+      "Abandonando Zork",
+      "Cerrando Zork"
+    ],
+    "white-house-adventure.NoSave": [
+      "No hay un juego guardado actual",
+      "No existe ningun juego guardado"
+    ],
+    "white-house-adventure.SaveDeleted": [
+      "El juego guardado fue borrado",
+      "El juego guardado se borr\u00f3"
+    ]
+  }
+}

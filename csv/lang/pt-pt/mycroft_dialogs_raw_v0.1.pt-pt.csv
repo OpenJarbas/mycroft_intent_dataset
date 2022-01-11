@@ -1,0 +1,37 @@
+pt-pt,alarm.alarm.off,o alarme foi desligado
+pt-pt,alarm.alarm.off,o alarme foi encerrado
+pt-pt,alarm.alarm.off,o alarme foi parado
+pt-pt,alarm.alarm.stop,Say turn off alarm to end this alarm
+pt-pt,alarm.alarm.stop,Diga desligar o alarme para terminar este alarme
+pt-pt,alarm.schedule.create,Alarme definido para {{datetime}}
+pt-pt,alarm.schedule.create,You have a new alarm on {{datetime}}
+pt-pt,alarm.schedule.create,Tu tens um novo alarme
+pt-pt,alarm.schedule.create,Você tem um novo alarme
+pt-pt,alarm.schedule.create,O novo alarme para {{datetime}} foi adicionado  
+pt-pt,alarm.schedule.datetime.error,Desculpe eu não encontrei uma data e hora válida para o alarme.
+pt-pt,alarm.schedule.datetime.error,Não foi possível pôr um alarme para a data e a hora informada.
+pt-pt,alarm.schedule.delete.empty,Não há alarme para ser removido
+pt-pt,alarm.schedule.delete.empty,Você não tem nenhum alarme para ser apagado
+pt-pt,alarm.schedule.delete.many,{{amount}} alarmes removidos
+pt-pt,alarm.schedule.delete.many,{{amount}} alarmes foram cancelados
+pt-pt,alarm.schedule.delete.many,Você apagou {{amount}} alarmes
+pt-pt,alarm.schedule.delete.single,Um alarme removido
+pt-pt,alarm.schedule.delete.single,Um alarme foi cancelado
+pt-pt,alarm.schedule.delete.single,Você apagou um alarme
+pt-pt,alarm.schedule.list,Você tem um alarme para o {{datetime}}
+pt-pt,alarm.schedule.list,Existe um alarme definido para {{datetime}}
+pt-pt,alarm.schedule.list.empty,Não existe nenhum alarme a ser listado
+pt-pt,alarm.schedule.list.empty,Você não tem nenhum alarme para ser listado
+pt-pt,ddg.no_answer,o pato não sabe a resposta
+pt-pt,icanhazdadjokes.no_joke,não encontrei nenhuma piada sobre {search}
+pt-pt,icanhazdadjokes.no_joke,não encontrei nenhuma anedota sobre {search}
+pt-pt,krunner-search-skill.krunner.recent,Exibir os teus recentes ficheiros 
+pt-pt,krunner-search-skill.krunner.search,Estou procurando localmente pôr  {{ Query }}
+pt-pt,laugh.cancel,eu vou para de rir
+pt-pt,laugh.cancel_fail,eu não me estou a rir
+pt-pt,plasma-activities-skill.activities.create,Tua actividade {{ ActivityName }} foi criada
+pt-pt,plasma-activities-skill.activities.remove,Actividade foi removida
+pt-pt,plasma-activities-skill.activities.show,Exibir actividades
+pt-pt,plasma-activities-skill.activities.stop,{{ StopActivityName }} actividade foi parada
+pt-pt,plasma-activities-skill.activities.switch,Trocar para actividade {{ SwitchActivityName }}
+pt-pt,wolfie.no_answer,o lobo não sabe a resposta

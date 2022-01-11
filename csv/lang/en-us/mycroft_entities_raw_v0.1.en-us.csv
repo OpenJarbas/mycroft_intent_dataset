@@ -334,6 +334,10 @@ en-us,countries.region,Eastern Asia
 en-us,countries.region,Melanesia
 en-us,countries.region,Micronesia
 en-us,countries.region,Central Asia
+en-us,device-control-center.neon.dialogmode,random
+en-us,device-control-center.neon.dialogmode,default
+en-us,device-control-center.neon.dialogmode,primary
+en-us,device-control-center.neon.dialogmode,normal
 en-us,launcher.neon.program,chrome
 en-us,launcher.neon.program,chromium
 en-us,launcher.neon.program,browser
@@ -518,3 +522,5 @@ en-us,mycroft-timer.duration,(#|##|###) (minute|second|hour) (and|)
 en-us,mycroft-timer.timervalue,:0
 en-us,mycroft-timer.timervalue,:0 :0
 en-us,mycroft-timer.timervalue,:0 :0 :0
+en-us,usb-cam.neon.duration,(#|##|###) (minutes|seconds|hours) (and|)
+en-us,usb-cam.neon.duration,(#|##|###) (minute|second|hour) (and|)

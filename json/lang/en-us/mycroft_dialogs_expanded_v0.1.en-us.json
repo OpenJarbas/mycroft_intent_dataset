@@ -1,0 +1,4077 @@
+{
+  "en-us": {
+    "8fact.8fact": [
+      "I scrapped my facts from social media",
+      "I scrapped my facts from the social media pages of 8 fact",
+      "My facts come from 8 fact instagram page",
+      "I download facts from 8 fact social media",
+      "My facts come from 8 fact"
+    ],
+    "8fact.intro": [
+      "thank you for installing {skill_name} skill"
+    ],
+    "8fact.no_idea": [
+      "I don't know",
+      "I have not verified the sources",
+      "It is in the internet, it must be true",
+      "Take everything with a grain of salt",
+      "Sources have not been checked",
+      "Sources have not been provided"
+    ],
+    "8fact.number_facts": [
+      "I know {{number}} facts",
+      "I scrapped {{number}} facts from 8 fact",
+      "I have {{number}} facts in my database"
+    ],
+    "Communication.neon.cant.call": [
+      "I wasn't able to handle your call request."
+    ],
+    "Communication.neon.cant.send": [
+      "I wasn't able to handle your messaging request."
+    ],
+    "Communication.neon.one_moment": [
+      "Just a moment.",
+      "One moment."
+    ],
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "Yes",
+      "No",
+      "Try asking again later",
+      "Definitely",
+      "Of course not",
+      "Sure",
+      "Nope",
+      "Why not?",
+      "I wouldn't bet on it",
+      "You bet!",
+      "Don't hold your breath"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "That's right!",
+      "You got it!",
+      "Correct!",
+      "That's the number!",
+      "Good job!",
+      "You win!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "What do you want the lower bound to be?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "What do you want the upper bound to be?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "Guess the number",
+      "What do you think the number is",
+      "Guess"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "I couldn't understand what you said",
+      "Something went wrong while I was trying to understand that",
+      "An input error occurred",
+      "Could you say that again?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "That answer was invalid. I need a number",
+      "Please reply with a number",
+      "You need to reply with a number",
+      "That's not a number"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "OK let's play",
+      "Let the game begin",
+      "Starting the game",
+      "Let's start",
+      "Let's see what you've got",
+      "Alright. Let's play Number Guess"
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "Too high"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "Too low"
+    ],
+    "Wiktionary-Skill.error.wiktionary": [
+      "Sorry, but I could not find a definition for your word.",
+      "I do not have a definition for the word you requested, please try again.",
+      "I'm sorry but I don't have a definition for your word."
+    ],
+    "Wiktionary-Skill.fallback.wiktionary": [
+      "The definition of {{word}} is: {{definition}}",
+      "Here is the definition of {{word}}: {{definition}}"
+    ],
+    "about.neon.license_long": [
+      "I am licensed by neongecko.com Inc. under the Apache open source license Version 2.0, published January 2004. Subject to legal restrictions on trademarks, copyrights, and patents. All rights are reserved to their owners. US Patents #7424516, #20140161250, #20140177813, #8638908, #8068604, #8553852. China Patent #102017585. Europe Patent #2156652"
+    ],
+    "about.neon.license_short": [
+      "Copyright 2019 Neongecko Inc. All Rights Reserved."
+    ],
+    "about.neon.skills_list": [
+      "I have the following skills: {{list}}"
+    ],
+    "aircrack.cannot.sudo": [
+      "Error, I cannot seem to sudo the aircrack commands without a password. Please see github.com/JonStratton/skill-aircrack for notes on sudo access."
+    ],
+    "aircrack.captured.handshake": [
+      "Captured Handshake"
+    ],
+    "aircrack.confirm.permission": [
+      "Accessing a wifi network you are not authorized to use can be illegal. Please confirm that you have permission to connect to this network by saying Yes, otherwise say No to cancel."
+    ],
+    "aircrack.deauthing.clients": [
+      "Deauthing clients connected to the {{selected_network}} network."
+    ],
+    "aircrack.interfaces.are": [
+      "The following Interfaces are available: {{available_interfaces}}",
+      "Here are the available Interfaces: {{available_interfaces}}",
+      "{{available_interfaces}} are available."
+    ],
+    "aircrack.monitor.stopped.early": [
+      "Monitor stopped before handshake captured."
+    ],
+    "aircrack.networks.are": [
+      "The following networks are available: {{available_networks}}"
+    ],
+    "aircrack.no.interfaces": [
+      "There are no available interfaces."
+    ],
+    "aircrack.no.networks": [
+      "There are no available networks."
+    ],
+    "aircrack.no.password": [
+      "No password found."
+    ],
+    "aircrack.no.such.interface": [
+      "No such Interface found."
+    ],
+    "aircrack.no.such.network": [
+      "No such network found."
+    ],
+    "aircrack.recovered.password": [
+      "Recovered the following password: {{password}}"
+    ],
+    "aircrack.select.interface.first": [
+      "Please select Interface first."
+    ],
+    "aircrack.selected.interface": [
+      "Selected the {{selected_interface}} interface."
+    ],
+    "aircrack.selected.network": [
+      "Selected the {{selected_network}} network."
+    ],
+    "aircrack.start.monitor": [
+      "Starting Monitor"
+    ],
+    "aircrack.stop.monitor": [
+      "Stopping Monitor"
+    ],
+    "alarm.alarm.error": [
+      "Sorry. Are you trying to set an alarm? can you please rephrase that.",
+      "It seems you may be trying to set an alarm. can you please rephrase that."
+    ],
+    "alarm.alarm.off": [
+      "the alarm has been turned off",
+      "the alarm has been shut off",
+      "the alarm has been stopped"
+    ],
+    "alarm.alarm.scheduled": [
+      "Alarm set for {{time}}",
+      "Creating a new alarm for {{time}}",
+      "A new alarm for {{time}} was added"
+    ],
+    "alarm.alarm.scheduled.repeating": [
+      "recurring Alarm set for {{time}}",
+      "You have a new recurring alarm on {{time}}",
+      "A new recurring alarm for {{time}} was added"
+    ],
+    "alarm.alarm.status": [
+      "You have {{amount}} active {{plural}}. {{string}}"
+    ],
+    "alarm.alarm.stop": [
+      "Say, turn off alarm to end this alarm"
+    ],
+    "alarm.alarms.list": [
+      "For one time alarms: {{alarms}}"
+    ],
+    "alarm.alarms.list.amt": [
+      "You have {{amount}} active alarms."
+    ],
+    "alarm.alarms.list.repeat": [
+      "For recurring alarms: {{alarms}}"
+    ],
+    "alarm.delete.alarm": [
+      "Okay, deleting {{name}} alarm"
+    ],
+    "alarm.delete.alarm.recurring": [
+      "Okay, deleting the recurring {{name}} alarm"
+    ],
+    "alarm.delete.match": [
+      "For one time alarms: {{alarms}}"
+    ],
+    "alarm.delete.match.repeat": [
+      "For recurring alarms: {{alarms}}"
+    ],
+    "alarm.delete.multimatch": [
+      "multiple matches found."
+    ],
+    "alarm.delete.multimatch.response": [
+      "were you referring to the one time alarm, or the recurring alarm."
+    ],
+    "alarm.delete.no.match": [
+      "I could not find a matching alarm to delete."
+    ],
+    "alarm.delete.no.options": [
+      "Could not understand the response to delete alarms."
+    ],
+    "alarm.need.ampm": [
+      "No problem. Shall I set it for the morning or the evening?",
+      "Should I set this for the morning or the evening?",
+      "Of Course. Do you want to set this for the morning or the evening?"
+    ],
+    "alarm.no.time.found": [
+      "I couldn't find a time to schedule that alarm."
+    ],
+    "alerts.neon.AlertExpired": [
+      "Your {{name}} is up."
+    ],
+    "alerts.neon.AlertTimeout": [
+      "Silencing alert."
+    ],
+    "alerts.neon.AudioReminderIntro": [
+      "You have an audio reminder."
+    ],
+    "alerts.neon.AudioReminderTooFar": [
+      "I can only set audio reminders up to 24 hours in advance, I will create a calendar event instead."
+    ],
+    "alerts.neon.CancelAlert": [
+      "Cancelling {{kind}} {{name}}."
+    ],
+    "alerts.neon.CancelAll": [
+      "Okay, cancelling all {{kind}}s."
+    ],
+    "alerts.neon.ConfirmPlayback": [
+      "Your {{name}} recording will be played at {{time}}, in {{duration}}."
+    ],
+    "alerts.neon.ConfirmRecurring": [
+      "Your {{kind}} is set for {{time}}, {{days}}."
+    ],
+    "alerts.neon.ConfirmScript": [
+      "Your {{name}} script will be executed at {{time}}, in {{duration}}."
+    ],
+    "alerts.neon.ConfirmSet": [
+      "Your {{kind}} is set for {{time}}, in {{duration}}."
+    ],
+    "alerts.neon.ConfirmTimer": [
+      "Timer for {{duration}}, starting now."
+    ],
+    "alerts.neon.CreateAtTime": [
+      "Created {{type}} for {{time}}."
+    ],
+    "alerts.neon.DismissAlert": [
+      "{{name}} dismissed."
+    ],
+    "alerts.neon.ErrorHowLong": [
+      "I didn't hear how long, please try again."
+    ],
+    "alerts.neon.ErrorNoTime": [
+      "I didn't hear a time to set your {{kind}} for. Please try again."
+    ],
+    "alerts.neon.ErrorScheduling": [
+      "Something went wrong while scheduling your {{kind}}. {{hint}}."
+    ],
+    "alerts.neon.ListAlerts": [
+      "{{name}} - {{day}} at {{time}}."
+    ],
+    "alerts.neon.ListRepeatingAlerts": [
+      "{{name}}, every {{repeat}} at {{time}}."
+    ],
+    "alerts.neon.MissedAlert": [
+      "{{kind}} for {{name}}"
+    ],
+    "alerts.neon.MissedAlertIntro": [
+      "Here's what you missed:"
+    ],
+    "alerts.neon.MobileSchedule": [
+      "MOBILE-INTENT ALERT&name={{name}}&time={{time}}&kind={{kind}}&file={{file}}&repeat={{repeat}}"
+    ],
+    "alerts.neon.NextAlert": [
+      "Your next {{kind}} is scheduled for {{day}} at {{time}}"
+    ],
+    "alerts.neon.NextEvent": [
+      "Your next {{kind}} is {{name}}, scheduled for {{day}} at {{time}}"
+    ],
+    "alerts.neon.NoActive": [
+      "There are no active {{kind}}s."
+    ],
+    "alerts.neon.NoMissedAlerts": [
+      "You haven't missed any alerts."
+    ],
+    "alerts.neon.NoUpcoming": [
+      "You have no upcoming {{kind}}s."
+    ],
+    "alerts.neon.NoneToCancel": [
+      "I could not find a matching alert to cancel"
+    ],
+    "alerts.neon.QuietHoursEnd": [
+      "Disabling quiet hours."
+    ],
+    "alerts.neon.QuietHoursStart": [
+      "Enabling quiet hours. I will not notify you of any alerts until you disable quiet hours."
+    ],
+    "alerts.neon.RecordingNotFound": [
+      "Recording not found, please select a recording."
+    ],
+    "alerts.neon.RecurringPlayback": [
+      "Your {{name}} will be played at {{time}}, {{days}}."
+    ],
+    "alerts.neon.RecurringScript": [
+      "Your {{name}} will be executed at {{time}}, {{days}}."
+    ],
+    "alerts.neon.ReminderExpired": [
+      "This is your {{name}}."
+    ],
+    "alerts.neon.ScriptNotFound": [
+      "Script not found, please select a script."
+    ],
+    "alerts.neon.SnoozeAlert": [
+      "Snoozing {{name}} for {{duration}}"
+    ],
+    "alerts.neon.TimerStatus": [
+      "The {{timer}} has {{duration}} remaining."
+    ],
+    "alerts.neon.UpcomingType": [
+      "You have the following {{kind}}s:"
+    ],
+    "alerts.neon.WhatTime": [
+      "What time should your {{kind}} be set for?"
+    ],
+    "asteroid-tracker.asteroids": [
+      "Plotting all know asteroids"
+    ],
+    "audio-record.audio.record.disk.full": [
+      "There is not enough free disk space to record an audio",
+      "Audio recording is not possible. You have to free some disk usage",
+      "You have reached the maximum disk usage. Free some disk space to record an audio"
+    ],
+    "audio-record.audio.record.no.recording": [
+      "There is no recording available",
+      "No recording found"
+    ],
+    "audio-record.audio.record.removed": [
+      "Recording deleted",
+      "Recording removed",
+      "Deleting"
+    ],
+    "audio-record.audio.record.start": [
+      "Recording audio",
+      "Starting audio recording",
+      "Audio recording initialized"
+    ],
+    "audio-record.audio.record.start.duration": [
+      "Recording audio for {{duration}} seconds",
+      "Starting audio recording for {{duration}} seconds",
+      "Audio recording for {{duration}} seconds initialized"
+    ],
+    "audio-record.audio.record.stop": [
+      "Audio recording ended",
+      "Stopping audio recording",
+      "Audio recording was stopped"
+    ],
+    "audio-record.audio.record.stop.play": [
+      "Audio reproducing ended",
+      "Stopping audio playing",
+      "Audio playing was stopped"
+    ],
+    "auto-volume-skill.activate": [
+      "OK",
+      "Auto volume activated",
+      "I have activated auto volume"
+    ],
+    "auto-volume-skill.deactivate": [
+      "OK",
+      "Auto volume is deactivated",
+      "I have now deactivated auto volume"
+    ],
+    "auto-volume-skill.reset": [
+      "I have now reset auto volume"
+    ],
+    "avmusic.neon.ChangeMind": [
+      "Let me know if you change your mind"
+    ],
+    "avmusic.neon.PlayNow": [
+      "Shall I play it now?"
+    ],
+    "avmusic.neon.SayResume": [
+      "Music is paused. Say my wake word, followed by 'resume' to continue the playback"
+    ],
+    "avmusic.neon.SayStop": [
+      "Say my wake word, followed by 'stop', when you are done."
+    ],
+    "avmusic.neon.TryAgain": [
+      "Actually, I could not find the music you were looking for. Could you try again?"
+    ],
+    "bark-skill.bark": [
+      "Ruff ruff ruff",
+      "Ruff",
+      "Ruff ruff",
+      "Ruff ruff ruff ruff",
+      "Ruff ruff ruff ruff ruff"
+    ],
+    "blue-marble.EPIC": [
+      "Near Real time picture of earth from {{ date }}",
+      "showing EPIC satellite imagery from {{ date }}"
+    ],
+    "blue-marble.aboutEPIC": [
+      "Earth Polychromatic Imaging Camera ( EPIC ) instrument. Uniquely positioned at the Earth-Sun Lagrange point, EPIC provides full disc imagery of the Earth and captures unique perspectives of certain astronomical events such as lunar transits using a detector coupled to a 30-cm aperture Cassegrain telescope."
+    ],
+    "blue-marble.animation": [
+      "Here is an animation of the past few days"
+    ],
+    "blue-marble.location": [
+      "The DSCOVR spacecraft is located at the Earth-Sun Lagrange-1 ( L-1 ) point giving EPIC a unique angular perspective that will be used in science applications to measure ozone, aerosols, cloud reflectivity, cloud height, vegetation properties, and UV radiation estimates at Earth's surface."
+    ],
+    "caffeinewiz.neon.DrinkCaffeine": [
+      "The drink {{drink}} has {{caffeine_content}} {{caffeine_units}} of caffeine in {{drink_size}} {{drink_units}}.</speak> Provided by CaffeineWiz."
+    ],
+    "caffeinewiz.neon.HowAboutMore": [
+      "Say how about caffeine content of another drink or say goodbye."
+    ],
+    "caffeinewiz.neon.MoreDrinks": [
+      "I have more drinks that match. Would you like to hear them?"
+    ],
+    "caffeinewiz.neon.MultipleCaffeine": [
+      "{{drink}} has {{caffeine_content}} {{caffeine_units}} of caffeine in {{drink_size}} {{drink_units}}."
+    ],
+    "caffeinewiz.neon.NoDrinkHeard": [
+      "I could not understand the drink that you requested."
+    ],
+    "caffeinewiz.neon.NotFound": [
+      "I am sorry, {{drink}} is not on my list. Let my creators know and they will teach me new information!"
+    ],
+    "caffeinewiz.neon.StayCaffeinated": [
+      "Stay Caffeinated!"
+    ],
+    "caffeinewiz.neon.UpdateComplete": [
+      "Update completed."
+    ],
+    "caffeinewiz.neon.Updating": [
+      "Sure. Updating CaffeineWiz."
+    ],
+    "caffeinewiz.neon.milligrams": [],
+    "caffeinewiz.neon.one_moment": [
+      "Just a moment.",
+      "One moment."
+    ],
+    "ccc.intro": [
+      "thank you for installing cult cinema classics skill"
+    ],
+    "chandra-xray.aboutChandra": [
+      "The Chandra X-ray Observatory is part of NASA's \ufb02eet of \"Great Observatories\" along with the Hubble Space Telescope, the Spitizer Space Telescope and the now deorbited Compton Gamma Ray Observatory. Chandra allows scientists from around the world to obtain X-ray images of exotic environments to help understand the structure and evolution of the universe."
+    ],
+    "classic-scifi-horror.intro": [
+      "thank you for installing Classic Sci Fi Horror Catalog skill"
+    ],
+    "cocktail.NotFound": [
+      "Sorry, I couldn't find the requested drink",
+      "I'm a fraid I couldn't find that"
+    ],
+    "cocktail.RandomDrink": [
+      "How about a {drink}?",
+      "May I suggest a {drink}?",
+      "Why don't you have a {drink}?"
+    ],
+    "cocktail.YouWillNeed": [
+      "You'll need {ingredients} and {final_ingredient}",
+      "You will need {ingredients} and {final_ingredient}",
+      "The required ingredients are: {ingredients} and {final_ingredient}"
+    ],
+    "configuration.config.no_change": [
+      "Configuration hasn't changed",
+      "No changes to apply"
+    ],
+    "configuration.config.not.paired": [
+      "Could not fetch configuration, device is not paired.",
+      "Couldn't update the config, please pair the device"
+    ],
+    "configuration.config.updated": [
+      "Configuration updated.",
+      "Your device configuration has been updated.",
+      "Your device has been configured."
+    ],
+    "configuration.download.started": [
+      "Downloading the new listener, this will take a bit and you won't be able to use me until it completes. Give me a minute before attempting to activate me again."
+    ],
+    "configuration.get.listener": [
+      "The current listener is {{listener}}.",
+      "The listener is set to {{listener}}."
+    ],
+    "configuration.i.am.at": [
+      "I'm in {{city}} {{state}} {{country}}",
+      "My settings tell me I'm at {{city}} {{state}} {{country}}"
+    ],
+    "configuration.listener.same": [
+      "The listener is already set to {{listener}}."
+    ],
+    "configuration.model.is": [
+      "The current precise model has an identifier of {{name}}.",
+      "The current model has an identifier of {{name}}."
+    ],
+    "configuration.models.not.found": [
+      "I couldn't find any model files to update."
+    ],
+    "configuration.models.updated": [
+      "I've updated the Precise models."
+    ],
+    "configuration.must.be.hey.mycroft": [
+      "The wake word needs to be set to \"hey mycroft\" to use precise. You can do this on home DOT mycroft DOT AI."
+    ],
+    "configuration.must.update": [
+      "Please update your software first."
+    ],
+    "configuration.my.name.is": [
+      "my device name is {{name}}",
+      "I'm named {{name}}"
+    ],
+    "configuration.not.precise": [
+      "The listener isn't set to Precise."
+    ],
+    "configuration.set.listener": [
+      "I've set the listener to {{listener}}."
+    ],
+    "confucius-quotes.birth": [
+      "Confucius was born on 551 BC"
+    ],
+    "confucius-quotes.confucius": [
+      "The philosophy of Confucius, also known as Confucianism, emphasized personal and governmental morality, correctness of social relationships, justice, kindness, and sincerity.",
+      "Confucius was a Chinese philosopher and politician of the Spring and Autumn period."
+    ],
+    "confucius-quotes.death": [
+      "Confucius died on 479 BC"
+    ],
+    "confucius-quotes.live": [
+      "Confucius lived between 551 BC and 479 BC"
+    ],
+    "confucius-quotes.quote": [
+      "Be not ashamed of mistakes and thus make them crimes.",
+      "Before you embark on a journey of revenge, dig two graves.",
+      "Everything has its beauty but not everyone sees it.",
+      "Forget injuries, never forget kindnesses.",
+      "He who will not economize will have to agonize.",
+      "I hear and I forget. I see and I remember. I do and I understand.",
+      "Ignorance is the night of the mind, but a night without moon and star.",
+      "It does not matter how slowly you go so long as you do not stop.",
+      "Men's natures are alike, it is their habits that carry them far apart.",
+      "Our greatest glory is not in never falling, but in getting up every time we do.",
+      "Respect yourself and others will respect you.",
+      "Study the past if you would define the future.",
+      "The superior man, when resting in safety, does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly, he does not forget that disorder may come. Thus his person is not endangered, and his States and all their clans are preserved.",
+      "To be able under all circumstances to practice five things constitutes perfect virtue; these five things are gravity, generosity of soul, sincerity, earnestness and kindness.",
+      "To see what is right and not to do it is want of courage.",
+      "To see what is right, and not to do it, is want of courage or of principle.",
+      "What the superior man seeks is in himself; what the small man seeks is in others.",
+      "When anger rises, think of the consequences.",
+      "When we see men of a contrary character, we should turn inwards and examine ourselves.",
+      "Wheresoever you go, go with all your heart.",
+      "They must often change who would be constant in happiness or wisdom.",
+      "By nature, men are nearly alike; by practice, they get to be wide apart.",
+      "Fine words and an insinuating appearance are seldom associated with true virtue.",
+      "Have no friends not equal to yourself.",
+      "He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.",
+      "He who speaks without modesty will find it difficult to make his words good.",
+      "He with whom neither slander that gradually soaks into the mind, nor statements that startle like a wound in the flesh, are successful may be called intelligent indeed.",
+      "Hold faithfulness and sincerity as first principles.",
+      "I am not one who was born in the possession of knowledge; I am one who is fond of antiquity, and earnest in seeking it there.",
+      "I have not seen a person who loved virtue, or one who hated what was not virtuous. He who loved virtue would esteem nothing above it.",
+      "If a man takes no thought about what is distant, he will find sorrow near at hand.",
+      "If a man withdraws his mind from the love of beauty, and applies it as sincerely to the love of the virtuous; if, in serving his parents, he can exert his utmost strength; if, in serving his prince, he can devote his life; if in his intercourse with his friends, his words are sincere - although men say that he has not learned, I will certainly say that he has.",
+      "Is virtue a thing remote? I wish to be virtuous, and lo! Virtue is at hand.",
+      "Learning without thought is labor lost; thought without learning is perilous.",
+      "Recompense injury with justice, and recompense kindness with kindness.",
+      "The cautious seldom err.",
+      "The determined scholar and the man of virtue will not seek to live at the expense of injuring their virtue. They will even sacrifice their lives to preserve their virtue complete.",
+      "The firm, the enduring, the simple, and the modest are near to virtue.",
+      "The man of virtue makes the difficulty to be overcome his first business, and success only a subsequent consideration.",
+      "The man who in view of gain thinks of righteousness; who in the view of danger is prepared to give up his life; and who does not forget an old agreement however far back it extends - such a man may be reckoned a complete man.",
+      "The people may be made to follow a path of action, but they may not be made to understand it.",
+      "The scholar who cherishes the love of comfort is not fit to be deemed a scholar.",
+      "The superior man cannot be known in little matters, but he may be entrusted with great concerns. The small man may not be entrusted with great concerns, but he may be known in little matters.s",
+      "The superior man is modest in his speech, but exceeds in his actions.",
+      "The superior man is satisfied and composed; the mean man is always full of distress.",
+      "The superior man...does not set his mind either for anything, or against anything; what is right he will follow.",
+      "There are three things which the superior man guards against. In youth...lust. When he is strong...quarrelsomeness. When he is old...covetousness.",
+      "Things that are done, it is needless to speak about...things that are past, it is needless to blame.",
+      "To be able to practice five things everywhere under heaven constitutes perfect virtue...[They are] gravity, generosity of soul, sincerity, earnestness, and kindness.",
+      "To go beyond is as wrong as to fall short.",
+      "Virtue is more to man than either water or fire. I have seen men die from treading on water and fire, but I have never seen a man die from treading the course of virtue.",
+      "Virtue is not left to stand alone. He who practices it will have neighbors.",
+      "What the superior man seeks is in himself. What the mean man seeks is in others.",
+      "What you do not want done to yourself, do not do to others.",
+      "When a man's knowledge is sufficient to attain, and his virtue is not sufficient to enable him to hold, whatever he may have gained, he will lose again.",
+      "When we see men of worth, we should think of equaling them; when we see men of a contrary character, we should turn inwards and examine ourselves.",
+      "When you have faults, do not fear to abandon them.",
+      "When you know a thing, to hold that you know it; and when you do not know a thing, to allow that you do not know it - this is knowledge.",
+      "With coarse rice to eat, with water to drink, and my bended arm for a pillow - I have still joy in the midst of these things. Riches and honors acquired by unrighteousness are to me as a floating cloud.",
+      "Without an acquaintance with the rules of propriety, it is impossible for the character to be established.",
+      "I do not want a friend Who smiles when I smile Who weeps when I weep For my shadow in the pool Can do better than that.",
+      "Silence is the true friend that never betrays.",
+      "He who speaks without modesty will find it difficult to make his words good.",
+      "It does not matter how slowly you go, so long as you do not stop.",
+      "Do not be desirous of having things done quickly. Do not look at small advantages. Desire to have things done quickly prevents their being done thoroughly. Looking at small advantages prevents great affairs from being accomplished.",
+      "Everything has beauty, but not everyone sees it.",
+      "He does not preach what he practices till he has practiced what he preaches.",
+      "If I am walking with two other men, each of them will serve as my teacher. I will pick out the good points of the one and imitate them, and the bad points of the other and correct them in myself.",
+      "Learn as though you would never be able to master it; hold it as though you would be in fear of losing it.",
+      "The superior man is modest in his speech, but excels in his actions.",
+      "When you have faults, do not fear to abandon them.",
+      "Forget injuries, never forget kindnesses.",
+      "If a man takes no thought about what is distant, he will find sorrow near at hand.",
+      "Man who stand on hill with mouth open will wait long time for roast duck to drop in.",
+      "The scholar who cherishes the love of comfort is not fit to be deemed a scholar.",
+      "The superior man is modest in his speech but exceeds in his actions.",
+      "The superior man is modest in his speech, but exceeds in his actions.",
+      "They must often change who would be constant in happiness or wisdom.",
+      "To be able under all circumstances to practice five things constitutes perfect virtue; these five things are gravity, generosity of soul, sincerity, earnestness and kindness.",
+      "To be fond of learning is near to wisdom; to practice with vigor is near to benevolence; and to be conscious of shame is near to fortitude. He who knows these three things",
+      "To go beyond is as wrong as to fall short.",
+      "To govern is to correct. If you set an example by being correct, who would dare remain incorrect?",
+      "Without an acquaintance with the rules of propriety, it is impossible for the character to be established.",
+      "It does not matter how slowly you go so long as you do not stop.",
+      "Fine words and an insinuating appearance are seldom associated with true virtue.",
+      "Be not ashamed of mistakes and thus make them crimes.",
+      "The wheel of fortune turns round incessantly, and who can say to himself, I shall to-day be uppermost.",
+      "Virtue is more to man than either water or fire. I have seen men die from treading on water and fire, but I have never seen a man die from treading the course of virtue.",
+      "Everything has its beauty but not everyone sees it.",
+      "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "Better a diamond with a flaw than a pebble without.",
+      "I hear and I forget. I see and I believe. I do and I understand.",
+      "By three methods we may learn wisdom First, by reflection, which is noblest Second, by imitation, which is easiest and third by experience, which is the bitterest.",
+      "What you do not want done to yourself, do not do to others.",
+      "Do not use a cannon to kill a mosquito.",
+      "Silence is a friend who will never betray.",
+      "A journey of a thousand miles begins with a single step.",
+      "I hear and I forget. I see and I remember. I do and I understand.",
+      "Men's natures are alike, it is their habits that carry them far apart.",
+      "If language is not correct, then what is said is not what is meant; if what is said is not what is meant, then what must be done remains undone; if this remains undone, morals and art will deteriorate; if justice goes astray, the people will stand about in helpless confusion. Hence there must be no arbitrariness in what is said. This matters above everything.",
+      "The superior man is satisfied and composed the mean man is always full of distress.",
+      "There are three things which the superior man guards against. In youth...lust. When he is strong...quarrelsomeness. When he is old...covetousness.",
+      "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.",
+      "The essence of knowledge is, having it, to apply it not having it, to confess your ignorance.",
+      "To know that one knows what one knows, and to know that one doesn't know what one doesn't know, there lies true wisdom.",
+      "The essence of knowledge is, having it, to apply it; not having it, to confess your ignorance.",
+      "Things that are done, it is needless to speak about...things that are past, it is needless to blame.",
+      "When a man's knowledge is sufficient to attain, and his virtue is not sufficient to enable him to hold, whatever he may have gained, he will lose again.",
+      "When we see men of a contrary character, we should turn inwards and examine ourselves.",
+      "Have no friends not equal to yourself.",
+      "By nature, men are nearly alike by practice, they get to be wide apart.",
+      "He who wishes to secure the good of others has already secured his own.",
+      "Hold faithfulness and sincerity as first principles.",
+      "To be wronged is nothing unless you continue to remember it.",
+      "They must change who would be constant in happiness and wisdom.",
+      "He who learns but does not think, is lost He who thinks but does not learn is in great danger.",
+      "I have not seen a person who loved virtue, or one who hated what was not virtuous. He who loved virtue would esteem nothing above it.",
+      "When you know a thing, to hold that you know it and when you do not know a thing, to allow that you do not know it - this is knowledge.",
+      "Wheresoever you go, go with all your heart.",
+      "With coarse rice to eat, with water to drink, and my bended arm for a pillow - I have still joy in the midst of these things. Riches and honors acquired by unrighteousness are to me as a floating cloud.",
+      "The expectations of life depend upon diligence the mechanic that would perfect his work must first sharpen his tools.",
+      "If a man withdraws his mind from the love of beauty, and applies it as sincerely to the love of the virtuous if, in serving his parents, he can exert his utmost strength if, in serving his prince, he can devote his life if in his intercourse with his friends, his words are sincere - although men say that he has not learned, I will certainly say that he has.",
+      "Study the past if you would define the future.",
+      "What the superior man seeks is in himself what the small man seeks is in others.",
+      "Ignorance is the night of the mind, but a night without moon and star.",
+      "A man who does not plan long ahead will find trouble right at his door.",
+      "He who learns but does not think, is lost! He who thinks but does not learn is in great danger.",
+      "Heaven means to be one with God.",
+      "Recompense injury with justice, and recompense kindness with kindness.",
+      "The superior man acts before he speaks, and afterwards speaks according to his actions.",
+      "While you are not able to serve men, how can you serve spirits of the dead...While you do not know life, how can you know about death",
+      "If you think in terms of a year, plant a seed; if in terms of ten years, plant trees; if in terms of 100 years, teach the people.",
+      "Respect yourself and others will respect you.",
+      "When anger rises, think of the consequences.",
+      "The man who moves a mountain begins by carrying away small stones.",
+      "The faults of a superior person are like the sun and moon. They have their faults, and everyone sees them; they change and everyone looks up to them.",
+      "He with whom neither slander that gradually soaks into the mind, nor statements that startle like a wound in the flesh, are successful may be called intelligent indeed.",
+      "The determined scholar and the man of virtue will not seek to live at the expense of injuring their virtue. They will even sacrifice their lives to preserve their virtue complete.",
+      "Without knowing the force of words, it is impossible to know men.",
+      "Learning without thought is labor lost thought without learning is perilous.",
+      "To see what is right, and not to do it, is want of courage or of principle.",
+      "What is the sound of one hand clapping",
+      "When we see men of worth, we should think of equaling them when we see men of a contrary character, we should turn inwards and examine ourselves.",
+      "He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.",
+      "He who merely knows right principles is not equal to him who loves them.",
+      "He who will not economize will have to agonize.",
+      "I am not one who was born in the possession of knowledge I am one who is fond of antiquity, and earnest in seeking it there.",
+      "If a man take no thought about what is distant, he will find sorrow near at hand",
+      "If we don't know life, how can we know death",
+      "Is virtue a thing remote I wish to be virtuous, and lo Virtue is at hand.",
+      "It is man that makes truth great, not truth that makes man great.",
+      "It is not possible for one to teach others who cannot teach his own family.",
+      "It is only the wisest and the stupidest that cannot change.",
+      "Looking at small advantages prevents great affairs from being accomplished.",
+      "Only the wisest and stupidest of men never change.",
+      "Our greatest glory is not in never falling but in rising every time we fall.",
+      "The cautious seldom err.",
+      "The firm, the enduring, the simple, and the modest are near to virtue.",
+      "The man of virtue makes the difficulty to be overcome his first business, and success only a subsequent consideration.",
+      "The man who in view of gain thinks of righteousness who in the view of danger is prepared to give up his life and who does not forget an old agreement however far back it extends - such a man may be reckoned a complete man.",
+      "The object of the superior man is truth.",
+      "The people may be made to follow a path of action, but they may not be made to understand it.",
+      "The perfecting of one's self is the fundamental base of all progress and all moral development.",
+      "The superior man acts before he speaks, and afterwards speaks according to his action.",
+      "The superior man cannot be known in little matters, but he may be entrusted with great concerns. The small man may not be entrusted with great concerns, but he may be known in little matters.",
+      "The superior man makes the difficulty to be overcome his first interest success only comes later.",
+      "The superior man, when resting in safety, does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly, he does not forget that disorder may come. Thus his person is not endangered, and his States and all their clans are preserved.",
+      "The superior man...does not set his mind either for anything, or against anything what is right he will follow.",
+      "There are three things to beware of through life: when a man is young, let him beware of his appetites; when he is middle-aged, of his passions; and when old, of covetousness, especially.",
+      "To be able to practice five things everywhere under heaven constitutes perfect virtue...They are gravity, generosity of soul, sincerity, earnestness, and kindness.",
+      "To see what is right, and not do it, is want of courage, or of principle.",
+      "Virtue is not left to stand alone. He who practices it will have neighbors.",
+      "We take greater pains to persuade others that we are happy than in endeavoring to think so ourselves.",
+      "Wealth and rank are what people desire, but unless they be obtained in the right way they may not be possessed.",
+      "What the superior man seeks is in himself; what the small man seeks is in others."
+    ],
+    "controls.neon.ActionNotConfirmed": [
+      "Okay. Not doing anything."
+    ],
+    "controls.neon.AlsoLocation": [
+      "Would you also like to change your {{type}} from {{old}} to {{new}}?"
+    ],
+    "controls.neon.BlinkBoundary": [
+      "Already at {{bound}} threshold."
+    ],
+    "controls.neon.ChangeLocation": [
+      "Changing {{type}} to {{location}}."
+    ],
+    "controls.neon.ConfirmNewWakeWord": [
+      "Change my wake word to \"{{ww}}\"?"
+    ],
+    "controls.neon.ConfirmTranscription": [
+      "Should I {{action}} {{option}} transcription?"
+    ],
+    "controls.neon.EnableAudioRecording": [
+      "Audio recording {{enable}}."
+    ],
+    "controls.neon.EnableTranscription": [
+      "Text transcription {{enable}}."
+    ],
+    "controls.neon.GestureState": [
+      "{{kind}} commands are now {{enable}}."
+    ],
+    "controls.neon.ListGestures": [
+      "Sure, your {gesture} options are:"
+    ],
+    "controls.neon.NeedLongerWakeWord": [
+      "Please pick a longer wake word phrase."
+    ],
+    "controls.neon.NewWakeWord": [
+      "Alright, I'll respond to \"{ww}\" from now on."
+    ],
+    "controls.neon.StartupSetting": [
+      "{{kind}} commands will now be {{enable}} by default."
+    ],
+    "controls.neon.ThresholdOutOfBounds": [
+      "Not a valid {{kind}} threshold, please choose something between {{min}} and {{max}}."
+    ],
+    "count-skill.count_error": [
+      "I do not understand.",
+      "I am missing something.",
+      "Say again?",
+      "Sorry. I did not hear that."
+    ],
+    "count-skill.count_start": [
+      "Counting to {number}. starting now!"
+    ],
+    "count-skill.count_stop": [
+      "Done!",
+      "Finish!"
+    ],
+    "count-skill.countdown_start": [
+      "Count down from {number}. Starting now!"
+    ],
+    "count-skill.countdown_stop": [
+      "Done!",
+      "Finish!"
+    ],
+    "countries.area": [
+      "{{country}} has {{number}} square kilometers"
+    ],
+    "countries.bad_country": [
+      "i did not catch which country we are talking about",
+      "what country are we talking about?",
+      "what country name did you just say?"
+    ],
+    "countries.bad_region": [
+      "i did not catch which region we are talking about",
+      "which region are we talking about?",
+      "which region did you just ask about?"
+    ],
+    "countries.birthday": [
+      "when is your birthday",
+      "when were you born",
+      "what is your birth date"
+    ],
+    "countries.borders": [
+      "{{country}} shares its borders with {{borders}}"
+    ],
+    "countries.capital": [
+      "the capital of {{country}} is {{capital}}"
+    ],
+    "countries.country_location": [
+      "{{ country }} is located at {{ region }}"
+    ],
+    "countries.country_number": [
+      "i have data on {{ number }} countries",
+      "i can tell you things about {{ number }} countries"
+    ],
+    "countries.currency": [
+      "the currency of {{country}} is {{coin}}"
+    ],
+    "countries.denonym": [
+      "Native people of {{country}} are called {{denonym}}"
+    ],
+    "countries.gender": [
+      "are you male or female",
+      "are you female or male"
+    ],
+    "countries.population": [
+      "the population of {{country}} is {{number}}"
+    ],
+    "countries.timezones": [
+      "{{country}} has the following timezones; {{timezones}}"
+    ],
+    "custom-conversation.neon.AlreadyRunning": [
+      "{file_name} is already running. Say 'Exit' or continue the script."
+    ],
+    "custom-conversation.neon.Exiting": [
+      "Exiting {file_name} skill file."
+    ],
+    "custom-conversation.neon.NotFound": [
+      "Sorry. It does not look like I have a script file with the name '{file_to_open}'."
+    ],
+    "custom-conversation.neon.ProblemInFile": [
+      "It looks like {file_name} is not a valid script. Please check the file or refer to the example for help."
+    ],
+    "custom-conversation.neon.Starting": [
+      "Starting the {{file_to_run}} script."
+    ],
+    "custom-conversation.neon.TimeoutExit": [
+      "I haven't heard a response in {{duration}} seconds."
+    ],
+    "custom-conversation.neon.already_exists": [
+      "{new} already is a synonym for {existing}."
+    ],
+    "custom-conversation.neon.already_filled": [
+      "{existing} has {already_filled} as a synonym. I am adding {new} as an additional option."
+    ],
+    "custom-conversation.neon.available_script": [
+      "The available script files are: {available}"
+    ],
+    "custom-conversation.neon.email_sent": [
+      "Sending {{script}} to {{email}}."
+    ],
+    "custom-conversation.neon.error_at_line": [
+      "<speak>A {{error}} error was found in line {{line}} of {{script}}.</speak> Line: {{detail}}"
+    ],
+    "custom-conversation.neon.new_existing": [
+      "Okay. Adding {new} as a synonym for {existing}"
+    ],
+    "custom-conversation.neon.new_is_another_key": [
+      "{new} already exist as a value with synonyms."
+    ],
+    "custom-conversation.neon.new_is_another_value": [
+      "{new} already exists as a synonym value for {existing}"
+    ],
+    "custom-conversation.neon.no_email": [
+      "Sorry, I don't have an email address to send to."
+    ],
+    "custom-conversation.neon.same_values": [
+      "It looks like the requested synonym {new} is the same as existing {existing}. Please try again."
+    ],
+    "custom-conversation.neon.startup_script": [
+      "Updating your startup script to {{script_name}}."
+    ],
+    "custom-conversation.neon.update_disallowed": [
+      "Conversation Script updates have been disabled on this device."
+    ],
+    "custom-conversation.neon.update_failed": [
+      "An error occurred while updating conversation scripts."
+    ],
+    "custom-conversation.neon.update_started": [
+      "Updating your conversation scripts."
+    ],
+    "custom-conversation.neon.update_success": [
+      "Successfully updated conversation scripts."
+    ],
+    "custom-conversation.neon.upload_failed": [
+      "Upload of {{name}} failed, because {{reason}}."
+    ],
+    "custom-conversation.neon.upload_success": [
+      "{{name}} successfully {{state}}."
+    ],
+    "cut-up-skill.frag_type.set": [
+      "Selected the {{frag_type}} fragment type."
+    ],
+    "cut-up-skill.maximum.set": [
+      "Maximum chunk size set to {{max}}."
+    ],
+    "cut-up-skill.minimum.set": [
+      "Minimum chunk size set to {{min}}."
+    ],
+    "cut-up-skill.randomness.set": [
+      "Randomness set to {{rand}} percent."
+    ],
+    "date-time.date": [
+      "{{date}}",
+      "It is {{date}}",
+      "It's {{date}}",
+      "{{date}}"
+    ],
+    "date-time.time.current": [
+      "{{time}}",
+      "It is {{time}}",
+      "{{time}}",
+      "It's {{time}}",
+      "Currently {{time}}"
+    ],
+    "date-time.time.tz.not.found": [
+      "I could not find the time zone for {{location}}"
+    ],
+    "days-in-history-skill.notfound": [
+      "I'm unable to find a wikipedia page for that",
+      "Sorry, I cant seem to locate that article",
+      "I can't find a matching entry on wikipedia"
+    ],
+    "days-in-history-skill.searching": [
+      "Just a moment while I find historical events on {{day}}",
+      "Let me look into that",
+      "I'm checking Wikipedia for events in history on {{day}}"
+    ],
+    "ddg.no_answer": [
+      "the duck does not know the answer"
+    ],
+    "ddg.thats all": [
+      "That's all I know",
+      "That's all I can find"
+    ],
+    "deezer.intro": [
+      "Thank you for installed Deezer skill, additional setup is required, please check the readme for additional instructions."
+    ],
+    "device-control-center.neon.ActionNotConfirmed": [
+      "Please try again. The action was not confirmed"
+    ],
+    "device-control-center.neon.AlreadyInDialogMode": [
+      "I am already using my {{mode}} responses."
+    ],
+    "device-control-center.neon.AlreadyRequiring": [
+      "It appears I am already in my wake word mode."
+    ],
+    "device-control-center.neon.AlreadySkipping": [
+      "It looks like I am already skipping wake words."
+    ],
+    "device-control-center.neon.AlreadyUpdated": [
+      "I am already up to date. Would you like to run the update anyway?"
+    ],
+    "device-control-center.neon.AskDemoNextTime": [
+      "Should I ask you next time?"
+    ],
+    "device-control-center.neon.AskStartRequiring": [
+      "Should I start requiring wake words?"
+    ],
+    "device-control-center.neon.AskStartSkipping": [
+      "Should I start skipping wake words?"
+    ],
+    "device-control-center.neon.CancelExit": [
+      "Glad to stay with you."
+    ],
+    "device-control-center.neon.ChangeDialog": [
+      "Would you like to switch to {{mode}} dialog mode?"
+    ],
+    "device-control-center.neon.ClearData": [
+      "Are you sure you want to {{option}}? Please say 'go ahead' followed by {{confirm}} to confirm or say 'nevermind' to cancel."
+    ],
+    "device-control-center.neon.ConfirmChangeDialog": [
+      "I will use my {{mode}} from now on."
+    ],
+    "device-control-center.neon.ConfirmClearAll": [
+      "Please wait a moment while I erase everything I know about you. I enjoyed our friendship. I hope to be your friend once again."
+    ],
+    "device-control-center.neon.ConfirmClearData": [
+      "Clearing your {{kind}}."
+    ],
+    "device-control-center.neon.ConfirmExitShutdown": [
+      "Are you sure that you wish to {{action}}? If so, please say 'go ahead {{number}}' to proceed or say 'nevermind' to cancel."
+    ],
+    "device-control-center.neon.ConfirmRequireWW": [
+      "Okay, entering wake words mode."
+    ],
+    "device-control-center.neon.ConfirmSkipWW": [
+      "Okay, starting to skip wake words."
+    ],
+    "device-control-center.neon.CurrentVersion": [
+      "I am on version {{version}}."
+    ],
+    "device-control-center.neon.DemoNextTime": [
+      "If you want to see the demo in the future, say \"Neon, show me the demo\"."
+    ],
+    "device-control-center.neon.DialogModeNotSpecified": [
+      "I am not quite sure that I understand which dialog mode you are asking me to use. Please, try again."
+    ],
+    "device-control-center.neon.ErrorCheckingVersion": [
+      "An error occurred and I could not get the current version info. Would you like to run the update anyway?"
+    ],
+    "device-control-center.neon.Exiting": [
+      "Hope to see you again soon. Goodbye."
+    ],
+    "device-control-center.neon.NotDoingAnything": [
+      "Okay, not doing anything."
+    ],
+    "device-control-center.neon.ShuttingDown": [
+      "Initiating shutdown. Goodbye."
+    ],
+    "device-control-center.neon.UpdateAvailable": [
+      "The most recent version is {{version}}. Would you like to install it now?"
+    ],
+    "dice-skill.multiple.modificator.result": [
+      "Your numbers are {result} adding to a total of {total}"
+    ],
+    "dice-skill.multiple.result": [
+      "Your numbers are {result}"
+    ],
+    "dice-skill.range.needed": [
+      "You need a specify a range",
+      "I need a range to do that",
+      "Tell me what range you want your numbers from"
+    ],
+    "dice-skill.single.modificator.result": [
+      "The Result is {total}."
+    ],
+    "dice-skill.single.result": [
+      "The Result is {result}.",
+      "Your number is {result}"
+    ],
+    "dismissal-skill.dismissed": [
+      "Okay.",
+      "Alright.",
+      "If you say so.",
+      "Whatever you say."
+    ],
+    "dust.intro": [
+      "thank you for installing Dust short movies skill"
+    ],
+    "email-commands.error": [
+      "something is wrong with email configuration, skill failed to start"
+    ],
+    "email-commands.intro": [
+      "thank you for installing email commands skill, please check the readme for additional setup instructions"
+    ],
+    "email-skill.already.looking.for.all": [
+      "I'm already looking for new mail",
+      "I've already been looking for new mail",
+      "I am already looking for new e mail"
+    ],
+    "email-skill.already.looking.for.specific": [
+      "I'm already looking for emails from {email}",
+      "I've already been looking for new mail from {email}",
+      "I am already looking for e mail from {email}"
+    ],
+    "email-skill.cancel.looking.for.all.look.specific": [
+      "I currently look for all new mail, do you want me to only notify you of emails by {email}",
+      "I've already been looking for new email, do you just want me to notify you of new e mail from {email}"
+    ],
+    "email-skill.cancel.looking.for.specific.look.all": [
+      "I am currently looking for {email}, do you want me to look for all new mail instead",
+      "Right now, I'm only looking for email from {email} Do you want me to look for all e mail instead",
+      "Do you want me to look for all email instead of looking for email just from {email}"
+    ],
+    "email-skill.error.getting.mail": [
+      "There was an error getting your email Try checking your credentials and server information",
+      "Check your credentials and server information because there was a problem getting your mail",
+      "I can not connect to your email server Check your password and server information"
+    ],
+    "email-skill.list.subjects": [
+      "Your {message_num} email is from {sender} Its subject is {subject}",
+      "The {message_num} email's subject is {subject} Its from {sender}"
+    ],
+    "email-skill.more.emails": [
+      "would you like to hear more",
+      "want to hear more of your emails",
+      "do you want to hear more"
+    ],
+    "email-skill.no.emails.from": [
+      "There are no emails from {sender}",
+      "You have no emails from {sender}",
+      "You haven't recieved any emails from {sender}"
+    ],
+    "email-skill.no.more.emails": [
+      "okay"
+    ],
+    "email-skill.no.new.email": [
+      "There is no new email",
+      "There's no new email",
+      "There's no new mail",
+      "There is no new mail",
+      "There's no new email for you",
+      "There's no new mail for you",
+      "You have no new mail",
+      "You have no new email"
+    ],
+    "email-skill.not.looking.for": [
+      "I'm currently not looking for emails by {email}",
+      "I'm not looking for emails by {email}",
+      "Right now, I'm not looking for email by {email}"
+    ],
+    "email-skill.notify.read.email": [
+      "You have {size} new email, do you want to hear them",
+      "There are {size} new email Do you want to hear them",
+      "Do you want to hear your {size} emails"
+    ],
+    "email-skill.poll.emails.not.started": [
+      "I'm not looking for new mail",
+      "Currently, I'm not looking for new email"
+    ],
+    "email-skill.setup": [
+      "To set the email skill up, please go to home dot mycroft dot a i to enter your email information",
+      "You need to set the email skill up To do so, please go to home dot mycroft dot a i to enter your email information"
+    ],
+    "email-skill.start.poll.email": [
+      "I will notify you of new mail",
+      "Okay, I'll start to notify you of new email",
+      "I'm starting to look for new email"
+    ],
+    "email-skill.stop.looking.for": [
+      "I will stop looking for new mail by {email}",
+      "Okay, I'll stop looking for new email by {email}"
+    ],
+    "email-skill.stop.poll.emails": [
+      "Okay, I'll stop looking for new email",
+      "Alright, I'm not going to look for new email anymore"
+    ],
+    "email-skill.stop.poll.emails.last.email.removed": [
+      "I'm stopping to look for new mail, because there are no email addresses you want to be notified of"
+    ],
+    "email-skill.update.notify.data": [
+      "I updated your email preferences",
+      "Alright, I've updated your email preferences"
+    ],
+    "emby-skill.configuration_fail": [
+      "Unable to connect to the Emby Server. Please check or setup your configuration at home.Mycroft.ai"
+    ],
+    "emby-skill.configuration_success": [
+      "Successfully connected to Emby server at {hostname}"
+    ],
+    "emby-skill.diag_auth_fail": [
+      "I'm unable to authenticate to the emby server. Please check or setup your configuration at home.Mycroft.ai"
+    ],
+    "emby-skill.diag_auth_success": [
+      "I've successfully authenticated to the emby server!"
+    ],
+    "emby-skill.diag_public_info_fail": [
+      "Emby server at {host} does not appear to be reachable or is not responding."
+    ],
+    "emby-skill.diag_public_info_success": [
+      "Great! I can access {ServerName} running version {Version}. Attempting to authenticate."
+    ],
+    "emby-skill.diag_start": [
+      "I'm going to run a diagnostic check on the emby skill connection. This will check if the server is accessible and if I am able to authenticate."
+    ],
+    "emby-skill.diag_stop": [
+      "Diagnostic will not continue."
+    ],
+    "emby-skill.diagnostic": [
+      "Diagnostic is complete I can connect and authenticate to the emby server. Now its time to play some Music!"
+    ],
+    "emby-skill.emby": [
+      "Playing {media}"
+    ],
+    "emby-skill.general_check_settings_logs": [
+      "Please check your settings on Mycroft.ai. If this issue persists check the Mycroft logs for more information."
+    ],
+    "emby-skill.play_fail": [
+      "Unable to find or play {media}. Please try again.",
+      "Unable to find or play {media}. Please try again. If this continues to happen check your configuration at home.Mycroft.ai"
+    ],
+    "euronews.intro": [
+      "thank you for installing Euro News Skill"
+    ],
+    "fairytalez-skill.continue": [
+      "Continue telling {story}",
+      "Where did we get to. Oh yes here. {story}"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "I know more than 2000 fairy tales, folk tales, and fables from all around the world. Which one would you like to hear ?"
+    ],
+    "fairytalez-skill.from_fairytalez": [
+      "These fairy tales are from www dot fairytalez dot com. They love fairy tales! Please visit the site where you find the largest collection of fairy tales folk tales and fables online."
+    ],
+    "fairytalez-skill.i_know_that": [
+      "{story} is a good one. Let us begin...",
+      "Yes, {story} is a good one. It goes like this..."
+    ],
+    "fairytalez-skill.is_it_that": [
+      "Is it that one?",
+      "Could it be that?",
+      "Shall I tell you this one?",
+      "Do you want to hear that?"
+    ],
+    "fairytalez-skill.let_me_think": [
+      "let me see. Do I know {story}",
+      "well, I need to think if I remember {story}"
+    ],
+    "fairytalez-skill.no_story": [
+      "Then I dont know which story you want to hear."
+    ],
+    "fairytalez-skill.no_story_to_continue": [
+      "There is no story to continue",
+      "I am sorry - no story to continue."
+    ],
+    "fairytalez-skill.that_would_be": [
+      "I can tell the story {story}.",
+      "I remember the {story}."
+    ],
+    "fairytalez-skill.title_by_author": [
+      "{title} by {author}"
+    ],
+    "fallback-aiml.reset.memory": [
+      "Resetting knowledge database",
+      "Forgetting everything",
+      "Okay, I will now reset my memory",
+      "Brain erasure initiated"
+    ],
+    "fallback-recommendations-skill.skill.download.confirmation": [
+      "The {{skill_name}} skill can do that for you. Would you like me to download it?",
+      "I've found a skill called the {{skill_name}} skill, which could help you with that. Would you like me to download it?"
+    ],
+    "fallback-recommendations-skill.skill.download.refused": [
+      "Okay.",
+      "Alright."
+    ],
+    "fallback-recommendations-skill.skill.downloading": [
+      "Just a moment, I'm downloading the {{skill_name}} skill.",
+      "One moment, I'm downloading the {{skill_name}} skill.",
+      "Okay, Let me download the {{skill_name}} skill.",
+      "Hold on a moment while I download the {{skill_name}} skill.",
+      "Okay, I'm downloading the {{skill_name}} skill.",
+      "Just a moment, I'm downloading the {{skill_name}} skill."
+    ],
+    "fallback-unknown.question": [
+      "I'm sorry I can\u2019t help you with that.",
+      "I'm not sure how to help you with that.",
+      "I don't understand, but I'm learning new things everyday.",
+      "I'm not sure how to answer that."
+    ],
+    "fallback-unknown.unknown": [
+      "I'm sorry, I don't understand.",
+      "I don't know what that means.",
+      "I don't understand, but I'm learning new things everyday.",
+      "Sorry, I didn't catch that.",
+      "Sorry, I don't understand.",
+      "I don't understand.",
+      "Huh, I don't understand.",
+      "I'm not sure I understood you.",
+      "You might have to say that a different way.",
+      "Please rephrase your request."
+    ],
+    "fallback-unknown.who.is": [
+      "I don't know who that is.",
+      "I'm not sure who that is."
+    ],
+    "fallback-unknown.why": [
+      "I'm not sure how to help you with that.",
+      "I don't know.",
+      "I'm not quite sure.",
+      "I'm not sure.",
+      "I'm not sure, but I'm doing my best to learn."
+    ],
+    "fallback-wolfram-alpha.email.body": [
+      "You asked <br/><ul><tt>'{{query}}'</tt></ul><br/> and were told <br/><ul><tt>'{{answer}}'</tt></ul><P> For more details and the information sources used to generate the answer visit:<br/><a href=\"http://www.wolframalpha.com/input/?i={{url_query}}\">www.wolframalpha.com</a>"
+    ],
+    "fallback-wolfram-alpha.email.subject": [
+      "Sources for: '{{query}}'"
+    ],
+    "fallback-wolfram-alpha.no.info.to.send": [
+      "I couldn't find any Wolfram Alpha queries to send."
+    ],
+    "fallback-wolfram-alpha.not.understood": [
+      "Sorry, I don't {{phrase}}"
+    ],
+    "fallback-wolfram-alpha.sent.email": [
+      "I've sent an email to your registered account with a link to Wolfram Alpha for further details and sources."
+    ],
+    "finished-booting.finished.booting": [
+      "I have now finished booting up.",
+      "I am now ready.",
+      "Hi, this is mycroft and I am ready to work.",
+      "You can get started with mycroft."
+    ],
+    "futurism-cartoons.futurism": [
+      "Futurism cartoon from {{ date }}"
+    ],
+    "futurism-cartoons.futurism_num": [
+      "Futurism cartoon number {{number}} from {{ date }}"
+    ],
+    "futurism-cartoons.futurism_total_cartoons": [
+      "Futurism has created {{ number }} cartoons to date",
+      "There are {{ number }} Futurism cartoons as of today",
+      "Currently {{ number }} Futurism cartoons exist"
+    ],
+    "futurism-cartoons.num_error": [
+      "There are only {{ total }} comics",
+      "There are only {{ total }} XKCD comics"
+    ],
+    "helioviewer.animation": [
+      "Here is an animation of the past few days"
+    ],
+    "helioviewer.c2": [
+      "Large Angle Spectrometric Coronagraph C2 images show the inner solar corona up to 8.4 million kilometers ( 5.25 million miles ) away from the Sun."
+    ],
+    "helioviewer.c3": [
+      "Large Angle Spectrometric Coronagraph C3 images have a larger field of view: They encompass 32 diameters of the Sun. To put this in perspective, the diameter of the images is 45 million kilometers ( about 30 million miles ) at the distance of the Sun, or half of the diameter of the orbit of Mercury. Many bright stars can be seen behind the Sun."
+    ],
+    "helioviewer.eit171": [
+      "EIT ( Extreme ultraviolet Imaging Telescope ) images the solar atmosphere at several wavelengths, and therefore, shows solar material at different temperatures. In the images taken at 171 Angstrom the bright material is at 1 million degrees"
+    ],
+    "helioviewer.eit195": [
+      "EIT ( Extreme ultraviolet Imaging Telescope ) images the solar atmosphere at several wavelengths, and therefore, shows solar material at different temperatures. The images taken at 195 Angstrom correspond to about 1.5 million Kelvin"
+    ],
+    "helioviewer.eit284": [
+      "EIT ( Extreme ultraviolet Imaging Telescope ) images the solar atmosphere at several wavelengths, and therefore, shows solar material at different temperatures. The images taken at 284 Angstrom correspond to 2 million degrees"
+    ],
+    "helioviewer.eit304": [
+      "EIT ( Extreme ultraviolet Imaging Telescope ) images the solar atmosphere at several wavelengths, and therefore, shows solar material at different temperatures. In the images taken at 304 Angstrom the bright material is at 60,000 to 80,000 degrees Kelvin."
+    ],
+    "helioviewer.hmiigr": [
+      "The MDI ( Michelson Doppler Imager ) images shown here are taken in the continuum near the Ni I 6768 Angstrom line. The most prominent features are the sunspots. This is very much how the Sun looks like in the visible range of the spectrum"
+    ],
+    "helioviewer.hmimag": [
+      "The magnetogram image shows the magnetic field in the solar photosphere, with black and white indicating opposite polarities."
+    ],
+    "helioviewer.nospots": [
+      "No spots at all."
+    ],
+    "helioviewer.recent": [
+      "Here are the counts for the past several days. {{spotcount}}.",
+      "Over the last several days, the spot count has been {{spotcount}}."
+    ],
+    "helioviewer.sunspots": [
+      "I wish I knew how to count. Astronomers say the count is {{spotcount}} {{spcomment}} reported from {{stations}} observatories.",
+      "Sunspots are such fun. Right now the count is {{spotcount}} {{spcomment}} reported from {{stations}} observatories.",
+      "The sun has pimples. There are {{spotcount}} of then right now, {{spcomment}} according to {{stations}} observatories."
+    ],
+    "helioviewer.sunspots.past": [
+      "Astronomers say the count on {{date}} was {{spotcount}} {{spcomment}} reported from {{stations}} observatories.",
+      "There were {{spotcount}} on {{date}}, {{spcomment}} reported from {{stations}} observatories.",
+      "There were {{spotcount}} on {{date}}, {{spcomment}} according to {{stations}} observatories."
+    ],
+    "helioviewer.temperature": [
+      "the hotter the temperature, the higher you look in the solar atmosphere."
+    ],
+    "hello-world.hello.world": [
+      "Hello world",
+      "Hello",
+      "Hi to you too"
+    ],
+    "hello-world.how.are.you": [
+      "I'm doing well",
+      "Pretty well",
+      "Not bad",
+      "I'm doing excellent",
+      "Could be better",
+      "I'm doing very well"
+    ],
+    "hello-world.welcome": [
+      "Any time.",
+      "Glad to be of service.",
+      "Glad to help.",
+      "My Pleasure.",
+      "No problem.",
+      "You're welcome."
+    ],
+    "hivemind.intro": [
+      "thank you for installing {skill_name} skill"
+    ],
+    "hivemind.key_update": [
+      "authorization keys updated"
+    ],
+    "hivemind.need_reboot": [
+      "reboot needed for new settings to take effect"
+    ],
+    "homeassistant.homeassistant.automation.trigger": [
+      "triggered automation {{dev_name}}.",
+      "triggered {{dev_name}}.",
+      "{{dev_name}} was triggered.",
+      "{{dev_name}} was activated.",
+      "activated {{dev_name}}."
+    ],
+    "homeassistant.homeassistant.brightness.badreq": [
+      "please request a brightness level between 0 and 100.",
+      "how bright? you can choose a level from 0 to 100."
+    ],
+    "homeassistant.homeassistant.brightness.cantdim.dimmable": [
+      "Can not dim {{dev_name}}. It is not dimmable."
+    ],
+    "homeassistant.homeassistant.brightness.cantdim.off": [
+      "Can not dim {{dev_name}}. It is off.",
+      "Can not dim {{dev_name}}. Please turn it on before.",
+      "{{dev_name}} can not be dimmed. Only devices that are turned on can be."
+    ],
+    "homeassistant.homeassistant.brightness.decreased": [
+      "Dimmed {{dev_name}} to {{brightness}} percent.",
+      "Dimmed {{dev_name}}."
+    ],
+    "homeassistant.homeassistant.brightness.dimmed": [
+      "Set the brightness of {{dev_name}} to {{brightness}} percent."
+    ],
+    "homeassistant.homeassistant.brightness.increased": [
+      "Increased brightness of {{dev_name}} to {{brightness}} percent.",
+      "Increased brightness of {{dev_name}}."
+    ],
+    "homeassistant.homeassistant.device.already": [
+      "{{dev_name}} already {{action}}.",
+      "No changes made to {{dev_name}}."
+    ],
+    "homeassistant.homeassistant.device.off": [
+      "turned off {{dev_name}}.",
+      "turned {{dev_name}} off.",
+      "{{dev_name}} is now off."
+    ],
+    "homeassistant.homeassistant.device.on": [
+      "turned on {{dev_name}}.",
+      "{{dev_name}} was turned on.",
+      "turned {{dev_name}} on."
+    ],
+    "homeassistant.homeassistant.device.toggle": [
+      "toggled {{dev_name}}.",
+      "{{dev_name}} was toggled."
+    ],
+    "homeassistant.homeassistant.device.unknown": [
+      "Sorry, I can't find the Home Assistant entity \"{{dev_name}}\".",
+      "Entity \"{{dev_name}}\" could not be found.",
+      "Sorry, entity \"{{dev_name}}\" wasn't found.",
+      "Excuse me, I wasn't able to find \"{{dev_name}}\"."
+    ],
+    "homeassistant.homeassistant.error": [
+      "Access to home assistant server at {{url}} failed."
+    ],
+    "homeassistant.homeassistant.error.http": [
+      "The home assistant server failed to respond because of {{code}} {{reason}}"
+    ],
+    "homeassistant.homeassistant.error.invalidurl": [
+      "The url {{url}} does not host a valid home assistant server"
+    ],
+    "homeassistant.homeassistant.error.offline": [
+      "The Home assistant server appears to be offline.",
+      "Couldn't reach the home assistant server.",
+      "The home assistant server did not respond."
+    ],
+    "homeassistant.homeassistant.error.setup": [
+      "Please configure the home assistant skill settings at home dot mycroft dot ai."
+    ],
+    "homeassistant.homeassistant.error.sorry": [
+      "I don't know what you want me to do.",
+      "Couldn't figure out how to talk to Home Assistant.",
+      "I don't understand what you are asking."
+    ],
+    "homeassistant.homeassistant.error.ssl": [
+      "The configuration for S S L on the home assistant server is invalid."
+    ],
+    "homeassistant.homeassistant.error.wrong_password": [
+      "The home assistant server did not accept the configured password."
+    ],
+    "homeassistant.homeassistant.sensor": [
+      "Currently {{dev_name}} is {{value}} {{unit}}.",
+      "{{dev_name}} has the state: {{value}} {{unit}}.",
+      "{{dev_name}} is {{value}} {{unit}} at the moment.",
+      "{{dev_name}} is {{value}} {{unit}}."
+    ],
+    "homeassistant.homeassistant.set.thermostat": [
+      "Successfully set {{dev_name}} to {{value}} {{unit}}."
+    ],
+    "homeassistant.homeassistant.tracker.found": [
+      "Last known location of {{dev_name}} is {{location}}.",
+      "{{dev_name}} is at {{location}}.",
+      "{{dev_name}} has been detected at {{location}}."
+    ],
+    "horrorbabble.intro": [
+      "thank you for installing Horror Babble Skill"
+    ],
+    "hubble-telescope.about": [
+      "The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope but it is one of the largest and most versatile, well known both as a vital research tool and as a public relations boon for astronomy."
+    ],
+    "hubble-telescope.hubble": [
+      "The image was taken while the Space Telescope Imaging Spectrograph was aimed at a different part of the moon to measure the colors of sunlight reflected off the Moon. The picture at upper left is a full view of the moon taken by a terrestrial telescope. The wide, central image is Hubble's crisp, bird's-eye view, which clearly shows the ray pattern of bright dust ejected out of the crater over one billion years ago when an asteroid larger than a mile across slammed into the Moon. A close-up view of Copernicus's terraced walls is shown at lower right."
+    ],
+    "hubble-telescope.hubble.colors": [
+      "There are no natural color cameras aboard Hubble and there never have been. The optical cameras on board have all been digital CCD cameras, which take images as grayscale pixels but use colored filters to isolate different colors in each image. Sometimes the color in the images is as natural as possible. However, the color given to the images is not just artistic embellishment. The images are, indeed, downloaded as black and white, and color is added for a number of different reasons \u2014 for example, to show the location of chemical elements and highlight features so subdued that the human eye cannot see them."
+    ],
+    "hubble-telescope.hubble.data.public": [
+      "Astronomers who requested the data generally have six months to publish their findings before the data are publicly released."
+    ],
+    "hubble-telescope.hubble.earth": [
+      "The surface of the Earth is whizzing by as Hubble orbits, and the pointing system, designed to track the distant stars, cannot track an object on the Earth. The shortest exposure time on any of the Hubble instruments is 0.1 seconds, and in this time Hubble moves almost half a mile, about 700 meters. A picture Hubble took of Earth would be completely streaked."
+    ],
+    "hubble-telescope.hubble.how": [
+      "Hubble is a Cassegrain telescope \u2014 a type of reflecting telescope. Light enters the telescope and strikes the large primary, or main, mirror. The light is then reflected from the primary mirror onto the secondary mirror, which then focuses the light back through a hole in the primary mirror to a point behind that mirror, where the science instruments are located. Hubble\u2019s primary mirror is 94.5 inches ( 2.4 meters ) in diameter."
+    ],
+    "hubble-telescope.hubble.instruments": [
+      "Hubble collects light from celestial objects and directs it to the telescope\u2019s science instruments. Hubble\u2019s current suite of instruments includes the Wide Field Camera 3 ( WFC3 ) , Cosmic Origins Spectrograph ( COS ) , Advanced Camera for Surveys ( ACS ) , Space Telescope Imaging Spectrograph ( STIS ) , and Fine Guidance Sensors ( FGS ) ."
+    ],
+    "hubble-telescope.hubble.live": [
+      "While there is no \u201creal time\u201d camera or webcam on board the telescope for live relay links, you can find out what Hubble is observing at any time by visiting Space Telescope Live. Usually, Hubble is looking at these targets for the first time, so the images you will see there are from other telescopes, but give you an idea of where Hubble is looking."
+    ],
+    "hubble-telescope.hubble.mission": [
+      "When launched, the primary objectives of the Hubble Space Telescope were to, investigate the constitution, physical characteristics, and dynamics of celestial bodies, determine the nature of processes occurring in stellar and galactic objects, study the history and evolution of the universe, confirm universality of physical laws, provide a long-term space research facility for optical astronomy"
+    ],
+    "hubble-telescope.hubble.moon": [
+      "An object on the Moon, even the size of a large house, is too small to resolve. So, anything we left on the Moon cannot be resolved in any Hubble image. It would just appear as a dot blended with its surroundings."
+    ],
+    "hubble-telescope.hubble.moon.caption": [
+      "at upper left is a full view of the moon taken by a terrestrial telescope. The wide, central image is Hubble's crisp, bird's-eye view, which clearly shows the ray pattern of bright dust ejected out of the crater over one billion years ago when an asteroid larger than a mile across slammed into the Moon. A close-up view of Copernicus's terraced walls is shown at lower right."
+    ],
+    "hubble-telescope.hubble.planets": [
+      "Hubble is not looking for new planets in our own solar system, but the search for planets around other stars is very active. Hubble has achieved direct detection of several different exoplanets, though they are still too small and far away to resolve details."
+    ],
+    "hubble-telescope.hubble.when": [
+      "Hubble was launched aboard the space shuttle Discovery ( STS-31 ) on April 24, 1990. It was deployed into orbit the following day, April 25, 1990."
+    ],
+    "hubble-telescope.hubble.where": [
+      "Hubble orbits the Earth at an altitude of about {{altitude}} miles, inclined 28.5 degrees to the equator. This vantage point is above the negative effects of Earth\u2019s atmosphere. Traveling at a speed of about {{speed}} miles per hour, Hubble takes about 95 minutes to complete one orbit around Earth."
+    ],
+    "hubble-telescope.hubble.where.metric": [
+      "Hubble orbits the Earth at an altitude of about {{altitude}} kilometers, inclined 28.5 degrees to the equator. This vantage point is above the negative effects of Earth\u2019s atmosphere. Traveling at a speed of about {{speed}} kilometers per hour, Hubble takes about 95 minutes to complete one orbit around Earth."
+    ],
+    "hubble-telescope.hubble.who": [
+      "astronomer Edwin Powell Hubble made some of the most important discoveries in modern astronomy. In the 1920s Hubble showed that some of the numerous distant, faint clouds of light in the universe were actually entire galaxies. The realization that the Milky Way is only one of many galaxies forever changed the way humanity views our place in the universe. But perhaps his greatest discovery came in 1929, when Hubble determined that the farther a galaxy is from Earth, the faster it appears to move away. This notion of an expanding universe formed the basis of the big bang theory, which states that the universe began with an intense burst of energy at a single moment in time and has been expanding ever since."
+    ],
+    "hubble-telescope.hubble.why": [
+      "Shifting pockets of air in Earth\u2019s atmosphere distort light from space \u2014 that\u2019s why stars seem to twinkle when viewed from the ground. The atmosphere also blocks some wavelengths of light partially or entirely, particularly ultraviolet light. This makes space the only place where a telescope can get a truly clear and comprehensive view of the universe"
+    ],
+    "icanhazdadjokes.no_joke": [
+      "i could not find any joke about {search}"
+    ],
+    "installer.already.installed": [
+      "{{skill}} has already been installed"
+    ],
+    "installer.choose": [
+      "Multiple skills found, would you like me to {{action}}: {{skills}}"
+    ],
+    "installer.decline.install": [
+      "Installation cancelled"
+    ],
+    "installer.decline.removal": [
+      "Uninstall cancelled"
+    ],
+    "installer.filesystem.error": [
+      "A filesystem error occurred while {{action}} {{skill}}. Error code {{error}}."
+    ],
+    "installer.install.confirmation": [
+      "Confirming: shall I install {{skill}}."
+    ],
+    "installer.installation.error": [
+      "There was an error while {{action}} {{skill}}. Error code {{error}}"
+    ],
+    "installer.installed": [
+      "{{skill}} is now installed and ready for use"
+    ],
+    "installer.installing": [
+      "attempting to install, just one moment"
+    ],
+    "installer.network.error": [
+      "A network error occurred while {{action}} {{skill}}. Error code {{error}}."
+    ],
+    "installer.not.found": [
+      "I didn't find any skill name {{skill}}."
+    ],
+    "installer.other.error": [
+      "Failed to install {{skill}}, error code reported was {{error}}"
+    ],
+    "installer.removal.error": [
+      "There was an error while removing {{skill}}. Error code {{error}}"
+    ],
+    "installer.remove.not.found": [
+      "No skill matching '{{skill}}' was found to remove"
+    ],
+    "installer.remove.not.found.no.skill": [
+      "No skill was found to remove",
+      "I couldn't find a skill to remove",
+      "No matching skills to remove"
+    ],
+    "installer.removed": [
+      "{{skill}} has been removed"
+    ],
+    "installer.removing": [
+      "attempting to uninstall"
+    ],
+    "installer.searching": [
+      "Okay"
+    ],
+    "installer.some.available.skills": [
+      "Here's a few skills you can install: {{skills}}"
+    ],
+    "installer.system.error": [
+      "A system error occurred while installing {{skill}}. Error code {{error}}."
+    ],
+    "installer.too.many.matches": [
+      "Your request had multiple matches, please be more specific. There were too many matches to read them."
+    ],
+    "installer.uninstall.confirmation": [
+      "Confirming: Shall I remove {{skill}}."
+    ],
+    "ip.dot": [
+      "dot"
+    ],
+    "ip.my address is": [
+      "my network I.P address is {{ip}}",
+      "i'm at I.P address {{ip}}"
+    ],
+    "ip.my address on X is Y": [
+      "on {{interface}} my I.P address is {{ip}}."
+    ],
+    "ip.no network connection": [
+      "I don't have a network connection yet",
+      "I'm not connected to a network"
+    ],
+    "iss-location.about": [
+      "The International Space Station is a modular space station in low Earth orbit. The ISS programme is a multi-national collaborative project between five participating space agencies: NASA ( United States ) , Roscosmos ( Russia ) , JAXA ( Japan ) , ESA ( Europe ) , and CSA ( Canada ) .The ownership and use of the space station is established by intergovernmental treaties and agreements."
+    ],
+    "iss-location.location.current": [
+      "The I S S is over {{latitude}} latitude {{longitude}} longitude which corresponds to {{toponym}}",
+      "The space station is at {{latitude}} latitude {{longitude}} longitude over {{toponym}}",
+      "It's at {{latitude}} latitude {{longitude}} longitude, over {{toponym}}",
+      "The international space station is now over {{toponym}} at {{latitude}} latitude {{longitude}} longitude",
+      "Over {{toponym}} at {{latitude}} latitude and {{longitude}} longitude"
+    ],
+    "iss-location.location.unknown": [
+      "The space station is at {{latitude}} latitude {{longitude}} longitude but I don't know where this is",
+      "The ISS is now over {{latitude}} latitude {{longitude}} longitude but there is no associated geographic feature"
+    ],
+    "iss-location.location.when": [
+      "The I S S will be over {{toponym}} in {{duration}}",
+      "The space station will be at {{toponym}} in {{duration}}",
+      "The international space station will be at {{toponym}} in {{duration}}"
+    ],
+    "iss-location.number": [
+      "{{number}} persons are on board of the international space station",
+      "{{number}} persons are on board of the space station",
+      "{{number}} persons are on board of the I S S",
+      "{{number}} persons are in orbit on board of the space station",
+      "there are {{number}} persons on board of the international space station",
+      "there are {{number}} persons on board of the space station",
+      "there are {{number}} persons on board of the I S S",
+      "there are {{number}} persons in orbit on board of the space station"
+    ],
+    "iss-location.who": [
+      "{{people}} are on board of the international space station",
+      "{{people}} are on board of the space station",
+      "{{people}} are on board of the I S S",
+      "{{people}} are in orbit on board of the space station",
+      "the following people are on board of the international space station, {{people}}",
+      "the following persons are on board of the international space station, {{people}}"
+    ],
+    "iss-tracker-skill.location.current": [
+      "The I S S is over {{latitude}} latitude {{longitude}} longitude which corresponds to {{toponym}}",
+      "The space station is at {{latitude}} latitude {{longitude}} longitude over {{toponym}}",
+      "It's at {{latitude}} latitude {{longitude}} longitude, over {{toponym}}",
+      "The international space station is now over {{toponym}} at {{latitude}} latitude {{longitude}} longitude",
+      "Over {{toponym}} at {{latitude}} latitude and {{longitude}} longitude"
+    ],
+    "iss-tracker-skill.location.unknown": [
+      "Sorry {{latitude}} latitude {{longitude}} longitude is not known",
+      "Sorry The space station is at {{latitude}} latitude {{longitude}} longitude but I don't know where this is",
+      "It's at {{latitude}} latitude {{longitude}} longitude which is not coded in this database",
+      "The ISS is now over {{latitude}} latitude {{longitude}} longitude but there is no associated geographic feature"
+    ],
+    "kings-of-horror.intro": [
+      "thank you for installing kings of horror skill"
+    ],
+    "krunner-search-skill.krunner.recent": [
+      "Displaying your recent files"
+    ],
+    "krunner-search-skill.krunner.search": [
+      "I am searching locally for {{ Query }}"
+    ],
+    "laugh.cancel": [
+      "laughing stopped",
+      "i wont laugh anymore"
+    ],
+    "laugh.cancel_fail": [
+      "i am not laughing"
+    ],
+    "laugh.maybe": [
+      "no",
+      "maybe",
+      "who knows"
+    ],
+    "laugh.yes": [
+      "yes"
+    ],
+    "launcher.neon.LaunchProgram": [
+      "Launching {{program}}."
+    ],
+    "launcher.neon.LaunchWebsite": [
+      "Navigating."
+    ],
+    "launcher.neon.MobileNotSupported": [
+      "Sorry, I can't launch mobile apps yet."
+    ],
+    "launcher.neon.NotFound": [
+      "I could not find a program named {{program}}."
+    ],
+    "launcher.neon.WebsiteNotFound": [
+      "{{website}} does not appear to be a valid website."
+    ],
+    "learning-skill.add.category": [
+      "I recognized a new category {{cat}}, what would you like to call it?",
+      "you recognized a new category {{cat}}, tell me what to call it?"
+    ],
+    "learning-skill.answer": [
+      "what should I know about it",
+      "you must have an answer to that",
+      "how should I answer that?"
+    ],
+    "learning-skill.begin.learning": [
+      "I like to learn, Which category is it?",
+      "I hear, Can you please give me a category?",
+      "I'm sure I'm very curious, just give me one more category",
+      "Knowledge makes me more human, give me a category."
+    ],
+    "learning-skill.begin.private": [
+      "I can remain silent as a grave, Which category is it?",
+      "I would not tell anything, Can you please give me a category?",
+      "that stays with us, just give me one more category",
+      "I will not tell anything, just give me one category"
+    ],
+    "learning-skill.cancel": [
+      "then it's not possible",
+      "Well, then not",
+      "how you mean",
+      "so I'm going to cancel",
+      "then I'll just stop"
+    ],
+    "learning-skill.continue": [
+      "do you want to continue?",
+      "another one?",
+      "I have one more. do you want to continue?",
+      "may i continue?"
+    ],
+    "learning-skill.found.output": [
+      "how would you say that Replace Varaiblen with your own placeholders such as time or temperature.",
+      "Replace variables with your own placeholders. now tell me your version."
+    ],
+    "learning-skill.invalid.category": [
+      "Unknown category, possible: {categorys} or say cancel to abort",
+      "I did not recognize the category, I know bissher {categorys} or say cancel to cancel"
+    ],
+    "learning-skill.keywords": [
+      "give me keywords",
+      "did you give me some key words",
+      "can you give me a couple of keywords",
+      "i still need keywords"
+    ],
+    "learning-skill.line": [
+      "{line}"
+    ],
+    "learning-skill.no.old.inquiry": [
+      "I couldn't find a request",
+      "Unfortunately I couldn't find anything",
+      "I don't know anything about it",
+      "I have nothing to offer you"
+    ],
+    "learning-skill.question": [
+      "what is your question?",
+      "to which question should I react",
+      "what should I react to",
+      "how should the request start"
+    ],
+    "learning-skill.read.for": [
+      "I will play examples for you. If you want to expand a sentence, say yes",
+      "I will tell you sentences. If I'm right say yes",
+      "I read sentences for you and if you want to expand them say yes",
+      "you can say yes after each example to expand a sentence"
+    ],
+    "learning-skill.save.learn": [
+      "So I'm supposed to answer the question {{question}} with {{answer}}?",
+      "if you want i will answer {{answer}} if you ask me {{question}}.",
+      "So {{answer}} is the answer to {{question}}."
+    ],
+    "learning-skill.save.update": [
+      "should I add the sentence: {{question}}",
+      "do you want me to add the sentence {{question}}.",
+      "the sentence {{question}} fits should I add it.",
+      "the request {{question}} seems to fit you want to take it over."
+    ],
+    "learning-skill.second.try": [
+      "try it again",
+      "you have to tell me the placeholder",
+      "Try another placeholder",
+      "another placeholder may fit",
+      "give me another placeholder"
+    ],
+    "learning-skill.var.found": [
+      "I found a variable {var} you can give it to me",
+      "can you give me the variable {var} to get ahead",
+      "I need the variable {var} please specify it",
+      "the variable {var} is needed you can give it to me"
+    ],
+    "learning-skill.what.skill": [
+      "Which skill do you want to adjust",
+      "Name me a skill",
+      "What skill is it about?",
+      "I need a skill name from you",
+      "can you give me the name of the skills"
+    ],
+    "lifx-mycroft.Color": [
+      "Setting {{name}} to {{color}}."
+    ],
+    "lifx-mycroft.Dim": [
+      "{{change}}ing {{name}}."
+    ],
+    "lifx-mycroft.GroupError": [
+      "Can not {{action}} {{name}} because it's a Group.",
+      "Can't {{action}} {{name}}, as it's a Group."
+    ],
+    "lifx-mycroft.SetPercent": [
+      "Setting {{param}} to {{value}}.",
+      "Changing {{param}} to {{value}}.",
+      "Setting {{name}} {{param}} to {{value}}."
+    ],
+    "lifx-mycroft.Switch": [
+      "Turning {{status}} {{name}}.",
+      "Turning {{name}} {{status}}."
+    ],
+    "lifx-mycroft.Temperature": [
+      "Making {{name}} {{temperature}}er."
+    ],
+    "list-manager-skill.add.item": [
+      "{{item_name}} added to your {{list_name}} list."
+    ],
+    "list-manager-skill.add.list": [
+      "Your new list {{list_name}} has been added."
+    ],
+    "list-manager-skill.and": [
+      "and"
+    ],
+    "list-manager-skill.cancelled": [
+      "Cancelled."
+    ],
+    "list-manager-skill.confirm.deletion": [
+      "Are you sure you want to delete {{element}}?"
+    ],
+    "list-manager-skill.del.item": [
+      "{{item_name}} removed from your {{list_name}} list."
+    ],
+    "list-manager-skill.del.list": [
+      "Your list {{list_name}} has been removed."
+    ],
+    "list-manager-skill.item.already.exists": [
+      "{{item_name}} is already on your {{list_name}} list."
+    ],
+    "list-manager-skill.item.not.found": [
+      "{{item_name}} is not on your {{list_name}} list."
+    ],
+    "list-manager-skill.list.found": [
+      "You alredy have a list called {{list_name}}."
+    ],
+    "list-manager-skill.list.not.found": [
+      "You don't seem to have a list called {{list_name}}.",
+      "I couldn't find {{list_name}} among your lists."
+    ],
+    "list-manager-skill.no.items": [
+      "Your {{list_name}} list is empty."
+    ],
+    "list-manager-skill.no.lists": [
+      "You don't have any lists yet."
+    ],
+    "list-manager-skill.read.items": [
+      "In your {{list_name}} list you have {{items}}"
+    ],
+    "list-manager-skill.read.lists": [
+      "Currently you have {{lists_names}} {{list}}."
+    ],
+    "mark-2.auto.noon": [
+      "It seems to be midday, I will adjust the brightness."
+    ],
+    "mark-2.auto.sunrise": [
+      "Okay, The sun is coming out, I will adjust the brightness",
+      "Okay, the sun is out, setting the brightness level"
+    ],
+    "mark-2.auto.sunset": [
+      "Okay, It's getting dark, I will adjust the brightness accordingly."
+    ],
+    "mark-2.brightness.error": [
+      "I do not understand that brightness value, give me a brightness value from 0 to 100 percent."
+    ],
+    "mark-2.brightness.not.found": [
+      "Tell me a brightness percentage or level for my face",
+      "What brightness level or percentage would you like?"
+    ],
+    "mark-2.brightness.not.found.final": [
+      "Sorry, I don't understand that brightness.",
+      "I only understand things like, 'full' or 50%"
+    ],
+    "mark-2.brightness.set": [
+      "Okay, setting brightness to {val}.",
+      "Sounds good, setting brightness to {val}"
+    ],
+    "mark-2.device.wifi.setup.complete": [
+      "Wifi setup complete, network is connected."
+    ],
+    "mark-2.device.wifi.setup.network.selection": [
+      "Select your Wifi network to connect your Mycroft Mark II."
+    ],
+    "mark-2.device.wifi.setup.started": [
+      "Connect to the Wifi network Mycroft."
+    ],
+    "mark-2.no.web.setting": [
+      "No eye color has been set there",
+      "I didn't find any web setting for eye color"
+    ],
+    "mark-2.rebooting": [
+      "Rebooting now, I'll be right back",
+      "Restarting, back in a few minutes"
+    ],
+    "mbta-bus-tracking-skill.Arriving.Hour": [
+      "arriving in {hour} hour"
+    ],
+    "mbta-bus-tracking-skill.Arriving.Hour.Minutes": [
+      "arriving in {hour} hour and {minutes} minutes"
+    ],
+    "mbta-bus-tracking-skill.Arriving.In": [
+      "arriving in"
+    ],
+    "mbta-bus-tracking-skill.Arriving.Minute": [
+      "arriving in one minute"
+    ],
+    "mbta-bus-tracking-skill.Arriving.Minutes": [
+      "arriving in {minutes} minutes"
+    ],
+    "mbta-bus-tracking-skill.Arriving.Now.": [
+      "arriving now"
+    ],
+    "mbta-bus-tracking-skill.Bus.Arrival.Prefix": [
+      "arrivals for {stop}"
+    ],
+    "mbta-bus-tracking-skill.Delete.Complete": [
+      "removed shortcut {shortcut}"
+    ],
+    "mbta-bus-tracking-skill.Error.Calling.Server": [
+      "There was an error contacting the m.b.t.a. service, make sure your a.p.i key is correct at home dot mycroft dot a.i."
+    ],
+    "mbta-bus-tracking-skill.List.Saved": [
+      "your saved shortcuts are {routes}"
+    ],
+    "mbta-bus-tracking-skill.No.Busses.Found": [
+      "no busses found for {name}"
+    ],
+    "mbta-bus-tracking-skill.Not.Enough.Info": [
+      "I a need route name, direction and a stop name to save a route"
+    ],
+    "mbta-bus-tracking-skill.Save.Complete": [
+      "saved shortcut as {shortcut}",
+      "next time just say {shortcut}",
+      "{shortcut} has been saved"
+    ],
+    "mbta-bus-tracking-skill.Service.Announcement": [
+      "route {route} service to {dest}"
+    ],
+    "mbta-bus-tracking-skill.Shortcut.Prompt": [
+      "what would you like to call this shortcut?",
+      "give me a name for the shortcut"
+    ],
+    "mbta-bus-tracking-skill.Shutdown.Message": [
+      "t bus is shutting down"
+    ],
+    "mbta-bus-tracking-skill.Tracking.Bus.Mbta": [
+      "arrival times"
+    ],
+    "mbta-bus-tracking-skill.Which.Direction": [
+      "which direction {dir1} toward {dest1} or {dir2} toward {dest2}?",
+      "are you going {dir1} toward {dest1} or {dir2} toward {dest2}?",
+      "choose a direction {dir1} toward {dest1} or {dir2} toward {dest2}"
+    ],
+    "mbta-bus-tracking-skill.Which.Route": [
+      "which route?",
+      "which route are you riding?",
+      "name a route"
+    ],
+    "mbta-bus-tracking-skill.Which.Stop": [
+      "which stop?",
+      "name a stop",
+      "where will you be getting on?"
+    ],
+    "messaging.neon.ConfirmCall": [
+      "Would you like to call {{name}} <sub alias=\"\">{{number}}</sub>?"
+    ],
+    "messaging.neon.ConfirmEmail": [
+      "Would you like to review and send this email?"
+    ],
+    "messaging.neon.ConfirmMessage": [
+      "Here is your {{kind}} to {{name}} <sub alias=\"\">{{address}}:</sub> <break time=\"200ms\"/> {{message}}"
+    ],
+    "messaging.neon.ConfirmSend": [
+      "Would you like to send it?"
+    ],
+    "messaging.neon.ContactNotFound": [
+      "Sorry, I could not find any {{kind}} for {{recipient}} in your contacts. Please, try again."
+    ],
+    "messaging.neon.DiscardDraft": [
+      "Discarding message draft."
+    ],
+    "messaging.neon.EmailSent": [
+      "Launching your email app to review and send."
+    ],
+    "messaging.neon.ErrorDialog": [
+      "Something went wrong and I can't send your message. Please, try again."
+    ],
+    "messaging.neon.GetEmailBody": [
+      "Please dictate your email body. Pause and say 'done' when you are ready to send."
+    ],
+    "messaging.neon.GetEmailSubject": [
+      "What is the subject?"
+    ],
+    "messaging.neon.GetRecipientAddress": [
+      "Who will this {{kind}} be sent to?"
+    ],
+    "messaging.neon.OnlyMobile": [
+      "I can only {{action}} from mobile devices right now."
+    ],
+    "messaging.neon.TextSent": [
+      "Sending message."
+    ],
+    "mock-backend.intro": [
+      "thank you for installing {skill_name} skill"
+    ],
+    "mock-backend.mock_backend": [
+      "I am using the mock backend",
+      "Home dot mycroft dot ai is disabled",
+      "Mycroft backend is disabled"
+    ],
+    "mock-backend.mycroft_backend": [
+      "I am using the mycroft backend",
+      "Home dot mycroft dot ai is enabled",
+      "Mycroft backend is enabled"
+    ],
+    "mock-backend.need_reboot": [
+      "reboot needed for new settings to take effect"
+    ],
+    "monkey-patch-tester.no": [
+      "no, the monkey patches did not seem to have worked"
+    ],
+    "monkey-patch-tester.yes": [
+      "yes, I am monkey patched"
+    ],
+    "monkey-patcher.installed": [
+      "Monkey patches skill has been installed, you need to restart Mycroft"
+    ],
+    "mouse-jiggler.jiggle_start": [
+      "starting mouse activity"
+    ],
+    "mouse-jiggler.jiggle_status_off": [
+      "mouse activity is disabled"
+    ],
+    "mouse-jiggler.jiggle_status_on": [
+      "mouse activity is enabled"
+    ],
+    "mouse-jiggler.jiggle_stop": [
+      "stopping mouse activity"
+    ],
+    "moviemaster.bad.movie.genre.catagory": [
+      "I can not find any television shows with the genre {genre}",
+      "I can not find any TV shows with the genre {genre}"
+    ],
+    "moviemaster.bad.tv.genre.catagory": [
+      "I can not find any television shows with the genre {genre}",
+      "I can not find any TV shows with the genre {genre}"
+    ],
+    "moviemaster.fallback.api": [
+      "Falling back to the default A P I"
+    ],
+    "moviemaster.genre.movie.search": [
+      "the movies with the genre {genre} are;"
+    ],
+    "moviemaster.genre.tv.search": [
+      "the TV shows with the genre {genre} are;",
+      "the television shows with the genre {genre} are;"
+    ],
+    "moviemaster.movie.cast": [
+      "Here is the cast of {movie}; {actorlist} and {lastactor}",
+      "The following people act in the movie {movie}; {actorlist} and {lastactor}",
+      "The following people play in the movie {movie}; {actorlist} and {lastactor}",
+      "The following people star in the movie {movie}; {actorlist} and {lastactor}"
+    ],
+    "moviemaster.movie.description": [
+      "the film {movie} is about this.",
+      "the movie {movie} is about this.",
+      "here is a synopsis of the film {movie}.",
+      "here is a synopsis of the movie {movie}."
+    ],
+    "moviemaster.movie.genre.multiple": [
+      "The flick can be found in one of the genres; {genrelist} and {genrelistlast}",
+      "The film can be found in one of the genres; {genrelist} and {genrelistlast}",
+      "The movie can be found in one of the genres; {genrelist} and {genrelistlast}",
+      "People consider the film a {genrelist} or {genrelistlast}",
+      "People consider the movie a {genrelist} or {genrelistlast}"
+    ],
+    "moviemaster.movie.genre.single": [
+      "The film {movie} could be considered a {genre}",
+      "The movie {movie} could be considered a {genre}",
+      "You can find the flick {movie} in the {genre} section",
+      "You can find the film {movie} in the {genre} section"
+    ],
+    "moviemaster.movie.info.response": [
+      "{movie} was released on {year}, with a budget of {budget} dollars."
+    ],
+    "moviemaster.movie.popular": [
+      "The new popular movies out now are {popularlist}.",
+      "{popularlist} top the movie charts right now."
+    ],
+    "moviemaster.movie.production.multiple": [
+      "The companies {companies} and {lastcompany} produced the movie {movie}",
+      "{companies} and {lastcompany} produced the movie {movie}"
+    ],
+    "moviemaster.movie.production.single": [
+      "The production company {company}, produced the movie {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "I recommend the movies {movielist}, if you like the flick {movie}",
+      "I recommend the movies {movielist}, if you like the movie {movie}",
+      "The movies {movielist} are a good choice if you like the flick {movie}",
+      "The movies {movielist} are a good choice if you like the movie {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "The flick {movie}, runs for {runtime} minutes.",
+      "The film {movie}, runs for {runtime} minutes.",
+      "The movie {movie}, runs for {runtime} minutes.",
+      "The flick {movie} is {runtime} minutes long.",
+      "The film {movie} is {runtime} minutes long.",
+      "The movie {movie} is {runtime} minutes long.",
+      "Watching {movie}; You can expect about {runtime} minutes before you can have a bathroom break."
+    ],
+    "moviemaster.movie.top": [
+      "These are the most popular movies playing now; {toplist}",
+      "These are the most popular movies out now; {toplist}",
+      "These are the top movies playing now; {toplist}",
+      "These are the top movies out now; {toplist}",
+      "{toplist} are the most popular movies playing now.",
+      "{toplist} are the most popular movies out now.",
+      "{toplist} are the top movies playing now.",
+      "{toplist} are the top movies out now."
+    ],
+    "moviemaster.movie.year": [
+      "the flick {movie} was released on {year}",
+      "the flick {movie} was made on {year}",
+      "the film {movie} was released on {year}",
+      "the film {movie} was made on {year}",
+      "the movie {movie} was released on {year}",
+      "the movie {movie} was made on {year}"
+    ],
+    "moviemaster.no.api": [
+      "You must enter your T M D B A P I key at home dot mycroft dot A I to use the movie master skill"
+    ],
+    "moviemaster.no.info": [
+      "I'm sorry. I can not find any information on the movie {movie}",
+      "I'm sorry. I can not find any information on the film {movie}"
+    ],
+    "moviemaster.no.info.general": [
+      "I'm sorry, I can not find the list you are looking for right now; please ask again later."
+    ],
+    "moviemaster.no.valid.api": [
+      "The A P I key that you entered is not valid. Refer to the read me file for instructions on how to obtain one."
+    ],
+    "mycroft-mark-1.auto.noon": [
+      "It's seems to be midday, I will adjust the brightness."
+    ],
+    "mycroft-mark-1.auto.sunrise": [
+      "Okay, The sun is coming out, I will adjust the brightness",
+      "Okay, the sun is out, setting the brightness level"
+    ],
+    "mycroft-mark-1.auto.sunset": [
+      "Okay, It's getting dark, I will adjust the brightness accordingly."
+    ],
+    "mycroft-mark-1.brightness.error": [
+      "I do not understand that brightness value, give me a brightness value from 0 to 100 percent."
+    ],
+    "mycroft-mark-1.brightness.not.found": [
+      "Tell me a brightness percentage or level for my face",
+      "What brightness level or percentage would you like?"
+    ],
+    "mycroft-mark-1.brightness.not.found.final": [
+      "Sorry, I don't understand that brightness.",
+      "I only understand things like, 'full' or 50%"
+    ],
+    "mycroft-mark-1.brightness.set": [
+      "Okay, setting brightness to {val}.",
+      "Sounds good, setting brightness to {val}"
+    ],
+    "mycroft-mark-1.color.need": [
+      "Which color would you like to use?",
+      "What color would you like my eyes to be?",
+      "Name a color to try."
+    ],
+    "mycroft-mark-1.color.not.exist": [
+      "I don't know that color. If you know the R G B values you can say 'set a custom eye color'.",
+      "That's not a color I'm familiar with."
+    ],
+    "mycroft-mark-1.color.not.found": [
+      "sorry, that color is not an option. Try asking me to set a custom eye color.",
+      "I do not have that color available, but I can set custom eye colors.",
+      "My eyes cannot turn into that color. Perhaps you should ask me to set a custom eye color."
+    ],
+    "mycroft-mark-1.error.rgbvalue": [
+      "I need a number between 0 and 255",
+      "The value has to be between 0 and 255"
+    ],
+    "mycroft-mark-1.error.set.color": [
+      "Sorry, There was an error setting the color.",
+      "Looks like I had an error trying to set the color."
+    ],
+    "mycroft-mark-1.get.b.value": [
+      "Almost there. How about the blue value?",
+      "One last number between 0 and 255 for blue"
+    ],
+    "mycroft-mark-1.get.g.value": [
+      "Now I need another value for green",
+      "Next I need the green value"
+    ],
+    "mycroft-mark-1.get.r.value": [
+      "Please give me a value between 0 and 255 for the red component",
+      "Tell me a value from 0 to 255 for red"
+    ],
+    "mycroft-mark-1.no.web.setting": [
+      "No eye color has been set there",
+      "I didn't find any web setting for eye color"
+    ],
+    "mycroft-mark-1.set.color.success": [
+      "Cool. check out my eyes.",
+      "Okay. Do i look better now?",
+      "That's a good color. Look at me now."
+    ],
+    "mycroft-mark-1.set.custom.color": [
+      "My brain is wired to understand colors in R G B."
+    ],
+    "mycroft-node-red.bad_key": [
+      "An error occured when Node Red tried to connect"
+    ],
+    "mycroft-node-red.change_key": [
+      "Access key updated, please edit your flows"
+    ],
+    "mycroft-node-red.converse_disable": [
+      "node red restored to fallback skill"
+    ],
+    "mycroft-node-red.converse_enable": [
+      "you made node red a priority skill",
+      "node red is now triggered before mycroft"
+    ],
+    "mycroft-node-red.converse_off": [
+      "node red is already a fallback skill",
+      "node red is not a priority skill"
+    ],
+    "mycroft-node-red.converse_on": [
+      "node red is already a priority skill",
+      "node red is not a fallback skill"
+    ],
+    "mycroft-node-red.intro": [
+      "thank you for installing node red skill, please read the github page for additional instructions"
+    ],
+    "mycroft-node-red.please_reboot": [
+      "Please restart me",
+      "You need to reboot me",
+      "Please reboot me",
+      "I need you to restart me"
+    ],
+    "mycroft-node-red.why": [
+      "This will force Node Red to disconnect and the HiveMind to reload",
+      "You need to do it for security reasons",
+      "Changes are only applied if you reboot",
+      "In order to apply changes a reboot is needed"
+    ],
+    "mycroft-timer.ask.cancel.running": [
+      "Do you want to cancel the active timer?",
+      "Would you like to stop the running timer?"
+    ],
+    "mycroft-timer.ask.cancel.running.plural": [
+      "Do you want to cancel the active timers?",
+      "Would you like to stop the running timers?"
+    ],
+    "mycroft-timer.ask.how.long": [
+      "How long of a timer?"
+    ],
+    "mycroft-timer.ask.which.timer": [
+      "There are {{count}} timers running. Which are you asking about?"
+    ],
+    "mycroft-timer.ask.which.timer.cancel": [
+      "There are {{count}} timers running. Which would you like to cancel?"
+    ],
+    "mycroft-timer.cancel.all": [
+      "Cancelled"
+    ],
+    "mycroft-timer.cancelled.single.timer": [
+      "I stopped the {{name}} timer for {{duration}}",
+      "The {{name}} timer for {{duration}} has been stopped"
+    ],
+    "mycroft-timer.no.active.timer": [
+      "There are no running timers",
+      "No timer has been set"
+    ],
+    "mycroft-timer.started.timer": [
+      "Timer started for {{duration}}"
+    ],
+    "mycroft-timer.time.remaining": [
+      "The {{name}} timer has {{remaining}} remaining"
+    ],
+    "myepisodes-skill.details": [
+      "Do you want details?",
+      "Do you want me to give you more info on these?",
+      "Do you want me to enumerate them?"
+    ],
+    "myepisodes-skill.errorHTTPCode": [
+      "I was unable to contact my episodes.com",
+      "Something went wrong while requesting teh data from my episodes dot com",
+      "Sorry, I am unable to help you at this tume. I am unable to contact my episodes dot com. PLease try again later."
+    ],
+    "myepisodes-skill.errorParseFeed": [
+      "I received malformed information form my episodes dot com",
+      "Sorry I am unable to process the information from my episodes dot com",
+      "I don't understand the information from my episodes dot com"
+    ],
+    "myepisodes-skill.noNewEpisodes": [
+      "You have no {type} episodes at this time.",
+      "There are no {type} episodes.",
+      "Sorry, no {type} episodes."
+    ],
+    "myepisodes-skill.notSetUp": [
+      "Warning! My episodes dot com requires credentials but you did not configure the my episodes skill."
+    ],
+    "myepisodes-skill.ok": [
+      "Okay"
+    ],
+    "myepisodes-skill.querying": [
+      "Asking my episodes dot com",
+      "Checking my episodes dot com",
+      "Fetching data",
+      "Searching"
+    ],
+    "myepisodes-skill.unacquiredEpisodes": [
+      "There are {total} unacquired episode{plural}.",
+      "You have {total} unacquired episode{plural}."
+    ],
+    "myepisodes-skill.unacquiredEpisodesWithAiringToday": [
+      "There are {total} unacquired episode{plural}, {airingToday} airing today.",
+      "You have {total} unacquired episode{plural}, {airingToday} airing today."
+    ],
+    "myepisodes-skill.unwatchedEpisodes": [
+      "There are also {total} acquired but not watched episode{plural}.",
+      "You also have {total} acquired but not watched episode{plural}."
+    ],
+    "naptime.going.to.sleep": [
+      "I'm going to sleep. Say 'Hey Mycroft, wake up' to get my attention again.",
+      "Going to sleep now. Say 'Hey Mycroft, wake up' to get me up.",
+      "Alright, going to sleep. You can rouse me by saying 'Hey Mycroft, wake up'."
+    ],
+    "naptime.i.am.awake": [
+      "I'm awake"
+    ],
+    "national-parks-skill.Ask.Quiz.Question": [
+      "What state is {{park}} in?",
+      "If I was in {{park}} which state would I be in?"
+    ],
+    "national-parks-skill.Error.calling.server": [
+      "There was an error contacting the national park service, make sure your a.p.i key is correct at home dot mycroft dot ai"
+    ],
+    "national-parks-skill.No.Parks.Found": [
+      "I could not find any parks named {{park}}"
+    ],
+    "national-parks-skill.No.Parks.Found.State": [
+      "I could not find any parks in {{location}}"
+    ],
+    "national-parks-skill.Park.List": [
+      "here are the national parks in {{location}} {{parks}}",
+      "national parks in {{location}} include {{parks}}"
+    ],
+    "national-parks-skill.Park.Location": [
+      "{{park}} is in {{location}}"
+    ],
+    "national-parks-skill.Quiz.Question.Correct": [
+      "That is correct.",
+      "You know your national parks.",
+      "You got it."
+    ],
+    "national-parks-skill.Quiz.Question.None": [
+      "I cannot find last asked question"
+    ],
+    "national-parks-skill.Quiz.Question.Wrong": [
+      "No, {{park}} is in {{location}}",
+      "That's incorrect, {{park}} is located in {{location}}"
+    ],
+    "news.intro": [
+      "thank you for installing News Skill"
+    ],
+    "npr-news.news": [
+      "Here is the latest news.",
+      "Here is this hour's news."
+    ],
+    "old-world-radio.intro": [
+      "thank you for installing old world radio"
+    ],
+    "omeleto.intro": [
+      "thank you for installing Omeleto short movies skill"
+    ],
+    "pairing.connection.error": [
+      "Connection to mycroft dot a.i, failed, pairing code could not be fetched. Check your internet connection and try again."
+    ],
+    "pairing.pairing.code": [
+      "You can register me by going to Devices, selecting Add Device then use the code {{code}}",
+      "Register this device with the code {{code}}",
+      "Enter the code {{code}}"
+    ],
+    "pairing.pairing.intro": [
+      "I'm connected to the internet and need to be activated. Open your browser and visit home dot mycroft dot A I to register this device."
+    ],
+    "pairing.pairing.not.paired": [
+      "Your device is not currently registered",
+      "Your device is not currently paired"
+    ],
+    "pairing.pairing.paired": [
+      "Now I am ready for use. Try asking me things like \"hey mycroft, what's the weather\", \"hey mycroft, tell me about abraham lincoln\", or \"hey mycroft, play the news\". If you need to stop me talking at any time, just push my button."
+    ],
+    "pairing.unexpected.error.restarting": [
+      "My apologies, something unexpected has happened. I need to restart the pairing process."
+    ],
+    "pandora.and": [
+      "and"
+    ],
+    "pandora.configured.please.reboot": [
+      "Pandora is now configured, but I must reboot before you can play music. Restarting now."
+    ],
+    "pandora.entering.debug.mode": [
+      "Entering debug mode for Pandora"
+    ],
+    "pandora.leaving.debug.mode": [
+      "Leaving debug mode for Pandora"
+    ],
+    "pandora.no.matching.station": [
+      "I can't find a Pandora station by that name",
+      "There is no matching Pandora station with that name"
+    ],
+    "pandora.no.stations": [
+      "You aren't subscribed to any Pandora stations yet."
+    ],
+    "pandora.playing.station": [
+      "Playing {{station}}",
+      "Starting {{station}}"
+    ],
+    "pandora.please.register.pandora": [
+      "Please visit the Skill page at home dot mycroft dot ai to setup Pandora"
+    ],
+    "pandora.resuming.last.station": [
+      "Playing the last station, {station}",
+      "Resuming the {station} station"
+    ],
+    "pandora.subscribed.to.stations": [
+      "Your Pandora stations are called {{stations}}",
+      "You are subscribed to the Pandora stations {{stations}}"
+    ],
+    "pandora.wrong.credentials": [
+      "Pandora failed to load. Please verify your email and password at home.mycroft.ai"
+    ],
+    "parrot.did.hear": [
+      "Yeah.",
+      "Yes."
+    ],
+    "parrot.did.not.hear": [
+      "No, I don't think I heard you.",
+      "No, I didn't hear you."
+    ],
+    "parrot.human.says.caption": [
+      "The human said: {{sentence}}"
+    ],
+    "parrot.idle.caption": [
+      "{{sentence}} he said",
+      "{{sentence}} says the human",
+      "Look at me, I speak like a human, {{sentence}}",
+      "Hey Mycroft, {{sentence}}",
+      "Humans say {{sentence}}",
+      "{{sentence}} the human says",
+      "Human speech, take 7, {{sentence}}",
+      "Tell me this, tell me that, {{sentence}}, humans ask too much questions",
+      "And then the human said: {{sentence}}"
+    ],
+    "parrot.no.utterances.caption": [
+      "Say something human!",
+      "I long to hear a human voice"
+    ],
+    "parrot.not_parroting": [
+      "I am not in parrot mode"
+    ],
+    "parrot.nothing": [
+      "nothing"
+    ],
+    "parrot.parrot_start": [
+      "Parrot mode activated",
+      "Parrot mode engaged",
+      "Parrot mode on",
+      "Parrot mode enabled",
+      "It's good to be a parrot",
+      "I like being a parrot",
+      "I will repeat you",
+      "I am good at repeating things",
+      "I am a parrot"
+    ],
+    "parrot.parrot_stop": [
+      "Parrot mode deactivated",
+      "Parrot mode disengaged",
+      "Parrot mode off",
+      "Parrot mode disabled",
+      "I will stop repeating what you say"
+    ],
+    "parrot.please.repeat": [
+      "Can you repeat that?",
+      "What did you say?"
+    ],
+    "parrot.repeat.stt": [
+      "You just said, {{stt}}.",
+      "You said, {{stt}}."
+    ],
+    "parrot.repeat.stt.old": [
+      "The last thing you said was {{stt}}.",
+      "A while ago you said, {{stt}}."
+    ],
+    "parrot.repeat.tts": [
+      "I just said, {tts}",
+      "I said, {tts}"
+    ],
+    "personal.what.am.i": [
+      "I am an open source artificial intelligence.",
+      "I'm an intelligent piece of software for communicating with machines"
+    ],
+    "personal.when.was.i.born": [
+      "I was born in 2015.",
+      "2015 is when I was born."
+    ],
+    "personal.where.was.i.born": [
+      "The Lawrence Center for Entrepreneurship.",
+      "I was born in Lawrence, Kansas."
+    ],
+    "personal.who.am.i": [
+      "My name is {{name}} and I'm an intelligent personal assistant",
+      "I'm {{name}}, an open-source A.I."
+    ],
+    "personal.who.made.me": [
+      "The wonderful Mycroft A.I. community and team.",
+      "Everyone in the Mycroft A.I. community and team."
+    ],
+    "pick-number.error": [
+      "I only heard one number. Please try again with two numbers."
+    ],
+    "pick-number.pick.number": [
+      "The number i have picked is, {{number}}",
+      "I have chosen, {{number}}, as my number",
+      "I choose, {{number}}",
+      "I pick, {{number}}",
+      "I will pick, {{number}}",
+      "I have picked, {{number}}",
+      "I have selected, {{number}}"
+    ],
+    "pickup-lines.intro": [
+      "thank you for installing {skill_name} skill"
+    ],
+    "pickup-lines.source": [
+      "I scrapped my pickup lines from the internet",
+      "I get my pickup lines from the internet",
+      "My pickup lines come from the internet",
+      "I download pickup lines from the internet",
+      "My pickup lines come from the internet",
+      "I get my pickup lines from pickup lines galore dot com and pickup line gen dot com",
+      "I scrapped my pickup lines from pickup lines galore dot com and pickup line gen dot com",
+      "My pickup lines come from pickup lines galore dot com and pickup line gen dot com",
+      "I download pickup lines from pickup lines galore dot com and pickup line gen dot com",
+      "My pickup lines come from pickup lines galore dot com and pickup line gen dot com"
+    ],
+    "picroft-google-aiy-voicekit-skill.error.initialize": [
+      "I am having problems initializing the Google A I Y voice kit Skill. The Skill will not load."
+    ],
+    "plasma-activities-skill.activities.create": [
+      "Your Activity {{ ActivityName }} Has Been Created"
+    ],
+    "plasma-activities-skill.activities.remove": [
+      "Activity has been removed"
+    ],
+    "plasma-activities-skill.activities.show": [
+      "Displaying Activities"
+    ],
+    "plasma-activities-skill.activities.stop": [
+      "{{ StopActivityName }} activity has been stopped"
+    ],
+    "plasma-activities-skill.activities.switch": [
+      "Switching to activity {{ SwitchActivityName }}"
+    ],
+    "pokemon-skill.ability.effect.entry": [
+      "{ability}: {info}"
+    ],
+    "pokemon-skill.ability.flavor.text": [
+      "{ability}: {info}"
+    ],
+    "pokemon-skill.ability.generation.introduced": [
+      "{ability} was introduced in generation {generation}"
+    ],
+    "pokemon-skill.ability.not.in.version": [
+      "{version} doesn't have {ability}"
+    ],
+    "pokemon-skill.and": [
+      "and"
+    ],
+    "pokemon-skill.base.stat.is": [
+      "{pokemon}'s base {stat} is {value}"
+    ],
+    "pokemon-skill.cannot.answer.about.ability": [
+      "Cannot answer that about that ability"
+    ],
+    "pokemon-skill.cannot.answer.about.pokemon": [
+      "Cannot answer that about that Pokemon"
+    ],
+    "pokemon-skill.connection.error": [
+      "No internet connection",
+      "Got a connection error"
+    ],
+    "pokemon-skill.debug.speech": [
+      "Debugging! Reached!"
+    ],
+    "pokemon-skill.evolve.details.at.level": [
+      "at level {level}"
+    ],
+    "pokemon-skill.evolve.details.holding.item": [
+      "while holding {item}"
+    ],
+    "pokemon-skill.evolve.details.if.gender.female": [
+      "if female"
+    ],
+    "pokemon-skill.evolve.details.if.gender.male": [
+      "if male"
+    ],
+    "pokemon-skill.evolve.details.knowing.move": [
+      "when knowing {move}"
+    ],
+    "pokemon-skill.evolve.details.knowing.move.type": [
+      "when knowing a move with type {type}"
+    ],
+    "pokemon-skill.evolve.details.location": [
+      "at {location}"
+    ],
+    "pokemon-skill.evolve.details.stats.attack.equals.defense": [
+      "if attack stat is equal to defense stat"
+    ],
+    "pokemon-skill.evolve.details.stats.attack.greater.than.defense": [
+      "if attack stat is greater than defense stat"
+    ],
+    "pokemon-skill.evolve.details.stats.attack.less.than.defense": [
+      "if attack stat is less than the defense stat"
+    ],
+    "pokemon-skill.evolve.details.time.of.day": [
+      "at {time}"
+    ],
+    "pokemon-skill.evolve.details.trade.species": [
+      "for {species}"
+    ],
+    "pokemon-skill.evolve.details.trigger": [
+      "by {name}"
+    ],
+    "pokemon-skill.evolve.details.turn.upside.down": [
+      "with the system turned upside down"
+    ],
+    "pokemon-skill.evolve.details.with.affection": [
+      "with an affection level of {affection}"
+    ],
+    "pokemon-skill.evolve.details.with.beauty": [
+      "with beauty level {beauty}"
+    ],
+    "pokemon-skill.evolve.details.with.happiness": [
+      "with happiness {happiness}"
+    ],
+    "pokemon-skill.evolve.details.with.pokemon.party": [
+      "with {pokemon} in party"
+    ],
+    "pokemon-skill.evolve.details.with.pokemon.party.type": [
+      "with {type} type in party"
+    ],
+    "pokemon-skill.evolve.details.with.rain": [
+      "while it's raining"
+    ],
+    "pokemon-skill.foot": [
+      "foot"
+    ],
+    "pokemon-skill.inches": [
+      "inches"
+    ],
+    "pokemon-skill.kilograms": [
+      "kilograms"
+    ],
+    "pokemon-skill.meters": [
+      "meters"
+    ],
+    "pokemon-skill.no.type.specified": [
+      "You must specify a type",
+      "What type?"
+    ],
+    "pokemon-skill.or": [
+      "or"
+    ],
+    "pokemon-skill.pokemon.abilities.hidden": [
+      "{pokemon} has hidden ability {hidden_abilities}"
+    ],
+    "pokemon-skill.pokemon.abilities.hidden.non-hidden": [
+      "{pokemon} has ability {abilities}. and hidden ability {hidden_abilities}"
+    ],
+    "pokemon-skill.pokemon.abilities.non-hidden": [
+      "{pokemon} has ability {abilities}"
+    ],
+    "pokemon-skill.pokemon.abilities.none": [
+      "{pokemon} has no abilities"
+    ],
+    "pokemon-skill.pokemon.capture.rate": [
+      "{pokemon}'s capture rate is {rate}"
+    ],
+    "pokemon-skill.pokemon.color.is": [
+      "{pokemon} is {color}"
+    ],
+    "pokemon-skill.pokemon.does.not.evolve": [
+      "{pokemon} does not evolve"
+    ],
+    "pokemon-skill.pokemon.egg.groups.are": [
+      "{pokemon}'s egg group is {groups}"
+    ],
+    "pokemon-skill.pokemon.evolves.from": [
+      "{pokemon} evolves from {from} {how}"
+    ],
+    "pokemon-skill.pokemon.evolves.into": [
+      "{pokemon} evolves into {evolve}"
+    ],
+    "pokemon-skill.pokemon.final.evolution": [
+      "{pokemon}'s final evolution is {final}"
+    ],
+    "pokemon-skill.pokemon.first.evolution.is": [
+      "{pokemon}'s first evolution is {first}"
+    ],
+    "pokemon-skill.pokemon.has.no.evolutions": [
+      "{pokemon} has no evolutions"
+    ],
+    "pokemon-skill.pokemon.has.no.forms": [
+      "{pokemon} isn't in a form"
+    ],
+    "pokemon-skill.pokemon.has.no.previous.evolution": [
+      "{pokemon} has no previous evolution"
+    ],
+    "pokemon-skill.pokemon.height": [
+      "{pokemon} is {height}"
+    ],
+    "pokemon-skill.pokemon.id.is": [
+      "{pokemon}'s I D is {id}",
+      "{pokemon} is number {id}"
+    ],
+    "pokemon-skill.pokemon.is.in.final.evolution": [
+      "{pokemon} is in it's final evolution",
+      "{pokemon} can not evolve any further"
+    ],
+    "pokemon-skill.pokemon.is.in.first.evolution": [
+      "{pokemon} is in it's first evolution",
+      "{pokemon} is in it's simplest evolution"
+    ],
+    "pokemon-skill.pokemon.is.in.form": [
+      "{pokemon} is in {form}"
+    ],
+    "pokemon-skill.pokemon.lives.in": [
+      "{pokemon} lives in the {habitat}",
+      "{pokemon} live in the {habitat}",
+      "{pokemon}'s home is the {habitat}"
+    ],
+    "pokemon-skill.pokemon.shape.is": [
+      "{pokemon}'s shape is {shape}"
+    ],
+    "pokemon-skill.pokemon.type.one": [
+      "{pokemon}'s type is {type1}"
+    ],
+    "pokemon-skill.pokemon.type.two": [
+      "{pokemon}'s types are {type1} and {type2}"
+    ],
+    "pokemon-skill.pokemon.version.introduced": [
+      "{pokemon} was introduced in {versions} in generation {generation}"
+    ],
+    "pokemon-skill.pokemon.weighs": [
+      "{pokemon} weighs {weight}"
+    ],
+    "pokemon-skill.pounds": [
+      "pounds"
+    ],
+    "pokemon-skill.type.is.half": [
+      "{type} isn't very effective against {pokemon}"
+    ],
+    "pokemon-skill.type.is.none": [
+      "{type} does not affect {pokemon}"
+    ],
+    "pokemon-skill.type.is.normal": [
+      "{type} does normal damage against {pokemon}"
+    ],
+    "pokemon-skill.type.is.super": [
+      "{type} is super effective against {pokemon}"
+    ],
+    "pokemon-skill.unable.to.find.pokemon": [
+      "I wasn't able to find a pokemon for that phrase",
+      "I couldn't find that pokemon",
+      "Unable to find that pokemon"
+    ],
+    "query.noAnswer": [
+      "Sorry, I don't know the answer to that",
+      "I don't have the answer for that",
+      "I don't know",
+      "Beats me"
+    ],
+    "quote-of-day.intro": [
+      "thank you for installing {skill_name} skill"
+    ],
+    "quote-of-day.no_idea": [
+      "I don't know",
+      "I have not verified the sources",
+      "It is in the internet, it must be true",
+      "Take everything with a grain of salt",
+      "Sources have not been checked",
+      "Sources have not been provided"
+    ],
+    "quote-of-day.theysaidso": [
+      "I scrapped my quotes from they said so api",
+      "I get my quotes from they said so api",
+      "My quotes come from they said so api",
+      "I download quotes from they said so api",
+      "My quotes come from the internet"
+    ],
+    "release-test.Release": [
+      "Test passed for 18.2.13b"
+    ],
+    "remember-skill.delete": [
+      "Should i delete the phrase: {{PHRASE}}?"
+    ],
+    "remember-skill.deleteall": [
+      "Should i delete everything i remembered for you?"
+    ],
+    "remember-skill.forgotten": [
+      "It is forgotten."
+    ],
+    "remember-skill.gotphrase": [
+      "I will remember \"{{REMEMBER}}\" for you."
+    ],
+    "remember-skill.holdon": [
+      "I will hold on to this phrase."
+    ],
+    "remember-skill.iremembered": [
+      "I remember: {{REMEMBER}}."
+    ],
+    "remember-skill.short": [
+      "I can only remember sentences or words longer than four characters. Please rephrase."
+    ],
+    "remember-skill.sorry": [
+      "I am sorry, i can not remember any phrase!"
+    ],
+    "remember-skill.sorryforget": [
+      "I am sorry, there was an error, i could not forget anything!"
+    ],
+    "remember-skill.sorrynophrase": [
+      "I am sorry, i couldn't find a phrase matching your request."
+    ],
+    "reminder.reminder.notify": [
+      "You have a reminder {{data}}",
+      "There is a reminder {{data}}"
+    ],
+    "reminder.reminder.off": [
+      "the reminder has been turned off",
+      "the reminder has been shut off",
+      "the reminder has been stopped"
+    ],
+    "reminder.reminder.stop": [
+      "Stop this reminder by saying, stop reminder",
+      "Say, set reminder off to end this reminder",
+      "Tell me to end reminder to stop the current reminder"
+    ],
+    "reminder.schedule.create": [
+      "Reminder set for {{datetime}}",
+      "You have a new reminder on {{datetime}}",
+      "A new reminder for {{datetime}} was added"
+    ],
+    "reminder.schedule.datetime.error": [
+      "Sorry, I didn't find a valid date and time to remind you.",
+      "It was not possible to set a reminder for the informed date and time."
+    ],
+    "reminder.schedule.delete.empty": [
+      "There is no reminder to be removed",
+      "You don't have any reminder to be deleted"
+    ],
+    "reminder.schedule.delete.many": [
+      "{{amount}} reminders removed",
+      "{{amount}} reminders were cancelled",
+      "You have deleted {{amount}} reminders"
+    ],
+    "reminder.schedule.delete.single": [
+      "One reminder removed",
+      "A reminder was cancelled",
+      "You have deleted one reminder"
+    ],
+    "reminder.schedule.list": [
+      "You have a reminder {{data}} on {{datetime}}",
+      "There is a reminder {{data}} for {{datetime}}"
+    ],
+    "reminder.schedule.list.empty": [
+      "There is no reminder to be listed",
+      "You don't have any reminder to be listed"
+    ],
+    "rocket-launch.not.found": [
+      "No rocket launches found."
+    ],
+    "rocket-launch.space.launch": [
+      "A {{ rocket }} will be launching at {{ time }} from {{ location }}.",
+      "The next space launch will be at {{ time }}. A {{ rocket }} will be launching from {{ location }}.",
+      "The {{ rocket }} will launch from {{ location }} at {{ time }}."
+    ],
+    "rocket-launch.space.launch.delta": [
+      "A {{ rocket }} will be launching in {{delta }} from {{ location }}.",
+      "The next space launch will be in {{ delta }}. A {{ rocket }} will be launching from {{ location }}.",
+      "The {{ rocket }} will launch from {{ location }} in {{ time }}."
+    ],
+    "singing.singing": [
+      "I would be happy to sing for you.",
+      "Here I go.",
+      "I'm a bit nervous about my voice, but here goes nothing."
+    ],
+    "singing.singing.stop": [
+      "thank you for listening",
+      "I hope you liked my voice",
+      "now you try"
+    ],
+    "sip.neon.ServerNotSupported": [
+      "I'm still learning how to do that on your device."
+    ],
+    "sip.neon.accept_all": [
+      "I will answer all incoming calls with {{speech}}"
+    ],
+    "sip.neon.call_ended": [
+      "Call Ended, {{reason}}"
+    ],
+    "sip.neon.call_error": [
+      "An error occurred and the call was not connected. Please, try again."
+    ],
+    "sip.neon.call_muted": [
+      "Call is muted"
+    ],
+    "sip.neon.call_on_hold": [
+      "Call is now on hold"
+    ],
+    "sip.neon.call_rejected": [
+      "Rejected call",
+      "Call rejected"
+    ],
+    "sip.neon.call_status": [
+      "Call Status, {{status}}"
+    ],
+    "sip.neon.calling": [
+      "Calling {{contact}}",
+      "Placing a call to {{contact}}",
+      "Phoning {{contact}}"
+    ],
+    "sip.neon.contact_added": [
+      "Added new contact for {{contact}}"
+    ],
+    "sip.neon.contact_deleted": [
+      "Deleted contact for {{contact}}"
+    ],
+    "sip.neon.contact_updated": [
+      "Updated contact for {{contact}}"
+    ],
+    "sip.neon.contacts_list": [
+      "I have the following contacts",
+      "I know the following phone numbers",
+      "I know the following SIP contacts",
+      "I know the following VOIP contacts"
+    ],
+    "sip.neon.contacts_number": [
+      "I have {{number}} contacts",
+      "I know {{number}} phone numbers",
+      "I know {{number}} SIP contacts",
+      "I know {{number}} VOIP contacts"
+    ],
+    "sip.neon.converse_disable": [
+      "{skill_name} restored to fallback skill"
+    ],
+    "sip.neon.converse_enable": [
+      "you made {skill_name} a priority skill",
+      "{skill_name} is now triggered first"
+    ],
+    "sip.neon.converse_off": [
+      "node red is already a fallback skill",
+      "node red is not a priority skill"
+    ],
+    "sip.neon.converse_on": [
+      "{skill_name} is already a priority skill",
+      "{skill_name}is not a fallback skill"
+    ],
+    "sip.neon.credentials_missing": [
+      "Credentials are not set"
+    ],
+    "sip.neon.delete_confirm": [
+      "Are you sure you want to delete {{contact}}"
+    ],
+    "sip.neon.incoming_call": [
+      "{{contact}} is calling",
+      "Incoming call from {{contact}}"
+    ],
+    "sip.neon.incoming_call_unk": [
+      "I do not know who is calling",
+      "Someone is calling, not in my contact list",
+      "Unknown person is calling",
+      "Someone is calling, i don't know who"
+    ],
+    "sip.neon.intro": [
+      "thank you for installing {skill_name} skill"
+    ],
+    "sip.neon.no_auto": [
+      "Ok, i won't handle incoming calls",
+      "I will not reject nor answer calls automatically",
+      "Automatic call answering disabled"
+    ],
+    "sip.neon.no_call": [
+      "I don't have any active call"
+    ],
+    "sip.neon.no_such_contact": [
+      "I don't have any contact named {{contact}}",
+      "I don't know {{contact}}",
+      "I don't know anyone named {{contact}}",
+      "I don't know anyone with the name {{contact}}"
+    ],
+    "sip.neon.rejecting_all": [
+      "I will reject all incoming calls"
+    ],
+    "sip.neon.resume_call": [
+      "Resuming active call"
+    ],
+    "sip.neon.sip_login": [
+      "Attempting log in to SIP server at {{gateway}}"
+    ],
+    "sip.neon.sip_login_fail": [
+      "SIP login failed, verify your credentials"
+    ],
+    "sip.neon.sip_login_success": [
+      "I am connected to a SIP server",
+      "Connection successful, you can now receive and place VOIP calls"
+    ],
+    "sip.neon.sip_not_running": [
+      "I am not logged into the SIP server"
+    ],
+    "sip.neon.sip_restart": [
+      "Restarting SIP service"
+    ],
+    "sip.neon.sip_running": [
+      "SIP service is already running"
+    ],
+    "sip.neon.sipxcom_badcreds": [
+      "Credentials for Sip X Com seem to be invalid",
+      "Credentials for Sip X Com rejected",
+      "Credentials error for Sip X Com"
+    ],
+    "sip.neon.sipxcom_sync_error": [
+      "An error occurred when fetching contact list from sip x com",
+      "An error occurred when downloading contact list from sip x com",
+      "An error occurred when synchronizing contact list with sip x com"
+    ],
+    "sip.neon.unmute_call": [
+      "Call unmuted",
+      "Unmuting call"
+    ],
+    "sip.neon.update_confirm": [
+      "Do you want to replace the address of {{contact}}"
+    ],
+    "sip.neon.want_restart": [
+      "Do you want to restart the SIP service",
+      "Do you want to reboot the SIP service"
+    ],
+    "smod.intro": [
+      "thank you for installing stoned meadow of doom Skill"
+    ],
+    "sovietwave.intro": [
+      "thank you for installing soviet wave radio Skill"
+    ],
+    "space-news.news": [
+      "Space news from {{date}}"
+    ],
+    "space-stuff.spacestuff": [
+      "Lots of stuff in orbit"
+    ],
+    "speed-test.neon.Results": [
+      "Your internet speed is {{down}} Mbps download and {{up}} Mbps upload with a ping of {{ping}} ms.</speak> Provided by speedtest.net."
+    ],
+    "speed-test.neon.StartTest": [
+      "Starting a speed test."
+    ],
+    "speedtest-skill.error": [
+      "There was an error, i could not run a speedtest... sorry."
+    ],
+    "speedtest-skill.result": [
+      "Your download speed is {{DOWN}} Megabit per second and your upload speed is {{UP}} Megabit per second."
+    ],
+    "speedtest-skill.running": [
+      "Starting speedtest now, i will be back with the results in a moment."
+    ],
+    "spotify-skill.And": [
+      "and"
+    ],
+    "spotify-skill.AvailableDevices": [
+      "I see the Spotify devices named: {{devices}}",
+      "I've found the Spotify devices named: {{devices}}"
+    ],
+    "spotify-skill.For": [
+      "for"
+    ],
+    "spotify-skill.ForAlbum": [
+      "for the album"
+    ],
+    "spotify-skill.ForArtist": [
+      "for the artist"
+    ],
+    "spotify-skill.ListeningToAlbumBy": [
+      "Listening to {{album}} by {{artist}}.",
+      "Now playing {{album}} by {{artist}}."
+    ],
+    "spotify-skill.ListeningToArtist": [
+      "Now listening to {{artist}}",
+      "Listening to {{artist}}",
+      "Playing songs by {{artist}}"
+    ],
+    "spotify-skill.ListeningToGenre": [
+      "Okay, let's hear some {{genre}}. Starting with {{track}} by {{artist}}",
+      "Let's hear some {{genre}}. Starting with {{track}} by {{artist}}",
+      "Let's hear some {{genre}} music. This is {{track}} by {{artist}}",
+      "Playing {{genre}} music. Starting off with {{track}} by {{artist}}"
+    ],
+    "spotify-skill.ListeningToPlaylist": [
+      "Listening to the playlist {{playlist}}",
+      "Now playing the playlist {{playlist}}",
+      "Okay, let's hear your playlist {{playlist}}",
+      "Got it. Next up, your playlist {{playlist}}"
+    ],
+    "spotify-skill.ListeningToSongBy": [
+      "Listening to the song {{tracks}} by {{artist}}.",
+      "Now playing the song {{tracks}} by {{artist}}.",
+      "Playing {{tracks}} by {{artist}}"
+    ],
+    "spotify-skill.NoArtistResults": [
+      "Hmm, I can't find that artist.",
+      "Sorry, I can't find that artist.",
+      "I can't seem to find that artist.",
+      "I didn't get any results for that artist.",
+      "Sorry, I didn't get any results for that artist.",
+      "Uh-oh, I didn't find the artist you were looking for."
+    ],
+    "spotify-skill.NoDefaultDeviceAvailable": [
+      "I couldn't find any default Spot-ify device. Make sure Spot-ify is running, or that the skill has been configured to use the default libraries",
+      "There's no default Spot-ify device available. Make sure Spot-ify is running, or that the skill has been configured to use the default libraries"
+    ],
+    "spotify-skill.NoDevicesAvailable": [
+      "I couldn't find any Spotify devices.",
+      "There are no Spotify devices available."
+    ],
+    "spotify-skill.NoResults": [
+      "Hmm, I can't find that.",
+      "Sorry, I can't find that.",
+      "I can't seem to find that.",
+      "I didn't get any results for that.",
+      "Sorry, I didn't get any results for that.",
+      "Uh-oh, I didn't find what you were looking for."
+    ],
+    "spotify-skill.NotAuthorized": [
+      "I'm not connected to a Spotify account, go to home dot mycroft dot ai to authorize the skill.",
+      "This device isn't associated with a Spotify account, go to home dot mycroft dot ai to authorize me.",
+      "Please authorize the Spotify skill on home dot mycroft dot ai to access your account"
+    ],
+    "spotify-skill.on_spotify_regex": [
+      "from spotify$",
+      "with spotify$",
+      "on spotify$"
+    ],
+    "spotify-skill.play_album_backup": [
+      "^play ( ?P<album>.+? ) ( by ( [\\w\\s]+? ) ) ?$",
+      "^play the album ( ?P<album>.+? ) ( by ( [\\w\\s]+? ) ) ?$"
+    ],
+    "spotify-skill.playlist_regex": [
+      "^ ( play ) ( ?! ( composition ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( composition ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( track ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( track ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( piece ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( piece ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( song ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( song ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my composition ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my composition ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my track ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my track ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my piece ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my piece ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my song ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my song ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the composition ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the composition ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the track ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the track ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the piece ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the piece ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the song ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the song ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $"
+    ],
+    "spotify-skill.something_regex": [
+      "^play a ? track ( by ( [\\w\\s]+? ) ) ?$",
+      "^play a ? music ( by ( [\\w\\s]+? ) ) ?$",
+      "^play a ? something ( by ( [\\w\\s]+? ) ) ?$",
+      "^play some ? track ( by ( [\\w\\s]+? ) ) ?$",
+      "^play some ? music ( by ( [\\w\\s]+? ) ) ?$",
+      "^play some ? something ( by ( [\\w\\s]+? ) ) ?$"
+    ],
+    "stephen-hawking.birth": [
+      "stephen hawking was born on 8 January 1942"
+    ],
+    "stephen-hawking.death": [
+      "stephen hawking died on 14 March 2018"
+    ],
+    "stephen-hawking.quote": [
+      "God is the name people give to the reason we are here.",
+      "God may exist, but science can explain the universe without the need for a creator.",
+      "However difficult life may seem, there is always something you can do and succeed at.",
+      "I am just a child who has never grown up. I still keep asking these 'how' and 'why' questions. Occasionally, I find an answer.",
+      "I believe alien life is quite common in the universe, although intelligent life is less so. Some say it has yet to appear on planet Earth.",
+      "I believe there are no questions that science can't answer about a physical universe.",
+      "I have found far greater enthusiasm for science in America than here in Britain. There is more enthusiasm for everything in America.",
+      "I have noticed even people who claim everything is predestined, and that we can do nothing to change it, look before they cross the road.",
+      "In my opinion, there is no aspect of reality beyond the reach of the human mind.",
+      "Intelligence is the ability to adapt to change.",
+      "Life would be tragic if it weren't funny.",
+      "Many people find the universe confusing -- it's not.",
+      "People who boast about their IQ are losers.",
+      "People won't have time for you if you are always angry or complaining.",
+      "Science can lift people out of poverty and cure disease. That, in turn, will reduce civil unrest.",
+      "Science is increasingly answering questions that used to be the province of religion.",
+      "Science is not only a disciple of reason but also one of romance and passion.",
+      "Scientists have become the bearers of the torch of discovery in our quest for knowledge.",
+      "The past, like the future, is indefinite and exists only as a spectrum of possibilities.",
+      "The universe is not indifferent to our existence -- it depends on it.",
+      "There is no unique picture of reality.",
+      "There is nothing bigger or older than the universe.",
+      "We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the universe. That makes us something very special.",
+      "When one's expectations are reduced to zero, one really appreciates everything one does have.",
+      "Work gives you meaning and purpose, and life is empty without it.",
+      "My goal is simple. It is a complete understanding of the universe, why it is as it is and why it exists at all.",
+      "It would not be much of a universe if it wasn't home to the people you love.",
+      "Life would be tragic if it weren't funny",
+      "Einstein was wrong when he said, 'God does not play dice'. Consideration of black holes suggests, not only that God does play dice, but that he sometimes confuses us by throwing them where they can't be seen",
+      "It is not necessary to invoke God to light the blue touch paper and set the universe going",
+      "Without imperfection, you or I would not exist",
+      "The victim should have the right to end his life, if he wants. But I think it would be a great mistake. However bad life may seem, there is always something you can do, and succeed at. While there's life, there is hope",
+      "I think it would be a disaster. The extraterrestrials would probably be far in advance of us. The history of advanced races meeting more primitive people on this planet is not very happy, and they were the same species. I think we should keep our heads low",
+      "I fear that AI may replace humans altogether. If people design computer viruses, someone will design AI that improves and replicates itself. This will be a new form of life that outperforms humans.",
+      "I believe there is no deep difference between what can be achieved by a biological brain and what can be achieved by a computer. It therefore follows that computers can, in theory, emulate human intelligence - and exceed it.",
+      "If you are disabled, it is probably not your fault, but it is no good blaming the world or expecting it to take pity on you. One has to have a positive attitude and must make the best of the situation that one finds oneself in",
+      "What I have done is to show that it is possible for the way the universe began to be determined by the laws of science. In that case, it would not be necessary to appeal to God to decide how the universe began. This doesn't prove that there is no God, only that God is not necessary.",
+      "We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special.",
+      "On quantum physics: These lectures have shown very clearly the difference between Roger and me. He's a Platonist and I'm a positivist. He's worried that Schr\u00f6dinger's cat is in a quantum state, where it is half alive and half dead. He feels that can't correspond to reality. But that doesn't bother me. I don't demand that a theory correspond to reality because I don't know what it is. Reality is not a quality you can test with litmus paper. All I'm concerned with is that the theory should predict the results of measurements. Quantum theory does this very successfully. It predicts that the result of an observation is either that the cat is alive or that it is dead. It is like you can't be slightly pregnant: you either are or you aren't.",
+      "The human race is just a chemical scum on a moderate-sized planet, orbiting around a very average star in the outer suburb of one among a hundred billion galaxies. We are so insignificant that I can't believe the whole universe exists for our benefit. That would be like saying that you would disappear if I closed my eyes.",
+      "I think computer viruses should count as life \u2026 I think it says something about human nature that the only form of life we have created so far is purely destructive. We've created life in our own image.",
+      "All my life, I have been fascinated by the big questions that face us, and have tried to find scientific answers to them.",
+      "The world has changed far more in the past 100 years than in any other century in history. The reason is not political or economic but technological \u2014 technologies that flowed directly from advances in basic science.",
+      "Although September 11 was horrible, it didn't threaten the survival of the human race, like nuclear weapons do.",
+      "I don't think the human race will survive the next thousand years, unless we spread into space. There are too many accidents that can befall life on a single planet. But I'm an optimist. We will reach out to the stars.",
+      "We shouldn't be surprised that conditions in the universe are suitable for life, but this is not evidence that the universe was designed to allow for life. We could call order by the name of God, but it would be an impersonal God. There's not much personal about the laws of physics.",
+      "I am discounting reports of UFOs. Why would they appear only to cranks and weirdos?",
+      "The life we have on Earth must have spontaneously generated itself. It must therefore be possible for life to generate spontaneously elsewhere in the universe.",
+      "Evolution has ensured that our brains just aren't equipped to visualise 11 dimensions directly. However, from a purely mathematical point of view it's just as easy to think in 11 dimensions, as it is to think in three or four.",
+      "I think that it's important for scientists to explain their work, particularly in cosmology. This now answers many questions once asked of religion.",
+      "Equations are just the boring part of mathematics. I attempt to see things in terms of geometry.",
+      "The danger is that global warming may become self-sustaining, if it has not done so already. The melting of the Arctic and Antarctic ice caps reduces the fraction of solar energy reflected back into space, and so increases the temperature further. Climate change may kill off the Amazon and other rain forests, and so eliminate once one of the main ways in which carbon dioxide is removed from the atmosphere. The rise in sea temperature may trigger the release of large quantities of carbon dioxide, trapped as hydrides on the ocean floor. Both these phenomena would increase the greenhouse effect, and so global warming further. We have to reverse global warming urgently, if we still can.",
+      "I'm not religious in the normal sense. I believe the universe is governed by the laws of science. The laws may have been decreed by God, but God does not intervene to break the laws.",
+      "In a world that is in chaos politically, socially and environmentally, how can the human race sustain another 100 years?",
+      "To confine our attention to terrestrial matters would be to limit the human spirit.",
+      "There is a fundamental difference between religion, which is based on authority and science, which is based on observation and reason. Science will win, because it works.",
+      "We should seek the greatest value of our action",
+      "Science predicts that many different kinds of universe will be spontaneously created out of nothing. It is a matter of chance which we are in.",
+      "Women. They are a complete mystery.",
+      "One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don't throw it away.",
+      "We are all different \u2014 but we share the same human spirit. Perhaps it's human nature that we adapt \u2014 and survive.",
+      "It has certainly been true in the past that what we call intelligence and scientific discovery have conveyed a survival advantage. It is not so clear that this is still the case: our scientific discoveries may well destroy us all,",
+      "The whole history of science has been the gradual realization that events do not happen in an arbitrary manner, but that they reflect a certain underlying order, which may or may not be divinely inspired.",
+      "Galileo, perhaps more than any other single person, was responsible for the birth of modern science.",
+      "Just like a computer, we must remember things in the order in which entropy increases. This makes the second law of thermodynamics almost trivial. Disorder increases with time because we measure time in the direction in which disorder increases. You can\u2019t have a safer bet than that!",
+      "One could say: The boundary condition of the universe is that it has no boundary. The universe would be completely self-contained and not affected by anything outside itself. It would neither be created nor destroyed. It would just BE.",
+      "What is it that breathes fire into the equations and makes a universe for them to describe? The usual approach of science of constructing a mathematical model cannot answer the questions of why there should be a universe for the model to describe. Why does the universe go to all the bother of existing?",
+      "I have noticed that even people who claim everything is predetermined and that we can do nothing to change it, look before they cross the road.",
+      "When I gave a lecture in Japan, I was asked not to mention the possible re-collapse of the universe, because it might affect the stock market. However, I can re-assure anyone who is nervous about their investments that it is a bit early to sell: even if the universe does come to an end, it won't be for at least twenty billion years.",
+      "The universe would have expanded in a smooth way from a single point. As it expanded, it would have borrowed energy from the gravitational field, to create matter. As any economist could have predicted, the result of all that borrowing, was inflation. The universe expanded and borrowed at an ever-increasing rate. Fortunately, the debt of gravitational energy will not have to be repaid until the end of the universe.",
+      "Mathematics is more than a tool and language for science. It is also an end in itself, and as such, it has, over the centuries, affected our worldview in its own right.",
+      "If aliens visit us, the outcome would be much as when Columbus landed in America, which didn't turn out well for the Native Americans. \u2026 We only have to look at ourselves to see how intelligent life might develop into something we wouldn't want to meet.",
+      "We are each free to believe what we want and it is my view that the simplest explanation is there is no God. No one created the universe and no one directs our fate. This leads me to a profound realization. There is probably no heaven, and no afterlife either. We have this one life to appreciate the grand design of the universe, and for that, I am extremely grateful",
+      "The development of full artificial intelligence could spell the end of the human race. We cannot quite know what will happen if a machine exceeds our own intelligence, so we can't know if we'll be infinitely helped by it, or ignored by it and sidelined, or conceivably destroyed by it.",
+      "If machines produce everything we need, the outcome will depend on how things are distributed. Everyone can enjoy a life of luxurious leisure if the machine-produced wealth is shared, or most people can end up miserably poor if the machine-owners successfully lobby against wealth redistribution. So far, the trend seems to be toward the second option, with technology driving ever-increasing inequality.",
+      "Any physical theory is always provisional, in the sense that it is only a hypothesis: you can never prove it. No matter how many times the results of experiments agree with some theory, you can never be sure that the next time the result will not contradict the theory. Each time new experiments are observed to agree with the predictions the theory survives, and our confidence in it is increased; but if ever a new observation is found to disagree, we have to abandon or modify the theory."
+    ],
+    "support-helper.neon.ask.description": [
+      "What's a brief description of the problem you are having?"
+    ],
+    "support-helper.neon.cancelled": [
+      "Alright"
+    ],
+    "support-helper.neon.complete": [
+      "I've sent an email to your registered account with debugging information and instructions for contacting support."
+    ],
+    "support-helper.neon.confirm.support": [
+      "Would you like to create a troubleshooting package? This will send logs to your registered email."
+    ],
+    "support-helper.neon.email.error": [
+      "An error occurred and I was not able to send your support email."
+    ],
+    "support-helper.neon.mobile.complete": [
+      "I've created a support ticket and sent a confirmation to your email."
+    ],
+    "support-helper.neon.no.email": [
+      "I don't know your email address. You can tell me by saying 'Neon, my email address is...'"
+    ],
+    "support-helper.neon.one_moment": [
+      "Just a moment.",
+      "One moment."
+    ],
+    "support-helper.neon.support": [
+      "support"
+    ],
+    "support-helper.neon.support.title": [
+      "Mycroft Troubleshooting Assistant"
+    ],
+    "support.ask.description": [
+      "Please briefly describe the problem you are experiencing",
+      "What's a brief description of the problem you are having?"
+    ],
+    "support.cancelled": [
+      "Alright"
+    ],
+    "support.complete": [
+      "I've sent an email to your registered account with debugging information and instructions for contacting support."
+    ],
+    "support.confirm.support": [
+      "Would you like to create a troubleshooting package? This will upload logs to the termbin dot com service and email a link to you with more information."
+    ],
+    "support.one.moment": [
+      "One moment."
+    ],
+    "support.support": [
+      "support"
+    ],
+    "support.support.title": [
+      "Mycroft Troubleshooting Assistant"
+    ],
+    "synonyms.neon.add_synonym_command": [
+      "'{cmd_phrase}' has synonyms: {already_filled}. I am adding '{syn_phrase}' as an additional option."
+    ],
+    "synonyms.neon.new_synonym_command": [
+      "Okay. Adding '{syn_phrase}' as a synonym for '{cmd_phrase}'."
+    ],
+    "synonyms.neon.synonym_equals_command": [
+      "It looks like you requested '{syn_phrase}' as a synonym for itself. Please try again."
+    ],
+    "synonyms.neon.synonym_pair_already_exists": [
+      "'{syn_phrase}' already is a synonym for '{cmd_phrase}'."
+    ],
+    "theia-ide-skill.cant.install.low.memmory": [
+      "I can not install THEIA IDE on this device. There is to precompiled package and system has to little memmory to build and compile."
+    ],
+    "theia-ide-skill.cloning": [
+      "There is not any precompiled package for the {platform} platform. I will then Clone and build instead. This can take some time."
+    ],
+    "theia-ide-skill.downloading": [
+      "Downloading precompiled package for the {platform} platform. This can take some time depending on the internet speed."
+    ],
+    "theia-ide-skill.ide_already_running": [
+      "Theia I D E is already running. To access, open a webbrowser and go to {url}"
+    ],
+    "theia-ide-skill.ide_is_not_running": [
+      "Theia I D E is not running"
+    ],
+    "theia-ide-skill.ide_restarted": [
+      "Theia I D E started. To access, open a webbrowser and go to {url}"
+    ],
+    "theia-ide-skill.ide_started": [
+      "Theia I D E is up and running. To access, open a webbrowser and go to {url}"
+    ],
+    "theia-ide-skill.ide_stopped": [
+      "Theia I D E is stopped"
+    ],
+    "theia-ide-skill.install_start": [
+      "Installing Theia IDE."
+    ],
+    "theia-ide-skill.installed_BAD": [
+      "Theia IDE did not install. There were errors during the installation."
+    ],
+    "theia-ide-skill.installed_OK": [
+      "Theia IDE installed OK."
+    ],
+    "theia-ide-skill.platform_not_supported": [
+      "This platform is not supported."
+    ],
+    "translation.neon.AskPreferred": [
+      "Which one do you prefer?"
+    ],
+    "translation.neon.ChangePreferredLanguage": [
+      "I will start speaking and listening for {{language}}."
+    ],
+    "translation.neon.ChangeSttLanguage": [
+      "Listening for {{language}}."
+    ],
+    "translation.neon.Confirmed": [
+      "Sounds good."
+    ],
+    "translation.neon.LanguageError": [
+      "I do not speak the language you requested, please try something else."
+    ],
+    "translation.neon.LanguageMenu": [
+      "Your options are:"
+    ],
+    "translation.neon.LanguageSetting": [
+      "Your {{primary}} output language is {{gender}} {{language}}."
+    ],
+    "translation.neon.NotValidLanguage": [
+      "I am sorry, {language} is not a supported language. Please choose from the list of available options."
+    ],
+    "translation.neon.OnlyOneLanguage": [
+      "Okay, I will speak to you in only one language."
+    ],
+    "translation.neon.SelectionNotValid": [
+      "I am sorry, this selection is not in the list of options. Please try again."
+    ],
+    "translation.neon.SwitchLanguage": [
+      "Changing your {{primary}} language to {{gender}} {{language}}."
+    ],
+    "translation.neon.SwitchLanguageDialectOptions": [
+      "I am switching to {{language}}, but I do have other dialect options for you. Say \"language menu\" if you would like to hear them"
+    ],
+    "translation.neon.SwitchPrimaryAndSecondary": [
+      "I am switching the primary language to {{primary_gender}} {{primary_language}} and the secondary language to {{second_gender}} {{second_language}}"
+    ],
+    "translation.neon.TwoLanguageError": [
+      "It looks like you requested a secondary, language but I did not hear two available languages in your request. Please, try again."
+    ],
+    "translation.neon.TwoLanguagesDialectOptions": [
+      "I have dialect options for {{language}}. Say \"language menu\" if you would like to hear them."
+    ],
+    "translation.neon.WordInLanguage": [
+      "{{word}} in {{language}} translates to:"
+    ],
+    "trve-kvlt.intro": [
+      "thank you for installing True cult Black Metal Skill"
+    ],
+    "tts-control.check.config": [
+      "Check your configuration file for errors"
+    ],
+    "tts-control.demo.cancel": [
+      "voice demo stopped"
+    ],
+    "tts-control.engine.available": [
+      "The available voice modules are",
+      "The available text to speech engines are",
+      "The following text to speech engines are available",
+      "The available text to speech modules are",
+      "The following text to speech modules are available"
+    ],
+    "tts-control.engine.changed": [
+      "Text to speech engine changed to {{engine}} with voice {{voice}}"
+    ],
+    "tts-control.engine.current": [
+      "The configured Text to Speech engine is {{engine}}"
+    ],
+    "tts-control.engine.invalid": [
+      "{{engine}} does not seem to be available",
+      "{{engine}} does not seem to be correctly configured",
+      "{{engine}} does not seem to be installed",
+      "{{engine}} does not seem to be working",
+      "{{engine}} does not seem to be a valid engine",
+      "{{engine}} does not seem to be a valid Text to speech engine"
+    ],
+    "tts-control.engine.select": [
+      "Change to what text to speech module",
+      "Change to what text to speech engine"
+    ],
+    "tts-control.noengine": [
+      "I could not understand what voice i should use"
+    ],
+    "tts-control.voice": [
+      "This voice is using the {{clazz}} engine and is called {{voice}}"
+    ],
+    "tts-control.voice.current": [
+      "I am using the voice {{voice}}"
+    ],
+    "unsplash-wallpaper-plasma-skill.krunner.recent": [
+      "Displaying your recent files"
+    ],
+    "unsplash-wallpaper-plasma-skill.krunner.search": [
+      "I am searching locally for {{ Query }}"
+    ],
+    "usb-cam.neon.DefaultDuration": [
+      "Video duration not heard. Recording for {{duration}}."
+    ],
+    "usb-cam.neon.LaunchCamera": [
+      "Launching camera."
+    ],
+    "usb-cam.neon.NoCamera": [
+      "Sorry, I can't find a camera to use."
+    ],
+    "usb-cam.neon.NothingToShow": [
+      "I don't have any {{kind}} to show."
+    ],
+    "usb-cam.neon.PictureInsteadOfVideo": [
+      "I will take a picture instead of a 1 second video"
+    ],
+    "usb-cam.neon.ServerNotSupported": [
+      "I'm still learning how to do that on your device."
+    ],
+    "usb-cam.neon.ShowLatest": [
+      "Here you go."
+    ],
+    "usb-cam.neon.StartRecording": [
+      "Recording video for {{duration}}."
+    ],
+    "version-checker.platform.build": [
+      "My platform build is {{build}}."
+    ],
+    "version-checker.platform.build.none": [
+      "I'm running on a device that does not have an official platform build number."
+    ],
+    "version-checker.version": [
+      "I am running mycroft-core version {{version}}."
+    ],
+    "version-checker.version.latest": [
+      "You are on the latest version."
+    ],
+    "version-checker.version.older": [
+      "Your version is outdated. The latest version is {{new_version}}."
+    ],
+    "viirs.aboutVIIRS": [
+      "VIIRS, Visible Infrared Imaging Radiometer Suite, is a scanning radiometer with 5 high-resolution Imagery bands, 16 Moderate resolution bands and a Day/Night band.",
+      "The Visible Infrared Imaging Radiometer Suite is a sensor designed and manufactured by the Raytheon Company on board the Suomi National Polar-orbiting Partnership and NOAA-20 weather satellites."
+    ],
+    "viirs.bad.date": [
+      "I don't have satellite imagery that recent",
+      "No data available for selected date"
+    ],
+    "viirs.bad.zoom": [
+      "Zoom must be between 0 and 8"
+    ],
+    "viirs.black_strips": [
+      "The regularly spaced gaps near the equator are due to lack of coverage between orbits. Terra, Aqua and Aura are polar orbiting satellites, traveling from pole to pole. The Terra satellite travels north to south. Aqua and Aura move in the opposite direction, south to north. At high latitudes, adjacent imaging swaths overlap significantly but at the equator gaps occur between adjacent swaths. As a result, complete global coverage is achieved every one to two days."
+    ],
+    "viirs.clouds": [
+      "Approximately 70% of the earth's surface is covered by clouds at any given time. That means there is a good chance that the region you want to see will have some cloud cover."
+    ],
+    "viirs.house": [
+      "This is a picture of your location from space on {{date}}",
+      "This is a satellite picture of your location on {{date}}",
+      "This is your location from orbit on {{date}}"
+    ],
+    "viirs.location": [
+      "This is a picture of {{location}} from space on {{date}}",
+      "This is a satellite picture of {{location}} on {{date}}",
+      "This is {{location}} from orbit on {{date}}"
+    ],
+    "viirs.location.error": [
+      "I don't know where {{location}} is",
+      "geolocation for {{location}} failed",
+      "I can't retrieve latitude and longitude for {{location}}"
+    ],
+    "viirs.max.zoom": [
+      "Zoom is already at maximum"
+    ],
+    "viirs.min.zoom": [
+      "Zoom is already at minimum"
+    ],
+    "viirs.zoom": [
+      "Zoom set to {{number}}"
+    ],
+    "voip.accept_all": [
+      "I will answer all incoming calls with {{speech}}"
+    ],
+    "voip.call_ended": [
+      "Call Ended, {{reason}}"
+    ],
+    "voip.call_muted": [
+      "Call is muted"
+    ],
+    "voip.call_on_hold": [
+      "Call is now on hold"
+    ],
+    "voip.call_rejected": [
+      "Rejected call",
+      "Call rejected"
+    ],
+    "voip.call_status": [
+      "Call Status, {{status}}"
+    ],
+    "voip.calling": [
+      "Calling {{contact}}",
+      "Placing a call to {{contact}}",
+      "Phoning {{contact}}"
+    ],
+    "voip.contact_added": [
+      "Added new contact for {{contact}}"
+    ],
+    "voip.contact_deleted": [
+      "Deleted contact for {{contact}}"
+    ],
+    "voip.contact_updated": [
+      "Updated contact for {{contact}}"
+    ],
+    "voip.contacts_list": [
+      "I have the following contacts",
+      "I know the following phone numbers",
+      "I know the following SIP contacts",
+      "I know the following VOIP contacts"
+    ],
+    "voip.contacts_number": [
+      "I have {{number}} contacts",
+      "I know {{number}} phone numbers",
+      "I know {{number}} SIP contacts",
+      "I know {{number}} VOIP contacts"
+    ],
+    "voip.converse_disable": [
+      "{skill_name} restored to fallback skill"
+    ],
+    "voip.converse_enable": [
+      "you made {skill_name} a priority skill",
+      "{skill_name} is now triggered first"
+    ],
+    "voip.converse_off": [
+      "node red is already a fallback skill",
+      "node red is not a priority skill"
+    ],
+    "voip.converse_on": [
+      "{skill_name} is already a priority skill",
+      "{skill_name}is not a fallback skill"
+    ],
+    "voip.credentials_missing": [
+      "Credentials are not set"
+    ],
+    "voip.delete_confirm": [
+      "Are you sure you want to delete {{contact}}"
+    ],
+    "voip.incoming_call": [
+      "{{contact}} is calling",
+      "Incoming call from {{contact}}"
+    ],
+    "voip.incoming_call_unk": [
+      "I do not know who is calling",
+      "Someone is calling, not in my contact list",
+      "Unknown person is calling",
+      "Someone is calling, i don't know who"
+    ],
+    "voip.intro": [
+      "thank you for installing {skill_name} skill"
+    ],
+    "voip.no_auto": [
+      "Ok, i won't handle incoming calls",
+      "I will not reject nor answer calls automatically",
+      "Automatic call answering disabled"
+    ],
+    "voip.no_call": [
+      "I don't have any active call"
+    ],
+    "voip.no_such_contact": [
+      "I don't have any contact named {{contact}}",
+      "I don't know {{contact}}",
+      "I don't know anyone named {{contact}}",
+      "I don't know anyone with the name {{contact}}"
+    ],
+    "voip.rejecting_all": [
+      "I will reject all incoming calls"
+    ],
+    "voip.resume_call": [
+      "Resuming active call"
+    ],
+    "voip.sip_login": [
+      "Attempting log in to SIP server at {{gateway}}"
+    ],
+    "voip.sip_login_fail": [
+      "SIP login failed, verify your credentials"
+    ],
+    "voip.sip_login_success": [
+      "I am connected to a SIP server",
+      "Connection successful, you can now receive and place VOIP calls"
+    ],
+    "voip.sip_not_running": [
+      "I am not logged into the SIP server"
+    ],
+    "voip.sip_restart": [
+      "Restarting SIP service"
+    ],
+    "voip.sip_running": [
+      "SIP service is already running"
+    ],
+    "voip.sipxcom_badcreds": [
+      "Credentials for Sip X Com seem to be invalid",
+      "Credentials for Sip X Com rejected",
+      "Credentials error for Sip X Com"
+    ],
+    "voip.sipxcom_sync_error": [
+      "An error occurred when fetching contact list from sip x com",
+      "An error occurred when downloading contact list from sip x com",
+      "An error occurred when synchronizing contact list with sip x com"
+    ],
+    "voip.unmute_call": [
+      "Call unmuted",
+      "Unmuting call"
+    ],
+    "voip.update_confirm": [
+      "Do you want to replace the address of {{contact}}"
+    ],
+    "voip.want_restart": [
+      "Do you want to restart the SIP service",
+      "Do you want to reboot the SIP service"
+    ],
+    "volume.already.max.volume": [
+      "Volume is at maximum.",
+      "I can't get any louder.",
+      "I'm at maximum volume.",
+      "This is the maximum volume."
+    ],
+    "volume.decrease.volume": [
+      "Volume reduced to {{volume}}",
+      "Volume decreased to {{volume}}",
+      "Volume is now {{volume}}"
+    ],
+    "volume.increase.volume": [
+      "Volume is now {{volume}}",
+      "Volume increased to {{volume}}"
+    ],
+    "volume.mute.volume": [
+      "Audio is going to be muted",
+      "Sound is going to be muted"
+    ],
+    "volume.neon.already.max.volume": [
+      "The volume already at maximum",
+      "I can't get any louder"
+    ],
+    "volume.neon.decrease.volume": [
+      "Volume reduced to {{volume}}"
+    ],
+    "volume.neon.increase.volume": [
+      "Volume increased to {{volume}}"
+    ],
+    "volume.neon.mute.volume": [
+      "{{kind}} is going to be muted."
+    ],
+    "volume.neon.reset.volume": [
+      "{{kind}} restored to {{volume}} percent."
+    ],
+    "volume.neon.set.volume": [
+      "{{kind}} set to {{volume}} percent."
+    ],
+    "volume.neon.volume.is": [
+      "The {{kind}} is set to {{volume}} percent.",
+      "The {{kind}} is at {{volume}} percent."
+    ],
+    "volume.reset.volume": [
+      "Volume reset to {{volume}}",
+      "Volume restored to {{volume}}"
+    ],
+    "volume.set.volume": [
+      "Volume set to {{volume}}",
+      "Volume updated to {{volume}}",
+      "Volume changed to {{volume}}"
+    ],
+    "volume.volume.is": [
+      "The volume is set to {{volume}}",
+      "The volume is at {{volume}}"
+    ],
+    "wallpapers.intro": [
+      "thank you for installing {skill_name} skill"
+    ],
+    "wallpapers.no.more.pictures": [
+      "I don't have anymore pictures",
+      "I'm out of pictures to show you"
+    ],
+    "wallpapers.searching": [
+      "Searching pictures about {{query}}",
+      "Searching for images with {{query}}"
+    ],
+    "wallpapers.wallpaper.changed": [
+      "enjoy your new wallpaper"
+    ],
+    "wallpapers.wallpaper.fail": [
+      "I don't know how to change wallpaper in this platform"
+    ],
+    "weather.E": [
+      "east"
+    ],
+    "weather.N": [
+      "north"
+    ],
+    "weather.NE": [
+      "north east"
+    ],
+    "weather.NW": [
+      "north west"
+    ],
+    "weather.S": [
+      "south"
+    ],
+    "weather.SE": [
+      "south east"
+    ],
+    "weather.SW": [
+      "south west"
+    ],
+    "weather.W": [
+      "west"
+    ],
+    "weather.current.local.weather": [
+      "It's currently {{condition}} and {{temp}} degrees {{scale}}. Today's forecast is for a high of {{temp_max}} and a low of {{temp_min}}.",
+      "It's currently {{condition}} and {{temp}} degrees. Today's forecast is for a high of {{temp_max}} and a low of {{temp_min}}.",
+      "Right now, it's {{condition}} and {{temp}} degrees, for a high of {{temp_max}} and a low of {{temp_min}}.",
+      "With a high of {{temp_max}} and a low of {{temp_min}}, {{location}} has {{condition}} and is currently {{temp}} degrees."
+    ],
+    "weather.current.weather": [
+      "It's currently {{condition}} and {{temp}} degrees {{scale}} in {{location}}. Today's forecast is for a high of {{temp_max}} and a low of {{temp_min}}.",
+      "Right now, it's {{condition}} and {{temp}} degrees, for a high of {{temp_max}} and a low of {{temp_min}} in {{location}}.",
+      "With a high of {{temp_max}} and a low of {{temp_min}}, {{location}} has {{condition}} and is currently {{temp}} degrees."
+    ],
+    "weather.do not know": [
+      "I'm afraid I don't know that",
+      "I don't have that information"
+    ],
+    "weather.forecast.local.weather": [
+      "{{day}} it will be {{condition}}, with a high of {{temp_max}} and a low of {{temp_min}}",
+      "{{day}} the high will be {{temp_max}} and the low {{temp_min}}, with {{condition}} conditions",
+      "{{day}}'s forecast is {{temp_max}} for a high and {{temp_min}} for a low"
+    ],
+    "weather.forecast.weather": [
+      "{{day}} it will be {{condition}}, with a high of {{temp_max}} and a low of {{temp_min}}",
+      "{{day}}, {{location}} will have a high of {{temp_max}} and a low of {{temp_min}}, with {{condition}} conditions",
+      "The forecast for {{day}} is {{temp_max}} for a high and {{temp_min}} for a low"
+    ],
+    "weather.heavy": [
+      "heavy"
+    ],
+    "weather.hour.local.weather": [
+      "It will be {{condition}}, with temperatures near {{temp_max}}",
+      "Later it will be {{condition}} and around {{temp_max}} degrees",
+      "Later it will be {{condition}} and {{temp_max}} degrees",
+      "Around {{temp_max}} degrees with {{condition}} conditions"
+    ],
+    "weather.hour.weather": [
+      "{{location}} weather in the next few hours will be {{condition}} and {{temp_max}} degrees",
+      "Later it will be {{condition}} in {{location}}, with temperatures around {{temp_max}}",
+      "{{location}} will be around {{temp_max}} with {{condition}}",
+      "{{location}} will be about {{temp_max}} degrees with {{condition}}"
+    ],
+    "weather.humidity": [
+      "humidity"
+    ],
+    "weather.light": [
+      "light"
+    ],
+    "weather.location.not.found": [
+      "I not sure where that is",
+      "I don't know that location",
+      "I don't know that place"
+    ],
+    "weather.meters per second": [
+      "meters per second"
+    ],
+    "weather.miles per hour": [
+      "miles per hour"
+    ],
+    "weather.no forecast": [
+      "Sorry, I don't know the forecast for {{day}}",
+      "I don't have a forecast for {{day}}"
+    ],
+    "weather.no precipitation expected": [
+      "No precipitation is in the forecast",
+      "None is forecasted"
+    ],
+    "weather.precipitation expected": [
+      "{{modifier}} {{precip}} is expected on {{day}}",
+      "The forecast calls for {{modifier}} {{precip}} on {{day}}"
+    ],
+    "weather.rain": [
+      "rain"
+    ],
+    "weather.report.condition": [
+      "{{condition}} is {{value}}"
+    ],
+    "weather.report.future.condition": [
+      "{{condition}} on {{day}} will be {{value}}",
+      "On {{day}} the forecast calls for {{condition}} of {{value}}"
+    ],
+    "weather.sky is clear.future": [
+      "clear"
+    ],
+    "weather.snow": [
+      "snow"
+    ],
+    "weather.wind.speed": [
+      "{{speed}} {{unit}}"
+    ],
+    "weather.wind.speed.dir": [
+      "at {{speed}} {{unit}} from the {{dir}}",
+      "from the {{dir}} at {{speed}} {{unit}}"
+    ],
+    "weather.winds": [
+      "the wind"
+    ],
+    "webb-telescope.about": [
+      "Webb will be the largest, most powerful and complex space telescope ever built and launched into space. It will fundamentally alter our understanding of the universe."
+    ],
+    "white-house-adventure.LeavingZork": [
+      "Leaving the mysterious kingdom of Zork",
+      "Now leaving Zork",
+      "Exiting Zork"
+    ],
+    "white-house-adventure.NoSave": [
+      "There's no current savegame",
+      "No save game exists"
+    ],
+    "white-house-adventure.SaveDeleted": [
+      "Save game deleted",
+      "Removed the save game"
+    ],
+    "wiki.disambiguate": [
+      "did you mean {{options}}",
+      "would you like to hear about {{options}}"
+    ],
+    "wiki.no entry found": [
+      "I can't find a related Wikipedia article",
+      "I'm afraid there isn't any article about that"
+    ],
+    "wiki.or": [
+      "or"
+    ],
+    "wiki.searching": [
+      "Just a moment while I look up {{query}}",
+      "Let me look up {{query}}",
+      "I'm checking Wikipedia for {{query}}"
+    ],
+    "wiki.thats all": [
+      "That's all I know",
+      "That's all I can find"
+    ],
+    "wikidata.age": [
+      "The age of {person} is {age}",
+      "{person} is {age} years old"
+    ],
+    "wikidata.age.not.found": [
+      "I couldn't find the age of {person}"
+    ],
+    "wikidata.birthplace": [
+      "{person} was born in {place}"
+    ],
+    "wikidata.birthplace.not.found": [
+      "I couldn't find where {person} was born"
+    ],
+    "wikidata.burial.not.found": [
+      "I couldn't find any burial information for {person}"
+    ],
+    "wikidata.children.not.found": [
+      "I couldn't find any children of {person}"
+    ],
+    "wikidata.country.not.found": [
+      "I couldn't find which country {person} is from"
+    ],
+    "wikidata.date.of.birth": [
+      "{person} was born on day {day} of month {month} in the year {year}"
+    ],
+    "wikidata.date.of.birth.not.found": [
+      "I couldn't find birth date information for {person}"
+    ],
+    "wikidata.date.of.death": [
+      "{person} died on day {day} of month {month} in the year {year}"
+    ],
+    "wikidata.date.of.death.not.found": [
+      "I couldn't find any death date information for {person}"
+    ],
+    "wikidata.deathplace": [
+      "{person} died in {place}"
+    ],
+    "wikidata.deathplace.not.found": [
+      "I couldn't find where {person} died"
+    ],
+    "wikidata.gender.not.found": [
+      "I couldn't find the gender of {person}"
+    ],
+    "wikidata.occupation.not.found": [
+      "I couldn't find any occupation for {person}"
+    ],
+    "wikidata.spouse.not.found": [
+      "I couldn't find any spouse of {person}"
+    ],
+    "wikihow.howto.failure": [
+      "i don't know",
+      "i am not sure",
+      "i tried searching wiki how but couldn't find anything"
+    ],
+    "wikihow.step": [
+      "Step {{number}}, {{step}}"
+    ],
+    "wikipedia-for-humans.no entry found": [
+      "I can't find a related Wikipedia article",
+      "I'm afraid there isn't any article about that"
+    ],
+    "wikipedia-for-humans.searching": [
+      "Let me look up {{query}} in Wikipedia",
+      "I'm checking Wikipedia for {{query}}"
+    ],
+    "wikipedia-for-humans.thats all": [
+      "That's all I know",
+      "That's all I can find"
+    ],
+    "wikipedia-for-humans.wikiroulette": [
+      "knowledge roulette activated",
+      "playing the wikipedia roulette"
+    ],
+    "wikiquote-skill.notfound": [
+      "I didn't find any {{subject}} quotes"
+    ],
+    "wink-iot.couldnt.find.light": [
+      "Unable to find a light nearby"
+    ],
+    "wink-iot.dimmed": [
+      "dimmed"
+    ],
+    "wink-iot.light.level.is": [
+      "That light is {{state}}",
+      "It's {{state}}",
+      "It is {{state}}"
+    ],
+    "wink-iot.need.to.configure": [
+      "Before you can use me to control your lights you will need to enter Wink account information. Please visit home dot mycroft dot A I to set this up."
+    ],
+    "wink-iot.off": [
+      "off"
+    ],
+    "wink-iot.on": [
+      "on",
+      "lit"
+    ],
+    "wink-iot.unable.to.login": [
+      "I wasn't able to communicate with the Wink service. Please verify the username and password you've entered a home.mycroft.ai."
+    ],
+    "wolfie.no_answer": [
+      "the wolf does not know the answer"
+    ],
+    "xkcd.num_error": [
+      "There are only {{ total }} comics",
+      "There are only {{ total }} XKCD comics"
+    ],
+    "xkcd.xkcd": [
+      "XKCD comic from {{ date }}",
+      "XKCD comic from {{ date }}"
+    ],
+    "xkcd.xkcd_num": [
+      "XKCD comic number {{number}} from {{ date }}"
+    ],
+    "xkcd.xkcd_total_comics": [
+      "XKCD has created {{ number }} comics to date",
+      "There are {{ number }} XKCD comics as of today",
+      "Currently {{ number }} XKCD comics exist"
+    ]
+  }
+}

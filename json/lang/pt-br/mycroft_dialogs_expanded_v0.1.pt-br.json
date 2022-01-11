@@ -1,0 +1,666 @@
+{
+  "pt-br": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "Sim",
+      "N\u00e3o",
+      "Tente perguntar novamente depois",
+      "Certamente",
+      "Claro que n\u00e3o",
+      "Com certeza",
+      "Neca",
+      "Por que n\u00e3o?",
+      "Eu n\u00e3o contaria com isso",
+      "Pode apostar!",
+      "N\u00e3o conte com isso"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "Est\u00e1 certo!",
+      "Voc\u00ea entendeu!",
+      "Correto!",
+      "Esse \u00e9 o n\u00famero!",
+      "Bom trabalho!",
+      "Voc\u00ea venceu!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "Qual que voc\u00ea quer que seja o limite inferior?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "Qual que voc\u00ea quer que seja o limite superior?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "Adivinhe o n\u00famero",
+      "Qual n\u00famero voc\u00ea acha que \u00e9?",
+      "Adivinhe"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "Eu n\u00e3o consegui entender o que voc\u00ea disse",
+      "Algo deu errado enquanto eu tentava entender isso",
+      "Um erro de entrada aconteceu",
+      "Pode repetir?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "Essa resposta foi inv\u00e1lida. Eu preciso de um n\u00famero",
+      "Por favor, responda com um n\u00famero",
+      "Voc\u00ea precisa responder com um n\u00famero",
+      "Isso n\u00e3o \u00e9 um n\u00famero"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "OK, vamos jogar",
+      "Que comece o jogo",
+      "Iniciando o jogo",
+      "Vamos come\u00e7ar",
+      "Vamos ver o que voc\u00ea tem",
+      "Tudo bem. Vamos jogar Adivinhe o N\u00famero"
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "Muito alto"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "Muito baixo"
+    ],
+    "aircrack.cannot.sudo": [
+      "Erro, eu n\u00e3o consigo dar sudo nos comandos do aircrack sem uma senha. Por favor veja as notas do github.com/JonStratton/skill-aircrack sobre sudo"
+    ],
+    "aircrack.captured.handshake": [
+      "aperto de m\u00e3o capturado"
+    ],
+    "aircrack.confirm.permission": [
+      "Acessar uma rede wifi que voc\u00ea n\u00e3o esteja autorizado a usar pode ser ilegal. Por favor, confirme que voc\u00ea tem permiss\u00e3o para se conectar a esta rede, dizendo SIM, caso contr\u00e1rio, diga N\u00c3O para cancelar."
+    ],
+    "aircrack.deauthing.clients": [
+      "Clientes desautenticados conectados a rede {{selected_network}}."
+    ],
+    "aircrack.interfaces.are": [
+      "As seguintes interfaces est\u00e3o dispon\u00edveis: {{available_interfaces}}",
+      "Aqui est\u00e3o as interfaces dispon\u00edveis: {{available_interfaces}}",
+      "{{available_interfaces}} est\u00e3o dispon\u00edveis."
+    ],
+    "aircrack.monitor.stopped.early": [
+      "O monitor parou antes da captura do aperto de m\u00e3o."
+    ],
+    "aircrack.networks.are": [
+      "As seguintes redes est\u00e3o dispon\u00edveis: {{available_networks}}"
+    ],
+    "aircrack.no.interfaces": [
+      "N\u00e3o h\u00e1 interfaces dispon\u00edveis."
+    ],
+    "aircrack.no.networks": [
+      "N\u00e3o h\u00e1 redes dispon\u00edveis."
+    ],
+    "aircrack.no.password": [
+      "Nenhuma senha encontrada."
+    ],
+    "aircrack.no.such.interface": [
+      "Tal interface n\u00e3o foi encontrada."
+    ],
+    "aircrack.no.such.network": [
+      "Tal rede n\u00e3o foi encontrada."
+    ],
+    "aircrack.recovered.password": [
+      "A seguinte senha foi recuperada: {{password}}"
+    ],
+    "aircrack.select.interface.first": [
+      "Favor selecionar a interface primeiro."
+    ],
+    "aircrack.selected.interface": [
+      "Interface {{selected_interface}} selecionada."
+    ],
+    "aircrack.selected.network": [
+      "Rede {{selected_network}} selecionada."
+    ],
+    "aircrack.start.monitor": [
+      "Iniciando o Monitor"
+    ],
+    "aircrack.stop.monitor": [
+      "Parando o Monitor"
+    ],
+    "auto-volume-skill.activate": [
+      "OK",
+      "Auto volume ativado",
+      "Eu ativei o auto volume"
+    ],
+    "auto-volume-skill.deactivate": [
+      "OK",
+      "Auto volume desativado",
+      "Desativei auto volume"
+    ],
+    "auto-volume-skill.reset": [
+      "Eu desliguei agora o volume autom\u00e1tico"
+    ],
+    "cocktail.NotFound": [
+      "Desculpe-me, eu n\u00e3o consegui encontrar o drink que voc\u00ea pediu",
+      "Eu estou preocupado, n\u00e3o consegui encontrar isso"
+    ],
+    "cocktail.YouWillNeed": [
+      "Voc\u00ea ir\u00e1 precisar {ingredients} e {final_ingredient}",
+      "Voc\u00ea ir\u00e1 precisar {ingredients} e {final_ingredient}",
+      "Os ingredientes necess\u00e1rios s\u00e3o: {ingredients} e {final_ingredient}"
+    ],
+    "count-skill.count_error": [
+      "Eu n\u00e3o entendo.",
+      "Eu estou sentindo falta de algo.",
+      "Repita?",
+      "Desculpa. Eu n\u00e3o ouvi isso."
+    ],
+    "count-skill.count_start": [
+      "Contando para {number}. come\u00e7ando agora!"
+    ],
+    "count-skill.count_stop": [
+      "Pronto!",
+      "Terminar!"
+    ],
+    "count-skill.countdown_start": [
+      "Contagem regressiva de {number}. Come\u00e7ando agora!"
+    ],
+    "count-skill.countdown_stop": [
+      "Pronto!",
+      "Terminar!"
+    ],
+    "cut-up-skill.frag_type.set": [
+      "Selecionou o tipo de fragmento {{frag_type}}."
+    ],
+    "cut-up-skill.maximum.set": [
+      "Tamanho m\u00e1ximo do bloco definido para {{max}}."
+    ],
+    "cut-up-skill.minimum.set": [
+      "Tamanho m\u00ednimo do peda\u00e7o definido para {{min}}."
+    ],
+    "cut-up-skill.randomness.set": [
+      "Aleatoriedade definida para {{rand}} por cento."
+    ],
+    "dice-skill.multiple.modificator.result": [
+      "Seus n\u00fameros s\u00e3o {result} perfazendo um total de {total}"
+    ],
+    "dice-skill.multiple.result": [
+      "Seus n\u00fameros s\u00e3o {result}"
+    ],
+    "dice-skill.range.needed": [
+      "Voc\u00ea precisa especificar um intervalo",
+      "Preciso de um intervalo para fazer isso",
+      "Me diga o intervalo do qual voc\u00ea quer seus n\u00fameros"
+    ],
+    "dice-skill.single.modificator.result": [
+      "O resultado \u00e9 {total}."
+    ],
+    "dice-skill.single.result": [
+      "O resultado \u00e9 {result}.",
+      "Seu n\u00famero \u00e9 {result}"
+    ],
+    "email-skill.already.looking.for.all": [
+      "Eu j\u00e1 estou procurando por novas correspond\u00eancias",
+      "Eu j\u00e1 estava procurando por novas correspond\u00eancias",
+      "Eu j\u00e1 estou procurando por novos e-mails"
+    ],
+    "email-skill.already.looking.for.specific": [
+      "Eu j\u00e1 estou procurando por emails de {email}",
+      "Eu j\u00e1 estava procurando por novos emails de {email}",
+      "Eu j\u00e1 estou procurando por e-mails de {email}"
+    ],
+    "email-skill.cancel.looking.for.all.look.specific": [
+      "No momento estou procurando por todos os novos emails, voc\u00ea quer que eu te notifique apenas sobre emails de {email}",
+      "Eu j\u00e1 estava procurando por novos emails, voc\u00ea quer que eu te notifique apenas sobre os novos emails de {email}"
+    ],
+    "email-skill.cancel.looking.for.specific.look.all": [
+      "Eu j\u00e1 estou procurando por {email}, voc\u00ea quer que eu procure por todos os novos emails em vez disso?",
+      "Neste momento, estou procurando apenas por emails de {email}. Voc\u00ea quer que eu procure por todos emails ?",
+      "Voc\u00ea quer que eu procure por todos os emails em vez de procurar por apenas emails de {email} ?"
+    ],
+    "email-skill.error.getting.mail": [
+      "Ocorreu um erro ao obter seu email. Tente verificar suas credenciais e informa\u00e7\u00f5es do servidor.",
+      "Verifique suas credenciais e informa\u00e7\u00f5es do servidor porque houve um problema ao obter seu email",
+      "N\u00e3o consigo me conectar ao seu servidor de email. Verifique sua senha e as informa\u00e7\u00f5es do servidor."
+    ],
+    "email-skill.list.subjects": [
+      "Seu email n\u00famero {message_num} \u00e9 de {sender}. O assunto \u00e9 sobre {subject}.",
+      "O assunto do {message_num} email \u00e9 sobre {subject}. \u00c9 de {sender}."
+    ],
+    "email-skill.more.emails": [
+      "Voc\u00ea gostaria de ouvir mais ?",
+      "quer ouvir mais dos seus emails?",
+      "voc\u00ea quer ouvir mais?"
+    ],
+    "email-skill.no.emails.from": [
+      "N\u00e3o tem nenhum email de {sender}",
+      "Voc\u00ea n\u00e3o tem emails de {sender}",
+      "Voc\u00ea n\u00e3o recebeu nenhum email de {sender}"
+    ],
+    "email-skill.no.more.emails": [
+      "Okay"
+    ],
+    "email-skill.no.new.email": [
+      "N\u00e3o h\u00e1 emails novos.",
+      "N\u00e3o h\u00e1 novos emails.",
+      "N\u00e3o h\u00e1 nenhum email novo",
+      "N\u00e3o existe nenhum email novo",
+      "N\u00e3o h\u00e1 novos emails para voc\u00ea.",
+      "N\u00e3o h\u00e1 nenhum email novo para voc\u00ea.",
+      "Voc\u00ea n\u00e3o tem nenhum email novo",
+      "Voc\u00ea n\u00e3o tem nenhum e-mail novo"
+    ],
+    "email-skill.not.looking.for": [
+      "No momento eu n\u00e3o estou procurando por emails de {email}",
+      "Eu n\u00e3o estou procurando por emails de {email}",
+      "Neste momento, eu n\u00e3o estou procurando por emails de {email}"
+    ],
+    "email-skill.notify.read.email": [
+      "Voc\u00ea tem {size} novos emails. Voc\u00ea quer escut\u00e1-los?",
+      "Existem {size} novos emails. Voc\u00ea quer escut\u00e1-los?",
+      "Voc\u00ea quer escutar os seus {size} emails?"
+    ],
+    "email-skill.poll.emails.not.started": [
+      "Eu n\u00e3o estou procurando por novos emails",
+      "No momento, n\u00e3o estou procurando por novos emails"
+    ],
+    "email-skill.setup": [
+      "Para configurar a habilidade de e-mail, por favor, v\u00e1 para home ponto mycroft ponto a i para inserir suas informa\u00e7\u00f5es de e-mail.",
+      "Voc\u00ea precisa configurar a habilidade de e-mail. Para fazer isso, por favor, v\u00e1 para home ponto mycroft ponto a i para inserir suas informa\u00e7\u00f5es de e-mail."
+    ],
+    "email-skill.start.poll.email": [
+      "Eu vou notificar voc\u00ea sobre novos emails",
+      "Okay, eu vou come\u00e7ar a notificar voc\u00ea sobre novos emails",
+      "Eu estou come\u00e7ando a procurar por novos emails"
+    ],
+    "email-skill.stop.looking.for": [
+      "Eu vou parar de procurar por novos emails de {email}",
+      "Okay, eu vou parar de procurar por novos emails de {email}"
+    ],
+    "email-skill.stop.poll.emails": [
+      "Okay, eu vou parar de procurar por novos emails",
+      "Tudo bem, eu n\u00e3o vou mais procurar por novos emails"
+    ],
+    "email-skill.stop.poll.emails.last.email.removed": [
+      "Estou parando de procurar por novos emails, pois n\u00e3o existem nenhum endere\u00e7o de email que voc\u00ea quer ser notificado"
+    ],
+    "email-skill.update.notify.data": [
+      "Eu atualizei suas prefer\u00eancias de email",
+      "Tudo bem, eu atualizei suas prefer\u00eancias de email"
+    ],
+    "emby-skill.configuration_fail": [
+      "N\u00e3o foi poss\u00edvel conectar ao servidor Emby. Verifique ou defina sua configura\u00e7\u00e3o em home.mycroft.ai"
+    ],
+    "emby-skill.configuration_success": [
+      "Conectado com sucesso ao servidor Emby em {hostname}"
+    ],
+    "emby-skill.diag_auth_fail": [
+      "N\u00e3o consigo me autenticar ao servidor Emby. Verifique ou defina sua configura\u00e7\u00e3o em home.mycroft.ai"
+    ],
+    "emby-skill.diag_auth_success": [
+      "Me autentiquei com sucesso ao servidor Emby!"
+    ],
+    "emby-skill.diag_public_info_fail": [
+      "O servidor Emby em {host} n\u00e3o parece acess\u00edvel ou n\u00e3o est\u00e1 respondendo."
+    ],
+    "emby-skill.diag_public_info_success": [
+      "\u00d3timo! Eu posso acessar o {ServerName} localizado em {LocalAddress}, vers\u00e3o em execu\u00e7\u00e3o {Version}. Tentando autenticar."
+    ],
+    "emby-skill.diag_start": [
+      "Vou executar um diagn\u00f3stico de verifica\u00e7\u00e3o da conex\u00e3o da habilidade Emby. Isso verificar\u00e1 se o servidor est\u00e1 acess\u00edvel e se eu consigo me autenticar."
+    ],
+    "emby-skill.diag_stop": [
+      "O diagn\u00f3stico n\u00e3o continuar\u00e1."
+    ],
+    "emby-skill.diagnostic": [
+      "O diagn\u00f3stico est\u00e1 completo. Posso conectar e autenticar no servidor Emby. Agora \u00e9 hora de tocar m\u00fasica!"
+    ],
+    "emby-skill.emby": [
+      "Tocando {media}"
+    ],
+    "emby-skill.general_check_settings_logs": [
+      "Por favor, verifique suas configura\u00e7\u00f5es no Mycroft.ai. Se esse problema persistir, verifique os logs do Mycroft para obter mais informa\u00e7\u00f5es."
+    ],
+    "emby-skill.play_fail": [
+      "N\u00e3o foi poss\u00edvel encontrar ou reproduzir {media}. Por favor, tente novamente.",
+      "N\u00e3o foi poss\u00edvel encontrar ou reproduzir {media}. Por favor, tente novamente. Se isso continuar, verifique sua configura\u00e7\u00e3o em home.mycroft.ai"
+    ],
+    "fairytalez-skill.continue": [
+      "Continue contando {story}",
+      "Onde est\u00e1vamos mesmo? Ah, sim, aqui. {story}"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "Conhe\u00e7o mais de 2000 contos de fadas, contos populares e f\u00e1bulas de todo o mundo. Qual deles voc\u00ea gostaria de ouvir?"
+    ],
+    "fairytalez-skill.from_fairytalez": [
+      "Esses contos de fadas s\u00e3o de www ponto fairytalez ponto com.Eles adoram contos de fadas! Por favor, visite o site onde voc\u00ea vai encontrar a maior cole\u00e7\u00e3o de contos de fadas, contos populares e f\u00e1bulas online."
+    ],
+    "fairytalez-skill.i_know_that": [
+      "{story} \u00e9 uma boa escolha. Vamos come\u00e7ar...",
+      "Sim, {story} \u00e9 uma boa escolha. Come\u00e7a assim..."
+    ],
+    "fairytalez-skill.is_it_that": [
+      "\u00c9 aquele?",
+      "Poderia ser isso?",
+      "Devo te contar um presente?",
+      "Voc\u00ea quer ouvir isso?"
+    ],
+    "fairytalez-skill.let_me_think": [
+      "Deixa eu ver. Eu conhe\u00e7o {story}",
+      "bem, eu preciso pensar se eu me lembrar {story}"
+    ],
+    "fairytalez-skill.no_story": [
+      "Ent\u00e3o n\u00e3o sei que est\u00f3ria voc\u00ea quer ouvir."
+    ],
+    "fairytalez-skill.no_story_to_continue": [
+      "N\u00e3o h\u00e1 est\u00f3ria para continuarmos",
+      "Lamento. N\u00e3o h\u00e1 est\u00f3ria para continuarmos."
+    ],
+    "fairytalez-skill.that_would_be": [
+      "Eu posso contar a hist\u00f3ria {story}.",
+      "Eu me lembro da {story}."
+    ],
+    "fairytalez-skill.title_by_author": [
+      "{title} por {author}"
+    ],
+    "fallback-aiml.reset.memory": [
+      "Reiniciando base de conhecimentos",
+      "Esquecendo tudo",
+      "Certo, eu vou reiniciar a minha mem\u00f3ria",
+      "Limpeza cerebral iniciada"
+    ],
+    "fallback-recommendations-skill.skill.download.confirmation": [
+      "A habilidade {{skill_name}} pode fazer isso por voc\u00ea. Voc\u00ea gostaria que eu fizesse o download?",
+      "Eu encontrei uma habilidade chamada {{skill_name}}, que poderia ajud\u00e1-lo com isso. Voc\u00ea gostaria que eu fizesse o download?"
+    ],
+    "fallback-recommendations-skill.skill.download.refused": [
+      "OK.",
+      "Tudo bem."
+    ],
+    "fallback-recommendations-skill.skill.downloading": [
+      "Apenas um momento, estou baixando a habilidade {{skill_name}}.",
+      "Apenas um momento, estou baixando a habilidade {{skill_name}}.",
+      "Um momento, estou baixando a habilidade {{skill_name}}.",
+      "Ok, deixe-me fazer o download da habilidade {{skill_name}}.",
+      "Espere um momento enquanto eu baixo a habilidade {{skill_name}}.",
+      "Ok, estou baixando a habilidade {{skill_name}}."
+    ],
+    "iss-tracker-skill.location.current": [
+      "O I S S ultrapassa a latitude de {{latitude}} de latitude {{longitude}} que corresponde a {{toponym}}",
+      "A esta\u00e7\u00e3o espacial est\u00e1 a {latitude}} de latitude {{longitude}} de longitude sobre {{toponym}}",
+      "Est\u00e1 na latitude de {{latitude}} de longitude {{longitude}}, sobre {{toponym}}",
+      "A esta\u00e7\u00e3o espacial internacional est\u00e1 agora em {{toponym}} em {{latitude}} latitude {{longitude}} em longitude",
+      "Acima de {{toponym}} em latitude e longitude {{longitude}}"
+    ],
+    "iss-tracker-skill.location.unknown": [
+      "Desculpe, {{latitude}} latitude {{longitude}} longitude n\u00e3o \u00e9 conhecida",
+      "Desculpe, a esta\u00e7\u00e3o espacial est\u00e1 em {{latitude}} latitude {{longitude}} longitude mas eu n\u00e3o sei onde isso \u00e9",
+      "\u00c9 em {{latitude}} latitude {{longitude}} longitude que n\u00e3o est\u00e1 codificada neste banco de dados",
+      "A ISS agora ultrapassou a longitude de {{latitude}} de latitude {{longitude}}, mas n\u00e3o h\u00e1 recurso geogr\u00e1fico associado"
+    ],
+    "laugh.cancel": [
+      "o riso parou",
+      "N\u00e3o vou rir mais"
+    ],
+    "laugh.cancel_fail": [
+      "Eu n\u00e3o estou rindo"
+    ],
+    "list-manager-skill.add.item": [
+      "{{item_name}} adicionado \u00e0 sua lista {{list_name}}."
+    ],
+    "list-manager-skill.add.list": [
+      "Sua nova lista {{list_name}} foi adicionada."
+    ],
+    "list-manager-skill.and": [
+      "e"
+    ],
+    "list-manager-skill.cancelled": [
+      "Cancelado."
+    ],
+    "list-manager-skill.confirm.deletion": [
+      "Tem certeza que deseja remover {{element}}?"
+    ],
+    "list-manager-skill.del.item": [
+      "{{item_name}} removido da sua lista {{list_name}}."
+    ],
+    "list-manager-skill.del.list": [
+      "Sua lista {{list_name}} foi removida."
+    ],
+    "list-manager-skill.item.not.found": [
+      "{{item_name}} n\u00e3o est\u00e1 na sua lista {{list_name}}."
+    ],
+    "list-manager-skill.list.found": [
+      "Voc\u00ea j\u00e1 tem uma lista com o nome {{list_name}}."
+    ],
+    "list-manager-skill.list.not.found": [
+      "Voc\u00ea n\u00e3o parece ter uma lista chamada {{list_name}}.",
+      "Eu n\u00e3o pude encontrar {{list_name}} entre as suas listas."
+    ],
+    "list-manager-skill.no.items": [
+      "Voc\u00ea n\u00e3o tem nenhum item em {{list_name}}."
+    ],
+    "list-manager-skill.no.lists": [
+      "Voc\u00ea n\u00e3o tem nenhuma lista ainda."
+    ],
+    "list-manager-skill.read.items": [
+      "Na sua lista {{list_name}} voc\u00ea tem {{items}}"
+    ],
+    "list-manager-skill.read.lists": [
+      "Atualmente voc\u00ea tem {{list}} {{lists_names}}."
+    ],
+    "mark-2.auto.noon": [
+      "Parece ser meio-dia, vou atualizar o brilho."
+    ],
+    "mark-2.auto.sunrise": [
+      "T\u00e1 bom. O sol vai chegar. Vou ajustar o brilho.",
+      "T\u00e1 bom, o som apareceu, vou ajustar o n\u00edvel de brilho"
+    ],
+    "mark-2.auto.sunset": [
+      "T\u00e1 bom, est\u00e1 escurecendo, vou ajustar o brilho de acordo."
+    ],
+    "mark-2.brightness.error": [
+      "N\u00e3o entendi o valor dito para o brilho. Me d\u00ea um valor de 0 a 100 por cento."
+    ],
+    "mark-2.brightness.not.found": [
+      "Me diga o n\u00edvel ou porcentagem de brilho para o meu rosto",
+      "Que n\u00edvel de brilho ou porcentagem voc\u00ea gostaria?"
+    ],
+    "mark-2.brightness.not.found.final": [
+      "Desculpe, n\u00e3o entendi qual intensidade de brilho.",
+      "Eu s\u00f3 entendo coisas como, m\u00e1ximo ou 50%"
+    ],
+    "mark-2.brightness.set": [
+      "T\u00e1 bom, definindo o brilho para {val}.",
+      "Parece bom, definindo brilho para {val}"
+    ],
+    "mark-2.no.web.setting": [
+      "Nenhuma cor para os olhos foi definida",
+      "N\u00e3o achei nenhuma configura\u00e7\u00e3o da web para as cores dos olhos"
+    ],
+    "mark-2.rebooting": [
+      "Estou reiniciando agora, j\u00e1 volto",
+      "Reiniciando, volto daqui a alguns minutos"
+    ],
+    "moviemaster.bad.movie.genre.catagory": [
+      "N\u00e3o encontrei nenhum seriado de televis\u00e3o com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhum seriado de TV com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhum s\u00e9rie de televis\u00e3o com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhum s\u00e9rie de TV com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhuma seriado de televis\u00e3o com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhuma seriado de TV com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhuma s\u00e9rie de televis\u00e3o com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhuma s\u00e9rie de TV com o g\u00eanero {genre}"
+    ],
+    "moviemaster.bad.tv.genre.catagory": [
+      "N\u00e3o encontrei nenhum seriado de televis\u00e3o com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhum seriado de TV com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhum s\u00e9rie de televis\u00e3o com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhum s\u00e9rie de TV com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhuma seriado de televis\u00e3o com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhuma seriado de TV com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhuma s\u00e9rie de televis\u00e3o com o g\u00eanero {genre}",
+      "N\u00e3o encontrei nenhuma s\u00e9rie de TV com o g\u00eanero {genre}"
+    ],
+    "moviemaster.fallback.api": [
+      "Retrocedendo \u00e0 API padr\u00e3o"
+    ],
+    "moviemaster.genre.movie.search": [
+      "os filmes com o g\u00eanero {genre} s\u00e3o;"
+    ],
+    "moviemaster.genre.tv.search": [
+      "os programas ( de TV ) com o g\u00eanero {genre} s\u00e3o;",
+      "os seriados ( de TV ) com o g\u00eanero {genre} s\u00e3o;",
+      "as s\u00e9ries ( de TV ) com o g\u00eanero {genre} s\u00e3o;"
+    ],
+    "moviemaster.movie.cast": [
+      "Aqui est\u00e1 o elenco de {movie}; {actorlist} e {lastactor}",
+      "As seguintes pessoas interpretam no filme {movie}; {actorlist} e {lastactor}",
+      "As seguintes pessoas atuam no filme {movie}; {actorlist} e {lastactor}",
+      "As seguintes pessoas estreiam no filme {movie}; {actorlist} e {lastactor}"
+    ],
+    "moviemaster.movie.description": [
+      "o filme {movie} \u00e9 sobre isso.",
+      "aqui est\u00e1 uma sinopse do filme {movie}."
+    ],
+    "moviemaster.movie.genre.multiple": [
+      "O curta pode ser encontrado em um dos g\u00eaneros; {genrelist} e {genrelistlast}",
+      "O filme pode ser encontrado em um dos g\u00eaneros; {genrelist} e {genrelistlast}",
+      "As pessoas consideram que o g\u00eanero desse curta \u00e9 {genrelist} ou {genrelistlast}",
+      "As pessoas consideram que o g\u00eanero desse filme \u00e9 {genrelist} ou {genrelistlast}"
+    ],
+    "moviemaster.movie.genre.single": [
+      "O filme {movie} poderia ser considerado um filme com o g\u00eanero {genre}",
+      "Voc\u00ea pode encontrar o filme {movie} na se\u00e7\u00e3o de {genre}"
+    ],
+    "moviemaster.movie.info.response": [
+      "{movie} foi lan\u00e7ado em {year}, com um or\u00e7amento de {budget} dol\u00e1res."
+    ],
+    "moviemaster.movie.popular": [
+      "Os lan\u00e7amentos de filme mais populares s\u00e3o {popularlist}.",
+      "{popularlist} no topo das bilheterias neste momento."
+    ],
+    "moviemaster.movie.production.multiple": [
+      "As empresas {companies} e {lastcompany} produziram o filme {movie}",
+      "{companies} e {lastcompany} produziram o filme {movie}"
+    ],
+    "moviemaster.movie.production.single": [
+      "A produtora {company}, produziu o filme {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "Eu recomendo os filmes {movielist}, se voc\u00ea gosta do filme {movie}",
+      "Os filmes {movielist} s\u00e3o uma boa escolha se voc\u00ea gosta do curta {movie}",
+      "Os filmes {movielist} s\u00e3o uma boa escolha se voc\u00ea gosta do filme {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "A fita {movie} dura {runtime} minutos.",
+      "A filme {movie} dura {runtime} minutos.",
+      "O fita {movie} dura {runtime} minutos.",
+      "O filme {movie} dura {runtime} minutos.",
+      "O filme {movie} tem dura\u00e7\u00e3o de {runtime} minutos.",
+      "Assistindo {movie}; Voc\u00ea pode esperar cerca de {runtime} minutos antes de poder ter uma pausa para ir ao banheiro."
+    ],
+    "moviemaster.movie.top": [
+      "Estes s\u00e3o os filmes mais populares exibindo agora: {toplist}",
+      "Estes s\u00e3o os filmes mais populares em cartaz agora: {toplist}",
+      "{toplist} s\u00e3o os filmes mais populares em cartaz agora.",
+      "{toplist} s\u00e3o os filmes mais populares sendo exibidos agora."
+    ],
+    "moviemaster.movie.year": [
+      "a fita {movie} foi lan\u00e7ado em {year}",
+      "a fita {movie} foi feito em {year}",
+      "a filme {movie} foi lan\u00e7ado em {year}",
+      "a filme {movie} foi feito em {year}",
+      "o fita {movie} foi lan\u00e7ado em {year}",
+      "o fita {movie} foi feito em {year}",
+      "o filme {movie} foi lan\u00e7ado em {year}",
+      "o filme {movie} foi feito em {year}"
+    ],
+    "moviemaster.no.api": [
+      "Voc\u00ea deve digitar sua chave T M D B A P I em home ponto mycroft ponto a i para usar a habilidade mestre de filme."
+    ],
+    "moviemaster.no.info": [
+      "Desculpe. Eu n\u00e3o consigo encontrar nenhuma informa\u00e7\u00e3o sobre o filme {movie}"
+    ],
+    "moviemaster.no.info.general": [
+      "Desculpe, eu n\u00e3o consigo encontrar a lista que voc\u00ea est\u00e1 procurando agora; por favor, pergunte novamente mais tarde."
+    ],
+    "moviemaster.no.valid.api": [
+      "A chave A P I digitada n\u00e3o \u00e9 v\u00e1lida. Consulte o arquivo leia-me para obter instru\u00e7\u00f5es sobre como obter uma."
+    ],
+    "picroft-google-aiy-voicekit-skill.error.initialize": [
+      "Eu estou com problemas para iniciar a habilidade do kit de voz Google AIY. A habilidade n\u00e3o ir\u00e1 carregar."
+    ],
+    "remember-skill.delete": [
+      "Devo deletar a frase: {{PHRASE}}?"
+    ],
+    "remember-skill.deleteall": [
+      "Devo deletar tudo que eu lembrei para voc\u00ea?"
+    ],
+    "remember-skill.forgotten": [
+      "Est\u00e1 esquecido."
+    ],
+    "remember-skill.gotphrase": [
+      "Eu vou lembrar {{REMEMBER}} para voc\u00ea."
+    ],
+    "remember-skill.holdon": [
+      "Eu guardarei esta frase."
+    ],
+    "remember-skill.iremembered": [
+      "Eu lembro: {{REMEMBER}}."
+    ],
+    "remember-skill.short": [
+      "Eu somente consigo lembrar frases ou palavras com mais de quatro letras. Por favor reformule."
+    ],
+    "remember-skill.sorry": [
+      "Sinto muito, eu n\u00e3o consigo lembrar de qualquer frase!"
+    ],
+    "remember-skill.sorryforget": [
+      "Sinto muito, houve um erro e eu n\u00e3o consegui esquecer de nada!"
+    ],
+    "remember-skill.sorrynophrase": [
+      "Sinto muito, eu n\u00e3o consegui achar uma frase que correspondesse a sua requisi\u00e7\u00e3o."
+    ],
+    "speedtest-skill.error": [
+      "Ocorreu um erro e n\u00e3o consegui executar um teste de velocidade... me desculpe."
+    ],
+    "speedtest-skill.result": [
+      "A sua velocidade de download \u00e9 de {{DOWN}} megabits por segundo e sua velocidade de upload \u00e9 de {{UP}} megabits por segundo."
+    ],
+    "speedtest-skill.running": [
+      "Executando o teste de velocidade agora. J\u00e1 volto com os resultados."
+    ],
+    "theia-ide-skill.downloading": [
+      "Fazendo o download do pacote pr\u00e9-compilado para a plataforma {platform}. Isso pode levar algum tempo dependendo da velocidade da internet."
+    ],
+    "theia-ide-skill.ide_already_running": [
+      "A IDE Theia j\u00e1 est\u00e1 em execu\u00e7\u00e3o. Para acessar, abra um navegador e acesse {url}"
+    ],
+    "theia-ide-skill.ide_is_not_running": [
+      "A IDE Theia n\u00e3o est\u00e1 executando"
+    ],
+    "theia-ide-skill.ide_restarted": [
+      "IDE Theia iniciada. Para acessar, abra um navegador e v\u00e1 para {url}"
+    ],
+    "theia-ide-skill.ide_started": [
+      "A IDE Theia est\u00e1 em funcionamento. Para acessar, abra um navegador e v\u00e1 para {url}"
+    ],
+    "theia-ide-skill.ide_stopped": [
+      "A IDE Theia est\u00e1 parada"
+    ],
+    "theia-ide-skill.install_start": [
+      "Instalando a IDE Theia"
+    ],
+    "theia-ide-skill.installed_BAD": [
+      "A IDE Theia n\u00e3o foi instalada. Houve erros durante a instala\u00e7\u00e3o."
+    ],
+    "theia-ide-skill.installed_OK": [
+      "A IDE Theia foi instalada."
+    ],
+    "theia-ide-skill.platform_not_supported": [
+      "Esta plataforma n\u00e3o \u00e9 suportada."
+    ],
+    "white-house-adventure.LeavingZork": [
+      "Deixando o misterioso reino de Zork",
+      "Agora saindo de Zork",
+      "Saindo, zork"
+    ],
+    "white-house-adventure.NoSave": [
+      "N\u00e3o h\u00e1 nenhum jogo atual",
+      "Nenhum jogo salvo existe"
+    ],
+    "white-house-adventure.SaveDeleted": [
+      "Salvar jogo exclu\u00eddo",
+      "Removido o jogo salvo"
+    ],
+    "wikiquote-skill.notfound": [
+      "N\u00e3o encontrei nenhuma cita\u00e7\u00e3o sobre {{subject}}"
+    ]
+  }
+}

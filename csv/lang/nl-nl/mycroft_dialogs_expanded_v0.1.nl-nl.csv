@@ -1,0 +1,325 @@
+nl-nl,Crystal-Ball-Mycroft-Skill.random.answer,Ja
+nl-nl,Crystal-Ball-Mycroft-Skill.random.answer,Nee
+nl-nl,Crystal-Ball-Mycroft-Skill.random.answer,Probeer me later te vragen
+nl-nl,Crystal-Ball-Mycroft-Skill.random.answer,Zeker
+nl-nl,Crystal-Ball-Mycroft-Skill.random.answer,Natuurlijk niet
+nl-nl,Crystal-Ball-Mycroft-Skill.random.answer,Zeker
+nl-nl,Crystal-Ball-Mycroft-Skill.random.answer,Noppes
+nl-nl,Crystal-Ball-Mycroft-Skill.random.answer,Waarom niet?
+nl-nl,Crystal-Ball-Mycroft-Skill.random.answer,Ik zou er niet op rekenen
+nl-nl,Crystal-Ball-Mycroft-Skill.random.answer,Reken maar!
+nl-nl,Crystal-Ball-Mycroft-Skill.random.answer,Ik zou er niet op wachten
+nl-nl,Number-Guess-Mycroft-Skill.correct,Helemaal goed!
+nl-nl,Number-Guess-Mycroft-Skill.correct,Je hebt 'm!
+nl-nl,Number-Guess-Mycroft-Skill.correct,Correct!
+nl-nl,Number-Guess-Mycroft-Skill.correct,Dat is inderdaad het getal!
+nl-nl,Number-Guess-Mycroft-Skill.correct,Goed gedaan!
+nl-nl,Number-Guess-Mycroft-Skill.correct,Je wint!
+nl-nl,Number-Guess-Mycroft-Skill.get.lower,Wat is je ondergrens?
+nl-nl,Number-Guess-Mycroft-Skill.get.upper,Wat is je bovengrens?
+nl-nl,Number-Guess-Mycroft-Skill.guess,Raad het getal
+nl-nl,Number-Guess-Mycroft-Skill.guess,Wat denk je dat het getal is
+nl-nl,Number-Guess-Mycroft-Skill.guess,Raad
+nl-nl,Number-Guess-Mycroft-Skill.input.error,Ik begreep niet wat je zei
+nl-nl,Number-Guess-Mycroft-Skill.input.error,Er ging iets mis toen ik dat probeerde te begrijpen
+nl-nl,Number-Guess-Mycroft-Skill.input.error,Er was een invoerfout
+nl-nl,Number-Guess-Mycroft-Skill.input.error,Kun je dat nog eens zeggen?
+nl-nl,Number-Guess-Mycroft-Skill.invalid.input,Dat is ongeldig. Ik wil een getal horen
+nl-nl,Number-Guess-Mycroft-Skill.invalid.input,Antwoord met een getal
+nl-nl,Number-Guess-Mycroft-Skill.invalid.input,Je moet met een getal antwoorden
+nl-nl,Number-Guess-Mycroft-Skill.invalid.input,Dat is geen getal
+nl-nl,Number-Guess-Mycroft-Skill.start.game,Ok laten we beginnen
+nl-nl,Number-Guess-Mycroft-Skill.start.game,Laten we beginnen
+nl-nl,Number-Guess-Mycroft-Skill.start.game,We beginnen
+nl-nl,Number-Guess-Mycroft-Skill.start.game,Laten we beginnen
+nl-nl,Number-Guess-Mycroft-Skill.start.game,Laten we eens kijken wat je hebt
+nl-nl,Number-Guess-Mycroft-Skill.start.game,Oké we spelen Raad het Getal
+nl-nl,Number-Guess-Mycroft-Skill.too.high,Te hoog
+nl-nl,Number-Guess-Mycroft-Skill.too.low,Te laag
+nl-nl,aircrack.cannot.sudo,Fout het lijkt dat ik niet de aircrack commandos kan sudo-en zonder wachtwoord. Zie github.com/JonStratton/skill-aircrack voor opmerkingen over sudo toegang.
+nl-nl,aircrack.captured.handshake,Handdruk gevangen
+nl-nl,aircrack.confirm.permission,Toegang verkrijgen tot een WiFi netwerk waarvoor je geen toestemming hebt kan illegaal zijn. Bevestig alsjeblieft dat je toegang hebt tot dit netwerk door Ja te kiezen. Anders kies Nee om te annuleren.
+nl-nl,aircrack.deauthing.clients,Cliënten aan het de-authoriseren die verbonden zijn aan het {{selected_network}} netwerk.
+nl-nl,aircrack.interfaces.are,De volgende interfaces zijn beschikbaar: {{available_interfaces}}
+nl-nl,aircrack.interfaces.are,Hier zijn de beschikbare interfaces: {{available_interfaces}}
+nl-nl,aircrack.interfaces.are,{{available_interfaces}} zijn beschikbaar.
+nl-nl,aircrack.monitor.stopped.early,Monitor stopte voor de handdruk vastgelegd was.
+nl-nl,aircrack.networks.are,De volgende netwerken zijn beschikbaar: {{available_networks}}
+nl-nl,aircrack.no.interfaces,Er zijn geen beschikbare interfaces.
+nl-nl,aircrack.no.networks,Er zijn geen beschikbare netwerken.
+nl-nl,aircrack.no.password,Geen wachtwoord gevonden.
+nl-nl,aircrack.no.such.interface,Geen interface met deze omschrijving gevonden.
+nl-nl,aircrack.no.such.network,Geen netwerk met deze beschrijving gevonden.
+nl-nl,aircrack.recovered.password,Volgende wachtwoord hersteld: {{password}}
+nl-nl,aircrack.select.interface.first,Selecteer de interface eerst alstublieft.
+nl-nl,aircrack.selected.interface,De interface {{selected_interface}} geselecteerd.
+nl-nl,aircrack.selected.network,het {{selected_network}} netwerk werd geselecteerd.
+nl-nl,aircrack.start.monitor,Monitor aan het starten.
+nl-nl,aircrack.stop.monitor,Monitor aan het stoppen.
+nl-nl,auto-volume-skill.activate,Oke
+nl-nl,auto-volume-skill.activate,Automatische geluidssterkte geactiveerd
+nl-nl,auto-volume-skill.activate,Ik heb automatisch geluidssterkte aangezet
+nl-nl,auto-volume-skill.deactivate,Oke
+nl-nl,auto-volume-skill.deactivate,Automatisch geluidsniveau is uitgeschakeld
+nl-nl,auto-volume-skill.deactivate,Ik heb het automatisch geluidsniveau uitgeschakeld
+nl-nl,auto-volume-skill.reset,Ik heb het automatisch geluidsniveau terug gezet
+nl-nl,cocktail.NotFound,Sorry ik heb het gevraagde drankje niet kunnen vinden
+nl-nl,cocktail.NotFound,Ik ben bang dat ik dat niet heb kunnen vinden
+nl-nl,cocktail.YouWillNeed,je hebt nodig {ingredients} en {final_ingredient}
+nl-nl,cocktail.YouWillNeed,Je hebt nodig {ingredients} en {final_ingredient}
+nl-nl,cocktail.YouWillNeed,De benodigde ingredienten zijn: {ingredients} en {final_ingredient}
+nl-nl,count-skill.count_error,Ik begrijp het niet.
+nl-nl,count-skill.count_error,Ik mis iets.
+nl-nl,count-skill.count_error,Kun je dat herhalen?
+nl-nl,count-skill.count_error,Sorry. Ik heb dat niet gehoord.
+nl-nl,count-skill.count_start,Ik tel tot {number}. Vanaf nu!
+nl-nl,count-skill.count_stop,Klaar!
+nl-nl,count-skill.count_stop,Einde!
+nl-nl,count-skill.countdown_start,Tel af vanaf {number}. Vanaf nu!
+nl-nl,count-skill.countdown_start,Tel af van {number}. Vanaf nu!
+nl-nl,count-skill.countdown_stop,Klaar!
+nl-nl,count-skill.countdown_stop,Einde!
+nl-nl,cut-up-skill.frag_type.set,Het fragment type {{frag_type}} is geselecteerd.
+nl-nl,cut-up-skill.maximum.set,Maximum fragmentgrootte is ingesteld op {{max}}.
+nl-nl,cut-up-skill.minimum.set,Minimum fragmentgrootte is ingesteld op {{min}}.
+nl-nl,cut-up-skill.randomness.set,Willekeurigheid is ingesteld op {{rand}} procent.
+nl-nl,dice-skill.multiple.modificator.result,Jouw nummers zijn {result} wat optelt tot een totaal van {total}
+nl-nl,dice-skill.multiple.result,Je numbers zijn {result}.
+nl-nl,dice-skill.range.needed,Je moet een bereik aangeven
+nl-nl,dice-skill.range.needed,Ik heb een bereik nodig om dat te doen
+nl-nl,dice-skill.range.needed,Vertel me uit welk bereik je getallen wil hebben
+nl-nl,dice-skill.single.modificator.result,De uitkomst is {total}.
+nl-nl,dice-skill.single.result,Het resultaat is {result}.
+nl-nl,dice-skill.single.result,Jouw getal is {result}
+nl-nl,email-skill.already.looking.for.all,ik ben aan het kijken voor een nieuwe mail
+nl-nl,email-skill.already.looking.for.all,ik was al aan het kijken voor een nieuwe mail
+nl-nl,email-skill.already.looking.for.all,ik ben al aan het kijken naar een nieuwe mail
+nl-nl,email-skill.already.looking.for.specific,ik ben al aan het kijken naar emails van {email}
+nl-nl,email-skill.already.looking.for.specific,Ik heb reeds gekeken naar nieuwe mails van {email}
+nl-nl,email-skill.already.looking.for.specific,ik ben al aan het kijken naar e mails van {email}
+nl-nl,email-skill.cancel.looking.for.all.look.specific,ik ben momenteel op zoek naar een nieuwe e-mail wil je dat ik u enkel meld als er email van {email} binnenkomen
+nl-nl,email-skill.cancel.looking.for.all.look.specific,ik ben momenteel op zoek naar nieuwe e-mails wil je dat ik u enkel meld als er nieuwe e-mails binnenkomen van {email}
+nl-nl,email-skill.cancel.looking.for.specific.look.all,ik ben momenteel aan het kijken voor {email} wil je in plaats daarvan dat ik naar alle nieuwe E-mails zoek
+nl-nl,email-skill.cancel.looking.for.specific.look.all,momenteel ben ik aan het kijken vooe E-mails van {email} wil je dat ik in plaats daarvan naar alle E-mails zoek
+nl-nl,email-skill.cancel.looking.for.specific.look.all,wil je dat ik naar alle E-mails zoek in plaats van enkel te kijken naar E-mails van {email}
+nl-nl,email-skill.error.getting.mail,Er was een fout bij het ophalen van je mail Controleer je inloggegevens en serverinstelling
+nl-nl,email-skill.error.getting.mail,Controleer je inloggegevens en serverinstelling want er was een fout bij het ophalen van je mail
+nl-nl,email-skill.error.getting.mail,Ik kan geen verbinding maken met je mailserver Controleer je wachtwoord en serverinstelling
+nl-nl,email-skill.list.subjects,Bericht {message_num} komt van {sender} Het onderwerp is {subject}
+nl-nl,email-skill.list.subjects,Bericht {message_num} heeft als onderwerp {subject} Het komt van {sender}
+nl-nl,email-skill.more.emails,wil je nog meer horen
+nl-nl,email-skill.more.emails,wil je meer mails beluisteren
+nl-nl,email-skill.more.emails,wil je meer horen
+nl-nl,email-skill.no.emails.from,Er zijn geen mails van {sender}
+nl-nl,email-skill.no.emails.from,je hebt geen E-mails van {sender}
+nl-nl,email-skill.no.emails.from,je hebt geen enkele E-mail ontvangen van {sender}
+nl-nl,email-skill.no.more.emails,oké
+nl-nl,email-skill.no.new.email,Er zijn geen nieuwe e-mails
+nl-nl,email-skill.no.new.email,Er zijn geen nieuwe e-mails
+nl-nl,email-skill.no.new.email,Er zijn geen nieuwe e-mails
+nl-nl,email-skill.no.new.email,Er zijn geen nieuwe e-mails
+nl-nl,email-skill.no.new.email,Er zijn geen nieuwe e-mails voor jou
+nl-nl,email-skill.no.new.email,Je hebt geen nieuwe e-mailtjes
+nl-nl,email-skill.no.new.email,Je hebt geen nieuwe mail
+nl-nl,email-skill.no.new.email,Je hebt geen nieuwe e-mail
+nl-nl,email-skill.not.looking.for,Ik ben momenteel niet op zoek naar mails van {email}
+nl-nl,email-skill.not.looking.for,Ik ben niet op zoek naar mails van {email}
+nl-nl,email-skill.not.looking.for,Momenteel ben ik niet op zoek naar email van {email}
+nl-nl,email-skill.notify.read.email,Je hebt {size} nieuwe emails wil je ze horen?
+nl-nl,email-skill.notify.read.email,Er zijn {size} nieuwe emails wil je ze horen?
+nl-nl,email-skill.notify.read.email,Wil je je {size} emails afluisteren?
+nl-nl,email-skill.poll.emails.not.started,ik ben niet aan het controleren op een nieuwe mail
+nl-nl,email-skill.poll.emails.not.started,Momenteel zoek ik niet naar nieuwe e-mail
+nl-nl,email-skill.setup,Om de e-mail skill in te stellen ga naar home punt mycroft punt a i om je e-mailgegevens in te vullen
+nl-nl,email-skill.setup,Je moet de e-mail skill nog instellen Ga naar home punt mycroft punt a i en vul je e-mailgegevens in.
+nl-nl,email-skill.start.poll.email,Ik zal je op de hoogte stellen van nieuwe e-mailberichten
+nl-nl,email-skill.start.poll.email,Oké ik zal starten met je te notificeren van nieuwe email
+nl-nl,email-skill.start.poll.email,Ik begin met het zoeken naar nieuwe e-mailberichten
+nl-nl,email-skill.stop.looking.for,Ik stop met zoeken naar nieuwe E-mail afkomstig van {email}
+nl-nl,email-skill.stop.looking.for,Ik stop met zoeken naar nieuwe E-mail door {email}
+nl-nl,email-skill.stop.looking.for,Ik stop met zoeken naar nieuwe E-mail van {email}
+nl-nl,email-skill.stop.looking.for,Ik stop met zoeken naar nieuwe mail afkomstig van {email}
+nl-nl,email-skill.stop.looking.for,Ik stop met zoeken naar nieuwe mail door {email}
+nl-nl,email-skill.stop.looking.for,Ik stop met zoeken naar nieuwe mail van {email}
+nl-nl,email-skill.stop.looking.for,Ik stop met zoeken naar E-mail afkomstig van {email}
+nl-nl,email-skill.stop.looking.for,Ik stop met zoeken naar E-mail door {email}
+nl-nl,email-skill.stop.looking.for,Ik stop met zoeken naar E-mail van {email}
+nl-nl,email-skill.stop.looking.for,Ik stop met zoeken naar mail afkomstig van {email}
+nl-nl,email-skill.stop.looking.for,Ik stop met zoeken naar mail door {email}
+nl-nl,email-skill.stop.looking.for,Ik stop met zoeken naar mail van {email}
+nl-nl,email-skill.stop.looking.for,Okay ik stop met zoeken voor nieuwe berichten {email}
+nl-nl,email-skill.stop.looking.for,Okay ik stop met zoeken voor nieuwe mail {email}
+nl-nl,email-skill.stop.looking.for,Okay ik stop met zoeken voor nieuwe email {email}
+nl-nl,email-skill.stop.poll.emails,Okay ik stop met zoeken naar nieuwe berichten
+nl-nl,email-skill.stop.poll.emails,Okay ik stop met zoeken naar nieuwe email
+nl-nl,email-skill.stop.poll.emails,Oké ik zal niet meer naar berichten zoeken
+nl-nl,email-skill.stop.poll.emails,Oké ik zal niet meer naar email zoeken
+nl-nl,email-skill.stop.poll.emails.last.email.removed,ik stop met zoeken voor nieuwe email omdat u geen E-mail Adres heeft opgegeven waar u van verwittigd wil worden
+nl-nl,email-skill.update.notify.data,Ik heb uw email Voorkeuren ververst
+nl-nl,email-skill.update.notify.data,Oké ik heb uw email Voorkeuren ververst
+nl-nl,emby-skill.configuration_fail,Kan geen verbinding maken met Emby Server. Controleer je Configuratie op home.Mycroft.ai
+nl-nl,emby-skill.configuration_success,Succesvol verbinding gemaakt met Emby server op {hostname}
+nl-nl,emby-skill.diag_auth_fail,Kan niet Authenticeren bij de Emby Server. Controleer je Configuratie op home.Mycroft.ai
+nl-nl,emby-skill.diag_auth_success,Succesvol geauthenticeerd bij Emby Server!
+nl-nl,emby-skill.diag_public_info_fail,Emby Server op {host} lijkt onbereikbaar of reageert niet.
+nl-nl,emby-skill.diag_public_info_success,Goed! Ik kan verbinden met {ServerName} op {LocalAddress} draaiend op versie {Version}. Proberen te authenticeren.
+nl-nl,emby-skill.diag_start,Ik zal een diagnose test uitvoeren op de Emby skill connectie. Dit zal uitwijzen of de Server benaderbaar is en of ik kan authenticeren.
+nl-nl,emby-skill.diag_stop,Diagnose zal niet doorgaan.
+nl-nl,emby-skill.diagnostic,Diagnose is compleetik kan verbinden en authenticeren met de Emby Server. tijd voor wat Muziek!
+nl-nl,emby-skill.emby,Speelt {media}
+nl-nl,emby-skill.general_check_settings_logs,Bekijk alsjeblieft je instellingen op Mycroft.ai. Als dit probleem zich blijft voordoen bekijk de Mycroft geschiedenis voor meer informatie.
+nl-nl,emby-skill.play_fail,Niet mogelijk om {media} te vinden of af te spelen. Probeer opnieuw.
+nl-nl,emby-skill.play_fail,Niet mogelijk om {media} te vinden of te afspelen. Als dit probleem zich voor blijft doen bekijk je configureer instellingen op home.Mycroft.ai
+nl-nl,fairytalez-skill.continue,Vertel verder {story}
+nl-nl,fairytalez-skill.continue,Waar waren we gebleven? Oh ja hier. {story}
+nl-nl,fairytalez-skill.fairytalez,Ik ken meer dan 2000 sprookjes volksverhalen en fabels van over de hele wereld. Welke wil je horen?
+nl-nl,fairytalez-skill.from_fairytalez,Deze sprookjes komen van www punt fairytalez punt com. Zij houden van sprookjes! Bezoek hun website voor de grootste online collectie aan sprookjes volksverhalen en fabels.
+nl-nl,fairytalez-skill.i_know_that,( [{story}] ) is een goede. Laten we beginnen...
+nl-nl,fairytalez-skill.i_know_that,Ja {story} is een goeie. Hij gaat als volgt...
+nl-nl,fairytalez-skill.is_it_that,Is het deze?
+nl-nl,fairytalez-skill.is_it_that,Kan dat het zijn?
+nl-nl,fairytalez-skill.is_it_that,Zal ik je deze voorlezen?
+nl-nl,fairytalez-skill.is_it_that,Wil je dat horen?
+nl-nl,fairytalez-skill.let_me_think,Even kijken. Ken ik {story}
+nl-nl,fairytalez-skill.let_me_think,Nou ik moet even nadenken of ik ( [{story}] ) kan herinneren.
+nl-nl,fairytalez-skill.no_story,Dan weet ik niet welk verhaal je wilt horen.
+nl-nl,fairytalez-skill.no_story_to_continue,Er is geen verhaal om verder te vertellen
+nl-nl,fairytalez-skill.no_story_to_continue,Het spijt me - geen verhaallijn om door te gaan.
+nl-nl,fairytalez-skill.that_would_be,Ik het verhaal ( [{story}] ) vertellen.
+nl-nl,fairytalez-skill.that_would_be,Ik herinner mij het verhaal ( [{story}] )
+nl-nl,fairytalez-skill.title_by_author,( [{title}] ) door ( [{author}] )
+nl-nl,fallback-aiml.reset.memory,Kennisbank weer op nul zetten.
+nl-nl,fallback-aiml.reset.memory,Alles wissen
+nl-nl,fallback-aiml.reset.memory,Oké ik start m'n geheugen weer fris op.
+nl-nl,fallback-aiml.reset.memory,Hersenspoeling ingezet.
+nl-nl,fallback-recommendations-skill.skill.download.confirmation,De {{skill_name}} skill kan dat voor je doen. Wil je dat ik die download?
+nl-nl,fallback-recommendations-skill.skill.download.confirmation,Ik heb een skill met de naam {{skill_name}} gevonden die je daar mee zou kunnen helpen. Wil je dat ik die download?
+nl-nl,fallback-recommendations-skill.skill.download.refused,Oke.
+nl-nl,fallback-recommendations-skill.skill.download.refused,Akkoord.
+nl-nl,fallback-recommendations-skill.skill.downloading,Wacht even ik ben de {{skill_name}} skill aan het downloaden.
+nl-nl,fallback-recommendations-skill.skill.downloading,Wacht even ik ben de {{skill_name}} skill aan het downloaden.
+nl-nl,fallback-recommendations-skill.skill.downloading,Een momentje ik ben de {{skill_name}} skill aan het downloaden.
+nl-nl,fallback-recommendations-skill.skill.downloading,Oke laat me de {{skill_name}} skill downloaden.
+nl-nl,fallback-recommendations-skill.skill.downloading,Wacht een moment terwijl ik de {{skill_name}} skill download.
+nl-nl,fallback-recommendations-skill.skill.downloading,Oke ik ben de {{skill_name}} skill aan het downloaden.
+nl-nl,homeassistant.homeassistant.automation.trigger,geactiveerde automatisering
+nl-nl,homeassistant.homeassistant.automation.trigger,geactiveerd
+nl-nl,homeassistant.homeassistant.automation.trigger,{{dev_name}} was geactiveerd.
+nl-nl,homeassistant.homeassistant.automation.trigger,{{dev_name}} was geactiveerd.
+nl-nl,homeassistant.homeassistant.automation.trigger,geactiveerd {{dev_name}}.
+nl-nl,homeassistant.homeassistant.brightness.badreq,Kies een helderheidsniveau tussen 0 en 100 alsjeblieft
+nl-nl,homeassistant.homeassistant.brightness.badreq,hoe helder? je kan een niveau tussen 0 en 100 kiezen.
+nl-nl,homeassistant.homeassistant.brightness.cantdim.dimmable,Kan {{dev_name}} niet dimmen. Het is niet dimbaar.
+nl-nl,homeassistant.homeassistant.brightness.cantdim.off,Kan {{dev_name}} niet dimmen. {{dev_name}} staat uit.
+nl-nl,homeassistant.homeassistant.brightness.cantdim.off,Kan {{dev_name}} niet dimmen. Schakel {{dev_name}} eerst aan alsjeblieft.
+nl-nl,homeassistant.homeassistant.brightness.cantdim.off,{{dev_name}} is niet dimbaar. Enkel apparaten die aanstaan zijn dimbaar
+nl-nl,homeassistant.homeassistant.brightness.decreased,{{dev_name}} gedimt tot {{brightness}} procent.
+nl-nl,homeassistant.homeassistant.brightness.decreased,{{dev_name}} gedimd.
+nl-nl,homeassistant.homeassistant.brightness.dimmed,Zet de helderheid van {{dev_name}} op {{brightness}} procent.
+nl-nl,homeassistant.homeassistant.brightness.increased,Verhoog de helderheid van {{dev_name}} naar {{helderheid}} procent.
+nl-nl,homeassistant.homeassistant.brightness.increased,Verhoog de helerheid van {{dev_name}}
+nl-nl,homeassistant.homeassistant.device.already,{{dev_name}} is reeds {{action}}
+nl-nl,homeassistant.homeassistant.device.already,Geen veranderingen gemaakt voor {{dev_name}}
+nl-nl,homeassistant.homeassistant.device.off,{{dev_name}} uitgeschakeld.
+nl-nl,homeassistant.homeassistant.device.off,{{dev_name}} uitgeschakeld.
+nl-nl,homeassistant.homeassistant.device.off,{{dev_name}} is nu uitgeschakeld.
+nl-nl,homeassistant.homeassistant.device.on,{{dev_name}} ingeschakeld.
+nl-nl,homeassistant.homeassistant.device.on,{{dev_name}} is ingeschakeld.
+nl-nl,homeassistant.homeassistant.device.on,{{dev_name}} ingeschakeld.
+nl-nl,homeassistant.homeassistant.device.toggle,{{dev_name}} geschakeld
+nl-nl,homeassistant.homeassistant.device.toggle,{{dev_name}} is geschakeld.
+nl-nl,homeassistant.homeassistant.device.unknown,Sorry ik kan de Home Assistant {{dev_name}} niet vinden.
+nl-nl,homeassistant.homeassistant.device.unknown,{{dev_name}} kan niet gevonden worden.
+nl-nl,homeassistant.homeassistant.device.unknown,Sorry {{dev_name}} is niet gevonden.
+nl-nl,homeassistant.homeassistant.device.unknown,Excuses ik kon {{dev_name}} niet vinden.
+nl-nl,homeassistant.homeassistant.error,Toegang tot home assistant server op {{url}} gefaald.
+nl-nl,homeassistant.homeassistant.error.http,Communicatie met de home assistant server is mislukt door {{code}} {{reason}}
+nl-nl,homeassistant.homeassistant.error.invalidurl,De url {{url}} heeft geen geldige home assistant server.
+nl-nl,homeassistant.homeassistant.error.offline,De Home assistant server lijkt offline te zijn.
+nl-nl,homeassistant.homeassistant.error.offline,Kon niet verbinden met de home assistant server.
+nl-nl,homeassistant.homeassistant.error.offline,The home assistant server reageert niet.
+nl-nl,homeassistant.homeassistant.error.setup,Configuur de home assistant vaardigheid op home.mycroft.ai
+nl-nl,homeassistant.homeassistant.error.sorry,Ik weet niet wat je wilt dat ik doe.
+nl-nl,homeassistant.homeassistant.error.sorry,Ik begrijp niet hoe ik met Home Assistant kan communiceren.
+nl-nl,homeassistant.homeassistant.error.sorry,Ik begrijp niet wat jij vraagt.
+nl-nl,homeassistant.homeassistant.error.ssl,De S S L configuratie van de home assistant server is ongeldig.
+nl-nl,homeassistant.homeassistant.error.wrong_password,De home assistant server heeft het ingestelde wachtwoord niet geaccepteerd.
+nl-nl,homeassistant.homeassistant.sensor,{{dev_name}} is momenteel {{value}} {{unit}}
+nl-nl,homeassistant.homeassistant.sensor,{{dev_name}} heeft de waarde van: {{value}} {{unit}}.
+nl-nl,homeassistant.homeassistant.sensor,{{dev_name}} is op dit moment {{value}} {{unit}}.
+nl-nl,homeassistant.homeassistant.sensor,{{dev_name}} is momenteel {{value}} {{unit}}
+nl-nl,homeassistant.homeassistant.set.thermostat,{{dev_name}} staat nu op {{value}} {{unit}}.
+nl-nl,homeassistant.homeassistant.tracker.found,Laatst geweten van {{dev_name}} is {{location}}.
+nl-nl,homeassistant.homeassistant.tracker.found,{{dev_name}} bevind zich in {{location}}.
+nl-nl,homeassistant.homeassistant.tracker.found,{{dev_name}} is gededecteerd in {{location}}.
+nl-nl,iss-tracker-skill.location.current,Het I S S hangt boven {{latitude}} breedtegraad {{longitude}} lengtegraad wat overeen komt met {{toponym}}
+nl-nl,iss-tracker-skill.location.current,Het ruimtestation hangt boven {{latitude}} breedtegraad {{longitude}} lengtegraad boven {{toponym}}
+nl-nl,iss-tracker-skill.location.current,Het zit op {{latitude}} breedtegraad en {{longitude}} lengtegraad boven {{toponym}}
+nl-nl,iss-tracker-skill.location.current,Het internationale ruimtestation cirkelt nu boven {{toponym}} op {{latitude}} breedtegraad en {{longitude}} lengtegraad
+nl-nl,iss-tracker-skill.location.current,Boven {{toponym}} op {{latitude}} breedtegraad en {{longitude}} lengtegraad
+nl-nl,iss-tracker-skill.location.unknown,Sorry {{latitude}} breedtegraad en {{longitude}} lengtegraad is niet mogelijk
+nl-nl,iss-tracker-skill.location.unknown,Sorry het ruimtestation bevindt zich op {{latitude}} breedtegraad en {{longitude}} lengtegraad maar ik weet niet waar dat is
+nl-nl,iss-tracker-skill.location.unknown,Het bevindt zich momenteel op {{latitude}} breedtegraad en {{longitude}} lengtegraad wat momenteel niet geprogrammeerd is in de database
+nl-nl,iss-tracker-skill.location.unknown,Het I S S hangt nu boven {{latitude}} breedtegraad en {{longitude}} lengtegraad maar hier is geen geografische element aan gekoppeld
+nl-nl,krunner-search-skill.krunner.recent,Ik laat je recente bestanden zien
+nl-nl,krunner-search-skill.krunner.search,Ik zoek lokaal voor {{ Query }}
+nl-nl,laugh.cancel,het lachen is gestopt
+nl-nl,laugh.cancel,ik zal niet meer lachen
+nl-nl,laugh.cancel_fail,ik ben niet aan het lachen
+nl-nl,lifx-mycroft.Color,{{naam}} wordt veranderd naar {{kleur}}.
+nl-nl,lifx-mycroft.Dim,{{name}} {{change}}
+nl-nl,lifx-mycroft.GroupError,Kan {{action}} niet toepassen op {{name}} omdat het een Groep is.
+nl-nl,lifx-mycroft.GroupError,Kan {{action}} niet toepassen op {{name}} omdat het een Groep is.
+nl-nl,lifx-mycroft.SetPercent,{{param}} wordt ingesteld op {{value}}.
+nl-nl,lifx-mycroft.SetPercent,{{param}} wordt veranderd naar {{value}}.
+nl-nl,lifx-mycroft.SetPercent,{{name}} {{param}} wordt ingesteld op {{value}}.
+nl-nl,lifx-mycroft.Switch,{{name}} wordt {{status}} gezet.
+nl-nl,lifx-mycroft.Switch,{{name}} wordt {{status}} gezet.
+nl-nl,lifx-mycroft.Temperature,{{name}} wordt {{temperature}}er gemaakt.
+nl-nl,mark-2.auto.noon,Het lijkt middag te zijn ik zal de helderheid aanpassen.
+nl-nl,mark-2.auto.sunrise,Okay de zon komt tevoorschijn ik zal de helderheid aanpassen
+nl-nl,mark-2.auto.sunrise,Okay het is zonnig ik zal de helderheid aanpassen
+nl-nl,mark-2.auto.sunset,Okay het wordt donker ik zal de helderheid aanpassen
+nl-nl,mark-2.brightness.error,Ik begrijp deze waarde niet geef me een helderheidswaarde tussen 0 en 100 procent.
+nl-nl,mark-2.brightness.not.found,Vertel me een helderheidspercentage of -niveau voor mijn gezicht
+nl-nl,mark-2.brightness.not.found,Welke helderheid zou je willen?
+nl-nl,mark-2.brightness.not.found.final,Sorry die helderheid begrijp ik niet.
+nl-nl,mark-2.brightness.not.found.final,Ik begrijp alleen dingen als 'vol' of 50%
+nl-nl,mark-2.brightness.set,Okay ik zet de helderheid op {val}.
+nl-nl,mark-2.brightness.set,Klinkt goed ik zet de helderheid op {val}
+nl-nl,mark-2.no.web.setting,Daar is geen oogkleur ingesteld
+nl-nl,mark-2.no.web.setting,Ik heb geen webinstellingen gevonden voor oogkleur
+nl-nl,mark-2.rebooting,Nu opnieuw opstarten ik ben zo terug
+nl-nl,mark-2.rebooting,Opnieuw opstarten binnen een paar minuten terug
+nl-nl,picroft-google-aiy-voicekit-skill.error.initialize,Ik heb problemen met het opstarten van de Google A I Y voice kit Skill. De Skill laadt niet.
+nl-nl,plasma-activities-skill.activities.create,Jouw activiteit {{ ActivityName }} is aangemaakt
+nl-nl,plasma-activities-skill.activities.remove,Activiteit is verwijderd
+nl-nl,plasma-activities-skill.activities.show,Activiteiten worden vertoond
+nl-nl,plasma-activities-skill.activities.stop,Activiteit {{ StopActivityName }} is gestopt
+nl-nl,plasma-activities-skill.activities.switch,Wisselen naar activiteit {{ SwitchActivityName }}
+nl-nl,query.noAnswer,Sorry ik weet het antwoord daarop niet
+nl-nl,query.noAnswer,Ik heb het antwoord daarvoor niet
+nl-nl,query.noAnswer,Ik weet het niet
+nl-nl,query.noAnswer,Geen idee
+nl-nl,remember-skill.delete,Moet ik deze uitdrukking verwijderen: {{PHRASE}}?
+nl-nl,remember-skill.deleteall,Moet ik alles wat ik heb onthouden verwijderen?
+nl-nl,remember-skill.forgotten,Het is vergeten.
+nl-nl,remember-skill.gotphrase,Ik zal {{REMEMBER}} voor je onthouden.
+nl-nl,remember-skill.gotphrase,Ik zal {{REMEMBER}} voor jou onthouden.
+nl-nl,remember-skill.holdon,Ik zal deze uitdrukking onthouden.
+nl-nl,remember-skill.iremembered,Ik herinner: {{REMEMBER}}
+nl-nl,remember-skill.short,Ik kan alleen zinnen met woorden langer dan vier letters onthouden. Herformuleer alsjeblieft.
+nl-nl,remember-skill.sorry,Het spijt me ik kan me geen enkele uitdrukking herinneren!
+nl-nl,remember-skill.sorryforget,Het spijt me er is iets fout gegaan ik kon niets vergeten!
+nl-nl,remember-skill.sorrynophrase,Het spijt me ik kon geen uitdrukking vinden die overeenkomt met jouw verzoek.
+nl-nl,speedtest-skill.error,Er is iets fout gegaan ik kon geen snelheidstest uitvoeren... sorry.
+nl-nl,speedtest-skill.result,De download snelheid is {{DOWN}} Megabit per seconde en de upload snelheid is {{UP}} Megabit per seconde.
+nl-nl,speedtest-skill.running,De snelheidstest wordt nu gestart ik ben zo terug met de resultaten.
+nl-nl,white-house-adventure.LeavingZork,Het mysterieuze koninkrijk van Zork
+nl-nl,white-house-adventure.LeavingZork,Zork nu verlaten
+nl-nl,white-house-adventure.LeavingZork,Zork verlaten
+nl-nl,white-house-adventure.NoSave,De game is nog niet opgeslagen
+nl-nl,white-house-adventure.NoSave,Er is geen opgeslagen spel
+nl-nl,white-house-adventure.SaveDeleted,opgeslagen spel verwijderd
+nl-nl,white-house-adventure.SaveDeleted,verwijder het opgeslagen spel
+nl-nl,wikiquote-skill.notfound,Ik kan geen citaten vinden over {{subject}}

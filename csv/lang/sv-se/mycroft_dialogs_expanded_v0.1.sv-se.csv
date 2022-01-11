@@ -1,0 +1,344 @@
+sv-se,Crystal-Ball-Mycroft-Skill.random.answer,Ja
+sv-se,Crystal-Ball-Mycroft-Skill.random.answer,Nej
+sv-se,Crystal-Ball-Mycroft-Skill.random.answer,Fråga senare
+sv-se,Crystal-Ball-Mycroft-Skill.random.answer,Definitivt
+sv-se,Crystal-Ball-Mycroft-Skill.random.answer,Naturligtvis inte
+sv-se,Crystal-Ball-Mycroft-Skill.random.answer,Visst
+sv-se,Crystal-Ball-Mycroft-Skill.random.answer,Nix
+sv-se,Crystal-Ball-Mycroft-Skill.random.answer,Varför inte?
+sv-se,Crystal-Ball-Mycroft-Skill.random.answer,Inget att hoppas på
+sv-se,Crystal-Ball-Mycroft-Skill.random.answer,Självklart!
+sv-se,Crystal-Ball-Mycroft-Skill.random.answer,Inte förrän korna kommer hem
+sv-se,Number-Guess-Mycroft-Skill.correct,Det är rätt!
+sv-se,Number-Guess-Mycroft-Skill.correct,Helt rätt!
+sv-se,Number-Guess-Mycroft-Skill.correct,Korrekt!
+sv-se,Number-Guess-Mycroft-Skill.correct,Just det numret var det!
+sv-se,Number-Guess-Mycroft-Skill.correct,Bra jobbat!
+sv-se,Number-Guess-Mycroft-Skill.correct,Du vann!
+sv-se,Number-Guess-Mycroft-Skill.get.lower,Vad vill du ha för lägre gräns?
+sv-se,Number-Guess-Mycroft-Skill.get.upper,Vad ska den övre gränsen vara?
+sv-se,Number-Guess-Mycroft-Skill.guess,Gissa numret
+sv-se,Number-Guess-Mycroft-Skill.guess,Vad tror du numret är
+sv-se,Number-Guess-Mycroft-Skill.guess,Gissa
+sv-se,Number-Guess-Mycroft-Skill.input.error,Jag kunde inte förstå vad du sa
+sv-se,Number-Guess-Mycroft-Skill.input.error,Något gick fel när jag försökte förstå det där
+sv-se,Number-Guess-Mycroft-Skill.input.error,Ett inmatningsfel inträffade
+sv-se,Number-Guess-Mycroft-Skill.input.error,Kan du säga det igen?
+sv-se,Number-Guess-Mycroft-Skill.invalid.input,Det var ett felaktigt svar. Jag behöver ett nummer
+sv-se,Number-Guess-Mycroft-Skill.invalid.input,Vänligen svara med ett nummer
+sv-se,Number-Guess-Mycroft-Skill.invalid.input,Du måste svara med ett nummer
+sv-se,Number-Guess-Mycroft-Skill.invalid.input,Det är inte ett nummer
+sv-se,Number-Guess-Mycroft-Skill.start.game,Okej nu kör vi
+sv-se,Number-Guess-Mycroft-Skill.start.game,Låt spelen börja
+sv-se,Number-Guess-Mycroft-Skill.start.game,Startar spelet
+sv-se,Number-Guess-Mycroft-Skill.start.game,Låt oss börja
+sv-se,Number-Guess-Mycroft-Skill.start.game,Nu ska vi se vad du går för
+sv-se,Number-Guess-Mycroft-Skill.start.game,Ja visst. Nu spelar vi nummergissningsspelet
+sv-se,Number-Guess-Mycroft-Skill.too.high,För högt
+sv-se,Number-Guess-Mycroft-Skill.too.low,För lågt
+sv-se,aircrack.cannot.sudo,Fel jag verkar som jag inte kan sudo aircrack kommandon utan ett lösenord. Se github.com/JonStratton/skill-aircrack för anteckningar om sudo-åtkomst.
+sv-se,aircrack.captured.handshake,Fångad handskakning
+sv-se,aircrack.confirm.permission,Det är olagligt att komma åt ett wifi-nätverk som du inte är behörig att använda. Bekräfta att du har behörighet att ansluta till detta nätverk genom att säga Ja säg annars Nej för att avbryta.
+sv-se,aircrack.deauthing.clients,Deaktivera klienter som är anslutna till {{selected_network}} nätverket.
+sv-se,aircrack.interfaces.are,Följande gränssnitt är tillgängliga: {{available_interfaces}}
+sv-se,aircrack.interfaces.are,Här är de tillgängliga gränssnitten: {{available_interfaces}
+sv-se,aircrack.interfaces.are,{{available_interfaces}} är tillgängliga.
+sv-se,aircrack.monitor.stopped.early,Övervakningen stannade innan handskakningen fångades.
+sv-se,aircrack.networks.are,Följande nätverk är tillgängliga: {{available_networks}}
+sv-se,aircrack.no.interfaces,Det finns inga tillgängliga gränssnitt.
+sv-se,aircrack.no.networks,Det finns inga tillgängliga nätverk.
+sv-se,aircrack.no.password,Inget lösenord hittades.
+sv-se,aircrack.no.such.interface,Inget sådant gränssnitt hittades.
+sv-se,aircrack.no.such.network,Inget sådant nätverk hittades.
+sv-se,aircrack.recovered.password,Hittade följande lösenord: {{password}}
+sv-se,aircrack.select.interface.first,Välj gränssnitt först.
+sv-se,aircrack.selected.interface,Valt gränssnittet {{selected_interface}}.
+sv-se,aircrack.selected.network,Valde {{selected_network}} nätverk.
+sv-se,aircrack.start.monitor,Startar övervakningen
+sv-se,aircrack.stop.monitor,Stoppar övervakningen
+sv-se,auto-volume-skill.activate,OK
+sv-se,auto-volume-skill.activate,Automatisk volym aktiverad
+sv-se,auto-volume-skill.activate,Jag har aktiverat automatisk volym
+sv-se,auto-volume-skill.deactivate,OK
+sv-se,auto-volume-skill.deactivate,Automatisk volym är inaktiverad
+sv-se,auto-volume-skill.deactivate,Jag har nu inaktiverat automatisk volym
+sv-se,auto-volume-skill.reset,Jag har nu återställt automatisk volym
+sv-se,cocktail.NotFound,Ursäkta men jag kunde inte hitta den önskade drinken
+sv-se,cocktail.NotFound,Jag kunde tyvärr inte hitta den
+sv-se,cocktail.YouWillNeed,Du kommer behöva {ingredients} och {final_ingredient}
+sv-se,cocktail.YouWillNeed,Ingredienserna som ingår är {ingredients} och {final_ingredient}
+sv-se,cocktail.YouWillNeed,De nödvändiga ingredienserna är: {ingredients} och {final_ingredient}
+sv-se,count-skill.count_error,Jag förstår inte
+sv-se,count-skill.count_error,Jag saknar nått
+sv-se,count-skill.count_error,Kan du upprepa?
+sv-se,count-skill.count_error,Ledsen jag hörde inte vad du sa
+sv-se,count-skill.count_start,Räknar till {number}. Startar nu!
+sv-se,count-skill.count_stop,Klar!
+sv-se,count-skill.count_stop,Färdig!
+sv-se,count-skill.countdown_start,Räknar ner från {number}. Börjar nu!
+sv-se,count-skill.countdown_stop,Klar!
+sv-se,count-skill.countdown_stop,Färdig!
+sv-se,dice-skill.multiple.modificator.result,Dina siffror är {result} aderad till totalt {total}
+sv-se,dice-skill.multiple.result,Dina nummer är {result}
+sv-se,dice-skill.range.needed,Du behöver ange ett intervall
+sv-se,dice-skill.range.needed,Jag behöver ett intervall för att göra det
+sv-se,dice-skill.range.needed,Berätta vilket intervall du vill ha dina nummer från
+sv-se,dice-skill.single.modificator.result,Resultatet är {total}.
+sv-se,dice-skill.single.result,Resultatet är {result}.
+sv-se,dice-skill.single.result,Ditt nummer är {result}
+sv-se,email-skill.already.looking.for.all,Jag letar redan efter ny e-post
+sv-se,email-skill.already.looking.for.all,Jag har redan letat efter ny e-post
+sv-se,email-skill.already.looking.for.all,Jag letar redan efter ny e-post
+sv-se,email-skill.already.looking.for.specific,Jag letar redan efter e-postmeddelanden från {email}
+sv-se,email-skill.already.looking.for.specific,Jag har redan letat efter ny e-post från {email}
+sv-se,email-skill.already.looking.for.specific,Jag letar redan efter e-post från {email}
+sv-se,email-skill.cancel.looking.for.all.look.specific,Jag letar för närvarande efter all ny e-post vill du att jag bara ska meddela dig om e-postmeddelanden via {email}
+sv-se,email-skill.cancel.looking.for.all.look.specific,Jag har redan letat efter ny e-post vill att jag bara ska meddela dig om ny e-post från {email}
+sv-se,email-skill.cancel.looking.for.specific.look.all,Jag söker för närvarande {email} vill du att jag ska leta efter all ny e-post istället
+sv-se,email-skill.cancel.looking.for.specific.look.all,Just nu letar jag bara efter e-post från {email} Vill du att jag ska leta efter all e-post istället
+sv-se,email-skill.cancel.looking.for.specific.look.all,Vill du att jag ska leta efter all e-post istället för att bara leta efter e-post från {email}
+sv-se,email-skill.error.getting.mail,Det uppstod ett problem med att hämta din e-post Kolla dina inloggningsuppgifter samt serverinformationen
+sv-se,email-skill.error.getting.mail,Kolla din inloggningsinformation och serverinformationen då det uppstod ett fel med att hämta din epost
+sv-se,email-skill.error.getting.mail,Jag kan inte ansluta till din e-postserver Kolla ditt lösenord och din serverinformation
+sv-se,email-skill.list.subjects,Ditt epost {message_num} är från {sender} Ämnet är {subject}
+sv-se,email-skill.list.subjects,Meddelandet {message_num} epostämne är {subject} Det är från {sender}
+sv-se,email-skill.more.emails,skulle du vilja höra mer
+sv-se,email-skill.more.emails,vill du höra fler av dina epostmeddelanden
+sv-se,email-skill.more.emails,vill du höra mer
+sv-se,email-skill.no.emails.from,Det finns ingen epost från {sender}
+sv-se,email-skill.no.emails.from,Du har ingen epost från {sender}
+sv-se,email-skill.no.emails.from,Du har inte fått några epostmeddelanden från {sender}
+sv-se,email-skill.no.more.emails,okej
+sv-se,email-skill.no.new.email,Det finns inga nya epostmeddelanden
+sv-se,email-skill.no.new.email,Det finns inga nya epostmeddelande
+sv-se,email-skill.no.new.email,Det finns inga nya epostmeddelande
+sv-se,email-skill.no.new.email,Det finns inga nya epostmeddelanden
+sv-se,email-skill.no.new.email,Du har inga nya epostmeddelanden
+sv-se,email-skill.no.new.email,Du har inget nytt epostmeddelande
+sv-se,email-skill.no.new.email,Du har inget nytt epostmeddelande
+sv-se,email-skill.no.new.email,Du har inga nya epostmeddelanden
+sv-se,email-skill.not.looking.for,Jag letar för närvarande inte efter e-post från {email}
+sv-se,email-skill.not.looking.for,Jag letar inte efter e-post från {email}
+sv-se,email-skill.not.looking.for,Just nu letar jag inte efter e-post från {email}
+sv-se,email-skill.notify.read.email,Du har {size} ny e-post vill du höra dem
+sv-se,email-skill.notify.read.email,Det finns {size} ny e-post Vill du höra dem
+sv-se,email-skill.notify.read.email,Vill du höra din {size} e-postmeddelanden
+sv-se,email-skill.poll.emails.not.started,Jag letar inte efter ny e-post
+sv-se,email-skill.poll.emails.not.started,För närvarande letar jag inte efter ny e-post
+sv-se,email-skill.setup,För att ställa in epostfunktionen vänligen gå till home punkt mycroft punkt ai för att fylla i din epostinformation
+sv-se,email-skill.setup,Du behöver ställa in e-postfunktion För att göra det vänligen gå till home punkt mycroft punkt ai för att fylla i din e-postinformation
+sv-se,email-skill.start.poll.email,Jag meddelar dig om ny e-post
+sv-se,email-skill.start.poll.email,Okej jag börjar meddela dig om ny e-post
+sv-se,email-skill.start.poll.email,Jag börjar leta efter ny e-post
+sv-se,email-skill.stop.looking.for,Jag kommer att sluta leta efter ny e-post från {email}
+sv-se,email-skill.stop.looking.for,Okej jag ska sluta leta efter ny e-post från {email}
+sv-se,email-skill.stop.poll.emails,Okej jag ska sluta leta efter ny e-post
+sv-se,email-skill.stop.poll.emails,Okej jag ska inte leta efter ny e-post längre
+sv-se,email-skill.stop.poll.emails.last.email.removed,Jag slutar att leta efter ny e-post eftersom det inte finns några e-postadresser du vill bli meddelad om
+sv-se,email-skill.update.notify.data,Jag uppdaterade dina e-postinställningar
+sv-se,email-skill.update.notify.data,Ok jag har uppdaterat dina e-postinställningar
+sv-se,emby-skill.configuration_fail,Det går inte att ansluta till Emby-servern. Kontrollera eller konfigurera din konfiguration på home.Mycroft.ai
+sv-se,emby-skill.configuration_success,Har anslutits till Emby-servern på {hostname}
+sv-se,emby-skill.diag_auth_fail,Jag kan inte autentisera till embyservern. Kontrollera eller konfigurera din konfiguration på home.Mycroft.ai
+sv-se,emby-skill.diag_auth_success,Jag har autentiserat mig till embyservern!
+sv-se,emby-skill.diag_public_info_fail,Emby-servern på {host} verkar inte vara tillgänglig eller svarar inte.
+sv-se,emby-skill.diag_public_info_success,Bra! Jag har åtkomst till {ServerName} som finns på {LocalAddress} som kör version {Version}. Försöker att autentisera.
+sv-se,emby-skill.diag_start,Jag ska utföra en diagnostisk kontroll av anslutningen till embyfärdigheten. Detta kommer att kontrollera om servern är tillgänglig och om jag kan autentisera.
+sv-se,emby-skill.diag_stop,Diagnosen fortsätter inte.
+sv-se,emby-skill.diagnostic,Diagnosen är klar Jag kan ansluta och autentisera till embyservern. Nu är det dags att spela lite musik!
+sv-se,emby-skill.emby,Spelar {media}
+sv-se,emby-skill.general_check_settings_logs,Kontrollera dina inställningar på Mycroft.ai. Om problemet kvarstår kontrollera Mycroft-loggarna för mer information.
+sv-se,emby-skill.play_fail,Kunde inte hitta eller spela upp {media}. Vänligen försök igen.
+sv-se,emby-skill.play_fail,Det gick inte att hitta eller spela {media}. Var god försök igen. Om detta fortsätter att hända kontrollera din konfiguration på home.Mycroft.ai
+sv-se,fairytalez-skill.continue,Fortsätt berätta {story}
+sv-se,fairytalez-skill.continue,Hur långt kom vi. Åh ja här. {story}
+sv-se,fairytalez-skill.fairytalez,Jag känner till mer än 2000 sagor folksaga och fabler från hela världen. Vilken skulle du vilja höra ?
+sv-se,fairytalez-skill.from_fairytalez,Dessa sagor är från www punkt fairytalez punkt com. De älskar sagor! Besök webbplatsen där du hittar den största samlingen av sagor folksaga och fabler online.
+sv-se,fairytalez-skill.i_know_that,{story} är bra. Låt oss börja...
+sv-se,fairytalez-skill.i_know_that,Ja {story} är bra. Den går så här...
+sv-se,fairytalez-skill.is_it_that,Är det den?
+sv-se,fairytalez-skill.is_it_that,Kan det vara den?
+sv-se,fairytalez-skill.is_it_that,Ska jag berätta den här?
+sv-se,fairytalez-skill.is_it_that,Vill du höra den?
+sv-se,fairytalez-skill.let_me_think,låt mig se. Känner jag till {story}
+sv-se,fairytalez-skill.let_me_think,tja jag måste tänka om jag kommer ihåg {story}
+sv-se,fairytalez-skill.no_story,Då vet jag inte vilken berättelse du vill höra.
+sv-se,fairytalez-skill.no_story_to_continue,Det finns ingen berättelse att fortsätta
+sv-se,fairytalez-skill.no_story_to_continue,Jag är ledsen - ingen berättelse att fortsätta.
+sv-se,fairytalez-skill.that_would_be,Jag kan berätta historien {story}.
+sv-se,fairytalez-skill.that_would_be,Jag minns {story}.
+sv-se,fairytalez-skill.title_by_author,{title} av {author}
+sv-se,fallback-aiml.reset.memory,Återställer kunskaps-databas
+sv-se,fallback-aiml.reset.memory,glöm allt
+sv-se,fallback-aiml.reset.memory,Okej jag kommer nu återställa mitt minne
+sv-se,fallback-aiml.reset.memory,Hjärnradering påbörjad
+sv-se,fallback-unknown.question,Jag är ledsen man jag kan tyvärr inte hjälpa dig med det här
+sv-se,fallback-unknown.question,Jag vet inte riktigt hur jag ska hjälpa till med detta
+sv-se,fallback-unknown.question,Jag förstår inte men jag lär mig nya saker varje dag
+sv-se,fallback-unknown.question,Jag vet inte hur jag ska svara på det här
+sv-se,fallback-unknown.unknown,Jag är ledsen jag förstår inte
+sv-se,fallback-unknown.unknown,Jag fattar inte vad du menar
+sv-se,fallback-unknown.unknown,Jag förstår inte
+sv-se,fallback-unknown.unknown,Jag förstår inte men jag lär mig nytt hela tiden
+sv-se,fallback-unknown.unknown,Jag förstog inte riktigt
+sv-se,fallback-unknown.unknown,Du kan behöva omformulera det där
+sv-se,fallback-unknown.who.is,Jag vet inte vem det är
+sv-se,fallback-unknown.who.is,Det är ingen jag känner till
+sv-se,fallback-unknown.why,Jag vet inte riktigt hur jag kan hjälpa dig med det här
+sv-se,fallback-unknown.why,Ingen aning
+sv-se,fallback-unknown.why,Jag är osäker
+sv-se,fallback-unknown.why,Jag är osäker på hur jag kan hjälpa till med det där
+sv-se,fallback-unknown.why,Jag gör mitt bästa för att lära mig nytt
+sv-se,ip.dot,punkt
+sv-se,ip.my address is,min I.P adress är {{ip}}
+sv-se,ip.my address is,jag är på adressen {{ip}}
+sv-se,ip.my address on X is Y,på {{interface}} är min I.P adress {{ip}}.
+sv-se,ip.no network connection,Jag saknar anslutning
+sv-se,ip.no network connection,Jag är inte kopplad mot något nätverk
+sv-se,iss-tracker-skill.location.current,I S S är över {{latitud}} latitud {{longitud}} longitud som motsvarar {{toponym}}
+sv-se,iss-tracker-skill.location.current,Rymdstationen är på {{latitud}} latitud {{longitud}} longitud över {{toponym}}
+sv-se,iss-tracker-skill.location.current,Den är på {{latitud}} latitud {{longitud}} longitud över {{toponym}}
+sv-se,iss-tracker-skill.location.current,Den internationella rymdstationen är nu över {{toponym}} vid {{latitude}} latitud {{longitude}} longitud
+sv-se,iss-tracker-skill.location.current,Över {{toponym}} vid {{latitud}} latitud och {{longitud}} longitud
+sv-se,iss-tracker-skill.location.unknown,Ledsen {{latitud}} latitud {{longitud}} longitud är inte känd
+sv-se,iss-tracker-skill.location.unknown,Ledsen Rymdstationen är på {{latitud}} latitud {{longitud}} longitud men jag vet inte var det är
+sv-se,iss-tracker-skill.location.unknown,Det är på {{latitud}} latitud {{longitud}} longitud som inte är kodat i denna databas
+sv-se,iss-tracker-skill.location.unknown,ISS är nu över {{latitude}} latitude {{longitude}} longitud men det finns ingen tillhörande geografisk funktion
+sv-se,laugh.cancel,skratt stoppad
+sv-se,laugh.cancel,jag skrattar inte längre
+sv-se,laugh.cancel_fail,jag skrattar inte
+sv-se,lifx-mycroft.Color,Gör {{name}} {{color}}.
+sv-se,lifx-mycroft.Dim,{{change}}er {{name}}.
+sv-se,lifx-mycroft.GroupError,Kan inte {{action}} {{name}} eftersom det är en grupp.
+sv-se,lifx-mycroft.GroupError,Kan inte {{action}} {{name}} eftersom det är en grupp.
+sv-se,lifx-mycroft.SetPercent,Sätter {{param}} till {{value}}.
+sv-se,lifx-mycroft.SetPercent,Ändrar {{param}} till {{value}}.
+sv-se,lifx-mycroft.SetPercent,Ställer {{name}} {{param}} till {{value}}.
+sv-se,lifx-mycroft.Switch,Sätter {{status}} {{name}}.
+sv-se,lifx-mycroft.Switch,Ställer {{name}} {{status}}.
+sv-se,lifx-mycroft.Temperature,Gör {{name}} {{temperature}}igare.
+sv-se,list-manager-skill.add.item,{{item_name}} har lagts till i {{list_name}} listan.
+sv-se,list-manager-skill.add.list,Din nya lista {{list_name}} har lagts till.
+sv-se,list-manager-skill.and,och
+sv-se,list-manager-skill.cancelled,Avbruten.
+sv-se,list-manager-skill.confirm.deletion,Är du säker på att du vill ta bort {{element}}?
+sv-se,list-manager-skill.del.item,{{item_name}} har tagits bort från {{list_name}} listan.
+sv-se,list-manager-skill.del.list,Din lista {{list_name}} har tagits bort.
+sv-se,list-manager-skill.item.not.found,{{item_name}} finns inte i {{list_name}} listan.
+sv-se,list-manager-skill.list.found,Du har redan en lista som heter {{list_name}}.
+sv-se,list-manager-skill.list.not.found,Du verkar inte ha en lista som heter {{list_name}}.
+sv-se,list-manager-skill.list.not.found,Jag kunde inte hitta {{list_name}} bland dina listor.
+sv-se,list-manager-skill.no.items,Du har inga artiklar i {{list_name}}.
+sv-se,list-manager-skill.no.lists,Du har inga listor än.
+sv-se,list-manager-skill.read.items,I din {{list_name}} lista har du {{items}}
+sv-se,list-manager-skill.read.lists,För närvarande har du {{listor_namn}} {{list}}.
+sv-se,mark-2.auto.noon,Det verkar vara mitt på dagen jag kommer att justera ljusstyrkan.
+sv-se,mark-2.auto.sunrise,Okej solen kommer ut jag kommer att justera ljusstyrkan
+sv-se,mark-2.auto.sunrise,Okej solen är ute ställer in ljusstyrkan
+sv-se,mark-2.auto.sunset,Okej det blir mörkt kommer jag att justera ljusstyrkan därefter.
+sv-se,mark-2.brightness.error,Jag förstår inte den ljusstyrkan ge mig ett ljusstyrka på från 0 till 100 procent.
+sv-se,mark-2.brightness.not.found,Berätta för mig en ljusstyrka eller en nivå för mitt ansikte
+sv-se,mark-2.brightness.not.found,Vad ljusstyrka eller procentsats vill du ha?
+sv-se,mark-2.brightness.not.found.final,Ledsen jag förstår inte den ljusstyrkan.
+sv-se,mark-2.brightness.not.found.final,Jag förstår bara saker som 'full' eller 50%
+sv-se,mark-2.brightness.set,Okej ställer in ljusstyrkan på {val}.
+sv-se,mark-2.brightness.set,Låter bra ställer in ljusstyrkan på {val}
+sv-se,mark-2.no.web.setting,Ingen ögonfärg har ställts in där
+sv-se,mark-2.no.web.setting,Jag hittade ingen webbinställning för ögonfärg
+sv-se,mark-2.rebooting,Startar om nu jag kommer tillbaka
+sv-se,mark-2.rebooting,Startar om tillbaka om några minuter
+sv-se,moviemaster.bad.movie.genre.catagory,Jag kan inte hitta några television serier med genren {genre}
+sv-se,moviemaster.bad.movie.genre.catagory,Jag kan inte hitta några TV serier med genren {genre}
+sv-se,moviemaster.bad.tv.genre.catagory,Jag kan inte hitta några television serier med genren {genre}
+sv-se,moviemaster.bad.tv.genre.catagory,Jag kan inte hitta några TV serier med genren {genre}
+sv-se,moviemaster.fallback.api,Faller tillbaka till standard A P I
+sv-se,moviemaster.genre.movie.search,filmerna med genren {genre} är;
+sv-se,moviemaster.genre.tv.search,TV serierna med genren {genre} är;
+sv-se,moviemaster.genre.tv.search,television serierna med genren {genre} är;
+sv-se,moviemaster.movie.cast,Här är rollen från {movie}; {actorlist} och {lastactor}
+sv-se,moviemaster.movie.cast,Följande personer agerar i filmen {movie}; {actorlist} och {lastactor}
+sv-se,moviemaster.movie.cast,Följande personer spelar i filmen {movie}; {actorlist} och {lastactor}
+sv-se,moviemaster.movie.cast,Följande personer är stjärnan i filmen {movie}; {actorlist} och {lastactor}
+sv-se,moviemaster.movie.description,filmen {movie} handlar om detta.
+sv-se,moviemaster.movie.description,film {movie} handlar om detta.
+sv-se,moviemaster.movie.description,här är en sammanfattning av film {movie}.
+sv-se,moviemaster.movie.description,här är en sammanfattning av filmen {movie}.
+sv-se,moviemaster.movie.genre.multiple,Film finns i en av genrerna; {genrelist} och {genrelistlast}
+sv-se,moviemaster.movie.genre.multiple,Filmen finns i en av genrerna; {genrelist} och {genrelistlast}
+sv-se,moviemaster.movie.genre.multiple,Videon finns i en av genrerna; {genrelist} och {genrelistlast}
+sv-se,moviemaster.movie.genre.multiple,Människor anser att filmen är {genrelist} eller {genrelistlast}
+sv-se,moviemaster.movie.genre.multiple,Människor anser att film är {genrelist} eller {genrelistlast}
+sv-se,moviemaster.movie.genre.single,filmen {movie} kan betraktas som en {genre}
+sv-se,moviemaster.movie.genre.single,Film {movie} kan betraktas som en {genre}
+sv-se,moviemaster.movie.genre.single,Du hittar filmen {movie} i {genre} sektionen
+sv-se,moviemaster.movie.genre.single,Du hittar videon {movie} i {genre} sektionen
+sv-se,moviemaster.movie.info.response,{movie} släpptes {year} med en budget på {budget} dollar.
+sv-se,moviemaster.movie.popular,De nya populära filmerna ute nu är {popularlist}.
+sv-se,moviemaster.movie.popular,{popularlist} toppar filmlistorna just nu.
+sv-se,moviemaster.movie.production.multiple,Företagen {companies} och {lastcompany} producerade filmen {movie}
+sv-se,moviemaster.movie.production.multiple,{companies} och {lastcompany} producerade filmen {movie}
+sv-se,moviemaster.movie.production.single,Produktionsföretaget {company} producerade filmen {movie}
+sv-se,moviemaster.movie.recommendations,Jag rekommenderar filmerna {movielist} om du gillar film {movie}
+sv-se,moviemaster.movie.recommendations,Jag rekommenderar filmerna {movielist} om du gillar filmen {movie}
+sv-se,moviemaster.movie.recommendations,Jag rekommenderar filmerna {movielist} om du gillar videon {movie}
+sv-se,moviemaster.movie.recommendations,Filmerna {movielist} är ett bra val om du gillar filmen {movie}
+sv-se,moviemaster.movie.recommendations,Filmerna {movielist} är ett bra val om du gillar videon {movie}
+sv-se,moviemaster.movie.runtime,Film {movie} varar i {runtime} minuter.
+sv-se,moviemaster.movie.runtime,Filmen {movie} varar i {runtime} minuter.
+sv-se,moviemaster.movie.runtime,Videon {movie} varar i {runtime} minuter.
+sv-se,moviemaster.movie.runtime,Film {movie} är {runtime} minuter lång.
+sv-se,moviemaster.movie.runtime,Filmen {movie} är {runtime} minuter lång.
+sv-se,moviemaster.movie.runtime,Videon {movie} är {runtime} minuter lång.
+sv-se,moviemaster.movie.runtime,Titta på {movie}; Du kan förvänta dig cirka {runtime} minuter innan du kan ta en badrumsavbrott.
+sv-se,moviemaster.movie.top,Det här är de mest populära filmerna som visas nu; {toplist}
+sv-se,moviemaster.movie.top,Det här är de mest populära filmerna ute nu; {toplist}
+sv-se,moviemaster.movie.top,Det här är de bästa filmerna som visas nu; {toplist}
+sv-se,moviemaster.movie.top,Det här är de bästa filmerna ute nu; {toplist}
+sv-se,moviemaster.movie.top,{toplist} är de mest populära filmerna som spelar nu.
+sv-se,moviemaster.movie.top,{toplist} är de mest populära filmerna ute nu.
+sv-se,moviemaster.movie.top,{toplist} är de bästa filmerna som spelar nu.
+sv-se,moviemaster.movie.top,{toplist} är de bästa filmerna ute nu.
+sv-se,moviemaster.movie.year,Film {movie} släpptes {year}
+sv-se,moviemaster.movie.year,Film {movie} gjordes {year}
+sv-se,moviemaster.movie.year,Filmen {movie} släpptes {year}
+sv-se,moviemaster.movie.year,Filmen {movie} gjordes {year}
+sv-se,moviemaster.movie.year,Videon {movie} släpptes {year}
+sv-se,moviemaster.movie.year,Videon {movie} gjordes {year}
+sv-se,moviemaster.no.api,Du måste ange din T M D B A P I-nyckel på home punkt mycroft punkt A I för att använda movie master skickligheten
+sv-se,moviemaster.no.info,Jag är ledsen. Jag kan inte hitta någon information om filmen {movie}
+sv-se,moviemaster.no.info,Jag är ledsen. Jag kan inte hitta någon information om videon {movie}
+sv-se,moviemaster.no.info.general,Jag är ledsen jag kan inte hitta listan du letar efter just nu; vänligen fråga igen senare.
+sv-se,moviemaster.no.valid.api,A P I-nyckeln som du angav är inte giltig. Se till läs readme-filen för instruktioner om hur du får en.
+sv-se,personal.what.am.i,Jag är en artificiell intelligens byggd på öppen källkod
+sv-se,personal.what.am.i,Jag är en intelligent liten mjukvara för maskinkommunikation
+sv-se,personal.when.was.i.born,Jag föddes 2015
+sv-se,personal.when.was.i.born,Jag skapades 2015
+sv-se,personal.where.was.i.born,På The Lawrence Center for Entrepreneurship.
+sv-se,personal.where.was.i.born,Jag föddes i Lawrence Kansas
+sv-se,personal.where.was.i.born,Jag skapades i Lawrence Kansas
+sv-se,personal.who.am.i,Mitt namn är {{name}} och jag är en intelligent personlig assistent
+sv-se,personal.who.am.i,Jag heter {{name}} och är en A.I. byggd på öppen källkod
+sv-se,personal.who.made.me,Den fantastiska Mycroft A.I.-communityn och team
+sv-se,personal.who.made.me,Alla i Mycroft A.I.-communityn och dess team
+sv-se,picroft-google-aiy-voicekit-skill.error.initialize,Jag har problem att initiera Google AIY voicekit färdigheten. Färdigheten laddar inte.
+sv-se,remember-skill.delete,Skall jag ta bort frasen: {{PHRASE}}?
+sv-se,remember-skill.deleteall,Skall jag ta bort allt jag kommer ihåg åt dig?
+sv-se,remember-skill.forgotten,Det är glömt.
+sv-se,remember-skill.gotphrase,Jag kommer ihåg "{{REMEMBER}}" åt dig.
+sv-se,remember-skill.holdon,Jag kommer att hålla fast vid denna fras.
+sv-se,remember-skill.iremembered,Jag kommer ihåg: {{REMEMBER}}.
+sv-se,remember-skill.short,Jag kan bara komma ihåg meningar eller ord som är längre än fyra tecken. Formulera om tack.
+sv-se,remember-skill.sorry,Jag är ledsen jag kan inte minnas någon fras!
+sv-se,remember-skill.sorryforget,Jag är ledsen det fanns ett fel jag kunde inte glömma någonting!
+sv-se,remember-skill.sorrynophrase,Jag är ledsen jag kunde inte hitta en fras som matchar din begäran.
+sv-se,speedtest-skill.error,Det uppstod ett fel jag kunde inte köra en speedtest... ledsen.
+sv-se,speedtest-skill.result,Din nedladdningshastighet är {{DOWN}} Megabit per sekund och din uppladdningshastighet är {{UP}} Megabit per sekund.
+sv-se,speedtest-skill.running,Startar speedtest nu jag kommer tillbaka med resultaten om ett ögonblick.
+sv-se,white-house-adventure.LeavingZork,Lämnar det mystiska kungariket Zork
+sv-se,white-house-adventure.LeavingZork,Lämnar nu Zork
+sv-se,white-house-adventure.LeavingZork,Lämnar Zork
+sv-se,white-house-adventure.NoSave,Det finns ingen sparfil
+sv-se,white-house-adventure.NoSave,Ingn sparfil finns
+sv-se,white-house-adventure.SaveDeleted,Sparning har tagits bort
+sv-se,white-house-adventure.SaveDeleted,Tog bort sparfilen
+sv-se,wikiquote-skill.notfound,Jag hittade inga {{ämne}} citat

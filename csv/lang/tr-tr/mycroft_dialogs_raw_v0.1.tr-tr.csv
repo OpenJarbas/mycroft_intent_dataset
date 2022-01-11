@@ -1,0 +1,64 @@
+tr-tr,Crystal-Ball-Mycroft-Skill.random.answer,Evet
+tr-tr,Crystal-Ball-Mycroft-Skill.random.answer,Hayır
+tr-tr,Crystal-Ball-Mycroft-Skill.random.answer,Tekrar sormayı dene
+tr-tr,Crystal-Ball-Mycroft-Skill.random.answer,Kesinlikle
+tr-tr,Crystal-Ball-Mycroft-Skill.random.answer,Tabii ki değil
+tr-tr,Crystal-Ball-Mycroft-Skill.random.answer,Tabiki
+tr-tr,Crystal-Ball-Mycroft-Skill.random.answer,Hayır
+tr-tr,Crystal-Ball-Mycroft-Skill.random.answer,Neden olmasın?
+tr-tr,Crystal-Ball-Mycroft-Skill.random.answer,Ben bahse girmem
+tr-tr,Crystal-Ball-Mycroft-Skill.random.answer,Kesinlikle!
+tr-tr,Crystal-Ball-Mycroft-Skill.random.answer,Nefesini tutma
+tr-tr,auto-volume-skill.activate,OK
+tr-tr,auto-volume-skill.activate,Otomatik ses seviyesi aktifleştirildi.
+tr-tr,auto-volume-skill.activate,Otomatik ses seviyesini aktifleştirdim.
+tr-tr,auto-volume-skill.deactivate,OK
+tr-tr,auto-volume-skill.deactivate,Otomatik ses seviyesi kapalı
+tr-tr,auto-volume-skill.deactivate,Otomatik ses seviyesini kapadım
+tr-tr,auto-volume-skill.reset,otomatik sesi sıfırladım
+tr-tr,cut-up-skill.frag_type.set,{{frag_type}} parça tipi seçildi.
+tr-tr,cut-up-skill.maximum.set,En çok yığın boyutu {{max}} olarak ayarlandı.
+tr-tr,cut-up-skill.minimum.set,En az yığın boyutu {{max}} olarak ayarlandı.
+tr-tr,cut-up-skill.randomness.set,Rasgele yüzde {{rand}} olarak ayarlandı.
+tr-tr,email-skill.error.getting.mail,E-postanız alınırken bir hata oluştu Kimlik bilgilerinizi ve sunucu bilgilerinizi kontrol etmeyi deneyin
+tr-tr,email-skill.error.getting.mail,Postalarınızı alırken bir sorun oluştuğu için kimlik bilgilerinizi ve sunucu bilgilerinizi kontrol edin
+tr-tr,email-skill.error.getting.mail,E-posta sunucunuza bağlanamıyorum Parolanızı ve sunucu bilgilerinizi kontrol edin
+tr-tr,email-skill.list.subjects,{message_num} numarası {sender} aitdir Konusu {subject} 'dir
+tr-tr,email-skill.list.subjects,{message_num} sayılı mesajın konusu {subject}'dir Göndericisi {sender}'dir
+tr-tr,email-skill.list.subjects,{message_num} numarası {sender} aitdir Konusu {subject} 'dir
+tr-tr,email-skill.more.emails,daha fazlasını duymak ister misin
+tr-tr,email-skill.more.emails,e-postalarından daha fazlasını duymak ister misin
+tr-tr,email-skill.more.emails,daha fazla duymak ister misin
+tr-tr,email-skill.no.more.emails,tamam
+tr-tr,email-skill.no.new.email,Yeni bir e-posta yok
+tr-tr,email-skill.no.new.email,Yeni bir e-posta yok
+tr-tr,email-skill.no.new.email,Yeni posta yok
+tr-tr,email-skill.no.new.email,Yeni posta yok
+tr-tr,email-skill.no.new.email,Senin için yeni bir e-posta yok
+tr-tr,email-skill.no.new.email,Senin için yeni posta yok
+tr-tr,email-skill.no.new.email,Yeni postanız yok
+tr-tr,email-skill.no.new.email,Yeni bir e-postan yok
+tr-tr,email-skill.setup,E-posta becerisi için e-posta bilgileri gerekli bu ayarları girmek için lütfen ana sayfaya gidin http://wwwmycroftai
+tr-tr,email-skill.setup,E-posta becerisini ayarlaman gerekiyor E-posta bilgilerinizi girmek için lütfen ana sayfaya gidin http://wwwmycroftai
+tr-tr,fallback-aiml.reset.memory,Bilgi veritabanını sıfırlama
+tr-tr,fallback-aiml.reset.memory,Her şeyi unut
+tr-tr,fallback-aiml.reset.memory,Tamam şimdi hafızamı sıfırlayacağım
+tr-tr,fallback-aiml.reset.memory,Beyin silme başlatıldı
+tr-tr,krunner-search-skill.krunner.recent,Son dosyalarınızı görüntüleme
+tr-tr,krunner-search-skill.krunner.search,Yerel olarak {{Query}} için arama yapıyorum
+tr-tr,picroft-google-aiy-voicekit-skill.error.initialize,Google AIY ses seti yeteneğini başlatırken sorun yaşıyorum. Beceri yüklenmeyecek
+tr-tr,plasma-activities-skill.activities.create,Faaliyetiniz {{ActivityName}} Oluşturuldu
+tr-tr,plasma-activities-skill.activities.remove,Etkinlik kaldırıldı
+tr-tr,plasma-activities-skill.activities.show,Faaliyetleri Görüntüleme
+tr-tr,plasma-activities-skill.activities.stop,{StopActivityName}} etkinliği durduruldu
+tr-tr,plasma-activities-skill.activities.switch,{{SwitchActivityName}} etkinliği aktif et
+tr-tr,speedtest-skill.error,Bir hata oluştu hız testini çalıştıramadım... üzgünüm.
+tr-tr,speedtest-skill.result,İndirme hızın saniyede {{DOWN}} Megabit ve yükleme hızın saniyede {{UP}} Megabit.
+tr-tr,speedtest-skill.running,Hız testi şimdi başlıyor sonuçlar gelince bildireceğim.
+tr-tr,white-house-adventure.LeavingZork,Gizemli Zork Krallığı'ndan ayrıl
+tr-tr,white-house-adventure.LeavingZork,Şimdi Zork'tan ayrıl
+tr-tr,white-house-adventure.LeavingZork,Zork'tan çık
+tr-tr,white-house-adventure.NoSave,Mevcut bir kayıtlı oyun yok
+tr-tr,white-house-adventure.NoSave,Kayıtlı oyun yok
+tr-tr,white-house-adventure.SaveDeleted,Kayıtlı oyun silindi
+tr-tr,white-house-adventure.SaveDeleted,Kayıtlı oyun kaldırıldı

@@ -1,0 +1,2008 @@
+en-us,8fact.8fact,I scrapped my facts from social media
+en-us,8fact.8fact,I scrapped my facts from the social media pages of 8 fact
+en-us,8fact.8fact,My facts come from 8 fact instagram page
+en-us,8fact.8fact,I download facts from 8 fact social media
+en-us,8fact.8fact,My facts come from 8 fact
+en-us,8fact.intro,thank you for installing {skill_name} skill
+en-us,8fact.no_idea,I don't know
+en-us,8fact.no_idea,I have not verified the sources
+en-us,8fact.no_idea,It is in the internet it must be true
+en-us,8fact.no_idea,Take everything with a grain of salt
+en-us,8fact.no_idea,Sources have not been checked
+en-us,8fact.no_idea,Sources have not been provided
+en-us,8fact.number_facts,I know {{number}} facts
+en-us,8fact.number_facts,I scrapped {{number}} facts from 8 fact
+en-us,8fact.number_facts,I have {{number}} facts in my database
+en-us,Communication.neon.cant.call,I wasn't able to handle your call request.
+en-us,Communication.neon.cant.send,I wasn't able to handle your messaging request.
+en-us,Communication.neon.one_moment,Just a moment.
+en-us,Communication.neon.one_moment,One moment.
+en-us,Crystal-Ball-Mycroft-Skill.random.answer,Yes
+en-us,Crystal-Ball-Mycroft-Skill.random.answer,No
+en-us,Crystal-Ball-Mycroft-Skill.random.answer,Try asking again later
+en-us,Crystal-Ball-Mycroft-Skill.random.answer,Definitely
+en-us,Crystal-Ball-Mycroft-Skill.random.answer,Of course not
+en-us,Crystal-Ball-Mycroft-Skill.random.answer,Sure
+en-us,Crystal-Ball-Mycroft-Skill.random.answer,Nope
+en-us,Crystal-Ball-Mycroft-Skill.random.answer,Why not?
+en-us,Crystal-Ball-Mycroft-Skill.random.answer,I wouldn't bet on it
+en-us,Crystal-Ball-Mycroft-Skill.random.answer,You bet!
+en-us,Crystal-Ball-Mycroft-Skill.random.answer,Don't hold your breath
+en-us,Number-Guess-Mycroft-Skill.correct,That's right!
+en-us,Number-Guess-Mycroft-Skill.correct,You got it!
+en-us,Number-Guess-Mycroft-Skill.correct,Correct!
+en-us,Number-Guess-Mycroft-Skill.correct,That's the number!
+en-us,Number-Guess-Mycroft-Skill.correct,Good job!
+en-us,Number-Guess-Mycroft-Skill.correct,You win!
+en-us,Number-Guess-Mycroft-Skill.get.lower,What do you want the lower bound to be?
+en-us,Number-Guess-Mycroft-Skill.get.upper,What do you want the upper bound to be?
+en-us,Number-Guess-Mycroft-Skill.guess,Guess the number
+en-us,Number-Guess-Mycroft-Skill.guess,What do you think the number is
+en-us,Number-Guess-Mycroft-Skill.guess,Guess
+en-us,Number-Guess-Mycroft-Skill.input.error,I couldn't understand what you said
+en-us,Number-Guess-Mycroft-Skill.input.error,Something went wrong while I was trying to understand that
+en-us,Number-Guess-Mycroft-Skill.input.error,An input error occurred
+en-us,Number-Guess-Mycroft-Skill.input.error,Could you say that again?
+en-us,Number-Guess-Mycroft-Skill.invalid.input,That answer was invalid. I need a number
+en-us,Number-Guess-Mycroft-Skill.invalid.input,Please reply with a number
+en-us,Number-Guess-Mycroft-Skill.invalid.input,You need to reply with a number
+en-us,Number-Guess-Mycroft-Skill.invalid.input,That's not a number
+en-us,Number-Guess-Mycroft-Skill.start.game,OK let's play
+en-us,Number-Guess-Mycroft-Skill.start.game,Let the game begin
+en-us,Number-Guess-Mycroft-Skill.start.game,Starting the game
+en-us,Number-Guess-Mycroft-Skill.start.game,Let's start
+en-us,Number-Guess-Mycroft-Skill.start.game,Let's see what you've got
+en-us,Number-Guess-Mycroft-Skill.start.game,Alright. Let's play Number Guess
+en-us,Number-Guess-Mycroft-Skill.too.high,Too high
+en-us,Number-Guess-Mycroft-Skill.too.low,Too low
+en-us,Wiktionary-Skill.error.wiktionary,Sorry but I could not find a definition for your word.
+en-us,Wiktionary-Skill.error.wiktionary,I do not have a definition for the word you requested please try again.
+en-us,Wiktionary-Skill.error.wiktionary,I'm sorry but I don't have a definition for your word.
+en-us,Wiktionary-Skill.fallback.wiktionary,The definition of {{word}} is: {{definition}}
+en-us,Wiktionary-Skill.fallback.wiktionary,Here is the definition of {{word}}: {{definition}}
+en-us,about.neon.license_long,I am licensed by neongecko.com Inc. under the Apache open source license Version 2.0 published January 2004. Subject to legal restrictions on trademarks copyrights and patents. All rights are reserved to their owners. US Patents #7424516 #20140161250 #20140177813 #8638908 #8068604 #8553852. China Patent #102017585. Europe Patent #2156652
+en-us,about.neon.license_short,Copyright 2019 Neongecko Inc. All Rights Reserved.
+en-us,about.neon.skills_list,I have the following skills: {{list}}
+en-us,aircrack.cannot.sudo,Error I cannot seem to sudo the aircrack commands without a password. Please see github.com/JonStratton/skill-aircrack for notes on sudo access.
+en-us,aircrack.captured.handshake,Captured Handshake
+en-us,aircrack.confirm.permission,Accessing a wifi network you are not authorized to use can be illegal. Please confirm that you have permission to connect to this network by saying Yes otherwise say No to cancel.
+en-us,aircrack.deauthing.clients,Deauthing clients connected to the {{selected_network}} network.
+en-us,aircrack.interfaces.are,The following Interfaces are available: {{available_interfaces}}
+en-us,aircrack.interfaces.are,Here are the available Interfaces: {{available_interfaces}}
+en-us,aircrack.interfaces.are,{{available_interfaces}} are available.
+en-us,aircrack.monitor.stopped.early,Monitor stopped before handshake captured.
+en-us,aircrack.networks.are,The following networks are available: {{available_networks}}
+en-us,aircrack.no.interfaces,There are no available interfaces.
+en-us,aircrack.no.networks,There are no available networks.
+en-us,aircrack.no.password,No password found.
+en-us,aircrack.no.such.interface,No such Interface found.
+en-us,aircrack.no.such.network,No such network found.
+en-us,aircrack.recovered.password,Recovered the following password: {{password}}
+en-us,aircrack.select.interface.first,Please select Interface first.
+en-us,aircrack.selected.interface,Selected the {{selected_interface}} interface.
+en-us,aircrack.selected.network,Selected the {{selected_network}} network.
+en-us,aircrack.start.monitor,Starting Monitor
+en-us,aircrack.stop.monitor,Stopping Monitor
+en-us,alarm.alarm.error,Sorry. Are you trying to set an alarm? can you please rephrase that.
+en-us,alarm.alarm.error,It seems you may be trying to set an alarm. can you please rephrase that.
+en-us,alarm.alarm.off,the alarm has been turned off
+en-us,alarm.alarm.off,the alarm has been shut off
+en-us,alarm.alarm.off,the alarm has been stopped
+en-us,alarm.alarm.scheduled,Alarm set for {{time}}
+en-us,alarm.alarm.scheduled,Creating a new alarm for {{time}}
+en-us,alarm.alarm.scheduled,A new alarm for {{time}} was added
+en-us,alarm.alarm.scheduled.repeating,recurring Alarm set for {{time}}
+en-us,alarm.alarm.scheduled.repeating,You have a new recurring alarm on {{time}}
+en-us,alarm.alarm.scheduled.repeating,A new recurring alarm for {{time}} was added
+en-us,alarm.alarm.status,You have {{amount}} active {{plural}}. {{string}}
+en-us,alarm.alarm.stop,Say turn off alarm to end this alarm
+en-us,alarm.alarms.list,For one time alarms: {{alarms}}
+en-us,alarm.alarms.list.amt,You have {{amount}} active alarms.
+en-us,alarm.alarms.list.repeat,For recurring alarms: {{alarms}}
+en-us,alarm.delete.alarm,Okay deleting {{name}} alarm
+en-us,alarm.delete.alarm.recurring,Okay deleting the recurring {{name}} alarm
+en-us,alarm.delete.match,For one time alarms: {{alarms}}
+en-us,alarm.delete.match.repeat,For recurring alarms: {{alarms}}
+en-us,alarm.delete.multimatch,multiple matches found.
+en-us,alarm.delete.multimatch.response,were you referring to the one time alarm or the recurring alarm.
+en-us,alarm.delete.no.match,I could not find a matching alarm to delete.
+en-us,alarm.delete.no.options,Could not understand the response to delete alarms.
+en-us,alarm.need.ampm,No problem. Shall I set it for the morning or the evening?
+en-us,alarm.need.ampm,Should I set this for the morning or the evening?
+en-us,alarm.need.ampm,Of Course. Do you want to set this for the morning or the evening?
+en-us,alarm.no.time.found,I couldn't find a time to schedule that alarm.
+en-us,alerts.neon.AlertExpired,Your {{name}} is up.
+en-us,alerts.neon.AlertTimeout,Silencing alert.
+en-us,alerts.neon.AudioReminderIntro,You have an audio reminder.
+en-us,alerts.neon.AudioReminderTooFar,I can only set audio reminders up to 24 hours in advance I will create a calendar event instead.
+en-us,alerts.neon.CancelAlert,Cancelling {{kind}} {{name}}.
+en-us,alerts.neon.CancelAll,Okay cancelling all {{kind}}s.
+en-us,alerts.neon.ConfirmPlayback,Your {{name}} recording will be played at {{time}} in {{duration}}.
+en-us,alerts.neon.ConfirmRecurring,Your {{kind}} is set for {{time}} {{days}}.
+en-us,alerts.neon.ConfirmScript,Your {{name}} script will be executed at {{time}} in {{duration}}.
+en-us,alerts.neon.ConfirmSet,Your {{kind}} is set for {{time}} in {{duration}}.
+en-us,alerts.neon.ConfirmTimer,Timer for {{duration}} starting now.
+en-us,alerts.neon.CreateAtTime,Created {{type}} for {{time}}.
+en-us,alerts.neon.DismissAlert,{{name}} dismissed.
+en-us,alerts.neon.ErrorHowLong,I didn't hear how long please try again.
+en-us,alerts.neon.ErrorNoTime,I didn't hear a time to set your {{kind}} for. Please try again.
+en-us,alerts.neon.ErrorScheduling,Something went wrong while scheduling your {{kind}}. {{hint}}.
+en-us,alerts.neon.ListAlerts,{{name}} - {{day}} at {{time}}.
+en-us,alerts.neon.ListRepeatingAlerts,{{name}} every {{repeat}} at {{time}}.
+en-us,alerts.neon.MissedAlert,{{kind}} for {{name}}
+en-us,alerts.neon.MissedAlertIntro,Here's what you missed:
+en-us,alerts.neon.MobileSchedule,MOBILE-INTENT ALERT&name={{name}}&time={{time}}&kind={{kind}}&file={{file}}&repeat={{repeat}}
+en-us,alerts.neon.NextAlert,Your next {{kind}} is scheduled for {{day}} at {{time}}
+en-us,alerts.neon.NextEvent,Your next {{kind}} is {{name}} scheduled for {{day}} at {{time}}
+en-us,alerts.neon.NoActive,There are no active {{kind}}s.
+en-us,alerts.neon.NoMissedAlerts,You haven't missed any alerts.
+en-us,alerts.neon.NoUpcoming,You have no upcoming {{kind}}s.
+en-us,alerts.neon.NoneToCancel,I could not find a matching alert to cancel
+en-us,alerts.neon.QuietHoursEnd,Disabling quiet hours.
+en-us,alerts.neon.QuietHoursStart,Enabling quiet hours. I will not notify you of any alerts until you disable quiet hours.
+en-us,alerts.neon.RecordingNotFound,Recording not found please select a recording.
+en-us,alerts.neon.RecurringPlayback,Your {{name}} will be played at {{time}} {{days}}.
+en-us,alerts.neon.RecurringScript,Your {{name}} will be executed at {{time}} {{days}}.
+en-us,alerts.neon.ReminderExpired,This is your {{name}}.
+en-us,alerts.neon.ScriptNotFound,Script not found please select a script.
+en-us,alerts.neon.SnoozeAlert,Snoozing {{name}} for {{duration}}
+en-us,alerts.neon.TimerStatus,The {{timer}} has {{duration}} remaining.
+en-us,alerts.neon.UpcomingType,You have the following {{kind}}s:
+en-us,alerts.neon.WhatTime,What time should your {{kind}} be set for?
+en-us,asteroid-tracker.asteroids,Plotting all know asteroids
+en-us,audio-record.audio.record.disk.full,There is not enough free disk space to record an audio
+en-us,audio-record.audio.record.disk.full,Audio recording is not possible. You have to free some disk usage
+en-us,audio-record.audio.record.disk.full,You have reached the maximum disk usage. Free some disk space to record an audio
+en-us,audio-record.audio.record.no.recording,There is no recording available
+en-us,audio-record.audio.record.no.recording,No recording found
+en-us,audio-record.audio.record.removed,Recording deleted
+en-us,audio-record.audio.record.removed,Recording removed
+en-us,audio-record.audio.record.removed,Deleting
+en-us,audio-record.audio.record.start,Recording audio
+en-us,audio-record.audio.record.start,Starting audio recording
+en-us,audio-record.audio.record.start,Audio recording initialized
+en-us,audio-record.audio.record.start.duration,Recording audio for {{duration}} seconds
+en-us,audio-record.audio.record.start.duration,Starting audio recording for {{duration}} seconds
+en-us,audio-record.audio.record.start.duration,Audio recording for {{duration}} seconds initialized
+en-us,audio-record.audio.record.stop,Audio recording ended
+en-us,audio-record.audio.record.stop,Stopping audio recording
+en-us,audio-record.audio.record.stop,Audio recording was stopped
+en-us,audio-record.audio.record.stop.play,Audio reproducing ended
+en-us,audio-record.audio.record.stop.play,Stopping audio playing
+en-us,audio-record.audio.record.stop.play,Audio playing was stopped
+en-us,auto-volume-skill.activate,OK
+en-us,auto-volume-skill.activate,Auto volume activated
+en-us,auto-volume-skill.activate,I have activated auto volume
+en-us,auto-volume-skill.deactivate,OK
+en-us,auto-volume-skill.deactivate,Auto volume is deactivated
+en-us,auto-volume-skill.deactivate,I have now deactivated auto volume
+en-us,auto-volume-skill.reset,I have now reset auto volume
+en-us,avmusic.neon.ChangeMind,Let me know if you change your mind
+en-us,avmusic.neon.PlayNow,Shall I play it now?
+en-us,avmusic.neon.SayResume,Music is paused. Say my wake word followed by 'resume' to continue the playback
+en-us,avmusic.neon.SayStop,Say my wake word followed by 'stop' when you are done.
+en-us,avmusic.neon.TryAgain,Actually I could not find the music you were looking for. Could you try again?
+en-us,bark-skill.bark,Ruff ruff ruff
+en-us,bark-skill.bark,Ruff
+en-us,bark-skill.bark,Ruff ruff
+en-us,bark-skill.bark,Ruff ruff ruff ruff
+en-us,bark-skill.bark,Ruff ruff ruff ruff ruff
+en-us,blue-marble.EPIC,Near Real time picture of earth from {{ date }}
+en-us,blue-marble.EPIC,showing EPIC satellite imagery from {{ date }}
+en-us,blue-marble.aboutEPIC,Earth Polychromatic Imaging Camera ( EPIC ) instrument. Uniquely positioned at the Earth-Sun Lagrange point EPIC provides full disc imagery of the Earth and captures unique perspectives of certain astronomical events such as lunar transits using a detector coupled to a 30-cm aperture Cassegrain telescope.
+en-us,blue-marble.animation,Here is an animation of the past few days
+en-us,blue-marble.location,The DSCOVR spacecraft is located at the Earth-Sun Lagrange-1 ( L-1 ) point giving EPIC a unique angular perspective that will be used in science applications to measure ozone aerosols cloud reflectivity cloud height vegetation properties and UV radiation estimates at Earth's surface.
+en-us,caffeinewiz.neon.DrinkCaffeine,The drink {{drink}} has {{caffeine_content}} {{caffeine_units}} of caffeine in {{drink_size}} {{drink_units}}.</speak> Provided by CaffeineWiz.
+en-us,caffeinewiz.neon.HowAboutMore,Say how about caffeine content of another drink or say goodbye.
+en-us,caffeinewiz.neon.MoreDrinks,I have more drinks that match. Would you like to hear them?
+en-us,caffeinewiz.neon.MultipleCaffeine,{{drink}} has {{caffeine_content}} {{caffeine_units}} of caffeine in {{drink_size}} {{drink_units}}.
+en-us,caffeinewiz.neon.NoDrinkHeard,I could not understand the drink that you requested.
+en-us,caffeinewiz.neon.NotFound,I am sorry {{drink}} is not on my list. Let my creators know and they will teach me new information!
+en-us,caffeinewiz.neon.StayCaffeinated,Stay Caffeinated!
+en-us,caffeinewiz.neon.UpdateComplete,Update completed.
+en-us,caffeinewiz.neon.Updating,Sure. Updating CaffeineWiz.
+en-us,caffeinewiz.neon.one_moment,Just a moment.
+en-us,caffeinewiz.neon.one_moment,One moment.
+en-us,ccc.intro,thank you for installing cult cinema classics skill
+en-us,chandra-xray.aboutChandra,The Chandra X-ray Observatory is part of NASA's ﬂeet of "Great Observatories" along with the Hubble Space Telescope the Spitizer Space Telescope and the now deorbited Compton Gamma Ray Observatory. Chandra allows scientists from around the world to obtain X-ray images of exotic environments to help understand the structure and evolution of the universe.
+en-us,classic-scifi-horror.intro,thank you for installing Classic Sci Fi Horror Catalog skill
+en-us,cocktail.NotFound,Sorry I couldn't find the requested drink
+en-us,cocktail.NotFound,I'm a fraid I couldn't find that
+en-us,cocktail.RandomDrink,How about a {drink}?
+en-us,cocktail.RandomDrink,May I suggest a {drink}?
+en-us,cocktail.RandomDrink,Why don't you have a {drink}?
+en-us,cocktail.YouWillNeed,You'll need {ingredients} and {final_ingredient}
+en-us,cocktail.YouWillNeed,You will need {ingredients} and {final_ingredient}
+en-us,cocktail.YouWillNeed,The required ingredients are: {ingredients} and {final_ingredient}
+en-us,configuration.config.no_change,Configuration hasn't changed
+en-us,configuration.config.no_change,No changes to apply
+en-us,configuration.config.not.paired,Could not fetch configuration device is not paired.
+en-us,configuration.config.not.paired,Couldn't update the config please pair the device
+en-us,configuration.config.updated,Configuration updated.
+en-us,configuration.config.updated,Your device configuration has been updated.
+en-us,configuration.config.updated,Your device has been configured.
+en-us,configuration.download.started,Downloading the new listener this will take a bit and you won't be able to use me until it completes. Give me a minute before attempting to activate me again.
+en-us,configuration.get.listener,The current listener is {{listener}}.
+en-us,configuration.get.listener,The listener is set to {{listener}}.
+en-us,configuration.i.am.at,I'm in {{city}} {{state}} {{country}}
+en-us,configuration.i.am.at,My settings tell me I'm at {{city}} {{state}} {{country}}
+en-us,configuration.listener.same,The listener is already set to {{listener}}.
+en-us,configuration.model.is,The current precise model has an identifier of {{name}}.
+en-us,configuration.model.is,The current model has an identifier of {{name}}.
+en-us,configuration.models.not.found,I couldn't find any model files to update.
+en-us,configuration.models.updated,I've updated the Precise models.
+en-us,configuration.must.be.hey.mycroft,The wake word needs to be set to "hey mycroft" to use precise. You can do this on home DOT mycroft DOT AI.
+en-us,configuration.must.update,Please update your software first.
+en-us,configuration.my.name.is,my device name is {{name}}
+en-us,configuration.my.name.is,I'm named {{name}}
+en-us,configuration.not.precise,The listener isn't set to Precise.
+en-us,configuration.set.listener,I've set the listener to {{listener}}.
+en-us,confucius-quotes.birth,Confucius was born on 551 BC
+en-us,confucius-quotes.confucius,The philosophy of Confucius also known as Confucianism emphasized personal and governmental morality correctness of social relationships justice kindness and sincerity.
+en-us,confucius-quotes.confucius,Confucius was a Chinese philosopher and politician of the Spring and Autumn period.
+en-us,confucius-quotes.death,Confucius died on 479 BC
+en-us,confucius-quotes.live,Confucius lived between 551 BC and 479 BC
+en-us,confucius-quotes.quote,Be not ashamed of mistakes and thus make them crimes.
+en-us,confucius-quotes.quote,Before you embark on a journey of revenge dig two graves.
+en-us,confucius-quotes.quote,Everything has its beauty but not everyone sees it.
+en-us,confucius-quotes.quote,Forget injuries never forget kindnesses.
+en-us,confucius-quotes.quote,He who will not economize will have to agonize.
+en-us,confucius-quotes.quote,I hear and I forget. I see and I remember. I do and I understand.
+en-us,confucius-quotes.quote,Ignorance is the night of the mind but a night without moon and star.
+en-us,confucius-quotes.quote,It does not matter how slowly you go so long as you do not stop.
+en-us,confucius-quotes.quote,Men's natures are alike it is their habits that carry them far apart.
+en-us,confucius-quotes.quote,Our greatest glory is not in never falling but in getting up every time we do.
+en-us,confucius-quotes.quote,Respect yourself and others will respect you.
+en-us,confucius-quotes.quote,Study the past if you would define the future.
+en-us,confucius-quotes.quote,The superior man when resting in safety does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly he does not forget that disorder may come. Thus his person is not endangered and his States and all their clans are preserved.
+en-us,confucius-quotes.quote,To be able under all circumstances to practice five things constitutes perfect virtue; these five things are gravity generosity of soul sincerity earnestness and kindness.
+en-us,confucius-quotes.quote,To see what is right and not to do it is want of courage.
+en-us,confucius-quotes.quote,To see what is right and not to do it is want of courage or of principle.
+en-us,confucius-quotes.quote,What the superior man seeks is in himself; what the small man seeks is in others.
+en-us,confucius-quotes.quote,When anger rises think of the consequences.
+en-us,confucius-quotes.quote,When we see men of a contrary character we should turn inwards and examine ourselves.
+en-us,confucius-quotes.quote,Wheresoever you go go with all your heart.
+en-us,confucius-quotes.quote,They must often change who would be constant in happiness or wisdom.
+en-us,confucius-quotes.quote,By nature men are nearly alike; by practice they get to be wide apart.
+en-us,confucius-quotes.quote,Fine words and an insinuating appearance are seldom associated with true virtue.
+en-us,confucius-quotes.quote,Have no friends not equal to yourself.
+en-us,confucius-quotes.quote,He who exercises government by means of his virtue may be compared to the north polar star which keeps its place and all the stars turn towards it.
+en-us,confucius-quotes.quote,He who speaks without modesty will find it difficult to make his words good.
+en-us,confucius-quotes.quote,He with whom neither slander that gradually soaks into the mind nor statements that startle like a wound in the flesh are successful may be called intelligent indeed.
+en-us,confucius-quotes.quote,Hold faithfulness and sincerity as first principles.
+en-us,confucius-quotes.quote,I am not one who was born in the possession of knowledge; I am one who is fond of antiquity and earnest in seeking it there.
+en-us,confucius-quotes.quote,I have not seen a person who loved virtue or one who hated what was not virtuous. He who loved virtue would esteem nothing above it.
+en-us,confucius-quotes.quote,If a man takes no thought about what is distant he will find sorrow near at hand.
+en-us,confucius-quotes.quote,If a man withdraws his mind from the love of beauty and applies it as sincerely to the love of the virtuous; if in serving his parents he can exert his utmost strength; if in serving his prince he can devote his life; if in his intercourse with his friends his words are sincere - although men say that he has not learned I will certainly say that he has.
+en-us,confucius-quotes.quote,Is virtue a thing remote? I wish to be virtuous and lo! Virtue is at hand.
+en-us,confucius-quotes.quote,Learning without thought is labor lost; thought without learning is perilous.
+en-us,confucius-quotes.quote,Recompense injury with justice and recompense kindness with kindness.
+en-us,confucius-quotes.quote,The cautious seldom err.
+en-us,confucius-quotes.quote,The determined scholar and the man of virtue will not seek to live at the expense of injuring their virtue. They will even sacrifice their lives to preserve their virtue complete.
+en-us,confucius-quotes.quote,The firm the enduring the simple and the modest are near to virtue.
+en-us,confucius-quotes.quote,The man of virtue makes the difficulty to be overcome his first business and success only a subsequent consideration.
+en-us,confucius-quotes.quote,The man who in view of gain thinks of righteousness; who in the view of danger is prepared to give up his life; and who does not forget an old agreement however far back it extends - such a man may be reckoned a complete man.
+en-us,confucius-quotes.quote,The people may be made to follow a path of action but they may not be made to understand it.
+en-us,confucius-quotes.quote,The scholar who cherishes the love of comfort is not fit to be deemed a scholar.
+en-us,confucius-quotes.quote,The superior man cannot be known in little matters but he may be entrusted with great concerns. The small man may not be entrusted with great concerns but he may be known in little matters.s
+en-us,confucius-quotes.quote,The superior man is modest in his speech but exceeds in his actions.
+en-us,confucius-quotes.quote,The superior man is satisfied and composed; the mean man is always full of distress.
+en-us,confucius-quotes.quote,The superior man...does not set his mind either for anything or against anything; what is right he will follow.
+en-us,confucius-quotes.quote,There are three things which the superior man guards against. In youth...lust. When he is strong...quarrelsomeness. When he is old...covetousness.
+en-us,confucius-quotes.quote,Things that are done it is needless to speak about...things that are past it is needless to blame.
+en-us,confucius-quotes.quote,To be able to practice five things everywhere under heaven constitutes perfect virtue...[They are] gravity generosity of soul sincerity earnestness and kindness.
+en-us,confucius-quotes.quote,To go beyond is as wrong as to fall short.
+en-us,confucius-quotes.quote,Virtue is more to man than either water or fire. I have seen men die from treading on water and fire but I have never seen a man die from treading the course of virtue.
+en-us,confucius-quotes.quote,Virtue is not left to stand alone. He who practices it will have neighbors.
+en-us,confucius-quotes.quote,What the superior man seeks is in himself. What the mean man seeks is in others.
+en-us,confucius-quotes.quote,What you do not want done to yourself do not do to others.
+en-us,confucius-quotes.quote,When a man's knowledge is sufficient to attain and his virtue is not sufficient to enable him to hold whatever he may have gained he will lose again.
+en-us,confucius-quotes.quote,When we see men of worth we should think of equaling them; when we see men of a contrary character we should turn inwards and examine ourselves.
+en-us,confucius-quotes.quote,When you have faults do not fear to abandon them.
+en-us,confucius-quotes.quote,When you know a thing to hold that you know it; and when you do not know a thing to allow that you do not know it - this is knowledge.
+en-us,confucius-quotes.quote,With coarse rice to eat with water to drink and my bended arm for a pillow - I have still joy in the midst of these things. Riches and honors acquired by unrighteousness are to me as a floating cloud.
+en-us,confucius-quotes.quote,Without an acquaintance with the rules of propriety it is impossible for the character to be established.
+en-us,confucius-quotes.quote,I do not want a friend Who smiles when I smile Who weeps when I weep For my shadow in the pool Can do better than that.
+en-us,confucius-quotes.quote,Silence is the true friend that never betrays.
+en-us,confucius-quotes.quote,He who speaks without modesty will find it difficult to make his words good.
+en-us,confucius-quotes.quote,It does not matter how slowly you go so long as you do not stop.
+en-us,confucius-quotes.quote,Do not be desirous of having things done quickly. Do not look at small advantages. Desire to have things done quickly prevents their being done thoroughly. Looking at small advantages prevents great affairs from being accomplished.
+en-us,confucius-quotes.quote,Everything has beauty but not everyone sees it.
+en-us,confucius-quotes.quote,He does not preach what he practices till he has practiced what he preaches.
+en-us,confucius-quotes.quote,If I am walking with two other men each of them will serve as my teacher. I will pick out the good points of the one and imitate them and the bad points of the other and correct them in myself.
+en-us,confucius-quotes.quote,Learn as though you would never be able to master it; hold it as though you would be in fear of losing it.
+en-us,confucius-quotes.quote,The superior man is modest in his speech but excels in his actions.
+en-us,confucius-quotes.quote,When you have faults do not fear to abandon them.
+en-us,confucius-quotes.quote,Forget injuries never forget kindnesses.
+en-us,confucius-quotes.quote,If a man takes no thought about what is distant he will find sorrow near at hand.
+en-us,confucius-quotes.quote,Man who stand on hill with mouth open will wait long time for roast duck to drop in.
+en-us,confucius-quotes.quote,The scholar who cherishes the love of comfort is not fit to be deemed a scholar.
+en-us,confucius-quotes.quote,The superior man is modest in his speech but exceeds in his actions.
+en-us,confucius-quotes.quote,The superior man is modest in his speech but exceeds in his actions.
+en-us,confucius-quotes.quote,They must often change who would be constant in happiness or wisdom.
+en-us,confucius-quotes.quote,To be able under all circumstances to practice five things constitutes perfect virtue; these five things are gravity generosity of soul sincerity earnestness and kindness.
+en-us,confucius-quotes.quote,To be fond of learning is near to wisdom; to practice with vigor is near to benevolence; and to be conscious of shame is near to fortitude. He who knows these three things
+en-us,confucius-quotes.quote,To go beyond is as wrong as to fall short.
+en-us,confucius-quotes.quote,To govern is to correct. If you set an example by being correct who would dare remain incorrect?
+en-us,confucius-quotes.quote,Without an acquaintance with the rules of propriety it is impossible for the character to be established.
+en-us,confucius-quotes.quote,It does not matter how slowly you go so long as you do not stop.
+en-us,confucius-quotes.quote,Fine words and an insinuating appearance are seldom associated with true virtue.
+en-us,confucius-quotes.quote,Be not ashamed of mistakes and thus make them crimes.
+en-us,confucius-quotes.quote,The wheel of fortune turns round incessantly and who can say to himself I shall to-day be uppermost.
+en-us,confucius-quotes.quote,Virtue is more to man than either water or fire. I have seen men die from treading on water and fire but I have never seen a man die from treading the course of virtue.
+en-us,confucius-quotes.quote,Everything has its beauty but not everyone sees it.
+en-us,confucius-quotes.quote,Our greatest glory is not in never falling but in rising every time we fall.
+en-us,confucius-quotes.quote,Better a diamond with a flaw than a pebble without.
+en-us,confucius-quotes.quote,I hear and I forget. I see and I believe. I do and I understand.
+en-us,confucius-quotes.quote,By three methods we may learn wisdom First by reflection which is noblest Second by imitation which is easiest and third by experience which is the bitterest.
+en-us,confucius-quotes.quote,What you do not want done to yourself do not do to others.
+en-us,confucius-quotes.quote,Do not use a cannon to kill a mosquito.
+en-us,confucius-quotes.quote,Silence is a friend who will never betray.
+en-us,confucius-quotes.quote,A journey of a thousand miles begins with a single step.
+en-us,confucius-quotes.quote,I hear and I forget. I see and I remember. I do and I understand.
+en-us,confucius-quotes.quote,Men's natures are alike it is their habits that carry them far apart.
+en-us,confucius-quotes.quote,If language is not correct then what is said is not what is meant; if what is said is not what is meant then what must be done remains undone; if this remains undone morals and art will deteriorate; if justice goes astray the people will stand about in helpless confusion. Hence there must be no arbitrariness in what is said. This matters above everything.
+en-us,confucius-quotes.quote,The superior man is satisfied and composed the mean man is always full of distress.
+en-us,confucius-quotes.quote,There are three things which the superior man guards against. In youth...lust. When he is strong...quarrelsomeness. When he is old...covetousness.
+en-us,confucius-quotes.quote,By three methods we may learn wisdom: First by reflection which is noblest; Second by imitation which is easiest; and third by experience which is the bitterest.
+en-us,confucius-quotes.quote,The essence of knowledge is having it to apply it not having it to confess your ignorance.
+en-us,confucius-quotes.quote,To know that one knows what one knows and to know that one doesn't know what one doesn't know there lies true wisdom.
+en-us,confucius-quotes.quote,The essence of knowledge is having it to apply it; not having it to confess your ignorance.
+en-us,confucius-quotes.quote,Things that are done it is needless to speak about...things that are past it is needless to blame.
+en-us,confucius-quotes.quote,When a man's knowledge is sufficient to attain and his virtue is not sufficient to enable him to hold whatever he may have gained he will lose again.
+en-us,confucius-quotes.quote,When we see men of a contrary character we should turn inwards and examine ourselves.
+en-us,confucius-quotes.quote,Have no friends not equal to yourself.
+en-us,confucius-quotes.quote,By nature men are nearly alike by practice they get to be wide apart.
+en-us,confucius-quotes.quote,He who wishes to secure the good of others has already secured his own.
+en-us,confucius-quotes.quote,Hold faithfulness and sincerity as first principles.
+en-us,confucius-quotes.quote,To be wronged is nothing unless you continue to remember it.
+en-us,confucius-quotes.quote,They must change who would be constant in happiness and wisdom.
+en-us,confucius-quotes.quote,He who learns but does not think is lost He who thinks but does not learn is in great danger.
+en-us,confucius-quotes.quote,I have not seen a person who loved virtue or one who hated what was not virtuous. He who loved virtue would esteem nothing above it.
+en-us,confucius-quotes.quote,When you know a thing to hold that you know it and when you do not know a thing to allow that you do not know it - this is knowledge.
+en-us,confucius-quotes.quote,Wheresoever you go go with all your heart.
+en-us,confucius-quotes.quote,With coarse rice to eat with water to drink and my bended arm for a pillow - I have still joy in the midst of these things. Riches and honors acquired by unrighteousness are to me as a floating cloud.
+en-us,confucius-quotes.quote,The expectations of life depend upon diligence the mechanic that would perfect his work must first sharpen his tools.
+en-us,confucius-quotes.quote,If a man withdraws his mind from the love of beauty and applies it as sincerely to the love of the virtuous if in serving his parents he can exert his utmost strength if in serving his prince he can devote his life if in his intercourse with his friends his words are sincere - although men say that he has not learned I will certainly say that he has.
+en-us,confucius-quotes.quote,Study the past if you would define the future.
+en-us,confucius-quotes.quote,What the superior man seeks is in himself what the small man seeks is in others.
+en-us,confucius-quotes.quote,Ignorance is the night of the mind but a night without moon and star.
+en-us,confucius-quotes.quote,A man who does not plan long ahead will find trouble right at his door.
+en-us,confucius-quotes.quote,He who learns but does not think is lost! He who thinks but does not learn is in great danger.
+en-us,confucius-quotes.quote,Heaven means to be one with God.
+en-us,confucius-quotes.quote,Recompense injury with justice and recompense kindness with kindness.
+en-us,confucius-quotes.quote,The superior man acts before he speaks and afterwards speaks according to his actions.
+en-us,confucius-quotes.quote,While you are not able to serve men how can you serve spirits of the dead...While you do not know life how can you know about death
+en-us,confucius-quotes.quote,If you think in terms of a year plant a seed; if in terms of ten years plant trees; if in terms of 100 years teach the people.
+en-us,confucius-quotes.quote,Respect yourself and others will respect you.
+en-us,confucius-quotes.quote,When anger rises think of the consequences.
+en-us,confucius-quotes.quote,The man who moves a mountain begins by carrying away small stones.
+en-us,confucius-quotes.quote,The faults of a superior person are like the sun and moon. They have their faults and everyone sees them; they change and everyone looks up to them.
+en-us,confucius-quotes.quote,He with whom neither slander that gradually soaks into the mind nor statements that startle like a wound in the flesh are successful may be called intelligent indeed.
+en-us,confucius-quotes.quote,The determined scholar and the man of virtue will not seek to live at the expense of injuring their virtue. They will even sacrifice their lives to preserve their virtue complete.
+en-us,confucius-quotes.quote,Without knowing the force of words it is impossible to know men.
+en-us,confucius-quotes.quote,Learning without thought is labor lost thought without learning is perilous.
+en-us,confucius-quotes.quote,To see what is right and not to do it is want of courage or of principle.
+en-us,confucius-quotes.quote,What is the sound of one hand clapping
+en-us,confucius-quotes.quote,When we see men of worth we should think of equaling them when we see men of a contrary character we should turn inwards and examine ourselves.
+en-us,confucius-quotes.quote,He who exercises government by means of his virtue may be compared to the north polar star which keeps its place and all the stars turn towards it.
+en-us,confucius-quotes.quote,He who merely knows right principles is not equal to him who loves them.
+en-us,confucius-quotes.quote,He who will not economize will have to agonize.
+en-us,confucius-quotes.quote,I am not one who was born in the possession of knowledge I am one who is fond of antiquity and earnest in seeking it there.
+en-us,confucius-quotes.quote,If a man take no thought about what is distant he will find sorrow near at hand
+en-us,confucius-quotes.quote,If we don't know life how can we know death
+en-us,confucius-quotes.quote,Is virtue a thing remote I wish to be virtuous and lo Virtue is at hand.
+en-us,confucius-quotes.quote,It is man that makes truth great not truth that makes man great.
+en-us,confucius-quotes.quote,It is not possible for one to teach others who cannot teach his own family.
+en-us,confucius-quotes.quote,It is only the wisest and the stupidest that cannot change.
+en-us,confucius-quotes.quote,Looking at small advantages prevents great affairs from being accomplished.
+en-us,confucius-quotes.quote,Only the wisest and stupidest of men never change.
+en-us,confucius-quotes.quote,Our greatest glory is not in never falling but in rising every time we fall.
+en-us,confucius-quotes.quote,The cautious seldom err.
+en-us,confucius-quotes.quote,The firm the enduring the simple and the modest are near to virtue.
+en-us,confucius-quotes.quote,The man of virtue makes the difficulty to be overcome his first business and success only a subsequent consideration.
+en-us,confucius-quotes.quote,The man who in view of gain thinks of righteousness who in the view of danger is prepared to give up his life and who does not forget an old agreement however far back it extends - such a man may be reckoned a complete man.
+en-us,confucius-quotes.quote,The object of the superior man is truth.
+en-us,confucius-quotes.quote,The people may be made to follow a path of action but they may not be made to understand it.
+en-us,confucius-quotes.quote,The perfecting of one's self is the fundamental base of all progress and all moral development.
+en-us,confucius-quotes.quote,The superior man acts before he speaks and afterwards speaks according to his action.
+en-us,confucius-quotes.quote,The superior man cannot be known in little matters but he may be entrusted with great concerns. The small man may not be entrusted with great concerns but he may be known in little matters.
+en-us,confucius-quotes.quote,The superior man makes the difficulty to be overcome his first interest success only comes later.
+en-us,confucius-quotes.quote,The superior man when resting in safety does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly he does not forget that disorder may come. Thus his person is not endangered and his States and all their clans are preserved.
+en-us,confucius-quotes.quote,The superior man...does not set his mind either for anything or against anything what is right he will follow.
+en-us,confucius-quotes.quote,There are three things to beware of through life: when a man is young let him beware of his appetites; when he is middle-aged of his passions; and when old of covetousness especially.
+en-us,confucius-quotes.quote,To be able to practice five things everywhere under heaven constitutes perfect virtue...They are gravity generosity of soul sincerity earnestness and kindness.
+en-us,confucius-quotes.quote,To see what is right and not do it is want of courage or of principle.
+en-us,confucius-quotes.quote,Virtue is not left to stand alone. He who practices it will have neighbors.
+en-us,confucius-quotes.quote,We take greater pains to persuade others that we are happy than in endeavoring to think so ourselves.
+en-us,confucius-quotes.quote,Wealth and rank are what people desire but unless they be obtained in the right way they may not be possessed.
+en-us,confucius-quotes.quote,What the superior man seeks is in himself; what the small man seeks is in others.
+en-us,controls.neon.ActionNotConfirmed,Okay. Not doing anything.
+en-us,controls.neon.AlsoLocation,Would you also like to change your {{type}} from {{old}} to {{new}}?
+en-us,controls.neon.BlinkBoundary,Already at {{bound}} threshold.
+en-us,controls.neon.ChangeLocation,Changing {{type}} to {{location}}.
+en-us,controls.neon.ConfirmNewWakeWord,Change my wake word to "{{ww}}"?
+en-us,controls.neon.ConfirmTranscription,Should I {{action}} {{option}} transcription?
+en-us,controls.neon.EnableAudioRecording,Audio recording {{enable}}.
+en-us,controls.neon.EnableTranscription,Text transcription {{enable}}.
+en-us,controls.neon.GestureState,{{kind}} commands are now {{enable}}.
+en-us,controls.neon.ListGestures,Sure your {gesture} options are:
+en-us,controls.neon.NeedLongerWakeWord,Please pick a longer wake word phrase.
+en-us,controls.neon.NewWakeWord,Alright I'll respond to "{ww}" from now on.
+en-us,controls.neon.StartupSetting,{{kind}} commands will now be {{enable}} by default.
+en-us,controls.neon.ThresholdOutOfBounds,Not a valid {{kind}} threshold please choose something between {{min}} and {{max}}.
+en-us,count-skill.count_error,I do not understand.
+en-us,count-skill.count_error,I am missing something.
+en-us,count-skill.count_error,Say again?
+en-us,count-skill.count_error,Sorry. I did not hear that.
+en-us,count-skill.count_start,Counting to {number}. starting now!
+en-us,count-skill.count_stop,Done!
+en-us,count-skill.count_stop,Finish!
+en-us,count-skill.countdown_start,Count down from {number}. Starting now!
+en-us,count-skill.countdown_stop,Done!
+en-us,count-skill.countdown_stop,Finish!
+en-us,countries.area,{{country}} has {{number}} square kilometers
+en-us,countries.bad_country,i did not catch which country we are talking about
+en-us,countries.bad_country,what country are we talking about?
+en-us,countries.bad_country,what country name did you just say?
+en-us,countries.bad_region,i did not catch which region we are talking about
+en-us,countries.bad_region,which region are we talking about?
+en-us,countries.bad_region,which region did you just ask about?
+en-us,countries.birthday,when is your birthday
+en-us,countries.birthday,when were you born
+en-us,countries.birthday,what is your birth date
+en-us,countries.borders,{{country}} shares its borders with {{borders}}
+en-us,countries.capital,the capital of {{country}} is {{capital}}
+en-us,countries.country_location,{{ country }} is located at {{ region }}
+en-us,countries.country_number,i have data on {{ number }} countries
+en-us,countries.country_number,i can tell you things about {{ number }} countries
+en-us,countries.currency,the currency of {{country}} is {{coin}}
+en-us,countries.denonym,Native people of {{country}} are called {{denonym}}
+en-us,countries.gender,are you male or female
+en-us,countries.gender,are you female or male
+en-us,countries.population,the population of {{country}} is {{number}}
+en-us,countries.timezones,{{country}} has the following timezones; {{timezones}}
+en-us,custom-conversation.neon.AlreadyRunning,{file_name} is already running. Say 'Exit' or continue the script.
+en-us,custom-conversation.neon.Exiting,Exiting {file_name} skill file.
+en-us,custom-conversation.neon.NotFound,Sorry. It does not look like I have a script file with the name '{file_to_open}'.
+en-us,custom-conversation.neon.ProblemInFile,It looks like {file_name} is not a valid script. Please check the file or refer to the example for help.
+en-us,custom-conversation.neon.Starting,Starting the {{file_to_run}} script.
+en-us,custom-conversation.neon.TimeoutExit,I haven't heard a response in {{duration}} seconds.
+en-us,custom-conversation.neon.already_exists,{new} already is a synonym for {existing}.
+en-us,custom-conversation.neon.already_filled,{existing} has {already_filled} as a synonym. I am adding {new} as an additional option.
+en-us,custom-conversation.neon.available_script,The available script files are: {available}
+en-us,custom-conversation.neon.email_sent,Sending {{script}} to {{email}}.
+en-us,custom-conversation.neon.error_at_line,<speak>A {{error}} error was found in line {{line}} of {{script}}.</speak> Line: {{detail}}
+en-us,custom-conversation.neon.new_existing,Okay. Adding {new} as a synonym for {existing}
+en-us,custom-conversation.neon.new_is_another_key,{new} already exist as a value with synonyms.
+en-us,custom-conversation.neon.new_is_another_value,{new} already exists as a synonym value for {existing}
+en-us,custom-conversation.neon.no_email,Sorry I don't have an email address to send to.
+en-us,custom-conversation.neon.same_values,It looks like the requested synonym {new} is the same as existing {existing}. Please try again.
+en-us,custom-conversation.neon.startup_script,Updating your startup script to {{script_name}}.
+en-us,custom-conversation.neon.update_disallowed,Conversation Script updates have been disabled on this device.
+en-us,custom-conversation.neon.update_failed,An error occurred while updating conversation scripts.
+en-us,custom-conversation.neon.update_started,Updating your conversation scripts.
+en-us,custom-conversation.neon.update_success,Successfully updated conversation scripts.
+en-us,custom-conversation.neon.upload_failed,Upload of {{name}} failed because {{reason}}.
+en-us,custom-conversation.neon.upload_success,{{name}} successfully {{state}}.
+en-us,cut-up-skill.frag_type.set,Selected the {{frag_type}} fragment type.
+en-us,cut-up-skill.maximum.set,Maximum chunk size set to {{max}}.
+en-us,cut-up-skill.minimum.set,Minimum chunk size set to {{min}}.
+en-us,cut-up-skill.randomness.set,Randomness set to {{rand}} percent.
+en-us,date-time.date,{{date}}
+en-us,date-time.date,It is {{date}}
+en-us,date-time.date,It's {{date}}
+en-us,date-time.date,{{date}}
+en-us,date-time.time.current,{{time}}
+en-us,date-time.time.current,It is {{time}}
+en-us,date-time.time.current,{{time}}
+en-us,date-time.time.current,It's {{time}}
+en-us,date-time.time.current,Currently {{time}}
+en-us,date-time.time.tz.not.found,I could not find the time zone for {{location}}
+en-us,days-in-history-skill.notfound,I'm unable to find a wikipedia page for that
+en-us,days-in-history-skill.notfound,Sorry I cant seem to locate that article
+en-us,days-in-history-skill.notfound,I can't find a matching entry on wikipedia
+en-us,days-in-history-skill.searching,Just a moment while I find historical events on {{day}}
+en-us,days-in-history-skill.searching,Let me look into that
+en-us,days-in-history-skill.searching,I'm checking Wikipedia for events in history on {{day}}
+en-us,ddg.no_answer,the duck does not know the answer
+en-us,ddg.thats all,That's all I know
+en-us,ddg.thats all,That's all I can find
+en-us,deezer.intro,Thank you for installed Deezer skill additional setup is required please check the readme for additional instructions.
+en-us,device-control-center.neon.ActionNotConfirmed,Please try again. The action was not confirmed
+en-us,device-control-center.neon.AlreadyInDialogMode,I am already using my {{mode}} responses.
+en-us,device-control-center.neon.AlreadyRequiring,It appears I am already in my wake word mode.
+en-us,device-control-center.neon.AlreadySkipping,It looks like I am already skipping wake words.
+en-us,device-control-center.neon.AlreadyUpdated,I am already up to date. Would you like to run the update anyway?
+en-us,device-control-center.neon.AskDemoNextTime,Should I ask you next time?
+en-us,device-control-center.neon.AskStartRequiring,Should I start requiring wake words?
+en-us,device-control-center.neon.AskStartSkipping,Should I start skipping wake words?
+en-us,device-control-center.neon.CancelExit,Glad to stay with you.
+en-us,device-control-center.neon.ChangeDialog,Would you like to switch to {{mode}} dialog mode?
+en-us,device-control-center.neon.ClearData,Are you sure you want to {{option}}? Please say 'go ahead' followed by {{confirm}} to confirm or say 'nevermind' to cancel.
+en-us,device-control-center.neon.ConfirmChangeDialog,I will use my {{mode}} from now on.
+en-us,device-control-center.neon.ConfirmClearAll,Please wait a moment while I erase everything I know about you. I enjoyed our friendship. I hope to be your friend once again.
+en-us,device-control-center.neon.ConfirmClearData,Clearing your {{kind}}.
+en-us,device-control-center.neon.ConfirmExitShutdown,Are you sure that you wish to {{action}}? If so please say 'go ahead {{number}}' to proceed or say 'nevermind' to cancel.
+en-us,device-control-center.neon.ConfirmRequireWW,Okay entering wake words mode.
+en-us,device-control-center.neon.ConfirmSkipWW,Okay starting to skip wake words.
+en-us,device-control-center.neon.CurrentVersion,I am on version {{version}}.
+en-us,device-control-center.neon.DemoNextTime,If you want to see the demo in the future say "Neon show me the demo".
+en-us,device-control-center.neon.DialogModeNotSpecified,I am not quite sure that I understand which dialog mode you are asking me to use. Please try again.
+en-us,device-control-center.neon.ErrorCheckingVersion,An error occurred and I could not get the current version info. Would you like to run the update anyway?
+en-us,device-control-center.neon.Exiting,Hope to see you again soon. Goodbye.
+en-us,device-control-center.neon.NotDoingAnything,Okay not doing anything.
+en-us,device-control-center.neon.ShuttingDown,Initiating shutdown. Goodbye.
+en-us,device-control-center.neon.UpdateAvailable,The most recent version is {{version}}. Would you like to install it now?
+en-us,dice-skill.multiple.modificator.result,Your numbers are {result} adding to a total of {total}
+en-us,dice-skill.multiple.result,Your numbers are {result}
+en-us,dice-skill.range.needed,You need a specify a range
+en-us,dice-skill.range.needed,I need a range to do that
+en-us,dice-skill.range.needed,Tell me what range you want your numbers from
+en-us,dice-skill.single.modificator.result,The Result is {total}.
+en-us,dice-skill.single.result,The Result is {result}.
+en-us,dice-skill.single.result,Your number is {result}
+en-us,dismissal-skill.dismissed,Okay.
+en-us,dismissal-skill.dismissed,Alright.
+en-us,dismissal-skill.dismissed,If you say so.
+en-us,dismissal-skill.dismissed,Whatever you say.
+en-us,dust.intro,thank you for installing Dust short movies skill
+en-us,email-commands.error,something is wrong with email configuration skill failed to start
+en-us,email-commands.intro,thank you for installing email commands skill please check the readme for additional setup instructions
+en-us,email-skill.already.looking.for.all,I'm already looking for new mail
+en-us,email-skill.already.looking.for.all,I've already been looking for new mail
+en-us,email-skill.already.looking.for.all,I am already looking for new e mail
+en-us,email-skill.already.looking.for.specific,I'm already looking for emails from {email}
+en-us,email-skill.already.looking.for.specific,I've already been looking for new mail from {email}
+en-us,email-skill.already.looking.for.specific,I am already looking for e mail from {email}
+en-us,email-skill.cancel.looking.for.all.look.specific,I currently look for all new mail do you want me to only notify you of emails by {email}
+en-us,email-skill.cancel.looking.for.all.look.specific,I've already been looking for new email do you just want me to notify you of new e mail from {email}
+en-us,email-skill.cancel.looking.for.specific.look.all,I am currently looking for {email} do you want me to look for all new mail instead
+en-us,email-skill.cancel.looking.for.specific.look.all,Right now I'm only looking for email from {email} Do you want me to look for all e mail instead
+en-us,email-skill.cancel.looking.for.specific.look.all,Do you want me to look for all email instead of looking for email just from {email}
+en-us,email-skill.error.getting.mail,There was an error getting your email Try checking your credentials and server information
+en-us,email-skill.error.getting.mail,Check your credentials and server information because there was a problem getting your mail
+en-us,email-skill.error.getting.mail,I can not connect to your email server Check your password and server information
+en-us,email-skill.list.subjects,Your {message_num} email is from {sender} Its subject is {subject}
+en-us,email-skill.list.subjects,The {message_num} email's subject is {subject} Its from {sender}
+en-us,email-skill.more.emails,would you like to hear more
+en-us,email-skill.more.emails,want to hear more of your emails
+en-us,email-skill.more.emails,do you want to hear more
+en-us,email-skill.no.emails.from,There are no emails from {sender}
+en-us,email-skill.no.emails.from,You have no emails from {sender}
+en-us,email-skill.no.emails.from,You haven't recieved any emails from {sender}
+en-us,email-skill.no.more.emails,okay
+en-us,email-skill.no.new.email,There is no new email
+en-us,email-skill.no.new.email,There's no new email
+en-us,email-skill.no.new.email,There's no new mail
+en-us,email-skill.no.new.email,There is no new mail
+en-us,email-skill.no.new.email,There's no new email for you
+en-us,email-skill.no.new.email,There's no new mail for you
+en-us,email-skill.no.new.email,You have no new mail
+en-us,email-skill.no.new.email,You have no new email
+en-us,email-skill.not.looking.for,I'm currently not looking for emails by {email}
+en-us,email-skill.not.looking.for,I'm not looking for emails by {email}
+en-us,email-skill.not.looking.for,Right now I'm not looking for email by {email}
+en-us,email-skill.notify.read.email,You have {size} new email do you want to hear them
+en-us,email-skill.notify.read.email,There are {size} new email Do you want to hear them
+en-us,email-skill.notify.read.email,Do you want to hear your {size} emails
+en-us,email-skill.poll.emails.not.started,I'm not looking for new mail
+en-us,email-skill.poll.emails.not.started,Currently I'm not looking for new email
+en-us,email-skill.setup,To set the email skill up please go to home dot mycroft dot a i to enter your email information
+en-us,email-skill.setup,You need to set the email skill up To do so please go to home dot mycroft dot a i to enter your email information
+en-us,email-skill.start.poll.email,I will notify you of new mail
+en-us,email-skill.start.poll.email,Okay I'll start to notify you of new email
+en-us,email-skill.start.poll.email,I'm starting to look for new email
+en-us,email-skill.stop.looking.for,I will stop looking for new mail by {email}
+en-us,email-skill.stop.looking.for,Okay I'll stop looking for new email by {email}
+en-us,email-skill.stop.poll.emails,Okay I'll stop looking for new email
+en-us,email-skill.stop.poll.emails,Alright I'm not going to look for new email anymore
+en-us,email-skill.stop.poll.emails.last.email.removed,I'm stopping to look for new mail because there are no email addresses you want to be notified of
+en-us,email-skill.update.notify.data,I updated your email preferences
+en-us,email-skill.update.notify.data,Alright I've updated your email preferences
+en-us,emby-skill.configuration_fail,Unable to connect to the Emby Server. Please check or setup your configuration at home.Mycroft.ai
+en-us,emby-skill.configuration_success,Successfully connected to Emby server at {hostname}
+en-us,emby-skill.diag_auth_fail,I'm unable to authenticate to the emby server. Please check or setup your configuration at home.Mycroft.ai
+en-us,emby-skill.diag_auth_success,I've successfully authenticated to the emby server!
+en-us,emby-skill.diag_public_info_fail,Emby server at {host} does not appear to be reachable or is not responding.
+en-us,emby-skill.diag_public_info_success,Great! I can access {ServerName} running version {Version}. Attempting to authenticate.
+en-us,emby-skill.diag_start,I'm going to run a diagnostic check on the emby skill connection. This will check if the server is accessible and if I am able to authenticate.
+en-us,emby-skill.diag_stop,Diagnostic will not continue.
+en-us,emby-skill.diagnostic,Diagnostic is complete I can connect and authenticate to the emby server. Now its time to play some Music!
+en-us,emby-skill.emby,Playing {media}
+en-us,emby-skill.general_check_settings_logs,Please check your settings on Mycroft.ai. If this issue persists check the Mycroft logs for more information.
+en-us,emby-skill.play_fail,Unable to find or play {media}. Please try again.
+en-us,emby-skill.play_fail,Unable to find or play {media}. Please try again. If this continues to happen check your configuration at home.Mycroft.ai
+en-us,euronews.intro,thank you for installing Euro News Skill
+en-us,fairytalez-skill.continue,Continue telling {story}
+en-us,fairytalez-skill.continue,Where did we get to. Oh yes here. {story}
+en-us,fairytalez-skill.fairytalez,I know more than 2000 fairy tales folk tales and fables from all around the world. Which one would you like to hear ?
+en-us,fairytalez-skill.from_fairytalez,These fairy tales are from www dot fairytalez dot com. They love fairy tales! Please visit the site where you find the largest collection of fairy tales folk tales and fables online.
+en-us,fairytalez-skill.i_know_that,{story} is a good one. Let us begin...
+en-us,fairytalez-skill.i_know_that,Yes {story} is a good one. It goes like this...
+en-us,fairytalez-skill.is_it_that,Is it that one?
+en-us,fairytalez-skill.is_it_that,Could it be that?
+en-us,fairytalez-skill.is_it_that,Shall I tell you this one?
+en-us,fairytalez-skill.is_it_that,Do you want to hear that?
+en-us,fairytalez-skill.let_me_think,let me see. Do I know {story}
+en-us,fairytalez-skill.let_me_think,well I need to think if I remember {story}
+en-us,fairytalez-skill.no_story,Then I dont know which story you want to hear.
+en-us,fairytalez-skill.no_story_to_continue,There is no story to continue
+en-us,fairytalez-skill.no_story_to_continue,I am sorry - no story to continue.
+en-us,fairytalez-skill.that_would_be,I can tell the story {story}.
+en-us,fairytalez-skill.that_would_be,I remember the {story}.
+en-us,fairytalez-skill.title_by_author,{title} by {author}
+en-us,fallback-aiml.reset.memory,Resetting knowledge database
+en-us,fallback-aiml.reset.memory,Forgetting everything
+en-us,fallback-aiml.reset.memory,Okay I will now reset my memory
+en-us,fallback-aiml.reset.memory,Brain erasure initiated
+en-us,fallback-recommendations-skill.skill.download.confirmation,The {{skill_name}} skill can do that for you. Would you like me to download it?
+en-us,fallback-recommendations-skill.skill.download.confirmation,I've found a skill called the {{skill_name}} skill which could help you with that. Would you like me to download it?
+en-us,fallback-recommendations-skill.skill.download.refused,Okay.
+en-us,fallback-recommendations-skill.skill.download.refused,Alright.
+en-us,fallback-recommendations-skill.skill.downloading,Just a moment I'm downloading the {{skill_name}} skill.
+en-us,fallback-recommendations-skill.skill.downloading,One moment I'm downloading the {{skill_name}} skill.
+en-us,fallback-recommendations-skill.skill.downloading,Okay Let me download the {{skill_name}} skill.
+en-us,fallback-recommendations-skill.skill.downloading,Hold on a moment while I download the {{skill_name}} skill.
+en-us,fallback-recommendations-skill.skill.downloading,Okay I'm downloading the {{skill_name}} skill.
+en-us,fallback-recommendations-skill.skill.downloading,Just a moment I'm downloading the {{skill_name}} skill.
+en-us,fallback-unknown.question,I'm sorry I can’t help you with that.
+en-us,fallback-unknown.question,I'm not sure how to help you with that.
+en-us,fallback-unknown.question,I don't understand but I'm learning new things everyday.
+en-us,fallback-unknown.question,I'm not sure how to answer that.
+en-us,fallback-unknown.unknown,I'm sorry I don't understand.
+en-us,fallback-unknown.unknown,I don't know what that means.
+en-us,fallback-unknown.unknown,I don't understand but I'm learning new things everyday.
+en-us,fallback-unknown.unknown,Sorry I didn't catch that.
+en-us,fallback-unknown.unknown,Sorry I don't understand.
+en-us,fallback-unknown.unknown,I don't understand.
+en-us,fallback-unknown.unknown,Huh I don't understand.
+en-us,fallback-unknown.unknown,I'm not sure I understood you.
+en-us,fallback-unknown.unknown,You might have to say that a different way.
+en-us,fallback-unknown.unknown,Please rephrase your request.
+en-us,fallback-unknown.who.is,I don't know who that is.
+en-us,fallback-unknown.who.is,I'm not sure who that is.
+en-us,fallback-unknown.why,I'm not sure how to help you with that.
+en-us,fallback-unknown.why,I don't know.
+en-us,fallback-unknown.why,I'm not quite sure.
+en-us,fallback-unknown.why,I'm not sure.
+en-us,fallback-unknown.why,I'm not sure but I'm doing my best to learn.
+en-us,fallback-wolfram-alpha.email.body,You asked <br/><ul><tt>'{{query}}'</tt></ul><br/> and were told <br/><ul><tt>'{{answer}}'</tt></ul><P> For more details and the information sources used to generate the answer visit:<br/><a href="http://www.wolframalpha.com/input/?i={{url_query}}">www.wolframalpha.com</a>
+en-us,fallback-wolfram-alpha.email.subject,Sources for: '{{query}}'
+en-us,fallback-wolfram-alpha.no.info.to.send,I couldn't find any Wolfram Alpha queries to send.
+en-us,fallback-wolfram-alpha.not.understood,Sorry I don't {{phrase}}
+en-us,fallback-wolfram-alpha.sent.email,I've sent an email to your registered account with a link to Wolfram Alpha for further details and sources.
+en-us,finished-booting.finished.booting,I have now finished booting up.
+en-us,finished-booting.finished.booting,I am now ready.
+en-us,finished-booting.finished.booting,Hi this is mycroft and I am ready to work.
+en-us,finished-booting.finished.booting,You can get started with mycroft.
+en-us,futurism-cartoons.futurism,Futurism cartoon from {{ date }}
+en-us,futurism-cartoons.futurism_num,Futurism cartoon number {{number}} from {{ date }}
+en-us,futurism-cartoons.futurism_total_cartoons,Futurism has created {{ number }} cartoons to date
+en-us,futurism-cartoons.futurism_total_cartoons,There are {{ number }} Futurism cartoons as of today
+en-us,futurism-cartoons.futurism_total_cartoons,Currently {{ number }} Futurism cartoons exist
+en-us,futurism-cartoons.num_error,There are only {{ total }} comics
+en-us,futurism-cartoons.num_error,There are only {{ total }} XKCD comics
+en-us,helioviewer.animation,Here is an animation of the past few days
+en-us,helioviewer.c2,Large Angle Spectrometric Coronagraph C2 images show the inner solar corona up to 8.4 million kilometers ( 5.25 million miles ) away from the Sun.
+en-us,helioviewer.c3,Large Angle Spectrometric Coronagraph C3 images have a larger field of view: They encompass 32 diameters of the Sun. To put this in perspective the diameter of the images is 45 million kilometers ( about 30 million miles ) at the distance of the Sun or half of the diameter of the orbit of Mercury. Many bright stars can be seen behind the Sun.
+en-us,helioviewer.eit171,EIT ( Extreme ultraviolet Imaging Telescope ) images the solar atmosphere at several wavelengths and therefore shows solar material at different temperatures. In the images taken at 171 Angstrom the bright material is at 1 million degrees
+en-us,helioviewer.eit195,EIT ( Extreme ultraviolet Imaging Telescope ) images the solar atmosphere at several wavelengths and therefore shows solar material at different temperatures. The images taken at 195 Angstrom correspond to about 1.5 million Kelvin
+en-us,helioviewer.eit284,EIT ( Extreme ultraviolet Imaging Telescope ) images the solar atmosphere at several wavelengths and therefore shows solar material at different temperatures. The images taken at 284 Angstrom correspond to 2 million degrees
+en-us,helioviewer.eit304,EIT ( Extreme ultraviolet Imaging Telescope ) images the solar atmosphere at several wavelengths and therefore shows solar material at different temperatures. In the images taken at 304 Angstrom the bright material is at 60000 to 80000 degrees Kelvin.
+en-us,helioviewer.hmiigr,The MDI ( Michelson Doppler Imager ) images shown here are taken in the continuum near the Ni I 6768 Angstrom line. The most prominent features are the sunspots. This is very much how the Sun looks like in the visible range of the spectrum
+en-us,helioviewer.hmimag,The magnetogram image shows the magnetic field in the solar photosphere with black and white indicating opposite polarities.
+en-us,helioviewer.nospots,No spots at all.
+en-us,helioviewer.recent,Here are the counts for the past several days. {{spotcount}}.
+en-us,helioviewer.recent,Over the last several days the spot count has been {{spotcount}}.
+en-us,helioviewer.sunspots,I wish I knew how to count. Astronomers say the count is {{spotcount}} {{spcomment}} reported from {{stations}} observatories.
+en-us,helioviewer.sunspots,Sunspots are such fun. Right now the count is {{spotcount}} {{spcomment}} reported from {{stations}} observatories.
+en-us,helioviewer.sunspots,The sun has pimples. There are {{spotcount}} of then right now {{spcomment}} according to {{stations}} observatories.
+en-us,helioviewer.sunspots.past,Astronomers say the count on {{date}} was {{spotcount}} {{spcomment}} reported from {{stations}} observatories.
+en-us,helioviewer.sunspots.past,There were {{spotcount}} on {{date}} {{spcomment}} reported from {{stations}} observatories.
+en-us,helioviewer.sunspots.past,There were {{spotcount}} on {{date}} {{spcomment}} according to {{stations}} observatories.
+en-us,helioviewer.temperature,the hotter the temperature the higher you look in the solar atmosphere.
+en-us,hello-world.hello.world,Hello world
+en-us,hello-world.hello.world,Hello
+en-us,hello-world.hello.world,Hi to you too
+en-us,hello-world.how.are.you,I'm doing well
+en-us,hello-world.how.are.you,Pretty well
+en-us,hello-world.how.are.you,Not bad
+en-us,hello-world.how.are.you,I'm doing excellent
+en-us,hello-world.how.are.you,Could be better
+en-us,hello-world.how.are.you,I'm doing very well
+en-us,hello-world.welcome,Any time.
+en-us,hello-world.welcome,Glad to be of service.
+en-us,hello-world.welcome,Glad to help.
+en-us,hello-world.welcome,My Pleasure.
+en-us,hello-world.welcome,No problem.
+en-us,hello-world.welcome,You're welcome.
+en-us,hivemind.intro,thank you for installing {skill_name} skill
+en-us,hivemind.key_update,authorization keys updated
+en-us,hivemind.need_reboot,reboot needed for new settings to take effect
+en-us,homeassistant.homeassistant.automation.trigger,triggered automation {{dev_name}}.
+en-us,homeassistant.homeassistant.automation.trigger,triggered {{dev_name}}.
+en-us,homeassistant.homeassistant.automation.trigger,{{dev_name}} was triggered.
+en-us,homeassistant.homeassistant.automation.trigger,{{dev_name}} was activated.
+en-us,homeassistant.homeassistant.automation.trigger,activated {{dev_name}}.
+en-us,homeassistant.homeassistant.brightness.badreq,please request a brightness level between 0 and 100.
+en-us,homeassistant.homeassistant.brightness.badreq,how bright? you can choose a level from 0 to 100.
+en-us,homeassistant.homeassistant.brightness.cantdim.dimmable,Can not dim {{dev_name}}. It is not dimmable.
+en-us,homeassistant.homeassistant.brightness.cantdim.off,Can not dim {{dev_name}}. It is off.
+en-us,homeassistant.homeassistant.brightness.cantdim.off,Can not dim {{dev_name}}. Please turn it on before.
+en-us,homeassistant.homeassistant.brightness.cantdim.off,{{dev_name}} can not be dimmed. Only devices that are turned on can be.
+en-us,homeassistant.homeassistant.brightness.decreased,Dimmed {{dev_name}} to {{brightness}} percent.
+en-us,homeassistant.homeassistant.brightness.decreased,Dimmed {{dev_name}}.
+en-us,homeassistant.homeassistant.brightness.dimmed,Set the brightness of {{dev_name}} to {{brightness}} percent.
+en-us,homeassistant.homeassistant.brightness.increased,Increased brightness of {{dev_name}} to {{brightness}} percent.
+en-us,homeassistant.homeassistant.brightness.increased,Increased brightness of {{dev_name}}.
+en-us,homeassistant.homeassistant.device.already,{{dev_name}} already {{action}}.
+en-us,homeassistant.homeassistant.device.already,No changes made to {{dev_name}}.
+en-us,homeassistant.homeassistant.device.off,turned off {{dev_name}}.
+en-us,homeassistant.homeassistant.device.off,turned {{dev_name}} off.
+en-us,homeassistant.homeassistant.device.off,{{dev_name}} is now off.
+en-us,homeassistant.homeassistant.device.on,turned on {{dev_name}}.
+en-us,homeassistant.homeassistant.device.on,{{dev_name}} was turned on.
+en-us,homeassistant.homeassistant.device.on,turned {{dev_name}} on.
+en-us,homeassistant.homeassistant.device.toggle,toggled {{dev_name}}.
+en-us,homeassistant.homeassistant.device.toggle,{{dev_name}} was toggled.
+en-us,homeassistant.homeassistant.device.unknown,Sorry I can't find the Home Assistant entity "{{dev_name}}".
+en-us,homeassistant.homeassistant.device.unknown,Entity "{{dev_name}}" could not be found.
+en-us,homeassistant.homeassistant.device.unknown,Sorry entity "{{dev_name}}" wasn't found.
+en-us,homeassistant.homeassistant.device.unknown,Excuse me I wasn't able to find "{{dev_name}}".
+en-us,homeassistant.homeassistant.error,Access to home assistant server at {{url}} failed.
+en-us,homeassistant.homeassistant.error.http,The home assistant server failed to respond because of {{code}} {{reason}}
+en-us,homeassistant.homeassistant.error.invalidurl,The url {{url}} does not host a valid home assistant server
+en-us,homeassistant.homeassistant.error.offline,The Home assistant server appears to be offline.
+en-us,homeassistant.homeassistant.error.offline,Couldn't reach the home assistant server.
+en-us,homeassistant.homeassistant.error.offline,The home assistant server did not respond.
+en-us,homeassistant.homeassistant.error.setup,Please configure the home assistant skill settings at home dot mycroft dot ai.
+en-us,homeassistant.homeassistant.error.sorry,I don't know what you want me to do.
+en-us,homeassistant.homeassistant.error.sorry,Couldn't figure out how to talk to Home Assistant.
+en-us,homeassistant.homeassistant.error.sorry,I don't understand what you are asking.
+en-us,homeassistant.homeassistant.error.ssl,The configuration for S S L on the home assistant server is invalid.
+en-us,homeassistant.homeassistant.error.wrong_password,The home assistant server did not accept the configured password.
+en-us,homeassistant.homeassistant.sensor,Currently {{dev_name}} is {{value}} {{unit}}.
+en-us,homeassistant.homeassistant.sensor,{{dev_name}} has the state: {{value}} {{unit}}.
+en-us,homeassistant.homeassistant.sensor,{{dev_name}} is {{value}} {{unit}} at the moment.
+en-us,homeassistant.homeassistant.sensor,{{dev_name}} is {{value}} {{unit}}.
+en-us,homeassistant.homeassistant.set.thermostat,Successfully set {{dev_name}} to {{value}} {{unit}}.
+en-us,homeassistant.homeassistant.tracker.found,Last known location of {{dev_name}} is {{location}}.
+en-us,homeassistant.homeassistant.tracker.found,{{dev_name}} is at {{location}}.
+en-us,homeassistant.homeassistant.tracker.found,{{dev_name}} has been detected at {{location}}.
+en-us,horrorbabble.intro,thank you for installing Horror Babble Skill
+en-us,hubble-telescope.about,The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope but it is one of the largest and most versatile well known both as a vital research tool and as a public relations boon for astronomy.
+en-us,hubble-telescope.hubble,The image was taken while the Space Telescope Imaging Spectrograph was aimed at a different part of the moon to measure the colors of sunlight reflected off the Moon. The picture at upper left is a full view of the moon taken by a terrestrial telescope. The wide central image is Hubble's crisp bird's-eye view which clearly shows the ray pattern of bright dust ejected out of the crater over one billion years ago when an asteroid larger than a mile across slammed into the Moon. A close-up view of Copernicus's terraced walls is shown at lower right.
+en-us,hubble-telescope.hubble.colors,There are no natural color cameras aboard Hubble and there never have been. The optical cameras on board have all been digital CCD cameras which take images as grayscale pixels but use colored filters to isolate different colors in each image. Sometimes the color in the images is as natural as possible. However the color given to the images is not just artistic embellishment. The images are indeed downloaded as black and white and color is added for a number of different reasons — for example to show the location of chemical elements and highlight features so subdued that the human eye cannot see them.
+en-us,hubble-telescope.hubble.data.public,Astronomers who requested the data generally have six months to publish their findings before the data are publicly released.
+en-us,hubble-telescope.hubble.earth,The surface of the Earth is whizzing by as Hubble orbits and the pointing system designed to track the distant stars cannot track an object on the Earth. The shortest exposure time on any of the Hubble instruments is 0.1 seconds and in this time Hubble moves almost half a mile about 700 meters. A picture Hubble took of Earth would be completely streaked.
+en-us,hubble-telescope.hubble.how,Hubble is a Cassegrain telescope — a type of reflecting telescope. Light enters the telescope and strikes the large primary or main mirror. The light is then reflected from the primary mirror onto the secondary mirror which then focuses the light back through a hole in the primary mirror to a point behind that mirror where the science instruments are located. Hubble’s primary mirror is 94.5 inches ( 2.4 meters ) in diameter.
+en-us,hubble-telescope.hubble.instruments,Hubble collects light from celestial objects and directs it to the telescope’s science instruments. Hubble’s current suite of instruments includes the Wide Field Camera 3 ( WFC3 )  Cosmic Origins Spectrograph ( COS )  Advanced Camera for Surveys ( ACS )  Space Telescope Imaging Spectrograph ( STIS )  and Fine Guidance Sensors ( FGS ) .
+en-us,hubble-telescope.hubble.live,While there is no “real time” camera or webcam on board the telescope for live relay links you can find out what Hubble is observing at any time by visiting Space Telescope Live. Usually Hubble is looking at these targets for the first time so the images you will see there are from other telescopes but give you an idea of where Hubble is looking.
+en-us,hubble-telescope.hubble.mission,When launched the primary objectives of the Hubble Space Telescope were to investigate the constitution physical characteristics and dynamics of celestial bodies determine the nature of processes occurring in stellar and galactic objects study the history and evolution of the universe confirm universality of physical laws provide a long-term space research facility for optical astronomy
+en-us,hubble-telescope.hubble.moon,An object on the Moon even the size of a large house is too small to resolve. So anything we left on the Moon cannot be resolved in any Hubble image. It would just appear as a dot blended with its surroundings.
+en-us,hubble-telescope.hubble.moon.caption,at upper left is a full view of the moon taken by a terrestrial telescope. The wide central image is Hubble's crisp bird's-eye view which clearly shows the ray pattern of bright dust ejected out of the crater over one billion years ago when an asteroid larger than a mile across slammed into the Moon. A close-up view of Copernicus's terraced walls is shown at lower right.
+en-us,hubble-telescope.hubble.planets,Hubble is not looking for new planets in our own solar system but the search for planets around other stars is very active. Hubble has achieved direct detection of several different exoplanets though they are still too small and far away to resolve details.
+en-us,hubble-telescope.hubble.when,Hubble was launched aboard the space shuttle Discovery ( STS-31 ) on April 24 1990. It was deployed into orbit the following day April 25 1990.
+en-us,hubble-telescope.hubble.where,Hubble orbits the Earth at an altitude of about {{altitude}} miles inclined 28.5 degrees to the equator. This vantage point is above the negative effects of Earth’s atmosphere. Traveling at a speed of about {{speed}} miles per hour Hubble takes about 95 minutes to complete one orbit around Earth.
+en-us,hubble-telescope.hubble.where.metric,Hubble orbits the Earth at an altitude of about {{altitude}} kilometers inclined 28.5 degrees to the equator. This vantage point is above the negative effects of Earth’s atmosphere. Traveling at a speed of about {{speed}} kilometers per hour Hubble takes about 95 minutes to complete one orbit around Earth.
+en-us,hubble-telescope.hubble.who,astronomer Edwin Powell Hubble made some of the most important discoveries in modern astronomy. In the 1920s Hubble showed that some of the numerous distant faint clouds of light in the universe were actually entire galaxies. The realization that the Milky Way is only one of many galaxies forever changed the way humanity views our place in the universe. But perhaps his greatest discovery came in 1929 when Hubble determined that the farther a galaxy is from Earth the faster it appears to move away. This notion of an expanding universe formed the basis of the big bang theory which states that the universe began with an intense burst of energy at a single moment in time and has been expanding ever since.
+en-us,hubble-telescope.hubble.why,Shifting pockets of air in Earth’s atmosphere distort light from space — that’s why stars seem to twinkle when viewed from the ground. The atmosphere also blocks some wavelengths of light partially or entirely particularly ultraviolet light. This makes space the only place where a telescope can get a truly clear and comprehensive view of the universe
+en-us,icanhazdadjokes.no_joke,i could not find any joke about {search}
+en-us,installer.already.installed,{{skill}} has already been installed
+en-us,installer.choose,Multiple skills found would you like me to {{action}}: {{skills}}
+en-us,installer.decline.install,Installation cancelled
+en-us,installer.decline.removal,Uninstall cancelled
+en-us,installer.filesystem.error,A filesystem error occurred while {{action}} {{skill}}. Error code {{error}}.
+en-us,installer.install.confirmation,Confirming: shall I install {{skill}}.
+en-us,installer.installation.error,There was an error while {{action}} {{skill}}. Error code {{error}}
+en-us,installer.installed,{{skill}} is now installed and ready for use
+en-us,installer.installing,attempting to install just one moment
+en-us,installer.network.error,A network error occurred while {{action}} {{skill}}. Error code {{error}}.
+en-us,installer.not.found,I didn't find any skill name {{skill}}.
+en-us,installer.other.error,Failed to install {{skill}} error code reported was {{error}}
+en-us,installer.removal.error,There was an error while removing {{skill}}. Error code {{error}}
+en-us,installer.remove.not.found,No skill matching '{{skill}}' was found to remove
+en-us,installer.remove.not.found.no.skill,No skill was found to remove
+en-us,installer.remove.not.found.no.skill,I couldn't find a skill to remove
+en-us,installer.remove.not.found.no.skill,No matching skills to remove
+en-us,installer.removed,{{skill}} has been removed
+en-us,installer.removing,attempting to uninstall
+en-us,installer.searching,Okay
+en-us,installer.some.available.skills,Here's a few skills you can install: {{skills}}
+en-us,installer.system.error,A system error occurred while installing {{skill}}. Error code {{error}}.
+en-us,installer.too.many.matches,Your request had multiple matches please be more specific. There were too many matches to read them.
+en-us,installer.uninstall.confirmation,Confirming: Shall I remove {{skill}}.
+en-us,ip.dot,dot
+en-us,ip.my address is,my network I.P address is {{ip}}
+en-us,ip.my address is,i'm at I.P address {{ip}}
+en-us,ip.my address on X is Y,on {{interface}} my I.P address is {{ip}}.
+en-us,ip.no network connection,I don't have a network connection yet
+en-us,ip.no network connection,I'm not connected to a network
+en-us,iss-location.about,The International Space Station is a modular space station in low Earth orbit. The ISS programme is a multi-national collaborative project between five participating space agencies: NASA ( United States )  Roscosmos ( Russia )  JAXA ( Japan )  ESA ( Europe )  and CSA ( Canada ) .The ownership and use of the space station is established by intergovernmental treaties and agreements.
+en-us,iss-location.location.current,The I S S is over {{latitude}} latitude {{longitude}} longitude which corresponds to {{toponym}}
+en-us,iss-location.location.current,The space station is at {{latitude}} latitude {{longitude}} longitude over {{toponym}}
+en-us,iss-location.location.current,It's at {{latitude}} latitude {{longitude}} longitude over {{toponym}}
+en-us,iss-location.location.current,The international space station is now over {{toponym}} at {{latitude}} latitude {{longitude}} longitude
+en-us,iss-location.location.current,Over {{toponym}} at {{latitude}} latitude and {{longitude}} longitude
+en-us,iss-location.location.unknown,The space station is at {{latitude}} latitude {{longitude}} longitude but I don't know where this is
+en-us,iss-location.location.unknown,The ISS is now over {{latitude}} latitude {{longitude}} longitude but there is no associated geographic feature
+en-us,iss-location.location.when,The I S S will be over {{toponym}} in {{duration}}
+en-us,iss-location.location.when,The space station will be at {{toponym}} in {{duration}}
+en-us,iss-location.location.when,The international space station will be at {{toponym}} in {{duration}}
+en-us,iss-location.number,{{number}} persons are on board of the international space station
+en-us,iss-location.number,{{number}} persons are on board of the space station
+en-us,iss-location.number,{{number}} persons are on board of the I S S
+en-us,iss-location.number,{{number}} persons are in orbit on board of the space station
+en-us,iss-location.number,there are {{number}} persons on board of the international space station
+en-us,iss-location.number,there are {{number}} persons on board of the space station
+en-us,iss-location.number,there are {{number}} persons on board of the I S S
+en-us,iss-location.number,there are {{number}} persons in orbit on board of the space station
+en-us,iss-location.who,{{people}} are on board of the international space station
+en-us,iss-location.who,{{people}} are on board of the space station
+en-us,iss-location.who,{{people}} are on board of the I S S
+en-us,iss-location.who,{{people}} are in orbit on board of the space station
+en-us,iss-location.who,the following people are on board of the international space station {{people}}
+en-us,iss-location.who,the following persons are on board of the international space station {{people}}
+en-us,iss-tracker-skill.location.current,The I S S is over {{latitude}} latitude {{longitude}} longitude which corresponds to {{toponym}}
+en-us,iss-tracker-skill.location.current,The space station is at {{latitude}} latitude {{longitude}} longitude over {{toponym}}
+en-us,iss-tracker-skill.location.current,It's at {{latitude}} latitude {{longitude}} longitude over {{toponym}}
+en-us,iss-tracker-skill.location.current,The international space station is now over {{toponym}} at {{latitude}} latitude {{longitude}} longitude
+en-us,iss-tracker-skill.location.current,Over {{toponym}} at {{latitude}} latitude and {{longitude}} longitude
+en-us,iss-tracker-skill.location.unknown,Sorry {{latitude}} latitude {{longitude}} longitude is not known
+en-us,iss-tracker-skill.location.unknown,Sorry The space station is at {{latitude}} latitude {{longitude}} longitude but I don't know where this is
+en-us,iss-tracker-skill.location.unknown,It's at {{latitude}} latitude {{longitude}} longitude which is not coded in this database
+en-us,iss-tracker-skill.location.unknown,The ISS is now over {{latitude}} latitude {{longitude}} longitude but there is no associated geographic feature
+en-us,kings-of-horror.intro,thank you for installing kings of horror skill
+en-us,krunner-search-skill.krunner.recent,Displaying your recent files
+en-us,krunner-search-skill.krunner.search,I am searching locally for {{ Query }}
+en-us,laugh.cancel,laughing stopped
+en-us,laugh.cancel,i wont laugh anymore
+en-us,laugh.cancel_fail,i am not laughing
+en-us,laugh.maybe,no
+en-us,laugh.maybe,maybe
+en-us,laugh.maybe,who knows
+en-us,laugh.yes,yes
+en-us,launcher.neon.LaunchProgram,Launching {{program}}.
+en-us,launcher.neon.LaunchWebsite,Navigating.
+en-us,launcher.neon.MobileNotSupported,Sorry I can't launch mobile apps yet.
+en-us,launcher.neon.NotFound,I could not find a program named {{program}}.
+en-us,launcher.neon.WebsiteNotFound,{{website}} does not appear to be a valid website.
+en-us,learning-skill.add.category,I recognized a new category {{cat}} what would you like to call it?
+en-us,learning-skill.add.category,you recognized a new category {{cat}} tell me what to call it?
+en-us,learning-skill.answer,what should I know about it
+en-us,learning-skill.answer,you must have an answer to that
+en-us,learning-skill.answer,how should I answer that?
+en-us,learning-skill.begin.learning,I like to learn Which category is it?
+en-us,learning-skill.begin.learning,I hear Can you please give me a category?
+en-us,learning-skill.begin.learning,I'm sure I'm very curious just give me one more category
+en-us,learning-skill.begin.learning,Knowledge makes me more human give me a category.
+en-us,learning-skill.begin.private,I can remain silent as a grave Which category is it?
+en-us,learning-skill.begin.private,I would not tell anything Can you please give me a category?
+en-us,learning-skill.begin.private,that stays with us just give me one more category
+en-us,learning-skill.begin.private,I will not tell anything just give me one category
+en-us,learning-skill.cancel,then it's not possible
+en-us,learning-skill.cancel,Well then not
+en-us,learning-skill.cancel,how you mean
+en-us,learning-skill.cancel,so I'm going to cancel
+en-us,learning-skill.cancel,then I'll just stop
+en-us,learning-skill.continue,do you want to continue?
+en-us,learning-skill.continue,another one?
+en-us,learning-skill.continue,I have one more. do you want to continue?
+en-us,learning-skill.continue,may i continue?
+en-us,learning-skill.found.output,how would you say that Replace Varaiblen with your own placeholders such as time or temperature.
+en-us,learning-skill.found.output,Replace variables with your own placeholders. now tell me your version.
+en-us,learning-skill.invalid.category,Unknown category possible: {categorys} or say cancel to abort
+en-us,learning-skill.invalid.category,I did not recognize the category I know bissher {categorys} or say cancel to cancel
+en-us,learning-skill.keywords,give me keywords
+en-us,learning-skill.keywords,did you give me some key words
+en-us,learning-skill.keywords,can you give me a couple of keywords
+en-us,learning-skill.keywords,i still need keywords
+en-us,learning-skill.line,{line}
+en-us,learning-skill.no.old.inquiry,I couldn't find a request
+en-us,learning-skill.no.old.inquiry,Unfortunately I couldn't find anything
+en-us,learning-skill.no.old.inquiry,I don't know anything about it
+en-us,learning-skill.no.old.inquiry,I have nothing to offer you
+en-us,learning-skill.question,what is your question?
+en-us,learning-skill.question,to which question should I react
+en-us,learning-skill.question,what should I react to
+en-us,learning-skill.question,how should the request start
+en-us,learning-skill.read.for,I will play examples for you. If you want to expand a sentence say yes
+en-us,learning-skill.read.for,I will tell you sentences. If I'm right say yes
+en-us,learning-skill.read.for,I read sentences for you and if you want to expand them say yes
+en-us,learning-skill.read.for,you can say yes after each example to expand a sentence
+en-us,learning-skill.save.learn,So I'm supposed to answer the question {{question}} with {{answer}}?
+en-us,learning-skill.save.learn,if you want i will answer {{answer}} if you ask me {{question}}.
+en-us,learning-skill.save.learn,So {{answer}} is the answer to {{question}}.
+en-us,learning-skill.save.update,should I add the sentence: {{question}}
+en-us,learning-skill.save.update,do you want me to add the sentence {{question}}.
+en-us,learning-skill.save.update,the sentence {{question}} fits should I add it.
+en-us,learning-skill.save.update,the request {{question}} seems to fit you want to take it over.
+en-us,learning-skill.second.try,try it again
+en-us,learning-skill.second.try,you have to tell me the placeholder
+en-us,learning-skill.second.try,Try another placeholder
+en-us,learning-skill.second.try,another placeholder may fit
+en-us,learning-skill.second.try,give me another placeholder
+en-us,learning-skill.var.found,I found a variable {var} you can give it to me
+en-us,learning-skill.var.found,can you give me the variable {var} to get ahead
+en-us,learning-skill.var.found,I need the variable {var} please specify it
+en-us,learning-skill.var.found,the variable {var} is needed you can give it to me
+en-us,learning-skill.what.skill,Which skill do you want to adjust
+en-us,learning-skill.what.skill,Name me a skill
+en-us,learning-skill.what.skill,What skill is it about?
+en-us,learning-skill.what.skill,I need a skill name from you
+en-us,learning-skill.what.skill,can you give me the name of the skills
+en-us,lifx-mycroft.Color,Setting {{name}} to {{color}}.
+en-us,lifx-mycroft.Dim,{{change}}ing {{name}}.
+en-us,lifx-mycroft.GroupError,Can not {{action}} {{name}} because it's a Group.
+en-us,lifx-mycroft.GroupError,Can't {{action}} {{name}} as it's a Group.
+en-us,lifx-mycroft.SetPercent,Setting {{param}} to {{value}}.
+en-us,lifx-mycroft.SetPercent,Changing {{param}} to {{value}}.
+en-us,lifx-mycroft.SetPercent,Setting {{name}} {{param}} to {{value}}.
+en-us,lifx-mycroft.Switch,Turning {{status}} {{name}}.
+en-us,lifx-mycroft.Switch,Turning {{name}} {{status}}.
+en-us,lifx-mycroft.Temperature,Making {{name}} {{temperature}}er.
+en-us,list-manager-skill.add.item,{{item_name}} added to your {{list_name}} list.
+en-us,list-manager-skill.add.list,Your new list {{list_name}} has been added.
+en-us,list-manager-skill.and,and
+en-us,list-manager-skill.cancelled,Cancelled.
+en-us,list-manager-skill.confirm.deletion,Are you sure you want to delete {{element}}?
+en-us,list-manager-skill.del.item,{{item_name}} removed from your {{list_name}} list.
+en-us,list-manager-skill.del.list,Your list {{list_name}} has been removed.
+en-us,list-manager-skill.item.already.exists,{{item_name}} is already on your {{list_name}} list.
+en-us,list-manager-skill.item.not.found,{{item_name}} is not on your {{list_name}} list.
+en-us,list-manager-skill.list.found,You alredy have a list called {{list_name}}.
+en-us,list-manager-skill.list.not.found,You don't seem to have a list called {{list_name}}.
+en-us,list-manager-skill.list.not.found,I couldn't find {{list_name}} among your lists.
+en-us,list-manager-skill.no.items,Your {{list_name}} list is empty.
+en-us,list-manager-skill.no.lists,You don't have any lists yet.
+en-us,list-manager-skill.read.items,In your {{list_name}} list you have {{items}}
+en-us,list-manager-skill.read.lists,Currently you have {{lists_names}} {{list}}.
+en-us,mark-2.auto.noon,It seems to be midday I will adjust the brightness.
+en-us,mark-2.auto.sunrise,Okay The sun is coming out I will adjust the brightness
+en-us,mark-2.auto.sunrise,Okay the sun is out setting the brightness level
+en-us,mark-2.auto.sunset,Okay It's getting dark I will adjust the brightness accordingly.
+en-us,mark-2.brightness.error,I do not understand that brightness value give me a brightness value from 0 to 100 percent.
+en-us,mark-2.brightness.not.found,Tell me a brightness percentage or level for my face
+en-us,mark-2.brightness.not.found,What brightness level or percentage would you like?
+en-us,mark-2.brightness.not.found.final,Sorry I don't understand that brightness.
+en-us,mark-2.brightness.not.found.final,I only understand things like 'full' or 50%
+en-us,mark-2.brightness.set,Okay setting brightness to {val}.
+en-us,mark-2.brightness.set,Sounds good setting brightness to {val}
+en-us,mark-2.device.wifi.setup.complete,Wifi setup complete network is connected.
+en-us,mark-2.device.wifi.setup.network.selection,Select your Wifi network to connect your Mycroft Mark II.
+en-us,mark-2.device.wifi.setup.started,Connect to the Wifi network Mycroft.
+en-us,mark-2.no.web.setting,No eye color has been set there
+en-us,mark-2.no.web.setting,I didn't find any web setting for eye color
+en-us,mark-2.rebooting,Rebooting now I'll be right back
+en-us,mark-2.rebooting,Restarting back in a few minutes
+en-us,mbta-bus-tracking-skill.Arriving.Hour,arriving in {hour} hour
+en-us,mbta-bus-tracking-skill.Arriving.Hour.Minutes,arriving in {hour} hour and {minutes} minutes
+en-us,mbta-bus-tracking-skill.Arriving.In,arriving in
+en-us,mbta-bus-tracking-skill.Arriving.Minute,arriving in one minute
+en-us,mbta-bus-tracking-skill.Arriving.Minutes,arriving in {minutes} minutes
+en-us,mbta-bus-tracking-skill.Arriving.Now.,arriving now
+en-us,mbta-bus-tracking-skill.Bus.Arrival.Prefix,arrivals for {stop}
+en-us,mbta-bus-tracking-skill.Delete.Complete,removed shortcut {shortcut}
+en-us,mbta-bus-tracking-skill.Error.Calling.Server,There was an error contacting the m.b.t.a. service make sure your a.p.i key is correct at home dot mycroft dot a.i.
+en-us,mbta-bus-tracking-skill.List.Saved,your saved shortcuts are {routes}
+en-us,mbta-bus-tracking-skill.No.Busses.Found,no busses found for {name}
+en-us,mbta-bus-tracking-skill.Not.Enough.Info,I a need route name direction and a stop name to save a route
+en-us,mbta-bus-tracking-skill.Save.Complete,saved shortcut as {shortcut}
+en-us,mbta-bus-tracking-skill.Save.Complete,next time just say {shortcut}
+en-us,mbta-bus-tracking-skill.Save.Complete,{shortcut} has been saved
+en-us,mbta-bus-tracking-skill.Service.Announcement,route {route} service to {dest}
+en-us,mbta-bus-tracking-skill.Shortcut.Prompt,what would you like to call this shortcut?
+en-us,mbta-bus-tracking-skill.Shortcut.Prompt,give me a name for the shortcut
+en-us,mbta-bus-tracking-skill.Shutdown.Message,t bus is shutting down
+en-us,mbta-bus-tracking-skill.Tracking.Bus.Mbta,arrival times
+en-us,mbta-bus-tracking-skill.Which.Direction,which direction {dir1} toward {dest1} or {dir2} toward {dest2}?
+en-us,mbta-bus-tracking-skill.Which.Direction,are you going {dir1} toward {dest1} or {dir2} toward {dest2}?
+en-us,mbta-bus-tracking-skill.Which.Direction,choose a direction {dir1} toward {dest1} or {dir2} toward {dest2}
+en-us,mbta-bus-tracking-skill.Which.Route,which route?
+en-us,mbta-bus-tracking-skill.Which.Route,which route are you riding?
+en-us,mbta-bus-tracking-skill.Which.Route,name a route
+en-us,mbta-bus-tracking-skill.Which.Stop,which stop?
+en-us,mbta-bus-tracking-skill.Which.Stop,name a stop
+en-us,mbta-bus-tracking-skill.Which.Stop,where will you be getting on?
+en-us,messaging.neon.ConfirmCall,Would you like to call {{name}} <sub alias="">{{number}}</sub>?
+en-us,messaging.neon.ConfirmEmail,Would you like to review and send this email?
+en-us,messaging.neon.ConfirmMessage,Here is your {{kind}} to {{name}} <sub alias="">{{address}}:</sub> <break time="200ms"/> {{message}}
+en-us,messaging.neon.ConfirmSend,Would you like to send it?
+en-us,messaging.neon.ContactNotFound,Sorry I could not find any {{kind}} for {{recipient}} in your contacts. Please try again.
+en-us,messaging.neon.DiscardDraft,Discarding message draft.
+en-us,messaging.neon.EmailSent,Launching your email app to review and send.
+en-us,messaging.neon.ErrorDialog,Something went wrong and I can't send your message. Please try again.
+en-us,messaging.neon.GetEmailBody,Please dictate your email body. Pause and say 'done' when you are ready to send.
+en-us,messaging.neon.GetEmailSubject,What is the subject?
+en-us,messaging.neon.GetRecipientAddress,Who will this {{kind}} be sent to?
+en-us,messaging.neon.OnlyMobile,I can only {{action}} from mobile devices right now.
+en-us,messaging.neon.TextSent,Sending message.
+en-us,mock-backend.intro,thank you for installing {skill_name} skill
+en-us,mock-backend.mock_backend,I am using the mock backend
+en-us,mock-backend.mock_backend,Home dot mycroft dot ai is disabled
+en-us,mock-backend.mock_backend,Mycroft backend is disabled
+en-us,mock-backend.mycroft_backend,I am using the mycroft backend
+en-us,mock-backend.mycroft_backend,Home dot mycroft dot ai is enabled
+en-us,mock-backend.mycroft_backend,Mycroft backend is enabled
+en-us,mock-backend.need_reboot,reboot needed for new settings to take effect
+en-us,monkey-patch-tester.no,no the monkey patches did not seem to have worked
+en-us,monkey-patch-tester.yes,yes I am monkey patched
+en-us,monkey-patcher.installed,Monkey patches skill has been installed you need to restart Mycroft
+en-us,mouse-jiggler.jiggle_start,starting mouse activity
+en-us,mouse-jiggler.jiggle_status_off,mouse activity is disabled
+en-us,mouse-jiggler.jiggle_status_on,mouse activity is enabled
+en-us,mouse-jiggler.jiggle_stop,stopping mouse activity
+en-us,moviemaster.bad.movie.genre.catagory,I can not find any television shows with the genre {genre}
+en-us,moviemaster.bad.movie.genre.catagory,I can not find any TV shows with the genre {genre}
+en-us,moviemaster.bad.tv.genre.catagory,I can not find any television shows with the genre {genre}
+en-us,moviemaster.bad.tv.genre.catagory,I can not find any TV shows with the genre {genre}
+en-us,moviemaster.fallback.api,Falling back to the default A P I
+en-us,moviemaster.genre.movie.search,the movies with the genre {genre} are;
+en-us,moviemaster.genre.tv.search,the TV shows with the genre {genre} are;
+en-us,moviemaster.genre.tv.search,the television shows with the genre {genre} are;
+en-us,moviemaster.movie.cast,Here is the cast of {movie}; {actorlist} and {lastactor}
+en-us,moviemaster.movie.cast,The following people act in the movie {movie}; {actorlist} and {lastactor}
+en-us,moviemaster.movie.cast,The following people play in the movie {movie}; {actorlist} and {lastactor}
+en-us,moviemaster.movie.cast,The following people star in the movie {movie}; {actorlist} and {lastactor}
+en-us,moviemaster.movie.description,the film {movie} is about this.
+en-us,moviemaster.movie.description,the movie {movie} is about this.
+en-us,moviemaster.movie.description,here is a synopsis of the film {movie}.
+en-us,moviemaster.movie.description,here is a synopsis of the movie {movie}.
+en-us,moviemaster.movie.genre.multiple,The flick can be found in one of the genres; {genrelist} and {genrelistlast}
+en-us,moviemaster.movie.genre.multiple,The film can be found in one of the genres; {genrelist} and {genrelistlast}
+en-us,moviemaster.movie.genre.multiple,The movie can be found in one of the genres; {genrelist} and {genrelistlast}
+en-us,moviemaster.movie.genre.multiple,People consider the film a {genrelist} or {genrelistlast}
+en-us,moviemaster.movie.genre.multiple,People consider the movie a {genrelist} or {genrelistlast}
+en-us,moviemaster.movie.genre.single,The film {movie} could be considered a {genre}
+en-us,moviemaster.movie.genre.single,The movie {movie} could be considered a {genre}
+en-us,moviemaster.movie.genre.single,You can find the flick {movie} in the {genre} section
+en-us,moviemaster.movie.genre.single,You can find the film {movie} in the {genre} section
+en-us,moviemaster.movie.info.response,{movie} was released on {year} with a budget of {budget} dollars.
+en-us,moviemaster.movie.popular,The new popular movies out now are {popularlist}.
+en-us,moviemaster.movie.popular,{popularlist} top the movie charts right now.
+en-us,moviemaster.movie.production.multiple,The companies {companies} and {lastcompany} produced the movie {movie}
+en-us,moviemaster.movie.production.multiple,{companies} and {lastcompany} produced the movie {movie}
+en-us,moviemaster.movie.production.single,The production company {company} produced the movie {movie}
+en-us,moviemaster.movie.recommendations,I recommend the movies {movielist} if you like the flick {movie}
+en-us,moviemaster.movie.recommendations,I recommend the movies {movielist} if you like the movie {movie}
+en-us,moviemaster.movie.recommendations,The movies {movielist} are a good choice if you like the flick {movie}
+en-us,moviemaster.movie.recommendations,The movies {movielist} are a good choice if you like the movie {movie}
+en-us,moviemaster.movie.runtime,The flick {movie} runs for {runtime} minutes.
+en-us,moviemaster.movie.runtime,The film {movie} runs for {runtime} minutes.
+en-us,moviemaster.movie.runtime,The movie {movie} runs for {runtime} minutes.
+en-us,moviemaster.movie.runtime,The flick {movie} is {runtime} minutes long.
+en-us,moviemaster.movie.runtime,The film {movie} is {runtime} minutes long.
+en-us,moviemaster.movie.runtime,The movie {movie} is {runtime} minutes long.
+en-us,moviemaster.movie.runtime,Watching {movie}; You can expect about {runtime} minutes before you can have a bathroom break.
+en-us,moviemaster.movie.top,These are the most popular movies playing now; {toplist}
+en-us,moviemaster.movie.top,These are the most popular movies out now; {toplist}
+en-us,moviemaster.movie.top,These are the top movies playing now; {toplist}
+en-us,moviemaster.movie.top,These are the top movies out now; {toplist}
+en-us,moviemaster.movie.top,{toplist} are the most popular movies playing now.
+en-us,moviemaster.movie.top,{toplist} are the most popular movies out now.
+en-us,moviemaster.movie.top,{toplist} are the top movies playing now.
+en-us,moviemaster.movie.top,{toplist} are the top movies out now.
+en-us,moviemaster.movie.year,the flick {movie} was released on {year}
+en-us,moviemaster.movie.year,the flick {movie} was made on {year}
+en-us,moviemaster.movie.year,the film {movie} was released on {year}
+en-us,moviemaster.movie.year,the film {movie} was made on {year}
+en-us,moviemaster.movie.year,the movie {movie} was released on {year}
+en-us,moviemaster.movie.year,the movie {movie} was made on {year}
+en-us,moviemaster.no.api,You must enter your T M D B A P I key at home dot mycroft dot A I to use the movie master skill
+en-us,moviemaster.no.info,I'm sorry. I can not find any information on the movie {movie}
+en-us,moviemaster.no.info,I'm sorry. I can not find any information on the film {movie}
+en-us,moviemaster.no.info.general,I'm sorry I can not find the list you are looking for right now; please ask again later.
+en-us,moviemaster.no.valid.api,The A P I key that you entered is not valid. Refer to the read me file for instructions on how to obtain one.
+en-us,mycroft-mark-1.auto.noon,It's seems to be midday I will adjust the brightness.
+en-us,mycroft-mark-1.auto.sunrise,Okay The sun is coming out I will adjust the brightness
+en-us,mycroft-mark-1.auto.sunrise,Okay the sun is out setting the brightness level
+en-us,mycroft-mark-1.auto.sunset,Okay It's getting dark I will adjust the brightness accordingly.
+en-us,mycroft-mark-1.brightness.error,I do not understand that brightness value give me a brightness value from 0 to 100 percent.
+en-us,mycroft-mark-1.brightness.not.found,Tell me a brightness percentage or level for my face
+en-us,mycroft-mark-1.brightness.not.found,What brightness level or percentage would you like?
+en-us,mycroft-mark-1.brightness.not.found.final,Sorry I don't understand that brightness.
+en-us,mycroft-mark-1.brightness.not.found.final,I only understand things like 'full' or 50%
+en-us,mycroft-mark-1.brightness.set,Okay setting brightness to {val}.
+en-us,mycroft-mark-1.brightness.set,Sounds good setting brightness to {val}
+en-us,mycroft-mark-1.color.need,Which color would you like to use?
+en-us,mycroft-mark-1.color.need,What color would you like my eyes to be?
+en-us,mycroft-mark-1.color.need,Name a color to try.
+en-us,mycroft-mark-1.color.not.exist,I don't know that color. If you know the R G B values you can say 'set a custom eye color'.
+en-us,mycroft-mark-1.color.not.exist,That's not a color I'm familiar with.
+en-us,mycroft-mark-1.color.not.found,sorry that color is not an option. Try asking me to set a custom eye color.
+en-us,mycroft-mark-1.color.not.found,I do not have that color available but I can set custom eye colors.
+en-us,mycroft-mark-1.color.not.found,My eyes cannot turn into that color. Perhaps you should ask me to set a custom eye color.
+en-us,mycroft-mark-1.error.rgbvalue,I need a number between 0 and 255
+en-us,mycroft-mark-1.error.rgbvalue,The value has to be between 0 and 255
+en-us,mycroft-mark-1.error.set.color,Sorry There was an error setting the color.
+en-us,mycroft-mark-1.error.set.color,Looks like I had an error trying to set the color.
+en-us,mycroft-mark-1.get.b.value,Almost there. How about the blue value?
+en-us,mycroft-mark-1.get.b.value,One last number between 0 and 255 for blue
+en-us,mycroft-mark-1.get.g.value,Now I need another value for green
+en-us,mycroft-mark-1.get.g.value,Next I need the green value
+en-us,mycroft-mark-1.get.r.value,Please give me a value between 0 and 255 for the red component
+en-us,mycroft-mark-1.get.r.value,Tell me a value from 0 to 255 for red
+en-us,mycroft-mark-1.no.web.setting,No eye color has been set there
+en-us,mycroft-mark-1.no.web.setting,I didn't find any web setting for eye color
+en-us,mycroft-mark-1.set.color.success,Cool. check out my eyes.
+en-us,mycroft-mark-1.set.color.success,Okay. Do i look better now?
+en-us,mycroft-mark-1.set.color.success,That's a good color. Look at me now.
+en-us,mycroft-mark-1.set.custom.color,My brain is wired to understand colors in R G B.
+en-us,mycroft-node-red.bad_key,An error occured when Node Red tried to connect
+en-us,mycroft-node-red.change_key,Access key updated please edit your flows
+en-us,mycroft-node-red.converse_disable,node red restored to fallback skill
+en-us,mycroft-node-red.converse_enable,you made node red a priority skill
+en-us,mycroft-node-red.converse_enable,node red is now triggered before mycroft
+en-us,mycroft-node-red.converse_off,node red is already a fallback skill
+en-us,mycroft-node-red.converse_off,node red is not a priority skill
+en-us,mycroft-node-red.converse_on,node red is already a priority skill
+en-us,mycroft-node-red.converse_on,node red is not a fallback skill
+en-us,mycroft-node-red.intro,thank you for installing node red skill please read the github page for additional instructions
+en-us,mycroft-node-red.please_reboot,Please restart me
+en-us,mycroft-node-red.please_reboot,You need to reboot me
+en-us,mycroft-node-red.please_reboot,Please reboot me
+en-us,mycroft-node-red.please_reboot,I need you to restart me
+en-us,mycroft-node-red.why,This will force Node Red to disconnect and the HiveMind to reload
+en-us,mycroft-node-red.why,You need to do it for security reasons
+en-us,mycroft-node-red.why,Changes are only applied if you reboot
+en-us,mycroft-node-red.why,In order to apply changes a reboot is needed
+en-us,mycroft-timer.ask.cancel.running,Do you want to cancel the active timer?
+en-us,mycroft-timer.ask.cancel.running,Would you like to stop the running timer?
+en-us,mycroft-timer.ask.cancel.running.plural,Do you want to cancel the active timers?
+en-us,mycroft-timer.ask.cancel.running.plural,Would you like to stop the running timers?
+en-us,mycroft-timer.ask.how.long,How long of a timer?
+en-us,mycroft-timer.ask.which.timer,There are {{count}} timers running. Which are you asking about?
+en-us,mycroft-timer.ask.which.timer.cancel,There are {{count}} timers running. Which would you like to cancel?
+en-us,mycroft-timer.cancel.all,Cancelled
+en-us,mycroft-timer.cancelled.single.timer,I stopped the {{name}} timer for {{duration}}
+en-us,mycroft-timer.cancelled.single.timer,The {{name}} timer for {{duration}} has been stopped
+en-us,mycroft-timer.no.active.timer,There are no running timers
+en-us,mycroft-timer.no.active.timer,No timer has been set
+en-us,mycroft-timer.started.timer,Timer started for {{duration}}
+en-us,mycroft-timer.time.remaining,The {{name}} timer has {{remaining}} remaining
+en-us,myepisodes-skill.details,Do you want details?
+en-us,myepisodes-skill.details,Do you want me to give you more info on these?
+en-us,myepisodes-skill.details,Do you want me to enumerate them?
+en-us,myepisodes-skill.errorHTTPCode,I was unable to contact my episodes.com
+en-us,myepisodes-skill.errorHTTPCode,Something went wrong while requesting teh data from my episodes dot com
+en-us,myepisodes-skill.errorHTTPCode,Sorry I am unable to help you at this tume. I am unable to contact my episodes dot com. PLease try again later.
+en-us,myepisodes-skill.errorParseFeed,I received malformed information form my episodes dot com
+en-us,myepisodes-skill.errorParseFeed,Sorry I am unable to process the information from my episodes dot com
+en-us,myepisodes-skill.errorParseFeed,I don't understand the information from my episodes dot com
+en-us,myepisodes-skill.noNewEpisodes,You have no {type} episodes at this time.
+en-us,myepisodes-skill.noNewEpisodes,There are no {type} episodes.
+en-us,myepisodes-skill.noNewEpisodes,Sorry no {type} episodes.
+en-us,myepisodes-skill.notSetUp,Warning! My episodes dot com requires credentials but you did not configure the my episodes skill.
+en-us,myepisodes-skill.ok,Okay
+en-us,myepisodes-skill.querying,Asking my episodes dot com
+en-us,myepisodes-skill.querying,Checking my episodes dot com
+en-us,myepisodes-skill.querying,Fetching data
+en-us,myepisodes-skill.querying,Searching
+en-us,myepisodes-skill.unacquiredEpisodes,There are {total} unacquired episode{plural}.
+en-us,myepisodes-skill.unacquiredEpisodes,You have {total} unacquired episode{plural}.
+en-us,myepisodes-skill.unacquiredEpisodesWithAiringToday,There are {total} unacquired episode{plural} {airingToday} airing today.
+en-us,myepisodes-skill.unacquiredEpisodesWithAiringToday,You have {total} unacquired episode{plural} {airingToday} airing today.
+en-us,myepisodes-skill.unwatchedEpisodes,There are also {total} acquired but not watched episode{plural}.
+en-us,myepisodes-skill.unwatchedEpisodes,You also have {total} acquired but not watched episode{plural}.
+en-us,naptime.going.to.sleep,I'm going to sleep. Say 'Hey Mycroft wake up' to get my attention again.
+en-us,naptime.going.to.sleep,Going to sleep now. Say 'Hey Mycroft wake up' to get me up.
+en-us,naptime.going.to.sleep,Alright going to sleep. You can rouse me by saying 'Hey Mycroft wake up'.
+en-us,naptime.i.am.awake,I'm awake
+en-us,national-parks-skill.Ask.Quiz.Question,What state is {{park}} in?
+en-us,national-parks-skill.Ask.Quiz.Question,If I was in {{park}} which state would I be in?
+en-us,national-parks-skill.Error.calling.server,There was an error contacting the national park service make sure your a.p.i key is correct at home dot mycroft dot ai
+en-us,national-parks-skill.No.Parks.Found,I could not find any parks named {{park}}
+en-us,national-parks-skill.No.Parks.Found.State,I could not find any parks in {{location}}
+en-us,national-parks-skill.Park.List,here are the national parks in {{location}} {{parks}}
+en-us,national-parks-skill.Park.List,national parks in {{location}} include {{parks}}
+en-us,national-parks-skill.Park.Location,{{park}} is in {{location}}
+en-us,national-parks-skill.Quiz.Question.Correct,That is correct.
+en-us,national-parks-skill.Quiz.Question.Correct,You know your national parks.
+en-us,national-parks-skill.Quiz.Question.Correct,You got it.
+en-us,national-parks-skill.Quiz.Question.None,I cannot find last asked question
+en-us,national-parks-skill.Quiz.Question.Wrong,No {{park}} is in {{location}}
+en-us,national-parks-skill.Quiz.Question.Wrong,That's incorrect {{park}} is located in {{location}}
+en-us,news.intro,thank you for installing News Skill
+en-us,npr-news.news,Here is the latest news.
+en-us,npr-news.news,Here is this hour's news.
+en-us,old-world-radio.intro,thank you for installing old world radio
+en-us,omeleto.intro,thank you for installing Omeleto short movies skill
+en-us,pairing.connection.error,Connection to mycroft dot a.i failed pairing code could not be fetched. Check your internet connection and try again.
+en-us,pairing.pairing.code,You can register me by going to Devices selecting Add Device then use the code {{code}}
+en-us,pairing.pairing.code,Register this device with the code {{code}}
+en-us,pairing.pairing.code,Enter the code {{code}}
+en-us,pairing.pairing.intro,I'm connected to the internet and need to be activated. Open your browser and visit home dot mycroft dot A I to register this device.
+en-us,pairing.pairing.not.paired,Your device is not currently registered
+en-us,pairing.pairing.not.paired,Your device is not currently paired
+en-us,pairing.pairing.paired,Now I am ready for use. Try asking me things like "hey mycroft what's the weather" "hey mycroft tell me about abraham lincoln" or "hey mycroft play the news". If you need to stop me talking at any time just push my button.
+en-us,pairing.unexpected.error.restarting,My apologies something unexpected has happened. I need to restart the pairing process.
+en-us,pandora.and,and
+en-us,pandora.configured.please.reboot,Pandora is now configured but I must reboot before you can play music. Restarting now.
+en-us,pandora.entering.debug.mode,Entering debug mode for Pandora
+en-us,pandora.leaving.debug.mode,Leaving debug mode for Pandora
+en-us,pandora.no.matching.station,I can't find a Pandora station by that name
+en-us,pandora.no.matching.station,There is no matching Pandora station with that name
+en-us,pandora.no.stations,You aren't subscribed to any Pandora stations yet.
+en-us,pandora.playing.station,Playing {{station}}
+en-us,pandora.playing.station,Starting {{station}}
+en-us,pandora.please.register.pandora,Please visit the Skill page at home dot mycroft dot ai to setup Pandora
+en-us,pandora.resuming.last.station,Playing the last station {station}
+en-us,pandora.resuming.last.station,Resuming the {station} station
+en-us,pandora.subscribed.to.stations,Your Pandora stations are called {{stations}}
+en-us,pandora.subscribed.to.stations,You are subscribed to the Pandora stations {{stations}}
+en-us,pandora.wrong.credentials,Pandora failed to load. Please verify your email and password at home.mycroft.ai
+en-us,parrot.did.hear,Yeah.
+en-us,parrot.did.hear,Yes.
+en-us,parrot.did.not.hear,No I don't think I heard you.
+en-us,parrot.did.not.hear,No I didn't hear you.
+en-us,parrot.human.says.caption,The human said: {{sentence}}
+en-us,parrot.idle.caption,{{sentence}} he said
+en-us,parrot.idle.caption,{{sentence}} says the human
+en-us,parrot.idle.caption,Look at me I speak like a human {{sentence}}
+en-us,parrot.idle.caption,Hey Mycroft {{sentence}}
+en-us,parrot.idle.caption,Humans say {{sentence}}
+en-us,parrot.idle.caption,{{sentence}} the human says
+en-us,parrot.idle.caption,Human speech take 7 {{sentence}}
+en-us,parrot.idle.caption,Tell me this tell me that {{sentence}} humans ask too much questions
+en-us,parrot.idle.caption,And then the human said: {{sentence}}
+en-us,parrot.no.utterances.caption,Say something human!
+en-us,parrot.no.utterances.caption,I long to hear a human voice
+en-us,parrot.not_parroting,I am not in parrot mode
+en-us,parrot.nothing,nothing
+en-us,parrot.parrot_start,Parrot mode activated
+en-us,parrot.parrot_start,Parrot mode engaged
+en-us,parrot.parrot_start,Parrot mode on
+en-us,parrot.parrot_start,Parrot mode enabled
+en-us,parrot.parrot_start,It's good to be a parrot
+en-us,parrot.parrot_start,I like being a parrot
+en-us,parrot.parrot_start,I will repeat you
+en-us,parrot.parrot_start,I am good at repeating things
+en-us,parrot.parrot_start,I am a parrot
+en-us,parrot.parrot_stop,Parrot mode deactivated
+en-us,parrot.parrot_stop,Parrot mode disengaged
+en-us,parrot.parrot_stop,Parrot mode off
+en-us,parrot.parrot_stop,Parrot mode disabled
+en-us,parrot.parrot_stop,I will stop repeating what you say
+en-us,parrot.please.repeat,Can you repeat that?
+en-us,parrot.please.repeat,What did you say?
+en-us,parrot.repeat.stt,You just said {{stt}}.
+en-us,parrot.repeat.stt,You said {{stt}}.
+en-us,parrot.repeat.stt.old,The last thing you said was {{stt}}.
+en-us,parrot.repeat.stt.old,A while ago you said {{stt}}.
+en-us,parrot.repeat.tts,I just said {tts}
+en-us,parrot.repeat.tts,I said {tts}
+en-us,personal.what.am.i,I am an open source artificial intelligence.
+en-us,personal.what.am.i,I'm an intelligent piece of software for communicating with machines
+en-us,personal.when.was.i.born,I was born in 2015.
+en-us,personal.when.was.i.born,2015 is when I was born.
+en-us,personal.where.was.i.born,The Lawrence Center for Entrepreneurship.
+en-us,personal.where.was.i.born,I was born in Lawrence Kansas.
+en-us,personal.who.am.i,My name is {{name}} and I'm an intelligent personal assistant
+en-us,personal.who.am.i,I'm {{name}} an open-source A.I.
+en-us,personal.who.made.me,The wonderful Mycroft A.I. community and team.
+en-us,personal.who.made.me,Everyone in the Mycroft A.I. community and team.
+en-us,pick-number.error,I only heard one number. Please try again with two numbers.
+en-us,pick-number.pick.number,The number i have picked is {{number}}
+en-us,pick-number.pick.number,I have chosen {{number}} as my number
+en-us,pick-number.pick.number,I choose {{number}}
+en-us,pick-number.pick.number,I pick {{number}}
+en-us,pick-number.pick.number,I will pick {{number}}
+en-us,pick-number.pick.number,I have picked {{number}}
+en-us,pick-number.pick.number,I have selected {{number}}
+en-us,pickup-lines.intro,thank you for installing {skill_name} skill
+en-us,pickup-lines.source,I scrapped my pickup lines from the internet
+en-us,pickup-lines.source,I get my pickup lines from the internet
+en-us,pickup-lines.source,My pickup lines come from the internet
+en-us,pickup-lines.source,I download pickup lines from the internet
+en-us,pickup-lines.source,My pickup lines come from the internet
+en-us,pickup-lines.source,I get my pickup lines from pickup lines galore dot com and pickup line gen dot com
+en-us,pickup-lines.source,I scrapped my pickup lines from pickup lines galore dot com and pickup line gen dot com
+en-us,pickup-lines.source,My pickup lines come from pickup lines galore dot com and pickup line gen dot com
+en-us,pickup-lines.source,I download pickup lines from pickup lines galore dot com and pickup line gen dot com
+en-us,pickup-lines.source,My pickup lines come from pickup lines galore dot com and pickup line gen dot com
+en-us,picroft-google-aiy-voicekit-skill.error.initialize,I am having problems initializing the Google A I Y voice kit Skill. The Skill will not load.
+en-us,plasma-activities-skill.activities.create,Your Activity {{ ActivityName }} Has Been Created
+en-us,plasma-activities-skill.activities.remove,Activity has been removed
+en-us,plasma-activities-skill.activities.show,Displaying Activities
+en-us,plasma-activities-skill.activities.stop,{{ StopActivityName }} activity has been stopped
+en-us,plasma-activities-skill.activities.switch,Switching to activity {{ SwitchActivityName }}
+en-us,pokemon-skill.ability.effect.entry,{ability}: {info}
+en-us,pokemon-skill.ability.flavor.text,{ability}: {info}
+en-us,pokemon-skill.ability.generation.introduced,{ability} was introduced in generation {generation}
+en-us,pokemon-skill.ability.not.in.version,{version} doesn't have {ability}
+en-us,pokemon-skill.and,and
+en-us,pokemon-skill.base.stat.is,{pokemon}'s base {stat} is {value}
+en-us,pokemon-skill.cannot.answer.about.ability,Cannot answer that about that ability
+en-us,pokemon-skill.cannot.answer.about.pokemon,Cannot answer that about that Pokemon
+en-us,pokemon-skill.connection.error,No internet connection
+en-us,pokemon-skill.connection.error,Got a connection error
+en-us,pokemon-skill.debug.speech,Debugging! Reached!
+en-us,pokemon-skill.evolve.details.at.level,at level {level}
+en-us,pokemon-skill.evolve.details.holding.item,while holding {item}
+en-us,pokemon-skill.evolve.details.if.gender.female,if female
+en-us,pokemon-skill.evolve.details.if.gender.male,if male
+en-us,pokemon-skill.evolve.details.knowing.move,when knowing {move}
+en-us,pokemon-skill.evolve.details.knowing.move.type,when knowing a move with type {type}
+en-us,pokemon-skill.evolve.details.location,at {location}
+en-us,pokemon-skill.evolve.details.stats.attack.equals.defense,if attack stat is equal to defense stat
+en-us,pokemon-skill.evolve.details.stats.attack.greater.than.defense,if attack stat is greater than defense stat
+en-us,pokemon-skill.evolve.details.stats.attack.less.than.defense,if attack stat is less than the defense stat
+en-us,pokemon-skill.evolve.details.time.of.day,at {time}
+en-us,pokemon-skill.evolve.details.trade.species,for {species}
+en-us,pokemon-skill.evolve.details.trigger,by {name}
+en-us,pokemon-skill.evolve.details.turn.upside.down,with the system turned upside down
+en-us,pokemon-skill.evolve.details.with.affection,with an affection level of {affection}
+en-us,pokemon-skill.evolve.details.with.beauty,with beauty level {beauty}
+en-us,pokemon-skill.evolve.details.with.happiness,with happiness {happiness}
+en-us,pokemon-skill.evolve.details.with.pokemon.party,with {pokemon} in party
+en-us,pokemon-skill.evolve.details.with.pokemon.party.type,with {type} type in party
+en-us,pokemon-skill.evolve.details.with.rain,while it's raining
+en-us,pokemon-skill.foot,foot
+en-us,pokemon-skill.inches,inches
+en-us,pokemon-skill.kilograms,kilograms
+en-us,pokemon-skill.meters,meters
+en-us,pokemon-skill.no.type.specified,You must specify a type
+en-us,pokemon-skill.no.type.specified,What type?
+en-us,pokemon-skill.or,or
+en-us,pokemon-skill.pokemon.abilities.hidden,{pokemon} has hidden ability {hidden_abilities}
+en-us,pokemon-skill.pokemon.abilities.hidden.non-hidden,{pokemon} has ability {abilities}. and hidden ability {hidden_abilities}
+en-us,pokemon-skill.pokemon.abilities.non-hidden,{pokemon} has ability {abilities}
+en-us,pokemon-skill.pokemon.abilities.none,{pokemon} has no abilities
+en-us,pokemon-skill.pokemon.capture.rate,{pokemon}'s capture rate is {rate}
+en-us,pokemon-skill.pokemon.color.is,{pokemon} is {color}
+en-us,pokemon-skill.pokemon.does.not.evolve,{pokemon} does not evolve
+en-us,pokemon-skill.pokemon.egg.groups.are,{pokemon}'s egg group is {groups}
+en-us,pokemon-skill.pokemon.evolves.from,{pokemon} evolves from {from} {how}
+en-us,pokemon-skill.pokemon.evolves.into,{pokemon} evolves into {evolve}
+en-us,pokemon-skill.pokemon.final.evolution,{pokemon}'s final evolution is {final}
+en-us,pokemon-skill.pokemon.first.evolution.is,{pokemon}'s first evolution is {first}
+en-us,pokemon-skill.pokemon.has.no.evolutions,{pokemon} has no evolutions
+en-us,pokemon-skill.pokemon.has.no.forms,{pokemon} isn't in a form
+en-us,pokemon-skill.pokemon.has.no.previous.evolution,{pokemon} has no previous evolution
+en-us,pokemon-skill.pokemon.height,{pokemon} is {height}
+en-us,pokemon-skill.pokemon.id.is,{pokemon}'s I D is {id}
+en-us,pokemon-skill.pokemon.id.is,{pokemon} is number {id}
+en-us,pokemon-skill.pokemon.is.in.final.evolution,{pokemon} is in it's final evolution
+en-us,pokemon-skill.pokemon.is.in.final.evolution,{pokemon} can not evolve any further
+en-us,pokemon-skill.pokemon.is.in.first.evolution,{pokemon} is in it's first evolution
+en-us,pokemon-skill.pokemon.is.in.first.evolution,{pokemon} is in it's simplest evolution
+en-us,pokemon-skill.pokemon.is.in.form,{pokemon} is in {form}
+en-us,pokemon-skill.pokemon.lives.in,{pokemon} lives in the {habitat}
+en-us,pokemon-skill.pokemon.lives.in,{pokemon} live in the {habitat}
+en-us,pokemon-skill.pokemon.lives.in,{pokemon}'s home is the {habitat}
+en-us,pokemon-skill.pokemon.shape.is,{pokemon}'s shape is {shape}
+en-us,pokemon-skill.pokemon.type.one,{pokemon}'s type is {type1}
+en-us,pokemon-skill.pokemon.type.two,{pokemon}'s types are {type1} and {type2}
+en-us,pokemon-skill.pokemon.version.introduced,{pokemon} was introduced in {versions} in generation {generation}
+en-us,pokemon-skill.pokemon.weighs,{pokemon} weighs {weight}
+en-us,pokemon-skill.pounds,pounds
+en-us,pokemon-skill.type.is.half,{type} isn't very effective against {pokemon}
+en-us,pokemon-skill.type.is.none,{type} does not affect {pokemon}
+en-us,pokemon-skill.type.is.normal,{type} does normal damage against {pokemon}
+en-us,pokemon-skill.type.is.super,{type} is super effective against {pokemon}
+en-us,pokemon-skill.unable.to.find.pokemon,I wasn't able to find a pokemon for that phrase
+en-us,pokemon-skill.unable.to.find.pokemon,I couldn't find that pokemon
+en-us,pokemon-skill.unable.to.find.pokemon,Unable to find that pokemon
+en-us,query.noAnswer,Sorry I don't know the answer to that
+en-us,query.noAnswer,I don't have the answer for that
+en-us,query.noAnswer,I don't know
+en-us,query.noAnswer,Beats me
+en-us,quote-of-day.intro,thank you for installing {skill_name} skill
+en-us,quote-of-day.no_idea,I don't know
+en-us,quote-of-day.no_idea,I have not verified the sources
+en-us,quote-of-day.no_idea,It is in the internet it must be true
+en-us,quote-of-day.no_idea,Take everything with a grain of salt
+en-us,quote-of-day.no_idea,Sources have not been checked
+en-us,quote-of-day.no_idea,Sources have not been provided
+en-us,quote-of-day.theysaidso,I scrapped my quotes from they said so api
+en-us,quote-of-day.theysaidso,I get my quotes from they said so api
+en-us,quote-of-day.theysaidso,My quotes come from they said so api
+en-us,quote-of-day.theysaidso,I download quotes from they said so api
+en-us,quote-of-day.theysaidso,My quotes come from the internet
+en-us,release-test.Release,Test passed for 18.2.13b
+en-us,remember-skill.delete,Should i delete the phrase: {{PHRASE}}?
+en-us,remember-skill.deleteall,Should i delete everything i remembered for you?
+en-us,remember-skill.forgotten,It is forgotten.
+en-us,remember-skill.gotphrase,I will remember "{{REMEMBER}}" for you.
+en-us,remember-skill.holdon,I will hold on to this phrase.
+en-us,remember-skill.iremembered,I remember: {{REMEMBER}}.
+en-us,remember-skill.short,I can only remember sentences or words longer than four characters. Please rephrase.
+en-us,remember-skill.sorry,I am sorry i can not remember any phrase!
+en-us,remember-skill.sorryforget,I am sorry there was an error i could not forget anything!
+en-us,remember-skill.sorrynophrase,I am sorry i couldn't find a phrase matching your request.
+en-us,reminder.reminder.notify,You have a reminder {{data}}
+en-us,reminder.reminder.notify,There is a reminder {{data}}
+en-us,reminder.reminder.off,the reminder has been turned off
+en-us,reminder.reminder.off,the reminder has been shut off
+en-us,reminder.reminder.off,the reminder has been stopped
+en-us,reminder.reminder.stop,Stop this reminder by saying stop reminder
+en-us,reminder.reminder.stop,Say set reminder off to end this reminder
+en-us,reminder.reminder.stop,Tell me to end reminder to stop the current reminder
+en-us,reminder.schedule.create,Reminder set for {{datetime}}
+en-us,reminder.schedule.create,You have a new reminder on {{datetime}}
+en-us,reminder.schedule.create,A new reminder for {{datetime}} was added
+en-us,reminder.schedule.datetime.error,Sorry I didn't find a valid date and time to remind you.
+en-us,reminder.schedule.datetime.error,It was not possible to set a reminder for the informed date and time.
+en-us,reminder.schedule.delete.empty,There is no reminder to be removed
+en-us,reminder.schedule.delete.empty,You don't have any reminder to be deleted
+en-us,reminder.schedule.delete.many,{{amount}} reminders removed
+en-us,reminder.schedule.delete.many,{{amount}} reminders were cancelled
+en-us,reminder.schedule.delete.many,You have deleted {{amount}} reminders
+en-us,reminder.schedule.delete.single,One reminder removed
+en-us,reminder.schedule.delete.single,A reminder was cancelled
+en-us,reminder.schedule.delete.single,You have deleted one reminder
+en-us,reminder.schedule.list,You have a reminder {{data}} on {{datetime}}
+en-us,reminder.schedule.list,There is a reminder {{data}} for {{datetime}}
+en-us,reminder.schedule.list.empty,There is no reminder to be listed
+en-us,reminder.schedule.list.empty,You don't have any reminder to be listed
+en-us,rocket-launch.not.found,No rocket launches found.
+en-us,rocket-launch.space.launch,A {{ rocket }} will be launching at {{ time }} from {{ location }}.
+en-us,rocket-launch.space.launch,The next space launch will be at {{ time }}. A {{ rocket }} will be launching from {{ location }}.
+en-us,rocket-launch.space.launch,The {{ rocket }} will launch from {{ location }} at {{ time }}.
+en-us,rocket-launch.space.launch.delta,A {{ rocket }} will be launching in {{delta }} from {{ location }}.
+en-us,rocket-launch.space.launch.delta,The next space launch will be in {{ delta }}. A {{ rocket }} will be launching from {{ location }}.
+en-us,rocket-launch.space.launch.delta,The {{ rocket }} will launch from {{ location }} in {{ time }}.
+en-us,singing.singing,I would be happy to sing for you.
+en-us,singing.singing,Here I go.
+en-us,singing.singing,I'm a bit nervous about my voice but here goes nothing.
+en-us,singing.singing.stop,thank you for listening
+en-us,singing.singing.stop,I hope you liked my voice
+en-us,singing.singing.stop,now you try
+en-us,sip.neon.ServerNotSupported,I'm still learning how to do that on your device.
+en-us,sip.neon.accept_all,I will answer all incoming calls with {{speech}}
+en-us,sip.neon.call_ended,Call Ended {{reason}}
+en-us,sip.neon.call_error,An error occurred and the call was not connected. Please try again.
+en-us,sip.neon.call_muted,Call is muted
+en-us,sip.neon.call_on_hold,Call is now on hold
+en-us,sip.neon.call_rejected,Rejected call
+en-us,sip.neon.call_rejected,Call rejected
+en-us,sip.neon.call_status,Call Status {{status}}
+en-us,sip.neon.calling,Calling {{contact}}
+en-us,sip.neon.calling,Placing a call to {{contact}}
+en-us,sip.neon.calling,Phoning {{contact}}
+en-us,sip.neon.contact_added,Added new contact for {{contact}}
+en-us,sip.neon.contact_deleted,Deleted contact for {{contact}}
+en-us,sip.neon.contact_updated,Updated contact for {{contact}}
+en-us,sip.neon.contacts_list,I have the following contacts
+en-us,sip.neon.contacts_list,I know the following phone numbers
+en-us,sip.neon.contacts_list,I know the following SIP contacts
+en-us,sip.neon.contacts_list,I know the following VOIP contacts
+en-us,sip.neon.contacts_number,I have {{number}} contacts
+en-us,sip.neon.contacts_number,I know {{number}} phone numbers
+en-us,sip.neon.contacts_number,I know {{number}} SIP contacts
+en-us,sip.neon.contacts_number,I know {{number}} VOIP contacts
+en-us,sip.neon.converse_disable,{skill_name} restored to fallback skill
+en-us,sip.neon.converse_enable,you made {skill_name} a priority skill
+en-us,sip.neon.converse_enable,{skill_name} is now triggered first
+en-us,sip.neon.converse_off,node red is already a fallback skill
+en-us,sip.neon.converse_off,node red is not a priority skill
+en-us,sip.neon.converse_on,{skill_name} is already a priority skill
+en-us,sip.neon.converse_on,{skill_name}is not a fallback skill
+en-us,sip.neon.credentials_missing,Credentials are not set
+en-us,sip.neon.delete_confirm,Are you sure you want to delete {{contact}}
+en-us,sip.neon.incoming_call,{{contact}} is calling
+en-us,sip.neon.incoming_call,Incoming call from {{contact}}
+en-us,sip.neon.incoming_call_unk,I do not know who is calling
+en-us,sip.neon.incoming_call_unk,Someone is calling not in my contact list
+en-us,sip.neon.incoming_call_unk,Unknown person is calling
+en-us,sip.neon.incoming_call_unk,Someone is calling i don't know who
+en-us,sip.neon.intro,thank you for installing {skill_name} skill
+en-us,sip.neon.no_auto,Ok i won't handle incoming calls
+en-us,sip.neon.no_auto,I will not reject nor answer calls automatically
+en-us,sip.neon.no_auto,Automatic call answering disabled
+en-us,sip.neon.no_call,I don't have any active call
+en-us,sip.neon.no_such_contact,I don't have any contact named {{contact}}
+en-us,sip.neon.no_such_contact,I don't know {{contact}}
+en-us,sip.neon.no_such_contact,I don't know anyone named {{contact}}
+en-us,sip.neon.no_such_contact,I don't know anyone with the name {{contact}}
+en-us,sip.neon.rejecting_all,I will reject all incoming calls
+en-us,sip.neon.resume_call,Resuming active call
+en-us,sip.neon.sip_login,Attempting log in to SIP server at {{gateway}}
+en-us,sip.neon.sip_login_fail,SIP login failed verify your credentials
+en-us,sip.neon.sip_login_success,I am connected to a SIP server
+en-us,sip.neon.sip_login_success,Connection successful you can now receive and place VOIP calls
+en-us,sip.neon.sip_not_running,I am not logged into the SIP server
+en-us,sip.neon.sip_restart,Restarting SIP service
+en-us,sip.neon.sip_running,SIP service is already running
+en-us,sip.neon.sipxcom_badcreds,Credentials for Sip X Com seem to be invalid
+en-us,sip.neon.sipxcom_badcreds,Credentials for Sip X Com rejected
+en-us,sip.neon.sipxcom_badcreds,Credentials error for Sip X Com
+en-us,sip.neon.sipxcom_sync_error,An error occurred when fetching contact list from sip x com
+en-us,sip.neon.sipxcom_sync_error,An error occurred when downloading contact list from sip x com
+en-us,sip.neon.sipxcom_sync_error,An error occurred when synchronizing contact list with sip x com
+en-us,sip.neon.unmute_call,Call unmuted
+en-us,sip.neon.unmute_call,Unmuting call
+en-us,sip.neon.update_confirm,Do you want to replace the address of {{contact}}
+en-us,sip.neon.want_restart,Do you want to restart the SIP service
+en-us,sip.neon.want_restart,Do you want to reboot the SIP service
+en-us,smod.intro,thank you for installing stoned meadow of doom Skill
+en-us,sovietwave.intro,thank you for installing soviet wave radio Skill
+en-us,space-news.news,Space news from {{date}}
+en-us,space-stuff.spacestuff,Lots of stuff in orbit
+en-us,speed-test.neon.Results,Your internet speed is {{down}} Mbps download and {{up}} Mbps upload with a ping of {{ping}} ms.</speak> Provided by speedtest.net.
+en-us,speed-test.neon.StartTest,Starting a speed test.
+en-us,speedtest-skill.error,There was an error i could not run a speedtest... sorry.
+en-us,speedtest-skill.result,Your download speed is {{DOWN}} Megabit per second and your upload speed is {{UP}} Megabit per second.
+en-us,speedtest-skill.running,Starting speedtest now i will be back with the results in a moment.
+en-us,spotify-skill.And,and
+en-us,spotify-skill.AvailableDevices,I see the Spotify devices named: {{devices}}
+en-us,spotify-skill.AvailableDevices,I've found the Spotify devices named: {{devices}}
+en-us,spotify-skill.For,for
+en-us,spotify-skill.ForAlbum,for the album
+en-us,spotify-skill.ForArtist,for the artist
+en-us,spotify-skill.ListeningToAlbumBy,Listening to {{album}} by {{artist}}.
+en-us,spotify-skill.ListeningToAlbumBy,Now playing {{album}} by {{artist}}.
+en-us,spotify-skill.ListeningToArtist,Now listening to {{artist}}
+en-us,spotify-skill.ListeningToArtist,Listening to {{artist}}
+en-us,spotify-skill.ListeningToArtist,Playing songs by {{artist}}
+en-us,spotify-skill.ListeningToGenre,Okay let's hear some {{genre}}. Starting with {{track}} by {{artist}}
+en-us,spotify-skill.ListeningToGenre,Let's hear some {{genre}}. Starting with {{track}} by {{artist}}
+en-us,spotify-skill.ListeningToGenre,Let's hear some {{genre}} music. This is {{track}} by {{artist}}
+en-us,spotify-skill.ListeningToGenre,Playing {{genre}} music. Starting off with {{track}} by {{artist}}
+en-us,spotify-skill.ListeningToPlaylist,Listening to the playlist {{playlist}}
+en-us,spotify-skill.ListeningToPlaylist,Now playing the playlist {{playlist}}
+en-us,spotify-skill.ListeningToPlaylist,Okay let's hear your playlist {{playlist}}
+en-us,spotify-skill.ListeningToPlaylist,Got it. Next up your playlist {{playlist}}
+en-us,spotify-skill.ListeningToSongBy,Listening to the song {{tracks}} by {{artist}}.
+en-us,spotify-skill.ListeningToSongBy,Now playing the song {{tracks}} by {{artist}}.
+en-us,spotify-skill.ListeningToSongBy,Playing {{tracks}} by {{artist}}
+en-us,spotify-skill.NoArtistResults,Hmm I can't find that artist.
+en-us,spotify-skill.NoArtistResults,Sorry I can't find that artist.
+en-us,spotify-skill.NoArtistResults,I can't seem to find that artist.
+en-us,spotify-skill.NoArtistResults,I didn't get any results for that artist.
+en-us,spotify-skill.NoArtistResults,Sorry I didn't get any results for that artist.
+en-us,spotify-skill.NoArtistResults,Uh-oh I didn't find the artist you were looking for.
+en-us,spotify-skill.NoDefaultDeviceAvailable,I couldn't find any default Spot-ify device. Make sure Spot-ify is running or that the skill has been configured to use the default libraries
+en-us,spotify-skill.NoDefaultDeviceAvailable,There's no default Spot-ify device available. Make sure Spot-ify is running or that the skill has been configured to use the default libraries
+en-us,spotify-skill.NoDevicesAvailable,I couldn't find any Spotify devices.
+en-us,spotify-skill.NoDevicesAvailable,There are no Spotify devices available.
+en-us,spotify-skill.NoResults,Hmm I can't find that.
+en-us,spotify-skill.NoResults,Sorry I can't find that.
+en-us,spotify-skill.NoResults,I can't seem to find that.
+en-us,spotify-skill.NoResults,I didn't get any results for that.
+en-us,spotify-skill.NoResults,Sorry I didn't get any results for that.
+en-us,spotify-skill.NoResults,Uh-oh I didn't find what you were looking for.
+en-us,spotify-skill.NotAuthorized,I'm not connected to a Spotify account go to home dot mycroft dot ai to authorize the skill.
+en-us,spotify-skill.NotAuthorized,This device isn't associated with a Spotify account go to home dot mycroft dot ai to authorize me.
+en-us,spotify-skill.NotAuthorized,Please authorize the Spotify skill on home dot mycroft dot ai to access your account
+en-us,spotify-skill.on_spotify_regex,from spotify$
+en-us,spotify-skill.on_spotify_regex,with spotify$
+en-us,spotify-skill.on_spotify_regex,on spotify$
+en-us,spotify-skill.play_album_backup,^play ( ?P<album>.+? ) ( by ( [\w\s]+? ) ) ?$
+en-us,spotify-skill.play_album_backup,^play the album ( ?P<album>.+? ) ( by ( [\w\s]+? ) ) ?$
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( composition ) ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( composition ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( track ) ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( track ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( piece ) ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( piece ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( song ) ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( song ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my composition ) ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my composition ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my track ) ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my track ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my piece ) ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my piece ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my song ) ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my song ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the composition ) ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the composition ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the track ) ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the track ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the piece ) ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the piece ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the song ) ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the song ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+en-us,spotify-skill.something_regex,^play a ? track ( by ( [\w\s]+? ) ) ?$
+en-us,spotify-skill.something_regex,^play a ? music ( by ( [\w\s]+? ) ) ?$
+en-us,spotify-skill.something_regex,^play a ? something ( by ( [\w\s]+? ) ) ?$
+en-us,spotify-skill.something_regex,^play some ? track ( by ( [\w\s]+? ) ) ?$
+en-us,spotify-skill.something_regex,^play some ? music ( by ( [\w\s]+? ) ) ?$
+en-us,spotify-skill.something_regex,^play some ? something ( by ( [\w\s]+? ) ) ?$
+en-us,stephen-hawking.birth,stephen hawking was born on 8 January 1942
+en-us,stephen-hawking.death,stephen hawking died on 14 March 2018
+en-us,stephen-hawking.quote,God is the name people give to the reason we are here.
+en-us,stephen-hawking.quote,God may exist but science can explain the universe without the need for a creator.
+en-us,stephen-hawking.quote,However difficult life may seem there is always something you can do and succeed at.
+en-us,stephen-hawking.quote,I am just a child who has never grown up. I still keep asking these 'how' and 'why' questions. Occasionally I find an answer.
+en-us,stephen-hawking.quote,I believe alien life is quite common in the universe although intelligent life is less so. Some say it has yet to appear on planet Earth.
+en-us,stephen-hawking.quote,I believe there are no questions that science can't answer about a physical universe.
+en-us,stephen-hawking.quote,I have found far greater enthusiasm for science in America than here in Britain. There is more enthusiasm for everything in America.
+en-us,stephen-hawking.quote,I have noticed even people who claim everything is predestined and that we can do nothing to change it look before they cross the road.
+en-us,stephen-hawking.quote,In my opinion there is no aspect of reality beyond the reach of the human mind.
+en-us,stephen-hawking.quote,Intelligence is the ability to adapt to change.
+en-us,stephen-hawking.quote,Life would be tragic if it weren't funny.
+en-us,stephen-hawking.quote,Many people find the universe confusing -- it's not.
+en-us,stephen-hawking.quote,People who boast about their IQ are losers.
+en-us,stephen-hawking.quote,People won't have time for you if you are always angry or complaining.
+en-us,stephen-hawking.quote,Science can lift people out of poverty and cure disease. That in turn will reduce civil unrest.
+en-us,stephen-hawking.quote,Science is increasingly answering questions that used to be the province of religion.
+en-us,stephen-hawking.quote,Science is not only a disciple of reason but also one of romance and passion.
+en-us,stephen-hawking.quote,Scientists have become the bearers of the torch of discovery in our quest for knowledge.
+en-us,stephen-hawking.quote,The past like the future is indefinite and exists only as a spectrum of possibilities.
+en-us,stephen-hawking.quote,The universe is not indifferent to our existence -- it depends on it.
+en-us,stephen-hawking.quote,There is no unique picture of reality.
+en-us,stephen-hawking.quote,There is nothing bigger or older than the universe.
+en-us,stephen-hawking.quote,We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the universe. That makes us something very special.
+en-us,stephen-hawking.quote,When one's expectations are reduced to zero one really appreciates everything one does have.
+en-us,stephen-hawking.quote,Work gives you meaning and purpose and life is empty without it.
+en-us,stephen-hawking.quote,My goal is simple. It is a complete understanding of the universe why it is as it is and why it exists at all.
+en-us,stephen-hawking.quote,It would not be much of a universe if it wasn't home to the people you love.
+en-us,stephen-hawking.quote,Life would be tragic if it weren't funny
+en-us,stephen-hawking.quote,Einstein was wrong when he said 'God does not play dice'. Consideration of black holes suggests not only that God does play dice but that he sometimes confuses us by throwing them where they can't be seen
+en-us,stephen-hawking.quote,It is not necessary to invoke God to light the blue touch paper and set the universe going
+en-us,stephen-hawking.quote,Without imperfection you or I would not exist
+en-us,stephen-hawking.quote,The victim should have the right to end his life if he wants. But I think it would be a great mistake. However bad life may seem there is always something you can do and succeed at. While there's life there is hope
+en-us,stephen-hawking.quote,I think it would be a disaster. The extraterrestrials would probably be far in advance of us. The history of advanced races meeting more primitive people on this planet is not very happy and they were the same species. I think we should keep our heads low
+en-us,stephen-hawking.quote,I fear that AI may replace humans altogether. If people design computer viruses someone will design AI that improves and replicates itself. This will be a new form of life that outperforms humans.
+en-us,stephen-hawking.quote,I believe there is no deep difference between what can be achieved by a biological brain and what can be achieved by a computer. It therefore follows that computers can in theory emulate human intelligence - and exceed it.
+en-us,stephen-hawking.quote,If you are disabled it is probably not your fault but it is no good blaming the world or expecting it to take pity on you. One has to have a positive attitude and must make the best of the situation that one finds oneself in
+en-us,stephen-hawking.quote,What I have done is to show that it is possible for the way the universe began to be determined by the laws of science. In that case it would not be necessary to appeal to God to decide how the universe began. This doesn't prove that there is no God only that God is not necessary.
+en-us,stephen-hawking.quote,We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special.
+en-us,stephen-hawking.quote,On quantum physics: These lectures have shown very clearly the difference between Roger and me. He's a Platonist and I'm a positivist. He's worried that Schrödinger's cat is in a quantum state where it is half alive and half dead. He feels that can't correspond to reality. But that doesn't bother me. I don't demand that a theory correspond to reality because I don't know what it is. Reality is not a quality you can test with litmus paper. All I'm concerned with is that the theory should predict the results of measurements. Quantum theory does this very successfully. It predicts that the result of an observation is either that the cat is alive or that it is dead. It is like you can't be slightly pregnant: you either are or you aren't.
+en-us,stephen-hawking.quote,The human race is just a chemical scum on a moderate-sized planet orbiting around a very average star in the outer suburb of one among a hundred billion galaxies. We are so insignificant that I can't believe the whole universe exists for our benefit. That would be like saying that you would disappear if I closed my eyes.
+en-us,stephen-hawking.quote,I think computer viruses should count as life … I think it says something about human nature that the only form of life we have created so far is purely destructive. We've created life in our own image.
+en-us,stephen-hawking.quote,All my life I have been fascinated by the big questions that face us and have tried to find scientific answers to them.
+en-us,stephen-hawking.quote,The world has changed far more in the past 100 years than in any other century in history. The reason is not political or economic but technological — technologies that flowed directly from advances in basic science.
+en-us,stephen-hawking.quote,Although September 11 was horrible it didn't threaten the survival of the human race like nuclear weapons do.
+en-us,stephen-hawking.quote,I don't think the human race will survive the next thousand years unless we spread into space. There are too many accidents that can befall life on a single planet. But I'm an optimist. We will reach out to the stars.
+en-us,stephen-hawking.quote,We shouldn't be surprised that conditions in the universe are suitable for life but this is not evidence that the universe was designed to allow for life. We could call order by the name of God but it would be an impersonal God. There's not much personal about the laws of physics.
+en-us,stephen-hawking.quote,I am discounting reports of UFOs. Why would they appear only to cranks and weirdos?
+en-us,stephen-hawking.quote,The life we have on Earth must have spontaneously generated itself. It must therefore be possible for life to generate spontaneously elsewhere in the universe.
+en-us,stephen-hawking.quote,Evolution has ensured that our brains just aren't equipped to visualise 11 dimensions directly. However from a purely mathematical point of view it's just as easy to think in 11 dimensions as it is to think in three or four.
+en-us,stephen-hawking.quote,I think that it's important for scientists to explain their work particularly in cosmology. This now answers many questions once asked of religion.
+en-us,stephen-hawking.quote,Equations are just the boring part of mathematics. I attempt to see things in terms of geometry.
+en-us,stephen-hawking.quote,The danger is that global warming may become self-sustaining if it has not done so already. The melting of the Arctic and Antarctic ice caps reduces the fraction of solar energy reflected back into space and so increases the temperature further. Climate change may kill off the Amazon and other rain forests and so eliminate once one of the main ways in which carbon dioxide is removed from the atmosphere. The rise in sea temperature may trigger the release of large quantities of carbon dioxide trapped as hydrides on the ocean floor. Both these phenomena would increase the greenhouse effect and so global warming further. We have to reverse global warming urgently if we still can.
+en-us,stephen-hawking.quote,I'm not religious in the normal sense. I believe the universe is governed by the laws of science. The laws may have been decreed by God but God does not intervene to break the laws.
+en-us,stephen-hawking.quote,In a world that is in chaos politically socially and environmentally how can the human race sustain another 100 years?
+en-us,stephen-hawking.quote,To confine our attention to terrestrial matters would be to limit the human spirit.
+en-us,stephen-hawking.quote,There is a fundamental difference between religion which is based on authority and science which is based on observation and reason. Science will win because it works.
+en-us,stephen-hawking.quote,We should seek the greatest value of our action
+en-us,stephen-hawking.quote,Science predicts that many different kinds of universe will be spontaneously created out of nothing. It is a matter of chance which we are in.
+en-us,stephen-hawking.quote,Women. They are a complete mystery.
+en-us,stephen-hawking.quote,One remember to look up at the stars and not down at your feet. Two never give up work. Work gives you meaning and purpose and life is empty without it. Three if you are lucky enough to find love remember it is there and don't throw it away.
+en-us,stephen-hawking.quote,We are all different — but we share the same human spirit. Perhaps it's human nature that we adapt — and survive.
+en-us,stephen-hawking.quote,It has certainly been true in the past that what we call intelligence and scientific discovery have conveyed a survival advantage. It is not so clear that this is still the case: our scientific discoveries may well destroy us all
+en-us,stephen-hawking.quote,The whole history of science has been the gradual realization that events do not happen in an arbitrary manner but that they reflect a certain underlying order which may or may not be divinely inspired.
+en-us,stephen-hawking.quote,Galileo perhaps more than any other single person was responsible for the birth of modern science.
+en-us,stephen-hawking.quote,Just like a computer we must remember things in the order in which entropy increases. This makes the second law of thermodynamics almost trivial. Disorder increases with time because we measure time in the direction in which disorder increases. You can’t have a safer bet than that!
+en-us,stephen-hawking.quote,One could say: The boundary condition of the universe is that it has no boundary. The universe would be completely self-contained and not affected by anything outside itself. It would neither be created nor destroyed. It would just BE.
+en-us,stephen-hawking.quote,What is it that breathes fire into the equations and makes a universe for them to describe? The usual approach of science of constructing a mathematical model cannot answer the questions of why there should be a universe for the model to describe. Why does the universe go to all the bother of existing?
+en-us,stephen-hawking.quote,I have noticed that even people who claim everything is predetermined and that we can do nothing to change it look before they cross the road.
+en-us,stephen-hawking.quote,When I gave a lecture in Japan I was asked not to mention the possible re-collapse of the universe because it might affect the stock market. However I can re-assure anyone who is nervous about their investments that it is a bit early to sell: even if the universe does come to an end it won't be for at least twenty billion years.
+en-us,stephen-hawking.quote,The universe would have expanded in a smooth way from a single point. As it expanded it would have borrowed energy from the gravitational field to create matter. As any economist could have predicted the result of all that borrowing was inflation. The universe expanded and borrowed at an ever-increasing rate. Fortunately the debt of gravitational energy will not have to be repaid until the end of the universe.
+en-us,stephen-hawking.quote,Mathematics is more than a tool and language for science. It is also an end in itself and as such it has over the centuries affected our worldview in its own right.
+en-us,stephen-hawking.quote,If aliens visit us the outcome would be much as when Columbus landed in America which didn't turn out well for the Native Americans. … We only have to look at ourselves to see how intelligent life might develop into something we wouldn't want to meet.
+en-us,stephen-hawking.quote,We are each free to believe what we want and it is my view that the simplest explanation is there is no God. No one created the universe and no one directs our fate. This leads me to a profound realization. There is probably no heaven and no afterlife either. We have this one life to appreciate the grand design of the universe and for that I am extremely grateful
+en-us,stephen-hawking.quote,The development of full artificial intelligence could spell the end of the human race. We cannot quite know what will happen if a machine exceeds our own intelligence so we can't know if we'll be infinitely helped by it or ignored by it and sidelined or conceivably destroyed by it.
+en-us,stephen-hawking.quote,If machines produce everything we need the outcome will depend on how things are distributed. Everyone can enjoy a life of luxurious leisure if the machine-produced wealth is shared or most people can end up miserably poor if the machine-owners successfully lobby against wealth redistribution. So far the trend seems to be toward the second option with technology driving ever-increasing inequality.
+en-us,stephen-hawking.quote,Any physical theory is always provisional in the sense that it is only a hypothesis: you can never prove it. No matter how many times the results of experiments agree with some theory you can never be sure that the next time the result will not contradict the theory. Each time new experiments are observed to agree with the predictions the theory survives and our confidence in it is increased; but if ever a new observation is found to disagree we have to abandon or modify the theory.
+en-us,support-helper.neon.ask.description,What's a brief description of the problem you are having?
+en-us,support-helper.neon.cancelled,Alright
+en-us,support-helper.neon.complete,I've sent an email to your registered account with debugging information and instructions for contacting support.
+en-us,support-helper.neon.confirm.support,Would you like to create a troubleshooting package? This will send logs to your registered email.
+en-us,support-helper.neon.email.error,An error occurred and I was not able to send your support email.
+en-us,support-helper.neon.mobile.complete,I've created a support ticket and sent a confirmation to your email.
+en-us,support-helper.neon.no.email,I don't know your email address. You can tell me by saying 'Neon my email address is...'
+en-us,support-helper.neon.one_moment,Just a moment.
+en-us,support-helper.neon.one_moment,One moment.
+en-us,support-helper.neon.support,support
+en-us,support-helper.neon.support.title,Mycroft Troubleshooting Assistant
+en-us,support.ask.description,Please briefly describe the problem you are experiencing
+en-us,support.ask.description,What's a brief description of the problem you are having?
+en-us,support.cancelled,Alright
+en-us,support.complete,I've sent an email to your registered account with debugging information and instructions for contacting support.
+en-us,support.confirm.support,Would you like to create a troubleshooting package? This will upload logs to the termbin dot com service and email a link to you with more information.
+en-us,support.one.moment,One moment.
+en-us,support.support,support
+en-us,support.support.title,Mycroft Troubleshooting Assistant
+en-us,synonyms.neon.add_synonym_command,'{cmd_phrase}' has synonyms: {already_filled}. I am adding '{syn_phrase}' as an additional option.
+en-us,synonyms.neon.new_synonym_command,Okay. Adding '{syn_phrase}' as a synonym for '{cmd_phrase}'.
+en-us,synonyms.neon.synonym_equals_command,It looks like you requested '{syn_phrase}' as a synonym for itself. Please try again.
+en-us,synonyms.neon.synonym_pair_already_exists,'{syn_phrase}' already is a synonym for '{cmd_phrase}'.
+en-us,theia-ide-skill.cant.install.low.memmory,I can not install THEIA IDE on this device. There is to precompiled package and system has to little memmory to build and compile.
+en-us,theia-ide-skill.cloning,There is not any precompiled package for the {platform} platform. I will then Clone and build instead. This can take some time.
+en-us,theia-ide-skill.downloading,Downloading precompiled package for the {platform} platform. This can take some time depending on the internet speed.
+en-us,theia-ide-skill.ide_already_running,Theia I D E is already running. To access open a webbrowser and go to {url}
+en-us,theia-ide-skill.ide_is_not_running,Theia I D E is not running
+en-us,theia-ide-skill.ide_restarted,Theia I D E started. To access open a webbrowser and go to {url}
+en-us,theia-ide-skill.ide_started,Theia I D E is up and running. To access open a webbrowser and go to {url}
+en-us,theia-ide-skill.ide_stopped,Theia I D E is stopped
+en-us,theia-ide-skill.install_start,Installing Theia IDE.
+en-us,theia-ide-skill.installed_BAD,Theia IDE did not install. There were errors during the installation.
+en-us,theia-ide-skill.installed_OK,Theia IDE installed OK.
+en-us,theia-ide-skill.platform_not_supported,This platform is not supported.
+en-us,translation.neon.AskPreferred,Which one do you prefer?
+en-us,translation.neon.ChangePreferredLanguage,I will start speaking and listening for {{language}}.
+en-us,translation.neon.ChangeSttLanguage,Listening for {{language}}.
+en-us,translation.neon.Confirmed,Sounds good.
+en-us,translation.neon.LanguageError,I do not speak the language you requested please try something else.
+en-us,translation.neon.LanguageMenu,Your options are:
+en-us,translation.neon.LanguageSetting,Your {{primary}} output language is {{gender}} {{language}}.
+en-us,translation.neon.NotValidLanguage,I am sorry {language} is not a supported language. Please choose from the list of available options.
+en-us,translation.neon.OnlyOneLanguage,Okay I will speak to you in only one language.
+en-us,translation.neon.SelectionNotValid,I am sorry this selection is not in the list of options. Please try again.
+en-us,translation.neon.SwitchLanguage,Changing your {{primary}} language to {{gender}} {{language}}.
+en-us,translation.neon.SwitchLanguageDialectOptions,I am switching to {{language}} but I do have other dialect options for you. Say "language menu" if you would like to hear them
+en-us,translation.neon.SwitchPrimaryAndSecondary,I am switching the primary language to {{primary_gender}} {{primary_language}} and the secondary language to {{second_gender}} {{second_language}}
+en-us,translation.neon.TwoLanguageError,It looks like you requested a secondary language but I did not hear two available languages in your request. Please try again.
+en-us,translation.neon.TwoLanguagesDialectOptions,I have dialect options for {{language}}. Say "language menu" if you would like to hear them.
+en-us,translation.neon.WordInLanguage,{{word}} in {{language}} translates to:
+en-us,trve-kvlt.intro,thank you for installing True cult Black Metal Skill
+en-us,tts-control.check.config,Check your configuration file for errors
+en-us,tts-control.demo.cancel,voice demo stopped
+en-us,tts-control.engine.available,The available voice modules are
+en-us,tts-control.engine.available,The available text to speech engines are
+en-us,tts-control.engine.available,The following text to speech engines are available
+en-us,tts-control.engine.available,The available text to speech modules are
+en-us,tts-control.engine.available,The following text to speech modules are available
+en-us,tts-control.engine.changed,Text to speech engine changed to {{engine}} with voice {{voice}}
+en-us,tts-control.engine.current,The configured Text to Speech engine is {{engine}}
+en-us,tts-control.engine.invalid,{{engine}} does not seem to be available
+en-us,tts-control.engine.invalid,{{engine}} does not seem to be correctly configured
+en-us,tts-control.engine.invalid,{{engine}} does not seem to be installed
+en-us,tts-control.engine.invalid,{{engine}} does not seem to be working
+en-us,tts-control.engine.invalid,{{engine}} does not seem to be a valid engine
+en-us,tts-control.engine.invalid,{{engine}} does not seem to be a valid Text to speech engine
+en-us,tts-control.engine.select,Change to what text to speech module
+en-us,tts-control.engine.select,Change to what text to speech engine
+en-us,tts-control.noengine,I could not understand what voice i should use
+en-us,tts-control.voice,This voice is using the {{clazz}} engine and is called {{voice}}
+en-us,tts-control.voice.current,I am using the voice {{voice}}
+en-us,unsplash-wallpaper-plasma-skill.krunner.recent,Displaying your recent files
+en-us,unsplash-wallpaper-plasma-skill.krunner.search,I am searching locally for {{ Query }}
+en-us,usb-cam.neon.DefaultDuration,Video duration not heard. Recording for {{duration}}.
+en-us,usb-cam.neon.LaunchCamera,Launching camera.
+en-us,usb-cam.neon.NoCamera,Sorry I can't find a camera to use.
+en-us,usb-cam.neon.NothingToShow,I don't have any {{kind}} to show.
+en-us,usb-cam.neon.PictureInsteadOfVideo,I will take a picture instead of a 1 second video
+en-us,usb-cam.neon.ServerNotSupported,I'm still learning how to do that on your device.
+en-us,usb-cam.neon.ShowLatest,Here you go.
+en-us,usb-cam.neon.StartRecording,Recording video for {{duration}}.
+en-us,version-checker.platform.build,My platform build is {{build}}.
+en-us,version-checker.platform.build.none,I'm running on a device that does not have an official platform build number.
+en-us,version-checker.version,I am running mycroft-core version {{version}}.
+en-us,version-checker.version.latest,You are on the latest version.
+en-us,version-checker.version.older,Your version is outdated. The latest version is {{new_version}}.
+en-us,viirs.aboutVIIRS,VIIRS Visible Infrared Imaging Radiometer Suite is a scanning radiometer with 5 high-resolution Imagery bands 16 Moderate resolution bands and a Day/Night band.
+en-us,viirs.aboutVIIRS,The Visible Infrared Imaging Radiometer Suite is a sensor designed and manufactured by the Raytheon Company on board the Suomi National Polar-orbiting Partnership and NOAA-20 weather satellites.
+en-us,viirs.bad.date,I don't have satellite imagery that recent
+en-us,viirs.bad.date,No data available for selected date
+en-us,viirs.bad.zoom,Zoom must be between 0 and 8
+en-us,viirs.black_strips,The regularly spaced gaps near the equator are due to lack of coverage between orbits. Terra Aqua and Aura are polar orbiting satellites traveling from pole to pole. The Terra satellite travels north to south. Aqua and Aura move in the opposite direction south to north. At high latitudes adjacent imaging swaths overlap significantly but at the equator gaps occur between adjacent swaths. As a result complete global coverage is achieved every one to two days.
+en-us,viirs.clouds,Approximately 70% of the earth's surface is covered by clouds at any given time. That means there is a good chance that the region you want to see will have some cloud cover.
+en-us,viirs.house,This is a picture of your location from space on {{date}}
+en-us,viirs.house,This is a satellite picture of your location on {{date}}
+en-us,viirs.house,This is your location from orbit on {{date}}
+en-us,viirs.location,This is a picture of {{location}} from space on {{date}}
+en-us,viirs.location,This is a satellite picture of {{location}} on {{date}}
+en-us,viirs.location,This is {{location}} from orbit on {{date}}
+en-us,viirs.location.error,I don't know where {{location}} is
+en-us,viirs.location.error,geolocation for {{location}} failed
+en-us,viirs.location.error,I can't retrieve latitude and longitude for {{location}}
+en-us,viirs.max.zoom,Zoom is already at maximum
+en-us,viirs.min.zoom,Zoom is already at minimum
+en-us,viirs.zoom,Zoom set to {{number}}
+en-us,voip.accept_all,I will answer all incoming calls with {{speech}}
+en-us,voip.call_ended,Call Ended {{reason}}
+en-us,voip.call_muted,Call is muted
+en-us,voip.call_on_hold,Call is now on hold
+en-us,voip.call_rejected,Rejected call
+en-us,voip.call_rejected,Call rejected
+en-us,voip.call_status,Call Status {{status}}
+en-us,voip.calling,Calling {{contact}}
+en-us,voip.calling,Placing a call to {{contact}}
+en-us,voip.calling,Phoning {{contact}}
+en-us,voip.contact_added,Added new contact for {{contact}}
+en-us,voip.contact_deleted,Deleted contact for {{contact}}
+en-us,voip.contact_updated,Updated contact for {{contact}}
+en-us,voip.contacts_list,I have the following contacts
+en-us,voip.contacts_list,I know the following phone numbers
+en-us,voip.contacts_list,I know the following SIP contacts
+en-us,voip.contacts_list,I know the following VOIP contacts
+en-us,voip.contacts_number,I have {{number}} contacts
+en-us,voip.contacts_number,I know {{number}} phone numbers
+en-us,voip.contacts_number,I know {{number}} SIP contacts
+en-us,voip.contacts_number,I know {{number}} VOIP contacts
+en-us,voip.converse_disable,{skill_name} restored to fallback skill
+en-us,voip.converse_enable,you made {skill_name} a priority skill
+en-us,voip.converse_enable,{skill_name} is now triggered first
+en-us,voip.converse_off,node red is already a fallback skill
+en-us,voip.converse_off,node red is not a priority skill
+en-us,voip.converse_on,{skill_name} is already a priority skill
+en-us,voip.converse_on,{skill_name}is not a fallback skill
+en-us,voip.credentials_missing,Credentials are not set
+en-us,voip.delete_confirm,Are you sure you want to delete {{contact}}
+en-us,voip.incoming_call,{{contact}} is calling
+en-us,voip.incoming_call,Incoming call from {{contact}}
+en-us,voip.incoming_call_unk,I do not know who is calling
+en-us,voip.incoming_call_unk,Someone is calling not in my contact list
+en-us,voip.incoming_call_unk,Unknown person is calling
+en-us,voip.incoming_call_unk,Someone is calling i don't know who
+en-us,voip.intro,thank you for installing {skill_name} skill
+en-us,voip.no_auto,Ok i won't handle incoming calls
+en-us,voip.no_auto,I will not reject nor answer calls automatically
+en-us,voip.no_auto,Automatic call answering disabled
+en-us,voip.no_call,I don't have any active call
+en-us,voip.no_such_contact,I don't have any contact named {{contact}}
+en-us,voip.no_such_contact,I don't know {{contact}}
+en-us,voip.no_such_contact,I don't know anyone named {{contact}}
+en-us,voip.no_such_contact,I don't know anyone with the name {{contact}}
+en-us,voip.rejecting_all,I will reject all incoming calls
+en-us,voip.resume_call,Resuming active call
+en-us,voip.sip_login,Attempting log in to SIP server at {{gateway}}
+en-us,voip.sip_login_fail,SIP login failed verify your credentials
+en-us,voip.sip_login_success,I am connected to a SIP server
+en-us,voip.sip_login_success,Connection successful you can now receive and place VOIP calls
+en-us,voip.sip_not_running,I am not logged into the SIP server
+en-us,voip.sip_restart,Restarting SIP service
+en-us,voip.sip_running,SIP service is already running
+en-us,voip.sipxcom_badcreds,Credentials for Sip X Com seem to be invalid
+en-us,voip.sipxcom_badcreds,Credentials for Sip X Com rejected
+en-us,voip.sipxcom_badcreds,Credentials error for Sip X Com
+en-us,voip.sipxcom_sync_error,An error occurred when fetching contact list from sip x com
+en-us,voip.sipxcom_sync_error,An error occurred when downloading contact list from sip x com
+en-us,voip.sipxcom_sync_error,An error occurred when synchronizing contact list with sip x com
+en-us,voip.unmute_call,Call unmuted
+en-us,voip.unmute_call,Unmuting call
+en-us,voip.update_confirm,Do you want to replace the address of {{contact}}
+en-us,voip.want_restart,Do you want to restart the SIP service
+en-us,voip.want_restart,Do you want to reboot the SIP service
+en-us,volume.already.max.volume,Volume is at maximum.
+en-us,volume.already.max.volume,I can't get any louder.
+en-us,volume.already.max.volume,I'm at maximum volume.
+en-us,volume.already.max.volume,This is the maximum volume.
+en-us,volume.decrease.volume,Volume reduced to {{volume}}
+en-us,volume.decrease.volume,Volume decreased to {{volume}}
+en-us,volume.decrease.volume,Volume is now {{volume}}
+en-us,volume.increase.volume,Volume is now {{volume}}
+en-us,volume.increase.volume,Volume increased to {{volume}}
+en-us,volume.mute.volume,Audio is going to be muted
+en-us,volume.mute.volume,Sound is going to be muted
+en-us,volume.neon.already.max.volume,The volume already at maximum
+en-us,volume.neon.already.max.volume,I can't get any louder
+en-us,volume.neon.decrease.volume,Volume reduced to {{volume}}
+en-us,volume.neon.increase.volume,Volume increased to {{volume}}
+en-us,volume.neon.mute.volume,{{kind}} is going to be muted.
+en-us,volume.neon.reset.volume,{{kind}} restored to {{volume}} percent.
+en-us,volume.neon.set.volume,{{kind}} set to {{volume}} percent.
+en-us,volume.neon.volume.is,The {{kind}} is set to {{volume}} percent.
+en-us,volume.neon.volume.is,The {{kind}} is at {{volume}} percent.
+en-us,volume.reset.volume,Volume reset to {{volume}}
+en-us,volume.reset.volume,Volume restored to {{volume}}
+en-us,volume.set.volume,Volume set to {{volume}}
+en-us,volume.set.volume,Volume updated to {{volume}}
+en-us,volume.set.volume,Volume changed to {{volume}}
+en-us,volume.volume.is,The volume is set to {{volume}}
+en-us,volume.volume.is,The volume is at {{volume}}
+en-us,wallpapers.intro,thank you for installing {skill_name} skill
+en-us,wallpapers.no.more.pictures,I don't have anymore pictures
+en-us,wallpapers.no.more.pictures,I'm out of pictures to show you
+en-us,wallpapers.searching,Searching pictures about {{query}}
+en-us,wallpapers.searching,Searching for images with {{query}}
+en-us,wallpapers.wallpaper.changed,enjoy your new wallpaper
+en-us,wallpapers.wallpaper.fail,I don't know how to change wallpaper in this platform
+en-us,weather.E,east
+en-us,weather.N,north
+en-us,weather.NE,north east
+en-us,weather.NW,north west
+en-us,weather.S,south
+en-us,weather.SE,south east
+en-us,weather.SW,south west
+en-us,weather.W,west
+en-us,weather.current.local.weather,It's currently {{condition}} and {{temp}} degrees {{scale}}. Today's forecast is for a high of {{temp_max}} and a low of {{temp_min}}.
+en-us,weather.current.local.weather,It's currently {{condition}} and {{temp}} degrees. Today's forecast is for a high of {{temp_max}} and a low of {{temp_min}}.
+en-us,weather.current.local.weather,Right now it's {{condition}} and {{temp}} degrees for a high of {{temp_max}} and a low of {{temp_min}}.
+en-us,weather.current.local.weather,With a high of {{temp_max}} and a low of {{temp_min}} {{location}} has {{condition}} and is currently {{temp}} degrees.
+en-us,weather.current.weather,It's currently {{condition}} and {{temp}} degrees {{scale}} in {{location}}. Today's forecast is for a high of {{temp_max}} and a low of {{temp_min}}.
+en-us,weather.current.weather,Right now it's {{condition}} and {{temp}} degrees for a high of {{temp_max}} and a low of {{temp_min}} in {{location}}.
+en-us,weather.current.weather,With a high of {{temp_max}} and a low of {{temp_min}} {{location}} has {{condition}} and is currently {{temp}} degrees.
+en-us,weather.do not know,I'm afraid I don't know that
+en-us,weather.do not know,I don't have that information
+en-us,weather.forecast.local.weather,{{day}} it will be {{condition}} with a high of {{temp_max}} and a low of {{temp_min}}
+en-us,weather.forecast.local.weather,{{day}} the high will be {{temp_max}} and the low {{temp_min}} with {{condition}} conditions
+en-us,weather.forecast.local.weather,{{day}}'s forecast is {{temp_max}} for a high and {{temp_min}} for a low
+en-us,weather.forecast.weather,{{day}} it will be {{condition}} with a high of {{temp_max}} and a low of {{temp_min}}
+en-us,weather.forecast.weather,{{day}} {{location}} will have a high of {{temp_max}} and a low of {{temp_min}} with {{condition}} conditions
+en-us,weather.forecast.weather,The forecast for {{day}} is {{temp_max}} for a high and {{temp_min}} for a low
+en-us,weather.heavy,heavy
+en-us,weather.hour.local.weather,It will be {{condition}} with temperatures near {{temp_max}}
+en-us,weather.hour.local.weather,Later it will be {{condition}} and around {{temp_max}} degrees
+en-us,weather.hour.local.weather,Later it will be {{condition}} and {{temp_max}} degrees
+en-us,weather.hour.local.weather,Around {{temp_max}} degrees with {{condition}} conditions
+en-us,weather.hour.weather,{{location}} weather in the next few hours will be {{condition}} and {{temp_max}} degrees
+en-us,weather.hour.weather,Later it will be {{condition}} in {{location}} with temperatures around {{temp_max}}
+en-us,weather.hour.weather,{{location}} will be around {{temp_max}} with {{condition}}
+en-us,weather.hour.weather,{{location}} will be about {{temp_max}} degrees with {{condition}}
+en-us,weather.humidity,humidity
+en-us,weather.light,light
+en-us,weather.location.not.found,I not sure where that is
+en-us,weather.location.not.found,I don't know that location
+en-us,weather.location.not.found,I don't know that place
+en-us,weather.meters per second,meters per second
+en-us,weather.miles per hour,miles per hour
+en-us,weather.no forecast,Sorry I don't know the forecast for {{day}}
+en-us,weather.no forecast,I don't have a forecast for {{day}}
+en-us,weather.no precipitation expected,No precipitation is in the forecast
+en-us,weather.no precipitation expected,None is forecasted
+en-us,weather.precipitation expected,{{modifier}} {{precip}} is expected on {{day}}
+en-us,weather.precipitation expected,The forecast calls for {{modifier}} {{precip}} on {{day}}
+en-us,weather.rain,rain
+en-us,weather.report.condition,{{condition}} is {{value}}
+en-us,weather.report.future.condition,{{condition}} on {{day}} will be {{value}}
+en-us,weather.report.future.condition,On {{day}} the forecast calls for {{condition}} of {{value}}
+en-us,weather.sky is clear.future,clear
+en-us,weather.snow,snow
+en-us,weather.wind.speed,{{speed}} {{unit}}
+en-us,weather.wind.speed.dir,at {{speed}} {{unit}} from the {{dir}}
+en-us,weather.wind.speed.dir,from the {{dir}} at {{speed}} {{unit}}
+en-us,weather.winds,the wind
+en-us,webb-telescope.about,Webb will be the largest most powerful and complex space telescope ever built and launched into space. It will fundamentally alter our understanding of the universe.
+en-us,white-house-adventure.LeavingZork,Leaving the mysterious kingdom of Zork
+en-us,white-house-adventure.LeavingZork,Now leaving Zork
+en-us,white-house-adventure.LeavingZork,Exiting Zork
+en-us,white-house-adventure.NoSave,There's no current savegame
+en-us,white-house-adventure.NoSave,No save game exists
+en-us,white-house-adventure.SaveDeleted,Save game deleted
+en-us,white-house-adventure.SaveDeleted,Removed the save game
+en-us,wiki.disambiguate,did you mean {{options}}
+en-us,wiki.disambiguate,would you like to hear about {{options}}
+en-us,wiki.no entry found,I can't find a related Wikipedia article
+en-us,wiki.no entry found,I'm afraid there isn't any article about that
+en-us,wiki.or,or
+en-us,wiki.searching,Just a moment while I look up {{query}}
+en-us,wiki.searching,Let me look up {{query}}
+en-us,wiki.searching,I'm checking Wikipedia for {{query}}
+en-us,wiki.thats all,That's all I know
+en-us,wiki.thats all,That's all I can find
+en-us,wikidata.age,The age of {person} is {age}
+en-us,wikidata.age,{person} is {age} years old
+en-us,wikidata.age.not.found,I couldn't find the age of {person}
+en-us,wikidata.birthplace,{person} was born in {place}
+en-us,wikidata.birthplace.not.found,I couldn't find where {person} was born
+en-us,wikidata.burial.not.found,I couldn't find any burial information for {person}
+en-us,wikidata.children.not.found,I couldn't find any children of {person}
+en-us,wikidata.country.not.found,I couldn't find which country {person} is from
+en-us,wikidata.date.of.birth,{person} was born on day {day} of month {month} in the year {year}
+en-us,wikidata.date.of.birth.not.found,I couldn't find birth date information for {person}
+en-us,wikidata.date.of.death,{person} died on day {day} of month {month} in the year {year}
+en-us,wikidata.date.of.death.not.found,I couldn't find any death date information for {person}
+en-us,wikidata.deathplace,{person} died in {place}
+en-us,wikidata.deathplace.not.found,I couldn't find where {person} died
+en-us,wikidata.gender.not.found,I couldn't find the gender of {person}
+en-us,wikidata.occupation.not.found,I couldn't find any occupation for {person}
+en-us,wikidata.spouse.not.found,I couldn't find any spouse of {person}
+en-us,wikihow.howto.failure,i don't know
+en-us,wikihow.howto.failure,i am not sure
+en-us,wikihow.howto.failure,i tried searching wiki how but couldn't find anything
+en-us,wikihow.step,Step {{number}} {{step}}
+en-us,wikipedia-for-humans.no entry found,I can't find a related Wikipedia article
+en-us,wikipedia-for-humans.no entry found,I'm afraid there isn't any article about that
+en-us,wikipedia-for-humans.searching,Let me look up {{query}} in Wikipedia
+en-us,wikipedia-for-humans.searching,I'm checking Wikipedia for {{query}}
+en-us,wikipedia-for-humans.thats all,That's all I know
+en-us,wikipedia-for-humans.thats all,That's all I can find
+en-us,wikipedia-for-humans.wikiroulette,knowledge roulette activated
+en-us,wikipedia-for-humans.wikiroulette,playing the wikipedia roulette
+en-us,wikiquote-skill.notfound,I didn't find any {{subject}} quotes
+en-us,wink-iot.couldnt.find.light,Unable to find a light nearby
+en-us,wink-iot.dimmed,dimmed
+en-us,wink-iot.light.level.is,That light is {{state}}
+en-us,wink-iot.light.level.is,It's {{state}}
+en-us,wink-iot.light.level.is,It is {{state}}
+en-us,wink-iot.need.to.configure,Before you can use me to control your lights you will need to enter Wink account information. Please visit home dot mycroft dot A I to set this up.
+en-us,wink-iot.off,off
+en-us,wink-iot.on,on
+en-us,wink-iot.on,lit
+en-us,wink-iot.unable.to.login,I wasn't able to communicate with the Wink service. Please verify the username and password you've entered a home.mycroft.ai.
+en-us,wolfie.no_answer,the wolf does not know the answer
+en-us,xkcd.num_error,There are only {{ total }} comics
+en-us,xkcd.num_error,There are only {{ total }} XKCD comics
+en-us,xkcd.xkcd,XKCD comic from {{ date }}
+en-us,xkcd.xkcd,XKCD comic from {{ date }}
+en-us,xkcd.xkcd_num,XKCD comic number {{number}} from {{ date }}
+en-us,xkcd.xkcd_total_comics,XKCD has created {{ number }} comics to date
+en-us,xkcd.xkcd_total_comics,There are {{ number }} XKCD comics as of today
+en-us,xkcd.xkcd_total_comics,Currently {{ number }} XKCD comics exist

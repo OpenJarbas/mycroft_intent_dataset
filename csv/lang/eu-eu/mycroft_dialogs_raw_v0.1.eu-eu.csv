@@ -1,0 +1,83 @@
+eu-eu,Crystal-Ball-Mycroft-Skill.random.answer,Bai
+eu-eu,Crystal-Ball-Mycroft-Skill.random.answer,Ez
+eu-eu,Crystal-Ball-Mycroft-Skill.random.answer,Saiatu geroago galdetzen
+eu-eu,Crystal-Ball-Mycroft-Skill.random.answer,Bai noski!
+eu-eu,Crystal-Ball-Mycroft-Skill.random.answer,Jakina ez
+eu-eu,Crystal-Ball-Mycroft-Skill.random.answer,Jakina
+eu-eu,Crystal-Ball-Mycroft-Skill.random.answer,Ez
+eu-eu,Crystal-Ball-Mycroft-Skill.random.answer,Zergatik ez?
+eu-eu,Crystal-Ball-Mycroft-Skill.random.answer,Ez dut uste
+eu-eu,Crystal-Ball-Mycroft-Skill.random.answer,Seguru!
+eu-eu,Crystal-Ball-Mycroft-Skill.random.answer,Pazientzia pixka bat
+eu-eu,Number-Guess-Mycroft-Skill.correct,Ederki!
+eu-eu,Number-Guess-Mycroft-Skill.correct,Ongi egina!
+eu-eu,Number-Guess-Mycroft-Skill.correct,Zuzen!
+eu-eu,Number-Guess-Mycroft-Skill.correct,Asmatu duzu!
+eu-eu,Number-Guess-Mycroft-Skill.correct,Lan ona!
+eu-eu,Number-Guess-Mycroft-Skill.correct,Irabazi duzu!
+eu-eu,Number-Guess-Mycroft-Skill.correct,Oso ondo!
+eu-eu,Number-Guess-Mycroft-Skill.get.lower,Zein da beheko muga?
+eu-eu,Number-Guess-Mycroft-Skill.get.upper,Zein da goiko muga?
+eu-eu,Number-Guess-Mycroft-Skill.guess,Asmatu zenbakia
+eu-eu,Number-Guess-Mycroft-Skill.guess,Zer zenbaki dela uste duzu?
+eu-eu,Number-Guess-Mycroft-Skill.guess,Asmatu
+eu-eu,Number-Guess-Mycroft-Skill.input.error,Ezin izan dut ulertu esan duzuna
+eu-eu,Number-Guess-Mycroft-Skill.input.error,Ez dut ondo ulertu.
+eu-eu,Number-Guess-Mycroft-Skill.input.error,Erroreren bat gertatu da eta ez dizut ondo ulertu.
+eu-eu,Number-Guess-Mycroft-Skill.input.error,Berriz esan dezakezu hori?
+eu-eu,Number-Guess-Mycroft-Skill.invalid.input,Erantzun hori ez da baliozkoa. Zenbaki bat behar dut
+eu-eu,Number-Guess-Mycroft-Skill.invalid.input,Mesedez erantzun zenbaki batekin
+eu-eu,Number-Guess-Mycroft-Skill.invalid.input,Zenbaki batekin erantzun behar duzu
+eu-eu,Number-Guess-Mycroft-Skill.invalid.input,Hori ez da zenbaki bat
+eu-eu,Number-Guess-Mycroft-Skill.start.game,Ados jolas dezagun
+eu-eu,Number-Guess-Mycroft-Skill.start.game,Has dadila jolasa
+eu-eu,Number-Guess-Mycroft-Skill.start.game,Jolasa hastera doa
+eu-eu,Number-Guess-Mycroft-Skill.start.game,Has gaitezen
+eu-eu,Number-Guess-Mycroft-Skill.start.game,Ados. Jolas dezagun 'Asmatu zenbakia'.
+eu-eu,Number-Guess-Mycroft-Skill.too.high,Altuegia
+eu-eu,Number-Guess-Mycroft-Skill.too.low,Baxuegia
+eu-eu,auto-volume-skill.activate,Bolumen automatikoa aktibatua
+eu-eu,auto-volume-skill.activate,Bolumen automatikoa aktibatu dut
+eu-eu,auto-volume-skill.deactivate,Bolumen automatikoa desaktibatua
+eu-eu,auto-volume-skill.deactivate,Bolumen automatikoa desaktibatu dut
+eu-eu,auto-volume-skill.reset,Bolumen automatikoa berrezarri dut
+eu-eu,count-skill.count_error,Ez dut ulertzen.
+eu-eu,count-skill.count_error,Zerbait galdu dut.
+eu-eu,count-skill.count_error,Errepikatu dezakezu hori?
+eu-eu,count-skill.count_error,Barkatu ez dut ondo entzun.
+eu-eu,count-skill.count_start,{number} arte kontatzen hasiko gara!
+eu-eu,count-skill.count_stop,Egina!
+eu-eu,count-skill.count_stop,Kitto!
+eu-eu,count-skill.countdown_start,{number} zenbakitik atzera kontatzen hasiko gara!
+eu-eu,count-skill.countdown_stop,Egina!
+eu-eu,count-skill.countdown_stop,Kitto!
+eu-eu,dismissal-skill.dismissed,Ados.
+eu-eu,dismissal-skill.dismissed,Bale.
+eu-eu,dismissal-skill.dismissed,Oso ondo.
+eu-eu,dismissal-skill.dismissed,Zuk esaten baduzu...
+eu-eu,dismissal-skill.dismissed,Zuk esaten duzuna.
+eu-eu,iss-tracker-skill.location.current,ISSa {{latitude}} latitudean eta {{longitude}} longitudean {{toponym}} gainean dago.
+eu-eu,iss-tracker-skill.location.current,Nazioarteko Espazio Estazioa {{latitude}} latitudean eta {{longitude}} longitudean {{toponym}} gainean
+eu-eu,iss-tracker-skill.location.current,Espazio-estazioa {{toponym}} gainean dago {{latitude}} latitudean eta {{longitude}} longitudean.
+eu-eu,iss-tracker-skill.location.unknown,Sentitzen dut {{latitude}} latitudea {{longitude}} longitudea ezezaguna da.
+eu-eu,iss-tracker-skill.location.unknown,Barkatu baina espazio-estazioa {{latitude}} latitudean {{longitude}} longitudean dago baina ez dakit non dagoen hori.
+eu-eu,iss-tracker-skill.location.unknown,{{latitude}} latitudean {{longitude}} longitudean dago baina datu-base honetan ez dago kodetuta.
+eu-eu,iss-tracker-skill.location.unknown,ISSa orain {{latitude}} latitudean {{longitude}} longitudean dago baina ez du ezaugarri geografikorik esleitua.
+eu-eu,list-manager-skill.add.item,{{item_name}} {{list_name}} zerrendara gehituta.
+eu-eu,list-manager-skill.add.list,Zerrenda berria "{{list_name}}" izenekoa gehitu da.
+eu-eu,list-manager-skill.cancelled,Bertan behera utzi da.
+eu-eu,list-manager-skill.cancelled,Ezeztatu egin da.
+eu-eu,list-manager-skill.confirm.deletion,Ziur zaude {{element}} ezabatu nahi duzula?
+eu-eu,list-manager-skill.del.item,{{item_name}} ezabatua {{list_name}} zerrendatik.
+eu-eu,list-manager-skill.del.list,{{list_name}} zerrenda ezabatu da.
+eu-eu,list-manager-skill.item.already_exists,{{item_name}} jada badago {{list_name}} zerrendan.
+eu-eu,list-manager-skill.item.not.found,{{item_name}} ez dago {{list_name}} zerrendan.
+eu-eu,list-manager-skill.list.found,{{list_name}} izeneko zerrenda badago dagoeneko.
+eu-eu,list-manager-skill.list.not.found,Ez dirudi {{list_name}} izeneko zerrenda duzunik.
+eu-eu,list-manager-skill.list.not.found,Ezin izan dut zure zerrenden artean {{list_name}} aurkitu.
+eu-eu,list-manager-skill.no.items,Ez duzu artikulurik {{list_name}} zerrendan.
+eu-eu,list-manager-skill.no.lists,Oraindik ez duzu zerrendarik.
+eu-eu,list-manager-skill.read.items,{{list_name}} zerrendan {{items}} elementuak dauzkazu.
+eu-eu,list-manager-skill.read.lists,Une honetan dituzunak: {{lists_names}} {{list}}.
+eu-eu,picroft-google-aiy-voicekit-skill.error.initialize,Botoia eta argiaren trebetasuna abiarazteko arazoak ditut ez da kargatuko.
+eu-eu,wikiquote-skill.notfound,Ez dut aurkitu {{subject}}-ren esaldirik

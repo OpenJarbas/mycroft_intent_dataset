@@ -1,0 +1,24 @@
+pl-pl,Crystal-Ball-Mycroft-Skill.random.answer,Tak
+pl-pl,Crystal-Ball-Mycroft-Skill.random.answer,Nie
+pl-pl,Crystal-Ball-Mycroft-Skill.random.answer,Spróbuj zapytać ponownie później
+pl-pl,Crystal-Ball-Mycroft-Skill.random.answer,Zdecydowanie
+pl-pl,Crystal-Ball-Mycroft-Skill.random.answer,Oczywiście nie
+pl-pl,Crystal-Ball-Mycroft-Skill.random.answer,Jasne
+pl-pl,Crystal-Ball-Mycroft-Skill.random.answer,Nie
+pl-pl,Crystal-Ball-Mycroft-Skill.random.answer,Dlaczego nie?
+pl-pl,Crystal-Ball-Mycroft-Skill.random.answer,Nie stawiałbym na to
+pl-pl,Crystal-Ball-Mycroft-Skill.random.answer,No pewnie!
+pl-pl,Crystal-Ball-Mycroft-Skill.random.answer,Nie wstrzymuj oddechu
+pl-pl,cocktail.NotFound,Przepraszam nie mogłem znaleźć żądanego drinka
+pl-pl,cocktail.NotFound,Obawiam się że nie mogłem tego znaleźć
+pl-pl,cocktail.YouWillNeed,Będziesz potrzebował {ingredients} i {final_ingredient}
+pl-pl,cocktail.YouWillNeed,Będziesz potrzebował {ingredients} i {final_ingredient}
+pl-pl,cocktail.YouWillNeed,Potrzebnymi składnikami są: {ingredients} i {final_ingredient}
+pl-pl,white-house-adventure.LeavingZork,Opuszczanie tajemniczego królestwa Zork
+pl-pl,white-house-adventure.LeavingZork,Opuszczam Zork
+pl-pl,white-house-adventure.LeavingZork,Zamykam Zork
+pl-pl,white-house-adventure.NoSave,Nie ma aktualnego zapisu gry
+pl-pl,white-house-adventure.NoSave,Nie istnieją żadne zapisy gry
+pl-pl,white-house-adventure.SaveDeleted,Zapis gry usunięty
+pl-pl,white-house-adventure.SaveDeleted,Usunięto zapisaną grę
+pl-pl,wikiquote-skill.notfound,Nie udało mi się znaleźć cytatów na temat {{subject}

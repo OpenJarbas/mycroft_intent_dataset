@@ -6753,6 +6753,12 @@
       "Micronesia",
       "Central Asia"
     ],
+    "device-control-center.neon.dialogmode": [
+      "random",
+      "default",
+      "primary",
+      "normal"
+    ],
     "launcher.neon.program": [
       "chrome",
       "chromium",
@@ -6984,6 +6990,44 @@
       ":0",
       ":0 :0",
       ":0 :0 :0"
+    ],
+    "usb-cam.neon.duration": [
+      "### hours",
+      "### hours and",
+      "### seconds",
+      "### seconds and",
+      "### minutes",
+      "### minutes and",
+      "## hours",
+      "## hours and",
+      "## seconds",
+      "## seconds and",
+      "## minutes",
+      "## minutes and",
+      "# hours",
+      "# hours and",
+      "# seconds",
+      "# seconds and",
+      "# minutes",
+      "# minutes and",
+      "### hour",
+      "### hour and",
+      "### second",
+      "### second and",
+      "### minute",
+      "### minute and",
+      "## hour",
+      "## hour and",
+      "## second",
+      "## second and",
+      "## minute",
+      "## minute and",
+      "# hour",
+      "# hour and",
+      "# second",
+      "# second and",
+      "# minute",
+      "# minute and"
     ]
   }
 }

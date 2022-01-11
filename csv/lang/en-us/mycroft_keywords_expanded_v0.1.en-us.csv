@@ -484,6 +484,151 @@ en-us,confucius-quotes.quote,say
 en-us,confucius-quotes.quote,saying
 en-us,confucius-quotes.when,live
 en-us,confucius-quotes.when,alive
+en-us,controls.neon.Adjust,adjust
+en-us,controls.neon.Adjust,modify
+en-us,controls.neon.Adjust,set
+en-us,controls.neon.American,imperial
+en-us,controls.neon.American,american
+en-us,controls.neon.American,12
+en-us,controls.neon.Audio,audio
+en-us,controls.neon.AudioHome,audio
+en-us,controls.neon.AudioHome,home control
+en-us,controls.neon.AudioHome,home
+en-us,controls.neon.AudioHome,default
+en-us,controls.neon.Blink,blink
+en-us,controls.neon.Blink,blinker
+en-us,controls.neon.Blink,blinks
+en-us,controls.neon.BlinkerMenu,tell me my blink commands
+en-us,controls.neon.BlinkerMenu,tell me my blinker menu
+en-us,controls.neon.BlinkerMenu,tell me my blinker process menu
+en-us,controls.neon.Brain,neon brain
+en-us,controls.neon.Brain,brain
+en-us,controls.neon.Brain,system brain
+en-us,controls.neon.Brain,debug window
+en-us,controls.neon.CallYou,i will call you
+en-us,controls.neon.CallYou,your new name is
+en-us,controls.neon.CallYou,change your name to
+en-us,controls.neon.Change,change
+en-us,controls.neon.Change,switch
+en-us,controls.neon.Change,update
+en-us,controls.neon.Change,set
+en-us,controls.neon.Clap,clappper
+en-us,controls.neon.Clap,clapper process
+en-us,controls.neon.Clap,clap commands
+en-us,controls.neon.Clap,club commands
+en-us,controls.neon.Clap,clapper
+en-us,controls.neon.Clap,clap
+en-us,controls.neon.Clap,clapp
+en-us,controls.neon.Clap,claps
+en-us,controls.neon.ClapperMenu,tell me my clap commands
+en-us,controls.neon.ClapperMenu,tell me my clapper menu
+en-us,controls.neon.ClapperMenu,tell me my clapper process menu
+en-us,controls.neon.Commands,commands
+en-us,controls.neon.Commands,actions
+en-us,controls.neon.Commands,options
+en-us,controls.neon.Commands,gestures
+en-us,controls.neon.ConfirmListening,confirm listening
+en-us,controls.neon.ConfirmListening,listening confirmation
+en-us,controls.neon.ConfirmListening,ding
+en-us,controls.neon.ConfirmNo,no
+en-us,controls.neon.ConfirmNo,nevermind
+en-us,controls.neon.ConfirmNo,never mind
+en-us,controls.neon.ConfirmYes,yes
+en-us,controls.neon.ConfirmYes,continue
+en-us,controls.neon.ConfirmYes,go ahead
+en-us,controls.neon.ConfirmYes,begin
+en-us,controls.neon.ConfirmYes,start
+en-us,controls.neon.Decrease,decrease
+en-us,controls.neon.Decrease,lower
+en-us,controls.neon.Deny,deny
+en-us,controls.neon.Deny,quit
+en-us,controls.neon.Deny,end
+en-us,controls.neon.Deny,disable
+en-us,controls.neon.Hesitation,hesitation
+en-us,controls.neon.Increase,increase
+en-us,controls.neon.Increase,raise
+en-us,controls.neon.Location,location
+en-us,controls.neon.Military,military
+en-us,controls.neon.Military,24
+en-us,controls.neon.Military,european
+en-us,controls.neon.Military,full
+en-us,controls.neon.Military,metric
+en-us,controls.neon.MuteMic,mute mic after silence
+en-us,controls.neon.MuteMic,silence mic when I am silent
+en-us,controls.neon.MuteMic,close mic if i am silent
+en-us,controls.neon.MuteMic,mute microphone after silence
+en-us,controls.neon.MuteMic,silence microphone when I am silent
+en-us,controls.neon.MuteMic,close microphone if i am silent
+en-us,controls.neon.MuteMic,stop listening after
+en-us,controls.neon.MuteMic,silence my mic
+en-us,controls.neon.My,my
+en-us,controls.neon.My,my system
+en-us,controls.neon.Neon,neon
+en-us,controls.neon.Neon,leon
+en-us,controls.neon.Neon,nyan
+en-us,controls.neon.OnStartup,on startup
+en-us,controls.neon.OnStartup,by default
+en-us,controls.neon.Permit,permit
+en-us,controls.neon.Permit,allow
+en-us,controls.neon.Permit,start
+en-us,controls.neon.Permit,begin
+en-us,controls.neon.Permit,enable
+en-us,controls.neon.Permit,turn on
+en-us,controls.neon.Scene,scene
+en-us,controls.neon.Scene,settings
+en-us,controls.neon.Scene,set
+en-us,controls.neon.Scene,preset
+en-us,controls.neon.SetChange,set
+en-us,controls.neon.SetChange,change
+en-us,controls.neon.Settings,setting
+en-us,controls.neon.Settings,settings
+en-us,controls.neon.Settings,gestures
+en-us,controls.neon.Settings,gesture
+en-us,controls.neon.Settings,action
+en-us,controls.neon.Settings,commands
+en-us,controls.neon.Settings,command
+en-us,controls.neon.Settings,function
+en-us,controls.neon.Setup,setup
+en-us,controls.neon.Setup,set up
+en-us,controls.neon.Setup,configuration
+en-us,controls.neon.Setup,first run
+en-us,controls.neon.Setup,calibrate
+en-us,controls.neon.Show,showing
+en-us,controls.neon.Show,displaying
+en-us,controls.neon.Show,display
+en-us,controls.neon.Show,show
+en-us,controls.neon.Speed,faster
+en-us,controls.neon.Speed,slower
+en-us,controls.neon.Speed,normally
+en-us,controls.neon.StartClapper,clapper
+en-us,controls.neon.StartClapper,clap
+en-us,controls.neon.StartClapper,clapp
+en-us,controls.neon.StartClapper,claps
+en-us,controls.neon.Talk,talk to me
+en-us,controls.neon.TellMe,tell me
+en-us,controls.neon.TellMe,what are
+en-us,controls.neon.TellMe,list
+en-us,controls.neon.Text,text
+en-us,controls.neon.Threshold,sensitivity
+en-us,controls.neon.Threshold,threshold
+en-us,controls.neon.Time,time
+en-us,controls.neon.TimeZone,timezone
+en-us,controls.neon.TimeZone,time zone
+en-us,controls.neon.To,to
+en-us,controls.neon.Transcription,transcription
+en-us,controls.neon.Transcription,transcribing
+en-us,controls.neon.Transcription2,transcription
+en-us,controls.neon.Transcription2,text
+en-us,controls.neon.Transcription3,audio
+en-us,controls.neon.Transcription3,text
+en-us,controls.neon.Units,units
+en-us,controls.neon.Units,measuring system
+en-us,controls.neon.WW,wake word
+en-us,controls.neon.WW,ww
+en-us,controls.neon.WW,wake words
+en-us,controls.neon.WW,wakeword
+en-us,controls.neon.With,with
+en-us,controls.neon.With,while
 en-us,countries.question,what
 en-us,countries.question,how many
 en-us,countries.question,tell me
@@ -578,6 +723,120 @@ en-us,deezer.deezer,on deezer
 en-us,deezer.deezer,at deezer
 en-us,deezer.music,music
 en-us,deezer.music,full album
+en-us,device-control-center.neon.Brands,brand
+en-us,device-control-center.neon.Brands,brands
+en-us,device-control-center.neon.Brands,company
+en-us,device-control-center.neon.Brands,companies
+en-us,device-control-center.neon.Cache,caches
+en-us,device-control-center.neon.Cache,cached
+en-us,device-control-center.neon.Cache,cache
+en-us,device-control-center.neon.Cache,cookies
+en-us,device-control-center.neon.Cache,cookie
+en-us,device-control-center.neon.ClearKeyword,clear my user
+en-us,device-control-center.neon.ClearKeyword,i want to clear
+en-us,device-control-center.neon.ClearKeyword,i want to erase
+en-us,device-control-center.neon.ClearKeyword,clear all
+en-us,device-control-center.neon.ClearKeyword,clear my
+en-us,device-control-center.neon.ClearKeyword,clear the
+en-us,device-control-center.neon.ClearKeyword,erase all
+en-us,device-control-center.neon.ClearKeyword,erase my
+en-us,device-control-center.neon.ClearKeyword,erase the
+en-us,device-control-center.neon.ClearKeyword,delete all
+en-us,device-control-center.neon.ClearKeyword,delete my
+en-us,device-control-center.neon.ClearKeyword,delete the
+en-us,device-control-center.neon.ClearKeyword,reset all
+en-us,device-control-center.neon.ClearKeyword,reset my
+en-us,device-control-center.neon.ClearKeyword,reset the
+en-us,device-control-center.neon.ConfirmKeyword,go ahead
+en-us,device-control-center.neon.Data,data
+en-us,device-control-center.neon.Data,info
+en-us,device-control-center.neon.Data,information
+en-us,device-control-center.neon.Exit,exit
+en-us,device-control-center.neon.Ignored,dislikes
+en-us,device-control-center.neon.Ignored,ignored
+en-us,device-control-center.neon.Ignored,ignored brands
+en-us,device-control-center.neon.Language,language
+en-us,device-control-center.neon.Language,languages
+en-us,device-control-center.neon.Likes,like
+en-us,device-control-center.neon.Likes,likes
+en-us,device-control-center.neon.Likes,liked brands
+en-us,device-control-center.neon.Likes,brands i like
+en-us,device-control-center.neon.Likes,what i like
+en-us,device-control-center.neon.Media,pictures
+en-us,device-control-center.neon.Media,picture
+en-us,device-control-center.neon.Media,photos
+en-us,device-control-center.neon.Media,photo
+en-us,device-control-center.neon.Media,media
+en-us,device-control-center.neon.Media,videos
+en-us,device-control-center.neon.Media,video
+en-us,device-control-center.neon.Preferences,preferences
+en-us,device-control-center.neon.Preferences,settings
+en-us,device-control-center.neon.Preferences,options
+en-us,device-control-center.neon.Primary,primary
+en-us,device-control-center.neon.Primary,default
+en-us,device-control-center.neon.Profile,profile
+en-us,device-control-center.neon.Profile,account
+en-us,device-control-center.neon.Random,random
+en-us,device-control-center.neon.RequestKeyword,i want you to
+en-us,device-control-center.neon.Selected,selected
+en-us,device-control-center.neon.Selected,selected transcripts
+en-us,device-control-center.neon.Selected,selected transcriptions
+en-us,device-control-center.neon.Selected,selected transcript
+en-us,device-control-center.neon.Selected,selected transcription
+en-us,device-control-center.neon.Selected,transcribed likes
+en-us,device-control-center.neon.Transcription,transcript
+en-us,device-control-center.neon.Transcription,transcripts
+en-us,device-control-center.neon.Transcription,transcription
+en-us,device-control-center.neon.Transcription,transcriptions
+en-us,device-control-center.neon.neon,neon
+en-us,device-control-center.neon.neon,leon
+en-us,device-control-center.neon.neon,nyan
+en-us,device-control-center.neon.no,no
+en-us,device-control-center.neon.no,nope
+en-us,device-control-center.neon.no,nah
+en-us,device-control-center.neon.no,negative
+en-us,device-control-center.neon.no,nevermind
+en-us,device-control-center.neon.no,never mind
+en-us,device-control-center.neon.shutdown,shutdown
+en-us,device-control-center.neon.shutdown,shut down
+en-us,device-control-center.neon.solo,solo mode
+en-us,device-control-center.neon.start,start
+en-us,device-control-center.neon.start,begin
+en-us,device-control-center.neon.start,allow
+en-us,device-control-center.neon.start,enter
+en-us,device-control-center.neon.start_sww,skip
+en-us,device-control-center.neon.start_sww,begin skipping
+en-us,device-control-center.neon.start_sww,allow skipping
+en-us,device-control-center.neon.start_sww,start skipping
+en-us,device-control-center.neon.stop,stop
+en-us,device-control-center.neon.stop,end
+en-us,device-control-center.neon.stop,quit
+en-us,device-control-center.neon.stop,deny
+en-us,device-control-center.neon.stop_sww,stop skipping
+en-us,device-control-center.neon.stop_sww,quit skipping
+en-us,device-control-center.neon.stop_sww,deny skipping
+en-us,device-control-center.neon.stop_sww,end skipping
+en-us,device-control-center.neon.stop_sww,require
+en-us,device-control-center.neon.stop_sww,use
+en-us,device-control-center.neon.stop_sww,begin requiring
+en-us,device-control-center.neon.update_neon,update my neon device
+en-us,device-control-center.neon.update_neon,update my device software
+en-us,device-control-center.neon.update_neon,check for updates
+en-us,device-control-center.neon.ww,wake words
+en-us,device-control-center.neon.ww,awake words
+en-us,device-control-center.neon.ww,weight words
+en-us,device-control-center.neon.ww,wakewords
+en-us,device-control-center.neon.ww,awakewords
+en-us,device-control-center.neon.ww,weightwords
+en-us,device-control-center.neon.yes,yes
+en-us,device-control-center.neon.yes,yeah
+en-us,device-control-center.neon.yes,yep
+en-us,device-control-center.neon.yes,sure
+en-us,device-control-center.neon.yes,please
+en-us,device-control-center.neon.yes,confirm
+en-us,device-control-center.neon.yes,confirmed
+en-us,device-control-center.neon.yes,affirmative
+en-us,device-control-center.neon.yes,go ahead
 en-us,dismissal-skill.Nevermind,nevermind
 en-us,dismissal-skill.Nevermind,never mind
 en-us,dismissal-skill.Nevermind,forget it
@@ -2133,6 +2392,201 @@ en-us,stop.StopKeyword,stop
 en-us,stop.StopKeyword,silence
 en-us,stop.StopKeyword,shut up
 en-us,stop.StopKeyword,be quiet
+en-us,synonyms.neon.for,to
+en-us,synonyms.neon.for,for
+en-us,synonyms.neon.particles,as
+en-us,synonyms.neon.particles,a
+en-us,synonyms.neon.set,make
+en-us,synonyms.neon.set,set
+en-us,synonyms.neon.set,add
+en-us,synonyms.neon.synonym,synonym
+en-us,synonyms.neon.synonym,alias
+en-us,translation.neon.AgreementKeyword,yes
+en-us,translation.neon.AgreementKeyword,sure
+en-us,translation.neon.AgreementKeyword,proceed
+en-us,translation.neon.AgreementKeyword,continue
+en-us,translation.neon.AgreementKeyword,begin
+en-us,translation.neon.AgreementKeyword,start
+en-us,translation.neon.AgreementKeyword,go ahead
+en-us,translation.neon.AgreementKeyword,lets do it
+en-us,translation.neon.AgreementKeyword,do it
+en-us,translation.neon.AgreementKeyword,of course
+en-us,translation.neon.AgreementKeyword,actually do
+en-us,translation.neon.AgreementKeyword,changed my mind
+en-us,translation.neon.DeclineKeyword,no
+en-us,translation.neon.DeclineKeyword,dont
+en-us,translation.neon.DeclineKeyword,not
+en-us,translation.neon.DeclineKeyword,do not
+en-us,translation.neon.DeclineKeyword,stop
+en-us,translation.neon.DeclineKeyword,break
+en-us,translation.neon.DeclineKeyword,leave
+en-us,translation.neon.DeclineKeyword,quit
+en-us,translation.neon.DeclineKeyword,end
+en-us,translation.neon.DeclineKeyword,not now
+en-us,translation.neon.DeclineKeyword,that's enough
+en-us,translation.neon.DeclineKeyword,enough
+en-us,translation.neon.I_prefer,i prefer
+en-us,translation.neon.I_prefer,i choose
+en-us,translation.neon.Neon,neon
+en-us,translation.neon.Neon,leon
+en-us,translation.neon.Neon,nyan
+en-us,translation.neon.OnlyOne,only speak to me in one language
+en-us,translation.neon.OnlyOne,no secondary language
+en-us,translation.neon.OnlyOne,speak only in my primary language
+en-us,translation.neon.OnlyOne,only use primary for language
+en-us,translation.neon.OnlyOne,use only primary language
+en-us,translation.neon.OnlyOne,only use my primary language
+en-us,translation.neon.PreferredLanguage,my language is
+en-us,translation.neon.PreferredLanguage,my preferred language is
+en-us,translation.neon.PreferredLanguage,i speak
+en-us,translation.neon.PreferredLanguage,my only language is
+en-us,translation.neon.PreferredLanguage,i only speak
+en-us,translation.neon.Settings,tell me my language settings
+en-us,translation.neon.Settings,what is my language
+en-us,translation.neon.Settings,what is my input language
+en-us,translation.neon.Settings,what are my input languages
+en-us,translation.neon.Settings,what are my language settings
+en-us,translation.neon.ShowLanguageMenu,show me language menu
+en-us,translation.neon.ShowLanguageMenu,language menu
+en-us,translation.neon.TalkToMeKeyword,talk to me in
+en-us,translation.neon.TalkToMeKeyword,talk to me only in
+en-us,translation.neon.TalkToMeKeyword,speak to me in
+en-us,translation.neon.TalkToMeKeyword,speak to me only in
+en-us,translation.neon.TalkToMeKeyword,speak in
+en-us,translation.neon.TalkToMeKeyword,speak only in
+en-us,translation.neon.TalkToMeKeyword,tts in
+en-us,translation.neon.TalkToMeKeyword,my output language is
+en-us,translation.neon.TalkToMeKeyword,my output languages are
+en-us,translation.neon.TalkToYouKeyword,i will speak to you
+en-us,translation.neon.TalkToYouKeyword,i will talk to you
+en-us,translation.neon.TalkToYouKeyword,i want to speak in
+en-us,translation.neon.TalkToYouKeyword,i want to talk in
+en-us,translation.neon.TalkToYouKeyword,i am speaking in
+en-us,translation.neon.TalkToYouKeyword,start listening for
+en-us,translation.neon.TalkToYouKeyword,starts listening for
+en-us,translation.neon.TalkToYouKeyword,stt in
+en-us,translation.neon.TalkToYouKeyword,my input language is
+en-us,translation.neon.Translate,translate
+en-us,translation.neon.Two,two
+en-us,translation.neon.Two,both
+en-us,translation.neon.Two,and
+en-us,translation.neon.gender,male
+en-us,translation.neon.gender,female
+en-us,translation.neon.language,arabic
+en-us,translation.neon.language,chinese mandarin
+en-us,translation.neon.language,mandarin chinese
+en-us,translation.neon.language,danish
+en-us,translation.neon.language,dutch
+en-us,translation.neon.language,english australian
+en-us,translation.neon.language,english british
+en-us,translation.neon.language,english indian
+en-us,translation.neon.language,english us
+en-us,translation.neon.language,english welsh
+en-us,translation.neon.language,australian english
+en-us,translation.neon.language,british english
+en-us,translation.neon.language,indian english
+en-us,translation.neon.language,us english
+en-us,translation.neon.language,welsh english
+en-us,translation.neon.language,canadian french
+en-us,translation.neon.language,french canadian
+en-us,translation.neon.language,hindi
+en-us,translation.neon.language,german
+en-us,translation.neon.language,icelandic
+en-us,translation.neon.language,italian
+en-us,translation.neon.language,japanese
+en-us,translation.neon.language,korean
+en-us,translation.neon.language,norwegian
+en-us,translation.neon.language,polish
+en-us,translation.neon.language,portuguese brazilian
+en-us,translation.neon.language,portuguese european
+en-us,translation.neon.language,brazilian portuguese
+en-us,translation.neon.language,european portuguese
+en-us,translation.neon.language,romanian
+en-us,translation.neon.language,russian
+en-us,translation.neon.language,spanish european
+en-us,translation.neon.language,spanish mexican
+en-us,translation.neon.language,spanish us
+en-us,translation.neon.language,european spanish
+en-us,translation.neon.language,mexican spanish
+en-us,translation.neon.language,us spanish
+en-us,translation.neon.language,swedish
+en-us,translation.neon.language,turkish
+en-us,translation.neon.language,welsh
+en-us,translation.neon.language,english
+en-us,translation.neon.language,portuguese
+en-us,translation.neon.language,spanish
+en-us,translation.neon.language,chinese
+en-us,translation.neon.language,french
+en-us,translation.neon.stt_language,afrikaans
+en-us,translation.neon.stt_language,amharic
+en-us,translation.neon.stt_language,armenian
+en-us,translation.neon.stt_language,azerbaijani
+en-us,translation.neon.stt_language,indonesian
+en-us,translation.neon.stt_language,malay
+en-us,translation.neon.stt_language,bengali
+en-us,translation.neon.stt_language,catalan
+en-us,translation.neon.stt_language,czech
+en-us,translation.neon.stt_language,danish
+en-us,translation.neon.stt_language,german
+en-us,translation.neon.stt_language,english
+en-us,translation.neon.stt_language,english
+en-us,translation.neon.stt_language,spanish
+en-us,translation.neon.stt_language,spanish
+en-us,translation.neon.stt_language,spanish
+en-us,translation.neon.stt_language,basque
+en-us,translation.neon.stt_language,filipino
+en-us,translation.neon.stt_language,french
+en-us,translation.neon.stt_language,french
+en-us,translation.neon.stt_language,galician
+en-us,translation.neon.stt_language,georgian
+en-us,translation.neon.stt_language,gujarati
+en-us,translation.neon.stt_language,croatian
+en-us,translation.neon.stt_language,zulu
+en-us,translation.neon.stt_language,icelandic
+en-us,translation.neon.stt_language,italian
+en-us,translation.neon.stt_language,javanese
+en-us,translation.neon.stt_language,kannada
+en-us,translation.neon.stt_language,khmer
+en-us,translation.neon.stt_language,lao
+en-us,translation.neon.stt_language,latvian
+en-us,translation.neon.stt_language,lithuanian
+en-us,translation.neon.stt_language,hungarian
+en-us,translation.neon.stt_language,malayalam
+en-us,translation.neon.stt_language,marathi
+en-us,translation.neon.stt_language,dutch
+en-us,translation.neon.stt_language,nepali
+en-us,translation.neon.stt_language,norwegian
+en-us,translation.neon.stt_language,polish
+en-us,translation.neon.stt_language,portuguese
+en-us,translation.neon.stt_language,portuguese
+en-us,translation.neon.stt_language,romanian
+en-us,translation.neon.stt_language,sinhala
+en-us,translation.neon.stt_language,slovak
+en-us,translation.neon.stt_language,slovenian
+en-us,translation.neon.stt_language,sundanese
+en-us,translation.neon.stt_language,swahili
+en-us,translation.neon.stt_language,finnish
+en-us,translation.neon.stt_language,swedish
+en-us,translation.neon.stt_language,tamil
+en-us,translation.neon.stt_language,telugu
+en-us,translation.neon.stt_language,vietnamese
+en-us,translation.neon.stt_language,turkish
+en-us,translation.neon.stt_language,urdu
+en-us,translation.neon.stt_language,greek
+en-us,translation.neon.stt_language,bulgarian
+en-us,translation.neon.stt_language,russian
+en-us,translation.neon.stt_language,serbian
+en-us,translation.neon.stt_language,ukrainian
+en-us,translation.neon.stt_language,hebrew
+en-us,translation.neon.stt_language,arabic
+en-us,translation.neon.stt_language,persian
+en-us,translation.neon.stt_language,hindi
+en-us,translation.neon.stt_language,thai
+en-us,translation.neon.stt_language,korean
+en-us,translation.neon.stt_language,taiwanese
+en-us,translation.neon.stt_language,chinese
+en-us,translation.neon.stt_language,japanese
+en-us,translation.neon.stt_language,chinese
 en-us,trve-kvlt.black-metal,black metal
 en-us,trve-kvlt.music,music
 en-us,trve-kvlt.music,song

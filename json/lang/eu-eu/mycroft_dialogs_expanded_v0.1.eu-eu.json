@@ -1,0 +1,161 @@
+{
+  "eu-eu": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "Bai",
+      "Ez",
+      "Saiatu geroago galdetzen",
+      "Bai, noski!",
+      "Jakina, ez",
+      "Jakina",
+      "Ez",
+      "Zergatik ez?",
+      "Ez dut uste",
+      "Seguru!",
+      "Pazientzia pixka bat"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "Ederki!",
+      "Ongi egina!",
+      "Zuzen!",
+      "Asmatu duzu!",
+      "Lan ona!",
+      "Irabazi duzu!",
+      "Oso ondo!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "Zein da beheko muga?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "Zein da goiko muga?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "Asmatu zenbakia",
+      "Zer zenbaki dela uste duzu?",
+      "Asmatu"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "Ezin izan dut ulertu esan duzuna",
+      "Ez dut ondo ulertu.",
+      "Erroreren bat gertatu da eta ez dizut ondo ulertu.",
+      "Berriz esan dezakezu hori?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "Erantzun hori ez da baliozkoa. Zenbaki bat behar dut",
+      "Mesedez, erantzun zenbaki batekin",
+      "Zenbaki batekin erantzun behar duzu",
+      "Hori ez da zenbaki bat"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "Ados, jolas dezagun",
+      "Has dadila jolasa",
+      "Jolasa hastera doa",
+      "Has gaitezen",
+      "Ados. Jolas dezagun 'Asmatu zenbakia'."
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "Altuegia"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "Baxuegia"
+    ],
+    "auto-volume-skill.activate": [
+      "Bolumen automatikoa aktibatua",
+      "Bolumen automatikoa aktibatu dut"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Bolumen automatikoa desaktibatua",
+      "Bolumen automatikoa desaktibatu dut"
+    ],
+    "auto-volume-skill.reset": [
+      "Bolumen automatikoa berrezarri dut"
+    ],
+    "count-skill.count_error": [
+      "Ez dut ulertzen.",
+      "Zerbait galdu dut.",
+      "Errepikatu dezakezu hori?",
+      "Barkatu, ez dut ondo entzun."
+    ],
+    "count-skill.count_start": [
+      "{number} arte kontatzen, hasiko gara!"
+    ],
+    "count-skill.count_stop": [
+      "Egina!",
+      "Kitto!"
+    ],
+    "count-skill.countdown_start": [
+      "{number} zenbakitik atzera kontatzen, hasiko gara!"
+    ],
+    "count-skill.countdown_stop": [
+      "Egina!",
+      "Kitto!"
+    ],
+    "dismissal-skill.dismissed": [
+      "Ados.",
+      "Bale.",
+      "Oso ondo.",
+      "Zuk esaten baduzu...",
+      "Zuk esaten duzuna."
+    ],
+    "iss-tracker-skill.location.current": [
+      "ISSa {{latitude}} latitudean eta {{longitude}} longitudean, {{toponym}} gainean dago.",
+      "Nazioarteko Espazio Estazioa {{latitude}} latitudean eta {{longitude}} longitudean, {{toponym}} gainean",
+      "Espazio-estazioa {{toponym}} gainean dago, {{latitude}} latitudean eta {{longitude}} longitudean."
+    ],
+    "iss-tracker-skill.location.unknown": [
+      "Sentitzen dut, {{latitude}} latitudea {{longitude}} longitudea ezezaguna da.",
+      "Barkatu, baina espazio-estazioa {{latitude}} latitudean {{longitude}} longitudean dago, baina ez dakit non dagoen hori.",
+      "{{latitude}} latitudean {{longitude}} longitudean dago, baina datu-base honetan ez dago kodetuta.",
+      "ISSa orain {{latitude}} latitudean {{longitude}} longitudean dago, baina ez du ezaugarri geografikorik esleitua."
+    ],
+    "list-manager-skill.add.item": [
+      "{{item_name}} {{list_name}} zerrendara gehituta."
+    ],
+    "list-manager-skill.add.list": [
+      "Zerrenda berria, \"{{list_name}}\" izenekoa, gehitu da."
+    ],
+    "list-manager-skill.cancelled": [
+      "Bertan behera utzi da.",
+      "Ezeztatu egin da."
+    ],
+    "list-manager-skill.confirm.deletion": [
+      "Ziur zaude {{element}} ezabatu nahi duzula?"
+    ],
+    "list-manager-skill.del.item": [
+      "{{item_name}} ezabatua {{list_name}} zerrendatik."
+    ],
+    "list-manager-skill.del.list": [
+      "{{list_name}} zerrenda ezabatu da."
+    ],
+    "list-manager-skill.item.already_exists": [
+      "{{item_name}} jada badago {{list_name}} zerrendan."
+    ],
+    "list-manager-skill.item.not.found": [
+      "{{item_name}} ez dago {{list_name}} zerrendan."
+    ],
+    "list-manager-skill.list.found": [
+      "{{list_name}} izeneko zerrenda badago dagoeneko."
+    ],
+    "list-manager-skill.list.not.found": [
+      "Ez dirudi {{list_name}} izeneko zerrenda duzunik.",
+      "Ezin izan dut zure zerrenden artean {{list_name}} aurkitu."
+    ],
+    "list-manager-skill.no.items": [
+      "Ez duzu artikulurik {{list_name}} zerrendan."
+    ],
+    "list-manager-skill.no.lists": [
+      "Oraindik ez duzu zerrendarik."
+    ],
+    "list-manager-skill.read.items": [
+      "{{list_name}} zerrendan {{items}} elementuak dauzkazu."
+    ],
+    "list-manager-skill.read.lists": [
+      "Une honetan dituzunak: {{lists_names}} {{list}}."
+    ],
+    "picroft-google-aiy-voicekit-skill.error.initialize": [
+      "Botoia eta argiaren trebetasuna abiarazteko arazoak ditut, ez da kargatuko."
+    ],
+    "wikiquote-skill.notfound": [
+      "Ez dut aurkitu {{subject}}-ren esaldirik"
+    ]
+  }
+}

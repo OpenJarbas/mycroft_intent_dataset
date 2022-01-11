@@ -562,6 +562,13 @@ de-de,spotify-skill.PlaySong,//play the song holy mountain by the musicians slee
 de-de,spotify-skill.PlaySong,//play the song holy mountain by the musicians named sleep
 de-de,spotify-skill.PlaySong,//play the song called holy mountain by the musicians sleep
 de-de,spotify-skill.PlaySong,//play the song called holy mountain by the musicians called sleep
+de-de,support-helper.neon.contact.support,Ich habe ein Problem
+de-de,support-helper.neon.contact.support,etwas funktioniert nicht
+de-de,support-helper.neon.contact.support,Was ist los mit dir?
+de-de,support-helper.neon.contact.support,Erstelle mir eine Problembehandlungsanforderung
+de-de,support-helper.neon.contact.support,Fehlerbehebung für mein Gerät
+de-de,support-helper.neon.contact.support,Kontaktiere den Support
+de-de,support-helper.neon.contact.support,Erstelle ein Support-Ticket
 de-de,support.contact.support,Ich habe ein Problem
 de-de,support.contact.support,etwas funktioniert nicht
 de-de,support.contact.support,Was ist los mit dir?
@@ -1201,6 +1208,14 @@ en-us,ddg.search_duck,what does duck duck say about {query}
 en-us,ddg.search_duck,search the duck for {query}
 en-us,ddg.search_duck,what does the duck say about {query}
 en-us,ddg.who,who is {person}
+en-us,device-control-center.neon.change_dialog,switch to (the|) {dialogmode} (dialog|dialogue) mode
+en-us,device-control-center.neon.change_dialog,i want you to begin {dialogmode} (dialog|dialogue) mode
+en-us,device-control-center.neon.change_dialog,change your (dialog|dialogue) mode to {dialogmode}
+en-us,device-control-center.neon.exit_shutdown,i want you to exit
+en-us,device-control-center.neon.exit_shutdown,i want you to shutdown
+en-us,device-control-center.neon.exit_shutdown,i want you to shut down
+en-us,device-control-center.neon.show_demo,neon i want to see demo
+en-us,device-control-center.neon.show_demo,neon show me the demo
 en-us,dice-skill.Dice,roll ({count}|) d {type} (+|plus|) ({modifier}|)
 en-us,dice-skill.NormalDice,roll ({count}|) (dice|die)
 en-us,dice-skill.Range,Generate a random number from {low} to {high}
@@ -1782,6 +1797,11 @@ en-us,spotify-skill.PlaySong,//play the song called holy mountain by the musicia
 en-us,spotify-skill.ShuffleOff,(turn(| off)|switch(| off)|disable|unset) spotify (shuffle|shuffling)
 en-us,spotify-skill.ShuffleOff,set spotify (shuffle|shuffling) off
 en-us,spotify-skill.ShuffleOn,(turn on|enable|set) spotify (shuffle|shuffling)(| on)
+en-us,support-helper.neon.contact.support,create a troubleshoot request
+en-us,support-helper.neon.contact.support,create a troubleshooting ticket
+en-us,support-helper.neon.contact.support,troubleshoot my device
+en-us,support-helper.neon.contact.support,contact support
+en-us,support-helper.neon.contact.support,create a support ticket
 en-us,support.contact.support,create a troubleshoot request
 en-us,support.contact.support,troubleshoot my device
 en-us,support.contact.support,contact support
@@ -1803,6 +1823,52 @@ en-us,twitch-streams.show_home_twitch,show twitch app
 en-us,twitch-streams.show_home_twitch,launch twitch app
 en-us,twitch-streams.show_home_twitch,open twitch tv
 en-us,twitch-streams.show_home_twitch,show twitch tv 
+en-us,usb-cam.neon.ShowLastIntent,display last picture
+en-us,usb-cam.neon.ShowLastIntent,display last photo
+en-us,usb-cam.neon.ShowLastIntent,display latest picture
+en-us,usb-cam.neon.ShowLastIntent,display latest photo
+en-us,usb-cam.neon.ShowLastIntent,display (my user |) last picture
+en-us,usb-cam.neon.ShowLastIntent,display my last photo
+en-us,usb-cam.neon.ShowLastIntent,display my latest picture
+en-us,usb-cam.neon.ShowLastIntent,display my latest photo
+en-us,usb-cam.neon.ShowLastIntent,show the last picture
+en-us,usb-cam.neon.ShowLastIntent,show the last photo
+en-us,usb-cam.neon.ShowLastIntent,show the last pic
+en-us,usb-cam.neon.ShowLastIntent,show the last pick
+en-us,usb-cam.neon.ShowLastIntent,show latest picture
+en-us,usb-cam.neon.ShowLastIntent,show latest photo
+en-us,usb-cam.neon.ShowLastIntent,show latest pic
+en-us,usb-cam.neon.ShowLastIntent,show latest pick
+en-us,usb-cam.neon.ShowLastIntent,show me my last picture
+en-us,usb-cam.neon.ShowLastIntent,show me my latest picture
+en-us,usb-cam.neon.ShowLastIntent,show me my latest photo
+en-us,usb-cam.neon.ShowLastIntent,show me my latest pic
+en-us,usb-cam.neon.ShowLastIntent,show me my latest pick
+en-us,usb-cam.neon.ShowLastIntent,display last video
+en-us,usb-cam.neon.ShowLastIntent,display latest video
+en-us,usb-cam.neon.ShowLastIntent,display my last video
+en-us,usb-cam.neon.ShowLastIntent,display my latest video
+en-us,usb-cam.neon.ShowLastIntent,show the last video
+en-us,usb-cam.neon.ShowLastIntent,show latest video
+en-us,usb-cam.neon.ShowLastIntent,show me my the last video
+en-us,usb-cam.neon.ShowLastIntent,show me my latest video
+en-us,usb-cam.neon.ShowLastIntent,playback my last video
+en-us,usb-cam.neon.ShowLastIntent,play back (my user |) last video
+en-us,usb-cam.neon.ShowLastIntent,show my user photo
+en-us,usb-cam.neon.ShowLastIntent,show my user picture
+en-us,usb-cam.neon.ShowLastIntent,show my user video
+en-us,usb-cam.neon.TakePicIntent,take (my user |)picture
+en-us,usb-cam.neon.TakePicIntent,take (my user |)photo
+en-us,usb-cam.neon.TakePicIntent,take a picture
+en-us,usb-cam.neon.TakePicIntent,camera capture
+en-us,usb-cam.neon.TakePicIntent,webcam capture
+en-us,usb-cam.neon.TakeVidIntent,(neon |)record (my user |){duration} video
+en-us,usb-cam.neon.TakeVidIntent,(neon |)video (my user |){duration}
+en-us,usb-cam.neon.TakeVidIntent,(neon |)take (my user |){duration} recording
+en-us,usb-cam.neon.TakeVidIntent,(neon |)take (my user |){duration} video
+en-us,usb-cam.neon.TakeVidIntent,(neon |)record for {duration}
+en-us,usb-cam.neon.TakeVidIntent,(neon |)video record for {duration}
+en-us,usb-cam.neon.TakeVidIntent,(neon |)take a video
 en-us,viirs.about,about viirs
 en-us,viirs.about,about Visible Infrared Imaging Radiometer Suite
 en-us,viirs.about,talk about Visible Infrared Imaging Radiometer Suite

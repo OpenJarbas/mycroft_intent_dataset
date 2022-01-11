@@ -1,0 +1,866 @@
+{
+  "fr-fr": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "Oui",
+      "Non",
+      "Essayez de redemander plus tard",
+      "Sans aucun doute",
+      "Bien sur que non",
+      "Bien s\u00fbr",
+      "Aucun",
+      "Pourquoi pas?",
+      "Je ne parierais pas l\u00e0-dessus",
+      "Tu parles|paries!",
+      "Ne retenez pas votre souffle"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "C'est correct!",
+      "Tu as trouv\u00e9!",
+      "Correct!",
+      "C'est le bon num\u00e9ro!",
+      "Beau travail!",
+      "Tu as gagn\u00e9!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "Quelle limite inf\u00e9rieur veux-tu?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "Quelle limite sup\u00e9rieur veux-tu?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "Devine le num\u00e9ro",
+      "Quel est le num\u00e9ro selon toi?",
+      "Devine"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "Je n'ai pas compris ce que tu as dit",
+      "Quelque chose a mal tourn\u00e9 pendant que j'essayais de comprendre (cela|cette situation)",
+      "Une erreur de saisie s'est produite",
+      "Pourriez-vous r\u00e9p\u00e9ter cela?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "Cette r\u00e9ponse n'\u00e9tait pas valable. J'ai besoin d'un (num\u00e9ro|chiffre)",
+      "Veuillez r\u00e9pondre avec un (num\u00e9ro|chiffre)",
+      "Vous devez r\u00e9pondre avec un (num\u00e9ro|chiffre)",
+      "Ce n'est pas un num\u00e9ro"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "OK jouons",
+      "Que le jeu commence",
+      "D\u00e9marrer le jeu",
+      "Commen\u00e7ons",
+      "Voyons ce que tu as",
+      "Tr\u00e8s bien. Jouons \u00e0 deviner un (num\u00e9ro|nombre)"
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "Trop grand"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "trop bas"
+    ],
+    "aircrack.cannot.sudo": [
+      "Erreur, il semble que je ne puisse pas lancer des commandes aircrack avec sudo sans mot de passe. Lisez les notes sur l'acc\u00e8s sudo \u00e0 : github.com/JonStratton/skill-aircrack."
+    ],
+    "aircrack.captured.handshake": [
+      "Handshake captur\u00e9"
+    ],
+    "aircrack.confirm.permission": [
+      "Acc\u00e9der \u00e0 un r\u00e9seau wifi sans autorisation est ill\u00e9gal. Confirmez que vous \u00eates autoris\u00e9 \u00e0 vous connecter \u00e0 ce r\u00e9seau en disant OUI, \u00e0 d\u00e9faut dites NON pour annuler."
+    ],
+    "aircrack.deauthing.clients": [
+      "D\u00e9s-authentification des clients connect\u00e9s au r\u00e9seau {{selected_network}}."
+    ],
+    "aircrack.interfaces.are": [
+      "Les interfaces suivantes sont disponibles : {{available_interfaces}}",
+      "Voici les interfaces disponibles : {{available_interfaces}}",
+      "{{available_interfaces}} sont disponibles."
+    ],
+    "aircrack.monitor.stopped.early": [
+      "La surveillance s'est arr\u00eat\u00e9e avant que le handshake soit captur\u00e9."
+    ],
+    "aircrack.networks.are": [
+      "Les r\u00e9seaux suivants sont disponibles : {{available_networks}}"
+    ],
+    "aircrack.no.interfaces": [
+      "Il n'y a aucune interface disponible."
+    ],
+    "aircrack.no.networks": [
+      "Il n'y a aucun r\u00e9seau disponible."
+    ],
+    "aircrack.no.password": [
+      "Aucun mot de passe trouv\u00e9."
+    ],
+    "aircrack.no.such.interface": [
+      "Cette interface n'a pas \u00e9t\u00e9 trouv\u00e9e."
+    ],
+    "aircrack.no.such.network": [
+      "Ce r\u00e9seau n'a pas \u00e9t\u00e9 trouv\u00e9."
+    ],
+    "aircrack.recovered.password": [
+      "Le mot de passe suivant a \u00e9t\u00e9 retrouv\u00e9 : {{password}}"
+    ],
+    "aircrack.select.interface.first": [
+      "D'abord choisissez l'interface."
+    ],
+    "aircrack.selected.interface": [
+      "L'interface {{selected_interface}} a \u00e9t\u00e9 choisie."
+    ],
+    "aircrack.selected.network": [
+      "Le r\u00e9seau {{selected_network}} a \u00e9t\u00e9 choisi."
+    ],
+    "aircrack.start.monitor": [
+      "D\u00e9marrer la surveillance"
+    ],
+    "aircrack.stop.monitor": [
+      "Arr\u00eater la surveillance"
+    ],
+    "auto-volume-skill.activate": [
+      "OK",
+      "Volume automatique activ\u00e9",
+      "j'ai activ\u00e9 le mode volume automatique"
+    ],
+    "auto-volume-skill.deactivate": [
+      "OK",
+      "Le volume automatique est d\u00e9sactiv\u00e9",
+      "J'ai d\u00e9sactiv\u00e9 le volume automatique"
+    ],
+    "auto-volume-skill.reset": [
+      "Je viens de r\u00e9initialiser le volume automatique"
+    ],
+    "cocktail.NotFound": [
+      "D\u00e9sol\u00e9, je n'ai pas trouv\u00e9 la boisson demand\u00e9e",
+      "J'ai bien peur que je ne puisse pas trouver cela"
+    ],
+    "cocktail.YouWillNeed": [
+      "Vous aurez besoin de {ingredients} et de {final_ingredient}",
+      "Vous aurez besoin de {ingredients} et de {final_ingredient}",
+      "Les ingr\u00e9dients requis sont : {ingredients} et {final_ingredient}"
+    ],
+    "count-skill.count_error": [
+      "je n'ai pas compris",
+      "J'ai loup\u00e9 quelque chose",
+      "Pouvez-vous r\u00e9p\u00e9ter ?",
+      "D\u00e9sol\u00e9. Je n'ai pas entendu."
+    ],
+    "count-skill.count_start": [
+      "Comptage jusqu'\u00e0 {number}. A partir de maintenant"
+    ],
+    "count-skill.count_stop": [
+      "C'est fait!",
+      "C'est termin\u00e9!"
+    ],
+    "count-skill.countdown_start": [
+      "Compte \u00e0 rebours jusqu'\u00e0 {number}. A partir de maintenant"
+    ],
+    "count-skill.countdown_stop": [
+      "C'est fait!",
+      "C'est termin\u00e9!"
+    ],
+    "cut-up-skill.frag_type.set": [
+      "S\u00e9lectionne le type de fragment {{frag_type}}"
+    ],
+    "cut-up-skill.maximum.set": [
+      "La taille maximum des fragments est mise \u00e0 {{min}}."
+    ],
+    "cut-up-skill.minimum.set": [
+      "La taille minimum des fragments est mise \u00e0 {{min}}."
+    ],
+    "cut-up-skill.randomness.set": [
+      "\"Al\u00e9a\" d\u00e9fini \u00e0 {{rand}} pourcent"
+    ],
+    "ddg.no_answer": [
+      "le duck ne connait pas la r\u00e9ponse"
+    ],
+    "ddg.thats all": [
+      "c'est tout ce que je sais",
+      "c'est tout ce que j'ai trouv\u00e9"
+    ],
+    "dice-skill.multiple.modificator.result": [
+      "Vos chiffres sont {result} ajoutant \u00e0 un total de {total}"
+    ],
+    "dice-skill.multiple.result": [
+      "Vos chiffres sont {result}"
+    ],
+    "dice-skill.range.needed": [
+      "Vous devez sp\u00e9cifier une plage",
+      "J'ai besoin d'une plage pour faire \u00e7a",
+      "Dites-moi dans quelle plage vous voulez vos num\u00e9ros"
+    ],
+    "dice-skill.single.modificator.result": [
+      "Le r\u00e9sultat est {total}."
+    ],
+    "dice-skill.single.result": [
+      "Le r\u00e9sultat est {result}.",
+      "Votre num\u00e9ro est {result}"
+    ],
+    "email-skill.already.looking.for.all": [
+      "Je cherche d\u00e9j\u00e0 de nouveaux courriels",
+      "J'\u00e9tais d\u00e9j\u00e0 entrain de trouver de nouveaux courriels",
+      "Je cherche d\u00e9j\u00e0 de nouveaux courriels"
+    ],
+    "email-skill.already.looking.for.specific": [
+      "Je cherche d\u00e9j\u00e0 de nouveaux courriels de {email}",
+      "Je cherchais d\u00e9j\u00e0 de nouveaux courriel de {email}",
+      "Je cherchais d\u00e9j\u00e0 pour des courriels de {email}"
+    ],
+    "email-skill.cancel.looking.for.all.look.specific": [
+      "Je cherche pour toutes de nouveaux courriel, est-ce que vous voulez que je vous envoi un notification seulement que vous avez re\u00e7u de courriels de {email}",
+      "Je cherchais d\u00e9j\u00e0 de nouveaux courriels, est-ce que vous voulez simplement que je vous envoi un notification de nouveaux courriels seulement de {email}"
+    ],
+    "email-skill.cancel.looking.for.specific.look.all": [
+      "Je cherche pr\u00e9sentement pour {email}, est-ce que vous voulez au lieu que je cherche tous nouveaux courriels",
+      "Pr\u00e9sentement, je cherche seulement pour des courriels de {email} Voulez vous au lieu que je cherche dans tous vos courriels",
+      "Voulez vous que je cherche dans tous vos courriels au lieu des courriels de seulement {email}"
+    ],
+    "email-skill.error.getting.mail": [
+      "Une erreur est survenue lors de la r\u00e9ception de votre courriel V\u00e9rifie vos informations d'identification et de serveur",
+      "Veuillez v\u00e9rifiez vos informations d'identification et de serveur, une erreur est survenue lors de la r\u00e9ception de vos courriels",
+      "Je n'arrive pas \u00e0 me connecter \u00e0 votre serveur de messagerie V\u00e9rifiez votre mot de passe et les informations de serveur"
+    ],
+    "email-skill.list.subjects": [
+      "Le num\u00e9ro de courriel {message_num} vient de {sender} Son sujet est {subject}",
+      "Le courriel du num\u00e9ro {message_num} est de sujet {subject} Il vient de {sender}"
+    ],
+    "email-skill.more.emails": [
+      "est-ce que vous voulez en savoir plus",
+      "voulez-vous en savoir plus sur vos courriels",
+      "voulez-vous en savoir plus"
+    ],
+    "email-skill.no.emails.from": [
+      "Il n'y as pas de mail dans {sender}",
+      "Il n'y a pas de (mail|email|courriel) de {sender}",
+      "Vous n'avez re\u00e7u aucun (mail|email|courriel) de {sender}"
+    ],
+    "email-skill.no.more.emails": [
+      "d'accord"
+    ],
+    "email-skill.no.new.email": [
+      "Il n'y a pas de nouveau courriel",
+      "Il n'y a pas de nouveau courriel",
+      "Il n'y a pas de nouveau courriels",
+      "Il n'y a pas de nouveaux courriels",
+      "Il n'y a pas de nouveau courriel pour vous",
+      "Il n'y a pas de nouveau courriel pour vous",
+      "Vous n'avez pas de nouveaux courriels",
+      "Vous n'avez pas de nouveau courriel"
+    ],
+    "email-skill.not.looking.for": [
+      "Je ne suis pas actuellement \u00e0 la recherche (d'e-mails|de courriels|de mails) de {email}",
+      "Je ne cherche pas (d'emails|de courriels|de mails) de {email}",
+      "Maintenant, je ne cherche pas (d'email|de courriel|de mail) de {email}"
+    ],
+    "email-skill.notify.read.email": [
+      "vous avez {size} nouveau mail, voulez-vous que je vous les lise",
+      "Vous avez {size} nouveau mail, voulez-vous que je vous les lise",
+      "Souhaitez-vous \u00e9couter vos {size} mails"
+    ],
+    "email-skill.poll.emails.not.started": [
+      "Je ne cherche pas de nouveaux courriels",
+      "Actuellement, je ne suis pas \u00e0 la recherche de nouveau mail"
+    ],
+    "email-skill.setup": [
+      "Pour configurer la fonction courriel, allez \u00e0 home point mycroft point a i pour entrer vos informations de courriel",
+      "Vous devez configurer la fonction courriel Pour ce faire, veuillez vous rendre \u00e0 home point mycroft point a i pour entrer vos informations de courriel"
+    ],
+    "email-skill.start.poll.email": [
+      "Je vous informerai de nouveaux mails",
+      "D'accord, je vais t'informer lors de la r\u00e9ception de nouveaux courriels",
+      "Je commence a chercher de nouveaux mails"
+    ],
+    "email-skill.stop.looking.for": [
+      "Je vais arr\u00eater de chercher de nouveau courriel dans la boite {email}",
+      "Okay, je vais arr\u00eater de chercher de nouveau mail dans la bo\u00eete {email}"
+    ],
+    "email-skill.stop.poll.emails": [
+      "Okay, je vais arr\u00eater de cherche de nouveau courriel",
+      "D'accord, je ne vais pas continuer de chercher de nouveau courriel"
+    ],
+    "email-skill.stop.poll.emails.last.email.removed": [
+      "J'arr\u00eate de chercher de nouveau courriel, car il n'y a pas d'adresse dont vous voulez \u00eatre inform\u00e9 "
+    ],
+    "email-skill.update.notify.data": [
+      "J'ai mis \u00e0 jour les pr\u00e9f\u00e9rences de vos courriels",
+      "tr\u00e9s bien, J'ai mis \u00e0 jour vos pr\u00e9f\u00e9rences d'emails"
+    ],
+    "emby-skill.configuration_fail": [
+      "Impossible de se connecter au serveur Emby. Veuillez v\u00e9rifier ou configurer votre configuration \u00e0 l'adresse home point Mycroft point ai"
+    ],
+    "emby-skill.configuration_success": [
+      "Connexion r\u00e9ussie au serveur Emby de {hostname}"
+    ],
+    "emby-skill.diag_auth_fail": [
+      "Je n'arrive pas \u00e0 m'authentifier aupr\u00e8s du serveur Emby. Veuillez v\u00e9rifier ou configurer votre configuration \u00e0 l'adresse home point Mycroft point ai"
+    ],
+    "emby-skill.diag_auth_success": [
+      "J'ai r\u00e9ussi \u00e0 m'authentifier sur le serveur Emby!"
+    ],
+    "emby-skill.diag_public_info_fail": [
+      "Le serveur Emby de {host} ne semble pas \u00eatre joignable ou ne r\u00e9pond pas."
+    ],
+    "emby-skill.diag_public_info_success": [
+      "Super ! Je peux acc\u00e9der \u00e0 {ServerName} situ\u00e9 en {LocalAddress} et ex\u00e9cutant la version {Version}. Tentative d'authentification en cours."
+    ],
+    "emby-skill.diag_start": [
+      "Je vais faire un diagnostic sur la connexion des comp\u00e9tences d'Emby. Cela permettra de v\u00e9rifier si le serveur est accessible et si je suis en mesure de m'authentifier."
+    ],
+    "emby-skill.diag_stop": [
+      "Le diagnostic ne sera pas effectu\u00e9."
+    ],
+    "emby-skill.diagnostic": [
+      "Le diagnostic est termin\u00e9, je peux dor\u00e9navant me connecter et m'authentifier sur le serveur Emby. Il est maintenant temps de jouer de la musique !"
+    ],
+    "emby-skill.emby": [
+      "(Lecture de|Joue|Jouer) {media} "
+    ],
+    "emby-skill.general_check_settings_logs": [
+      "Veuillez v\u00e9rifier vos param\u00e8tres sur Mycroft point ai. Si ce probl\u00e8me persiste, consultez les journaux de Mycroft pour plus d'informations."
+    ],
+    "emby-skill.play_fail": [
+      "Impossible de trouver ou de jouer {media}. Veuillez r\u00e9essayer.",
+      "Impossible de trouver ou de jouer {media}. Veuillez r\u00e9essayer. Si cela continue \u00e0 se produire, v\u00e9rifiez votre configuration sur home point Mycroft point ai"
+    ],
+    "fairytalez-skill.continue": [
+      "Continues de raconter {story}",
+      "O\u00f9 en \u00e9tions nous? Ah voil\u00e0. {story}"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "Je connais plus de 2000 contes de f\u00e9es, contes folkloriques et fables du monde entier. Lequel voudriez-vous entendre ?"
+    ],
+    "fairytalez-skill.from_fairytalez": [
+      "Ces contes de f\u00e9es proviennent de www.fairytalez.com, ils adorent les contes de f\u00e9es! Pensez \u00e0 visiter le site o\u00f9 vous trouverez la plus grande collection de contes de f\u00e9es, de contes folkloriques et de fables en ligne."
+    ],
+    "fairytalez-skill.i_know_that": [
+      "{story} est un bon choix. Commen\u00e7ons...",
+      "Oui, {story} est un bon choix. \u00c7a commence comme \u00e7a..."
+    ],
+    "fairytalez-skill.is_it_that": [
+      "Est-ce celui-l\u00e0 ?",
+      "Est-ce que \u00e7a pourrait \u00eatre celui-l\u00e0 ?",
+      "Dois-je raconter celui-l\u00e0 ?",
+      "Veux-tu entendre ceci ?"
+    ],
+    "fairytalez-skill.let_me_think": [
+      "Laisses moi r\u00e9fl\u00e9chir. Est-ce que je connais {story}",
+      "bien, je dois chercher si je me rappelle de {story}"
+    ],
+    "fairytalez-skill.no_story": [
+      "Dans ce cas, je ne sais pas quelle histoire vous voulez entendre."
+    ],
+    "fairytalez-skill.no_story_to_continue": [
+      "Il n'y a pas d'histoire \u00e0 continuer.",
+      "Je suis d\u00e9sol\u00e9 - pas d'histoire \u00e0 continuer."
+    ],
+    "fairytalez-skill.that_would_be": [
+      "Je peux raconter l'histoire {story}.",
+      "Je me rappelle de {story}."
+    ],
+    "fairytalez-skill.title_by_author": [
+      "{title} par {author}"
+    ],
+    "fallback-aiml.reset.memory": [
+      "R\u00e9initialisation de la base de connaissances",
+      "Tout oublier",
+      "Tr\u00e8s bien, je vais maintenant r\u00e9initialiser ma m\u00e9moire",
+      "Effacement du cerveau initi\u00e9"
+    ],
+    "fallback-recommendations-skill.skill.download.confirmation": [
+      "La comp\u00e9tence {{skill_name}} peut le faire pour vous. Voulez-vous que je le t\u00e9l\u00e9charge?",
+      "J'ai trouv\u00e9 une comp\u00e9tence appel\u00e9e {{skill_name}, qui pourrait vous aider \u00e0 le faire. Voulez-vous que je le t\u00e9l\u00e9charge?"
+    ],
+    "fallback-recommendations-skill.skill.download.refused": [
+      "OK.",
+      "Bien."
+    ],
+    "fallback-recommendations-skill.skill.downloading": [
+      "Juste un moment, je t\u00e9l\u00e9charge la comp\u00e9tence {{skill_name}}.",
+      "Juste un moment, je t\u00e9l\u00e9charge la comp\u00e9tence {{skill_name}}.",
+      "Un instant, je t\u00e9l\u00e9charge la comp\u00e9tence {{skill_name}.",
+      "OK, laissez moi t\u00e9l\u00e9charger la comp\u00e9tence {{skill_name}}.",
+      "Patientez un instant pendant que je t\u00e9l\u00e9charge la comp\u00e9tence {{skill_name}}.",
+      "OK, je t\u00e9l\u00e9charge la comp\u00e9tence {{skill_name}}."
+    ],
+    "iss-tracker-skill.location.current": [
+      "L'ISS est sit\u00e9e \u00e0 une latitude de {{latitude}} et une longitude de {{longitude}}, ce qui correspond \u00e0 {{toponym}}",
+      "La station spatiale est \u00e0 une latitude de {{latitude}} et une longitude de {{longitude}}, au dessus de {{toponym}}",
+      "Elle est \u00e0 une latitude de {{latitude}} et une longitude de {{longitude}}, au dessus de {{toponym}}",
+      "La Station spatiale internationale est en ce moment au dessus de {{toponym}} \u00e0 une latitude de {{latitude}} et une longitude de {{longitude}}",
+      "Au dessus de {{toponym} \u00e0 une latitude de {{latitude}} et une longitude de {{longitude}}"
+    ],
+    "iss-tracker-skill.location.unknown": [
+      "D\u00e9sol\u00e9 mais la latitude {{latitude}} et la longitude {{longitude}} n'est pas un point connu",
+      "La Station spatiale est \u00e0 une latitude de {{latitude}} et une longitude de {{longitude}} mais je ne sais pas o\u00f9 cela se situe, d\u00e9sol\u00e9",
+      "Elle est \u00e0 une latitude de {{latitude}} et une longitude de {{longitude}} qui ne sont pas enregistr\u00e9s dans ma base de donn\u00e9es",
+      "L'ISS est \u00e0 une latitude de {{latitude}} et une longitude de {{longitude}} mais il n'y a aucun point g\u00e9ographique associ\u00e9"
+    ],
+    "krunner-search-skill.krunner.recent": [
+      "Affichage de vos fichiers r\u00e9cents"
+    ],
+    "krunner-search-skill.krunner.search": [
+      "Je recherche localement {{ Query }}"
+    ],
+    "laugh.cancel": [
+      "Le rire s'est arr\u00eat\u00e9",
+      "Je ne rirais plus"
+    ],
+    "laugh.cancel_fail": [
+      "Je ne ris pas."
+    ],
+    "lifx-mycroft.Color": [
+      "R\u00e9gler {{name}} en {{color}}."
+    ],
+    "lifx-mycroft.Dim": [
+      "Action : {{change}} {{name}}"
+    ],
+    "lifx-mycroft.GroupError": [
+      "Impossible de {{action}} {{name}} car c'est un Groupe.",
+      "Je ne peux pas {{action}} {{name}}, car c'est un Groupe."
+    ],
+    "lifx-mycroft.SetPercent": [
+      "R\u00e9glage de {{param}} \u00e0 {{value}}",
+      "Modification de {{param}} \u00e0 {{value}}.",
+      "R\u00e9glage du param\u00e8tre {{param}} de {{name}} \u00e0 {{value}}."
+    ],
+    "lifx-mycroft.Switch": [
+      "Changement de {{status}} {{name}}",
+      "Changement de {{status}} {{name}}"
+    ],
+    "lifx-mycroft.Temperature": [
+      "Mise de {{name}} \u00e0 plus {{temperature}}."
+    ],
+    "list-manager-skill.add.item": [
+      "{{item_name}} ajout\u00e9 \u00e0 votre liste {{list_name}}."
+    ],
+    "list-manager-skill.add.list": [
+      "Votre nouvelle liste {{list_name}} a \u00e9t\u00e9 ajout\u00e9e."
+    ],
+    "list-manager-skill.and": [
+      "et"
+    ],
+    "list-manager-skill.cancelled": [
+      "Annul\u00e9."
+    ],
+    "list-manager-skill.confirm.deletion": [
+      "Voulez-vous vraiment supprimer {{element}}?"
+    ],
+    "list-manager-skill.del.item": [
+      "{{item_name}} supprim\u00e9 de votre liste {{list_name}}."
+    ],
+    "list-manager-skill.del.list": [
+      "Votre liste {{list_name}} a \u00e9t\u00e9 supprim\u00e9e."
+    ],
+    "list-manager-skill.item.not.found": [
+      "{{item_name}} n'est pas dans votre liste {{list_name}}."
+    ],
+    "list-manager-skill.list.found": [
+      "Vous avez d\u00e9j\u00e0 une liste appel\u00e9e {{list_name}}."
+    ],
+    "list-manager-skill.list.not.found": [
+      "Vous semblez ne pas avoir une liste appel\u00e9e {{list_name}}.",
+      "Je ne trouve pas {{list_name}} parmi vos listes."
+    ],
+    "list-manager-skill.no.items": [
+      "Vous n'avez pas de contenu dans votre liste {{list_name}}."
+    ],
+    "list-manager-skill.no.lists": [
+      "Vous n'avez pas encore de liste."
+    ],
+    "list-manager-skill.read.items": [
+      "Dans votre liste {{list_name}} vous avez {{items}}"
+    ],
+    "list-manager-skill.read.lists": [
+      "Vous avez actuellement {{list}} {{lists_names}}."
+    ],
+    "mark-2.auto.noon": [
+      "On dirait qu'il fait jour, je vais ajuster la luminosit\u00e9."
+    ],
+    "mark-2.auto.sunrise": [
+      "Ok, le soleil se l\u00e8ve, je vais ajuster la luminosit\u00e9",
+      "Ok, le soleil est sorti, j'ajuste le niveau de luminosit\u00e9"
+    ],
+    "mark-2.auto.sunset": [
+      "Ok, il commence \u00e0 faire sombre, je vais ajust\u00e9 la luminosit\u00e9 en cons\u00e9quence."
+    ],
+    "mark-2.brightness.error": [
+      "Je n'ai pas compris la valeur de la luminosit\u00e9, donnez-moi la valeur de luminosit\u00e9 entre 0 et 100 pour cent."
+    ],
+    "mark-2.brightness.not.found": [
+      "Dites-moi un pourcentage ou un niveau de luminosit\u00e9 pour mon visage",
+      "Quel niveau ou pourcentage de luminosit\u00e9 souhaitez-vous?"
+    ],
+    "mark-2.brightness.not.found.final": [
+      "D\u00e9sol\u00e9, je ne comprends pas cette luminosit\u00e9.",
+      "Je ne comprends que des choses comme, \"pleine\" ou 50%"
+    ],
+    "mark-2.brightness.set": [
+      "Ok, r\u00e9glage de la luminosit\u00e9 sur {val}.",
+      "Cela semble bon, r\u00e9glage de la luminosit\u00e9 sur {val}."
+    ],
+    "mark-2.no.web.setting": [
+      "Aucune couleur pour les yeux n'a \u00e9t\u00e9 d\u00e9finie",
+      "Je n'ai pas trouv\u00e9 de r\u00e9glage web pour la couleur des yeux"
+    ],
+    "mark-2.rebooting": [
+      "Red\u00e9marre maintenant, je reviens tout de suite",
+      "Red\u00e9marrage en cours, de retour dans quelques minutes"
+    ],
+    "moviemaster.bad.movie.genre.catagory": [
+      "Je ne trouve aucune (\u00e9mission) t\u00e9l\u00e9 du genre {genre}"
+    ],
+    "moviemaster.bad.tv.genre.catagory": [
+      "Je ne trouve aucune (\u00e9mission) t\u00e9l\u00e9 du genre {genre}"
+    ],
+    "moviemaster.fallback.api": [
+      "Retour \u00e0 l'A P I par d\u00e9faut"
+    ],
+    "moviemaster.genre.movie.search": [
+      "les films du genre {genre} sont;"
+    ],
+    "moviemaster.genre.tv.search": [
+      "les \u00e9missions (t\u00e9l\u00e9|) du genre {genre} sont;"
+    ],
+    "moviemaster.movie.cast": [
+      "Voici la distribution de {movie} ; {actorlist} et {lastactor}",
+      "Les personnes suivantes (star|play|act) dans le film {movie} ; {actorlist} et {lastactor}"
+    ],
+    "moviemaster.movie.description": [
+      "le (filme) {movie} parle de.",
+      "voici le synopsis du (film) {movie}"
+    ],
+    "moviemaster.movie.genre.multiple": [
+      "Le (movie|film|flick) peut \u00eatre trouv\u00e9 dans l'un des genres; {genrelist} et {genrelistlast}.",
+      "Les gens consid\u00e8rent le (movie|film) comme un {genrelist} ou un {genrelistlast}."
+    ],
+    "moviemaster.movie.genre.single": [
+      "Le (movie|film) {movie} pourrait \u00eatre consid\u00e9r\u00e9 comme un {genre}.",
+      "Vous pouvez trouver le film {movie} dans la section {genre}"
+    ],
+    "moviemaster.movie.info.response": [
+      "{movie} est sorti en {year}, avec un budget de {budget} dollars"
+    ],
+    "moviemaster.movie.popular": [
+      "Le nouveau film populaire du moment est {popularlist}",
+      "{popularlist} est en t\u00eate du classement des films en ce moment."
+    ],
+    "moviemaster.movie.production.multiple": [
+      "Les studio {companies} et {lastcompany} ont produit le film {movie}",
+      "{companies} et {lastcompany} ont produit le film {movie}"
+    ],
+    "moviemaster.movie.production.single": [
+      "Le studio de production {company}, a produit le film {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "Je recommande les films {movielist}, si vous aimez le film {movie}",
+      "Les films {movielist} sont un bon choix si vous aimez le film {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "Le film {movie}, dure {runtime} minutes",
+      "Le film {movie} dure {runtime} minutes",
+      "en regardant le film {movie}; Vous pouvez (pr\u00e9voir|vous attendre \u00e0) environ {runtime} minutes avant de pouvoir faire une pause pipi"
+    ],
+    "moviemaster.movie.top": [
+      "Ce sont les film les (meilleurs|plus populaires) du moment; {toplist}",
+      "{toplist} sont (les meilleurs|les plus populaires) films du moment"
+    ],
+    "moviemaster.movie.year": [
+      "Le film {movie} a \u00e9t\u00e9 (fait|tourn\u00e9|r\u00e9alis\u00e9|diffus\u00e9) en {year} "
+    ],
+    "moviemaster.no.api": [
+      "Vous devez entrer votre cl\u00e9 A P I de T M D B sur home . mycroft . A I pour utiliser la comp\u00e9tence de ma\u00eetre de cin\u00e9ma"
+    ],
+    "moviemaster.no.info": [
+      "Je suis d\u00e9sol\u00e9, je ne trouve aucune information sur le film {movie}"
+    ],
+    "moviemaster.no.info.general": [
+      "Je suis d\u00e9soler, je ne peux pas trouver la liste que vous cherchez pour le moment ; veuillez la redemander plus tard."
+    ],
+    "moviemaster.no.valid.api": [
+      "La cl\u00e9 API que vous avez entr\u00e9 est invalide. Consultez le fichier lisez-moi pour savoir comment en obtenir une."
+    ],
+    "picroft-google-aiy-voicekit-skill.error.initialize": [
+      "J'ai des probl\u00e8mes pour initialiser la comp\u00e9tence du kit vocal Google A I Y. La comp\u00e9tence ne se charge pas. "
+    ],
+    "plasma-activities-skill.activities.create": [
+      "Votre Activit\u00e9 {{ ActivityName }} a \u00e9t\u00e9 cr\u00e9\u00e9e"
+    ],
+    "plasma-activities-skill.activities.remove": [
+      "L'activit\u00e9 a \u00e9t\u00e9 supprim\u00e9e"
+    ],
+    "plasma-activities-skill.activities.show": [
+      "Affichage Activit\u00e9s"
+    ],
+    "plasma-activities-skill.activities.stop": [
+      "{{ StopActivityName }} activit\u00e9 a \u00e9t\u00e9 arr\u00eat\u00e9e"
+    ],
+    "plasma-activities-skill.activities.switch": [
+      "Changement vers l'activit\u00e9 {{ StopActivityName }} "
+    ],
+    "pokemon-skill.ability.effect.entry": [
+      "{ability}: {info}"
+    ],
+    "pokemon-skill.ability.flavor.text": [
+      "{ability}: {info}"
+    ],
+    "pokemon-skill.ability.generation.introduced": [
+      "La comp\u00e9tence {ability} a \u00e9t\u00e9 introduite dans la g\u00e9n\u00e9ration {generation}"
+    ],
+    "pokemon-skill.ability.not.in.version": [
+      "La version {version} n'a pas la comp\u00e9tence {ability}"
+    ],
+    "pokemon-skill.and": [
+      "et"
+    ],
+    "pokemon-skill.base.stat.is": [
+      "La base de {pokemon} en {stat} est de {value}"
+    ],
+    "pokemon-skill.cannot.answer.about.ability": [
+      "Je ne peux pas r\u00e9pondre \u00e0 cette question sur cette capacit\u00e9"
+    ],
+    "pokemon-skill.cannot.answer.about.pokemon": [
+      "Je ne peux pas r\u00e9pondre \u00e0 \u00e7a sur ce Pokemon"
+    ],
+    "pokemon-skill.connection.error": [
+      "Aucune connexion internet",
+      "J'ai une erreur de connexion"
+    ],
+    "pokemon-skill.debug.speech": [
+      "D\u00e9bogage en cours! Atteint!"
+    ],
+    "pokemon-skill.evolve.details.at.level": [
+      "au niveau {level}"
+    ],
+    "pokemon-skill.evolve.details.holding.item": [
+      "tout en tenant l\u2019\u00e9l\u00e9ment {item}"
+    ],
+    "pokemon-skill.evolve.details.if.gender.female": [
+      "si femelle"
+    ],
+    "pokemon-skill.evolve.details.if.gender.male": [
+      "si m\u00e2le"
+    ],
+    "pokemon-skill.evolve.details.knowing.move": [
+      "quand on conna\u00eet {move}"
+    ],
+    "pokemon-skill.evolve.details.knowing.move.type": [
+      "quand on conna\u00eet un coup de type {type}"
+    ],
+    "pokemon-skill.evolve.details.location": [
+      "\u00e0 {location}"
+    ],
+    "pokemon-skill.evolve.details.stats.attack.equals.defense": [
+      "si le statut d'attaque est \u00e9gal au statut de d\u00e9fense"
+    ],
+    "pokemon-skill.evolve.details.stats.attack.greater.than.defense": [
+      "si la stat d'attaque est sup\u00e9rieure \u00e0 la stat de d\u00e9fense"
+    ],
+    "pokemon-skill.evolve.details.stats.attack.less.than.defense": [
+      "si la stat d'attaque est inf\u00e9rieure \u00e0 la stat de d\u00e9fense"
+    ],
+    "pokemon-skill.evolve.details.time.of.day": [
+      "\u00e0 {time}"
+    ],
+    "pokemon-skill.evolve.details.trade.species": [
+      "pour {species}"
+    ],
+    "pokemon-skill.evolve.details.trigger": [
+      "par {name}"
+    ],
+    "pokemon-skill.evolve.details.turn.upside.down": [
+      "avec le syst\u00e8me mis (sens dessus dessous|\u00e0 l'envers)"
+    ],
+    "pokemon-skill.evolve.details.with.affection": [
+      "avec un niveau d'affection de {affection}"
+    ],
+    "pokemon-skill.evolve.details.with.beauty": [
+      "avec le niveau de beaut\u00e9 {beauty}"
+    ],
+    "pokemon-skill.evolve.details.with.happiness": [
+      "avec le bonheur {happiness}"
+    ],
+    "pokemon-skill.evolve.details.with.pokemon.party": [
+      "avec {pokemon} dans le groupe"
+    ],
+    "pokemon-skill.evolve.details.with.pokemon.party.type": [
+      "avec le type {type} dans le groupe"
+    ],
+    "pokemon-skill.evolve.details.with.rain": [
+      "pendant qu\u2019il pleut"
+    ],
+    "pokemon-skill.foot": [
+      "pied"
+    ],
+    "pokemon-skill.inches": [
+      "pouces"
+    ],
+    "pokemon-skill.kilograms": [
+      "kilogrammes"
+    ],
+    "pokemon-skill.meters": [
+      "m\u00e8tres"
+    ],
+    "pokemon-skill.no.type.specified": [
+      "Vous devez sp\u00e9cifier un type",
+      "Quel type?"
+    ],
+    "pokemon-skill.or": [
+      "ou"
+    ],
+    "pokemon-skill.pokemon.abilities.hidden": [
+      "{pokemon} a une capacit\u00e9 cach\u00e9e {hidden_abilities}"
+    ],
+    "pokemon-skill.pokemon.abilities.hidden.non-hidden": [
+      "{pokemon} a la capacit\u00e9 {abilities}. et la capacit\u00e9 cach\u00e9e {hidden_abilities}"
+    ],
+    "pokemon-skill.pokemon.abilities.non-hidden": [
+      "{pokemon} a la capacit\u00e9 {abilities}"
+    ],
+    "pokemon-skill.pokemon.abilities.none": [
+      "{pokemon} n'a pas de capacit\u00e9s"
+    ],
+    "pokemon-skill.pokemon.capture.rate": [
+      "Le taux de capture de {pokemon} est de {rate}"
+    ],
+    "pokemon-skill.pokemon.color.is": [
+      "{pokemon} est {color}"
+    ],
+    "pokemon-skill.pokemon.does.not.evolve": [
+      "{pokemon} ne peut pas \u00e9voluer"
+    ],
+    "pokemon-skill.pokemon.egg.groups.are": [
+      "Le groupe d'oeufs de {pokemon} est {groups}"
+    ],
+    "pokemon-skill.pokemon.evolves.from": [
+      "{pokemon} \u00e9volue de sa forme {from} {how}"
+    ],
+    "pokemon-skill.pokemon.evolves.into": [
+      "{pokemon} \u00e9volue en {evolve}"
+    ],
+    "pokemon-skill.pokemon.final.evolution": [
+      "L'\u00e9volution finale de {pokemon} est {final}"
+    ],
+    "pokemon-skill.pokemon.first.evolution.is": [
+      "la premi\u00e8re \u00e9volution de {pokemon} est {first}"
+    ],
+    "pokemon-skill.pokemon.has.no.evolutions": [
+      "{pokemon} n'a pas d'\u00e9volutions"
+    ],
+    "pokemon-skill.pokemon.has.no.forms": [
+      "{pokemon} n'est pas sous une bonne forme"
+    ],
+    "pokemon-skill.pokemon.has.no.previous.evolution": [
+      "{pokemon} n'a pas de pr\u00e9c\u00e9dente \u00e9volution"
+    ],
+    "pokemon-skill.pokemon.height": [
+      "{pokemon} mesure {height}"
+    ],
+    "pokemon-skill.pokemon.id.is": [
+      "L'id de {pokemon} est {id}",
+      "Le num\u00e9ro de {pokemon} est {id}"
+    ],
+    "pokemon-skill.pokemon.is.in.final.evolution": [
+      "{pokemon} est dans sa derni\u00e8re \u00e9volution",
+      "{pokemon} ne peut plus \u00e9voluer"
+    ],
+    "pokemon-skill.pokemon.is.in.first.evolution": [
+      "{pokemon} est dans sa premi\u00e8re \u00e9volution",
+      "{pokemon} est dans son \u00e9volution la plus simple"
+    ],
+    "pokemon-skill.pokemon.is.in.form": [
+      "{pokemon} est en {form}"
+    ],
+    "pokemon-skill.pokemon.lives.in": [
+      "{pokemon} vit dans le {habitat}",
+      "{pokemon} vivent dans le {habitat}",
+      "La maison de {pokemon} est le {habitat}"
+    ],
+    "pokemon-skill.pokemon.shape.is": [
+      "La forme de {pokemon} est {shape}"
+    ],
+    "pokemon-skill.pokemon.type.one": [
+      "Le type de {pokemon} est {type1}"
+    ],
+    "pokemon-skill.pokemon.type.two": [
+      "Les types de {pokemon} sont {type1} et {type2}"
+    ],
+    "pokemon-skill.pokemon.version.introduced": [
+      "{pokemon} a \u00e9t\u00e9 introduit dans les {versions} de la g\u00e9n\u00e9ration {generation}"
+    ],
+    "pokemon-skill.pokemon.weighs": [
+      "{pokemon} p\u00e8se {weight}"
+    ],
+    "pokemon-skill.pounds": [
+      "poids"
+    ],
+    "pokemon-skill.type.is.half": [
+      "Le type {type} n'est pas tr\u00e8s efficace contre {pokemon}"
+    ],
+    "pokemon-skill.type.is.none": [
+      "Le type {type} n'affecte pas {pokemon}"
+    ],
+    "pokemon-skill.type.is.normal": [
+      "Le type {type} fait des d\u00e9g\u00e2ts normaux contre {pokemon}"
+    ],
+    "pokemon-skill.type.is.super": [
+      "Le type {type} est super efficace contre {pokemon}"
+    ],
+    "pokemon-skill.unable.to.find.pokemon": [
+      "Je n'ai pas \u00e9t\u00e9 capable de trouver un pok\u00e9mon pour cette phrase",
+      "Je n'ai pas pu trouver ce pok\u00e9mon",
+      "Impossible de trouver ce pok\u00e9mon"
+    ],
+    "remember-skill.delete": [
+      "Dois-je supprimer la phrase : {{PHRASE}} ?"
+    ],
+    "remember-skill.deleteall": [
+      "Dois-je supprimer tout ce dont je me suis souvenu pour toi ?"
+    ],
+    "remember-skill.forgotten": [
+      "C'est oubli\u00e9."
+    ],
+    "remember-skill.gotphrase": [
+      "Je me souviendrai de \"{{REMEMBER}}\" pour toi."
+    ],
+    "remember-skill.holdon": [
+      "Je me souviendrai de cette phrase."
+    ],
+    "remember-skill.iremembered": [
+      "Je m'en souviens : {{REMEMBER}}."
+    ],
+    "remember-skill.short": [
+      "Je ne peux me rappeler que de phrases ou de mots de plus de quatre caract\u00e8res. Merci de reformuler."
+    ],
+    "remember-skill.sorry": [
+      "D\u00e9sol\u00e9, je ne me souviens d'aucune phrase !"
+    ],
+    "remember-skill.sorryforget": [
+      "D\u00e9sol\u00e9, il y a eu une erreur, je ne peux rien oublier !"
+    ],
+    "remember-skill.sorrynophrase": [
+      "D\u00e9sol\u00e9, je ne trouve aucune phrase correspondant \u00e0 votre requ\u00eate."
+    ],
+    "speedtest-skill.error": [
+      "Une erreur est survenie, je n'ai pas pu effectu\u00e9 le test de vitesse... d\u00e9sol\u00e9."
+    ],
+    "speedtest-skill.result": [
+      "Votre vitesse en aval est de {{DOWN}} Megabit par seconde et votre vitesse en amont est de {{UP}} Megabit par seconde."
+    ],
+    "speedtest-skill.running": [
+      "D\u00e9but du test de vitesse, je serai de retour dans un moment avec les r\u00e9sultats."
+    ],
+    "white-house-adventure.LeavingZork": [
+      "Quitter le myst\u00e9rieux royaume de Zork",
+      "quitter Zork maintenant",
+      "Quitter Zork"
+    ],
+    "white-house-adventure.NoSave": [
+      "Il n'y a pas de sauvegarde actuelle",
+      "Aucune sauvegarde de jeu n'existe"
+    ],
+    "white-house-adventure.SaveDeleted": [
+      "la sauvegarde du jeu est supprim\u00e9e",
+      "retirer la sauvegarde du jeu"
+    ],
+    "wikiquote-skill.notfound": [
+      "Je n'ai pas trouv\u00e9 de citations (au sujet de|sur|de|\u00e0 propos de) {{subject}}"
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+ru-ru,Crystal-Ball-Mycroft-Skill.random.answer,Да
+ru-ru,Crystal-Ball-Mycroft-Skill.random.answer,Нет
+ru-ru,Crystal-Ball-Mycroft-Skill.random.answer,Попробуй спросить в следующий раз
+ru-ru,Crystal-Ball-Mycroft-Skill.random.answer,Без сомнений
+ru-ru,Crystal-Ball-Mycroft-Skill.random.answer,Конечно нет
+ru-ru,Crystal-Ball-Mycroft-Skill.random.answer,Конечно
+ru-ru,Crystal-Ball-Mycroft-Skill.random.answer,Неа
+ru-ru,Crystal-Ball-Mycroft-Skill.random.answer,Почему нет?
+ru-ru,Crystal-Ball-Mycroft-Skill.random.answer,Я бы не ставил на это ставки
+ru-ru,Crystal-Ball-Mycroft-Skill.random.answer,Еще бы!
+ru-ru,Crystal-Ball-Mycroft-Skill.random.answer,Не рассчитывай на много 
+ru-ru,Number-Guess-Mycroft-Skill.correct,Это верно!
+ru-ru,Number-Guess-Mycroft-Skill.correct,Ты угадал!
+ru-ru,Number-Guess-Mycroft-Skill.correct,Правильно!
+ru-ru,Number-Guess-Mycroft-Skill.correct,Это то самое число!
+ru-ru,Number-Guess-Mycroft-Skill.correct,Отличная работа!
+ru-ru,Number-Guess-Mycroft-Skill.correct,Ты выиграл!
+ru-ru,Number-Guess-Mycroft-Skill.get.lower,Какую нижнюю границу ты хочешь?
+ru-ru,Number-Guess-Mycroft-Skill.get.upper,Какую ты хочешь верхнюю границу?
+ru-ru,Number-Guess-Mycroft-Skill.guess,Угадай число
+ru-ru,Number-Guess-Mycroft-Skill.guess,Как ты думаешь какое число
+ru-ru,Number-Guess-Mycroft-Skill.guess,Угадай
+ru-ru,Number-Guess-Mycroft-Skill.input.error,Я не смог понять что ты сказал
+ru-ru,Number-Guess-Mycroft-Skill.input.error,Что-то пошло не так когда я пытался понять что ты сказал
+ru-ru,Number-Guess-Mycroft-Skill.input.error,Произошла ошибка при вводе
+ru-ru,Number-Guess-Mycroft-Skill.input.error,Можешь повторить?
+ru-ru,Number-Guess-Mycroft-Skill.invalid.input,Этот ответ был не подходит. Мне нужно число
+ru-ru,Number-Guess-Mycroft-Skill.invalid.input,Пожалуйста ответь числом
+ru-ru,Number-Guess-Mycroft-Skill.invalid.input,Тебе нужно ответить с числом
+ru-ru,Number-Guess-Mycroft-Skill.invalid.input,Это не цифра
+ru-ru,Number-Guess-Mycroft-Skill.start.game,OK  давай играть
+ru-ru,Number-Guess-Mycroft-Skill.start.game,Пускай начнется игра
+ru-ru,Number-Guess-Mycroft-Skill.start.game,Начинаю игру
+ru-ru,Number-Guess-Mycroft-Skill.start.game,Давай начнем
+ru-ru,Number-Guess-Mycroft-Skill.start.game,Посмотрим что у тебя есть.
+ru-ru,Number-Guess-Mycroft-Skill.start.game,Хорошо. Давайте сыграем в угадай число
+ru-ru,Number-Guess-Mycroft-Skill.too.high,Слишком много
+ru-ru,Number-Guess-Mycroft-Skill.too.low,Слишком мало
+ru-ru,aircrack.cannot.sudo,Ошибка я не могу выполнять требующие прав администратора команды aircrack без пароля. Пожалуйста смотрите Github.com/JonStratton/skill-aircrack для заметок о доступе к правам администратора.
+ru-ru,aircrack.captured.handshake,Захваченное рукопожатие
+ru-ru,aircrack.confirm.permission,Доступ к Wi-Fi-сети на которую вы не имеете права использовать может быть незаконным. Пожалуйста подтвердите что у вас есть разрешение на подключение к этой сети сказав ДА в противном случае скажите НЕТ чтобы отменить.
+ru-ru,aircrack.deauthing.clients,Отключаю клиентов подключенных к {{selected_network}} сети.
+ru-ru,aircrack.interfaces.are,Доступны следующие интерфейсы: {{available_interfaces}}
+ru-ru,aircrack.interfaces.are,Доступны следующие интерфейсы: {{available_interfaces}}
+ru-ru,aircrack.interfaces.are,{{available_interfaces}} доступны.
+ru-ru,aircrack.monitor.stopped.early,Монитор остановился до захвата рукопожатия.
+ru-ru,aircrack.networks.are,Доступны следующие сети: {{available_networks}}
+ru-ru,aircrack.no.interfaces,Нет доступных интерфейсов.
+ru-ru,aircrack.no.networks,Нет доступных сетей.
+ru-ru,aircrack.no.password,Пароль не найден.
+ru-ru,aircrack.no.such.interface,Такой интерфейс не найден.
+ru-ru,aircrack.no.such.network,Такая сеть не найдена.
+ru-ru,aircrack.recovered.password,Восстановил следующий пароль: {{password}}
+ru-ru,aircrack.select.interface.first,Сначала выберите Интерфейс.
+ru-ru,aircrack.selected.interface,Выбран {{selected_interface}} интерфейс.
+ru-ru,aircrack.selected.network,Выбрана {{selected_network}} сеть.
+ru-ru,aircrack.start.monitor,Запуск мониторинга
+ru-ru,aircrack.stop.monitor,Останавливаем монитор
+ru-ru,auto-volume-skill.activate,Хорошо
+ru-ru,auto-volume-skill.activate,Автоматическое управление громкостью включено
+ru-ru,auto-volume-skill.activate,Я активировал автоматический уровень громкости
+ru-ru,auto-volume-skill.deactivate,Хорошо
+ru-ru,auto-volume-skill.deactivate,Автоматическая регулировка громкостью отключена
+ru-ru,auto-volume-skill.deactivate,Я деактивировал авто громкость
+ru-ru,auto-volume-skill.reset,Сейчас я сбросил авто громкость
+ru-ru,cocktail.NotFound,Прости я не смог найти напиток который ты запросил
+ru-ru,cocktail.NotFound,Я боюсь я не смог это найти
+ru-ru,cocktail.YouWillNeed,Тебе понадобятся {ingredients} и {final_ingredient}
+ru-ru,cocktail.YouWillNeed,Тебе понадобятся {ingredients} и {final_ingredient}
+ru-ru,cocktail.YouWillNeed,Тебе потребуется {ingredients} и {final_ingredient}
+ru-ru,count-skill.count_error,Я не понимаю
+ru-ru,count-skill.count_error,Я что-то упустил
+ru-ru,count-skill.count_error,Не слышу повторите
+ru-ru,count-skill.count_error,Извините не расслышал.
+ru-ru,count-skill.count_start,Считаю до {number}. Время пошло!
+ru-ru,count-skill.count_stop,Готово!
+ru-ru,count-skill.count_stop,Конец!
+ru-ru,count-skill.countdown_start,Обратный отсчёт от {number}. Начинаю!
+ru-ru,count-skill.countdown_stop,Готово!
+ru-ru,count-skill.countdown_stop,Конец!
+ru-ru,cut-up-skill.frag_type.set,Выбран тип фрагмента {{frag_type}}
+ru-ru,cut-up-skill.maximum.set,Максимальный размер чанка установлен на {{max}}
+ru-ru,cut-up-skill.minimum.set,Минимальный размер чанка установлен на {{min}}.
+ru-ru,cut-up-skill.randomness.set,Случайность установлена на {{rand}} процентов.
+ru-ru,dice-skill.multiple.modificator.result,Ваши числа {result} добавляются к общему от {total}
+ru-ru,dice-skill.multiple.result,Ваши числа {result}
+ru-ru,dice-skill.range.needed,Вы должны указать диапазон
+ru-ru,dice-skill.range.needed,Мне нужен диапазон чтобы сделать это
+ru-ru,dice-skill.range.needed,Скажи мне диапазон чисел которые ты хочешь
+ru-ru,dice-skill.single.modificator.result,Результат {total}.
+ru-ru,dice-skill.single.result,Результат {result}.
+ru-ru,dice-skill.single.result,Ваше число {result}
+ru-ru,email-skill.error.getting.mail,Произошла ошибка во время проверки твоей электронной почты Попробуй проверить свой логин и пароль а так же информацию сервера
+ru-ru,email-skill.error.getting.mail,Проверь информацию сервера и свой логин и пароль потому что случилась ошибка во время проверки твоей электронной почты
+ru-ru,email-skill.error.getting.mail,Я не могу подключиться к твоему серверу для электронной почты Проверь свой пароль и информацию сервера
+ru-ru,email-skill.list.subjects,номер {message_num} от {sender} Заголовок {subject}
+ru-ru,email-skill.list.subjects,заголовок сообщения номер {message_num} такой {subject} Он от {sender}
+ru-ru,email-skill.list.subjects,сообщение номер {message_num} от {sender} Его заголовок {subject}
+ru-ru,email-skill.more.emails,Ты хочешь услышать больше
+ru-ru,email-skill.more.emails,Хочешь услышать больше своих писем
+ru-ru,email-skill.more.emails,Хочешь услышать больше
+ru-ru,email-skill.no.more.emails,Хорошо
+ru-ru,email-skill.no.new.email,Нет никаких новых писем
+ru-ru,email-skill.no.new.email,Нет новых электронных сообщений
+ru-ru,email-skill.no.new.email,Нет новых сообщений
+ru-ru,email-skill.no.new.email,Там нет новых писем
+ru-ru,email-skill.no.new.email,Там нет новой электронной почты для тебя
+ru-ru,email-skill.no.new.email,Там нет новых писем для тебя
+ru-ru,email-skill.no.new.email,У тебя нет новых писем
+ru-ru,email-skill.no.new.email,У тебя нет новых электронных писем
+ru-ru,email-skill.setup,Чтобы настроить мой навык электронной почты пожалуйста перейди на home dot mycroft dot a i чтобы ввести информацию для своей электронной почты
+ru-ru,email-skill.setup,Тебе нужно настроить мой навык электронной почты Чтобы это сделать пожалуйста перейди на home dot mycroft dot a i чтобы ввести информацию для своей электронной почты
+ru-ru,emby-skill.emby,Играю {media} микс
+ru-ru,fallback-aiml.reset.memory,Сбрасываю базу данных знаний
+ru-ru,fallback-aiml.reset.memory,Забываю все
+ru-ru,fallback-aiml.reset.memory,Хорошо я сброшу мою память
+ru-ru,fallback-aiml.reset.memory,Стирание мозга начато
+ru-ru,krunner-search-skill.krunner.recent,Показываю твои последние файлы
+ru-ru,krunner-search-skill.krunner.search,Я произвожу локальный поиск для {{ Query }}
+ru-ru,lifx-mycroft.Color,Устанавливаю {{name}} на {{color}}.
+ru-ru,lifx-mycroft.Dim,{{change}} {{name}}.
+ru-ru,lifx-mycroft.GroupError,Не могу {{action}} {{name}} потому что это Группа.
+ru-ru,lifx-mycroft.GroupError,Не могу {{action}} {{name}} из-за того что это Группа
+ru-ru,lifx-mycroft.SetPercent,Устанавливаю {{param}} на {{value}}.
+ru-ru,lifx-mycroft.SetPercent,Меняю {{param}} на {{value}}.
+ru-ru,lifx-mycroft.SetPercent,Устанавливаю {{name}} {{param}} на {{value}}.
+ru-ru,lifx-mycroft.Switch,Меняю {{status}} {{name}}.
+ru-ru,lifx-mycroft.Switch,Меняю {{name}} {{status}}.
+ru-ru,lifx-mycroft.Temperature,Делаю {{name}} {{temperature}}
+ru-ru,plasma-activities-skill.activities.create,Твоя активность {{ ActivityName }} была создана
+ru-ru,plasma-activities-skill.activities.remove,Активность была удалена
+ru-ru,plasma-activities-skill.activities.show,Показываю активности
+ru-ru,plasma-activities-skill.activities.stop,{{ StopActivityName }} активность была остановлена
+ru-ru,plasma-activities-skill.activities.switch,Меняю на активность {{ SwitchActivityName }} 
+ru-ru,white-house-adventure.LeavingZork,Уходим из мистического королевства Зорк
+ru-ru,white-house-adventure.LeavingZork,Уходим из Зорк
+ru-ru,white-house-adventure.LeavingZork,Выхожу из Зорк
+ru-ru,white-house-adventure.NoSave,В данный момент нет никаких сохранений для игры
+ru-ru,white-house-adventure.NoSave,Сохрания для игры не существуют
+ru-ru,white-house-adventure.SaveDeleted,Сохраненная игра удалена
+ru-ru,white-house-adventure.SaveDeleted,Сохраненная игра убрана

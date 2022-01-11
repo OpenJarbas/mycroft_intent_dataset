@@ -1,0 +1,26 @@
+{
+  "ab-dz": {
+    "cocktail.NotFound": [
+      "Surf-iyi, ur ufi\u0263 ara tissit id tessutre\u1e0d",
+      "Ugade\u0263 ur t-id ttafe\u0263 ara"
+    ],
+    "cocktail.YouWillNeed": [
+      "Te\u1e25wa\u01e7e\u1e0d {ingredients} akked {final_ingredient}",
+      "Ad te\u1e25wi\u01e7e\u1e0d {ingredients} ad {final_ingredient}",
+      "Isufar yessefken ha ten-ih: {ingredients} ad {final_ingredient}"
+    ],
+    "white-house-adventure.LeavingZork": [
+      "Ffe\u0263 seg tgelda timedregt n Zork",
+      "Ffe\u0263 tura si Zork",
+      "Ffe\u0263 si Zork"
+    ],
+    "white-house-adventure.NoSave": [
+      "Ulac lqem akka tura",
+      "Ulac lqem n wurar"
+    ],
+    "white-house-adventure.SaveDeleted": [
+      "Asekles n wurar yettwakkes",
+      "Kkes asekles n wurar"
+    ]
+  }
+}

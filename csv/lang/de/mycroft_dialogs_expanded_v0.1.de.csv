@@ -1,0 +1,25 @@
+de,homeassistant.homeassistant.automation.trigger,automatisierung {{dev_name}} geschaltet
+de,homeassistant.homeassistant.brightness.badreq,Bitte wählen sie eine Helligkeit zwischen 0 und 100
+de,homeassistant.homeassistant.brightness.badreq,Wie hell bitte? Sie können von 0 bis 100 wählen
+de,homeassistant.homeassistant.brightness.cantdim.dimmable,Kann {{dev_name}} nicht dimmen. Es ist nicht dimmbar.
+de,homeassistant.homeassistant.brightness.cantdim.off,Kann {{dev_name}} nicht dimmen. Es ist aus.
+de,homeassistant.homeassistant.brightness.decreased,{{dev_name}} wurde auf {{brightness}} Prozent gedimmt
+de,homeassistant.homeassistant.brightness.decreased,{{dev_name}} wurde gedimmt
+de,homeassistant.homeassistant.brightness.dimmed,{{dev_name}} wurde auf {{brightness}} Prozent gedimmt
+de,homeassistant.homeassistant.brightness.increased,Helligkeit von {{dev_name}} wurde auf {{brightness}} erhöht
+de,homeassistant.homeassistant.brightness.increased,Helligkeit von {{dev_name}} wurde erhöht
+de,homeassistant.homeassistant.device.already,{{dev_name}} bereits {{action}}
+de,homeassistant.homeassistant.device.off,schalte {{dev_name}} aus
+de,homeassistant.homeassistant.device.on,schalte {{dev_name}} ein
+de,homeassistant.homeassistant.device.toggle,{{dev_name}} wurde umgeschaltet
+de,homeassistant.homeassistant.device.unknown,Die home-assistant komponente {{dev_name}} konnte nicht gefunden werden
+de,homeassistant.homeassistant.error.offline,Der Homeassistant-Server scheint offline zu sein
+de,homeassistant.homeassistant.error.offline,Der Homeassistant-Server ist nicht erreichbar
+de,homeassistant.homeassistant.error.sorry,Ich verstehe deine anfrage nicht
+de,homeassistant.homeassistant.error.sorry,Keine ahnung was du meinst
+de,homeassistant.homeassistant.sensor,Aktuell ist {{dev_name}} auf {{value}} {{unit}}
+de,homeassistant.homeassistant.sensor,{{dev_name}} hat den Wert: {{value}} {{unit}}
+de,homeassistant.homeassistant.sensor,{{dev_name}} ist {{value}} {{unit}}
+de,homeassistant.homeassistant.tracker.found,letzter bekannter Ort von {{dev_name}} ist {{location}}
+de,homeassistant.homeassistant.tracker.found,{{dev_name}} ist bei {{location}}
+de,homeassistant.homeassistant.tracker.found,{{dev_name}} wurde in {{location}} erkannt

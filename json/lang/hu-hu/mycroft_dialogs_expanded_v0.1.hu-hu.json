@@ -1,0 +1,137 @@
+{
+  "hu-hu": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "Igen",
+      "Nem",
+      "K\u00e9rdezz \u00fajra k\u00e9s\u0151bb",
+      "K\u00e9ts\u00e9gtelen\u00fcl",
+      "Term\u00e9szetesen nem",
+      "Nyilv\u00e1nval\u00f3an",
+      "Dehogy",
+      "Mi\u00e9rt ne?",
+      "Nem fogadn\u00e9k r\u00e1",
+      "Biztos lehetsz benne!",
+      "Ne vegy\u00e9l r\u00e1 m\u00e9rget"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "Helyes!",
+      "Eltal\u00e1ltad!",
+      "Pontosan!",
+      "Ez az a sz\u00e1m!",
+      "Sz\u00e9p munka!",
+      "Nyert\u00e9l!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "Mi legyen az als\u00f3 hat\u00e1r?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "Mi legyen a fels\u0151 hat\u00e1r?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "Tal\u00e1ld ki a sz\u00e1mot",
+      "Mit gondolsz, melyik az a sz\u00e1m",
+      "Tal\u00e1ld ki"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "Nem \u00e9rtettem, amit mondt\u00e1l",
+      "Nem siker\u00fclt pontosan meg\u00e9rtenem, amit mondt\u00e1l",
+      "Beviteli hiba t\u00f6rt\u00e9nt",
+      "Megism\u00e9teln\u00e9d?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "A v\u00e1lasz \u00e9rv\u00e9nytelen. Sz\u00e1mot k\u00e9rek sz\u00e9pen",
+      "K\u00e9rlek sz\u00e1m legyen a v\u00e1laszod",
+      "Sz\u00e1mot adj meg a v\u00e1laszodban",
+      "Ez nem sz\u00e1m"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "Rendben, j\u00e1tsszunk",
+      "Kezd\u0151dj\u00f6n a j\u00e1t\u00e9k",
+      "A j\u00e1t\u00e9k elindul",
+      "Kezdj\u00fck",
+      "L\u00e1ssuk, mit tudsz",
+      "Rendben. J\u00e1tsszunk sz\u00e1mkital\u00e1l\u00f3st"
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "T\u00fal nagy"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "T\u00fal kicsi"
+    ],
+    "auto-volume-skill.activate": [
+      "Ok\u00e9",
+      "Automata hanger\u0151 aktiv\u00e1lva",
+      "Aktiv\u00e1ltam az automatikus hanger\u0151t"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Ok\u00e9",
+      "Az automatikus hanger\u0151 kikapcsolva",
+      "Most kikapcsoltam az automatikus hanger\u0151t"
+    ],
+    "auto-volume-skill.reset": [
+      "Most vissza\u00e1ll\u00edtom az automatikus hanger\u0151t"
+    ],
+    "email-skill.error.getting.mail": [
+      "Hiba l\u00e9pett fel a leveled fogad\u00e1sakor K\u00e9rlek ellen\u0151rizd az azonos\u00edt\u00f3idat \u00e9s a szerver be\u00e1ll\u00edt\u00e1sait",
+      "K\u00e9rlek ellen\u0151rizd az azonos\u00edt\u00f3idat \u00e9s a szerver be\u00e1ll\u00edt\u00e1sait, mivel probl\u00e9ma t\u00f6rt\u00e9nt a leveled fogad\u00e1sa sor\u00e1n",
+      "Nem tudok kapcsolatot l\u00e9trehozni a levelez\u00e9sed kiszolg\u00e1l\u00f3j\u00e1val Ellen\u0151rizd az azonos\u00edt\u00f3idat \u00e9s a be\u00e1ll\u00edt\u00e1sokat"
+    ],
+    "email-skill.list.subjects": [
+      "\u00dczenet sz\u00e1ma: {message_num}, felad\u00f3ja: {sender}, t\u00e1rgya: {subject}",
+      "\u00dczenet sz\u00e1ma: {message_num}, melynek t\u00e1rgya: {subject} A k\u00fcld\u0151 szem\u00e9ly: {sender}",
+      "\u00dczenet sz\u00e1ma {message_num}, feladta: {sender}, {subject} c\u00edmmel"
+    ],
+    "email-skill.more.emails": [
+      "szeretn\u00e9l t\u00f6bbet hallani",
+      "szeretn\u00e9l t\u00f6bbet hallani a leveleidr\u0151l",
+      "szeretn\u00e9d, ha tov\u00e1bb olvasn\u00e1m"
+    ],
+    "email-skill.no.more.emails": [
+      "rendben"
+    ],
+    "email-skill.no.new.email": [
+      "Nincs \u00faj lev\u00e9l",
+      "Nincs \u00faj leveled",
+      "Nem \u00e9rkezett \u00faj lev\u00e9l",
+      "Nem \u00e9rkezett \u00faj leveled",
+      "Nem v\u00e1r r\u00e1d \u00faj lev\u00e9l",
+      "Jelenleg nincs post\u00e1d",
+      "Most nincs \u00faj post\u00e1d",
+      "Jelenleg nincs \u00faj leveled"
+    ],
+    "email-skill.setup": [
+      "Ha szeretn\u00e9d be\u00e1ll\u00edtani az email-olvas\u00f3 k\u00e9pess\u00e9get, l\u00e1togass el a home pont mycroft pont a i oldalra \u00e9s add meg a levelez\u00e9si adataidat",
+      "Az email-olvas\u00f3 k\u00e9pess\u00e9g haszn\u00e1lat\u00e1hoz tov\u00e1bbi be\u00e1ll\u00edt\u00e1sra van sz\u00fcks\u00e9g Ehhez l\u00e1togass el a home pont mycroft pont a i oldalra \u00e9s add meg a levelez\u00e9si adataidat"
+    ],
+    "emby-skill.emby": [
+      "{media} egyveleg lej\u00e1tsz\u00e1sa"
+    ],
+    "fallback-aiml.reset.memory": [
+      "Tud\u00e1sadatb\u00e1zis vissza\u00e1ll\u00edt\u00e1sa",
+      "Mindent elfelejtek",
+      "Rendben, vissza\u00e1ll\u00edtom a mem\u00f3ri\u00e1mat",
+      "Az eml\u00e9kezetem t\u00f6rl\u00e9se megkezd\u0151d\u00f6tt"
+    ],
+    "picroft-google-aiy-voicekit-skill.error.initialize": [
+      "Gondok t\u00e1madtak a Google A I Y voice kit k\u00e9pess\u00e9g el\u0151k\u00e9sz\u00edt\u00e9s\u00e9vel. A k\u00e9pess\u00e9g nem fog bet\u00f6lt\u0151dni."
+    ],
+    "plasma-activities-skill.activities.create": [
+      "Az \u00faj aktivit\u00e1s {{ ActivityName }} n\u00e9vvel l\u00e9trehozva"
+    ],
+    "plasma-activities-skill.activities.remove": [
+      "Aktivit\u00e1s elt\u00e1vol\u00edtva"
+    ],
+    "plasma-activities-skill.activities.show": [
+      "Mutatom az aktivit\u00e1sokat"
+    ],
+    "plasma-activities-skill.activities.stop": [
+      "{{ StopActivityName }} nev\u0171 aktivit\u00e1s le\u00e1ll\u00edtva"
+    ],
+    "plasma-activities-skill.activities.switch": [
+      "V\u00e1lt\u00e1s {{ SwitchActivityName }} aktivit\u00e1sra"
+    ],
+    "wikiquote-skill.notfound": [
+      "nem tal\u00e1ltam {{subject}} id\u00e9zetet"
+    ]
+  }
+}

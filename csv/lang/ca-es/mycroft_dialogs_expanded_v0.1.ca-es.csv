@@ -1,0 +1,127 @@
+ca-es,Crystal-Ball-Mycroft-Skill.random.answer,Sí
+ca-es,Crystal-Ball-Mycroft-Skill.random.answer,No
+ca-es,Crystal-Ball-Mycroft-Skill.random.answer,Intenteu preguntar més tard
+ca-es,Crystal-Ball-Mycroft-Skill.random.answer,Definitivament
+ca-es,Crystal-Ball-Mycroft-Skill.random.answer,Per descomptat que no
+ca-es,Crystal-Ball-Mycroft-Skill.random.answer,Clar que si
+ca-es,Crystal-Ball-Mycroft-Skill.random.answer,Nop
+ca-es,Crystal-Ball-Mycroft-Skill.random.answer,Per què no?
+ca-es,Crystal-Ball-Mycroft-Skill.random.answer,No apostaria per això
+ca-es,Crystal-Ball-Mycroft-Skill.random.answer,Segur!
+ca-es,Crystal-Ball-Mycroft-Skill.random.answer,No us feu il·lusions
+ca-es,Number-Guess-Mycroft-Skill.correct,Molt bé!
+ca-es,Number-Guess-Mycroft-Skill.correct,Això és!
+ca-es,Number-Guess-Mycroft-Skill.correct,Correcte!
+ca-es,Number-Guess-Mycroft-Skill.correct,Heu encertat!
+ca-es,Number-Guess-Mycroft-Skill.correct,Bona feina!
+ca-es,Number-Guess-Mycroft-Skill.correct,Heu guanyat!
+ca-es,Number-Guess-Mycroft-Skill.get.lower,Quin voleu que sigui el límit inferior?
+ca-es,Number-Guess-Mycroft-Skill.get.upper,Quin voleu que sigui el límit superior?
+ca-es,Number-Guess-Mycroft-Skill.guess,Endevineu el nombre
+ca-es,Number-Guess-Mycroft-Skill.guess,Quin creieu que és el nombre
+ca-es,Number-Guess-Mycroft-Skill.guess,Endevineu
+ca-es,Number-Guess-Mycroft-Skill.input.error,No he pogut entendre el que heu dit
+ca-es,Number-Guess-Mycroft-Skill.input.error,Alguna cosa ha fallat mentre intentava entendre-ho
+ca-es,Number-Guess-Mycroft-Skill.input.error,S'ha produït un error d'entrada
+ca-es,Number-Guess-Mycroft-Skill.input.error,Podrieu repetir-ho?
+ca-es,Number-Guess-Mycroft-Skill.invalid.input,Aquesta resposta no és vàlida. Necessito un nombre
+ca-es,Number-Guess-Mycroft-Skill.invalid.input,Responeu amb un nombre
+ca-es,Number-Guess-Mycroft-Skill.invalid.input,Heu de respondre amb un nombre
+ca-es,Number-Guess-Mycroft-Skill.invalid.input,Això no és un nombre
+ca-es,Number-Guess-Mycroft-Skill.start.game,D'acord juguem
+ca-es,Number-Guess-Mycroft-Skill.start.game,Que comenci el joc
+ca-es,Number-Guess-Mycroft-Skill.start.game,Iniciant la partida
+ca-es,Number-Guess-Mycroft-Skill.start.game,Comencem
+ca-es,Number-Guess-Mycroft-Skill.start.game,Ensenya'm el que tens
+ca-es,Number-Guess-Mycroft-Skill.start.game,D'acord. Juguem a Endevina el Nombre
+ca-es,Number-Guess-Mycroft-Skill.too.high,Massa gran
+ca-es,Number-Guess-Mycroft-Skill.too.low,Massa petit
+ca-es,cocktail.NotFound,Vaja no he trobat la beguda sol·licitada
+ca-es,cocktail.NotFound,Ho sento però no ho he pogut trobar
+ca-es,cocktail.YouWillNeed,Necessitareu {ingredients} i {final_ingredient}
+ca-es,cocktail.YouWillNeed,Necessitareu {ingredients} i {final_ingredient}
+ca-es,cocktail.YouWillNeed,Els ingredients necessaris són: {ingredients} i {final_ingredient}
+ca-es,ddg.no_answer,duck duck go no en sap la resposta
+ca-es,ddg.thats all,Això és tot el què sé
+ca-es,ddg.thats all,Això és tot el que he trobat
+ca-es,email-skill.already.looking.for.all,Ja estic buscant un nou correu
+ca-es,email-skill.already.looking.for.all,Ja he estat buscant un nou correu
+ca-es,email-skill.already.looking.for.all,Actualment estic mirant el nou correu
+ca-es,email-skill.already.looking.for.specific,Ja estic buscant correus de {email}
+ca-es,email-skill.already.looking.for.specific,Ja he estat buscant un nou correu de {email}
+ca-es,email-skill.already.looking.for.specific,Ja estic buscant correus de {email}
+ca-es,email-skill.cancel.looking.for.all.look.specific,Actualment busco tots els correus nous voleu que només us notifiqui els correus electrònics mitjançant {email}
+ca-es,email-skill.cancel.looking.for.all.look.specific,Ja he buscat un correu electrònic nou només voleu que us notifiqui el correu electrònic nou de {email}
+ca-es,email-skill.cancel.looking.for.specific.look.all,Ara estic buscant {email} voleu que busqui tots els missatges nous?
+ca-es,email-skill.cancel.looking.for.specific.look.all,En aquest moment només estic buscant correu electrònic de {email}. Voleu que busqui tot el correu electrònic?
+ca-es,email-skill.cancel.looking.for.specific.look.all,Voleu que busqui tots els correus en lloc de cercar només correus de {email}
+ca-es,email-skill.error.getting.mail,S'ha produït un error en obtenir el vostre correu electrònic. Verifiqueu les vostres credencials i la informació del servidor.
+ca-es,email-skill.error.getting.mail,Verifiqueu les vostres credencials i la informació del servidor sembla que s'ha produït un problema en obtenir el vostre correu.
+ca-es,email-skill.error.getting.mail,No puc connectar al vostre servidor de correu. Verifiqueu la clau d'accés i la informació del servidor.
+ca-es,email-skill.list.subjects,El missatge número {message_num} és de {sender}. L'assumpte és {subject}
+ca-es,email-skill.list.subjects,L'assumpte del missatge {message_num} és {subject}. L'envia {sender}
+ca-es,email-skill.more.emails,voleu sentir-ne més?
+ca-es,email-skill.more.emails,voleu sentir més missatges?
+ca-es,email-skill.more.emails,en voleu sentir més?
+ca-es,email-skill.no.emails.from,No hi ha correus de {sender}
+ca-es,email-skill.no.emails.from,No tens cap correu de {sender}
+ca-es,email-skill.no.emails.from,No has rebut cap correu de {sender}
+ca-es,email-skill.no.more.emails,D'acord
+ca-es,email-skill.no.new.email,No hi ha correu nou
+ca-es,email-skill.no.new.email,No hi ha correu nou
+ca-es,email-skill.no.new.email,No hi ha correu nou
+ca-es,email-skill.no.new.email,No teniu correu nou
+ca-es,email-skill.no.new.email,No teniu correu nou
+ca-es,email-skill.no.new.email,No hi ha correu nou per a tu
+ca-es,email-skill.no.new.email,No teniu correu nou
+ca-es,email-skill.no.new.email,No teniu correu nou
+ca-es,email-skill.not.looking.for,Ara no estic buscant correus de {email}
+ca-es,email-skill.not.looking.for,No estic buscant correu de {email}
+ca-es,email-skill.not.looking.for,Ara no estic buscant correu de {email}
+ca-es,email-skill.notify.read.email,Teniu {size} correu electrònic nou voleu escoltar-los
+ca-es,email-skill.notify.read.email,Hi ha {size} correu electrònic nou. Voleu escoltar-los?
+ca-es,email-skill.notify.read.email,Voleu escoltar els vostres {size} correus electrònics
+ca-es,email-skill.poll.emails.not.started,No estic buscant cap correu nou
+ca-es,email-skill.poll.emails.not.started,Ara no estic buscant cap correu electrònic nou
+ca-es,email-skill.setup,Per configurar l'habilitat de correu electrònic aneu a home punt mycroft punt a i per introduir la vostra informació de correu electrònic
+ca-es,email-skill.setup,Cal que configureu l'habilitat de correu eletrònic. Per fer-ho aneu a home punt mycroft punt a i per a introduir la informació del correu electrònic
+ca-es,email-skill.start.poll.email,Us notificaré si teniu correu nou
+ca-es,email-skill.start.poll.email,D'acord començaré a notificar-vos del correu nou
+ca-es,email-skill.start.poll.email,Començo a mirar si hi ha correu nou
+ca-es,email-skill.stop.looking.for,Deixo de comprovar si hi ha correu de {email}
+ca-es,email-skill.stop.looking.for,D'acord deixo de comprovar si hi ha correu nou de {email}
+ca-es,email-skill.stop.poll.emails,D'acord deixo de comprovar si hi ha correu nou
+ca-es,email-skill.stop.poll.emails,D'acord ja no miraré si hi ha correu nou
+ca-es,email-skill.stop.poll.emails.last.email.removed,Deixo de mirar si hi arriba correu nou perquè no hi ha cap adreça electrònica de la qual vulgueu que us notifique
+ca-es,email-skill.update.notify.data,He actualitzat les vostres preferències de correu
+ca-es,email-skill.update.notify.data,D'acord he actualitzat les vostres preferències de correu
+ca-es,emby-skill.configuration_fail,No s'ha pogut connectar amb el servidor Emby. Reviseu o ajusteu la configuració a home.Mycroft.ai
+ca-es,emby-skill.configuration_success,S'ha connectat correctament al servidor Emby a {hostname}
+ca-es,emby-skill.diag_auth_fail,És impossible validar el servidor Emby. Comproveu o ajusteu la configuració a home.Mycroft.ai
+ca-es,emby-skill.diag_auth_success,S'ha validat correctament el servidor Emby!
+ca-es,emby-skill.diag_public_info_fail,El servidor Emby a {host} no respon.
+ca-es,emby-skill.diag_public_info_success,Genial! Puc accedir a {ServerName} que es troba a {LocalAddress} a la versió executada {Version}. S'està intentant validar.
+ca-es,emby-skill.diag_start,S'executarà un diagnòstic de verificació a la connexió de l'habilitat emby. Això comprovarà si es pot accedir al servidor i si m'hi puc identificar.
+ca-es,emby-skill.diag_stop,El diagnòstic s'ha aturat.
+ca-es,emby-skill.diagnostic,S'ha completat el diagnòstic. Puc connectar-me i identificar-me al servidor Emby. És hora de posar música!
+ca-es,emby-skill.emby,S'està reproduint {media}
+ca-es,emby-skill.general_check_settings_logs,Comprova la configuració a Mycroft.ai. Si el problema continua comproveu els logs de Mycroft per a més informació.
+ca-es,emby-skill.play_fail,És impossible trobar o reproduir {media}. Torneu-ho a provar.
+ca-es,emby-skill.play_fail,És impossible trobar o reproduir {media}. Torneu-ho a intentar. Si això continua passant reviseu la configuració a home.Mycroft.ai
+ca-es,icanhazdadjokes.no_joke,no he trobat cap broma sobre {search}
+ca-es,white-house-adventure.LeavingZork,S'està abandonant el misteriós regne de Zork
+ca-es,white-house-adventure.LeavingZork,S'està abandonant Zork
+ca-es,white-house-adventure.LeavingZork,S'està sortint de Zork
+ca-es,white-house-adventure.NoSave,No hi ha cap partida guardada actualment
+ca-es,white-house-adventure.NoSave,No hi ha cap partida guardada
+ca-es,white-house-adventure.SaveDeleted,Partida suprimida
+ca-es,white-house-adventure.SaveDeleted,Partida suprimida
+ca-es,wikipedia-for-humans.no entry found,No puc trobar cap article relacionat en la Viquipèdia
+ca-es,wikipedia-for-humans.no entry found,Em sembla que no hi ha cap article sobre això
+ca-es,wikipedia-for-humans.searching,Deixeu-me cercar {{query}} a la Viquipèdia
+ca-es,wikipedia-for-humans.searching,Estic cercant a la Viquipèdia sobre {{query}}
+ca-es,wikipedia-for-humans.thats all,Això és tot el que en sé
+ca-es,wikipedia-for-humans.thats all,Això és tot el que puc trobar-ne
+ca-es,wikipedia-for-humans.wikiroulette,s'ha activat la ruleta del coneixement
+ca-es,wikipedia-for-humans.wikiroulette,esteu jugant a la ruleta del coneixement
+ca-es,wolfie.no_answer,Wolfram alpha no en sap la resposta

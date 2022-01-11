@@ -2522,6 +2522,243 @@
       "live",
       "alive"
     ],
+    "controls.neon.Adjust": [
+      "adjust",
+      "modify",
+      "set"
+    ],
+    "controls.neon.American": [
+      "imperial",
+      "american",
+      "12"
+    ],
+    "controls.neon.Audio": [
+      "audio"
+    ],
+    "controls.neon.AudioHome": [
+      "audio",
+      "home control",
+      "home",
+      "default"
+    ],
+    "controls.neon.Blink": [
+      "blink",
+      "blinker",
+      "blinks"
+    ],
+    "controls.neon.BlinkerMenu": [
+      "tell me my blink commands",
+      "tell me my blinker menu",
+      "tell me my blinker process menu"
+    ],
+    "controls.neon.Brain": [
+      "neon brain",
+      "brain",
+      "system brain",
+      "debug window"
+    ],
+    "controls.neon.CallYou": [
+      "i will call you",
+      "your new name is",
+      "change your name to"
+    ],
+    "controls.neon.Change": [
+      "change",
+      "switch",
+      "update",
+      "set"
+    ],
+    "controls.neon.Clap": [
+      "clappper",
+      "clapper process",
+      "clap commands",
+      "club commands",
+      "clapper",
+      "clap",
+      "clapp",
+      "claps"
+    ],
+    "controls.neon.ClapperMenu": [
+      "tell me my clap commands",
+      "tell me my clapper menu",
+      "tell me my clapper process menu"
+    ],
+    "controls.neon.Commands": [
+      "commands",
+      "actions",
+      "options",
+      "gestures"
+    ],
+    "controls.neon.ConfirmListening": [
+      "confirm listening",
+      "listening confirmation",
+      "ding"
+    ],
+    "controls.neon.ConfirmNo": [
+      "no",
+      "nevermind",
+      "never mind"
+    ],
+    "controls.neon.ConfirmYes": [
+      "yes",
+      "continue",
+      "go ahead",
+      "begin",
+      "start"
+    ],
+    "controls.neon.Decrease": [
+      "decrease",
+      "lower"
+    ],
+    "controls.neon.Deny": [
+      "deny",
+      "quit",
+      "end",
+      "disable"
+    ],
+    "controls.neon.Hesitation": [
+      "hesitation"
+    ],
+    "controls.neon.Increase": [
+      "increase",
+      "raise"
+    ],
+    "controls.neon.Location": [
+      "location"
+    ],
+    "controls.neon.Military": [
+      "military",
+      "24",
+      "european",
+      "full",
+      "metric"
+    ],
+    "controls.neon.MuteMic": [
+      "mute mic after silence",
+      "silence mic when I am silent",
+      "close mic if i am silent",
+      "mute microphone after silence",
+      "silence microphone when I am silent",
+      "close microphone if i am silent",
+      "stop listening after",
+      "silence my mic"
+    ],
+    "controls.neon.My": [
+      "my",
+      "my system"
+    ],
+    "controls.neon.Neon": [
+      "neon",
+      "leon",
+      "nyan"
+    ],
+    "controls.neon.OnStartup": [
+      "on startup",
+      "by default"
+    ],
+    "controls.neon.Permit": [
+      "permit",
+      "allow",
+      "start",
+      "begin",
+      "enable",
+      "turn on"
+    ],
+    "controls.neon.Scene": [
+      "scene",
+      "settings",
+      "set",
+      "preset"
+    ],
+    "controls.neon.SetChange": [
+      "set",
+      "change"
+    ],
+    "controls.neon.Settings": [
+      "setting",
+      "settings",
+      "gestures",
+      "gesture",
+      "action",
+      "commands",
+      "command",
+      "function"
+    ],
+    "controls.neon.Setup": [
+      "setup",
+      "set up",
+      "configuration",
+      "first run",
+      "calibrate"
+    ],
+    "controls.neon.Show": [
+      "showing",
+      "displaying",
+      "display",
+      "show"
+    ],
+    "controls.neon.Speed": [
+      "faster",
+      "slower",
+      "normally"
+    ],
+    "controls.neon.StartClapper": [
+      "clapper",
+      "clap",
+      "clapp",
+      "claps"
+    ],
+    "controls.neon.Talk": [
+      "talk to me"
+    ],
+    "controls.neon.TellMe": [
+      "tell me",
+      "what are",
+      "list"
+    ],
+    "controls.neon.Text": [
+      "text"
+    ],
+    "controls.neon.Threshold": [
+      "sensitivity",
+      "threshold"
+    ],
+    "controls.neon.Time": [
+      "time"
+    ],
+    "controls.neon.TimeZone": [
+      "timezone",
+      "time zone"
+    ],
+    "controls.neon.To": [
+      "to"
+    ],
+    "controls.neon.Transcription": [
+      "transcription",
+      "transcribing"
+    ],
+    "controls.neon.Transcription2": [
+      "transcription",
+      "text"
+    ],
+    "controls.neon.Transcription3": [
+      "audio",
+      "text"
+    ],
+    "controls.neon.Units": [
+      "units",
+      "measuring system"
+    ],
+    "controls.neon.WW": [
+      "wake word",
+      "ww",
+      "wake words",
+      "wakeword"
+    ],
+    "controls.neon.With": [
+      "with",
+      "while"
+    ],
     "countries.question": [
       "what",
       "how many",
@@ -2677,6 +2914,176 @@
     "deezer.music": [
       "music",
       "full album"
+    ],
+    "device-control-center.neon.Brands": [
+      "brand",
+      "brands",
+      "company",
+      "companies"
+    ],
+    "device-control-center.neon.Cache": [
+      "caches",
+      "cached",
+      "cache",
+      "cookies",
+      "cookie"
+    ],
+    "device-control-center.neon.ClearKeyword": [
+      "clear my user",
+      "i want to clear",
+      "i want to erase",
+      "clear all",
+      "clear my",
+      "clear the",
+      "erase all",
+      "erase my",
+      "erase the",
+      "delete all",
+      "delete my",
+      "delete the",
+      "reset all",
+      "reset my",
+      "reset the"
+    ],
+    "device-control-center.neon.ConfirmKeyword": [
+      "go ahead"
+    ],
+    "device-control-center.neon.Data": [
+      "data",
+      "info",
+      "information"
+    ],
+    "device-control-center.neon.Exit": [
+      "exit"
+    ],
+    "device-control-center.neon.Ignored": [
+      "dislikes",
+      "ignored",
+      "ignored brands"
+    ],
+    "device-control-center.neon.Language": [
+      "language",
+      "languages"
+    ],
+    "device-control-center.neon.Likes": [
+      "like",
+      "likes",
+      "liked brands",
+      "brands i like",
+      "what i like"
+    ],
+    "device-control-center.neon.Media": [
+      "pictures",
+      "picture",
+      "photos",
+      "photo",
+      "media",
+      "videos",
+      "video"
+    ],
+    "device-control-center.neon.Preferences": [
+      "preferences",
+      "settings",
+      "options"
+    ],
+    "device-control-center.neon.Primary": [
+      "primary",
+      "default"
+    ],
+    "device-control-center.neon.Profile": [
+      "profile",
+      "account"
+    ],
+    "device-control-center.neon.Random": [
+      "random"
+    ],
+    "device-control-center.neon.RequestKeyword": [
+      "i want you to"
+    ],
+    "device-control-center.neon.Selected": [
+      "selected",
+      "selected transcripts",
+      "selected transcriptions",
+      "selected transcript",
+      "selected transcription",
+      "transcribed likes"
+    ],
+    "device-control-center.neon.Transcription": [
+      "transcript",
+      "transcripts",
+      "transcription",
+      "transcriptions"
+    ],
+    "device-control-center.neon.neon": [
+      "neon",
+      "leon",
+      "nyan"
+    ],
+    "device-control-center.neon.no": [
+      "no",
+      "nope",
+      "nah",
+      "negative",
+      "nevermind",
+      "never mind"
+    ],
+    "device-control-center.neon.shutdown": [
+      "shutdown",
+      "shut down"
+    ],
+    "device-control-center.neon.solo": [
+      "solo mode"
+    ],
+    "device-control-center.neon.start": [
+      "start",
+      "begin",
+      "allow",
+      "enter"
+    ],
+    "device-control-center.neon.start_sww": [
+      "skip",
+      "begin skipping",
+      "allow skipping",
+      "start skipping"
+    ],
+    "device-control-center.neon.stop": [
+      "stop",
+      "end",
+      "quit",
+      "deny"
+    ],
+    "device-control-center.neon.stop_sww": [
+      "stop skipping",
+      "quit skipping",
+      "deny skipping",
+      "end skipping",
+      "require",
+      "use",
+      "begin requiring"
+    ],
+    "device-control-center.neon.update_neon": [
+      "update my neon device",
+      "update my device software",
+      "check for updates"
+    ],
+    "device-control-center.neon.ww": [
+      "wake words",
+      "awake words",
+      "weight words",
+      "wakewords",
+      "awakewords",
+      "weightwords"
+    ],
+    "device-control-center.neon.yes": [
+      "yes",
+      "yeah",
+      "yep",
+      "sure",
+      "please",
+      "confirm",
+      "confirmed",
+      "affirmative",
+      "go ahead"
     ],
     "dismissal-skill.Nevermind": [
       "nevermind",
@@ -5288,6 +5695,239 @@
       "silence",
       "shut up",
       "be quiet"
+    ],
+    "synonyms.neon.for": [
+      "to",
+      "for"
+    ],
+    "synonyms.neon.particles": [
+      "as",
+      "a"
+    ],
+    "synonyms.neon.set": [
+      "make",
+      "set",
+      "add"
+    ],
+    "synonyms.neon.synonym": [
+      "synonym",
+      "alias"
+    ],
+    "translation.neon.AgreementKeyword": [
+      "yes",
+      "sure",
+      "proceed",
+      "continue",
+      "begin",
+      "start",
+      "go ahead",
+      "lets do it",
+      "do it",
+      "of course",
+      "actually do",
+      "changed my mind"
+    ],
+    "translation.neon.DeclineKeyword": [
+      "no",
+      "dont",
+      "not",
+      "do not",
+      "stop",
+      "break",
+      "leave",
+      "quit",
+      "end",
+      "not now",
+      "that's enough",
+      "enough"
+    ],
+    "translation.neon.I_prefer": [
+      "i prefer",
+      "i choose"
+    ],
+    "translation.neon.Neon": [
+      "neon",
+      "leon",
+      "nyan"
+    ],
+    "translation.neon.OnlyOne": [
+      "only speak to me in one language",
+      "no secondary language",
+      "speak only in my primary language",
+      "only use primary for language",
+      "use only primary language",
+      "only use my primary language"
+    ],
+    "translation.neon.PreferredLanguage": [
+      "my language is",
+      "my preferred language is",
+      "i speak",
+      "my only language is",
+      "i only speak"
+    ],
+    "translation.neon.Settings": [
+      "tell me my language settings",
+      "what is my language",
+      "what is my input language",
+      "what are my input languages",
+      "what are my language settings"
+    ],
+    "translation.neon.ShowLanguageMenu": [
+      "show me language menu",
+      "language menu"
+    ],
+    "translation.neon.TalkToMeKeyword": [
+      "talk to me in",
+      "talk to me only in",
+      "speak to me in",
+      "speak to me only in",
+      "speak in",
+      "speak only in",
+      "tts in",
+      "my output language is",
+      "my output languages are"
+    ],
+    "translation.neon.TalkToYouKeyword": [
+      "i will speak to you",
+      "i will talk to you",
+      "i want to speak in",
+      "i want to talk in",
+      "i am speaking in",
+      "start listening for",
+      "starts listening for",
+      "stt in",
+      "my input language is"
+    ],
+    "translation.neon.Translate": [
+      "translate"
+    ],
+    "translation.neon.Two": [
+      "two",
+      "both",
+      "and"
+    ],
+    "translation.neon.gender": [
+      "male",
+      "female"
+    ],
+    "translation.neon.language": [
+      "arabic",
+      "chinese mandarin",
+      "mandarin chinese",
+      "danish",
+      "dutch",
+      "english australian",
+      "english british",
+      "english indian",
+      "english us",
+      "english welsh",
+      "australian english",
+      "british english",
+      "indian english",
+      "us english",
+      "welsh english",
+      "canadian french",
+      "french canadian",
+      "hindi",
+      "german",
+      "icelandic",
+      "italian",
+      "japanese",
+      "korean",
+      "norwegian",
+      "polish",
+      "portuguese brazilian",
+      "portuguese european",
+      "brazilian portuguese",
+      "european portuguese",
+      "romanian",
+      "russian",
+      "spanish european",
+      "spanish mexican",
+      "spanish us",
+      "european spanish",
+      "mexican spanish",
+      "us spanish",
+      "swedish",
+      "turkish",
+      "welsh",
+      "english",
+      "portuguese",
+      "spanish",
+      "chinese",
+      "french"
+    ],
+    "translation.neon.stt_language": [
+      "afrikaans",
+      "amharic",
+      "armenian",
+      "azerbaijani",
+      "indonesian",
+      "malay",
+      "bengali",
+      "catalan",
+      "czech",
+      "danish",
+      "german",
+      "english",
+      "english",
+      "spanish",
+      "spanish",
+      "spanish",
+      "basque",
+      "filipino",
+      "french",
+      "french",
+      "galician",
+      "georgian",
+      "gujarati",
+      "croatian",
+      "zulu",
+      "icelandic",
+      "italian",
+      "javanese",
+      "kannada",
+      "khmer",
+      "lao",
+      "latvian",
+      "lithuanian",
+      "hungarian",
+      "malayalam",
+      "marathi",
+      "dutch",
+      "nepali",
+      "norwegian",
+      "polish",
+      "portuguese",
+      "portuguese",
+      "romanian",
+      "sinhala",
+      "slovak",
+      "slovenian",
+      "sundanese",
+      "swahili",
+      "finnish",
+      "swedish",
+      "tamil",
+      "telugu",
+      "vietnamese",
+      "turkish",
+      "urdu",
+      "greek",
+      "bulgarian",
+      "russian",
+      "serbian",
+      "ukrainian",
+      "hebrew",
+      "arabic",
+      "persian",
+      "hindi",
+      "thai",
+      "korean",
+      "taiwanese",
+      "chinese",
+      "japanese",
+      "chinese"
     ],
     "trve-kvlt.black-metal": [
       "black metal"

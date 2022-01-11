@@ -1,0 +1,231 @@
+{
+  "ro-ro": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "da",
+      "nu",
+      "\u00cencearc\u0103 s\u0103 \u00eentrebi din nou mai tarziu",
+      "Categoric",
+      "Desigur c\u0103 nu",
+      "Sigur",
+      "Nu",
+      "De ce nu?",
+      "Nu a\u0219 paria pe asta",
+      "Pariezi!",
+      "Nu v\u0103 \u021bine\u021bi respira\u021bia"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "Asta e corect!",
+      "Ai inteles!",
+      "Corect!",
+      "Acesta este num\u0103rul!",
+      "Bun\u0103 treab\u0103!",
+      "Ai castigat!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "Care vrei s\u0103 fie limita inferioar\u0103?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "Care vrei s\u0103 fie limita superioar\u0103?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "Ghici num\u0103rul",
+      "care crede\u021bi c\u0103 este num\u0103rul",
+      "Ghici"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "Nu am putut s\u0103 \u00een\u021beleg ce ai spus",
+      "Sa \u00eent\u00e2mplat ceva \u00een timp ce \u00eencercam s\u0103 \u00een\u021beleg asta",
+      "A ap\u0103rut o eroare de intrare",
+      "Poti sa spui asta din nou?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "R\u0103spunsul a fost nevalid. Am nevoie de un num\u0103r",
+      "R\u0103spunde\u021bi cu un num\u0103r",
+      "Trebuie s\u0103 r\u0103spunde\u021bi cu un num\u0103r",
+      "Acesta nu e un num\u0103r"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "OK s\u0103 juc\u0103m",
+      "Sa inceapa jocul",
+      "Pornirea jocului",
+      "S\u0103 \u00eencepem",
+      "S\u0103 vedem ce ai",
+      "\u00cen regul\u0103. S\u0103 juc\u0103m ghiceste num\u0103rul"
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "Prea sus"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "Prea jos"
+    ],
+    "auto-volume-skill.activate": [
+      "Ok",
+      "Volum automat pornit",
+      "Am pornit volumul automat"
+    ],
+    "auto-volume-skill.deactivate": [
+      "Ok",
+      "Opre\u0219te volumul automat",
+      "Acum am oprit volumul automat"
+    ],
+    "auto-volume-skill.reset": [
+      "Am revenit la set\u0103rile ini\u021biale pentru volumul automat"
+    ],
+    "cocktail.NotFound": [
+      "Scuze, nu am g\u0103sit b\u0103utura solicitat\u0103",
+      "M\u0103 tem c\u0103 nu am putut g\u0103si asta"
+    ],
+    "cocktail.YouWillNeed": [
+      "Ve\u021bi avea nevoie de {ingredients} \u0219i {final_ingredient}",
+      "Ve\u021bi avea nevoie de {ingredients} \u0219i {final_ingredient}",
+      "Ingredienele necesare sunt: {ingredients} \u0219i {final_ingredient}"
+    ],
+    "count-skill.count_error": [
+      "Nu \u00een\u021beleg.",
+      "\u00eemi scap\u0103 ceva",
+      "Mai spune o dat\u0103",
+      "Scuze. Nu te-am auzit."
+    ],
+    "count-skill.count_start": [
+      "Num\u0103r p\u00e2n\u0103 la {number}. \u00eencep\u00e2nd de acum!"
+    ],
+    "count-skill.count_stop": [
+      "Gata!",
+      "Terminat!"
+    ],
+    "count-skill.countdown_start": [
+      "Num\u0103r\u0103 invers de la {number}. \u00cencep\u00e2nd de acum!"
+    ],
+    "count-skill.countdown_stop": [
+      "Gata!",
+      "Terminat!"
+    ],
+    "cut-up-skill.frag_type.set": [
+      "A fost selectat tipul de fragment {{frag_type}}."
+    ],
+    "cut-up-skill.maximum.set": [
+      "Dimensiunea maxim\u0103 a segmentului este setat\u0103 la {{max}}."
+    ],
+    "cut-up-skill.minimum.set": [
+      "Dimensiunea minim\u0103 a segmentului este setat\u0103 la {{min}}."
+    ],
+    "cut-up-skill.randomness.set": [
+      "Nivelul de aleatoriu a fost setat la {{rand}} procente."
+    ],
+    "dice-skill.multiple.modificator.result": [
+      "Numerele tale sunt {result} \u0219i au suma {total}"
+    ],
+    "dice-skill.multiple.result": [
+      "Numerele sunt {result}"
+    ],
+    "dice-skill.range.needed": [
+      "E nevoie s\u0103 specifica\u021bi un interval",
+      "Am nevoie de un interval pentru a face asta",
+      "Spune-mi din ce interval vrei s\u0103 fac\u0103 parte numerele"
+    ],
+    "dice-skill.single.modificator.result": [
+      "Rezultatul este {total}. "
+    ],
+    "dice-skill.single.result": [
+      "Rezultatul este {result}.",
+      "Num\u0103rul t\u0103u este {result}"
+    ],
+    "email-skill.error.getting.email": [
+      "A ap\u0103rut o eroare la preluarea mesajelor Verifica datele \u0219i set\u0103rile serverului",
+      "Verifica\u021bi informa\u021biile de autentificare \u0219i informa\u021bii despre server deoarece a ap\u0103rut o problem\u0103 la primirea coresponden\u021bei",
+      "Nu m\u0103 pot conecta la serverul de e-mail Verifica\u021bi parola \u0219i informa\u021biile despre server"
+    ],
+    "email-skill.list.subjects": [
+      "num\u0103rul {message_num} este de la {sender} Subiectul s\u0103u este {subject}",
+      "subiectului mesajului num\u0103rul {message_num} este {subject} De la {sender}",
+      "mesajul num\u0103rul {message_num} este de la {sender} Subiectul s\u0103u este {subject}"
+    ],
+    "email-skill.more.emails": [
+      "a\u021bi dori s\u0103 auzi\u021bi mai mult",
+      "dori\u021bi s\u0103 auzi\u021bi mai multe e-mailuri",
+      "vrei sa mai auzi"
+    ],
+    "email-skill.no.more.emails": [
+      "okay"
+    ],
+    "email-skill.no.new.email": [
+      "Nu exist\u0103 niciun e-mail nou",
+      "Nu exist\u0103 niciun e-mail nou",
+      "Nu exist\u0103 niciun e-mail nou",
+      "Nu exist\u0103 niciun e-mail nou",
+      "Nu exist\u0103 niciun e-mail nou pentru tine",
+      "Nu exist\u0103 niciun e-mail nou pentru tine",
+      "Nu ave\u021bi nicio coresponden\u021b\u0103 nou\u0103",
+      "Nu ave\u021bi niciun e-mail nou"
+    ],
+    "email-skill.setup": [
+      "Pentru a seta abilitatea de e-mail \u00een sus, v\u0103 rug\u0103m s\u0103 merge\u021bi la home punct mycroft punct a i pentru a introduce informa\u021biile de e-mail",
+      "Trebuie s\u0103 configura\u021bi abilitatea de e-mail Pentru a face acest lucru, v\u0103 rug\u0103m s\u0103 merge\u021bi la home punct mycroft punct a i pentru a introduce informa\u021biile de e-mail"
+    ],
+    "emby-skill.emby": [
+      "Reda\u021bi mixul {media}"
+    ],
+    "fallback-aiml.reset.memory": [
+      "Resetarea bazei de date a cuno\u0219tin\u021belor",
+      "Uit\u00e2nd totul",
+      "Bine, acum \u00eemi voi reseta memoria",
+      "\u00cenl\u0103turarea creierului a fost ini\u021biat\u0103"
+    ],
+    "iss-tracker-skill.location.current": [
+      "I S S este deasupra {{latitude}} latitudine {{longitude}} longitudine care corespunde cu {{toponym}}",
+      "Sta\u021bia spa\u021bial\u0103 este la {{latitude}} latitudine {{longitudine}} longitudine peste {{toponym}}",
+      "Este la {{latitude}} longitudine latitudine {{longitude}}, peste {{toponym}}",
+      "Sta\u021bia spa\u021bial\u0103 interna\u021bional\u0103 este acum peste {{toponym}} la {{latitude}} latitudine {{longitude}} longitudine",
+      "Peste {{toponym}} la {{latitude}} latitudine \u0219i {(longitude}} longitudine"
+    ],
+    "iss-tracker-skill.location.unknown": [
+      "Ne pare r\u0103u {{latitude}} latitudine {{longitude}} longitudine nu este cunoscut\u0103",
+      "Ne pare r\u0103u Sta\u021bia spa\u021bial\u0103 este la {{latitude}} latitudine {{longitudine}} longitudine, dar nu \u0219tiu unde este asta",
+      "Este la {{latitude}} latitudine {{longitude}} longitudine care nu este codificat\u0103 \u00een baza de date",
+      "ISS este acum deasupra {{latitude}} latitudine {{longitude}} longitudine, dar nu exist\u0103 nicio denumire geografic\u0103 asociat\u0103"
+    ],
+    "krunner-search-skill.krunner.recent": [
+      "Afi\u0219area fi\u0219ierelor recente"
+    ],
+    "krunner-search-skill.krunner.search": [
+      "Caut local pentru {{Query}}"
+    ],
+    "picroft-google-aiy-voicekit-skill.error.initialize": [
+      "Am probleme cu ini\u021bializarea Abilitati de voce Google A I Y. Abilitatea nu se \u00eencarc\u0103. "
+    ],
+    "plasma-activities-skill.activities.create": [
+      "Activitatea dvs. {{ ActivityName }} a fost creat\u0103"
+    ],
+    "plasma-activities-skill.activities.remove": [
+      "Activitatea a fost eliminat\u0103"
+    ],
+    "plasma-activities-skill.activities.show": [
+      "Afi\u0219area activit\u0103\u021bilor"
+    ],
+    "plasma-activities-skill.activities.stop": [
+      "activitatea {{ StopActivityName }} a fost oprit\u0103"
+    ],
+    "plasma-activities-skill.activities.switch": [
+      "Trecere la activitatea {{SwitchActivityName}}  "
+    ],
+    "query.noAnswer": [
+      "\u00cemi pare r\u0103u, nu \u0219tiu r\u0103spunsul la asta",
+      "Nu am r\u0103spunsul pentru asta",
+      "Nu \u0219tiu",
+      "Nu am idee"
+    ],
+    "white-house-adventure.LeavingZork": [
+      "L\u0103s\u00e2nd \u00eemp\u0103r\u0103\u021bia misterioas\u0103 din Zork",
+      "Plec\u00e2nd acum de la Zork",
+      "Plec\u00e2nd de la Zork"
+    ],
+    "white-house-adventure.NoSave": [
+      "Nu exist\u0103 nici o salvare curent\u0103",
+      "Nu exist\u0103 niciun joc de salvare"
+    ],
+    "white-house-adventure.SaveDeleted": [
+      "Joc salvat sters",
+      "Eliminat jocul salvat"
+    ]
+  }
+}

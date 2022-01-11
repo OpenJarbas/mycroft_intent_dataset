@@ -1,0 +1,359 @@
+{
+  "da-dk": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "ja",
+      "Nej",
+      "Pr\u00f8v at sp\u00f8rge igen senere",
+      "Helt sikkert",
+      "Selvf\u00f8lgelig ikke",
+      "Helt sikkert",
+      "Nope",
+      "Hvorfor ikke?",
+      "Jeg ville ikek v\u00e6dde om det",
+      "Helt klart!",
+      "Hold ikek vejret"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "Det er rigtigt!",
+      "Du fik den!",
+      "Korrekt!",
+      "Det er nummeret!",
+      "Godt arbejde!",
+      "Du vinder!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "Hvad skal den nedre gr\u00e6nse v\u00e6re?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "Hvad skal den \u00f8vre gr\u00e6nse v\u00e6re?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "G\u00e6t nummeret",
+      "Hvad tror du nummeret er",
+      "G\u00e6t"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "Jeg kunne ikke forst\u00e5 hvad du sagde",
+      "Noget gik galt da jeg fors\u00f8gte at forst\u00e5 det",
+      "En input fejl opstod",
+      "Kunne du gentage det?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "Det svar var ugyldigt. Jeg skal bruge et nummer",
+      "Svar venligst med et nummer",
+      "Du skal svare med et nummer",
+      "Det er ikke et nummer"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "OK lad os spille",
+      "Lad spillet begynde",
+      "Starter spillet",
+      "Lad os starte",
+      "Lad os se hvad du kan",
+      "Alright. Lad os spille G\u00e6t Nummer"
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "For h\u00f8jt"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "For lavt"
+    ],
+    "auto-volume-skill.activate": [
+      "OK",
+      "Auto volume aktiveret",
+      "Jeg har aktiveret auto volume"
+    ],
+    "auto-volume-skill.deactivate": [
+      "OK",
+      "Auto volume er deaktiveret",
+      "Jeg har nu deaktiveret auto volume"
+    ],
+    "auto-volume-skill.reset": [
+      "Jeg har nu resat auto volume"
+    ],
+    "cocktail.NotFound": [
+      "Beklager, jeg kunne ikke finde den \u00e6nskede drink",
+      "Jeg er bange for jeg ikke kan finde den"
+    ],
+    "cocktail.YouWillNeed": [
+      "Du beh\u00f8ver {ingredients} og {final_ingredient}",
+      "Du beh\u00f8ver {ingredients} og {final_ingredient}",
+      "De n\u00f8dvendige indgridienter er: {ingredients} og {final_ingredient}"
+    ],
+    "count-skill.count_error": [
+      "Jeg forst\u00e5r det ikke.",
+      "Jeg mangler noget.",
+      "Gentag?",
+      "Undskyld. Jeg h\u00f8rte det ikke."
+    ],
+    "count-skill.count_start": [
+      "T\u00e6ller til {number}. Starter nu!"
+    ],
+    "count-skill.count_stop": [
+      "Gjort!",
+      "Slut!"
+    ],
+    "count-skill.countdown_start": [
+      "Nedt\u00e6lling fra {number}. Starter nu!"
+    ],
+    "count-skill.countdown_stop": [
+      "Gjort!",
+      "Slut!"
+    ],
+    "dice-skill.multiple.modificator.result": [
+      "Dina tal er {result} tilf\u00f8jet til totalen {total}"
+    ],
+    "dice-skill.multiple.result": [
+      "Dine numrer er {result}"
+    ],
+    "dice-skill.range.needed": [
+      "Du skal specificere et interval",
+      "Jeg beh\u00f8ver et interval for at g\u00f8re det",
+      "Fort\u00e6l mig hvilket interval du \u00f8nsker dine numrer fra"
+    ],
+    "dice-skill.single.modificator.result": [
+      "Resultatet er {total}."
+    ],
+    "dice-skill.single.result": [
+      "Resultatet er {result}.",
+      "Dit nummer er {result}"
+    ],
+    "email-skill.error.getting.email": [
+      "Der opstod en fejl ved at f\u00e5 din email Pr\u00f8v at kontrollere dine legitimationsoplysninger og serveroplysninger",
+      "Tjek dine legitimationsoplysninger og serveroplysninger, fordi der var et problem at f\u00e5 din mail",
+      "Jeg kan ikke oprette forbindelse til din e-mail-server Tjek din adgangskode og serverinformation"
+    ],
+    "email-skill.list.subjects": [
+      "nummer {message_num} er fra {sender} Dets emne er {subject}",
+      "nummer {message_num} s emne er {subject} Dens fra {sender}",
+      "Meddelelsesnummer {message_num} er fra {sender} Dets emne er {subject}"
+    ],
+    "email-skill.more.emails": [
+      "Vil du h\u00f8re mere",
+      "vil du h\u00f8re flere af dine emails",
+      "vil du h\u00f8re mere"
+    ],
+    "email-skill.no.more.emails": [
+      "O K"
+    ],
+    "email-skill.no.new.email": [
+      "Der er ingen nye email",
+      "Der er ingen nye email",
+      "Der er ingen ny mail",
+      "Der er ikke nogen nye mail",
+      "Der er ikke nogen nye emil til dig",
+      "Der er ikke nye email til dig",
+      "Du har ingen nye mail",
+      "Du har ingen nye email"
+    ],
+    "email-skill.setup": [
+      "For at indstille e-mail-f\u00e6rdighederne, skal du g\u00e5 til hjemmesiden dot mycroft dot a i for at indtaste dine e-mail-oplysninger",
+      "Du skal indstille e-mail-f\u00e6rdighederne For at g\u00f8re det, skal du g\u00e5 til hjemmesiden dot mycroft dot a i for at indtaste dine e-mail-oplysninger"
+    ],
+    "emby-skill.emby": [
+      "Spiller {media} mix"
+    ],
+    "fallback-aiml.reset.memory": [
+      "Nulstiller vidensdatabasen",
+      "Glem alt",
+      "O K. Jeg vil nulstille min hukommelse",
+      "Hjerne sletning p\u00e5begyndt"
+    ],
+    "fallback-recommendations-skill.skill.download.confirmation": [
+      "Skillen {{skill_name}} kan g\u00f8re det for dig. Vil du have, at jeg downloader den?",
+      "Jeg har fundet en skill kaldet {{skill_name}}, som kunne hj\u00e6lpe dig. Vil du have, at jeg downloader den?"
+    ],
+    "fallback-recommendations-skill.skill.download.refused": [
+      "O K.",
+      "Fint."
+    ],
+    "fallback-recommendations-skill.skill.downloading": [
+      "Et \u00f8jeblik, jeg downloader {{skill_name}} skill.",
+      "Et \u00f8jeblik, jeg downloader {{skill_name}} skill.",
+      "Et \u00f8jeblik, jeg downloader {{skill_name}}.",
+      "O K, lad mig doawnloade {{skill_name}}.",
+      "Vent et \u00f8jeblik mens jeg downloader {{skill_name}}.",
+      "O K, Jeg downloader {{skill_name}}."
+    ],
+    "iss-tracker-skill.location.current": [
+      "I S S er over {{latitude}} l\u00e6ngdegrad {{longitude}} bredegrad som passer med {{toponym}}",
+      "Rumstationener p\u00e5 {{latitude}} bredegrad {{longitude}} l\u00e6ngdegrad over {{toponym}}",
+      "Den er p\u00e5 {{latitude}} bredegrad {{longitude}} l\u00e6ngdegrad, over {{toponym}}",
+      "Den internationale rmstation er nu over {{toponym}} p\u00e5 {{latitude}} bredegrad {{longitude}} l\u00e6ngdegrad",
+      "Over {{toponym}} p\u00e5 {{latitude}} bredegrad og {{longitude}} l\u00e6ngdegrad"
+    ],
+    "iss-tracker-skill.location.unknown": [
+      "Beklager {{latitude}} bredegrad {{longitude}} l\u00e6ngdegrad er ikke kendt",
+      "Beklager, Rumstationen er p\u00e5 {{latitude}} bredegrad {{longitude}} l\u00e6ngdegrad men jeg ved ikke hvor det er",
+      "Den er p\u00e5 {{latitude}} bredegrad {{longitude}} l\u00e6ngdegrad som ikke er i databasen",
+      "ISS er nu over {{latitude}} bredegrad {{longitude}} l\u00e6ngdegrad men der er ikke nogen geographisk oplysning om hvor det er."
+    ],
+    "laugh.cancel": [
+      "latter stoppet",
+      "jeg vil ikek grine mere"
+    ],
+    "laugh.cancel_fail": [
+      "Jeg griner ikke"
+    ],
+    "learning-skill.add.category": [
+      "Jeg anerkendte en ny kategori {{cat}}, hvad vil du kalde det?"
+    ],
+    "learning-skill.answer": [
+      "hvad skal jeg vide om det"
+    ],
+    "learning-skill.begin.learning": [
+      "Jeg kan godt lide at l\u00e6re Hvilken kategori er det?",
+      "Jeg h\u00f8rer, Kan du venligst give mig en kategori?",
+      "Det er jeg sikker p\u00e5, Jeg er meget nysgerrig. Giv mig bare en anden kategori",
+      "Viden g\u00f8r mig mere menneskelig, Giv mig en kategori."
+    ],
+    "learning-skill.begin.private": [
+      "Jeg kan v\u00e6re stille som en grav, Hvilken kategori er det?",
+      "Jeg ville ikke fort\u00e6lle noget, Kan du venligst give mig en kategori?",
+      "det forbliver hos os, giv mig bare en anden kategori",
+      "Jeg vil ikke fort\u00e6lle noget, giv mig bare en kategori"
+    ],
+    "learning-skill.invalid.category": [
+      "Ukendt kategori, mulig: k\u00e6rlighed, humor eller videnskab eller du kan sige afbryd for at afbryde"
+    ],
+    "learning-skill.keywords": [
+      "giv mig nogle n\u00f8gleord"
+    ],
+    "learning-skill.line": [
+      "{line}"
+    ],
+    "learning-skill.question": [
+      "hvad er dit sp\u00f8rgsm\u00e5l",
+      "hvad er sp\u00f8rgsm\u00e5let"
+    ],
+    "learning-skill.save.learn": [
+      "S\u00e5 sp\u00f8rgsm\u00e5let {{question}} kan besvares med {{answer}}?"
+    ],
+    "moviemaster.bad.genre.catagory": [
+      "Jeg kan ikke finde nogen film med genren {genre}",
+      "Jeg kan ikke finde nogen film med genren {genre}"
+    ],
+    "moviemaster.genre.movie.search": [
+      "filmene med genren {genre} er;"
+    ],
+    "moviemaster.genre.tv.search": [
+      "tv serier med genren {genre} er;",
+      "tv shows med genren {genre} er;",
+      "fjernsyn serier med genren {genre} er;",
+      "fjernsyn shows med genren {genre} er;"
+    ],
+    "moviemaster.movie.cast": [
+      "Her er casten af \u200b\u200b{movie}",
+      "F\u00f8lgende personer act i filmen {movie}",
+      "F\u00f8lgende personer play i filmen {movie}",
+      "F\u00f8lgende personer star i filmen {movie}"
+    ],
+    "moviemaster.movie.description": [
+      "filmen {movie} handler om dette. {overview}",
+      "her er en oversigt over filmen {movie}. {overview}"
+    ],
+    "moviemaster.movie.genre.multiple": [
+      "Filmen flick findes i en af \u200b\u200bgenrene {genrelist}",
+      "Filmen film findes i en af \u200b\u200bgenrene {genrelist}",
+      "Filmen film findes i en af \u200b\u200bgenrene {genrelist}",
+      "Folk overvejer film en {genrelist}",
+      "Folk overvejer film en {genrelist}"
+    ],
+    "moviemaster.movie.genre.single": [
+      "The film {movie} kunne overvejes en {genre}",
+      "The movie {movie} kunne overvejes en {genre}",
+      "Du kan finde flick {movie} i sektionen {genre}",
+      "Du kan finde film {movie} i sektionen {genre}"
+    ],
+    "moviemaster.movie.info.response": [
+      "{movie} blev udgivet den {year} med et budget p\u00e5 {budget} dollars."
+    ],
+    "moviemaster.movie.popular": [
+      "De nyeste popul\u00e6re film der er ude nu er {popul\u00e6rliste}.",
+      "{popularlist} top filmen charts lige nu."
+    ],
+    "moviemaster.movie.production.multiple": [
+      "Virksomhederne {companies} producerede filmen {movie}",
+      "{companies} producerede filmen {movie}"
+    ],
+    "moviemaster.movie.production.single": [
+      "Produktionsselskabet {company} producerede filmen {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "Jeg anbefaler filmmene {movielist}, hvis du kan lide filmen flicken {movie}",
+      "Jeg anbefaler filmmene {movielist}, hvis du kan lide filmen filnen {movie}",
+      "Filmerne {movielist} er et godt valg, hvis du kan lide filmen {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "Filmen {movie}, varer i {runtime} minutter.",
+      "Filmen {movie} er {runtime} minutter lang.",
+      "Hvis du ser {movie}; Du kan forvente omkring {runtime} minutter, f\u00f8r du kan f\u00e5 en tissepause."
+    ],
+    "moviemaster.movie.top": [
+      "Dette er den mest popul\u00e6re film der spiller nu; {Topliste}",
+      "Dette er den mest popul\u00e6re film ude nu; {Topliste}",
+      "Dette er top film der spiller nu; {Topliste}",
+      "Dette er top film ude nu; {Topliste}",
+      "{toplist} er den mest popul\u00e6re film der spiller nu.",
+      "{toplist} er den mest popul\u00e6re film ude nu.",
+      "{toplist} er top film der spiller nu.",
+      "{toplist} er top film ude nu."
+    ],
+    "moviemaster.movie.year": [
+      "filmen {movie} blev lavet i {year}",
+      "filmen {movie} blev udgivet i \u00e5ret {year}"
+    ],
+    "moviemaster.no.info": [
+      "Undskyld. Jeg kan ikke finde nogen oplysninger om filmen {movie}",
+      "Undskyld. Jeg kan ikke finde nogen oplysninger om film {movie}"
+    ],
+    "moviemaster.no.info.general": [
+      "Jeg er ked af det, jeg kan ikke finde den liste, du leder efter lige nu; sp\u00f8rg igen senere."
+    ],
+    "picroft-google-aiy-voicekit-skill.error.initialize": [
+      "Jeg har problemer med at starte Google AIY stemme skill. Denne skill vil ikke blive startet."
+    ],
+    "remember-skill.delete": [
+      "Skal jeg slette frasen: {{PHRASE}}?"
+    ],
+    "remember-skill.deleteall": [
+      "Skal jeg slette alt jeg har husket for dig?"
+    ],
+    "remember-skill.forgotten": [
+      "Det er glemt."
+    ],
+    "remember-skill.gotphrase": [
+      "Jeg vil huske {{REMEMBER}} for dig.."
+    ],
+    "remember-skill.holdon": [
+      "Jeg vil holde p\u00e5 denne frase."
+    ],
+    "remember-skill.iremembered": [
+      "Jeg husker: {{REMEMBER}}."
+    ],
+    "remember-skill.short": [
+      "Jeg kan kun huske s\u00e6tninger og ord der er l\u00e6ngere end fire karakterer. Venligst omformul\u00e9r dig."
+    ],
+    "remember-skill.sorry": [
+      "Jeg beklager, jeg kan ikke huske nogen fraser!"
+    ],
+    "remember-skill.sorryforget": [
+      "Jeg beklager, der er sket en fejl, s\u00e5 jeg kunne ikke glemme noget!"
+    ],
+    "remember-skill.sorrynophrase": [
+      "Jeg beklager, jeg kunne ikke finde en frase der matcher din foresp\u00f8rgsel."
+    ],
+    "speedtest-skill.error": [
+      "Der opstod en fejl, jeg kunne ikke foretage en hastighedstest... beklager."
+    ],
+    "speedtest-skill.result": [
+      "Din downloadhastighed er {{DOWN}} Megabit per sekund og din uploadhastighed er {{UP}} Megabit per sekund."
+    ],
+    "speedtest-skill.running": [
+      "Starter hastighedstest nu, jeg er tilbage med resultaterne om et \u00f8jeblik."
+    ],
+    "wikiquote-skill.notfound": [
+      "Jeg fandt ingen {{subject}} citater"
+    ]
+  }
+}

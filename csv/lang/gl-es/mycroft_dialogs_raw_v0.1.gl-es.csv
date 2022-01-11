@@ -1,0 +1,114 @@
+gl-es,Crystal-Ball-Mycroft-Skill.random.answer,Si
+gl-es,Crystal-Ball-Mycroft-Skill.random.answer,Non
+gl-es,Crystal-Ball-Mycroft-Skill.random.answer,Intenta despois preguntar de novo
+gl-es,Crystal-Ball-Mycroft-Skill.random.answer,Certamente
+gl-es,Crystal-Ball-Mycroft-Skill.random.answer,Claro que non
+gl-es,Crystal-Ball-Mycroft-Skill.random.answer,Claro
+gl-es,Crystal-Ball-Mycroft-Skill.random.answer,Non
+gl-es,Crystal-Ball-Mycroft-Skill.random.answer,Por que non?
+gl-es,Crystal-Ball-Mycroft-Skill.random.answer,Eu non contaría con iso
+gl-es,Crystal-Ball-Mycroft-Skill.random.answer,Podes apostar!
+gl-es,Crystal-Ball-Mycroft-Skill.random.answer,Non conte con iso
+gl-es,Number-Guess-Mycroft-Skill.correct,Iso é!
+gl-es,Number-Guess-Mycroft-Skill.correct,Pilláchelo!
+gl-es,Number-Guess-Mycroft-Skill.correct,Correcto!
+gl-es,Number-Guess-Mycroft-Skill.correct,Ese é o número!
+gl-es,Number-Guess-Mycroft-Skill.correct,Bo traballo!
+gl-es,Number-Guess-Mycroft-Skill.correct,Gañaches!
+gl-es,Number-Guess-Mycroft-Skill.get.lower,Cal queres que sexa o límite inferior?
+gl-es,Number-Guess-Mycroft-Skill.get.upper,Cal queres que sexa o límite superior?
+gl-es,Number-Guess-Mycroft-Skill.guess,Adiviña o número
+gl-es,Number-Guess-Mycroft-Skill.guess,Que número pensas que é
+gl-es,Number-Guess-Mycroft-Skill.guess,Adiviña
+gl-es,Number-Guess-Mycroft-Skill.input.error,Non conseguín entender o que dis
+gl-es,Number-Guess-Mycroft-Skill.input.error,Algo está indo mal mentres intentaba entender isto
+gl-es,Number-Guess-Mycroft-Skill.input.error,Ocorreu un erro de entrada
+gl-es,Number-Guess-Mycroft-Skill.input.error,Podes dicir iso de novo?
+gl-es,Number-Guess-Mycroft-Skill.invalid.input,Esa resposta non foi válida. Necesito un número
+gl-es,Number-Guess-Mycroft-Skill.invalid.input,Por favor responde cun número
+gl-es,Number-Guess-Mycroft-Skill.invalid.input,Necesitas responder cun número
+gl-es,Number-Guess-Mycroft-Skill.invalid.input,Non é un número
+gl-es,Number-Guess-Mycroft-Skill.start.game,Moi ben xoguemos
+gl-es,Number-Guess-Mycroft-Skill.start.game,Deixemos que o xogo comece
+gl-es,Number-Guess-Mycroft-Skill.start.game,Iniciando o xogo
+gl-es,Number-Guess-Mycroft-Skill.start.game,Comecemos
+gl-es,Number-Guess-Mycroft-Skill.start.game,Vexamos o que tes
+gl-es,Number-Guess-Mycroft-Skill.start.game,Vale. Xoguemos a Adiviña o número
+gl-es,Number-Guess-Mycroft-Skill.too.high,Demasiado alto
+gl-es,Number-Guess-Mycroft-Skill.too.low,Demasiado baixo
+gl-es,cocktail.NotFound,Desculpa eu non conseguín atopar a bebida que pediches
+gl-es,cocktail.NotFound,Estou preocupado non conseguín atopar iso
+gl-es,cocktail.YouWillNeed,Precisará {ingredients} e {final_ingredient}
+gl-es,cocktail.YouWillNeed,Precisará {ingredients} e {final_ingredient}
+gl-es,cocktail.YouWillNeed,Os ingredientes necesarios son: {ingredients} e {final_ingredient}
+gl-es,email-skill.already.looking.for.all,Xa estou procurando por novos correos electrónicos
+gl-es,email-skill.already.looking.for.all,Xa estaba procurando novos correos electrónicos
+gl-es,email-skill.already.looking.for.all,Xa estou procurando por novos correos electrónicos
+gl-es,email-skill.already.looking.for.specific,Xa estou procurando por correos electrónicos de {email}
+gl-es,email-skill.already.looking.for.specific,Xa procurei novos correos electrónicos de {email}
+gl-es,email-skill.already.looking.for.specific,Xa estou procurando por correos de {email}
+gl-es,email-skill.cancel.looking.for.all.look.specific,Actualmente estou procurando polos novos emails queres que eu che notifique só os correos de {email}
+gl-es,email-skill.cancel.looking.for.all.look.specific,Xa estaba procurando por novos correos queres que eu che notifique só os novos correos de {email}
+gl-es,email-skill.cancel.looking.for.specific.look.all,Xa estou procurando por {email} queres que eu procure por todos os novos correos no canto diso?
+gl-es,email-skill.cancel.looking.for.specific.look.all,Agora mesmo estou procurando só por correos de {email} No canto disto queres que procure todos os correos?
+gl-es,email-skill.cancel.looking.for.specific.look.all,Queres que procure por todos os correos en vez de procurar por só correos de {email}?
+gl-es,email-skill.error.getting.mail,Ocorreu un erro ao obter o seu correo. Intente verificar as suas credenciais e informacións do servidor.
+gl-es,email-skill.error.getting.mail,Verifique as suas credenciais e informacións do servidor porque houbo un problema ao obter o seu correo
+gl-es,email-skill.error.getting.mail,Non consigo conectarme ao seu servidor de correo. Verifique o seu contrasinal e as informacións do servidor.
+gl-es,email-skill.list.subjects,O correo {message_num} é de {sender}. O asunto é sobre {subject}.
+gl-es,email-skill.list.subjects,O asunto do {message_num} correo é sobre {subject}. É de {sender}.
+gl-es,email-skill.more.emails,queres oír máis?
+gl-es,email-skill.more.emails,queres oír máis correos teus?
+gl-es,email-skill.more.emails,queres oír máis?
+gl-es,email-skill.no.emails.from,Non hai correos de {sender}
+gl-es,email-skill.no.emails.from,Non hai correos de {sender}
+gl-es,email-skill.no.emails.from,Non recibiu ningún correo de {sender}
+gl-es,email-skill.no.more.emails,Moi ben
+gl-es,email-skill.no.new.email,Non hai novos correos
+gl-es,email-skill.no.new.email,Non hai novos correos
+gl-es,email-skill.no.new.email,Non hai ningún correo electrónico novo
+gl-es,email-skill.no.new.email,Non hai ningún correo electrónico novo
+gl-es,email-skill.no.new.email,Non tes ningún correo novo
+gl-es,email-skill.no.new.email,Non tes ningún correo novo
+gl-es,email-skill.no.new.email,Non tes ningún correo novo
+gl-es,email-skill.no.new.email,Non tes ningún correo novo
+gl-es,email-skill.not.looking.for,Actualmente non estou procurando correos de {email}
+gl-es,email-skill.not.looking.for,Non estou procurando por correos de {email}
+gl-es,email-skill.not.looking.for,Agora mesmo non estou procurando por correos de {email}
+gl-es,email-skill.notify.read.email,Tes {size} novos correos. Queres escoitalos?
+gl-es,email-skill.notify.read.email,Hai {size} novos correos. Queres escoitalos?
+gl-es,email-skill.notify.read.email,Queres escoitar os teus {size} correos?
+gl-es,email-skill.poll.emails.not.started,Non estou procurando por novos correos
+gl-es,email-skill.poll.emails.not.started,Actualmente non estou procurando por novos correos
+gl-es,email-skill.setup,Para configurar a habilidade do correo por favor vai a home punto mycroft punto a i para inserir a súa información do correo.
+gl-es,email-skill.setup,Precisas configurar a habilidade do correo. Para facer iso por favor vai a home punto mycroft punto a i para inserir a súa información do correo.
+gl-es,email-skill.start.poll.email,Notificareiche cando teñas un novo correo
+gl-es,email-skill.start.poll.email,Moi ben comezarei a notificarche cando teñas un novo correo
+gl-es,email-skill.start.poll.email,Estou comezando a procurar novos correos
+gl-es,email-skill.stop.looking.for,Vou parar de procurar novos correos de {email}
+gl-es,email-skill.stop.looking.for,Moi ben vou parar de procurar novos correos de {email}
+gl-es,email-skill.stop.poll.emails,Moi ben vou parar de procurar novos correos
+gl-es,email-skill.stop.poll.emails,Vale non procurarei novos correos máis
+gl-es,email-skill.stop.poll.emails.last.email.removed,Parei de procurar novos emails porque non existe ningún enderezo electrónico do cal queiras ser notificado
+gl-es,email-skill.update.notify.data,Eu actualicei as preferencias do teu correo electrónico
+gl-es,email-skill.update.notify.data,Vale eu actualicei as preferencias do teu correo electrónico
+gl-es,emby-skill.configuration_fail,Non foi posible conectarse ao servidor Emby. Verifica ou defina a súa configuración en home.mycroft.ai
+gl-es,emby-skill.configuration_success,Conectado con éxito ao servidor Emby en {hostname}
+gl-es,emby-skill.diag_auth_fail,Non consigo autentificarme ao servidor Emby. Verifica ou defina a súa configuración en home.mycroft.ai
+gl-es,emby-skill.diag_auth_success,Autentifiqueime con éxito ao servidor Emby!
+gl-es,emby-skill.diag_public_info_fail,O servidor Emby en {host} non parece accesible ou non está respondendo.
+gl-es,emby-skill.diag_public_info_success,Ben! Podo acceder a {ServerName} localizado en {LocalAddress} versión en execución {Version}. Intentando autentificar.
+gl-es,emby-skill.diag_start,Vou executar un diagnóstico de verificación da conexión da habilidade Emby. Isto verificará se o servidor está accesible e se eu conseguirei autentificarme.
+gl-es,emby-skill.diag_stop,O diagnóstico non continuará.
+gl-es,emby-skill.diagnostic,O diagnóstico está completo. Podo conectar e autentificarme no servidor Emby. Agora é hora de tocar música! 
+gl-es,emby-skill.emby,Tocando {media}
+gl-es,emby-skill.general_check_settings_logs,Por favor comproba as túas configuracións no Mycroft.ai. Se ese problema persistir comproba os inicios de Mycroft para obter máis información.
+gl-es,emby-skill.play_fail,Non foi posible atopar ou reporsucir {media}. Por favor inténteo de novo.
+gl-es,emby-skill.play_fail,Non foi posible atopar ou reporducir {media}. Por favor inténtao novamente. Se isto continúa comproba a súa configuración en home.mycroft.ai
+gl-es,white-house-adventure.LeavingZork,Deixando o misterioso reino de Zork
+gl-es,white-house-adventure.LeavingZork,Saíndo agora de Zork
+gl-es,white-house-adventure.LeavingZork,Saíndo de Zork
+gl-es,white-house-adventure.NoSave,Non hai ningún partida agora
+gl-es,white-house-adventure.NoSave,Non existe ningunha partida gardada
+gl-es,white-house-adventure.SaveDeleted,partida gardada eliminada
+gl-es,white-house-adventure.SaveDeleted,Eliminada a partida gardada

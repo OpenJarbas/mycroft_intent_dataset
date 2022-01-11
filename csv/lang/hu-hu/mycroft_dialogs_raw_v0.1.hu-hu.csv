@@ -1,0 +1,77 @@
+hu-hu,Crystal-Ball-Mycroft-Skill.random.answer,Igen
+hu-hu,Crystal-Ball-Mycroft-Skill.random.answer,Nem
+hu-hu,Crystal-Ball-Mycroft-Skill.random.answer,Kérdezz újra később
+hu-hu,Crystal-Ball-Mycroft-Skill.random.answer,Kétségtelenül
+hu-hu,Crystal-Ball-Mycroft-Skill.random.answer,Természetesen nem
+hu-hu,Crystal-Ball-Mycroft-Skill.random.answer,Nyilvánvalóan
+hu-hu,Crystal-Ball-Mycroft-Skill.random.answer,Dehogy
+hu-hu,Crystal-Ball-Mycroft-Skill.random.answer,Miért ne?
+hu-hu,Crystal-Ball-Mycroft-Skill.random.answer,Nem fogadnék rá
+hu-hu,Crystal-Ball-Mycroft-Skill.random.answer,Biztos lehetsz benne!
+hu-hu,Crystal-Ball-Mycroft-Skill.random.answer,Ne vegyél rá mérget
+hu-hu,Number-Guess-Mycroft-Skill.correct,Helyes!
+hu-hu,Number-Guess-Mycroft-Skill.correct,Eltaláltad!
+hu-hu,Number-Guess-Mycroft-Skill.correct,Pontosan!
+hu-hu,Number-Guess-Mycroft-Skill.correct,Ez az a szám!
+hu-hu,Number-Guess-Mycroft-Skill.correct,Szép munka!
+hu-hu,Number-Guess-Mycroft-Skill.correct,Nyertél!
+hu-hu,Number-Guess-Mycroft-Skill.get.lower,Mi legyen az alsó határ?
+hu-hu,Number-Guess-Mycroft-Skill.get.upper,Mi legyen a felső határ?
+hu-hu,Number-Guess-Mycroft-Skill.guess,Találd ki a számot
+hu-hu,Number-Guess-Mycroft-Skill.guess,Mit gondolsz melyik az a szám
+hu-hu,Number-Guess-Mycroft-Skill.guess,Találd ki
+hu-hu,Number-Guess-Mycroft-Skill.input.error,Nem értettem amit mondtál
+hu-hu,Number-Guess-Mycroft-Skill.input.error,Nem sikerült pontosan megértenem amit mondtál
+hu-hu,Number-Guess-Mycroft-Skill.input.error,Beviteli hiba történt
+hu-hu,Number-Guess-Mycroft-Skill.input.error,Megismételnéd?
+hu-hu,Number-Guess-Mycroft-Skill.invalid.input,A válasz érvénytelen. Számot kérek szépen
+hu-hu,Number-Guess-Mycroft-Skill.invalid.input,Kérlek szám legyen a válaszod
+hu-hu,Number-Guess-Mycroft-Skill.invalid.input,Számot adj meg a válaszodban
+hu-hu,Number-Guess-Mycroft-Skill.invalid.input,Ez nem szám
+hu-hu,Number-Guess-Mycroft-Skill.start.game,Rendben játsszunk
+hu-hu,Number-Guess-Mycroft-Skill.start.game,Kezdődjön a játék
+hu-hu,Number-Guess-Mycroft-Skill.start.game,A játék elindul
+hu-hu,Number-Guess-Mycroft-Skill.start.game,Kezdjük
+hu-hu,Number-Guess-Mycroft-Skill.start.game,Lássuk mit tudsz
+hu-hu,Number-Guess-Mycroft-Skill.start.game,Rendben. Játsszunk számkitalálóst
+hu-hu,Number-Guess-Mycroft-Skill.too.high,Túl nagy
+hu-hu,Number-Guess-Mycroft-Skill.too.low,Túl kicsi
+hu-hu,auto-volume-skill.activate,Oké
+hu-hu,auto-volume-skill.activate,Automata hangerő aktiválva
+hu-hu,auto-volume-skill.activate,Aktiváltam az automatikus hangerőt
+hu-hu,auto-volume-skill.deactivate,Oké
+hu-hu,auto-volume-skill.deactivate,Az automatikus hangerő kikapcsolva
+hu-hu,auto-volume-skill.deactivate,Most kikapcsoltam az automatikus hangerőt
+hu-hu,auto-volume-skill.reset,Most visszaállítom az automatikus hangerőt
+hu-hu,email-skill.error.getting.mail,Hiba lépett fel a leveled fogadásakor Kérlek ellenőrizd az azonosítóidat és a szerver beállításait
+hu-hu,email-skill.error.getting.mail,Kérlek ellenőrizd az azonosítóidat és a szerver beállításait mivel probléma történt a leveled fogadása során
+hu-hu,email-skill.error.getting.mail,Nem tudok kapcsolatot létrehozni a levelezésed kiszolgálójával Ellenőrizd az azonosítóidat és a beállításokat
+hu-hu,email-skill.list.subjects,Üzenet száma: {message_num} feladója: {sender} tárgya: {subject}
+hu-hu,email-skill.list.subjects,Üzenet száma: {message_num} melynek tárgya: {subject} A küldő személy: {sender}
+hu-hu,email-skill.list.subjects,Üzenet száma {message_num} feladta: {sender} {subject} címmel
+hu-hu,email-skill.more.emails,szeretnél többet hallani
+hu-hu,email-skill.more.emails,szeretnél többet hallani a leveleidről
+hu-hu,email-skill.more.emails,szeretnéd ha tovább olvasnám
+hu-hu,email-skill.no.more.emails,rendben
+hu-hu,email-skill.no.new.email,Nincs új levél
+hu-hu,email-skill.no.new.email,Nincs új leveled
+hu-hu,email-skill.no.new.email,Nem érkezett új levél
+hu-hu,email-skill.no.new.email,Nem érkezett új leveled
+hu-hu,email-skill.no.new.email,Nem vár rád új levél
+hu-hu,email-skill.no.new.email,Jelenleg nincs postád
+hu-hu,email-skill.no.new.email,Most nincs új postád
+hu-hu,email-skill.no.new.email,Jelenleg nincs új leveled
+hu-hu,email-skill.setup,Ha szeretnéd beállítani az email-olvasó képességet látogass el a home pont mycroft pont a i oldalra és add meg a levelezési adataidat
+hu-hu,email-skill.setup,Az email-olvasó képesség használatához további beállításra van szükség Ehhez látogass el a home pont mycroft pont a i oldalra és add meg a levelezési adataidat
+hu-hu,emby-skill.emby,{media} egyveleg lejátszása
+hu-hu,fallback-aiml.reset.memory,Tudásadatbázis visszaállítása
+hu-hu,fallback-aiml.reset.memory,Mindent elfelejtek
+hu-hu,fallback-aiml.reset.memory,Rendben visszaállítom a memóriámat
+hu-hu,fallback-aiml.reset.memory,Az emlékezetem törlése megkezdődött
+hu-hu,picroft-google-aiy-voicekit-skill.error.initialize,Gondok támadtak a Google A I Y voice kit képesség előkészítésével. A képesség nem fog betöltődni.
+hu-hu,plasma-activities-skill.activities.create,Az új aktivitás {{ ActivityName }} névvel létrehozva
+hu-hu,plasma-activities-skill.activities.remove,Aktivitás eltávolítva
+hu-hu,plasma-activities-skill.activities.show,Mutatom az aktivitásokat
+hu-hu,plasma-activities-skill.activities.stop,{{ StopActivityName }} nevű aktivitás leállítva
+hu-hu,plasma-activities-skill.activities.switch,Váltás {{ SwitchActivityName }} aktivitásra
+hu-hu,wikiquote-skill.notfound,nem találtam {{subject}} idézetet

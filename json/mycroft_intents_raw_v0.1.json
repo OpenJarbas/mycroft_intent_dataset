@@ -828,6 +828,15 @@
       "//play the song called holy mountain by the musicians sleep",
       "//play the song called holy mountain by the musicians called sleep"
     ],
+    "support-helper.neon.contact.support": [
+      "Ich habe ein Problem",
+      "etwas funktioniert nicht",
+      "Was ist los mit dir?",
+      "Erstelle mir eine Problembehandlungsanforderung",
+      "Fehlerbehebung f\u00fcr mein Ger\u00e4t",
+      "Kontaktiere den Support",
+      "Erstelle ein Support-Ticket"
+    ],
     "support.contact.support": [
       "Ich habe ein Problem",
       "etwas funktioniert nicht",
@@ -1628,6 +1637,20 @@
     ],
     "ddg.who": [
       "who is {person}"
+    ],
+    "device-control-center.neon.change_dialog": [
+      "switch to (the|) {dialogmode} (dialog|dialogue) mode",
+      "i want you to begin {dialogmode} (dialog|dialogue) mode",
+      "change your (dialog|dialogue) mode to {dialogmode}"
+    ],
+    "device-control-center.neon.exit_shutdown": [
+      "i want you to exit",
+      "i want you to shutdown",
+      "i want you to shut down"
+    ],
+    "device-control-center.neon.show_demo": [
+      "neon i want to see demo",
+      "neon show me the demo"
     ],
     "dice-skill.Dice": [
       "roll ({count}|) d {type} (+|plus|) ({modifier}|)"
@@ -2484,6 +2507,13 @@
     "spotify-skill.ShuffleOn": [
       "(turn on|enable|set) spotify (shuffle|shuffling)(| on)"
     ],
+    "support-helper.neon.contact.support": [
+      "create a troubleshoot request",
+      "create a troubleshooting ticket",
+      "troubleshoot my device",
+      "contact support",
+      "create a support ticket"
+    ],
     "support.contact.support": [
       "create a troubleshoot request",
       "troubleshoot my device",
@@ -2516,6 +2546,58 @@
       "launch twitch app",
       "open twitch tv",
       "show twitch tv "
+    ],
+    "usb-cam.neon.ShowLastIntent": [
+      "display last picture",
+      "display last photo",
+      "display latest picture",
+      "display latest photo",
+      "display (my user |) last picture",
+      "display my last photo",
+      "display my latest picture",
+      "display my latest photo",
+      "show the last picture",
+      "show the last photo",
+      "show the last pic",
+      "show the last pick",
+      "show latest picture",
+      "show latest photo",
+      "show latest pic",
+      "show latest pick",
+      "show me my last picture",
+      "show me my latest picture",
+      "show me my latest photo",
+      "show me my latest pic",
+      "show me my latest pick",
+      "display last video",
+      "display latest video",
+      "display my last video",
+      "display my latest video",
+      "show the last video",
+      "show latest video",
+      "show me my the last video",
+      "show me my latest video",
+      "playback my last video",
+      "play back (my user |) last video",
+      "show my user photo",
+      "show my user picture",
+      "show my user video"
+    ],
+    "usb-cam.neon.TakePicIntent": [
+      "take (my user |)picture",
+      "take (my user |)photo",
+      "take a picture",
+      "camera capture",
+      "webcam capture"
+    ],
+    "usb-cam.neon.TakeVidIntent": [
+      "(neon |)record (my user |){duration} video",
+      "(neon |)video (my user |){duration}",
+      "(neon |)take (my user |){duration} recording",
+      "(neon |)take (my user |){duration} video",
+      "(neon |)record for {duration}",
+      "(neon |)video record for {duration}",
+      "(neon |)take a video"
     ],
     "viirs.about": [
       "about viirs",

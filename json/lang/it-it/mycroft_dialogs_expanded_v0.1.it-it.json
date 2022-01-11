@@ -1,0 +1,1346 @@
+{
+  "it-it": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "S\u00ec",
+      "No",
+      "Prova a chiedermelo pi\u00f9 tardi",
+      "Decisamente",
+      "Ovviamente no",
+      "Certamente",
+      "No",
+      "Perch\u00e9 no?",
+      "Non ci scommetterei",
+      "Puoi scommetterci!",
+      "Non trattenere il respiro"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "Giusto!",
+      "Hai indovinato!",
+      "Corretto!",
+      "Questo \u00e8 il numero!",
+      "Bel lavoro!",
+      "Hai vinto!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "Quale vuoi che sia il limite inferiore?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "Quale vuoi che sia il limite superiore?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "Indovina il numero",
+      "Quale pensi che sia il numero",
+      "Indovina"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "Non ho capito cosa hai detto",
+      "Qualcosa \u00e8 andato storto mentre stavo cercando di capirti",
+      "Si \u00e8 verificato un errore di input",
+      "Potresti ripeterlo?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "Quella risposta non era valida. Ho bisogno di un numero",
+      "Si prega di rispondere con un numero",
+      "Devi rispondere con un numero",
+      "Questo non \u00e8 un numero"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "OK, giochiamo",
+      "Che il gioco abbia inizio",
+      "Iniziamo il gioco",
+      "Iniziamo",
+      "Vediamo cosa hai",
+      "Tutto apposto. Giochiamo a indovina il numero"
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "Troppo alto"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "Troppo basso"
+    ],
+    "aircrack.cannot.sudo": [
+      "Errore, non riesco dare sudo con comandi aircrack senza una password. Si prega di consultare github punto com barra JonStratton barra skill-aircrack per le note sull'accesso sudo."
+    ],
+    "aircrack.captured.handshake": [
+      "Handshake catturato"
+    ],
+    "aircrack.confirm.permission": [
+      "L'accesso a una rete Wi-Fi senza essere autorizzato all'uso pu\u00f2 essere illegale. Confermare di disporre dell'autorizzazione per connettersi a questa rete dicendo S\u00cc, altrimenti pronunciare NO per annullare."
+    ],
+    "aircrack.deauthing.clients": [
+      "Sto rimuovendo i client connessi alla rete {{selected_network}}."
+    ],
+    "aircrack.interfaces.are": [
+      "Le seguenti interfacce sono disponibili: {{available_networks}}",
+      "Ecco le interfacce disponibili: {{available_interfaces}}",
+      "{{available_interfaces}} sono disponibili."
+    ],
+    "aircrack.monitor.stopped.early": [
+      "Il monitor si \u00e8 fermato prima che l'handshake fosse catturato."
+    ],
+    "aircrack.networks.are": [
+      "Le seguenti reti sono disponibili: {{available_networks}}"
+    ],
+    "aircrack.no.interfaces": [
+      "Non ci sono interfacce disponibili."
+    ],
+    "aircrack.no.networks": [
+      "Non ci sono reti disponibili."
+    ],
+    "aircrack.no.password": [
+      "Password non trovata."
+    ],
+    "aircrack.no.such.interface": [
+      "Nessuna interfaccia trovata."
+    ],
+    "aircrack.no.such.network": [
+      "Nessuna rete trovata."
+    ],
+    "aircrack.recovered.password": [
+      "Recuperata la seguente password: {{password}}"
+    ],
+    "aircrack.select.interface.first": [
+      "Si prega di selezionare prima l'interfaccia."
+    ],
+    "aircrack.selected.interface": [
+      "Selezionata l'interfaccia {{selected_interface}}."
+    ],
+    "aircrack.selected.network": [
+      "Selezionato la rete {{selected_network}}."
+    ],
+    "aircrack.start.monitor": [
+      "Avvio del monitor"
+    ],
+    "aircrack.stop.monitor": [
+      "Arresto del monitor"
+    ],
+    "audio-record.audio.record.disk.full": [
+      "Spazio libero su disco insufficiente per registrare audio",
+      "La registrazione audio non \u00e8 possibile. Devi liberare un po' del disco",
+      "Hai raggiunto il massimo utilizzo del disco. Liberare spazio per registrare un audio"
+    ],
+    "audio-record.audio.record.no.recording": [
+      "Non c'\u00e8 nessuna registrazione disponibile",
+      "Nessuna registrazione trovata"
+    ],
+    "audio-record.audio.record.removed": [
+      "Registrazione cancellata",
+      "Registrazione rimossa",
+      "Cancellazione"
+    ],
+    "audio-record.audio.record.start": [
+      "Registrazione audio",
+      "Avvio la registrazione audio",
+      "Registrazione audio iniziata"
+    ],
+    "audio-record.audio.record.start.duration": [
+      "Registrazione audio per {{duration}} secondi",
+      "Avvio della registrazione audio per {{duration}} secondi",
+      "Registrazione audio per {{duration}} secondi inizializzata"
+    ],
+    "audio-record.audio.record.stop": [
+      "La registrazione audio \u00e8 terminata",
+      "Fermata la registrazione audio",
+      "La registrazione audio \u00e8 stata fermata"
+    ],
+    "audio-record.audio.record.stop.play": [
+      "Riproduzione audio terminata",
+      "Interruzione della riproduzione audio",
+      "La riproduzione audio \u00e8 stata interrotta"
+    ],
+    "auto-volume-skill.activate": [
+      "va bene",
+      "OK",
+      "Volume automatico attivato",
+      "Ho attivato il volume automatico"
+    ],
+    "auto-volume-skill.deactivate": [
+      "va bene",
+      "OK",
+      "Il volume automatico \u00e8 disattivato",
+      "Ho appena disattivato il volume automatico"
+    ],
+    "auto-volume-skill.reset": [
+      "Ho appena resettato il volume automatico"
+    ],
+    "cocktail.NotFound": [
+      "Mi spiace, non trovo il drink richiesto",
+      "Ho paura di non aver trovato niente"
+    ],
+    "cocktail.YouWillNeed": [
+      "Servono {ingredients} e {final_ingredient}",
+      "Ti servono {ingredients} e {final_ingredient}",
+      "Gli ingredienti richiesti sono: {ingredients} e {final_ingredient}"
+    ],
+    "configuration.config.no_change": [
+      "La configurazione non \u00e8 cambiata",
+      "Nessuna modifica da applicare"
+    ],
+    "configuration.config.not.paired": [
+      "Impossibile recuperare la configurazione, il dispositivo non \u00e8 accoppiato.",
+      "Impossibile aggiornare la configurazione, si prega di accoppiare il dispositivo."
+    ],
+    "configuration.config.updated": [
+      "Configurazione aggiornata.",
+      "La configurazione del dispositivo \u00e8 stata aggiornata.",
+      "Il dispositivo \u00e8 stato configurato."
+    ],
+    "configuration.download.started": [
+      "Sto scaricando il nuovo listener, questo richieder\u00e0 alcuni secondi e non potrai utilizzarmi fino al completamento. Dammi un minuto prima di tentare di attivarmi di nuovo."
+    ],
+    "configuration.get.listener": [
+      "Il listener corrente \u00e8 {{listener}}.",
+      "Il listener \u00e8 impostato su {{listener}}"
+    ],
+    "configuration.i.am.at": [
+      "Io sono a {{city}} {{state}} {{country}}",
+      "Le mie impostazioni mi dicono che sono a {{city}} {{state}} {{country}}"
+    ],
+    "configuration.listener.same": [
+      "Il listener e' gi\u00e0 impostato su {{listener}}."
+    ],
+    "configuration.models.not.found": [
+      "Non sono riuscito a trovare alcun file modello da aggiornare."
+    ],
+    "configuration.models.updated": [
+      "Ho aggiornato i modelli Precise."
+    ],
+    "configuration.must.update": [
+      "Si prega di aggiornare il software prima di procedere."
+    ],
+    "configuration.my.name.is": [
+      "Il mio nome \u00e8 {{nome}}",
+      "Mi chiamo {{nome}}"
+    ],
+    "configuration.not.precise": [
+      "Il listener non \u00e8 impostato su Precise."
+    ],
+    "configuration.set.listener": [
+      "Ho impostato il listner su {{listener}}.",
+      "Ho impostato il modulo ascoltatore su {{listener}}."
+    ],
+    "count-skill.count_error": [
+      "Non ho capito.",
+      "Mi sono perso qualcosa.",
+      "Ripeti?",
+      "Scusami. Non l'ho sentito."
+    ],
+    "count-skill.count_start": [
+      "Il conteggio fino a {number}. inizia ora!"
+    ],
+    "count-skill.count_stop": [
+      "Fatto!",
+      "Finito!"
+    ],
+    "count-skill.countdown_start": [
+      "Il conto alla rovescia da {number}. Inizia ora!"
+    ],
+    "count-skill.countdown_stop": [
+      "Fatto!",
+      "Finito!"
+    ],
+    "cut-up-skill.frag_type.set": [
+      "Selezionato il tipo di frammento {{frag_type}}."
+    ],
+    "cut-up-skill.maximum.set": [
+      "Dimensione massima del blocco impostata su {{max}}."
+    ],
+    "cut-up-skill.minimum.set": [
+      "Dimensione minima del blocco impostata su {{min}}."
+    ],
+    "cut-up-skill.randomness.set": [
+      "Casualit\u00e0 impostata su {{rand}} percento."
+    ],
+    "date-time.time.current": [
+      "{{time}}",
+      "Sono le {{time}}",
+      "{{time}}",
+      "Le {{time}}",
+      "Attualmente sono le {{time}}"
+    ],
+    "date-time.time.tz.not.found": [
+      "Non sono riuscito a trovare il fuso orario per {{location}}"
+    ],
+    "dice-skill.multiple.modificator.result": [
+      "I tuoi numeri sono {result} aggiunti ad un totale di {total}"
+    ],
+    "dice-skill.multiple.result": [
+      "I tuoi numeri sono {result}"
+    ],
+    "dice-skill.range.needed": [
+      "Devi specificare un intervallo",
+      "Ho bisogno di un intervallo per farlo",
+      "Dimmi quale intervallo vuoi per i tuoi numeri"
+    ],
+    "dice-skill.single.modificator.result": [
+      "Il risultato \u00e8 {total}."
+    ],
+    "dice-skill.single.result": [
+      "Il risultato \u00e8 {result}.",
+      "Il tuo numero \u00e8 {result}"
+    ],
+    "email-skill.already.looking.for.all": [
+      "Sto gi\u00e0 controllando l'arrivo di nuova posta",
+      "Ho gi\u00e0 controllato l'arrivo di nuova posta",
+      "Sto gi\u00e0 controllando l'arrivo di nuova posta"
+    ],
+    "email-skill.already.looking.for.specific": [
+      "Sto gi\u00e0 controllando la posta da {email}",
+      "Ho gi\u00e0 controllato la posta da {email}",
+      "Sto gi\u00e0 controllando la posta da {email}"
+    ],
+    "email-skill.cancel.looking.for.all.look.specific": [
+      "Sto controllando tutta la nuova posta, vuoi che ti notifichi solo le email da {email}",
+      "Ho gi\u00e0 controllato l'arrivo di nuova posta, vuoi che ti notifichi solo la nuova posta da {email}"
+    ],
+    "email-skill.cancel.looking.for.specific.look.all": [
+      "Sto controllando {email}, vuoi che controlli solo la nuova posta",
+      "Al momento sto controllando solo la posta da {email}. Vuoi invece che controlli tutta la posta",
+      "Vuoi che controlli tutta la posta invece di controllare solo la posta da {email}"
+    ],
+    "email-skill.error.getting.mail": [
+      "C'\u00e8 stato un errore nel recupero della posta. Controlla le tue credenziali e le impostazioni del server di posta.",
+      "Controlla le tue credenziali e le impostazioni del server perch\u00e9 c'\u00e8 stato un problema nel recuperare la tua posta.",
+      "Non riesco a connettermi al tuo server di posta. Controlla la password e le impostazioni del server."
+    ],
+    "email-skill.list.subjects": [
+      "La {message_num} email proviene da {sender} L'oggetto \u00e8 {subject}",
+      "L'oggetto della {message_num} mail \u00e8 {subject} E' da {sender}"
+    ],
+    "email-skill.more.emails": [
+      "vuoi saperne di pi\u00f9",
+      "vuoi saperne di pi\u00f9 sulla tua posta",
+      "vorresti leggerne altre"
+    ],
+    "email-skill.no.emails.from": [
+      "Non ci sono mail da {sender}",
+      "Non hai mail da {sender}",
+      "Non hai ricevuto posta da {sender}"
+    ],
+    "email-skill.no.more.emails": [
+      "okay"
+    ],
+    "email-skill.no.new.email": [
+      "Non ci sono nuove email",
+      "Non ci sono nuove mail",
+      "Nessuna nuova mail",
+      "Non ci sono nuove mail",
+      "Non ci sono nuove mail per te",
+      "Non ci sono nuove mail per te",
+      "Non hai nuove mail",
+      "Non hai nuove mail"
+    ],
+    "email-skill.not.looking.for": [
+      "Non sto cercando mail da {email}",
+      "Non sto cercando mail da {email}",
+      "Al momento non sto cercando mail da {email}"
+    ],
+    "email-skill.notify.read.email": [
+      "Hai {size} nuovi messaggi di posta, vuoi ascoltarli",
+      "Ci sono {size} nuovi messaggi di posta Vuoi ascoltarli",
+      "Vuoi ascoltare le tue {size} mail"
+    ],
+    "email-skill.poll.emails.not.started": [
+      "Non sto controllando l'arrivo di nuova posta",
+      "Al momento non sto contollando per nuova posta"
+    ],
+    "email-skill.setup": [
+      "Per impostare l'abilit\u00e0 e-mail, vai a home punto mycroft punto a i per inserire le tue informazioni e-mail",
+      "\u00c8 necessario impostare l'abilit\u00e0 e-mail. Per fare ci\u00f2, per favore vai a home punto mycroft punto a i per inserire i tuoi dati di posta elettronica"
+    ],
+    "email-skill.start.poll.email": [
+      "Ti notificher\u00f2 l'arrivo di nuova posta",
+      "Okay, inizio a notificarti l'arrivo di nuova posta",
+      "Controllo l'arrivo di nuova posta"
+    ],
+    "email-skill.stop.looking.for": [
+      "Fermo la notifica delle mail da {email}",
+      "Okay, fermo la notifica delle nuove mail da {email}"
+    ],
+    "email-skill.stop.poll.emails": [
+      "Okay, fermo la ricerca di nuova posta",
+      "Okay, non ricerco pi\u00f9 nuova posta"
+    ],
+    "email-skill.stop.poll.emails.last.email.removed": [
+      "Fermo la ricerca di nuova posta, perch\u00e8 non ci sono indirizzi di posta di cui tu voglia essere notificato"
+    ],
+    "email-skill.update.notify.data": [
+      "Ho aggiornato le preferenze di posta",
+      "Okay, ho aggiornato le tue preferenze di posta"
+    ],
+    "emby-skill.configuration_fail": [
+      "Non riesco a connettermi al Server Emby. Per favore controlla o cambia la tua configurazione su home.Mycroft.ai"
+    ],
+    "emby-skill.configuration_success": [
+      "Connesso con successo a Emby server a {hostname}"
+    ],
+    "emby-skill.diag_auth_fail": [
+      "Non riesco a autenticare emby server. Per favore controlla o cambia la tua configurazione su home.Mycroft.ai"
+    ],
+    "emby-skill.diag_auth_success": [
+      "Sono riuscito ad autenticare con successo emby server"
+    ],
+    "emby-skill.diag_public_info_fail": [
+      "Emby server a {host} non sembra essere raggiungibile o non risponde"
+    ],
+    "emby-skill.diag_public_info_success": [
+      "Grande! Posso accedere a {ServerName} posizionato a {LocalAddress} versione {Version}. Sto provando ad autenticare"
+    ],
+    "emby-skill.diag_start": [
+      "Sto per eseguire un controllo diagnostico sulla connessione di emby skill. Questo controller\u00e0 se il server \u00e8 accessibile e se riesco ad eseguire l'autenticazione"
+    ],
+    "emby-skill.diag_stop": [
+      "La diagnostica non continuer\u00e0"
+    ],
+    "emby-skill.diagnostic": [
+      "La diagnostica \u00e8 completa posso connettermi ed eseguire l'autenticazione a emby server. Adesso \u00e8 tempo di mettere un po' di Musica!"
+    ],
+    "emby-skill.emby": [
+      "Sto suonando {media}"
+    ],
+    "emby-skill.general_check_settings_logs": [
+      "Per favore controlla le tue impostazioni su Mycroft.ai. Se questo problema persiste controlla i log di Mycroft per maggiori informazioni"
+    ],
+    "emby-skill.play_fail": [
+      "Non riesco a trovare o riprodurre {media}. Per favore prova di nuovo",
+      "Non riesco a trovare o riprodurre {media}. Prova di nuovo. Se questo continua ad accadere controlla la tua configurazione su home.Mycroft.ai"
+    ],
+    "fairytalez-skill.continue": [
+      "Continua a raccontare {story}",
+      "Dove siamo arrivati. Oh si qui. {story}"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "Conosco pi\u00f9 di 2000 fiabe, racconti popolari e favole da tutto il mondo. Quale vorresti ascoltare ?"
+    ],
+    "fairytalez-skill.from_fairytalez": [
+      "Queste favole provengono da www punto fairytalez punto com. Loro amano le favole! Visita il sito dove puoi trovare la pi\u00f9 grande collezione di favole, racconti popolari e fiabe online."
+    ],
+    "fairytalez-skill.i_know_that": [
+      "{story} \u00e8 una buona. Cominciamo...",
+      "S\u00ec, {story} \u00e8 una buona. Fa cos\u00ec..."
+    ],
+    "fairytalez-skill.is_it_that": [
+      "\u00c8 quella?",
+      "Potrebbe essere?",
+      "Devo raccontarti questa?",
+      "Vuoi sentirla?"
+    ],
+    "fairytalez-skill.let_me_think": [
+      "fammi vedere. Conosco {story}",
+      "bene, ho bisogno di pensare se ricordo {story}"
+    ],
+    "fairytalez-skill.no_story": [
+      "In tal caso non so che storia vuoi sentire."
+    ],
+    "fairytalez-skill.no_story_to_continue": [
+      "Non c'\u00e8 una storia da continuare",
+      "Mi dispiace - nessuna storia da continuare"
+    ],
+    "fairytalez-skill.that_would_be": [
+      "Posso raccontare la storia {story}.",
+      "Ricordo la {story}."
+    ],
+    "fairytalez-skill.title_by_author": [
+      "{title} di {author}"
+    ],
+    "fallback-aiml.reset.memory": [
+      "Reimpostazione della base delle conoscenze",
+      "Sto per dimenticare tutto",
+      "Va bene adesso cancello la mia memoria",
+      "Cancellazione del cervello iniziata"
+    ],
+    "fallback-recommendations-skill.skill.download.confirmation": [
+      "Lo skill {{skill_name}} pu\u00f2 fare questo per te. Vuoi che lo scarico?",
+      "Ho trovato uno skill che si chiama {{skill_name}}, che ti potrebbe aiutare. Vuoi che te lo scarico?"
+    ],
+    "fallback-recommendations-skill.skill.download.refused": [
+      "Okay.",
+      "Tutto apposto."
+    ],
+    "fallback-recommendations-skill.skill.downloading": [
+      "Solo un momento, Io sto scaricando il seguente skill {{skill_name}}.",
+      "Solo un momento, Io sto scaricando il seguente skill {{skill_name}}.",
+      "Un momento, sto scaricando il seguente skill {{skill_name}}.",
+      "Okay, scarico lo skill {{skill_name}}.",
+      "Aspetta un attimo mentre scarico lo skill {{skill_name}}.",
+      "Okay, sto scaricando lo skill {{skill_name}}."
+    ],
+    "hello-world.hello.world": [
+      "Ciao",
+      "Ciao anche a te"
+    ],
+    "hello-world.how.are.you": [
+      "Sto bene",
+      "Abbastanza bene",
+      "Non male",
+      "Tutto eccellente",
+      "Potrebbe andare meglio",
+      "Sto andando molto bene"
+    ],
+    "hello-world.welcome": [
+      "Quando vuoi.",
+      "Felice di essere al servizio.",
+      "Felice di aiutare.",
+      "Il piacere \u00e8 tutto mio.",
+      "Nessun problema.",
+      "Prego."
+    ],
+    "installer.choose": [
+      "La tua richiesta ha pi\u00f9 scelte: {{skills}}",
+      "Ci sono pi\u00f9 abilit\u00e0 con questo nome, per favore scegline una: {{skills}}"
+    ],
+    "installer.installed": [
+      "{{skill}} \u00e8 stato installato"
+    ],
+    "installer.installing": [
+      "installazione",
+      "sto installando",
+      "installazione in corso"
+    ],
+    "installer.not.found": [
+      "Scusa non ho trovato l'abilit\u00e0: {{skill}}",
+      "L'abilit\u00e0 {{skill}} non \u00e8 stata trovata.",
+      "Spiacente non ho trovato l'abilit\u00e0: {{skill}}",
+      "Lo skill {{skill}} non \u00e8 stato trovato."
+    ],
+    "ip.dot": [
+      "punto"
+    ],
+    "ip.my address is": [
+      "Il mio indirizzo di rete IP \u00e8 {{ip}}",
+      "Sono all indirizzo IP {{ip}}"
+    ],
+    "ip.my address on X is Y": [
+      "Sulla interfaccia {{interface}} il mio indirizzo IP \u00e8 {{ip}}."
+    ],
+    "ip.no network connection": [
+      "Non ho ancora una connessione alla rete",
+      "Non sono connesso ad una rete"
+    ],
+    "iss-tracker-skill.location.current": [
+      "La Stazione Spaziale Internazionale si trova a latitudine {{latitude}} e longitudine {{longitude}} che corrispondono a {{toponym}}",
+      "La stazione spaziale \u00e8 a latitudine {{latitude}} e longitudine {{longitude}} su {{toponym}}",
+      "\u00c8 a latitudine {{latitude}} e longitudine {{longitude}}, su {{toponym}}",
+      "La stazione spaziale internazionale \u00e8 ora sopra {{toponym}} alla latitudine {{latitude}} longitudine {{longitude}}",
+      "Sopra {{toponym}} alla latitudine {{latitude}} longitudine {{longitude}}"
+    ],
+    "iss-tracker-skill.location.unknown": [
+      "Spiacente latitudine {{latitude}} e longitudine {{longitude}} non sono note",
+      "Spiacente la stazione spaziale \u00e8 a latitudine {{latitude}} longitudine {{longitude}} ma non so dove questo sia",
+      "\u00c8 a latitudine {{latitude}} longitudine {{longitude}} che non \u00e8 codificata in questo database",
+      "La ISS ora ha superato la latitudine {{latitude}} longitudine {{longitudine}} ma non esiste una caratteristica geografica associata"
+    ],
+    "krunner-search-skill.krunner.recent": [
+      "Sto mostrando i file recenti"
+    ],
+    "krunner-search-skill.krunner.search": [
+      "Sto cercando in locale {{ Query }}"
+    ],
+    "laugh.cancel": [
+      "risate fermate",
+      "non rider\u00f2 pi\u00f9"
+    ],
+    "laugh.cancel_fail": [
+      "non sto ridendo"
+    ],
+    "lifx-mycroft.Color": [
+      "Imposta {{name}} a {{color}}."
+    ],
+    "lifx-mycroft.Dim": [
+      "{{change}}ndo {{name}}."
+    ],
+    "lifx-mycroft.GroupError": [
+      "Impossibile {{action}} {{name}} perch\u00e9 \u00e8 un gruppo.",
+      "Non posso {{action}} {{name}}, poich\u00e9 si tratta di un gruppo."
+    ],
+    "lifx-mycroft.SetPercent": [
+      "Imposta {{param}} a {{value}}.",
+      "Cambia {{param}} in {{value}}.",
+      "Imposta {{name}} {{param}} a {{value}}."
+    ],
+    "lifx-mycroft.Switch": [
+      "Cambia {{status}} {{name}}.",
+      "Cambiando {{status}} {{name}}."
+    ],
+    "lifx-mycroft.Temperature": [
+      "Metti {{name}} a {{temperature}}."
+    ],
+    "list-manager-skill.add.item": [
+      "{{item_name}} aggiunto alla lista {{list_name}}"
+    ],
+    "list-manager-skill.add.list": [
+      "La tua nuova lista {{list_name}} \u00e8 stata aggiunta."
+    ],
+    "list-manager-skill.and": [
+      "e"
+    ],
+    "list-manager-skill.cancelled": [
+      "Annullato."
+    ],
+    "list-manager-skill.confirm.deletion": [
+      "Sei sicuro di voler eliminare {{element}}?"
+    ],
+    "list-manager-skill.del.item": [
+      "{{item_name}} rimosso dalla tua lista {{list_name}}."
+    ],
+    "list-manager-skill.del.list": [
+      "La tua lista {{list_name}} \u00e8 stata rimossa."
+    ],
+    "list-manager-skill.item.not.found": [
+      "{{item_name}} non \u00e8 presente nella tua lista {{list_name}}."
+    ],
+    "list-manager-skill.list.found": [
+      "Hai gi\u00e0 una lista denominata {{list_name}}."
+    ],
+    "list-manager-skill.list.not.found": [
+      "Non sembra che tu abbia una lista chiamata {{list_name}}.",
+      "Non ho trovato {{list_name}} tra le tue liste."
+    ],
+    "list-manager-skill.no.items": [
+      "Non hai alcun elemento nella tua lista {{list_name}}."
+    ],
+    "list-manager-skill.no.lists": [
+      "Al momento, non hai alcuna lista."
+    ],
+    "list-manager-skill.read.items": [
+      "Nella tua lista {{list_name}} hai {{items}}"
+    ],
+    "list-manager-skill.read.lists": [
+      "Al momento hai {{lists_names}} {{list}}."
+    ],
+    "mark-2.auto.noon": [
+      "Sembra che sia mezzogiorno, regoler\u00f2 la luminosit\u00e0."
+    ],
+    "mark-2.auto.sunrise": [
+      "Ok, il sole sta uscendo, regoler\u00f2 la luminosit\u00e0",
+      "Ok, il sole \u00e8 uscito, impostando il livello di luminosit\u00e0"
+    ],
+    "mark-2.auto.sunset": [
+      "Ok, sta diventando buio, regoler\u00f2 la luminosit\u00e0 di conseguenza."
+    ],
+    "mark-2.brightness.error": [
+      "Non capisco quel valore di luminosit\u00e0, dammi un valore di luminosit\u00e0 da 0 a 100 percento."
+    ],
+    "mark-2.brightness.not.found": [
+      "Dimmi una percentuale di luminosit\u00e0 o un livello per la mia faccia",
+      "Quale livello di luminosit\u00e0 o percentuale vorresti?"
+    ],
+    "mark-2.brightness.not.found.final": [
+      "Scusa, non capisco quella luminosit\u00e0.",
+      "Capisco solo cose come \"piena\" o 50%"
+    ],
+    "mark-2.brightness.set": [
+      "Ok, sto impostando la luminosit\u00e0 su {val}.",
+      "Sembra buono, sto impostando la luminosit\u00e0 su {val}"
+    ],
+    "mark-2.no.web.setting": [
+      "Nessun colore degli occhi \u00e8 stato impostato",
+      "Non ho trovato nessuna impostazione web per il colore degli occhi"
+    ],
+    "mark-2.rebooting": [
+      "Riavvio in corso, a tra poco",
+      "Riavvio in corso, torner\u00f2 tra qualche minuto"
+    ],
+    "moviemaster.bad.movie.genre.catagory": [
+      "Non riesco a trovare nessuno show televisivo di genere {genre}",
+      "Non riesco a trovare nessuno show TV di genere {genre}"
+    ],
+    "moviemaster.bad.tv.genre.catagory": [
+      "Non riesco a trovare nessuno show televisivo di genere {genre}",
+      "Non riesco a trovare nessuno show TV di genere {genre}"
+    ],
+    "moviemaster.fallback.api": [
+      "Ripiego sulla vecchia A P I"
+    ],
+    "moviemaster.genre.movie.search": [
+      "i film di {genre} sono;"
+    ],
+    "moviemaster.genre.tv.search": [
+      "i programmi TV di genere {genre} sono;",
+      "i programmi televisivi di genere {genre} sono;"
+    ],
+    "moviemaster.movie.cast": [
+      "Ecco il cast di {movie}; {actorlist} e {lastactor}",
+      "Le seguenti persone recitano nel film {movie}; {actorlist} e {lastactor}",
+      "Le seguenti persone interpretano il film {movie}; {actorlist} e {lastactor}",
+      "Le seguenti persone sono nel film {movie}; {actorlist} e {lastactor}"
+    ],
+    "moviemaster.movie.description": [
+      "il ( film ) {movie} parla di questo.",
+      "ecco una sinossi del film {movie}.",
+      "ecco una sinossi di {movie}."
+    ],
+    "moviemaster.movie.genre.multiple": [
+      "Il film pu\u00f2 essere trovato in uno dei generi; {genrelist} e {genrelistlast}",
+      "Le persone considerano il film una {genrelist} o una {genrelistlast}",
+      "Le persone considerano il film una {genrelist} o uno {genrelistlast}",
+      "Le persone considerano il film una {genrelist} o un {genrelistlast}",
+      "Le persone considerano il film uno {genrelist} o una {genrelistlast}",
+      "Le persone considerano il film uno {genrelist} o uno {genrelistlast}",
+      "Le persone considerano il film uno {genrelist} o un {genrelistlast}",
+      "Le persone considerano il film un {genrelist} o una {genrelistlast}",
+      "Le persone considerano il film un {genrelist} o uno {genrelistlast}",
+      "Le persone considerano il film un {genrelist} o un {genrelistlast}"
+    ],
+    "moviemaster.movie.genre.single": [
+      "Il film {movie} potrebbe essere considerato una {genre}",
+      "Il film {movie} potrebbe essere considerato uno {genre}",
+      "Il film {movie} potrebbe essere considerato un {genre}",
+      "Puoi trovare {movie} nella sezione {genre}",
+      "Puoi trovare il film {movie} nella sezione {genre}"
+    ],
+    "moviemaster.movie.info.response": [
+      "{movie} \u00e8 stato distribuito nel {year}, con un budget di {budget} dollari."
+    ],
+    "moviemaster.movie.popular": [
+      "I film pi\u00f9 popolari nei cinema in questo momento sono {popularlist}",
+      "I film pi\u00f9 popolari nei cinema al momento sono {popularlist}",
+      "I film pi\u00f9 popolari nei cinema sono {popularlist}",
+      "I film pi\u00f9 popolari al cinema in questo momento sono {popularlist}",
+      "I film pi\u00f9 popolari al cinema al momento sono {popularlist}",
+      "I film pi\u00f9 popolari al cinema sono {popularlist}",
+      "I film pi\u00f9 popolari in sala in questo momento sono {popularlist}",
+      "I film pi\u00f9 popolari in sala al momento sono {popularlist}",
+      "I film pi\u00f9 popolari in sala sono {popularlist}",
+      "I film pi\u00f9 popolari in proiezione in questo momento sono {popularlist}",
+      "I film pi\u00f9 popolari in proiezione al momento sono {popularlist}",
+      "I film pi\u00f9 popolari in proiezione sono {popularlist}",
+      "{popularlist} in cima alle classifiche cinematografiche in questo momento."
+    ],
+    "moviemaster.movie.production.multiple": [
+      "Le case produttrici {companies} e {lastcompany} hanno prodotto il film {movie}",
+      "Le case di produzione {companies} e {lastcompany} hanno prodotto il film {movie}",
+      "Le compagnie {companies} e {lastcompany} hanno prodotto il film {movie}",
+      "{companies} e {lastcompany} hanno prodotto il film {movie}"
+    ],
+    "moviemaster.movie.production.single": [
+      "La casa di produzione {company} ha prodotto il film {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "Ti consiglio i film {movielist}, se ti \u00e8 piaciuto il film {movie}",
+      "Ti consiglio i film {movielist}, se ti piace il film {movie}",
+      "I film {movielist} sono un'ottima scelta se ti \u00e8 piaciuto {movie}",
+      "I film {movielist} sono un'ottima scelta se ti \u00e8 piaciuto il film {movie}",
+      "I film {movielist} sono un'ottima scelta se ti piace {movie}",
+      "I film {movielist} sono un'ottima scelta se ti piace il film {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "La durata di {movie} \u00e8 di {runtime} minuti.",
+      "La durata del film {movie} \u00e8 di {runtime} minuti.",
+      "Il film {movie} dura {runtime} minuti.",
+      "{movie} dura {runtime} minuti.",
+      "Guardando {movie}; ci si pu\u00f2 aspettare circa {runtime} minuti prima di poter fare una pausa bagno."
+    ],
+    "moviemaster.movie.top": [
+      "Questi sono i film pi\u00f9 popolari in proiezione in questo momento; {toplist}",
+      "Questi sono i film pi\u00f9 popolari nei cinema in questo momento; {toplist}",
+      "Questi sono i film pi\u00f9 popolari in sala in questo momento; {toplist}",
+      "Questi sono i film migliori in proiezione in questo momento; {toplist}",
+      "Questi sono i film migliori nei cinema in questo momento; {toplist}",
+      "Questi sono i film migliori in sala in questo momento; {toplist}",
+      "{toplist} sono i film pi\u00f9 popolari al cinema in questo momento.",
+      "{toplist} sono i film pi\u00f9 popolari nei cinema in questo momento.",
+      "{toplist} sono i film pi\u00f9 popolari in proiezione in questo momento.",
+      "{toplist} sono i film pi\u00f9 popolari in sala in questo momento.",
+      "{toplist} sono i migliori film al cinema in questo momento.",
+      "{toplist} sono i migliori film nei cinema in questo momento.",
+      "{toplist} sono i migliori film in proiezione in questo momento.",
+      "{toplist} sono i migliori film in sala in questo momento."
+    ],
+    "moviemaster.movie.year": [
+      "il film {movie} \u00e8 stato rilasciato nel {year}",
+      "il film {movie} \u00e8 stato realizzato nel {year}"
+    ],
+    "moviemaster.no.api": [
+      "Devi inserire la tua chiave A P I T M D B su home punto mycroft punto A I per usare la skill movie master"
+    ],
+    "moviemaster.no.info": [
+      "Mi dispiace. Non riesco a trovare nessuna informazione sul ( film ) {movie}"
+    ],
+    "moviemaster.no.info.general": [
+      "Mi dispiace, non riesco a trovare l'elenco che stai cercando in questo momento; per favore riprova pi\u00f9 tardi."
+    ],
+    "moviemaster.no.valid.api": [
+      "La chiave A P I che hai inserito non \u00e8 valida. Fai riferimento al file 'read me' per le istruzioni su come ottenerne una."
+    ],
+    "naptime.sleep": [
+      "Vado a dormire",
+      "Ora vado a dormire",
+      "Va bene, sto andando a dormire"
+    ],
+    "national-parks-skill.Ask.Quiz.Question": [
+      "In quale stato \u00e8 {{park}}?",
+      "Se fossi al {{park}} in quale stato sarei?"
+    ],
+    "national-parks-skill.Error.calling.server": [
+      "Si \u00e8 verificato un errore durante la connessione al servizio nazionale dei parchi, assicurati che la chiave a.p.i sia corretta su home punto mycroft punto ai"
+    ],
+    "national-parks-skill.No.Parks.Found": [
+      "Non sono riuscito a trovare nessun parco chiamato {{park}}"
+    ],
+    "national-parks-skill.No.Parks.Found.State": [
+      "Non sono riuscito a trovare nessun parco in {{location}}"
+    ],
+    "national-parks-skill.Park.List": [
+      "ecco i parchi nazionali in {{location}} {{parks}}",
+      "i parchi nazionali in {{location}} includono {{parks}}"
+    ],
+    "national-parks-skill.Park.Location": [
+      "{{park}} \u00e8 in {{location}}"
+    ],
+    "national-parks-skill.Quiz.Question.Correct": [
+      "\u00c8 corretto.",
+      "Conosci i tuoi parchi nazionali.",
+      "Hai capito bene."
+    ],
+    "national-parks-skill.Quiz.Question.None": [
+      "Non riesco a trovare l'ultima domanda posta"
+    ],
+    "national-parks-skill.Quiz.Question.Wrong": [
+      "No, Il {{park}} \u00e8 in {{location}}",
+      "Non \u00e8 corretto, il {{park}} si trova in {{location}}"
+    ],
+    "pairing.connection.error": [
+      "Connessione a mycroft dot a.i non riuscita, il codice di accoppiamento non pu\u00f2 essere recuperato. Controlla la tua connessione Internet e riprova."
+    ],
+    "pairing.pairing.code": [
+      "Sono connesso a Internet e devo essere attivato. Registrami su home punto mycroft punto A.I con il codice. {{code}}",
+      "Puoi registrarmi andando su Dispositivi, selezionando Aggiungi dispositivo quindi usa il codice {{code}}",
+      "Registra questo dispositivo con il codice {{code}}",
+      "Inserisci il codice sulla home di Mycroft {{code}}"
+    ],
+    "pairing.pairing.intro": [
+      "Sono connesso a Internet e devo essere attivato. Apri il browser e visita home punto mycroft punto AI per registrare questo dispositivo."
+    ],
+    "pairing.pairing.not.paired": [
+      "Il tuo dispositivo attualmente non \u00e8 registrato",
+      "Il tuo dispositivo attualmente non \u00e8 associato"
+    ],
+    "pairing.pairing.paired": [
+      "Ora sono pronto per l'uso. Prova a chiedermi cose come \"hey mycroft, che tempo fa\", \"hey mycroft, parlami di abraham lincoln\" o \"hey mycroft, leggi le notizie\". Se hai bisogno di fermarmi a parlare in qualsiasi momento, basta premere il tasto"
+    ],
+    "pairing.unexpected.error.restarting": [
+      "Le mie scuse, \u00e8 successo qualcosa di inaspettato. Devo riavviare il processo di associazione.",
+      "Le mie scuse, \u00e8 successo qualcosa di inatteso. Devo riavviare il processo di registrazione."
+    ],
+    "personal.what.am.i": [
+      "Sono una intelligenza artificiale open source.",
+      "Sono un software intelligente per comunicare con le macchine"
+    ],
+    "personal.when.was.i.born": [
+      "Sono nato nel 2015."
+    ],
+    "personal.where.was.i.born": [
+      "A Lawrence al Centro per la imprenditorialit\u00e0 nel Kansas.",
+      "Sono nato a Lawrence, nel Kansas, Stati Uniti d'America"
+    ],
+    "personal.who.am.i": [
+      "Mi chiamo {{name}} e sono un assistente personale intelligente",
+      "Sono {{name}}, un A.I. open source."
+    ],
+    "personal.who.made.me": [
+      "La meravigliosa comunit\u00e0 e squadra di Mycroft A.I.",
+      "Tutti nella comunit\u00e0 e squadra di Mycroft A.I."
+    ],
+    "picroft-google-aiy-voicekit-skill.error.initialize": [
+      "Ho dei problemi a inizializzare il kit vocale Google A I Y. La Skill non verr\u00e0 caricata."
+    ],
+    "plasma-activities-skill.activities.create": [
+      "La tua attivit\u00e0 {{ActivityName}} \u00e8 stata creata"
+    ],
+    "plasma-activities-skill.activities.remove": [
+      "L'attivit\u00e0 \u00e8 stata rimossa"
+    ],
+    "plasma-activities-skill.activities.show": [
+      "Mostra attivit\u00e0"
+    ],
+    "plasma-activities-skill.activities.stop": [
+      "l'attivit\u00e0 {{StopActivityName}} \u00e8 stata fermata"
+    ],
+    "plasma-activities-skill.activities.switch": [
+      "Passaggio all'attivit\u00e0 {{SwitchActivityName}}"
+    ],
+    "pokemon-skill.ability.effect.entry": [
+      "{ability}: {info}"
+    ],
+    "pokemon-skill.ability.flavor.text": [
+      "{ability}: {info}"
+    ],
+    "pokemon-skill.ability.generation.introduced": [
+      "{ability} \u00e8 stata introdotta nella generazione {generation}"
+    ],
+    "pokemon-skill.ability.not.in.version": [
+      "{version} non ha {ability}"
+    ],
+    "pokemon-skill.and": [
+      "e"
+    ],
+    "pokemon-skill.base.stat.is": [
+      "la base {stat} di {pokemon} \u00e8 {value}"
+    ],
+    "pokemon-skill.cannot.answer.about.ability": [
+      "Non riesco a rispondere a quella abilit\u00e0"
+    ],
+    "pokemon-skill.cannot.answer.about.pokemon": [
+      "Non riesco a rispondere riguardo a quel Pok\u00e9mon"
+    ],
+    "pokemon-skill.connection.error": [
+      "Non ho connessione ad internet",
+      "Errore di connessione"
+    ],
+    "pokemon-skill.debug.speech": [
+      "Debug! Raggiunto!"
+    ],
+    "pokemon-skill.evolve.details.at.level": [
+      "al livello {level}"
+    ],
+    "pokemon-skill.evolve.details.holding.item": [
+      "mentre tiene {item}"
+    ],
+    "pokemon-skill.evolve.details.if.gender.female": [
+      "se femmina"
+    ],
+    "pokemon-skill.evolve.details.if.gender.male": [
+      "se maschio"
+    ],
+    "pokemon-skill.evolve.details.knowing.move": [
+      "quando impara {move}"
+    ],
+    "pokemon-skill.evolve.details.knowing.move.type": [
+      "quando conosco una mossa di tipo {type}"
+    ],
+    "pokemon-skill.evolve.details.location": [
+      "in {location}",
+      "a {location}"
+    ],
+    "pokemon-skill.evolve.details.stats.attack.equals.defense": [
+      "se l'attacco \u00e8 uguale alla difesa"
+    ],
+    "pokemon-skill.evolve.details.stats.attack.greater.than.defense": [
+      "se l'attacco \u00e8 pi\u00f9 della difesa"
+    ],
+    "pokemon-skill.evolve.details.stats.attack.less.than.defense": [
+      "se l'attacco \u00e8 meno della difesa"
+    ],
+    "pokemon-skill.evolve.details.time.of.day": [
+      "alle {time}"
+    ],
+    "pokemon-skill.evolve.details.trade.species": [
+      "per {species}"
+    ],
+    "pokemon-skill.evolve.details.trigger": [
+      "per {name}"
+    ],
+    "pokemon-skill.evolve.details.turn.upside.down": [
+      "con il gioco capovolto"
+    ],
+    "pokemon-skill.evolve.details.with.affection": [
+      "con un livello d'affetto di {affection}"
+    ],
+    "pokemon-skill.evolve.details.with.beauty": [
+      "con una bellezza di livello {beauty}"
+    ],
+    "pokemon-skill.evolve.details.with.happiness": [
+      "con felicit\u00e0 {happiness}"
+    ],
+    "pokemon-skill.evolve.details.with.pokemon.party": [
+      "con {pokemon} in squadra"
+    ],
+    "pokemon-skill.evolve.details.with.pokemon.party.type": [
+      "con tipo {type} in squadra"
+    ],
+    "pokemon-skill.evolve.details.with.rain": [
+      "mentre piove"
+    ],
+    "pokemon-skill.foot": [
+      "piede"
+    ],
+    "pokemon-skill.inches": [
+      "pollici"
+    ],
+    "pokemon-skill.kilograms": [
+      "chilogrammi"
+    ],
+    "pokemon-skill.meters": [
+      "metri"
+    ],
+    "pokemon-skill.no.type.specified": [
+      "Devi specificare un tipo",
+      "Quale tipo?"
+    ],
+    "pokemon-skill.or": [
+      "oppure"
+    ],
+    "pokemon-skill.pokemon.abilities.hidden": [
+      "{pokemon} ha le abilit\u00e0 nascoste {hidden_abilities}"
+    ],
+    "pokemon-skill.pokemon.abilities.hidden.non-hidden": [
+      "{pokemon} ha le abilit\u00e0 {abilities}. ed ha le abilit\u00e0 nascoste {hidden_abilities}"
+    ],
+    "pokemon-skill.pokemon.abilities.non-hidden": [
+      "{pokemon} ha le abilit\u00e0 {abilities}"
+    ],
+    "pokemon-skill.pokemon.abilities.none": [
+      "{pokemon} non ha abilit\u00e0"
+    ],
+    "pokemon-skill.pokemon.capture.rate": [
+      "il tasso di cattura di {pokemon} \u00e8 {rate}"
+    ],
+    "pokemon-skill.pokemon.color.is": [
+      "{pokemon} \u00e8 {color}"
+    ],
+    "pokemon-skill.pokemon.does.not.evolve": [
+      "{pokemon} non si evolve"
+    ],
+    "pokemon-skill.pokemon.egg.groups.are": [
+      "il gruppo uova di {pokemon} \u00e8 {groups}"
+    ],
+    "pokemon-skill.pokemon.evolves.from": [
+      "{pokemon} si evolve da {from} {how}"
+    ],
+    "pokemon-skill.pokemon.evolves.into": [
+      "{pokemon} si evolve in {evolve}"
+    ],
+    "pokemon-skill.pokemon.final.evolution": [
+      "l'evoluzione finale di {pokemon} \u00e8 {final}"
+    ],
+    "pokemon-skill.pokemon.first.evolution.is": [
+      "l'evoluzione finale di {pokemon} \u00e8 {first}"
+    ],
+    "pokemon-skill.pokemon.has.no.evolutions": [
+      "{pokemon} non ha evoluzioni"
+    ],
+    "pokemon-skill.pokemon.has.no.forms": [
+      "{pokemon} non \u00e8 in una forma"
+    ],
+    "pokemon-skill.pokemon.has.no.previous.evolution": [
+      "{pokemon} non ha un'evoluzione precedente"
+    ],
+    "pokemon-skill.pokemon.height": [
+      "{pokemon} \u00e8 {height}"
+    ],
+    "pokemon-skill.pokemon.id.is": [
+      "l'I D di {pokemon} \u00e8 {id}",
+      "{pokemon} \u00e8 il numero {id}"
+    ],
+    "pokemon-skill.pokemon.is.in.final.evolution": [
+      "{pokemon} \u00e8 nella sua evoluzione finale",
+      "{pokemon} non si pu\u00f2 evolvere ulteriormente"
+    ],
+    "pokemon-skill.pokemon.is.in.first.evolution": [
+      "{pokemon} \u00e8 nella sua prima evoluzione",
+      "{pokemon} \u00e8 nella sua evoluzione pi\u00f9 semplice"
+    ],
+    "pokemon-skill.pokemon.is.in.form": [
+      "{pokemon} \u00e8 in {form}"
+    ],
+    "pokemon-skill.pokemon.lives.in": [
+      "{pokemon} vive nella {habitat}",
+      "{pokemon} vive nel {habitat}",
+      "{pokemon} vivono nella {habitat}",
+      "{pokemon} vivono nel {habitat}",
+      "la dimora di {pokemon} \u00e8 nella {habitat}",
+      "la dimora di {pokemon} \u00e8 nel {habitat}"
+    ],
+    "pokemon-skill.pokemon.shape.is": [
+      "la forma di {pokemon} \u00e8 {shape}"
+    ],
+    "pokemon-skill.pokemon.type.one": [
+      "{pokemon} \u00e8 di tipo {type1}"
+    ],
+    "pokemon-skill.pokemon.type.two": [
+      "{pokemon} \u00e8 di tipo {type1} e {type2}"
+    ],
+    "pokemon-skill.pokemon.version.introduced": [
+      "{pokemon} \u00e8 stato introdotto in {versions} nella generazione {generation}"
+    ],
+    "pokemon-skill.pokemon.weighs": [
+      "{pokemon} pesa {weight}"
+    ],
+    "pokemon-skill.pounds": [
+      "libbre"
+    ],
+    "pokemon-skill.type.is.half": [
+      "{type} non \u00e8 molto efficacie contro {pokemon}"
+    ],
+    "pokemon-skill.type.is.none": [
+      "{type} non influenza {pokemon}"
+    ],
+    "pokemon-skill.type.is.normal": [
+      "{type} fa danni normali contro {pokemon}"
+    ],
+    "pokemon-skill.type.is.super": [
+      "{type} \u00e8 superefficace contro {pokemon}"
+    ],
+    "pokemon-skill.unable.to.find.pokemon": [
+      "Non sono stata capace di trovare un pok\u00e9mon per quella frase",
+      "Non sono stato capace di trovare un pok\u00e9mon per quella frase",
+      "Non ho potuto trovare quel pok\u00e9mon",
+      "Impossibile trovare quel pok\u00e9mon"
+    ],
+    "query.noAnswer": [
+      "Scusa, non so rispondere a questo",
+      "Non ho la risposta a questo",
+      "Non lo so",
+      "Non so"
+    ],
+    "remember-skill.delete": [
+      "Dovrei cancellare la frase: {{PHRASE}}?"
+    ],
+    "remember-skill.deleteall": [
+      "Dovrei cancellare tutto ci\u00f2 che ricordavo per te?"
+    ],
+    "remember-skill.forgotten": [
+      "\u00c8 dimenticato."
+    ],
+    "remember-skill.gotphrase": [
+      "Ricorder\u00f2 \"{{REMEMBER}}\" per te."
+    ],
+    "remember-skill.holdon": [
+      "Ricorder\u00f2 questa frase."
+    ],
+    "remember-skill.iremembered": [
+      "Ricordo: {{REMEMBER}}."
+    ],
+    "remember-skill.short": [
+      "Posso solo ricordare frasi o parole pi\u00f9 lunghe di quattro caratteri. Per favore riformulare."
+    ],
+    "remember-skill.sorry": [
+      "Mi dispiace, non riesco a ricordare alcuna frase!"
+    ],
+    "remember-skill.sorryforget": [
+      "Mi dispiace, c'\u00e8 stato un errore, non ho potuto dimenticare nulla!"
+    ],
+    "remember-skill.sorrynophrase": [
+      "Mi dispiace, non sono riuscito a trovare una frase corrispondente alla tua richiesta."
+    ],
+    "singing.singing": [
+      "Sarei felice di cantare per te.",
+      "Eccomi qui.",
+      "Sono un po' nervoso per la mia voce."
+    ],
+    "singing.singing.stop": [
+      "Grazie per l'attenzione.",
+      "Grazie per avermi ascoltato.",
+      "Spero che ti sia piaciuta la mia voce.",
+      "Ora prova tu."
+    ],
+    "speedtest-skill.error": [
+      "C'\u00e8 stato un errore, non ho potuto eseguire un test di velocit\u00e0 ... mi dispiace."
+    ],
+    "speedtest-skill.result": [
+      "La tua velocit\u00e0 di download \u00e8 di {{DOWN}} Megabit al secondo e la tua velocit\u00e0 di upload \u00e8 di {{UP}} Megabit al secondo."
+    ],
+    "speedtest-skill.running": [
+      "Avvio il test di velocit\u00e0 ora, torner\u00f2 con i risultati in un attimo."
+    ],
+    "version-checker.platform.build": [
+      "La mia versione corrente \u00e8 {{build}}."
+    ],
+    "version-checker.platform.build.none": [
+      "Sto girando su un disposituvo che non ha un numero di versione ufficiale."
+    ],
+    "version-checker.version": [
+      "Sono in funzione con mycroft-core versione {{version}}."
+    ],
+    "volume.already.max.volume": [
+      "volume gi\u00e0 al massimo",
+      "volume impostato su max",
+      "volume al massimo"
+    ],
+    "volume.decrease.volume": [
+      "Volume ridotto a {{volume}}",
+      "Il volume \u00e8 sceso a {{volume}}",
+      "Volume abbassato a {{volume}}"
+    ],
+    "volume.increase.volume": [
+      "Il volume \u00e8 salito a {{volume}}",
+      "Volume aumentato a {{volume}}",
+      "Volume alzato a {{volume}}"
+    ],
+    "volume.mute.volume": [
+      "Il volume sta per essere disattivato"
+    ],
+    "volume.neon.already.max.volume": [
+      "volume gi\u00e0 al massimo",
+      "volume impostato su max",
+      "volume al massimo"
+    ],
+    "volume.neon.decrease.volume": [
+      "Volume ridotto a {{volume}}",
+      "Il volume \u00e8 sceso a {{volume}}",
+      "Volume abbassato a {{volume}}"
+    ],
+    "volume.neon.increase.volume": [
+      "Il volume \u00e8 salito a {{volume}}",
+      "Volume aumentato a {{volume}}",
+      "Volume alzato a {{volume}}"
+    ],
+    "volume.neon.mute.volume": [
+      "Il volume sta per essere disattivato"
+    ],
+    "volume.neon.reset.volume": [
+      "Ripristino del volume a {{volume}}",
+      "Volume riavviato a {{volume}}",
+      "Volume ora a {{volume}}"
+    ],
+    "volume.neon.set.volume": [
+      "Volume impostato a {{volume}}",
+      "Volume aggiornato a {{volume}}",
+      "Volume cambiato in {{volume}}"
+    ],
+    "volume.neon.volume.is": [
+      "Il volume \u00e8 impostato a {{volume}}",
+      "Il volume \u00e8 a {{volume}}"
+    ],
+    "volume.reset.volume": [
+      "Ripristino del volume a {{volume}}",
+      "Volume riavviato a {{volume}}",
+      "Volume ora a {{volume}}"
+    ],
+    "volume.set.volume": [
+      "Volume impostato a {{volume}}",
+      "Volume aggiornato a {{volume}}",
+      "Volume cambiato in {{volume}}"
+    ],
+    "volume.volume.is": [
+      "Il volume \u00e8 impostato a {{volume}}",
+      "Il volume \u00e8 a {{volume}}"
+    ],
+    "weather.E": [
+      "est"
+    ],
+    "weather.N": [
+      "nord"
+    ],
+    "weather.NE": [
+      "nord est"
+    ],
+    "weather.NW": [
+      "nord ovest"
+    ],
+    "weather.S": [
+      "sud"
+    ],
+    "weather.SE": [
+      "sud est"
+    ],
+    "weather.SW": [
+      "sud ovest"
+    ],
+    "weather.W": [
+      "ovest"
+    ],
+    "weather.current.local.weather": [
+      "Attualmente \u00e8 {{condition}} e {{temp}} gradi {{scale}}. La previsione odierna prevede un massimo di {{temp_max}} e un minimo di {{temp_min}}.",
+      "Al momento \u00e8 {{condition}} e {{temp}} gradi. La previsione odierna prevede un massimo di {{temp_max}} e un minimo di {{temp_min}}.",
+      "Al momento \u00e8 {{condition}} e {{temp}} gradi, per un massimo di {{temp_max}} e un minimo di {{temp_min}}.",
+      "Con un massimo di {{temp_max}} e un minimo di {{temp_min}}, a {{location}} \u00e8 {{condition}} ed attualmente {{temp}} gradi."
+    ],
+    "weather.current.weather": [
+      "Attualmente \u00e8 {{condition}} e {{temp}} gradi {{scale}} a {{location}}. La previsione odierna prevede un massimo di {{temp_max}} e un minimo di {{temp_min}}.",
+      "Al momento \u00e8 {{condition}} e {{temp}} gradi, per un massimo di {{temp_max}} e un minimo di {{temp_min}} a {{location}}.",
+      "Con un massimo di {{temp_max}} e un minimo di {{temp_min}}, a {{location}} \u00e8 {{condition}} ed attualmente {{temp}} gradi."
+    ],
+    "weather.do not know": [
+      "Temo di non saperlo",
+      "Non ho quella informazione",
+      "Non ho questa informazione"
+    ],
+    "weather.forecast.local.weather": [
+      "{{day}} sar\u00e0 {{condition}}, con un massimo di {{temp_max}} e un minimo di {{temp_min}} gradi",
+      "{{day}} ma temperatura massimo sar\u00e0 {{temp_max}} e la minima {{temp_min}}, con condizioni di {{condition}}",
+      "La previsione di {{day}} \u00e8 {{temp_max}} gradi come massimo e {{temp_min}} gradi come minimo"
+    ],
+    "weather.forecast.weather": [
+      "{{day}} sar\u00e0 {{condition}}, con un massimo di {{temp_max}} e un minimo di {{temp_min}} gradi",
+      "{{day}}, {{location}} avr\u00e0 un massimo di {{temp_max}} e un minimo di {{temp_min}} gradi, con condizioni {{condition}}",
+      "La previsione per {{day}} \u00e8 {{temp_max}} come massima e {{temp_min}} come minima"
+    ],
+    "weather.heavy": [
+      "pesante"
+    ],
+    "weather.hour.local.weather": [
+      "Sar\u00e0 {{condition}}, con temperature vicine a {{temp_max}}",
+      "Pi\u00f9 tardi sar\u00e0 {{condition}} e intorno a {{temp_max}} gradi",
+      "Pi\u00f9 tardi sar\u00e0 {{condition}} con {{temp_max}} gradi",
+      "Intorno ai {{temp_max}} gradi con condizioni {{condition}}"
+    ],
+    "weather.hour.weather": [
+      "Il meteo di {{location}} nelle prossime ore sar\u00e0 {{condition}} con {{temp_max}} gradi",
+      "Pi\u00f9 tardi sar\u00e0 {{condition}} a {{location}}, con temperature intorno a {{temp_max}} gradi",
+      "{{location}} sar\u00e0 intorno ai {{temp_max}} gradi e {{condition}}",
+      "{{location}} sar\u00e0 a circa {{temp_max}} gradi e {{condition}}"
+    ],
+    "weather.humidity": [
+      "umidit\u00e0"
+    ],
+    "weather.light": [
+      "luminosit\u00e0"
+    ],
+    "weather.location.not.found": [
+      "Non sono sicuro di dove sia",
+      "Non conosco quella localit\u00e0",
+      "Non conosco quel posto"
+    ],
+    "weather.meters per second": [
+      "metri al secondo"
+    ],
+    "weather.miles per hour": [
+      "miglia per ora"
+    ],
+    "weather.no forecast": [
+      "Somo spiacente, non conosco le previsioni per {{day}}",
+      "Non ho una previsione per {{day}}"
+    ],
+    "weather.no precipitation expected": [
+      "Nessuna precipitazione nelle previsioni"
+    ],
+    "weather.precipitation expected": [
+      "{{modifier}} {{precip}} \u00e8 previsto per {{day}}",
+      "La previsione indica {{modifier}} {{precip}} per {{day}}"
+    ],
+    "weather.rain": [
+      "pioggia"
+    ],
+    "weather.report.condition": [
+      "{{condition}} al {{value}}"
+    ],
+    "weather.report.future.condition": [
+      "{{condition}} per {{day}} sar\u00e0 al {{value}}",
+      "Per {{day}} la previsione indica {{condition}} al {{value}}"
+    ],
+    "weather.sky is clear.future": [
+      "sereno"
+    ],
+    "weather.snow": [
+      "neve"
+    ],
+    "weather.wind.speed": [
+      "{{speed}} {{unit}}"
+    ],
+    "weather.wind.speed.dir": [
+      "a {{speed}} {{unit}} proveniente da {{dir}}",
+      "proveniente da {{dir}} a {{speed}} {{unit}}"
+    ],
+    "weather.winds": [
+      "il vento"
+    ],
+    "white-house-adventure.LeavingZork": [
+      "Stai per lasciare il misterioso regno di Zork",
+      "Stai lasciando Zork",
+      "Uscita da Zork"
+    ],
+    "white-house-adventure.NoSave": [
+      "Non c'\u00e8 una partita salvata",
+      "Non ci sono partite salvate"
+    ],
+    "white-house-adventure.SaveDeleted": [
+      "Partita salvata eliminata",
+      "Eliminata la partita salvata"
+    ],
+    "wikiquote-skill.notfound": [
+      "Non trovo nessuna citazione per {{subject}}"
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "ca-es": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "S\u00ed",
+      "No",
+      "Intenteu preguntar m\u00e9s tard",
+      "Definitivament",
+      "Per descomptat que no",
+      "Clar que si",
+      "Nop",
+      "Per qu\u00e8 no?",
+      "No apostaria per aix\u00f2",
+      "Segur!",
+      "No us feu il\u00b7lusions"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "Molt b\u00e9!",
+      "Aix\u00f2 \u00e9s!",
+      "Correcte!",
+      "Heu encertat!",
+      "Bona feina!",
+      "Heu guanyat!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "Quin voleu que sigui el l\u00edmit inferior?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "Quin voleu que sigui el l\u00edmit superior?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "Endevineu el nombre",
+      "Quin creieu que \u00e9s el nombre",
+      "Endevineu"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "No he pogut entendre el que heu dit",
+      "Alguna cosa ha fallat mentre intentava entendre-ho",
+      "S'ha produ\u00eft un error d'entrada",
+      "Podrieu repetir-ho?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "Aquesta resposta no \u00e9s v\u00e0lida. Necessito un nombre",
+      "Responeu amb un nombre",
+      "Heu de respondre amb un nombre",
+      "Aix\u00f2 no \u00e9s un nombre"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "D'acord, juguem",
+      "Que comenci el joc",
+      "Iniciant la partida",
+      "Comencem",
+      "Ensenya'm el que tens",
+      "D'acord. Juguem a Endevina el Nombre"
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "Massa gran"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "Massa petit"
+    ],
+    "cocktail.NotFound": [
+      "Vaja, no he trobat la beguda sol\u00b7licitada",
+      "Ho sento, per\u00f2 no ho he pogut trobar"
+    ],
+    "cocktail.YouWillNeed": [
+      "Necessitareu {ingredients} i {final_ingredient}",
+      "Necessitareu {ingredients} i {final_ingredient}",
+      "Els ingredients necessaris s\u00f3n: {ingredients} i {final_ingredient}"
+    ],
+    "ddg.no_answer": [
+      "duck duck go no en sap la resposta"
+    ],
+    "ddg.thats all": [
+      "Aix\u00f2 \u00e9s tot el qu\u00e8 s\u00e9",
+      "Aix\u00f2 \u00e9s tot el que he trobat"
+    ],
+    "email-skill.already.looking.for.all": [
+      "Ja estic buscant un nou correu",
+      "Ja he estat buscant un nou correu",
+      "Actualment estic mirant el nou correu"
+    ],
+    "email-skill.already.looking.for.specific": [
+      "Ja estic buscant correus de {email}",
+      "Ja he estat buscant un nou correu de {email}",
+      "Ja estic buscant correus de {email}"
+    ],
+    "email-skill.cancel.looking.for.all.look.specific": [
+      "Actualment busco tots els correus nous, voleu que nom\u00e9s us notifiqui els correus electr\u00f2nics mitjan\u00e7ant {email}",
+      "Ja he buscat un correu electr\u00f2nic nou, nom\u00e9s voleu que us notifiqui el correu electr\u00f2nic nou de {email}"
+    ],
+    "email-skill.cancel.looking.for.specific.look.all": [
+      "Ara estic buscant {email}, voleu que busqui tots els missatges nous?",
+      "En aquest moment, nom\u00e9s estic buscant correu electr\u00f2nic de {email}. Voleu que busqui tot el correu electr\u00f2nic?",
+      "Voleu que busqui tots els correus en lloc de cercar nom\u00e9s correus de {email}"
+    ],
+    "email-skill.error.getting.mail": [
+      "S'ha produ\u00eft un error en obtenir el vostre correu electr\u00f2nic. Verifiqueu les vostres credencials i la informaci\u00f3 del servidor.",
+      "Verifiqueu les vostres credencials i la informaci\u00f3 del servidor, sembla que s'ha produ\u00eft un problema en obtenir el vostre correu.",
+      "No puc connectar al vostre servidor de correu. Verifiqueu la clau d'acc\u00e9s i la informaci\u00f3 del servidor."
+    ],
+    "email-skill.list.subjects": [
+      "El missatge n\u00famero {message_num} \u00e9s de {sender}. L'assumpte \u00e9s {subject}",
+      "L'assumpte del missatge {message_num} \u00e9s {subject}. L'envia {sender}"
+    ],
+    "email-skill.more.emails": [
+      "voleu sentir-ne m\u00e9s?",
+      "voleu sentir m\u00e9s missatges?",
+      "en voleu sentir m\u00e9s?"
+    ],
+    "email-skill.no.emails.from": [
+      "No hi ha correus de {sender}",
+      "No tens cap correu de {sender}",
+      "No has rebut cap correu de {sender}"
+    ],
+    "email-skill.no.more.emails": [
+      "D'acord"
+    ],
+    "email-skill.no.new.email": [
+      "No hi ha correu nou",
+      "No hi ha correu nou",
+      "No hi ha correu nou",
+      "No teniu correu nou",
+      "No teniu correu nou",
+      "No hi ha correu nou per a tu",
+      "No teniu correu nou",
+      "No teniu correu nou"
+    ],
+    "email-skill.not.looking.for": [
+      "Ara no estic buscant correus de {email}",
+      "No estic buscant correu de {email}",
+      "Ara no estic buscant correu de {email}"
+    ],
+    "email-skill.notify.read.email": [
+      "Teniu {size} correu electr\u00f2nic nou, voleu escoltar-los",
+      "Hi ha {size} correu electr\u00f2nic nou. Voleu escoltar-los?",
+      "Voleu escoltar els vostres {size} correus electr\u00f2nics"
+    ],
+    "email-skill.poll.emails.not.started": [
+      "No estic buscant cap correu nou",
+      "Ara no estic buscant cap correu electr\u00f2nic nou"
+    ],
+    "email-skill.setup": [
+      "Per configurar l'habilitat de correu electr\u00f2nic, aneu a home punt mycroft punt a i per introduir la vostra informaci\u00f3 de correu electr\u00f2nic",
+      "Cal que configureu l'habilitat de correu eletr\u00f2nic. Per fer-ho, aneu a home punt mycroft punt a i per a introduir la informaci\u00f3 del correu electr\u00f2nic"
+    ],
+    "email-skill.start.poll.email": [
+      "Us notificar\u00e9 si teniu correu nou",
+      "D'acord, comen\u00e7ar\u00e9 a notificar-vos del correu nou",
+      "Comen\u00e7o a mirar si hi ha correu nou"
+    ],
+    "email-skill.stop.looking.for": [
+      "Deixo de comprovar si hi ha correu de {email}",
+      "D'acord, deixo de comprovar si hi ha correu nou de {email}"
+    ],
+    "email-skill.stop.poll.emails": [
+      "D'acord, deixo de comprovar si hi ha correu nou",
+      "D'acord, ja no mirar\u00e9 si hi ha correu nou"
+    ],
+    "email-skill.stop.poll.emails.last.email.removed": [
+      "Deixo de mirar si hi arriba correu nou, perqu\u00e8 no hi ha cap adre\u00e7a electr\u00f2nica de la qual vulgueu que us notifique"
+    ],
+    "email-skill.update.notify.data": [
+      "He actualitzat les vostres prefer\u00e8ncies de correu",
+      "D'acord, he actualitzat les vostres prefer\u00e8ncies de correu"
+    ],
+    "emby-skill.configuration_fail": [
+      "No s'ha pogut connectar amb el servidor Emby. Reviseu o ajusteu la configuraci\u00f3 a home.Mycroft.ai "
+    ],
+    "emby-skill.configuration_success": [
+      "S'ha connectat correctament al servidor Emby a {hostname}"
+    ],
+    "emby-skill.diag_auth_fail": [
+      "\u00c9s impossible validar el servidor Emby. Comproveu o ajusteu la configuraci\u00f3 a home.Mycroft.ai"
+    ],
+    "emby-skill.diag_auth_success": [
+      "S'ha validat correctament el servidor Emby!"
+    ],
+    "emby-skill.diag_public_info_fail": [
+      "El servidor Emby a {host} no respon."
+    ],
+    "emby-skill.diag_public_info_success": [
+      "Genial! Puc accedir a {ServerName} que es troba a {LocalAddress} a la versi\u00f3 executada {Version}. S'est\u00e0 intentant validar."
+    ],
+    "emby-skill.diag_start": [
+      "S'executar\u00e0 un diagn\u00f2stic de verificaci\u00f3 a la connexi\u00f3 de l'habilitat emby. Aix\u00f2 comprovar\u00e0 si es pot accedir al servidor i si m'hi puc identificar."
+    ],
+    "emby-skill.diag_stop": [
+      "El diagn\u00f2stic s'ha aturat."
+    ],
+    "emby-skill.diagnostic": [
+      "S'ha completat el diagn\u00f2stic. Puc connectar-me i identificar-me al servidor Emby. \u00c9s hora de posar m\u00fasica!"
+    ],
+    "emby-skill.emby": [
+      "S'est\u00e0 reproduint {media}"
+    ],
+    "emby-skill.general_check_settings_logs": [
+      "Comprova la configuraci\u00f3 a Mycroft.ai. Si el problema continua, comproveu els logs de Mycroft per a m\u00e9s informaci\u00f3."
+    ],
+    "emby-skill.play_fail": [
+      "\u00c9s impossible trobar o reproduir {media}. Torneu-ho a provar.",
+      "\u00c9s impossible trobar o reproduir {media}. Torneu-ho a intentar. Si aix\u00f2 continua passant reviseu la configuraci\u00f3 a home.Mycroft.ai"
+    ],
+    "icanhazdadjokes.no_joke": [
+      "no he trobat cap broma sobre {search}"
+    ],
+    "white-house-adventure.LeavingZork": [
+      "S'est\u00e0 abandonant el misteri\u00f3s regne de Zork",
+      "S'est\u00e0 abandonant Zork",
+      "S'est\u00e0 sortint de Zork"
+    ],
+    "white-house-adventure.NoSave": [
+      "No hi ha cap partida guardada actualment",
+      "No hi ha cap partida guardada"
+    ],
+    "white-house-adventure.SaveDeleted": [
+      "Partida suprimida",
+      "Partida suprimida"
+    ],
+    "wikipedia-for-humans.no entry found": [
+      "No puc trobar cap article relacionat en la Viquip\u00e8dia ",
+      "Em sembla que no hi ha cap article sobre aix\u00f2"
+    ],
+    "wikipedia-for-humans.searching": [
+      "Deixeu-me cercar {{query}} a la Viquip\u00e8dia",
+      "Estic cercant a la Viquip\u00e8dia sobre {{query}}"
+    ],
+    "wikipedia-for-humans.thats all": [
+      "Aix\u00f2 \u00e9s tot el que en s\u00e9",
+      "Aix\u00f2 \u00e9s tot el que puc trobar-ne"
+    ],
+    "wikipedia-for-humans.wikiroulette": [
+      "s'ha activat la ruleta del coneixement",
+      "esteu jugant a la ruleta del coneixement"
+    ],
+    "wolfie.no_answer": [
+      "Wolfram alpha no en sap la resposta"
+    ]
+  }
+}

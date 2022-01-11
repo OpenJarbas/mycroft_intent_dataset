@@ -1,0 +1,125 @@
+ro-ro,Crystal-Ball-Mycroft-Skill.random.answer,da
+ro-ro,Crystal-Ball-Mycroft-Skill.random.answer,nu
+ro-ro,Crystal-Ball-Mycroft-Skill.random.answer,Încearcă să întrebi din nou mai tarziu
+ro-ro,Crystal-Ball-Mycroft-Skill.random.answer,Categoric
+ro-ro,Crystal-Ball-Mycroft-Skill.random.answer,Desigur că nu
+ro-ro,Crystal-Ball-Mycroft-Skill.random.answer,Sigur
+ro-ro,Crystal-Ball-Mycroft-Skill.random.answer,Nu
+ro-ro,Crystal-Ball-Mycroft-Skill.random.answer,De ce nu?
+ro-ro,Crystal-Ball-Mycroft-Skill.random.answer,Nu aș paria pe asta
+ro-ro,Crystal-Ball-Mycroft-Skill.random.answer,Pariezi!
+ro-ro,Crystal-Ball-Mycroft-Skill.random.answer,Nu vă țineți respirația
+ro-ro,Number-Guess-Mycroft-Skill.correct,Asta e corect!
+ro-ro,Number-Guess-Mycroft-Skill.correct,Ai inteles!
+ro-ro,Number-Guess-Mycroft-Skill.correct,Corect!
+ro-ro,Number-Guess-Mycroft-Skill.correct,Acesta este numărul!
+ro-ro,Number-Guess-Mycroft-Skill.correct,Bună treabă!
+ro-ro,Number-Guess-Mycroft-Skill.correct,Ai castigat!
+ro-ro,Number-Guess-Mycroft-Skill.get.lower,Care vrei să fie limita inferioară?
+ro-ro,Number-Guess-Mycroft-Skill.get.upper,Care vrei să fie limita superioară?
+ro-ro,Number-Guess-Mycroft-Skill.guess,Ghici numărul
+ro-ro,Number-Guess-Mycroft-Skill.guess,care credeți că este numărul
+ro-ro,Number-Guess-Mycroft-Skill.guess,Ghici
+ro-ro,Number-Guess-Mycroft-Skill.input.error,Nu am putut să înțeleg ce ai spus
+ro-ro,Number-Guess-Mycroft-Skill.input.error,Sa întâmplat ceva în timp ce încercam să înțeleg asta
+ro-ro,Number-Guess-Mycroft-Skill.input.error,A apărut o eroare de intrare
+ro-ro,Number-Guess-Mycroft-Skill.input.error,Poti sa spui asta din nou?
+ro-ro,Number-Guess-Mycroft-Skill.invalid.input,Răspunsul a fost nevalid. Am nevoie de un număr
+ro-ro,Number-Guess-Mycroft-Skill.invalid.input,Răspundeți cu un număr
+ro-ro,Number-Guess-Mycroft-Skill.invalid.input,Trebuie să răspundeți cu un număr
+ro-ro,Number-Guess-Mycroft-Skill.invalid.input,Acesta nu e un număr
+ro-ro,Number-Guess-Mycroft-Skill.start.game,OK să jucăm
+ro-ro,Number-Guess-Mycroft-Skill.start.game,Sa inceapa jocul
+ro-ro,Number-Guess-Mycroft-Skill.start.game,Pornirea jocului
+ro-ro,Number-Guess-Mycroft-Skill.start.game,Să începem
+ro-ro,Number-Guess-Mycroft-Skill.start.game,Să vedem ce ai
+ro-ro,Number-Guess-Mycroft-Skill.start.game,În regulă. Să jucăm ghiceste numărul
+ro-ro,Number-Guess-Mycroft-Skill.too.high,Prea sus
+ro-ro,Number-Guess-Mycroft-Skill.too.low,Prea jos
+ro-ro,auto-volume-skill.activate,Ok
+ro-ro,auto-volume-skill.activate,Volum automat pornit
+ro-ro,auto-volume-skill.activate,Am pornit volumul automat
+ro-ro,auto-volume-skill.deactivate,Ok
+ro-ro,auto-volume-skill.deactivate,Oprește volumul automat
+ro-ro,auto-volume-skill.deactivate,Acum am oprit volumul automat
+ro-ro,auto-volume-skill.reset,Am revenit la setările inițiale pentru volumul automat
+ro-ro,cocktail.NotFound,Scuze nu am găsit băutura solicitată
+ro-ro,cocktail.NotFound,Mă tem că nu am putut găsi asta
+ro-ro,cocktail.YouWillNeed,Veți avea nevoie de {ingredients} și {final_ingredient}
+ro-ro,cocktail.YouWillNeed,Veți avea nevoie de {ingredients} și {final_ingredient}
+ro-ro,cocktail.YouWillNeed,Ingredienele necesare sunt: {ingredients} și {final_ingredient}
+ro-ro,count-skill.count_error,Nu înțeleg.
+ro-ro,count-skill.count_error,îmi scapă ceva
+ro-ro,count-skill.count_error,Mai spune o dată
+ro-ro,count-skill.count_error,Scuze. Nu te-am auzit.
+ro-ro,count-skill.count_start,Număr până la {number}. începând de acum!
+ro-ro,count-skill.count_stop,Gata!
+ro-ro,count-skill.count_stop,Terminat!
+ro-ro,count-skill.countdown_start,Numără invers de la {number}. Începând de acum!
+ro-ro,count-skill.countdown_stop,Gata!
+ro-ro,count-skill.countdown_stop,Terminat!
+ro-ro,cut-up-skill.frag_type.set,A fost selectat tipul de fragment {{frag_type}}.
+ro-ro,cut-up-skill.maximum.set,Dimensiunea maximă a segmentului este setată la {{max}}.
+ro-ro,cut-up-skill.minimum.set,Dimensiunea minimă a segmentului este setată la {{min}}.
+ro-ro,cut-up-skill.randomness.set,Nivelul de aleatoriu a fost setat la {{rand}} procente.
+ro-ro,dice-skill.multiple.modificator.result,Numerele tale sunt {result} și au suma {total}
+ro-ro,dice-skill.multiple.result,Numerele sunt {result}
+ro-ro,dice-skill.range.needed,E nevoie să specificați un interval
+ro-ro,dice-skill.range.needed,Am nevoie de un interval pentru a face asta
+ro-ro,dice-skill.range.needed,Spune-mi din ce interval vrei să facă parte numerele
+ro-ro,dice-skill.single.modificator.result,Rezultatul este {total}.
+ro-ro,dice-skill.single.result,Rezultatul este {result}.
+ro-ro,dice-skill.single.result,Numărul tău este {result}
+ro-ro,email-skill.error.getting.email,A apărut o eroare la preluarea mesajelor Verifica datele și setările serverului
+ro-ro,email-skill.error.getting.email,Verificați informațiile de autentificare și informații despre server deoarece a apărut o problemă la primirea corespondenței
+ro-ro,email-skill.error.getting.email,Nu mă pot conecta la serverul de e-mail Verificați parola și informațiile despre server
+ro-ro,email-skill.list.subjects,numărul {message_num} este de la {sender} Subiectul său este {subject}
+ro-ro,email-skill.list.subjects,subiectului mesajului numărul {message_num} este {subject} De la {sender}
+ro-ro,email-skill.list.subjects,mesajul numărul {message_num} este de la {sender} Subiectul său este {subject}
+ro-ro,email-skill.more.emails,ați dori să auziți mai mult
+ro-ro,email-skill.more.emails,doriți să auziți mai multe e-mailuri
+ro-ro,email-skill.more.emails,vrei sa mai auzi
+ro-ro,email-skill.no.more.emails,okay
+ro-ro,email-skill.no.new.email,Nu există niciun e-mail nou
+ro-ro,email-skill.no.new.email,Nu există niciun e-mail nou
+ro-ro,email-skill.no.new.email,Nu există niciun e-mail nou
+ro-ro,email-skill.no.new.email,Nu există niciun e-mail nou
+ro-ro,email-skill.no.new.email,Nu există niciun e-mail nou pentru tine
+ro-ro,email-skill.no.new.email,Nu există niciun e-mail nou pentru tine
+ro-ro,email-skill.no.new.email,Nu aveți nicio corespondență nouă
+ro-ro,email-skill.no.new.email,Nu aveți niciun e-mail nou
+ro-ro,email-skill.setup,Pentru a seta abilitatea de e-mail în sus vă rugăm să mergeți la home punct mycroft punct a i pentru a introduce informațiile de e-mail
+ro-ro,email-skill.setup,Trebuie să configurați abilitatea de e-mail Pentru a face acest lucru vă rugăm să mergeți la home punct mycroft punct a i pentru a introduce informațiile de e-mail
+ro-ro,emby-skill.emby,Redați mixul {media}
+ro-ro,fallback-aiml.reset.memory,Resetarea bazei de date a cunoștințelor
+ro-ro,fallback-aiml.reset.memory,Uitând totul
+ro-ro,fallback-aiml.reset.memory,Bine acum îmi voi reseta memoria
+ro-ro,fallback-aiml.reset.memory,Înlăturarea creierului a fost inițiată
+ro-ro,iss-tracker-skill.location.current,I S S este deasupra {{latitude}} latitudine {{longitude}} longitudine care corespunde cu {{toponym}}
+ro-ro,iss-tracker-skill.location.current,Stația spațială este la {{latitude}} latitudine {{longitudine}} longitudine peste {{toponym}}
+ro-ro,iss-tracker-skill.location.current,Este la {{latitude}} longitudine latitudine {{longitude}} peste {{toponym}}
+ro-ro,iss-tracker-skill.location.current,Stația spațială internațională este acum peste {{toponym}} la {{latitude}} latitudine {{longitude}} longitudine
+ro-ro,iss-tracker-skill.location.current,Peste {{toponym}} la {{latitude}} latitudine și { ( longitude}} longitudine )
+ro-ro,iss-tracker-skill.location.unknown,Ne pare rău {{latitude}} latitudine {{longitude}} longitudine nu este cunoscută
+ro-ro,iss-tracker-skill.location.unknown,Ne pare rău Stația spațială este la {{latitude}} latitudine {{longitudine}} longitudine dar nu știu unde este asta
+ro-ro,iss-tracker-skill.location.unknown,Este la {{latitude}} latitudine {{longitude}} longitudine care nu este codificată în baza de date
+ro-ro,iss-tracker-skill.location.unknown,ISS este acum deasupra {{latitude}} latitudine {{longitude}} longitudine dar nu există nicio denumire geografică asociată
+ro-ro,krunner-search-skill.krunner.recent,Afișarea fișierelor recente
+ro-ro,krunner-search-skill.krunner.search,Caut local pentru {{Query}}
+ro-ro,picroft-google-aiy-voicekit-skill.error.initialize,Am probleme cu inițializarea Abilitati de voce Google A I Y. Abilitatea nu se încarcă.
+ro-ro,plasma-activities-skill.activities.create,Activitatea dvs. {{ ActivityName }} a fost creată
+ro-ro,plasma-activities-skill.activities.remove,Activitatea a fost eliminată
+ro-ro,plasma-activities-skill.activities.show,Afișarea activităților
+ro-ro,plasma-activities-skill.activities.stop,activitatea {{ StopActivityName }} a fost oprită
+ro-ro,plasma-activities-skill.activities.switch,Trecere la activitatea {{SwitchActivityName}}
+ro-ro,query.noAnswer,Îmi pare rău nu știu răspunsul la asta
+ro-ro,query.noAnswer,Nu am răspunsul pentru asta
+ro-ro,query.noAnswer,Nu știu
+ro-ro,query.noAnswer,Nu am idee
+ro-ro,white-house-adventure.LeavingZork,Lăsând împărăția misterioasă din Zork
+ro-ro,white-house-adventure.LeavingZork,Plecând acum de la Zork
+ro-ro,white-house-adventure.LeavingZork,Plecând de la Zork
+ro-ro,white-house-adventure.NoSave,Nu există nici o salvare curentă
+ro-ro,white-house-adventure.NoSave,Nu există niciun joc de salvare
+ro-ro,white-house-adventure.SaveDeleted,Joc salvat sters
+ro-ro,white-house-adventure.SaveDeleted,Eliminat jocul salvat

@@ -1,0 +1,596 @@
+it-it,Crystal-Ball-Mycroft-Skill.random.answer,Sì
+it-it,Crystal-Ball-Mycroft-Skill.random.answer,No
+it-it,Crystal-Ball-Mycroft-Skill.random.answer,Prova a chiedermelo più tardi
+it-it,Crystal-Ball-Mycroft-Skill.random.answer,Decisamente
+it-it,Crystal-Ball-Mycroft-Skill.random.answer,Ovviamente no
+it-it,Crystal-Ball-Mycroft-Skill.random.answer,Certamente
+it-it,Crystal-Ball-Mycroft-Skill.random.answer,No
+it-it,Crystal-Ball-Mycroft-Skill.random.answer,Perché no?
+it-it,Crystal-Ball-Mycroft-Skill.random.answer,Non ci scommetterei
+it-it,Crystal-Ball-Mycroft-Skill.random.answer,Puoi scommetterci!
+it-it,Crystal-Ball-Mycroft-Skill.random.answer,Non trattenere il respiro
+it-it,Number-Guess-Mycroft-Skill.correct,Giusto!
+it-it,Number-Guess-Mycroft-Skill.correct,Hai indovinato!
+it-it,Number-Guess-Mycroft-Skill.correct,Corretto!
+it-it,Number-Guess-Mycroft-Skill.correct,Questo è il numero!
+it-it,Number-Guess-Mycroft-Skill.correct,Bel lavoro!
+it-it,Number-Guess-Mycroft-Skill.correct,Hai vinto!
+it-it,Number-Guess-Mycroft-Skill.get.lower,Quale vuoi che sia il limite inferiore?
+it-it,Number-Guess-Mycroft-Skill.get.upper,Quale vuoi che sia il limite superiore?
+it-it,Number-Guess-Mycroft-Skill.guess,Indovina il numero
+it-it,Number-Guess-Mycroft-Skill.guess,Quale pensi che sia il numero
+it-it,Number-Guess-Mycroft-Skill.guess,Indovina
+it-it,Number-Guess-Mycroft-Skill.input.error,Non ho capito cosa hai detto
+it-it,Number-Guess-Mycroft-Skill.input.error,Qualcosa è andato storto mentre stavo cercando di capirti
+it-it,Number-Guess-Mycroft-Skill.input.error,Si è verificato un errore di input
+it-it,Number-Guess-Mycroft-Skill.input.error,Potresti ripeterlo?
+it-it,Number-Guess-Mycroft-Skill.invalid.input,Quella risposta non era valida. Ho bisogno di un numero
+it-it,Number-Guess-Mycroft-Skill.invalid.input,Si prega di rispondere con un numero
+it-it,Number-Guess-Mycroft-Skill.invalid.input,Devi rispondere con un numero
+it-it,Number-Guess-Mycroft-Skill.invalid.input,Questo non è un numero
+it-it,Number-Guess-Mycroft-Skill.start.game,OK giochiamo
+it-it,Number-Guess-Mycroft-Skill.start.game,Che il gioco abbia inizio
+it-it,Number-Guess-Mycroft-Skill.start.game,Iniziamo il gioco
+it-it,Number-Guess-Mycroft-Skill.start.game,Iniziamo
+it-it,Number-Guess-Mycroft-Skill.start.game,Vediamo cosa hai
+it-it,Number-Guess-Mycroft-Skill.start.game,Tutto apposto. Giochiamo a indovina il numero
+it-it,Number-Guess-Mycroft-Skill.too.high,Troppo alto
+it-it,Number-Guess-Mycroft-Skill.too.low,Troppo basso
+it-it,aircrack.cannot.sudo,Errore non riesco dare sudo con comandi aircrack senza una password. Si prega di consultare github punto com barra JonStratton barra skill-aircrack per le note sull'accesso sudo.
+it-it,aircrack.captured.handshake,Handshake catturato
+it-it,aircrack.confirm.permission,L'accesso a una rete Wi-Fi senza essere autorizzato all'uso può essere illegale. Confermare di disporre dell'autorizzazione per connettersi a questa rete dicendo SÌ altrimenti pronunciare NO per annullare.
+it-it,aircrack.deauthing.clients,Sto rimuovendo i client connessi alla rete {{selected_network}}.
+it-it,aircrack.interfaces.are,Le seguenti interfacce sono disponibili: {{available_networks}}
+it-it,aircrack.interfaces.are,Ecco le interfacce disponibili: {{available_interfaces}}
+it-it,aircrack.interfaces.are,{{available_interfaces}} sono disponibili.
+it-it,aircrack.monitor.stopped.early,Il monitor si è fermato prima che l'handshake fosse catturato.
+it-it,aircrack.networks.are,Le seguenti reti sono disponibili: {{available_networks}}
+it-it,aircrack.no.interfaces,Non ci sono interfacce disponibili.
+it-it,aircrack.no.networks,Non ci sono reti disponibili.
+it-it,aircrack.no.password,Password non trovata.
+it-it,aircrack.no.such.interface,Nessuna interfaccia trovata.
+it-it,aircrack.no.such.network,Nessuna rete trovata.
+it-it,aircrack.recovered.password,Recuperata la seguente password: {{password}}
+it-it,aircrack.select.interface.first,Si prega di selezionare prima l'interfaccia.
+it-it,aircrack.selected.interface,Selezionata l'interfaccia {{selected_interface}}.
+it-it,aircrack.selected.network,Selezionato la rete {{selected_network}}.
+it-it,aircrack.start.monitor,Avvio del monitor
+it-it,aircrack.stop.monitor,Arresto del monitor
+it-it,audio-record.audio.record.disk.full,Spazio libero su disco insufficiente per registrare audio
+it-it,audio-record.audio.record.disk.full,La registrazione audio non è possibile. Devi liberare un po' del disco
+it-it,audio-record.audio.record.disk.full,Hai raggiunto il massimo utilizzo del disco. Liberare spazio per registrare un audio
+it-it,audio-record.audio.record.no.recording,Non c'è nessuna registrazione disponibile
+it-it,audio-record.audio.record.no.recording,Nessuna registrazione trovata
+it-it,audio-record.audio.record.removed,Registrazione cancellata
+it-it,audio-record.audio.record.removed,Registrazione rimossa
+it-it,audio-record.audio.record.removed,Cancellazione
+it-it,audio-record.audio.record.start,Registrazione audio
+it-it,audio-record.audio.record.start,Avvio la registrazione audio
+it-it,audio-record.audio.record.start,Registrazione audio iniziata
+it-it,audio-record.audio.record.start.duration,Registrazione audio per {{duration}} secondi
+it-it,audio-record.audio.record.start.duration,Avvio della registrazione audio per {{duration}} secondi
+it-it,audio-record.audio.record.start.duration,Registrazione audio per {{duration}} secondi inizializzata
+it-it,audio-record.audio.record.stop,La registrazione audio è terminata
+it-it,audio-record.audio.record.stop,Fermata la registrazione audio
+it-it,audio-record.audio.record.stop,La registrazione audio è stata fermata
+it-it,audio-record.audio.record.stop.play,Riproduzione audio terminata
+it-it,audio-record.audio.record.stop.play,Interruzione della riproduzione audio
+it-it,audio-record.audio.record.stop.play,La riproduzione audio è stata interrotta
+it-it,auto-volume-skill.activate,(OK|va bene)
+it-it,auto-volume-skill.activate,Volume automatico attivato
+it-it,auto-volume-skill.activate,Ho attivato il volume automatico
+it-it,auto-volume-skill.deactivate,(OK|va bene)
+it-it,auto-volume-skill.deactivate,Il volume automatico è disattivato
+it-it,auto-volume-skill.deactivate,Ho appena disattivato il volume automatico
+it-it,auto-volume-skill.reset,Ho appena resettato il volume automatico
+it-it,cocktail.NotFound,Mi spiace non trovo il drink richiesto
+it-it,cocktail.NotFound,Ho paura di non aver trovato niente
+it-it,cocktail.YouWillNeed,Servono {ingredients} e {final_ingredient}
+it-it,cocktail.YouWillNeed,Ti servono {ingredients} e {final_ingredient}
+it-it,cocktail.YouWillNeed,Gli ingredienti richiesti sono: {ingredients} e {final_ingredient}
+it-it,configuration.config.no_change,La configurazione non è cambiata
+it-it,configuration.config.no_change,Nessuna modifica da applicare
+it-it,configuration.config.not.paired,Impossibile recuperare la configurazione il dispositivo non è accoppiato.
+it-it,configuration.config.not.paired,Impossibile aggiornare la configurazione si prega di accoppiare il dispositivo.
+it-it,configuration.config.updated,Configurazione aggiornata.
+it-it,configuration.config.updated,La configurazione del dispositivo è stata aggiornata.
+it-it,configuration.config.updated,Il dispositivo è stato configurato.
+it-it,configuration.download.started,Sto scaricando il nuovo listener questo richiederà alcuni secondi e non potrai utilizzarmi fino al completamento. Dammi un minuto prima di tentare di attivarmi di nuovo.
+it-it,configuration.get.listener,Il listener corrente è {{listener}}.
+it-it,configuration.get.listener,Il listener è impostato su {{listener}}
+it-it,configuration.i.am.at,Io sono a {{city}} {{state}} {{country}}
+it-it,configuration.i.am.at,Le mie impostazioni mi dicono che sono a {{city}} {{state}} {{country}}
+it-it,configuration.listener.same,Il listener e' già impostato su {{listener}}.
+it-it,configuration.models.not.found,Non sono riuscito a trovare alcun file modello da aggiornare.
+it-it,configuration.models.updated,Ho aggiornato i modelli Precise.
+it-it,configuration.must.update,Si prega di aggiornare il software prima di procedere.
+it-it,configuration.my.name.is,Il mio nome è {{nome}}
+it-it,configuration.my.name.is,Mi chiamo {{nome}}
+it-it,configuration.not.precise,Il listener non è impostato su Precise.
+it-it,configuration.set.listener,Ho impostato il listner su {{listener}}.
+it-it,configuration.set.listener,Ho impostato il modulo ascoltatore su {{listener}}.
+it-it,count-skill.count_error,Non ho capito. 
+it-it,count-skill.count_error,Mi sono perso qualcosa.
+it-it,count-skill.count_error,Ripeti?
+it-it,count-skill.count_error,Scusami. Non l'ho sentito.
+it-it,count-skill.count_start,Il conteggio fino a {number}. inizia ora!
+it-it,count-skill.count_stop,Fatto!
+it-it,count-skill.count_stop,Finito!
+it-it,count-skill.countdown_start,Il conto alla rovescia da {number}. Inizia ora!
+it-it,count-skill.countdown_stop,Fatto!
+it-it,count-skill.countdown_stop,Finito!
+it-it,cut-up-skill.frag_type.set,Selezionato il tipo di frammento {{frag_type}}.
+it-it,cut-up-skill.maximum.set,Dimensione massima del blocco impostata su {{max}}.
+it-it,cut-up-skill.minimum.set,Dimensione minima del blocco impostata su {{min}}.
+it-it,cut-up-skill.randomness.set,Casualità impostata su {{rand}} percento.
+it-it,date-time.time.current,{{time}}
+it-it,date-time.time.current,Sono le {{time}}
+it-it,date-time.time.current,{{time}}
+it-it,date-time.time.current,Le {{time}}
+it-it,date-time.time.current,Attualmente sono le {{time}}
+it-it,date-time.time.tz.not.found,Non sono riuscito a trovare il fuso orario per {{location}}
+it-it,dice-skill.multiple.modificator.result,I tuoi numeri sono {result} aggiunti ad un totale di {total}
+it-it,dice-skill.multiple.result,I tuoi numeri sono {result}
+it-it,dice-skill.range.needed,Devi specificare un intervallo
+it-it,dice-skill.range.needed,Ho bisogno di un intervallo per farlo
+it-it,dice-skill.range.needed,Dimmi quale intervallo vuoi per i tuoi numeri
+it-it,dice-skill.single.modificator.result,Il risultato è {total}.
+it-it,dice-skill.single.result,Il risultato è {result}.
+it-it,dice-skill.single.result,Il tuo numero è {result}
+it-it,email-skill.already.looking.for.all,Sto già controllando l'arrivo di nuova posta
+it-it,email-skill.already.looking.for.all,Ho già controllato l'arrivo di nuova posta
+it-it,email-skill.already.looking.for.all,Sto già controllando l'arrivo di nuova posta
+it-it,email-skill.already.looking.for.specific,Sto già controllando la posta da {email}
+it-it,email-skill.already.looking.for.specific,Ho già controllato la posta da {email}
+it-it,email-skill.already.looking.for.specific,Sto già controllando la posta da {email}
+it-it,email-skill.cancel.looking.for.all.look.specific,Sto controllando tutta la nuova posta vuoi che ti notifichi solo le email da {email}
+it-it,email-skill.cancel.looking.for.all.look.specific,Ho già controllato l'arrivo di nuova posta vuoi che ti notifichi solo la nuova posta da {email}
+it-it,email-skill.cancel.looking.for.specific.look.all,Sto controllando {email} vuoi che controlli solo la nuova posta
+it-it,email-skill.cancel.looking.for.specific.look.all,Al momento sto controllando solo la posta da {email}. Vuoi invece che controlli tutta la posta
+it-it,email-skill.cancel.looking.for.specific.look.all,Vuoi che controlli tutta la posta invece di controllare solo la posta da {email}
+it-it,email-skill.error.getting.mail,C'è stato un errore nel recupero della posta. Controlla le tue credenziali e le impostazioni del server di posta.
+it-it,email-skill.error.getting.mail,Controlla le tue credenziali e le impostazioni del server perché c'è stato un problema nel recuperare la tua posta.
+it-it,email-skill.error.getting.mail,Non riesco a connettermi al tuo server di posta. Controlla la password e le impostazioni del server. 
+it-it,email-skill.list.subjects,La {message_num} email proviene da {sender} L'oggetto è {subject}
+it-it,email-skill.list.subjects,L'oggetto della {message_num} mail è {subject} E' da {sender}
+it-it,email-skill.more.emails,vuoi saperne di più
+it-it,email-skill.more.emails,vuoi saperne di più sulla tua posta
+it-it,email-skill.more.emails,vorresti leggerne altre
+it-it,email-skill.no.emails.from,Non ci sono mail da {sender}
+it-it,email-skill.no.emails.from,Non hai mail da {sender}
+it-it,email-skill.no.emails.from,Non hai ricevuto posta da {sender}
+it-it,email-skill.no.more.emails,okay
+it-it,email-skill.no.new.email,Non ci sono nuove email
+it-it,email-skill.no.new.email,Non ci sono nuove mail
+it-it,email-skill.no.new.email,Nessuna nuova mail
+it-it,email-skill.no.new.email,Non ci sono nuove mail
+it-it,email-skill.no.new.email,Non ci sono nuove mail per te
+it-it,email-skill.no.new.email,Non ci sono nuove mail per te
+it-it,email-skill.no.new.email,Non hai nuove mail
+it-it,email-skill.no.new.email,Non hai nuove mail
+it-it,email-skill.not.looking.for,Non sto cercando mail da {email}
+it-it,email-skill.not.looking.for,Non sto cercando mail da {email}
+it-it,email-skill.not.looking.for,Al momento non sto cercando mail da {email}
+it-it,email-skill.notify.read.email,Hai {size} nuovi messaggi di posta vuoi ascoltarli
+it-it,email-skill.notify.read.email,Ci sono {size} nuovi messaggi di posta Vuoi ascoltarli
+it-it,email-skill.notify.read.email,Vuoi ascoltare le tue {size} mail
+it-it,email-skill.poll.emails.not.started,Non sto controllando l'arrivo di nuova posta
+it-it,email-skill.poll.emails.not.started,Al momento non sto contollando per nuova posta
+it-it,email-skill.setup,Per impostare l'abilità e-mail vai a home punto mycroft punto a i per inserire le tue informazioni e-mail
+it-it,email-skill.setup,È necessario impostare l'abilità e-mail. Per fare ciò per favore vai a home punto mycroft punto a i per inserire i tuoi dati di posta elettronica
+it-it,email-skill.start.poll.email,Ti notificherò l'arrivo di nuova posta
+it-it,email-skill.start.poll.email,Okay inizio a notificarti l'arrivo di nuova posta
+it-it,email-skill.start.poll.email,Controllo l'arrivo di nuova posta
+it-it,email-skill.stop.looking.for,Fermo la notifica delle mail da {email}
+it-it,email-skill.stop.looking.for,Okay fermo la notifica delle nuove mail da {email}
+it-it,email-skill.stop.poll.emails,Okay fermo la ricerca di nuova posta
+it-it,email-skill.stop.poll.emails,Okay non ricerco più nuova posta
+it-it,email-skill.stop.poll.emails.last.email.removed,Fermo la ricerca di nuova posta perchè non ci sono indirizzi di posta di cui tu voglia essere notificato
+it-it,email-skill.update.notify.data,Ho aggiornato le preferenze di posta
+it-it,email-skill.update.notify.data,Okay ho aggiornato le tue preferenze di posta 
+it-it,emby-skill.configuration_fail,Non riesco a connettermi al Server Emby. Per favore controlla o cambia la tua configurazione su home.Mycroft.ai
+it-it,emby-skill.configuration_success,Connesso con successo a Emby server a {hostname}
+it-it,emby-skill.diag_auth_fail,Non riesco a autenticare emby server. Per favore controlla o cambia la tua configurazione su home.Mycroft.ai
+it-it,emby-skill.diag_auth_success,Sono riuscito ad autenticare con successo emby server
+it-it,emby-skill.diag_public_info_fail,Emby server a  {host} non sembra essere raggiungibile o non risponde
+it-it,emby-skill.diag_public_info_success,Grande! Posso accedere a {ServerName} posizionato a {LocalAddress} versione {Version}. Sto provando ad autenticare
+it-it,emby-skill.diag_start,Sto per eseguire un controllo diagnostico sulla connessione di emby skill. Questo controllerà se il server è accessibile e se riesco ad eseguire l'autenticazione
+it-it,emby-skill.diag_stop,La diagnostica non continuerà
+it-it,emby-skill.diagnostic,La diagnostica è completa posso connettermi ed eseguire l'autenticazione a emby server. Adesso è tempo di mettere un po' di Musica!
+it-it,emby-skill.emby,Sto suonando {media}
+it-it,emby-skill.general_check_settings_logs,Per favore controlla le tue impostazioni su Mycroft.ai. Se questo problema persiste controlla i log di Mycroft per maggiori informazioni
+it-it,emby-skill.play_fail,Non riesco a trovare o riprodurre {media}. Per favore prova di nuovo
+it-it,emby-skill.play_fail,Non riesco a trovare o riprodurre {media}. Prova di nuovo. Se questo continua ad accadere controlla la tua configurazione su home.Mycroft.ai
+it-it,fairytalez-skill.continue,Continua a raccontare {story}
+it-it,fairytalez-skill.continue,Dove siamo arrivati. Oh si qui. {story}
+it-it,fairytalez-skill.fairytalez,Conosco più di 2000 fiabe racconti popolari e favole da tutto il mondo. Quale vorresti ascoltare ?
+it-it,fairytalez-skill.from_fairytalez,Queste favole provengono da www punto fairytalez punto com.  Loro amano le favole! Visita il sito dove puoi trovare la più grande collezione di favole racconti popolari e fiabe online.
+it-it,fairytalez-skill.i_know_that,{story} è una buona.  Cominciamo... 
+it-it,fairytalez-skill.i_know_that,Sì {story} è una buona.  Fa così...
+it-it,fairytalez-skill.is_it_that,È quella?
+it-it,fairytalez-skill.is_it_that,Potrebbe essere?
+it-it,fairytalez-skill.is_it_that,Devo raccontarti questa?
+it-it,fairytalez-skill.is_it_that,Vuoi sentirla?
+it-it,fairytalez-skill.let_me_think,fammi vedere.  Conosco {story}
+it-it,fairytalez-skill.let_me_think,bene ho bisogno di pensare se ricordo {story}
+it-it,fairytalez-skill.no_story,In tal caso non so che storia vuoi sentire.
+it-it,fairytalez-skill.no_story_to_continue,Non c'è una storia da continuare
+it-it,fairytalez-skill.no_story_to_continue,Mi dispiace - nessuna storia da continuare
+it-it,fairytalez-skill.that_would_be,Posso raccontare la storia {story}.
+it-it,fairytalez-skill.that_would_be,Ricordo la {story}.
+it-it,fairytalez-skill.title_by_author,{title} di {author}
+it-it,fallback-aiml.reset.memory,Reimpostazione della base delle conoscenze
+it-it,fallback-aiml.reset.memory,Sto per dimenticare tutto
+it-it,fallback-aiml.reset.memory,Va bene adesso cancello la mia memoria
+it-it,fallback-aiml.reset.memory,Cancellazione del cervello iniziata
+it-it,fallback-recommendations-skill.skill.download.confirmation,Lo skill {{skill_name}} può fare questo per te. Vuoi che lo scarico?
+it-it,fallback-recommendations-skill.skill.download.confirmation,Ho trovato uno skill che si chiama {{skill_name}} che ti potrebbe aiutare. Vuoi che te lo scarico?
+it-it,fallback-recommendations-skill.skill.download.refused,Okay.
+it-it,fallback-recommendations-skill.skill.download.refused,Tutto apposto.
+it-it,fallback-recommendations-skill.skill.downloading,Solo un momento Io sto scaricando il seguente skill {{skill_name}}.
+it-it,fallback-recommendations-skill.skill.downloading,Solo un momento Io sto scaricando il seguente skill {{skill_name}}.
+it-it,fallback-recommendations-skill.skill.downloading,Un momento sto scaricando il seguente skill {{skill_name}}.
+it-it,fallback-recommendations-skill.skill.downloading,Okay scarico lo skill {{skill_name}}.
+it-it,fallback-recommendations-skill.skill.downloading,Aspetta un attimo mentre scarico lo skill {{skill_name}}.
+it-it,fallback-recommendations-skill.skill.downloading,Okay sto scaricando lo skill {{skill_name}}.
+it-it,hello-world.hello.world,Ciao
+it-it,hello-world.hello.world,Ciao anche a te
+it-it,hello-world.how.are.you,Sto bene
+it-it,hello-world.how.are.you,Abbastanza bene
+it-it,hello-world.how.are.you,Non male
+it-it,hello-world.how.are.you,Tutto eccellente
+it-it,hello-world.how.are.you,Potrebbe andare meglio
+it-it,hello-world.how.are.you,Sto andando molto bene
+it-it,hello-world.welcome,Quando vuoi.
+it-it,hello-world.welcome,Felice di essere al servizio.
+it-it,hello-world.welcome,Felice di aiutare.
+it-it,hello-world.welcome,Il piacere è tutto mio.
+it-it,hello-world.welcome,Nessun problema.
+it-it,hello-world.welcome,Prego.
+it-it,installer.choose,La tua richiesta ha più scelte: {{skills}}
+it-it,installer.choose,Ci sono più abilità con questo nome per favore scegline una: {{skills}}
+it-it,installer.installed,{{skill}} è stato installato
+it-it,installer.installing,installazione
+it-it,installer.installing,sto installando
+it-it,installer.installing,installazione in corso
+it-it,installer.not.found,Scusa non ho trovato l'abilità: {{skill}}
+it-it,installer.not.found,L'abilità {{skill}} non è stata trovata.
+it-it,installer.not.found,Spiacente non ho trovato l'abilità: {{skill}}
+it-it,installer.not.found,Lo skill {{skill}} non è stato trovato.
+it-it,ip.dot,punto
+it-it,ip.my address is,Il mio indirizzo di rete IP è {{ip}}
+it-it,ip.my address is,Sono all indirizzo IP {{ip}}
+it-it,ip.my address on X is Y,Sulla interfaccia {{interface}} il mio indirizzo IP è {{ip}}.
+it-it,ip.no network connection,Non ho ancora una connessione alla rete
+it-it,ip.no network connection,Non sono connesso ad una rete
+it-it,iss-tracker-skill.location.current,La Stazione Spaziale Internazionale si trova a latitudine {{latitude}} e longitudine {{longitude}} che corrispondono a {{toponym}}
+it-it,iss-tracker-skill.location.current,La stazione spaziale è a latitudine {{latitude}} e longitudine {{longitude}} su {{toponym}}
+it-it,iss-tracker-skill.location.current,È a latitudine {{latitude}} e longitudine {{longitude}} su {{toponym}}
+it-it,iss-tracker-skill.location.current,La stazione spaziale internazionale è ora sopra {{toponym}} alla latitudine {{latitude}} longitudine {{longitude}}
+it-it,iss-tracker-skill.location.current,Sopra {{toponym}} alla latitudine {{latitude}} longitudine {{longitude}}
+it-it,iss-tracker-skill.location.unknown,Spiacente latitudine {{latitude}} e longitudine {{longitude}} non sono note
+it-it,iss-tracker-skill.location.unknown,Spiacente la stazione spaziale è a latitudine {{latitude}} longitudine {{longitude}} ma non so dove questo sia
+it-it,iss-tracker-skill.location.unknown,È a latitudine {{latitude}} longitudine {{longitude}} che non è codificata in questo database
+it-it,iss-tracker-skill.location.unknown,La ISS ora ha superato la latitudine {{latitude}} longitudine {{longitudine}} ma non esiste una caratteristica geografica associata
+it-it,krunner-search-skill.krunner.recent,Sto mostrando i file recenti
+it-it,krunner-search-skill.krunner.search,Sto cercando in locale {{ Query }}
+it-it,laugh.cancel,risate fermate
+it-it,laugh.cancel,non riderò più
+it-it,laugh.cancel_fail,non sto ridendo
+it-it,lifx-mycroft.Color,Imposta {{name}} a {{color}}.
+it-it,lifx-mycroft.Dim,{{change}}ndo {{name}}.
+it-it,lifx-mycroft.GroupError,Impossibile {{action}} {{name}} perché è un gruppo.
+it-it,lifx-mycroft.GroupError,Non posso {{action}} {{name}} poiché si tratta di un gruppo.
+it-it,lifx-mycroft.SetPercent,Imposta {{param}} a {{value}}.
+it-it,lifx-mycroft.SetPercent,Cambia {{param}} in {{value}}.
+it-it,lifx-mycroft.SetPercent,Imposta {{name}} {{param}} a {{value}}.
+it-it,lifx-mycroft.Switch,Cambia {{status}} {{name}}.
+it-it,lifx-mycroft.Switch,Cambiando {{status}} {{name}}.
+it-it,lifx-mycroft.Temperature,Metti {{name}} a {{temperature}}.
+it-it,list-manager-skill.add.item,{{item_name}} aggiunto alla lista {{list_name}}
+it-it,list-manager-skill.add.list,La tua nuova lista {{list_name}} è stata aggiunta.
+it-it,list-manager-skill.and,e
+it-it,list-manager-skill.cancelled,Annullato.
+it-it,list-manager-skill.confirm.deletion,Sei sicuro di voler eliminare {{element}}? 
+it-it,list-manager-skill.del.item,{{item_name}} rimosso dalla tua lista {{list_name}}.
+it-it,list-manager-skill.del.list,La tua lista {{list_name}} è stata rimossa.
+it-it,list-manager-skill.item.not.found,{{item_name}} non è presente nella tua lista {{list_name}}.
+it-it,list-manager-skill.list.found,Hai già una lista denominata {{list_name}}.
+it-it,list-manager-skill.list.not.found,Non sembra che tu abbia una lista chiamata {{list_name}}.
+it-it,list-manager-skill.list.not.found,Non ho trovato {{list_name}} tra le tue liste.
+it-it,list-manager-skill.no.items,Non hai alcun elemento nella tua lista {{list_name}}.
+it-it,list-manager-skill.no.lists,Al momento non hai alcuna lista.
+it-it,list-manager-skill.read.items,Nella tua lista {{list_name}} hai {{items}}
+it-it,list-manager-skill.read.lists,Al momento hai {{lists_names}} {{list}}.
+it-it,mark-2.auto.noon,Sembra che sia mezzogiorno regolerò la luminosità.
+it-it,mark-2.auto.sunrise,Ok il sole sta uscendo regolerò la luminosità
+it-it,mark-2.auto.sunrise,Ok il sole è uscito impostando il livello di luminosità
+it-it,mark-2.auto.sunset,Ok sta diventando buio regolerò la luminosità di conseguenza.
+it-it,mark-2.brightness.error,Non capisco quel valore di luminosità dammi un valore di luminosità da 0 a 100 percento.
+it-it,mark-2.brightness.not.found,Dimmi una percentuale di luminosità o un livello per la mia faccia
+it-it,mark-2.brightness.not.found,Quale livello di luminosità o percentuale vorresti?
+it-it,mark-2.brightness.not.found.final,Scusa non capisco quella luminosità.
+it-it,mark-2.brightness.not.found.final,Capisco solo cose come "piena" o 50%
+it-it,mark-2.brightness.set,Ok sto impostando la luminosità su {val}.
+it-it,mark-2.brightness.set,Sembra buono sto impostando la luminosità su {val}
+it-it,mark-2.no.web.setting,Nessun colore degli occhi è stato impostato
+it-it,mark-2.no.web.setting,Non ho trovato nessuna impostazione web per il colore degli occhi
+it-it,mark-2.rebooting,Riavvio in corso a tra poco
+it-it,mark-2.rebooting,Riavvio in corso tornerò tra qualche minuto
+it-it,moviemaster.bad.movie.genre.catagory,Non riesco a trovare nessuno show (TV|televisivo) di genere {genre}
+it-it,moviemaster.bad.tv.genre.catagory,Non riesco a trovare nessuno show (TV|televisivo) di genere {genre}
+it-it,moviemaster.fallback.api,Ripiego sulla vecchia A P I
+it-it,moviemaster.genre.movie.search,i film di {genre} sono;
+it-it,moviemaster.genre.tv.search,i programmi (televisivi|TV) di genere {genre} sono;
+it-it,moviemaster.movie.cast,Ecco il cast di {movie}; {actorlist} e {lastactor}
+it-it,moviemaster.movie.cast,Le seguenti persone (sono nel|interpretano il|recitano nel) film {movie}; {actorlist} e {lastactor}
+it-it,moviemaster.movie.description,il (film) {movie} parla di questo.
+it-it,moviemaster.movie.description,ecco una sinossi (di|del film) {movie}.
+it-it,moviemaster.movie.genre.multiple,Il film può essere trovato in uno dei generi; {genrelist} e {genrelistlast}
+it-it,moviemaster.movie.genre.multiple,Le persone considerano il film (un|uno|una) {genrelist} o (un|uno|una) {genrelistlast}
+it-it,moviemaster.movie.genre.single,Il film {movie} potrebbe essere considerato (un|uno|una) {genre}
+it-it,moviemaster.movie.genre.single,Puoi trovare (il film|) {movie} nella sezione {genre}
+it-it,moviemaster.movie.info.response,{movie} è stato distribuito nel {year} con un budget di {budget} dollari.
+it-it,moviemaster.movie.popular,I film più popolari (in proiezione|in sala|al cinema|nei cinema) (|al momento|in questo momento) sono {popularlist}
+it-it,moviemaster.movie.popular,{popularlist} in cima alle classifiche cinematografiche in questo momento.
+it-it,moviemaster.movie.production.multiple,Le (compagnie|case di produzione|case produttrici) {companies} e {lastcompany} hanno prodotto il film {movie}
+it-it,moviemaster.movie.production.multiple,{companies} e {lastcompany} hanno prodotto il film {movie}
+it-it,moviemaster.movie.production.single,La casa di produzione {company} ha prodotto il film {movie}
+it-it,moviemaster.movie.recommendations,Ti consiglio i film {movielist} se ti (piace|è piaciuto) il film {movie}
+it-it,moviemaster.movie.recommendations,I film {movielist} sono un'ottima scelta se ti (piace|è piaciuto) (il film|) {movie}
+it-it,moviemaster.movie.runtime,La durata (del film|di) {movie} è di {runtime} minuti.
+it-it,moviemaster.movie.runtime,(|Il film) {movie} dura {runtime} minuti.
+it-it,moviemaster.movie.runtime,Guardando {movie}; ci si può aspettare circa {runtime} minuti prima di poter fare una pausa bagno.
+it-it,moviemaster.movie.top,Questi sono i film (migliori|più popolari) (in sala|nei cinema|in proiezione) in questo momento; {toplist}
+it-it,moviemaster.movie.top,{toplist} sono i (migliori film|film più popolari) (in sala|in proiezione|nei cinema|al cinema) in questo momento.
+it-it,moviemaster.movie.year,il film {movie} è stato (realizzato|rilasciato) nel {year}
+it-it,moviemaster.no.api,Devi inserire la tua chiave A P I  T M D B su home punto mycroft punto A I per usare la skill movie master
+it-it,moviemaster.no.info,Mi dispiace. Non riesco a trovare nessuna informazione sul (film) {movie}
+it-it,moviemaster.no.info.general,Mi dispiace non riesco a trovare l'elenco che stai cercando in questo momento; per favore riprova più tardi.
+it-it,moviemaster.no.valid.api,La chiave A P I che hai inserito non è valida.  Fai riferimento al file 'read me' per le istruzioni su come ottenerne una.
+it-it,naptime.sleep,Vado a dormire
+it-it,naptime.sleep,Ora vado a dormire
+it-it,naptime.sleep,Va bene sto andando a dormire
+it-it,national-parks-skill.Ask.Quiz.Question,In quale stato è {{park}}?
+it-it,national-parks-skill.Ask.Quiz.Question,Se fossi al {{park}} in quale stato sarei?
+it-it,national-parks-skill.Error.calling.server,Si è verificato un errore durante la connessione al servizio nazionale dei parchi assicurati che la chiave a.p.i sia corretta su home punto mycroft punto ai
+it-it,national-parks-skill.No.Parks.Found,Non sono riuscito a trovare nessun parco chiamato {{park}}
+it-it,national-parks-skill.No.Parks.Found.State,Non sono riuscito a trovare nessun parco in {{location}}
+it-it,national-parks-skill.Park.List,ecco i parchi nazionali in {{location}} {{parks}}
+it-it,national-parks-skill.Park.List,i parchi nazionali in {{location}} includono {{parks}}
+it-it,national-parks-skill.Park.Location,{{park}} è in {{location}} 
+it-it,national-parks-skill.Quiz.Question.Correct,È corretto.
+it-it,national-parks-skill.Quiz.Question.Correct,Conosci i tuoi parchi nazionali.
+it-it,national-parks-skill.Quiz.Question.Correct,Hai capito bene.
+it-it,national-parks-skill.Quiz.Question.None,Non riesco a trovare l'ultima domanda posta
+it-it,national-parks-skill.Quiz.Question.Wrong,No Il {{park}} è in {{location}}
+it-it,national-parks-skill.Quiz.Question.Wrong,Non è corretto il {{park}} si trova in {{location}}
+it-it,pairing.connection.error,Connessione a mycroft dot a.i non riuscita il codice di accoppiamento non può essere recuperato. Controlla la tua connessione Internet e riprova.
+it-it,pairing.pairing.code,Sono connesso a Internet e devo essere attivato. Registrami su home punto mycroft punto A.I con il codice. {{code}}
+it-it,pairing.pairing.code,Puoi registrarmi andando su Dispositivi selezionando Aggiungi dispositivo quindi usa il codice {{code}}
+it-it,pairing.pairing.code,Registra questo dispositivo con il codice {{code}}
+it-it,pairing.pairing.code,Inserisci il codice sulla home di Mycroft {{code}}
+it-it,pairing.pairing.intro,Sono connesso a Internet e devo essere attivato. Apri il browser e visita home punto mycroft punto AI per registrare questo dispositivo.
+it-it,pairing.pairing.not.paired,Il tuo dispositivo attualmente non è registrato
+it-it,pairing.pairing.not.paired,Il tuo dispositivo attualmente non è associato
+it-it,pairing.pairing.paired,Ora sono pronto per l'uso. Prova a chiedermi cose come "hey mycroft che tempo fa" "hey mycroft parlami di abraham lincoln" o "hey mycroft leggi le notizie". Se hai bisogno di fermarmi a parlare in qualsiasi momento basta premere il tasto
+it-it,pairing.unexpected.error.restarting,Le mie scuse è successo qualcosa di inaspettato. Devo riavviare il processo di associazione.
+it-it,pairing.unexpected.error.restarting,Le mie scuse è successo qualcosa di inatteso. Devo riavviare il processo di registrazione.
+it-it,personal.what.am.i,Sono una intelligenza artificiale open source.
+it-it,personal.what.am.i,Sono un software intelligente per comunicare con le macchine
+it-it,personal.when.was.i.born,Sono nato nel 2015.
+it-it,personal.where.was.i.born,A Lawrence al Centro per la imprenditorialità nel Kansas.
+it-it,personal.where.was.i.born,Sono nato a Lawrence nel Kansas Stati Uniti d'America
+it-it,personal.who.am.i,Mi chiamo {{name}} e sono un assistente personale intelligente
+it-it,personal.who.am.i,Sono {{name}} un A.I. open source.
+it-it,personal.who.made.me,La meravigliosa comunità e squadra di Mycroft A.I.
+it-it,personal.who.made.me,Tutti nella comunità e squadra di Mycroft A.I.
+it-it,picroft-google-aiy-voicekit-skill.error.initialize,Ho dei problemi a inizializzare il kit vocale Google A I Y. La Skill non verrà caricata. 
+it-it,plasma-activities-skill.activities.create,La tua attività {{ActivityName}} è stata creata
+it-it,plasma-activities-skill.activities.remove,L'attività è stata rimossa
+it-it,plasma-activities-skill.activities.show,Mostra attività
+it-it,plasma-activities-skill.activities.stop,l'attività {{StopActivityName}} è stata fermata
+it-it,plasma-activities-skill.activities.switch,Passaggio all'attività {{SwitchActivityName}} 
+it-it,pokemon-skill.ability.effect.entry,{ability}: {info}
+it-it,pokemon-skill.ability.flavor.text,{ability}: {info}
+it-it,pokemon-skill.ability.generation.introduced,{ability} è stata introdotta nella generazione {generation}
+it-it,pokemon-skill.ability.not.in.version,{version} non ha {ability}
+it-it,pokemon-skill.and,e
+it-it,pokemon-skill.base.stat.is,la base {stat} di {pokemon} è {value}
+it-it,pokemon-skill.cannot.answer.about.ability,Non riesco a rispondere a quella abilità
+it-it,pokemon-skill.cannot.answer.about.pokemon,Non riesco a rispondere riguardo a quel Pokémon 
+it-it,pokemon-skill.connection.error,Non ho connessione ad internet
+it-it,pokemon-skill.connection.error,Errore di connessione
+it-it,pokemon-skill.debug.speech,Debug! Raggiunto!
+it-it,pokemon-skill.evolve.details.at.level,al livello {level}
+it-it,pokemon-skill.evolve.details.holding.item,mentre tiene {item}
+it-it,pokemon-skill.evolve.details.if.gender.female,se femmina
+it-it,pokemon-skill.evolve.details.if.gender.male,se maschio
+it-it,pokemon-skill.evolve.details.knowing.move,quando impara {move}
+it-it,pokemon-skill.evolve.details.knowing.move.type,quando conosco una mossa di tipo {type}
+it-it,pokemon-skill.evolve.details.location,(a|in) {location}
+it-it,pokemon-skill.evolve.details.stats.attack.equals.defense,se l'attacco è uguale alla difesa
+it-it,pokemon-skill.evolve.details.stats.attack.greater.than.defense,se l'attacco è più della difesa
+it-it,pokemon-skill.evolve.details.stats.attack.less.than.defense,se l'attacco è meno della difesa
+it-it,pokemon-skill.evolve.details.time.of.day,alle {time}
+it-it,pokemon-skill.evolve.details.trade.species,per {species}
+it-it,pokemon-skill.evolve.details.trigger,per {name}
+it-it,pokemon-skill.evolve.details.turn.upside.down,con il gioco capovolto
+it-it,pokemon-skill.evolve.details.with.affection,con un livello d'affetto di {affection}
+it-it,pokemon-skill.evolve.details.with.beauty,con una bellezza di livello {beauty}
+it-it,pokemon-skill.evolve.details.with.happiness,con felicità {happiness}
+it-it,pokemon-skill.evolve.details.with.pokemon.party,con {pokemon} in squadra
+it-it,pokemon-skill.evolve.details.with.pokemon.party.type,con tipo {type} in squadra
+it-it,pokemon-skill.evolve.details.with.rain,mentre piove
+it-it,pokemon-skill.foot,piede
+it-it,pokemon-skill.inches,pollici
+it-it,pokemon-skill.kilograms,chilogrammi
+it-it,pokemon-skill.meters,metri
+it-it,pokemon-skill.no.type.specified,Devi specificare un tipo
+it-it,pokemon-skill.no.type.specified,Quale tipo?
+it-it,pokemon-skill.or,oppure
+it-it,pokemon-skill.pokemon.abilities.hidden,{pokemon} ha le abilità nascoste {hidden_abilities}
+it-it,pokemon-skill.pokemon.abilities.hidden.non-hidden,{pokemon} ha le abilità {abilities}. ed ha le abilità nascoste {hidden_abilities}
+it-it,pokemon-skill.pokemon.abilities.non-hidden,{pokemon} ha le abilità {abilities}
+it-it,pokemon-skill.pokemon.abilities.none,{pokemon} non ha abilità
+it-it,pokemon-skill.pokemon.capture.rate,il tasso di cattura di {pokemon} è {rate}
+it-it,pokemon-skill.pokemon.color.is,{pokemon} è {color}
+it-it,pokemon-skill.pokemon.does.not.evolve,{pokemon} non si evolve
+it-it,pokemon-skill.pokemon.egg.groups.are,il gruppo uova di {pokemon} è {groups}
+it-it,pokemon-skill.pokemon.evolves.from,{pokemon} si evolve da {from} {how}
+it-it,pokemon-skill.pokemon.evolves.into,{pokemon} si evolve in {evolve}
+it-it,pokemon-skill.pokemon.final.evolution,l'evoluzione finale di {pokemon} è {final}
+it-it,pokemon-skill.pokemon.first.evolution.is,l'evoluzione finale di {pokemon} è {first}
+it-it,pokemon-skill.pokemon.has.no.evolutions,{pokemon} non ha evoluzioni
+it-it,pokemon-skill.pokemon.has.no.forms,{pokemon} non è in una forma
+it-it,pokemon-skill.pokemon.has.no.previous.evolution,{pokemon} non ha un'evoluzione precedente
+it-it,pokemon-skill.pokemon.height,{pokemon} è {height}
+it-it,pokemon-skill.pokemon.id.is,l'I D di {pokemon} è {id}
+it-it,pokemon-skill.pokemon.id.is,{pokemon} è il numero {id}
+it-it,pokemon-skill.pokemon.is.in.final.evolution,{pokemon} è nella sua evoluzione finale
+it-it,pokemon-skill.pokemon.is.in.final.evolution,{pokemon} non si può evolvere ulteriormente
+it-it,pokemon-skill.pokemon.is.in.first.evolution,{pokemon} è nella sua prima evoluzione
+it-it,pokemon-skill.pokemon.is.in.first.evolution,{pokemon} è nella sua evoluzione più semplice
+it-it,pokemon-skill.pokemon.is.in.form,{pokemon} è in {form}
+it-it,pokemon-skill.pokemon.lives.in,{pokemon} vive (nel|nella) {habitat}
+it-it,pokemon-skill.pokemon.lives.in,{pokemon} vivono (nel|nella) {habitat}
+it-it,pokemon-skill.pokemon.lives.in,la dimora di {pokemon} è (nel|nella) {habitat}
+it-it,pokemon-skill.pokemon.shape.is,la forma di {pokemon} è {shape}
+it-it,pokemon-skill.pokemon.type.one,{pokemon} è di tipo {type1}
+it-it,pokemon-skill.pokemon.type.two,{pokemon} è di tipo {type1} e {type2}
+it-it,pokemon-skill.pokemon.version.introduced,{pokemon} è stato introdotto in {versions} nella generazione {generation}
+it-it,pokemon-skill.pokemon.weighs,{pokemon} pesa {weight}
+it-it,pokemon-skill.pounds,libbre
+it-it,pokemon-skill.type.is.half,{type} non è molto efficacie contro {pokemon}
+it-it,pokemon-skill.type.is.none,{type} non influenza {pokemon}
+it-it,pokemon-skill.type.is.normal,{type} fa danni normali contro {pokemon}
+it-it,pokemon-skill.type.is.super,{type} è superefficace contro {pokemon}
+it-it,pokemon-skill.unable.to.find.pokemon,Non sono (stato|stata) capace di trovare un pokémon per quella frase
+it-it,pokemon-skill.unable.to.find.pokemon,Non ho potuto trovare quel pokémon
+it-it,pokemon-skill.unable.to.find.pokemon,Impossibile trovare quel pokémon
+it-it,query.noAnswer,Scusa non so rispondere a questo
+it-it,query.noAnswer,Non ho la risposta a questo
+it-it,query.noAnswer,Non lo so
+it-it,query.noAnswer,Non so
+it-it,remember-skill.delete,Dovrei cancellare la frase: {{PHRASE}}?
+it-it,remember-skill.deleteall,Dovrei cancellare tutto ciò che ricordavo per te?
+it-it,remember-skill.forgotten,È dimenticato.
+it-it,remember-skill.gotphrase,Ricorderò "{{REMEMBER}}" per te.
+it-it,remember-skill.holdon,Ricorderò questa frase.
+it-it,remember-skill.iremembered,Ricordo: {{REMEMBER}}.
+it-it,remember-skill.short,Posso solo ricordare frasi o parole più lunghe di quattro caratteri. Per favore riformulare.
+it-it,remember-skill.sorry,Mi dispiace non riesco a ricordare alcuna frase!
+it-it,remember-skill.sorryforget,Mi dispiace c'è stato un errore non ho potuto dimenticare nulla!
+it-it,remember-skill.sorrynophrase,Mi dispiace non sono riuscito a trovare una frase corrispondente alla tua richiesta.
+it-it,singing.singing,Sarei felice di cantare per te.
+it-it,singing.singing,Eccomi qui.
+it-it,singing.singing,Sono un po' nervoso per la mia voce.
+it-it,singing.singing.stop,Grazie per l'attenzione.
+it-it,singing.singing.stop,Grazie per avermi ascoltato.
+it-it,singing.singing.stop,Spero che ti sia piaciuta la mia voce.
+it-it,singing.singing.stop,Ora prova tu.
+it-it,speedtest-skill.error,C'è stato un errore non ho potuto eseguire un test di velocità ... mi dispiace.
+it-it,speedtest-skill.result,La tua velocità di download è di {{DOWN}} Megabit al secondo e la tua velocità di upload è di {{UP}} Megabit al secondo.
+it-it,speedtest-skill.running,Avvio il test di velocità ora tornerò con i risultati in un attimo.
+it-it,version-checker.platform.build,La mia versione corrente è {{build}}.
+it-it,version-checker.platform.build.none,Sto girando su un disposituvo che non ha un numero di versione ufficiale.
+it-it,version-checker.version,Sono in funzione con mycroft-core versione {{version}}.
+it-it,volume.already.max.volume,volume già al massimo
+it-it,volume.already.max.volume,volume impostato su max
+it-it,volume.already.max.volume,volume al massimo
+it-it,volume.decrease.volume,Volume ridotto a {{volume}}
+it-it,volume.decrease.volume,Il volume è sceso a {{volume}}
+it-it,volume.decrease.volume,Volume abbassato a {{volume}}
+it-it,volume.increase.volume,Il volume è salito a {{volume}}
+it-it,volume.increase.volume,Volume aumentato a {{volume}}
+it-it,volume.increase.volume,Volume alzato a {{volume}}
+it-it,volume.mute.volume,Il volume sta per essere disattivato
+it-it,volume.neon.already.max.volume,volume già al massimo
+it-it,volume.neon.already.max.volume,volume impostato su max
+it-it,volume.neon.already.max.volume,volume al massimo
+it-it,volume.neon.decrease.volume,Volume ridotto a {{volume}}
+it-it,volume.neon.decrease.volume,Il volume è sceso a {{volume}}
+it-it,volume.neon.decrease.volume,Volume abbassato a {{volume}}
+it-it,volume.neon.increase.volume,Il volume è salito a {{volume}}
+it-it,volume.neon.increase.volume,Volume aumentato a {{volume}}
+it-it,volume.neon.increase.volume,Volume alzato a {{volume}}
+it-it,volume.neon.mute.volume,Il volume sta per essere disattivato
+it-it,volume.neon.reset.volume,Ripristino del volume a {{volume}}
+it-it,volume.neon.reset.volume,Volume riavviato a {{volume}}
+it-it,volume.neon.reset.volume,Volume ora a {{volume}}
+it-it,volume.neon.set.volume,Volume impostato a {{volume}}
+it-it,volume.neon.set.volume,Volume aggiornato a {{volume}}
+it-it,volume.neon.set.volume,Volume cambiato in {{volume}}
+it-it,volume.neon.volume.is,Il volume è impostato a {{volume}}
+it-it,volume.neon.volume.is,Il volume è a {{volume}}
+it-it,volume.reset.volume,Ripristino del volume a {{volume}}
+it-it,volume.reset.volume,Volume riavviato a {{volume}}
+it-it,volume.reset.volume,Volume ora a {{volume}}
+it-it,volume.set.volume,Volume impostato a {{volume}}
+it-it,volume.set.volume,Volume aggiornato a {{volume}}
+it-it,volume.set.volume,Volume cambiato in {{volume}}
+it-it,volume.volume.is,Il volume è impostato a {{volume}}
+it-it,volume.volume.is,Il volume è a {{volume}}
+it-it,weather.E,est
+it-it,weather.N,nord
+it-it,weather.NE,nord est
+it-it,weather.NW,nord ovest
+it-it,weather.S,sud
+it-it,weather.SE,sud est
+it-it,weather.SW,sud ovest
+it-it,weather.W,ovest
+it-it,weather.current.local.weather,Attualmente è {{condition}} e {{temp}} gradi {{scale}}. La previsione odierna prevede un massimo di {{temp_max}} e un minimo di {{temp_min}}.
+it-it,weather.current.local.weather,Al momento è {{condition}} e {{temp}} gradi. La previsione odierna prevede un massimo di {{temp_max}} e un minimo di {{temp_min}}.
+it-it,weather.current.local.weather,Al momento è {{condition}} e {{temp}} gradi per un massimo di {{temp_max}} e un minimo di {{temp_min}}.
+it-it,weather.current.local.weather,Con un massimo di {{temp_max}} e un minimo di {{temp_min}} a {{location}} è {{condition}} ed attualmente {{temp}} gradi.
+it-it,weather.current.weather,Attualmente è {{condition}} e {{temp}} gradi {{scale}} a {{location}}. La previsione odierna prevede un massimo di {{temp_max}} e un minimo di {{temp_min}}.
+it-it,weather.current.weather,Al momento è {{condition}} e {{temp}} gradi per un massimo di {{temp_max}} e un minimo di {{temp_min}} a {{location}}.
+it-it,weather.current.weather,Con un massimo di {{temp_max}} e un minimo di {{temp_min}} a {{location}} è {{condition}} ed attualmente {{temp}} gradi.
+it-it,weather.do not know,Temo di non saperlo
+it-it,weather.do not know,Non ho quella informazione
+it-it,weather.do not know,Non ho questa informazione
+it-it,weather.forecast.local.weather,{{day}} sarà {{condition}} con un massimo di {{temp_max}} e un minimo di {{temp_min}} gradi
+it-it,weather.forecast.local.weather,{{day}} ma temperatura massimo sarà {{temp_max}} e la minima {{temp_min}} con condizioni di {{condition}}
+it-it,weather.forecast.local.weather,La previsione di {{day}} è {{temp_max}} gradi come massimo e {{temp_min}} gradi come minimo
+it-it,weather.forecast.weather,{{day}} sarà {{condition}} con un massimo di {{temp_max}} e un minimo di {{temp_min}} gradi
+it-it,weather.forecast.weather,{{day}} {{location}} avrà un massimo di {{temp_max}} e un minimo di {{temp_min}} gradi con condizioni {{condition}}
+it-it,weather.forecast.weather,La previsione per {{day}} è {{temp_max}} come massima e {{temp_min}} come minima
+it-it,weather.heavy,pesante
+it-it,weather.hour.local.weather,Sarà {{condition}} con temperature vicine a {{temp_max}}
+it-it,weather.hour.local.weather,Più tardi sarà {{condition}} e intorno a {{temp_max}} gradi
+it-it,weather.hour.local.weather,Più tardi sarà {{condition}} con {{temp_max}} gradi
+it-it,weather.hour.local.weather,Intorno ai {{temp_max}} gradi con condizioni {{condition}}
+it-it,weather.hour.weather,Il meteo di {{location}} nelle prossime ore sarà {{condition}} con {{temp_max}} gradi
+it-it,weather.hour.weather,Più tardi sarà {{condition}} a {{location}} con temperature intorno a {{temp_max}} gradi
+it-it,weather.hour.weather,{{location}} sarà intorno ai {{temp_max}} gradi e {{condition}}
+it-it,weather.hour.weather,{{location}} sarà a circa {{temp_max}} gradi e {{condition}}
+it-it,weather.humidity,umidità
+it-it,weather.light,luminosità
+it-it,weather.location.not.found,Non sono sicuro di dove sia
+it-it,weather.location.not.found,Non conosco quella località
+it-it,weather.location.not.found,Non conosco quel posto
+it-it,weather.meters per second,metri al secondo
+it-it,weather.miles per hour,miglia per ora
+it-it,weather.no forecast,Somo spiacente non conosco le previsioni per {{day}}
+it-it,weather.no forecast,Non ho una previsione per {{day}}
+it-it,weather.no precipitation expected,Nessuna precipitazione nelle previsioni
+it-it,weather.precipitation expected,{{modifier}} {{precip}} è previsto per {{day}}
+it-it,weather.precipitation expected,La previsione indica {{modifier}} {{precip}} per {{day}}
+it-it,weather.rain,pioggia
+it-it,weather.report.condition,{{condition}} al {{value}}
+it-it,weather.report.future.condition,{{condition}} per {{day}} sarà al {{value}}
+it-it,weather.report.future.condition,Per {{day}} la previsione indica {{condition}} al {{value}}
+it-it,weather.sky is clear.future,sereno
+it-it,weather.snow,neve
+it-it,weather.wind.speed,{{speed}} {{unit}}
+it-it,weather.wind.speed.dir,a {{speed}} {{unit}} proveniente da {{dir}}
+it-it,weather.wind.speed.dir,proveniente da {{dir}} a {{speed}} {{unit}}
+it-it,weather.winds,il vento
+it-it,white-house-adventure.LeavingZork,Stai per lasciare il misterioso regno di Zork
+it-it,white-house-adventure.LeavingZork,Stai lasciando Zork
+it-it,white-house-adventure.LeavingZork,Uscita da Zork
+it-it,white-house-adventure.NoSave,Non c'è una partita salvata
+it-it,white-house-adventure.NoSave,Non ci sono partite salvate
+it-it,white-house-adventure.SaveDeleted,Partita salvata eliminata
+it-it,white-house-adventure.SaveDeleted,Eliminata la partita salvata
+it-it,wikiquote-skill.notfound,Non trovo nessuna citazione per {{subject}}

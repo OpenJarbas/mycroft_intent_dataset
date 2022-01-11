@@ -22,6 +22,7 @@ def download():
     intents = {}
     entities = {}
     keywords = {}
+    dialogs = {}
     for skillstore, url in urls.items():
         # download the skills appstore cache from ovos plugin manager
         print(skillstore, url)
@@ -75,6 +76,16 @@ def download():
                     keywords[lang] = {}
                 keywords[lang][name] = samples
                 print(lang, "keyword:", name, keywords[lang][name])
+            for path in glob.glob(f'{dst}/*/*/*/*.dialog'):
+                name = f'{folder}.{path.split("/")[-1]}'.replace("skill-", "").replace(".dialog", "")
+                lang = path.split("/")[-2].lower()[-5:]
+                with open(path) as f:
+                    samples = f.read().split("\n")
+                    samples = [s for s in samples if s and not s.startswith("#")]
+                if lang not in dialogs:
+                    dialogs[lang] = {}
+                dialogs[lang][name] = samples
+                print(lang, "dialog:", name, dialogs[lang][name])
             # delete
             shutil.rmtree(dst, ignore_errors=True)
             shutil.rmtree(src, ignore_errors=True)
@@ -85,12 +96,14 @@ def download():
         json.dump(keywords, f, indent=2, sort_keys=True)
     with open("json/mycroft_entities_raw_v0.1.json", "w", encoding="utf-8") as f:
         json.dump(entities, f, indent=2, sort_keys=True)
-    return intents, entities, keywords
+    with open("json/mycroft_dialogs_raw_v0.1.json", "w", encoding="utf-8") as f:
+        json.dump(dialogs, f, indent=2, sort_keys=True)
+    return intents, entities, keywords, dialogs
 
 
 def load_dataset():
     if not exists("json/mycroft_intents_raw_v0.1.json"):
-        intents, entities, keywords = download()
+        intents, entities, keywords, dialogs = download()
     else:
         with open("json/mycroft_intents_raw_v0.1.json", encoding="utf-8") as f:
             intents = json.load(f)
@@ -98,12 +111,14 @@ def load_dataset():
             keywords = json.load(f)
         with open("json/mycroft_entities_raw_v0.1.json", encoding="utf-8") as f:
             entities = json.load(f)
-    return intents, entities, keywords
+        with open("json/mycroft_dialogs_raw_v0.1.json", encoding="utf-8") as f:
+            dialogs = json.load(f)
+    return intents, entities, keywords, dialogs
 
 
 def normalize():
     os.makedirs("json", exist_ok=True)
-    intents, entities, keywords = load_dataset()
+    intents, entities, keywords, dialogs = load_dataset()
     for lang, intent_samples in intents.items():
         for intent_name, samples in intent_samples.items():
             expanded = []
@@ -122,6 +137,12 @@ def normalize():
             for s in samples:
                 expanded += expand_options(s)
             keywords[lang][intent_name] = expanded
+    for lang, intent_samples in dialogs.items():
+        for intent_name, samples in intent_samples.items():
+            expanded = []
+            for s in samples:
+                expanded += expand_options(s)
+            dialogs[lang][intent_name] = expanded
 
     with open("json/mycroft_intents_expanded_v0.1.json", "w", encoding="utf-8") as f:
         json.dump(intents, f, indent=2, sort_keys=True)
@@ -129,8 +150,10 @@ def normalize():
         json.dump(keywords, f, indent=2, sort_keys=True)
     with open("json/mycroft_entities_expanded_v0.1.json", "w", encoding="utf-8") as f:
         json.dump(entities, f, indent=2, sort_keys=True)
+    with open("json/mycroft_dialogs_expanded_v0.1.json", "w", encoding="utf-8") as f:
+        json.dump(dialogs, f, indent=2, sort_keys=True)
 
-    return intents, entities, keywords
+    return intents, entities, keywords, dialogs
 
 
 def dict2csv(dataset):
@@ -144,21 +167,25 @@ def dict2csv(dataset):
 
 def convert():
     os.makedirs("csv", exist_ok=True)
-    intents, entities, keywords = load_dataset()
+    intents, entities, keywords, dialogs = load_dataset()
     with open("csv/mycroft_intents_raw_v0.1.csv", "w", encoding="utf-8") as f:
         f.write(dict2csv(intents))
     with open("csv/mycroft_keywords_raw_v0.1.csv", "w", encoding="utf-8") as f:
         f.write(dict2csv(keywords))
     with open("csv/mycroft_entities_raw_v0.1.csv", "w", encoding="utf-8") as f:
         f.write(dict2csv(entities))
+    with open("csv/mycroft_dialogs_raw_v0.1.csv", "w", encoding="utf-8") as f:
+        f.write(dict2csv(dialogs))
 
-    intents, entities, keywords = normalize()
+    intents, entities, keywords, dialogs = normalize()
     with open("csv/mycroft_intents_expanded_v0.1.csv", "w", encoding="utf-8") as f:
         f.write(dict2csv(intents))
     with open("csv/mycroft_keywords_expanded_v0.1.csv", "w", encoding="utf-8") as f:
         f.write(dict2csv(keywords))
     with open("csv/mycroft_entities_expanded_v0.1.csv", "w", encoding="utf-8") as f:
         f.write(dict2csv(entities))
+    with open("csv/mycroft_dialogs_expanded_v0.1.csv", "w", encoding="utf-8") as f:
+        f.write(dict2csv(dialogs))
 
 
 def filter_per_lang(dataset, name):
@@ -173,17 +200,19 @@ def filter_per_lang(dataset, name):
 
 
 def split_datasets():
-    intents, entities, keywords = load_dataset()
+    intents, entities, keywords, dialogs = load_dataset()
     filter_per_lang(intents, "mycroft_intents_raw_v0.1")
     filter_per_lang(keywords, "mycroft_keywords_raw_v0.1")
     filter_per_lang(entities, "mycroft_entities_raw_v0.1")
-    intents, entities, keywords = normalize()
+    filter_per_lang(dialogs, "mycroft_dialogs_raw_v0.1")
+    intents, entities, keywords, dialogs = normalize()
     filter_per_lang(intents, "mycroft_intents_expanded_v0.1")
     filter_per_lang(keywords, "mycroft_keywords_expanded_v0.1")
     filter_per_lang(entities, "mycroft_entities_expanded_v0.1")
+    filter_per_lang(dialogs, "mycroft_dialogs_expanded_v0.1")
 
 
-#download()
+download()
 #load_dataset()
 #normalize()
 convert()

@@ -1,0 +1,1001 @@
+{
+  "es-es": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "S\u00ed",
+      "No",
+      "Intenta preguntar m\u00e1s tarde",
+      "Definitivamente",
+      "Por supuesto que no",
+      "Por supuesto",
+      "Nop",
+      "\u00bfPor qu\u00e9 no?",
+      "Yo no contar\u00eda con eso",
+      "\u00a1Seguro!",
+      "Ten paciencia"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "\u00a1Muy bien!",
+      "\u00a1Bien hecho!",
+      "\u00a1Correcto!",
+      "\u00a1Has acertado!",
+      "\u00a1Buen trabajo!",
+      "\u00a1Has ganado!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "\u00bfCu\u00e1l quieres que sea el l\u00edmite inferior?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "\u00bfCu\u00e1l quieres que sea el l\u00edmite superior?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "Adivina el n\u00famero",
+      "\u00bfQue n\u00famero crees que es?",
+      "Adivina"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "No pude entender lo que has dicho",
+      "Algo fue mal cuando intentaba entender eso",
+      "Se ha producido un error de entrada",
+      "\u00bfPuedes decir eso otra vez?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "Esa respuesta no es v\u00e1lida. Necesito un n\u00famero",
+      "Por favor, responde con un n\u00famero",
+      "Tienes que responder con un n\u00famero",
+      "Eso no es un n\u00famero"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "De acuerdo, juguemos",
+      "Que comience el juego",
+      "Iniciando el juego",
+      "Empecemos",
+      "Veamos lo que tienes",
+      "De acuerdo. Juguemos a Adivina el N\u00famero"
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "Demasiado alto"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "Demasiado bajo"
+    ],
+    "aircrack.cannot.sudo": [
+      "Error, parece que no puedo utilizar sudo con los comandos aircrack sin una contrase\u00f1a. Por favor accede a github.com/JonStratton/skill-aircrack para ver las notas del acceso con sudo."
+    ],
+    "aircrack.captured.handshake": [
+      "Captura del protocolo de reconocimiento Handshake"
+    ],
+    "aircrack.confirm.permission": [
+      "El acceder a una red wifi donde no est\u00e9s autorizado puede ser ilegal. Confirma que tienes permisos para conectarte a esta red diciendo S\u00cd, de lo contrario d\u00ed NO para cancelar. "
+    ],
+    "aircrack.deauthing.clients": [
+      "Desautorizando clientes conectados a la red {{selected_network}}."
+    ],
+    "aircrack.interfaces.are": [
+      "Las siguientes interfaces est\u00e1n disponibles {{available_interfaces}}",
+      "\u00c9stas son las interfaces disponibles: {{available_interfaces}}",
+      "{{available_interfaces}} est\u00e1n disponibles."
+    ],
+    "aircrack.monitor.stopped.early": [
+      "El monitor se detuvo antes de capturar el saludo."
+    ],
+    "aircrack.networks.are": [
+      "Las siguientes redes est\u00e1n disponibles: {{available_networks}}"
+    ],
+    "aircrack.no.interfaces": [
+      "No hay interfaces disponibles."
+    ],
+    "aircrack.no.networks": [
+      "No hay redes disponibles."
+    ],
+    "aircrack.no.password": [
+      "Contrase\u00f1a no encontrada."
+    ],
+    "aircrack.no.such.interface": [
+      "Interfaz no encontrada."
+    ],
+    "aircrack.no.such.network": [
+      "Red no encontrada."
+    ],
+    "aircrack.recovered.password": [
+      "Obtuve la siguiente contrase\u00f1a: {{password}}"
+    ],
+    "aircrack.select.interface.first": [
+      "Por favor primero selecciona una interfaz."
+    ],
+    "aircrack.selected.interface": [
+      "Se seleccion\u00f3 la interfaz {{selected_interface}}."
+    ],
+    "aircrack.selected.network": [
+      "Se seleccion\u00f3 la red {{selected_network}}"
+    ],
+    "aircrack.start.monitor": [
+      "Empezando a monitorizar"
+    ],
+    "aircrack.stop.monitor": [
+      "Deteniendo la monitorizaci\u00f3n"
+    ],
+    "audio-record.audio.record.disk.full": [
+      "No hay suficiente espacio libre en el disco para grabar audio",
+      "No se puede grabar audio. Tienes que liberar algo de espacio en el disco",
+      "Te has quedado sin espacio en el disco. Libera algo para grabar audio"
+    ],
+    "audio-record.audio.record.no.recording": [
+      "No hay ninguna grabaci\u00f3n disponible",
+      "No he encontrado ninguna grabaci\u00f3n"
+    ],
+    "audio-record.audio.record.removed": [
+      "Grabaci\u00f3n eliminada",
+      "Grabaci\u00f3n borrada",
+      "Borrando"
+    ],
+    "audio-record.audio.record.start": [
+      "Grabando",
+      "Empezando la grabaci\u00f3n",
+      "Iniciando la grabaci\u00f3n"
+    ],
+    "audio-record.audio.record.start.duration": [
+      "Grabando audio durante {{duration}} segundos",
+      "Iniciando la grabaci\u00f3n de audio durante {{duration}} segundos",
+      "Grabaci\u00f3n de audio de {{duration}} segundos inicializada"
+    ],
+    "audio-record.audio.record.stop": [
+      "Grabaci\u00f3n de audio finalizada",
+      "Deteniendo la grabaci\u00f3n de audio",
+      "Grabaci\u00f3n de audio detenida"
+    ],
+    "audio-record.audio.record.stop.play": [
+      "Reproducci\u00f3n de audio finalizada",
+      "Deteniendo la reproducci\u00f3n de audio"
+    ],
+    "auto-volume-skill.activate": [
+      "OK ",
+      "Volumen autom\u00e1tico activado ",
+      "He activado el volumen autom\u00e1tico "
+    ],
+    "auto-volume-skill.deactivate": [
+      "OK ",
+      "Volumen autom\u00e1tico desactivado",
+      "He desactivado el volumen autom\u00e1tico"
+    ],
+    "auto-volume-skill.reset": [
+      "He restablecido el volumen autom\u00e1tico"
+    ],
+    "cocktail.NotFound": [
+      "Perd\u00f3n, no puedo encontrar la bebida solicitada",
+      "Perd\u00f3n, no lo he encontrado"
+    ],
+    "cocktail.YouWillNeed": [
+      "Necesitar\u00e1s {ingredients} y {final_ingredient}",
+      "Necesitar\u00e1s {ingredients} y {final_ingredient}",
+      "Los ingredientes necesarios son: {ingredients} y {final_ingredient}"
+    ],
+    "configuration.config.no_change": [
+      "La configuraci\u00f3n no ha cambiado",
+      "No hay cambios que aplicar"
+    ],
+    "configuration.config.not.paired": [
+      "No se pudo recuperar la configuraci\u00f3n, el dispositivo no est\u00e1 emparejado.",
+      "No se pudo actualizar la configuraci\u00f3n, empareja el dispositivo"
+    ],
+    "configuration.config.updated": [
+      "Configuraci\u00f3n actualizada",
+      "La configuraci\u00f3n de tu dispositivo ha sido actualizada.",
+      "Tu dispositivo ha sido configurado."
+    ],
+    "configuration.download.started": [
+      "Descargando el nuevo reconocedor de saludo, esto tardar\u00e1 un poco y no podr\u00e1s usarme hasta que se complete. Dame un minuto antes de intentar activarme de nuevo."
+    ],
+    "configuration.get.listener": [
+      "El oyente actual es {{listener}}.",
+      "El oyente est\u00e1 establecido en {{listener}}."
+    ],
+    "configuration.i.am.at": [
+      "Estoy en {{city}} {{state}} {{country}}",
+      "Mis ajustes me dicen que estoy en {{city}} {{state}} {{country}}"
+    ],
+    "configuration.listener.same": [
+      "El oyente ya es {{listener}}."
+    ],
+    "configuration.model.is": [
+      "El identificador actual del modelo Precise es {{name}}.",
+      "El modelo actual tiene el identificador {{name}}."
+    ],
+    "configuration.models.not.found": [
+      "No he podido encontrar ning\u00fan fichero de modelo a actualizar."
+    ],
+    "configuration.models.updated": [
+      "He actualizado los modelos del reconocedor de saludo Precise."
+    ],
+    "configuration.must.be.hey.mycroft": [
+      "El modelo Precise debe usar \"hey mycroft\" como saludo de activaci\u00f3n. Puedes configurarla en home PUNTO mycroft PUNTO AI."
+    ],
+    "configuration.must.update": [
+      "Por favor, actualiza primero tu software."
+    ],
+    "configuration.my.name.is": [
+      "El nombre de mi dispositivo es {{name}}",
+      "Se me cononce como {{name}}"
+    ],
+    "configuration.not.precise": [
+      "El oyente no est\u00e1 configurado como Preciso."
+    ],
+    "configuration.set.listener": [
+      "He configurado el oyente como {{listener}}."
+    ],
+    "count-skill.count_error": [
+      "No entiendo. ",
+      "Me estoy perdiendo algo.",
+      "\u00bfPuedes repetir eso?",
+      "Lo siento, no he o\u00eddo eso."
+    ],
+    "count-skill.count_start": [
+      "Contando hasta {number}, \u00a1empezamos!"
+    ],
+    "count-skill.count_stop": [
+      "\u00a1Hecho!",
+      "\u00a1Se acab\u00f3!"
+    ],
+    "count-skill.countdown_start": [
+      "Contando hacia atr\u00e1s desde el {number}, \u00a1empezando ahora!"
+    ],
+    "count-skill.countdown_stop": [
+      "\u00a1Hecho!",
+      "\u00a1Se acab\u00f3!"
+    ],
+    "cut-up-skill.frag_type.set": [
+      "Seleccionado el tipo de fragmento {{frag_type}}."
+    ],
+    "cut-up-skill.maximum.set": [
+      "El tama\u00f1o m\u00e1ximo de los trozos es de {{max}}."
+    ],
+    "cut-up-skill.minimum.set": [
+      "El tama\u00f1o m\u00ednimo de los trozos es de {{min}}."
+    ],
+    "cut-up-skill.randomness.set": [
+      "Aleatoriedad al {{rand}} porciento."
+    ],
+    "dice-skill.multiple.modificator.result": [
+      "Tus n\u00fameros son {result} sumando a un total de {total}"
+    ],
+    "dice-skill.multiple.result": [
+      "Tus n\u00fameros son {result}"
+    ],
+    "dice-skill.range.needed": [
+      "Necesitas especificar un rango",
+      "Necesito un rango para hacer eso",
+      "Dime el rango de n\u00fameros que quieres"
+    ],
+    "dice-skill.single.modificator.result": [
+      "El resultado es {total}."
+    ],
+    "dice-skill.single.result": [
+      "El resultado es {result}.",
+      "Tu n\u00famero es {result}"
+    ],
+    "email-skill.already.looking.for.all": [
+      "Ya estoy buscando un correo nuevo",
+      "Ya revise por correo nuevo",
+      "Ya estoy buscando un correo nuevo"
+    ],
+    "email-skill.already.looking.for.specific": [
+      "Ya estoy buscando un nuevo correo de {email}",
+      "Ya he estado buscando un nuevo correo de {email}",
+      "Ya estoy buscando el correo electr\u00f3nico de {email}"
+    ],
+    "email-skill.cancel.looking.for.all.look.specific": [
+      "Actualmente estoy buscando todos los correos nuevos, \u00bfquieres que te notifique solamente los correos electr\u00f3nicos de {email}?",
+      "Ya he estado buscando nuevos correos electr\u00f3nicos, \u00bfquieres que te notifique solamente nuevos correos electr\u00f3nicos de {email}?"
+    ],
+    "email-skill.cancel.looking.for.specific.look.all": [
+      "Actualmente estoy buscando correos de {email}, en vez de eso, \u00bfquieres que busque todos los correos nuevos?",
+      "Ahora mismo, solo estoy buscando correos electr\u00f3nicos de {email} \u00bfQuieres que busque para todos los correos electr\u00f3nicos?",
+      "\u00bfDesea que busque todos los correos electr\u00f3nicos en lugar de buscarlos solo para {email}?"
+    ],
+    "email-skill.error.getting.mail": [
+      "Hubo un error al obtener tu correo electr\u00f3nico. Comprueba tus credenciales y la informaci\u00f3n del servidor.",
+      "Comprueba tus credenciales y la informaci\u00f3n del servidor porque hubo un problema obteniendo tu correo.",
+      "No puedo conectar a tu servidor de correo. Comprueba tu contrase\u00f1a y la informaci\u00f3n del servidor. "
+    ],
+    "email-skill.list.subjects": [
+      "Tu correo {message_num} es de {sender}. El asunto es {subject}.",
+      "El asunto del correo {message_num} es {subject} Es de {sender}."
+    ],
+    "email-skill.more.emails": [
+      "\u00bfquieres o\u00edr m\u00e1s?",
+      "\u00bfquieres o\u00edr m\u00e1s mensajes?",
+      "\u00bfquieres o\u00edr m\u00e1s?"
+    ],
+    "email-skill.no.emails.from": [
+      "No hay correos de {sender}",
+      "No tienes correos de {sender}",
+      "No has recibido correos de {sender}"
+    ],
+    "email-skill.no.more.emails": [
+      "de acuerdo."
+    ],
+    "email-skill.no.new.email": [
+      "No hay correo nuevo.",
+      "No hay nuevos correos",
+      "No hay correo nuevo.",
+      "No hay nuevos emails.",
+      "No tienes correo nuevo.",
+      "No hay correos nuevos para ti",
+      "No tienes correo nuevo.",
+      "No tienes ning\u00fan email nuevo."
+    ],
+    "email-skill.not.looking.for": [
+      "No estoy buscando correos por {email}",
+      "No estoy buscando correos por {email}",
+      "Justo ahora, no estoy buscando correos por {email}"
+    ],
+    "email-skill.notify.read.email": [
+      "Tienes {size} nuevos correos electr\u00f3nicos, \u00bfquieres escucharlos?",
+      "Hay {size} nuevos correos electr\u00f3nicos \u00bfQuieres escucharlos?",
+      "\u00bfQuieres escuchar tus {size} correos electr\u00f3nicos?"
+    ],
+    "email-skill.poll.emails.not.started": [
+      "No miro si hay correos nuevos",
+      "Actualmente no estoy mirando si hay nuevos emails"
+    ],
+    "email-skill.setup": [
+      "Para configurar el skill de correo electr\u00f3nico, por favor ve a home punto mycroft punto a i para introducir la informaci\u00f3n de tu correo.",
+      "Tienes que configurar el skill de correo electr\u00f3nico. Para hacerlo, ve a home punto mycroft punto a i para introducir la informaci\u00f3n de tu correo."
+    ],
+    "email-skill.start.poll.email": [
+      "Te notificar\u00e9 de nuevos correos",
+      "Bien, comenzar\u00e9 a notificarte en caso de nuevo correo",
+      "Comenzando a revisar correo nuevo"
+    ],
+    "email-skill.stop.looking.for": [
+      "No buscar\u00e9 nuevo correo de {email}",
+      "Bien, no buscar\u00e9 nuevo correo de {email}"
+    ],
+    "email-skill.stop.poll.emails": [
+      "Bien, no buscar\u00e9 nuevo correo",
+      "Muy bien, no volver\u00e9 a buscar nuevo correo de nuevo"
+    ],
+    "email-skill.stop.poll.emails.last.email.removed": [
+      "No buscar\u00e9 nuevo correo, porque no hay direcciones de correo de las cuales quieras ser notificado"
+    ],
+    "email-skill.update.notify.data": [
+      "Actualic\u00e9 tus preferencias de email",
+      "Muy bien, he actualizado tus preferencias de email"
+    ],
+    "emby-skill.configuration_fail": [
+      "Fallo al conectar con el servidor de Emby. Por favor, comprueba o empieza con la configuracion en home.mycroft.ai"
+    ],
+    "emby-skill.configuration_success": [
+      "Conectado correctamente al servidor de Emby en {hostname}"
+    ],
+    "emby-skill.diag_auth_fail": [
+      "Me es imposible autentificar con el servidor de emby. Por favor comprueba tu configuracion en home.mycroft.ai"
+    ],
+    "emby-skill.diag_auth_success": [
+      "Me he auntenticado correctamente en el servidor Emby"
+    ],
+    "emby-skill.diag_public_info_fail": [
+      "El servidor emby en {host} no parece ser alcanzable o no responde"
+    ],
+    "emby-skill.diag_public_info_success": [
+      "\u00a1Genial! Puedo acceder {ServerName} alojado en {LocalAddress} ejecutando la versi\u00f3n {Version}. Intentando autenticar"
+    ],
+    "emby-skill.diag_start": [
+      "Voy a realizar un diagn\u00f3stico de comprobaci\u00f3n de la conexi\u00f3n de la habilidad emby. Esto comprobar\u00e1 si el servidor es accesible y si soy capaz de autenticarme"
+    ],
+    "emby-skill.diag_stop": [
+      "El diagn\u00f3stico no continuar\u00e1."
+    ],
+    "emby-skill.diagnostic": [
+      "El diagn\u00f3stico est\u00e1 completo. Ya me puedo conectar y autenticar en el servidor Emby. \u00a1Ahora es el momento de poner un poco de m\u00fasica!"
+    ],
+    "emby-skill.emby": [
+      "Reproduciendo {media} "
+    ],
+    "emby-skill.general_check_settings_logs": [
+      "Por favor, comprueba tu configuraci\u00f3n en Mycrof.ai. Si el problema persiste, comprueba los log de Mycroft para m\u00e1s informaci\u00f3n"
+    ],
+    "emby-skill.play_fail": [
+      "Imposible encontrar o reproducir {media}. Por favor int\u00e9ntelo de nuevo",
+      "No es posible encontrar o reproducir {media}. Por favor int\u00e9ntalo de nuevo. Si esto contin\u00faa ocurriendo, comprueba tu configuraci\u00f3n en home.Mycroft.ai"
+    ],
+    "fairytalez-skill.continue": [
+      "Sigue cont\u00e1ndo la historia de {story}",
+      "D\u00f3nde est\u00e1bamos... Ah, s\u00ed, aqu\u00ed. {story}"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "Conozco m\u00e1s de 2000 cuentos de hadas, populares y f\u00e1bulas de todo el mundo. \u00bfCu\u00e1l te gustar\u00eda escuchar ?"
+    ],
+    "fairytalez-skill.from_fairytalez": [
+      "Estos cuentos de hadas son de www.fairytalez.com,  \u00a1Les encantan los cuentos de hadas! Visita el sitio web donde encontrar\u00e1s la mayor colecci\u00f3n online de cuentos de hadas, cuentos populares y f\u00e1bulas."
+    ],
+    "fairytalez-skill.i_know_that": [
+      "{story} es un buen cuento.  Empecemos...",
+      "S\u00ed, {story} es un buen cuento.  Va de..."
+    ],
+    "fairytalez-skill.is_it_that": [
+      "\u00bfes ese?",
+      "\u00bfPodr\u00eda ser este?",
+      "\u00bfQuieres que te cuente este?",
+      "\u00bfQuieres escuchar este?"
+    ],
+    "fairytalez-skill.let_me_think": [
+      "d\u00e9jame ver. Conozco {story}",
+      "bien, necesito pensar si me acuerdo de {story}"
+    ],
+    "fairytalez-skill.no_story": [
+      "Entonces no s\u00e9 qu\u00e9 historia quieres escuchar."
+    ],
+    "fairytalez-skill.no_story_to_continue": [
+      "No hay ninguna historia que continuar",
+      "Lo siento - no hay historia que continuar"
+    ],
+    "fairytalez-skill.that_would_be": [
+      "Te puedo contar la historia {story}.",
+      "Recuerdo {story}."
+    ],
+    "fairytalez-skill.title_by_author": [
+      "{title} de {author}"
+    ],
+    "fallback-aiml.reset.memory": [
+      "Reiniciando la base de datos de conocimiento",
+      "Olvidando todo",
+      "De acuerdo, voy a reiniciar mi memoria",
+      "Iniciado borrado de cerebro"
+    ],
+    "fallback-recommendations-skill.skill.download.confirmation": [
+      "La habilidad {{skill_name}} puede hacer eso. \u00bfQuieres que la descargue?",
+      "He encontrado una habilidad llamada {{skill_name}} que podr\u00eda ayudarte con eso. \u00bfQuieres que la descargue?"
+    ],
+    "fallback-recommendations-skill.skill.download.refused": [
+      "De acuerdo.",
+      "Est\u00e1 bien."
+    ],
+    "fallback-recommendations-skill.skill.downloading": [
+      "Un momento, estoy descargando la habilidad {{skill_name}}.",
+      "Un momento, estoy descargando la habilidad {{skill_name}}.",
+      "Un momento, estoy descargando la habilidad {{skill_name}}.",
+      "De acuerdo, d\u00e9jame descargar la habilidad {{skill_name}}.",
+      "Un momento mientras descargo la habilidad {{skill_name}}.",
+      "Bien, estoy descargando la habilidad {{skill_name}}."
+    ],
+    "fallback-unknown.question": [
+      "Lo siento, no puedo ayudarte con eso.",
+      "No estoy seguro de c\u00f3mo puedo ayudarte con eso.",
+      "No te entiendo, pero estoy aprendiendo nuevas cosas cada d\u00eda.",
+      "No estoy seguro c\u00f3mo responder a eso."
+    ],
+    "fallback-unknown.unknown": [
+      "Lo siento, no te entiendo.",
+      "No s\u00e9 qu\u00e9 significa eso",
+      "No te entiendo, pero aprendo nuevas cosas cada d\u00eda.",
+      "Lo siento, no entend\u00ed lo que dijiste",
+      "No te entend\u00ed, lo siento.",
+      "No te entend\u00ed.",
+      "Euu, no te entend\u00ed",
+      "No comprendo lo que dijiste.",
+      "No te entiendo",
+      "Quiz\u00e1s tengas que dec\u00edrmelo de otra forma",
+      "Por favor, d\u00edmelo de otra manera"
+    ],
+    "fallback-unknown.who.is": [
+      "No s\u00e9 de qui\u00e9n hablas",
+      "No estoy seguro de qui\u00e9n hablas"
+    ],
+    "fallback-unknown.why": [
+      "No estoy seguro de c\u00f3mo ayudarte con eso.",
+      "No lo s\u00e9.",
+      "No estoy seguro",
+      "No estoy seguro del todo",
+      "No lo s\u00e9, pero hago lo que puedo para aprender."
+    ],
+    "homeassistant.homeassistant.automation.trigger": [
+      "disparada automatizaci\u00f3n {{dev_name}}.",
+      "disparado {{dev_name}}.",
+      "Se ha disparado {{dev_name}}.",
+      "Se ha activado {{dev_name}}.",
+      "activado {{dev_name}}."
+    ],
+    "homeassistant.homeassistant.brightness.badreq": [
+      "por favor indica un nivel de brillo entre 0 y 100.",
+      "c\u00f3mo de brillante? puedes escoger entre 0 y 100."
+    ],
+    "homeassistant.homeassistant.brightness.cantdim.dimmable": [
+      "No se puede atenuar {{dev_name}}. No es regulable."
+    ],
+    "homeassistant.homeassistant.brightness.cantdim.off": [
+      "No se puede atenuar {{dev_name}}. Est\u00e1 apagado.",
+      "No se puede atenuar {{dev_name}}. Enci\u00e9ndela primero. ",
+      "{{dev_name}} no se puede ser atenuar. S\u00f3lo se puede en los dispositivos que est\u00e9n encendidos."
+    ],
+    "homeassistant.homeassistant.brightness.decreased": [
+      "{{dev_name}} atenuado al {{brightness}} por ciento.",
+      "Disparado {{dev_name}}."
+    ],
+    "homeassistant.homeassistant.brightness.dimmed": [
+      "Establecido nivel de brillo de {{dev_name}} al {{brightness}} por ciento."
+    ],
+    "homeassistant.homeassistant.brightness.increased": [
+      "Incrementado brillo de {{dev_name}} al {{brightness}} por ciento.",
+      "Incrementado brillo de {{dev_name}}."
+    ],
+    "homeassistant.homeassistant.device.already": [
+      "{{dev_name}} ya est\u00e1 {{action}}.",
+      "No se han hecho cambios a {{dev_name}}."
+    ],
+    "homeassistant.homeassistant.device.off": [
+      "apagado {{dev_name}}.",
+      "{{dev_name}} apagado.",
+      "{{dev_name}} ahora est\u00e1 apagado."
+    ],
+    "homeassistant.homeassistant.device.on": [
+      "{{dev_name}} encendido.",
+      "Se ha encendido {{dev_name}}.",
+      "{{dev_name}} encendido."
+    ],
+    "homeassistant.homeassistant.device.toggle": [
+      "estado de {{dev_name}} conmutado.",
+      "el estado de {{dev_name}} ha sido conmutado."
+    ],
+    "homeassistant.homeassistant.device.unknown": [
+      "Lo siento, no puedo encontrar la entidad Home Assistant llamada \"{{dev_name}}\".",
+      "No se ha podido encontrar la entidad \"{{dev_name}}\".",
+      "Lo siento, no encuentro la entidad \"{{dev_name}}\".",
+      "Disculpa, no puedo encontrar \"{{dev_name}}\"."
+    ],
+    "homeassistant.homeassistant.error": [
+      "Ha fallado el acceso al servidor home assistant en {{url}}."
+    ],
+    "homeassistant.homeassistant.error.http": [
+      "El servidor home assistant ha fallado al responder por el error {{code}}, {{reason}}"
+    ],
+    "homeassistant.homeassistant.error.invalidurl": [
+      "La url {{url}} no contiene un servidor home assistant v\u00e1lido"
+    ],
+    "homeassistant.homeassistant.error.offline": [
+      "Parece que el servidor Home assistant est\u00e1 apagado.",
+      "No puedo llegar al servidor home assistant.",
+      "El servidor home assistant no responde."
+    ],
+    "homeassistant.homeassistant.error.setup": [
+      "Por favor establece las configuraciones habilidades de de home assistant, en home punto mycroft punto ai."
+    ],
+    "homeassistant.homeassistant.error.sorry": [
+      "No s\u00e9 qu\u00e9 es lo que quieres que haga.",
+      "No me las apa\u00f1o para hablarle al Home Assistant.",
+      "No entiendo qu\u00e9 es lo que me est\u00e1s preguntando."
+    ],
+    "homeassistant.homeassistant.error.ssl": [
+      "La configuraci\u00f3n S S L para el servidor home assistant es inv\u00e1lida."
+    ],
+    "homeassistant.homeassistant.error.wrong_password": [
+      "El servidor home assistant no acepta la contrase\u00f1a configurada."
+    ],
+    "homeassistant.homeassistant.sensor": [
+      "Actualmente {{dev_name}} est\u00e1 a {{value}} {{unit}}",
+      "{{dev_name}} tiene el estado: {{value}} {{unit}}.",
+      "{{dev_name}} esta a {{value}} {{unit}} en este momento.",
+      "{{dev_name}} a {{value}} {{unit}}."
+    ],
+    "homeassistant.homeassistant.set.thermostat": [
+      "Establecido con \u00e9xito {{dev_name}} a {{value}} {{unit}}."
+    ],
+    "homeassistant.homeassistant.tracker.found": [
+      "La \u00faltima localizaci\u00f3n de {{dev_name}} es {{location}}.",
+      "{{dev_name}} se encuentra en {{location}}.",
+      "{{dev_name}} ha sido detectado en {{location}}."
+    ],
+    "ip.dot": [
+      "punto"
+    ],
+    "ip.my address is": [
+      "mi direcci\u00f3n I.P es la {{ip}}",
+      "tengo la I.P {{ip}}"
+    ],
+    "ip.my address on X is Y": [
+      "en la interfaz {{interface}} tengo la I.P {{ip}}."
+    ],
+    "ip.no network connection": [
+      "A\u00fan no tengo una conexi\u00f3n de red",
+      "No estoy conectado a la red"
+    ],
+    "iss-tracker-skill.location.current": [
+      "La I S S esta sobre {{latitude}} latitud {{longitude}} longitud que corresponde a {{toponym}}",
+      "La estaci\u00f3n espacial est\u00e1 a {{latitude}} latitud {{longitude}} longitud sobre {{toponym}}",
+      "Est\u00e1 a {{latitude}} latitud {{longitude}} longitud, sobre {{toponym}}",
+      "La estaci\u00f3n espacial internacional est\u00e1 ahora sobre {{toponym}} a {{latitude}} latitud {{longitude}} longitud",
+      "Sobre {{toponym}} a {{latitude}} latitud y {{longitude}} longitud"
+    ],
+    "iss-tracker-skill.location.unknown": [
+      "Lo siento, {{latitude}} latitud {{longitude}} longitud es desconocido",
+      "Lo siento La estaci\u00f3n espacial esta a {{latitude}} latitud {{longitude}} longitud pero desconozco donde queda",
+      "Est\u00e1 a {{latitude}} latitud {{longitude}} longitud el cual no est\u00e1 configurado en mi base de datos.",
+      "La I S S est\u00e1 ahora sobre {{latitude}} latitud {{longitude}} longitud pero no hay un espacio geogr\u00e1fico asociado"
+    ],
+    "krunner-search-skill.krunner.recent": [
+      "Mostrando tus archivos recientes"
+    ],
+    "krunner-search-skill.krunner.search": [
+      "Estoy buscando {{ Query }} localmente"
+    ],
+    "laugh.cancel": [
+      "risa detenida",
+      "no me reir\u00e9 m\u00e1s"
+    ],
+    "laugh.cancel_fail": [
+      "no me estoy riendo"
+    ],
+    "lifx-mycroft.Color": [
+      "Configurando {{name}} a {{color}}."
+    ],
+    "lifx-mycroft.Dim": [
+      "{{change}} {{name}}."
+    ],
+    "lifx-mycroft.GroupError": [
+      "No se puede {{action}} {{name}} porque es un Grupo.",
+      "No se puede {{action}} {{name}} ya que es un Grupo."
+    ],
+    "lifx-mycroft.SetPercent": [
+      "Configurar {{param}} a {{value}}.",
+      "Cambiar {{param}} a {{value}}.",
+      "Configurar {{param}} {{name}} a {{value}}."
+    ],
+    "lifx-mycroft.Switch": [
+      "Cambiando {{status}} {{name}}.",
+      "Cambiando {{name}} {{status}}."
+    ],
+    "lifx-mycroft.Temperature": [
+      "Haciendo {{name}} {{temperature}}."
+    ],
+    "list-manager-skill.add.item": [
+      "Se ha agregado {{item_name}} a tu llista {{list_name}}"
+    ],
+    "list-manager-skill.add.list": [
+      "Se ha creado tu lista {{list_name}}"
+    ],
+    "list-manager-skill.and": [
+      "y"
+    ],
+    "list-manager-skill.cancelled": [
+      "Cancelado"
+    ],
+    "list-manager-skill.confirm.deletion": [
+      "\u00bfEst\u00e1 seguro que quiere eliminar {{element}}?"
+    ],
+    "list-manager-skill.del.item": [
+      "Se ha eliminado {{item_name}} de tu llista {{list_name}}."
+    ],
+    "list-manager-skill.del.list": [
+      "Se ha eliminado tu lista {{list_name}}."
+    ],
+    "list-manager-skill.item.not.found": [
+      "{{item_name}} no est\u00e1 en tu lista {{list_name}}."
+    ],
+    "list-manager-skill.list.found": [
+      "Ya tienes una lista llamada {{list_name}}."
+    ],
+    "list-manager-skill.list.not.found": [
+      "No parece que tengas una lista llamada {{list_name}}.",
+      "No he encontrado {{list_name}} entre tus listas."
+    ],
+    "list-manager-skill.no.items": [
+      "No tienes ning\u00fan elemento en tu lista {{list_name}}."
+    ],
+    "list-manager-skill.no.lists": [
+      "A\u00fan no tienes ninguna lista."
+    ],
+    "list-manager-skill.read.items": [
+      "En tu listas {{list_name}} tienes {{items}}"
+    ],
+    "list-manager-skill.read.lists": [
+      "Actualmente tienes {{lists_names}} {{list}}."
+    ],
+    "mark-2.auto.noon": [
+      "Parece ser medio d\u00eda, ajustar\u00e9 el brillo."
+    ],
+    "mark-2.auto.sunrise": [
+      "El sol est\u00e1 saliendo, ajustar\u00e9 el brillo",
+      "El sol ha salido, estableciendo el nivel de brillo"
+    ],
+    "mark-2.auto.sunset": [
+      "Se est\u00e1 haciendo de noche, voy a ajustar el brillo en consecuencia."
+    ],
+    "mark-2.brightness.error": [
+      "No entiendo ese valor de brillo, dame un valor entre el 0 y el 100 por ciento."
+    ],
+    "mark-2.brightness.not.found": [
+      "Dime qu\u00e9 nivel o porcentaje de brillo quieres para mi cara",
+      "\u00bfQu\u00e9 nivel o porcentaje de brillo quieres?"
+    ],
+    "mark-2.brightness.not.found.final": [
+      "Lo siento, no entiendo ese brillo.",
+      "Solo entiendo cosas como, 'm\u00e1ximo' o 50%"
+    ],
+    "mark-2.brightness.set": [
+      "De acuerdo, estableciendo brillo a {val}.",
+      "Suena bien, estableciendo el brillo a {val}"
+    ],
+    "mark-2.no.web.setting": [
+      "No se ha establecido ning\u00fan color de ojos all\u00ed",
+      "No he encontrado ninguna configuraci\u00f3n web para el color de ojos"
+    ],
+    "mark-2.rebooting": [
+      "Voy a reiniciar, vuelvo en un momento",
+      "Reiniciando, volver\u00e9 en unos minutos"
+    ],
+    "moviemaster.bad.movie.genre.catagory": [
+      "No puedo hallar ning\u00fan programa de (TV|television) con el g\u00e9nero {genre}"
+    ],
+    "moviemaster.bad.tv.genre.catagory": [
+      "No puedo hallar ning\u00fan programa de (TV|television) con el g\u00e9nero {genre}"
+    ],
+    "moviemaster.fallback.api": [
+      "Retornando a la A P I por defecto"
+    ],
+    "moviemaster.genre.movie.search": [
+      "las pel\u00edculas del g\u00e9nero {genre} son;"
+    ],
+    "moviemaster.genre.tv.search": [
+      "Los programas de (televisi\u00f3n|TV) del g\u00e9nero {genre} son;"
+    ],
+    "moviemaster.movie.cast": [
+      "Aqu\u00ed est\u00e1 el elenco de {movie}; {actorlist} y {lastactor}",
+      "Los siguientes actores (protagonizan|trabajan|act\u00faan) en la pel\u00edcula {movie}; {actorlist} y {lastactor}"
+    ],
+    "moviemaster.movie.description": [
+      "la pelicula {movie} se trata de \u00e9sto.",
+      "Aqu\u00ed hay una sinopsis de la pel\u00edcula {movie}"
+    ],
+    "moviemaster.movie.genre.multiple": [
+      "(La|El) (pel\u00edcula|filme) se puede encontrar en uno de los g\u00e9neros; {genrelist} y {genrelistlast}",
+      "La gente considera (la|el) (pel\u00edcula|filme) (una|un) {genrelist} o {genrelistlast}"
+    ],
+    "moviemaster.movie.genre.single": [
+      "(La|El) (pel\u00edcula|filme) {movie} se puede considerar del g\u00e9nero {genre}",
+      "Puedes encontrar la pel\u00edcula {movie} en la secci\u00f3n de {genre}"
+    ],
+    "moviemaster.movie.info.response": [
+      "La pel\u00edcula {movie} se estren\u00f3 en el a\u00f1o {year} con un presupuesto de {budget} de d\u00f3lares."
+    ],
+    "moviemaster.movie.popular": [
+      "Las nuevas pel\u00edculas populares por ahi son {popularlist}",
+      "Las pel\u00edculas {popularlist} lideran los rankings ahora."
+    ],
+    "moviemaster.movie.production.multiple": [
+      "Las compan\u00edas {companies} y {lastcompany} produjeron la pel\u00edcula {movie}",
+      "{companies} y {lastcompany} produjeron la pel\u00edcula {movie}"
+    ],
+    "moviemaster.movie.production.single": [
+      "La productora {company} produjo la pel\u00edcula {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "Recomiendo las pel\u00edculas {movielist} si te gusta la pel\u00edcula {movie}",
+      "Las pel\u00edculas {movielist} son una buena elecci\u00f3n si te gusta la pel\u00edcula {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "(La|El) (pel\u00edcula|filme) {movie} dura {runtime} minutos.",
+      "(La|El) (pel\u00edcula|filme) {movie} tiene una duraci\u00f3n de {runtime} minutos.",
+      "Viendo la pel\u00edcula {movie}; Puedes esperar cerca de {runtime} minutos antes de que puedas ir al ba\u00f1o."
+    ],
+    "moviemaster.movie.top": [
+      "Estas son las pel\u00edculas (top|m\u00e1s populares) en cartelera ahora; {toplist}",
+      "{toplist} son las pel\u00edculas (top|m\u00e1s populares) en cartelera ahora."
+    ],
+    "moviemaster.movie.year": [
+      "(La|El) (pel\u00edcula|filme) {movie} fue (hecha|hecho) en el a\u00f1o {year}"
+    ],
+    "moviemaster.no.api": [
+      "Debes ingresar tu clave A P I  T M D B en hombe punto mycroft put A I para usar el skill movie master"
+    ],
+    "moviemaster.no.info": [
+      "Lo siento,  No puedo encontrar ninguna informaci\u00f3n sobre (la|el) (pel\u00edcula|filme) {movie}"
+    ],
+    "moviemaster.no.info.general": [
+      "Lo siento, no puedo encontrar la lista que estas buscando justo ahora; por favor, consulta de nuevo luego"
+    ],
+    "moviemaster.no.valid.api": [
+      "La clave A P I que ingresaste no es v\u00e1lida.  Refi\u00e9rete al archivo reade me para instrucciones acerca de c\u00f3mo obtener una."
+    ],
+    "national-parks-skill.Ask.Quiz.Question": [
+      "En qu\u00e9 estado est\u00e1 {{park}}?",
+      "Si estuviera en {{park}}, \u00bfen qu\u00e9 estado estar\u00eda?"
+    ],
+    "national-parks-skill.Error.calling.server": [
+      "Hubo un error al ponerse en contacto con el servicio de parques nacionales, aseg\u00farate de que tu clave a.p.i. es correcta en home punto mycroft punto ai"
+    ],
+    "national-parks-skill.No.Parks.Found": [
+      "No he encontrado ning\u00fan parque llamado {{park}}"
+    ],
+    "national-parks-skill.No.Parks.Found.State": [
+      "No he encontrado ning\u00fan parque en {{location}}"
+    ],
+    "national-parks-skill.Park.List": [
+      "aqu\u00ed est\u00e1n los parques nacionales en {{location}} {{parks}}",
+      "los parques nacionales en {{location}} son {{parks}}"
+    ],
+    "national-parks-skill.Park.Location": [
+      "{{park}} est\u00e1 en {{location}} "
+    ],
+    "national-parks-skill.Quiz.Question.Correct": [
+      "Eso es correcto.",
+      "Conoces tus parques nacionales.",
+      "Ya lo tienes."
+    ],
+    "national-parks-skill.Quiz.Question.None": [
+      "No puedo encontrar la \u00faltima pregunta que me hiciste"
+    ],
+    "national-parks-skill.Quiz.Question.Wrong": [
+      "No, el {{park}} est\u00e1 en {{location}}",
+      "Eso es incorrecto, el {{park}} est\u00e1 ubicado en {{location}}"
+    ],
+    "pairing.connection.error": [
+      "La conexi\u00f3n con mycroft punto a.i ha fallado. Ne se ha podido obtener el c\u00f3digo de emparejamiento. Comprueba la conexi\u00f3n a internet y int\u00e9ntalo de nuevo."
+    ],
+    "pairing.pairing.code": [
+      "Puedes registrarme yendo a la secci\u00f3n Dispositivos, seleccionando A\u00f1adir Dispositivo y usando el c\u00f3digo {{code}} ",
+      "Registra este dispositivo con el c\u00f3digo {{code}}",
+      "Introduce el c\u00f3digo {{code}}"
+    ],
+    "pairing.pairing.intro": [
+      "Ahora que estoy conectado a Internet, necesito ser activado. Abre un navegador y visita la p\u00e1gina home punto mycroft punto A I para registrar este dispositivo."
+    ],
+    "pairing.pairing.not.paired": [
+      "Tu dispositivo no est\u00e1 registrado",
+      "Tu dispositivo no est\u00e1 emparejado"
+    ],
+    "pairing.pairing.paired": [
+      "Ya estoy listo para ser usado. Prueba a preguntarme cosas como \"hey mycroft, qu\u00e9 tiempo har\u00e1\", \"hey mycroft, cu\u00e9ntame sobre abraham lincoln\" o \"hey mycroft, pon las not\u00edcias\". Si necesitas que pare de hablar, en cualquier momento aprieta mi bot\u00f3n."
+    ],
+    "pairing.unexpected.error.restarting": [
+      "Disculpa, ha sucedido algo inesperado. Necesito reiniciar el proceso de emparejamiento."
+    ],
+    "picroft-google-aiy-voicekit-skill.error.initialize": [
+      "Tengo problemas para inicializar el kit de voz de Google A I Y. La habilidad no se cargar\u00e1. "
+    ],
+    "plasma-activities-skill.activities.create": [
+      "La actividad {{ ActivityName }} ha sido creada"
+    ],
+    "plasma-activities-skill.activities.remove": [
+      "Actividad quitada"
+    ],
+    "plasma-activities-skill.activities.show": [
+      "Mostrando Actividades"
+    ],
+    "plasma-activities-skill.activities.stop": [
+      "La actividad {{ StopActivityName }} ha sido detenida"
+    ],
+    "plasma-activities-skill.activities.switch": [
+      "Cambiando a actividad {{ SwitchActivityName }} "
+    ],
+    "query.noAnswer": [
+      "Lo siento, no s\u00e9 la respuesta",
+      "No tengo la respuesta para eso",
+      "No lo s\u00e9"
+    ],
+    "remember-skill.delete": [
+      "\u00bfDebo borrar la frase: {{PHRASE}}?"
+    ],
+    "remember-skill.deleteall": [
+      "\u00bfDebo borrar todo lo que record\u00e9 para ti?"
+    ],
+    "remember-skill.forgotten": [
+      "est\u00e1 olvidado."
+    ],
+    "remember-skill.gotphrase": [
+      "Recordar\u00e9 {{REMEMBER}} para ti."
+    ],
+    "remember-skill.holdon": [
+      "Me quedar\u00e9 con la frase."
+    ],
+    "remember-skill.iremembered": [
+      "Recuerdo: {{REMEMBER}}."
+    ],
+    "remember-skill.short": [
+      "S\u00f3lo puedo recordar oraciones o palabras de m\u00e1s de cuatro letras. Por favor vuelve a repetirlo."
+    ],
+    "remember-skill.sorry": [
+      "Lo siento, \u00a1no puedo recordar ninguna frase!"
+    ],
+    "remember-skill.sorryforget": [
+      "Lo siento, hubo un error, \u00a1no pude olvidar nada!"
+    ],
+    "remember-skill.sorrynophrase": [
+      "Lo siento, no pude encontrar una frase que coincida con tu solicitud."
+    ],
+    "speedtest-skill.error": [
+      "Ha ocurrido un error, no puedo ejecutar un test de velocidad, disculpa"
+    ],
+    "speedtest-skill.result": [
+      "Tu velocidad de descarga es {{DOWN}} Megabits por segundo y tu velocidad de subida es {{UP}} Megabits por segundo."
+    ],
+    "speedtest-skill.running": [
+      "Comenzando la prueba de velocidad, volver\u00e9 con los resultados en un momento."
+    ],
+    "version-checker.platform.build": [
+      "Mi versi\u00f3n de plataforma es la {{build}}."
+    ],
+    "version-checker.platform.build.none": [
+      "Me estoy ejecutando en un dispositivo que no tiene un n\u00famero de versi\u00f3n de plataforma oficial."
+    ],
+    "version-checker.version": [
+      "Estoy ejecutando la versi\u00f3n mycroft-core {{version}}."
+    ],
+    "version-checker.version.latest": [
+      "Tienes la \u00faltima versi\u00f3n."
+    ],
+    "version-checker.version.older": [
+      "Tu versi\u00f3n est\u00e1 anticuada. La \u00faltima versi\u00f3n es la {{new_version}}."
+    ],
+    "volume.already.max.volume": [
+      "El volumen ya est\u00e1 al m\u00e1ximo",
+      "No puedo hablar m\u00e1s alto"
+    ],
+    "volume.decrease.volume": [
+      "Volumen reducido a {{volume}}",
+      "Bajo el volumen a {{volume}}",
+      "El volumen est\u00e1 en {{volume}}"
+    ],
+    "volume.increase.volume": [
+      "El volumen est\u00e1 en {{volume}}",
+      "Subo el volumen a {{volume}}"
+    ],
+    "volume.mute.volume": [
+      "Voy a silenciar el sonido"
+    ],
+    "volume.neon.already.max.volume": [
+      "El volumen ya est\u00e1 al m\u00e1ximo",
+      "No puedo hablar m\u00e1s alto"
+    ],
+    "volume.neon.decrease.volume": [
+      "Volumen reducido a {{volume}}",
+      "Bajo el volumen a {{volume}}",
+      "El volumen est\u00e1 en {{volume}}"
+    ],
+    "volume.neon.increase.volume": [
+      "El volumen est\u00e1 en {{volume}}",
+      "Subo el volumen a {{volume}}"
+    ],
+    "volume.neon.mute.volume": [
+      "Voy a silenciar el sonido"
+    ],
+    "volume.neon.reset.volume": [
+      "Restauro el volumen a {{volume}}",
+      "Volumen restaurado a {{volume}}"
+    ],
+    "volume.neon.set.volume": [
+      "El volumen est\u00e1 en {{volume}}",
+      "Cambio el volumen a {{volume}}"
+    ],
+    "volume.neon.volume.is": [
+      "El volumen est\u00e1 en {{volume}}",
+      "Volumen en {{volume}}"
+    ],
+    "volume.reset.volume": [
+      "Restauro el volumen a {{volume}}",
+      "Volumen restaurado a {{volume}}"
+    ],
+    "volume.set.volume": [
+      "El volumen est\u00e1 en {{volume}}",
+      "Cambio el volumen a {{volume}}"
+    ],
+    "volume.volume.is": [
+      "El volumen est\u00e1 en {{volume}}",
+      "Volumen en {{volume}}"
+    ],
+    "white-house-adventure.LeavingZork": [
+      "Abandonando el reino misterioso de Zork",
+      "Abandonando Zork",
+      "Cerrando Zork"
+    ],
+    "white-house-adventure.NoSave": [
+      "No hay un juego guardado actual",
+      "No existe ningun juego guardado"
+    ],
+    "white-house-adventure.SaveDeleted": [
+      "El juego guardado fue borrado",
+      "El juego guardado se borr\u00f3"
+    ],
+    "wikiquote-skill.notfound": [
+      "No encontr\u00e9 ninguna cita sobre {{subject}}"
+    ]
+  }
+}

@@ -1,0 +1,998 @@
+de-de,Crystal-Ball-Mycroft-Skill.random.answer,Ja
+de-de,Crystal-Ball-Mycroft-Skill.random.answer,Nein
+de-de,Crystal-Ball-Mycroft-Skill.random.answer,Versuch später nocheinmal zu fragen
+de-de,Crystal-Ball-Mycroft-Skill.random.answer,definitiv
+de-de,Crystal-Ball-Mycroft-Skill.random.answer,selbstverständlich nicht
+de-de,Crystal-Ball-Mycroft-Skill.random.answer,Sicher
+de-de,Crystal-Ball-Mycroft-Skill.random.answer,Nee
+de-de,Crystal-Ball-Mycroft-Skill.random.answer,Warum nicht?
+de-de,Crystal-Ball-Mycroft-Skill.random.answer,Ich würde nicht drauf wetten
+de-de,Crystal-Ball-Mycroft-Skill.random.answer,Logo!
+de-de,Crystal-Ball-Mycroft-Skill.random.answer,Das kann dauern
+de-de,Number-Guess-Mycroft-Skill.correct,Stimmt!
+de-de,Number-Guess-Mycroft-Skill.correct,Du hast es erraten!
+de-de,Number-Guess-Mycroft-Skill.correct,Richtig!
+de-de,Number-Guess-Mycroft-Skill.correct,Das ist die Nummer!
+de-de,Number-Guess-Mycroft-Skill.correct,Gut gemacht!
+de-de,Number-Guess-Mycroft-Skill.correct,Du gewinnst!
+de-de,Number-Guess-Mycroft-Skill.get.lower,Was soll die Untergrenze sein?
+de-de,Number-Guess-Mycroft-Skill.get.upper,Was soll die Obergrenze sein?
+de-de,Number-Guess-Mycroft-Skill.guess,Errate die Zahl
+de-de,Number-Guess-Mycroft-Skill.guess,Was denkst du wie die Nummer lautet
+de-de,Number-Guess-Mycroft-Skill.guess,Rate
+de-de,Number-Guess-Mycroft-Skill.input.error,Ich konnte nicht verstehen was du gesagt hast
+de-de,Number-Guess-Mycroft-Skill.input.error,Etwas lief schief als ich das zu verstehen versuchte
+de-de,Number-Guess-Mycroft-Skill.input.error,Ein Eingabefehler ist aufgetreten
+de-de,Number-Guess-Mycroft-Skill.input.error,Könntest du das noch einmal sagen?
+de-de,Number-Guess-Mycroft-Skill.invalid.input,Diese Antwort war ungültig. Ich brauche eine Nummer
+de-de,Number-Guess-Mycroft-Skill.invalid.input,Bitte antworte mit einer Nummer
+de-de,Number-Guess-Mycroft-Skill.invalid.input,Du musst mit einer Nummer antworten
+de-de,Number-Guess-Mycroft-Skill.invalid.input,Das ist keine Nummer
+de-de,Number-Guess-Mycroft-Skill.start.game,OK lass uns spielen
+de-de,Number-Guess-Mycroft-Skill.start.game,Lasst das Spiel beginnen
+de-de,Number-Guess-Mycroft-Skill.start.game,starte Spiel
+de-de,Number-Guess-Mycroft-Skill.start.game,Lass uns beginnen
+de-de,Number-Guess-Mycroft-Skill.start.game,Mal sehen was du hast
+de-de,Number-Guess-Mycroft-Skill.start.game,In Ordung. Lass uns Zahl erraten spielen
+de-de,Number-Guess-Mycroft-Skill.too.high,Zu hoch
+de-de,Number-Guess-Mycroft-Skill.too.low,Zu niedrig
+de-de,aircrack.cannot.sudo,Fehler ich kann den Aircrack-Befehle nicht ohne Passwort sudo ausführen. Hinweise zum sudo-Zugriff findest du unter github.com/JonStratton/skill-aircrack.
+de-de,aircrack.captured.handshake,Captured Handshake
+de-de,aircrack.confirm.permission,Der Zugriff auf ein Wi-Fi-Netzwerk zu dessen Nutzung du nicht berechtigt bist kann illegal sein. Bitte bestätige dass du die Berechtigung hast dich mit diesem Netzwerk zu verbinden indem du JA sagst andernfalls sage NEIN um abzubrechen.
+de-de,aircrack.deauthing.clients,Clients Dauthing die mit dem {{selected_network}} Netzwerk verbunden sind.
+de-de,aircrack.interfaces.are,Folgende Schnittstellen sind verfügbar: {{available_interfaces}}
+de-de,aircrack.interfaces.are,Hier sind die verfügbaren Schnittstellen: {{available_interfaces}}
+de-de,aircrack.interfaces.are,{{available_interfaces}} stehen zur Verfügung.
+de-de,aircrack.monitor.stopped.early,Der Monitor wurde angehalten bevor der Handshake aufgezeichnet wurde.
+de-de,aircrack.networks.are,Folgende Netzwerke sind verfügbar: {{available_networks}}
+de-de,aircrack.no.interfaces,Es gibt keine verfügbaren Schnittstellen.
+de-de,aircrack.no.networks,Es sind keine Netzwerke verfügbar.
+de-de,aircrack.no.password,Kein Passwort gefunden.
+de-de,aircrack.no.such.interface,Keine solche Schnittstelle gefunden.
+de-de,aircrack.no.such.network,Kein solches Netzwerk gefunden.
+de-de,aircrack.recovered.password,Das folgende Passwort wurde wiederhergestellt: {{password}}
+de-de,aircrack.select.interface.first,Bitte wähle zuerst die Schnittstelle.
+de-de,aircrack.selected.interface,{{selected_interface}} interface Ausgewählt.
+de-de,aircrack.selected.network,wähle {{selected_network}}als Netzwerk.
+de-de,aircrack.start.monitor,Starte den Monitor
+de-de,aircrack.stop.monitor,stoppe Monitor
+de-de,alarm.alarm.ampm,Kein Problem. was soll ich einstellen? A.M. or P.M.?
+de-de,alarm.alarm.ampm,Soll ich das einstellen für A.M. oder P.M.?
+de-de,alarm.alarm.ampm,Na sicher. Für A.M. oder P.M.?
+de-de,alarm.alarm.error,Es tut mir leid. versuchst du einen Alarm einzustellen? kannst du das bitte umformulieren.
+de-de,alarm.alarm.error,Es scheint dass du versuchst einen Alarm auszulösen. kannst du das bitte umformulieren.
+de-de,alarm.alarm.off,der alarm wurde ausgeschalten
+de-de,alarm.alarm.off,der alarm wurde deaktiviert
+de-de,alarm.alarm.off,der alarm wurde gestoppt
+de-de,alarm.alarm.set.h,Ich habe einen Alarm für erstellt {{hours}} Stunden.
+de-de,alarm.alarm.set.hm,Ich habe einen Alarm für erstellt {{hours}} Stunden and {{minutes}} Minuten.
+de-de,alarm.alarm.set.m,Ich habe einen Alarm für erstellt {{minutes}} Minuten.
+de-de,alarm.alarm.status,Ich haben keine aktiven Alarme
+de-de,alarm.alarm.status,Ich sehe keine aktiven Alarme
+de-de,alarm.alarm.status,Es scheint als hätten Ich keine aktiven Alarme
+de-de,alarm.alarm.stop,sage alarm ausschalten um alarm zu beenden
+de-de,alarm.no.time.found,Ich hatte keine Zeit diesen Alarm zu planen.
+de-de,alarm.schedule.create,Alarm eingestellt auf {{datetime}}
+de-de,alarm.schedule.create,du hast einen neuen alarm um {{datetime}}
+de-de,alarm.schedule.create,ein neuer alarm um {{datetime}} wurde hinzugefügt
+de-de,alarm.schedule.datetime.error,Entschuldigung ich kannn kein korrektes Datum oder Uhrzeit finden.
+de-de,alarm.schedule.datetime.error,Es ist nicht möglich einen Alarm ohne eingestelltes Datum und Uhrzeit.
+de-de,alarm.schedule.delete.empty,Du hast kein Alarm den ich löschen könnte
+de-de,alarm.schedule.delete.empty,ich habe keinen Alarm den ich löschen könnte
+de-de,alarm.schedule.delete.many,{{amount}} Alarme wurden gelöscht
+de-de,alarm.schedule.delete.many,{{amount}} Alarme wurden entfernt
+de-de,alarm.schedule.delete.many,Du hast {{amount}} Alarme gelöscht
+de-de,alarm.schedule.delete.single,ein Alarm wurde gelöscht
+de-de,alarm.schedule.delete.single,Ich habe einen Alarm gelöscht
+de-de,alarm.schedule.delete.single,Ich habe ein Alarm gelöcht
+de-de,alarm.schedule.list,du hast einen Alarm um {{datetime}}
+de-de,alarm.schedule.list,ich soll dich um {{datetime}} wecken
+de-de,alarm.schedule.list.empty,ich habe keinen Alarm hinterlegt
+de-de,alarm.schedule.list.empty,du hast keinen Alarm eingetragen
+de-de,auto-volume-skill.activate,OK
+de-de,auto-volume-skill.activate,Automatische Lautstärke aktiviert
+de-de,auto-volume-skill.activate,Ich habe die automatische Lautstärke aktiviert
+de-de,auto-volume-skill.deactivate,OK
+de-de,auto-volume-skill.deactivate,Automatische Lautstärke ist deaktiviert
+de-de,auto-volume-skill.deactivate,Ich habe die automatische Lautstärke nun deaktiviert
+de-de,auto-volume-skill.reset,Ich habe automatische Lautstärke nun zurückgesetzt
+de-de,auto-volume-skill.reset,Ich habe die automatische Lautstärke nun zurückgesetzt
+de-de,avmusic.neon.ChangeMind,Lass es mich wissen wenn du deine Meinung änderst
+de-de,avmusic.neon.PlayNow,Soll ich es jetzt spielen?
+de-de,avmusic.neon.SayResume,Musik ist pausiert. sage weiter um die Wiedergabe fortzusetzen
+de-de,avmusic.neon.SayStop,Sage anhalten oder pausieren wenn du fertig bist
+de-de,avmusic.neon.TryAgain,Es tut mir leid ich konnte die gesuchte Musik nicht finden. Könntest du es nochmal versuchen?
+de-de,caffeinewiz.neon.drink.caffeine,das Getränk {{drink}} hat {{caffeine_content}} Koffein auf {{drink_size}} unzen. eine Unze sind 30 Milliliter.
+de-de,cocktail.NotFound,Entschuldigung ich konnte den gefragten Drink nicht finden
+de-de,cocktail.NotFound,Ich fürchte ich konnte das nicht finden
+de-de,cocktail.YouWillNeed,Du benötigst {ingredients} und {final_ingredient}
+de-de,cocktail.YouWillNeed,Du benötigst {ingredients} und {final_ingredient}
+de-de,cocktail.YouWillNeed,Die erforderlichen Zutaten sind: {ingredients} und {final_ingredient}
+de-de,configuration.config.no_change,Konfiguration hat sich nicht geändert
+de-de,configuration.config.no_change,Keine Änderungen vorhanden
+de-de,configuration.config.not.paired,Konnte die Konfiguration nicht abrufen Gerät ist nicht gepaart.
+de-de,configuration.config.not.paired,Konfiguration konnte nicht aktualisiert werden bitte paare das Gerät
+de-de,configuration.config.updated,Konfiguration aktualisiert.
+de-de,configuration.config.updated,deine Gerätekonfiguration wurde aktualisiert.
+de-de,configuration.config.updated,dein Gerät wurde konfiguriert.
+de-de,configuration.download.started,Das Herunterladen des neuen Zuhörers dauert ein wenig und Sie können mich erst nach dem Abschluss verwenden. Gib mir eine Minute bevor ich versuche mich wieder zu aktivieren.
+de-de,configuration.get.listener,Der aktuelle Empfänger ist {{listener}}.
+de-de,configuration.get.listener,Der Empfänger ist auf eingestellt {{listener}}.
+de-de,configuration.i.am.at,ich bin in {{city}} {{state}} {{country}}
+de-de,configuration.i.am.at,Meine Einstellungen sagen mir ich bin in {{city}} {{state}} {{country}}
+de-de,configuration.listener.same,Der Empfönger ist bereits eingestellt {{listener}}.
+de-de,configuration.model.is,Das aktuelle precence Modell hat die Kennung {{name}}.
+de-de,configuration.model.is,Das aktuelle Modell hat die Kennung {{name}}.
+de-de,configuration.models.not.found,Ich konnte keine Modelldateien zum Aktualisieren finden.
+de-de,configuration.models.updated,Ich habe die Precise-Modelle aktualisiert.
+de-de,configuration.must.be.hey.mycroft,Das Weckwort muss auf "hey mycroft" eingestellt sein um präzise zu sein. Du kannst das unter home punkt mycroft punkt AI tun.
+de-de,configuration.must.update,Bitte aktualisiere zuerst deine Software..
+de-de,configuration.my.name.is,Mein Gerätename ist {{name}}
+de-de,configuration.my.name.is,Ich bin als {{name}} bennant
+de-de,configuration.not.precise,Der Precise ist nicht auf "Genau" eingestellt.
+de-de,configuration.set.listener,Ich habe den Epfänger auf {{listener}} eingestellt.
+de-de,count-skill.count_error,Ich verstehe nicht.
+de-de,count-skill.count_error,Mir fehlt etwas.
+de-de,count-skill.count_error,Sag das bitte noch mal
+de-de,count-skill.count_error,Entschuldigung. Ich habe das nicht gehört.
+de-de,count-skill.count_start,Zähle bis {number}. Ich beginne jetzt!
+de-de,count-skill.count_stop,Erledigt!
+de-de,count-skill.count_stop,Fertig!
+de-de,count-skill.countdown_start,Ich zähle von {number} herunter. Ich starte jetzt!
+de-de,count-skill.countdown_stop,Erledigt!
+de-de,count-skill.countdown_stop,Fertig!
+de-de,cut-up-skill.frag_type.set,Den {{frag_type}} Fragment-Typ ausgewählt.
+de-de,cut-up-skill.maximum.set,Maximale Stückgröße auf {{max}} gesetzt.
+de-de,cut-up-skill.minimum.set,Minimale Stückgröße auf {{min}} gesetzt.
+de-de,cut-up-skill.randomness.set,Zufälligkeit auf {{rand}} Prozent gesetzt.
+de-de,deezer.intro,Danke dass dur den Deezer Skill Installiert hast. Es sind noch ein paar weitere Schritte nötig. Bitte folge den zusätzlichen Anweisungen.
+de-de,dice-skill.multiple.modificator.result,Deine Zahlen sind {result} und addieren sich zu {total}
+de-de,dice-skill.multiple.result,Deine Zahlen sind {result}
+de-de,dice-skill.range.needed,Du musst einen Bereich angeben
+de-de,dice-skill.range.needed,Ich brauche einen Bereich um das zu tun
+de-de,dice-skill.range.needed,Sag mir in welchem Bereich die Zahlen liegen sollen
+de-de,dice-skill.single.modificator.result,Das Ergebnis ist {total}.
+de-de,dice-skill.single.result,Das Ergebnis ist {result}.
+de-de,dice-skill.single.result,Deine Zahl ist {result}
+de-de,email-skill.already.looking.for.all,Ich schaue bereits nach einer neuen Mail
+de-de,email-skill.already.looking.for.all,Ich habe schon nach einer neuen Mail geschaut
+de-de,email-skill.already.looking.for.all,Ich schaue schon nach einer neuen E-Mail
+de-de,email-skill.already.looking.for.specific,Ich suche bereits nach E-Mails von {email}
+de-de,email-skill.already.looking.for.specific,Ich habe bereits nach neuer Mail von {email} geschaut
+de-de,email-skill.already.looking.for.specific,Ich suche bereits eine E-Mail von {email}
+de-de,email-skill.cancel.looking.for.all.look.specific,Ich suche derzeit nach neuen E-Mails. Soll ich dich nun per {email} über E-Mails benachrichtigen
+de-de,email-skill.cancel.looking.for.all.look.specific,Ich habe bereits nach einen neuen E-Mail gesucht. Soll ich dich nur über neue E-Mails von {email} benachrichtigen
+de-de,email-skill.cancel.looking.for.specific.look.all,Ich suche derzeit nach {email}. Soll ich stattdessen nach allen neuen E-Mails suchen
+de-de,email-skill.cancel.looking.for.specific.look.all,Im Moment suche ich nur nach E-Mails von {email}. Soll ich stattdessen nach allen E-Mails suchen
+de-de,email-skill.cancel.looking.for.specific.look.all,Soll ich nach allen E-Mails suchen anstatt nur nach E-Mails von {email} zu suchen
+de-de,email-skill.error.getting.mail,Beim Abrufen Ihrer E-Mail ist ein Fehler aufgetreten. Überprüfen Sie Ihre Anmeldeinformationen und Serverinformationen
+de-de,email-skill.error.getting.mail,Prüfe deine Anmeldedaten und die Server Informationen da es ein Problem beim Zugriff auf deine Mail gab.
+de-de,email-skill.error.getting.mail,Ich kann keine Verbindung zu Ihrem E-Mail-Server herstellen. Überprüfe dein Kennwort und deine Serverinformationen
+de-de,email-skill.list.subjects,Nummer {message_num} ist von {sender}. Der Betreff ist {subject}
+de-de,email-skill.list.subjects,der Betreff von Nummer {message_num} ist {subject}. Sie ist von {sender}
+de-de,email-skill.more.emails,Möchtest du mehr hören
+de-de,email-skill.more.emails,Willst du mehr von deinen E-Mails hören
+de-de,email-skill.more.emails,Willst du mehr hören
+de-de,email-skill.no.emails.from,Es gibt keine E-Mails von {sender}
+de-de,email-skill.no.emails.from,Du hast keine E-Mails von {sender}
+de-de,email-skill.no.emails.from,Sie haben keine E-Mails von {sender} erhalten
+de-de,email-skill.no.more.emails,Okay
+de-de,email-skill.no.new.email,Es gibt keine neuen E-Mail
+de-de,email-skill.no.new.email,Da ist keine neue E-Mail
+de-de,email-skill.no.new.email,Es gibt keine neue Post
+de-de,email-skill.no.new.email,Es gibt keine neue Mail
+de-de,email-skill.no.new.email,Es gibt keine neue E-Mail für dich
+de-de,email-skill.no.new.email,Es gibt keine neue Mail für dich
+de-de,email-skill.no.new.email,Du hast keine neue Mail
+de-de,email-skill.no.new.email,Du hast keine neue E-Mail
+de-de,email-skill.not.looking.for,Ich suche derzeit nicht nach E-Mails von {email}
+de-de,email-skill.not.looking.for,Ich suche keine E-Mails von {email}
+de-de,email-skill.not.looking.for,Im Moment suche ich keine E-Mail von {email}
+de-de,email-skill.notify.read.email,du hast {size} eine neue E-Mail möchtest du sie hören
+de-de,email-skill.notify.read.email,Es gibt {size} neue E-Mails. Möchtest du sie hören
+de-de,email-skill.notify.read.email,Möchtest du deine {size} E-Mails hören
+de-de,email-skill.poll.emails.not.started,Ich schaue nicht mehr nach neuen Mails
+de-de,email-skill.poll.emails.not.started,Derzeit suche ich nicht mehr nach neuen E-Mails
+de-de,email-skill.setup,Um die E-Mail-Funktion einzurichten gehe bitte auf die Startseite punkt mycroft punkt a i um deine E-Mail-Informationen einzugeben
+de-de,email-skill.setup,du musst die E-Mail-Fähigkeit einrichten. Gehe dazu bitte zur Startseite. Punkt mycroft Punkt a i um deine E-Mail-Informationen einzugeben
+de-de,email-skill.start.poll.email,Ich werde dich über neue E-Mails informieren
+de-de,email-skill.start.poll.email,Okay ich werde dich über neue E-Mails informieren
+de-de,email-skill.start.poll.email,Ich fange an auf neue E-Mails zu warten
+de-de,email-skill.stop.looking.for,Ich höre bei {email} auf nach neuen Mails zu suchen
+de-de,email-skill.stop.looking.for,Okay ich höre auf nach neuen E-Mails von {email} zu suchen
+de-de,email-skill.stop.poll.emails,Okay ich werde aufhören nach neuen E-Mails zu suchen
+de-de,email-skill.stop.poll.emails,Okay ich werde nicht mehr nach neuen E-Mails suchen
+de-de,email-skill.stop.poll.emails.last.email.removed,Ich höre auf nach neuen E-Mails zu suchen da es keine E-Mail-Adressen gibt über die benachrichtigt werden möchte
+de-de,email-skill.update.notify.data,Ich habe deine E-Mail-Einstellungen aktualisiert
+de-de,email-skill.update.notify.data,alles klar Ich habe deine E-Mail-Einstellungen aktualisiert
+de-de,emby-skill.configuration_fail,Verbindung zum Emby Server fehlgeschlagen. Bitte überprüfe diene Konfiguration auf home.mycroft.ai
+de-de,emby-skill.configuration_success,Erfolgreich mit dem Emby Server {hostname} verbunden
+de-de,emby-skill.diag_auth_fail,Authentifizierung gegenüber dem Emby Server fehlgeschlagen. Bitte überprüfe deine Konfiguration auf home.mycroft.ai
+de-de,emby-skill.diag_auth_success,Ich habe mich erfolgreich gegenüber dem Emby-Server authentifiziert!
+de-de,emby-skill.diag_public_info_fail,Der Emby-Server unter {host} scheint nicht erreichbar zu sein oder nicht zu antworten.
+de-de,emby-skill.diag_public_info_success,Großartig! Ich kann auf {ServerName} zugreifen der sich unter {LocalAddress} in der laufenden Version {Version} befindet. Versuche mich zu authentifizieren.
+de-de,emby-skill.diag_start,Ich werde eine Diagnose zum überprüfen der Emby Skill Verbindung ausführen. Das wird überprüfen ob auf den Server Zugriff besteht und ob ich mich authentifizieren kann.
+de-de,emby-skill.diag_stop,Die Diagnose wird nicht fortgesetzt
+de-de,emby-skill.diagnostic,Die Diagnose ist abgeschlossen und ich kann mich auf den Emby Server verbinden und authentifizieren. Jetzt ist es an der Zeit etwas Musik zu spielen
+de-de,emby-skill.emby,{media} Abspielen
+de-de,emby-skill.general_check_settings_logs,Bitte überprüfe deine Einstellungen von Mycroft.ai. Wenn das Problem weiterhin besteht dann überprüfe die Mycroft Protokolle für weitere Informationen
+de-de,emby-skill.play_fail,Datei {media} nicht gefunden bzw. kann nicht abgespielt werden. Bitte versuche es noch Mal
+de-de,emby-skill.play_fail,Datei {media} nicht gefunden bzw. kann nicht abgespielt werden. Bitte versuche es erneut. Wenn dies weiterhin der Fall ist überprüfen Sie Ihre Konfiguration zu home.Mycroft.ai
+de-de,fairytalez-skill.continue,Die Geschichte von {story} weiter erzählen
+de-de,fairytalez-skill.continue,Wo waren wir stehen geblieben. Ah ja hier. {story}
+de-de,fairytalez-skill.fairytalez,Ich kenne mehr als 2000 Märchen Volkssagen und Fabeln aus der ganzen Welt. Welches möchtest du hören ?
+de-de,fairytalez-skill.from_fairytalez,Diese Märchen sind von www punkt fairytalez punt com. Sie lieben Märchen! Bitte besuche die Seite wo du die größte Sammlung von Märchen Volkssagen und Fabeln online findest.
+de-de,fairytalez-skill.i_know_that,{story} ist eine gute Geschichte. Lass uns anfangen...
+de-de,fairytalez-skill.i_know_that,Ja {story} ist eine gute Geschichte. Sie geht so...
+de-de,fairytalez-skill.is_it_that,Ist es diese ?
+de-de,fairytalez-skill.is_it_that,Ist es diese s ?
+de-de,fairytalez-skill.is_it_that,Könnte es das sein?
+de-de,fairytalez-skill.is_it_that,Soll ich dir diese erzählen?
+de-de,fairytalez-skill.is_it_that,Soll ich dir diese s erzählen?
+de-de,fairytalez-skill.is_it_that,Willst du das hören?
+de-de,fairytalez-skill.let_me_think,Lass mich sehen. Kenne ich {story}
+de-de,fairytalez-skill.let_me_think,Nun ich muss überlegen ob ich mich an {story} erinnere
+de-de,fairytalez-skill.no_story,Dann weiß ich nicht welche Geschichte du hören willst.
+de-de,fairytalez-skill.no_story_to_continue,Es gibt keine Geschichte zum Fortsetzen
+de-de,fairytalez-skill.no_story_to_continue,Tut mir Leid - Es gibt keine Geschichte zum Fortsetzen
+de-de,fairytalez-skill.that_would_be,Ich kann die Geschichte {story} erzählen.
+de-de,fairytalez-skill.that_would_be,Ich erinnere mich an das {story}.
+de-de,fairytalez-skill.that_would_be,Ich erinnere mich an den {story}.
+de-de,fairytalez-skill.that_would_be,Ich erinnere mich an die {story}.
+de-de,fairytalez-skill.title_by_author,{title} von {author}
+de-de,fallback-aiml.reset.memory,Wissensdatenbank zurücksetzen
+de-de,fallback-aiml.reset.memory,Vergesse alles
+de-de,fallback-aiml.reset.memory,Okay ich setze jetzt meinen Speicher zurück
+de-de,fallback-aiml.reset.memory,Gedächtnislöschung gestartet
+de-de,fallback-aiml.reset.memory,Gehirnlöschung gestartet
+de-de,fallback-recommendations-skill.skill.download.confirmation,Der {{skill_name}} Skill kann das für dich tun. Soll ich ihn herunterladen?
+de-de,fallback-recommendations-skill.skill.download.confirmation,Ich habe einen Skill namens {{skill_name}} Skill gefunden der dir dabei helfen könnte. Soll ich ihn herunterladen?
+de-de,fallback-recommendations-skill.skill.download.refused,Okay.
+de-de,fallback-recommendations-skill.skill.download.refused,Alles klar.
+de-de,fallback-recommendations-skill.skill.downloading,Nur einen Moment ich lade den {{skill_name}} Skill herunter.
+de-de,fallback-recommendations-skill.skill.downloading,Nur einen Moment ich lade den {{skill_name}} Skill herunter.
+de-de,fallback-recommendations-skill.skill.downloading,Einen Moment Ich lade den {{skill_name}} Skill herunter.
+de-de,fallback-recommendations-skill.skill.downloading,Okay lass mich den {{skill_name}} Skill herunterladen.
+de-de,fallback-recommendations-skill.skill.downloading,Warte einen Moment während ich den {{skill_name}} Skill herunterlade.
+de-de,fallback-recommendations-skill.skill.downloading,Okay ich lade den {{skill_name}} Skill herunter.
+de-de,fallback-unknown.question,Ich weiß nicht
+de-de,fallback-unknown.question,Ich bin mir nicht sicher
+de-de,fallback-unknown.question,Ich bin mir da nicht sicher
+de-de,fallback-unknown.question,Ich weiß das nicht genau
+de-de,fallback-unknown.unknown,Entschuldigung ich habe das nicht verstanden
+de-de,fallback-unknown.unknown,ich weiß nicht was du meinst
+de-de,fallback-unknown.unknown,Kannst du das anders formulieren?
+de-de,fallback-unknown.unknown,ich konnte deine Anfrage nicht verstehen
+de-de,fallback-unknown.unknown,Huh ich verstehe das nicht.
+de-de,fallback-unknown.unknown,Ich bin mir nicht sicher ob ich dich verstanden habe.
+de-de,fallback-unknown.unknown,Du musset das vielleicht anders sagen.
+de-de,fallback-unknown.unknown,Bitte formuliere deine Anfrage um.
+de-de,fallback-unknown.unknown,kannst du dich villeicht anders ausdrücken
+de-de,fallback-unknown.unknown,versuche dich mal anders auszudrücken.
+de-de,fallback-unknown.who.is,Ich weiß nicht wer das ist.
+de-de,fallback-unknown.who.is,Ich bin mir nicht sicher wen du meinst
+de-de,fallback-unknown.why,Ich kenne den Grund dafür nicht.
+de-de,fallback-unknown.why,Ich weiß nicht
+de-de,fallback-unknown.why,Ich bin mir nicht ganz sicher.
+de-de,fallback-unknown.why,Ich bin mir nicht sicher
+de-de,fallback-wolfram-alpha.email.body,du fragst <br/><ul><tt>'{{query}}'</tt></ul><br/> Und mir wurde erzählt <br/><ul><tt>'{{answer}}'</tt></ul><P> Für weitere Details und die Informationsquellen die verwendet werden um die Antwort zu generieren visit:<br/><a href="http://www.wolframalpha.com/input/?i={{url_query}}">www.wolframalpha.com</a>
+de-de,fallback-wolfram-alpha.email.subject,Quellen für: '{{query}}'
+de-de,fallback-wolfram-alpha.not.understood,Entschuldigung ich kenne kein {{phrase}}
+de-de,fallback-wolfram-alpha.sent.email,Ich habe eine E-Mail an Ihren registrierten Account mit einem Link zu Wolfram Alpha für weitere Details und Quellen gesendet.
+de-de,finished-booting.finished.booting,Ich bin nun hochgefahren.
+de-de,finished-booting.finished.booting,Ich bin jetzt bereit.
+de-de,finished-booting.finished.booting,Hallo hier ist Mycroft und ich bin bereit zu arbeiten.
+de-de,finished-booting.finished.booting,Du kannst nun mit Mycroft beginnen.
+de-de,finished-booting.finished.booting,Alle Systeme hochgefahren.
+de-de,finished-booting.finished.booting,Bereit zu arbeiten.
+de-de,finished-booting.finished.booting,Mycroft ist nun bereit.
+de-de,homeassistant.homeassistant.automation.trigger,ausgelöste Automation {{dev_name}}.
+de-de,homeassistant.homeassistant.automation.trigger,habe {{dev_name}} ausgelöst.
+de-de,homeassistant.homeassistant.automation.trigger,{{dev_name}} wurde ausgelöst.
+de-de,homeassistant.homeassistant.automation.trigger,{{dev_name}} wurde aktiviert.
+de-de,homeassistant.homeassistant.automation.trigger,habe {{dev_name}} aktiviert.
+de-de,homeassistant.homeassistant.brightness.badreq,Bitte gib eine Helligkeitsstufe zwischen 0 und 100 an.
+de-de,homeassistant.homeassistant.brightness.badreq,wie hell? du kannst eine Stufe zwischen 0 und 100 wählen.
+de-de,homeassistant.homeassistant.brightness.cantdim.dimmable,Kann {{dev_name}} nicht dimmen. Es ist nicht dimmbar.
+de-de,homeassistant.homeassistant.brightness.cantdim.off,Kann {{dev_name}} nicht dimmen. Es ist ausgeschaltet.
+de-de,homeassistant.homeassistant.brightness.cantdim.off,Kann {{dev_name}} nicht dimmen. Bitte schalte es vorher an.
+de-de,homeassistant.homeassistant.brightness.cantdim.off,{{dev_name}} kann nicht gedimmt werden. Nur angeschaltete Geräte können gedimmt werden.
+de-de,homeassistant.homeassistant.brightness.decreased,Habe {{dev_name}} zu {{brightness}} Prozent gedimmt.
+de-de,homeassistant.homeassistant.brightness.decreased,Habe {{dev_name}} gedimmt.
+de-de,homeassistant.homeassistant.brightness.dimmed,Setze die Helligkeit von {{dev_name}} auf {{brightness}} Prozent.
+de-de,homeassistant.homeassistant.brightness.increased,Helligkeit von {{dev_name}} auf {{brightness}} Prozent erhöht.
+de-de,homeassistant.homeassistant.brightness.increased,Helligkeit von {{dev_name}} erhöht.
+de-de,homeassistant.homeassistant.device.already,{{dev_name}} führt bereits die Aktion {{action}} aus.
+de-de,homeassistant.homeassistant.device.already,{{dev_name}} wurde nicht verändert.
+de-de,homeassistant.homeassistant.device.off,{{dev_name}} abgedreht.
+de-de,homeassistant.homeassistant.device.off,{dev_name}} wurde ausgeschaltet.
+de-de,homeassistant.homeassistant.device.off,{{dev_name}} ist jetzt ausgeschaltet.
+de-de,homeassistant.homeassistant.device.on,{{dev_name}} angeschaltet.
+de-de,homeassistant.homeassistant.device.on,{{dev_name}} wurde eingeschalten.
+de-de,homeassistant.homeassistant.device.on,Habe {{dev_name}} eingeschalten.
+de-de,homeassistant.homeassistant.device.toggle,{{dev_name}} umgeschaltet.
+de-de,homeassistant.homeassistant.device.toggle,{{dev_name}} wurde umgeschalten.
+de-de,homeassistant.homeassistant.device.unknown,Entschuldigung ich kann das Home Assistent Element "{{dev_name}}" nicht finden.
+de-de,homeassistant.homeassistant.device.unknown,Gerät "{{dev_name}}" ist nicht auffindbar.
+de-de,homeassistant.homeassistant.device.unknown,Entschuldigung das Objekt "{{dev_name}}" wurde nicht gefunden.
+de-de,homeassistant.homeassistant.device.unknown,Entschuldigung ich konnte "{{dev_name}}" nicht finden.
+de-de,homeassistant.homeassistant.error,Zugang zum Home Assistant Server an der Adresse {{url}} ist fehlgeschlagen.
+de-de,homeassistant.homeassistant.error.http,Der Home Assistant Server konnte aufgrund des folgenden Fehlers nicht antworten: {{code}} {{reason}}
+de-de,homeassistant.homeassistant.error.invalidurl,An der Adresse {{url}} ist kein gültiger Home Assistant Server erreichbar
+de-de,homeassistant.homeassistant.error.offline,Der Home Assistant Server scheint offline zu sein.
+de-de,homeassistant.homeassistant.error.offline,Ich kann den Home Assistant Server nicht erreichen.
+de-de,homeassistant.homeassistant.error.offline,Der Home Assistent Server hat nicht geantwortet
+de-de,homeassistant.homeassistant.error.setup,Bitte richte den Hone Assistent Skill unter Home Punkt mycroft Punkt AI ein.
+de-de,homeassistant.homeassistant.error.sorry,Ich verstehe nicht was du von mir willst.
+de-de,homeassistant.homeassistant.error.sorry,Ich kann nicht feststellen wie ich mit dem Home Assistant kommunizieren kann.
+de-de,homeassistant.homeassistant.error.sorry,Ich verstehe nicht was du gefragt hast.
+de-de,homeassistant.homeassistant.error.ssl,Die Konfiguration für S S L auf dem Home Assistant Server ist ungültig.
+de-de,homeassistant.homeassistant.error.wrong_password,Der Home Assistant Server hat das eingegebene Passwort nicht akzeptiert.
+de-de,homeassistant.homeassistant.sensor,{{dev_name}} ist aktuell {{value}} {{unit}}.
+de-de,homeassistant.homeassistant.sensor,{{dev_name}} hat den Status: {{value}} {{unit}}.
+de-de,homeassistant.homeassistant.sensor,{{dev_name}} ist im Moment {{value}} {{unit}}.
+de-de,homeassistant.homeassistant.sensor,{{dev_name}} ist {{value}} {{unit}}.
+de-de,homeassistant.homeassistant.set.thermostat,Ich habe erfolgreich {{dev_name}} auf {{value}} {{unit}} gesetzt.
+de-de,homeassistant.homeassistant.tracker.found,Der letzte bekannte Ort von {{dev_name}} ist {{location}}.
+de-de,homeassistant.homeassistant.tracker.found,{{dev_name}} ist bei {{location}}.
+de-de,homeassistant.homeassistant.tracker.found,{{dev_name}} wurde bei {{location}} gefunden.
+de-de,installer.already.installed,{{skill}} wurde bereits installiert
+de-de,installer.choose,deine suche hat mehrere ergebnisse: {{skills}}
+de-de,installer.choose,es gibt mehrere ergebnisse mit diesm name. bitte Wähle eines aus: {{skills}}
+de-de,installer.decline.install,Installation abgebrochen
+de-de,installer.decline.removal,Deinstallatio abgebrochen
+de-de,installer.filesystem.error,Ein Dateisystemfehler ist während {{action}} in {{skill}} aufgetreten. Fehlercode {{error}}.
+de-de,installer.install.confirmation,Bestätigung: soll ich {{skill}} installieren?
+de-de,installer.installation.error,ein fehlewe während {{action}} in {{skill}} st aufgetreten. Fehlercode {{error}}
+de-de,installer.installed,der {{skill}} wurde installiert!
+de-de,installer.installing,installiere
+de-de,installer.network.error,ein Netzwerkfehler ist während {{action}} in {{skill}} aufgetreten. Fehlercode {{error}}.
+de-de,installer.not.found,entschuldigung ich konnte den Skill {{skill}} nicht finden
+de-de,installer.not.found,der Skill {{skill}} wurde nicht gefunden.
+de-de,installer.other.error,installation von {{skill}} fehlgeschlagen Fehlercode {{error}}
+de-de,installer.removal.error,es gab einen Fehler bem entfernen von {{skill}}. Error code {{error}}
+de-de,installer.remove.not.found,kein passender Skill '{{skill}}' gefunden
+de-de,installer.remove.not.found.no.skill,ich habe keine Skill zum entfernen gefunden
+de-de,installer.remove.not.found.no.skill,Ich konnte keine Skill zum Entfernen finden
+de-de,installer.remove.not.found.no.skill,Keinen passenden Skill zum Entfernen
+de-de,installer.removed,{{skill}} wurde entfernt
+de-de,installer.removing,versuche zu deinstallieren
+de-de,installer.searching,Okay
+de-de,installer.some.available.skills,Hier sind ein paar Skills die du installieren könntest: {{skills}}
+de-de,installer.system.error,Während der Installation von {{skill}} ist ein Systemfehler aufgetreten. Error code {{error}}.
+de-de,installer.too.many.matches,deine Anfrage hatte mehrere Übereinstimmungen bitte sei genauer. Es gab zu viele Übereinstimmungen um sie zu lesen.
+de-de,installer.uninstall.confirmation,Bestätigung: Soll ich {{skill}} entfernen.
+de-de,ip.dot,Punkt
+de-de,ip.my address is,Meine I P Adresse ist die {{ip}}
+de-de,ip.my address is,Ich bin auf der I P Adresse {{ip}}
+de-de,ip.my address on X is Y,auf {{interface}} ist meine I.P Adresse {{ip}}.
+de-de,ip.no network connection,ich habe aktuell kein Netzwerk
+de-de,ip.no network connection,ich bin gerade nicht mit dem Netzwerk verbunden
+de-de,iss-tracker-skill.location.current,Die I S S befindet sich derzeit über dem {{latitude}} Breiten- und {{longitude}} Längengrad dies entspricht {{toponym}}
+de-de,iss-tracker-skill.location.current,Die Raumstation ist auf dem {{latitude}} Breiten- und {{longitude}} Längengrad über {{toponym}}
+de-de,iss-tracker-skill.location.current,Sie ist auf dem {{latitude}} Breiten- und {{longitude}} Längengrad über {{toponym}}
+de-de,iss-tracker-skill.location.current,Die internationale Raumstation ist jetzt über {{toponym}} dem {{latitude}} Breiten- und {{longitude}} Längengrad
+de-de,iss-tracker-skill.location.current,Über {{toponym}} dem {{latitude}} Breiten- und {{longitude}} Längengrad
+de-de,iss-tracker-skill.location.unknown,Entschuldige der {{latitude}} Breiten- und {{longitude}} Längengrad ist unbekannt
+de-de,iss-tracker-skill.location.unknown,Entschuldige Die Raumstation ist über dem {{latitude}} Breiten- und {{longitude}} Längengrad ich weiß jedoch nicht wo dieses ist
+de-de,iss-tracker-skill.location.unknown,Sie ist über dem {{latitude}} Breiten- und {{longitude}} Längengrad welche nicht in der Datenbank verzeichnet sind
+de-de,iss-tracker-skill.location.unknown,Die I S S ist über dem {{latitude}} Breiten- und {{longitude}} Längengrad aber es ist kein geographisches Merkmal zugeordnet
+de-de,krunner-search-skill.krunner.recent,Deine neuesten Dateien anzeigen
+de-de,krunner-search-skill.krunner.search,Ich führe eine lokale Suche nach {{ Query }} durch
+de-de,laugh.cancel,Lachen hat aufgehört
+de-de,laugh.cancel,ich werde nicht wieder lachen
+de-de,laugh.cancel_fail,ich lache nicht
+de-de,learning-skill.add.category,ich habe eine neue Kategorie {{cat}} erkannt wie möchtest du sie nennen?
+de-de,learning-skill.add.category,du hast eine neue Kategorie {{cat}} erkannt sage mir wie ich sie nennen soll?
+de-de,learning-skill.answer,was soll ich darüber wissen
+de-de,learning-skill.answer,dazu hast du bestimmt auch eine antwort
+de-de,learning-skill.answer,wie soll ich darauf antworten
+de-de,learning-skill.begin.learning,Ich mag es zu lernen Um welche Kategorie handelt es sich?
+de-de,learning-skill.begin.learning,Ich höre Kannst du mir bitte eine Kategorie nennen?
+de-de,learning-skill.begin.learning,Sicher bin ich sehr neugierig gib mir nur noch eine Kategorie
+de-de,learning-skill.begin.learning,Wissen macht mich menschlicher gib mir eine Kategorie.
+de-de,learning-skill.begin.private,Ich kann schweigen wie ein Grab Um welche Kategorie handelt es sich?
+de-de,learning-skill.begin.private,Ich würde nichts erzählen Kannst du mir bitte eine Kategorie nennen?
+de-de,learning-skill.begin.private,das bleibt bei uns gib mir nur noch eine Kategorie
+de-de,learning-skill.begin.private,Ich werde nichts erzählen gib mir nur eine Kategorie
+de-de,learning-skill.cancel,dann eben nicht
+de-de,learning-skill.cancel,na gut dann nicht
+de-de,learning-skill.cancel,wie du meinst
+de-de,learning-skill.cancel,also werde ich abbrechen
+de-de,learning-skill.cancel,dann werde ich eben abbrechen
+de-de,learning-skill.continue,möchtest du weitermachen?
+de-de,learning-skill.continue,nochmal einen?
+de-de,learning-skill.continue,ich hätte noch einen. möchtest du weitermachen?
+de-de,learning-skill.continue,darf ich noch weitermachen?
+de-de,learning-skill.found.output,wie würdest du das sagen. Ersetze Variabeln durch deine eigenen Platzhalter wie Zeit oder Temperatur.
+de-de,learning-skill.found.output,Ersetze Variabeln durch eigene Platzhalter. nenne mir jetzt deine Version.
+de-de,learning-skill.invalid.category,Unbekannte Kategorie möglich ist: liebe humor oder wissenschaft oder sage abbrechen um abzubrechen
+de-de,learning-skill.invalid.category,ich habe die Kategorie nicht erkannt ich kenne bissher liebe humor und Wissenschaft oder sage abbrechen um abzubrechen
+de-de,learning-skill.keywords,gebe mir Schlüsselwörter
+de-de,learning-skill.keywords,hast du mir dazu einige Schlüsselwörter
+de-de,learning-skill.keywords,kannst du mir dazu ein Paar Schlüsselwörter nennen
+de-de,learning-skill.keywords,ich brauche noch Schlüsselwörter
+de-de,learning-skill.line,{line}
+de-de,learning-skill.no.old.inquiry,Ich konnte keine Anfrage finden
+de-de,learning-skill.no.old.inquiry,Leider konnte ich nichts finden
+de-de,learning-skill.no.old.inquiry,mir ist dazu nichts bekannt
+de-de,learning-skill.no.old.inquiry,ich habe dir nichts zu bieten
+de-de,learning-skill.question,wie lautet deine Frage
+de-de,learning-skill.question,auf welche Frage soll ich reagieren
+de-de,learning-skill.question,auf was soll ich reagieren
+de-de,learning-skill.question,wie soll die Anfrage starten
+de-de,learning-skill.read.for,ich werde dir Beispiele vorspielen. Wenn du einen Satz erweiten möchtest sage ja
+de-de,learning-skill.read.for,ich werde dir Sätze ansagen. Wenn ich richtig bin sage ja
+de-de,learning-skill.read.for,ich lese dir Sätze for und wenn du sie erweitern möchtest sage ja
+de-de,learning-skill.read.for,du kannst nach jedem Beispiel ja sagen mu einen Satz zu erweitern
+de-de,learning-skill.save.learn,ich soll also auf die Frage {{question}} mit {{answer}} antworten?
+de-de,learning-skill.save.learn,wenn du möchtest werde ich mit {{answer}} antworten wenn du mich {{question}} Fragst.
+de-de,learning-skill.save.learn,{{answer}} ist also die Antwort auf {{question}}
+de-de,learning-skill.save.update,soll ich den Satz: {{question}} hinzufügen
+de-de,learning-skill.save.update,möchtest du dass ich den Satz {{question}} hinzufüge.
+de-de,learning-skill.save.update,der Satz {{question}} passt soll ich ihn hinzufügen.
+de-de,learning-skill.save.update,die Anfrage {{question}} scheint zu passen möchtest du ihn übernehmen.
+de-de,learning-skill.second.try,versuche es noch einmal
+de-de,learning-skill.second.try,du must mir den Platzhalter nennen
+de-de,learning-skill.second.try,Veruche einen anderen Platzhalter
+de-de,learning-skill.second.try,villeicht passt ein anderer Platzhalter
+de-de,learning-skill.second.try,versuche einen anderen Platzhalter
+de-de,learning-skill.var.found,ich habe einen Variable {var} gefunden kannst du sie mir angeben
+de-de,learning-skill.var.found,kannst du mir die Variable {var} angeben um weiterzukommen
+de-de,learning-skill.var.found,ich brauche die Variable {var} bitte gebe sie an
+de-de,learning-skill.var.found,die Variable {var} wird benötigt kannst du sie mir geben
+de-de,learning-skill.what.skill,Welchen skill möchtest du anpassen
+de-de,learning-skill.what.skill,Nenne mir ein skill
+de-de,learning-skill.what.skill,Um welchen Skill geht es
+de-de,learning-skill.what.skill,ich brauche einen Skillnamen von dir
+de-de,learning-skill.what.skill,kannst du mir den namen des skills geben
+de-de,lifx-mycroft.Color,Setze {{name}} auf {{color}}.
+de-de,lifx-mycroft.Dim,{{name}} {{change}}.
+de-de,lifx-mycroft.GroupError,Kann {{name}} nicht {{action}} weil es eine Gruppe ist.
+de-de,lifx-mycroft.GroupError,Kann {{name}} nicht {{action}} weil es eine Gruppe ist.
+de-de,lifx-mycroft.SetPercent,Setze {{param}} auf {{value}}.
+de-de,lifx-mycroft.SetPercent,Wechsle {{param}} zu {{value}}.
+de-de,lifx-mycroft.SetPercent,Setze {{name}} {{param}} auf {{value}}.
+de-de,lifx-mycroft.Switch,Wechsle {{status}} {{name}}.
+de-de,lifx-mycroft.Switch,Wechsle {{name}} {{status}}.
+de-de,lifx-mycroft.Temperature,Mache {{name}} mehr {{temperature}}.
+de-de,list-manager-skill.add.item,{{item_name}} wurde zu deiner {{list_name}} Liste hinzugefügt.
+de-de,list-manager-skill.add.list,Deine neue Liste {{list_name}} wurde hinzugefügt.
+de-de,list-manager-skill.and,und
+de-de,list-manager-skill.cancelled,Abgebrochen.
+de-de,list-manager-skill.confirm.deletion,Möchtest du {{element}} wirklich löschen?
+de-de,list-manager-skill.del.item,{{item_name}} wurde aus deiner {{list_name}} Liste entfernt.
+de-de,list-manager-skill.del.list,Deine Liste {{list_name}} wurde entfernt.
+de-de,list-manager-skill.item.not.found,{{item_name}} befindet sich nicht in deiner {{list_name}} Liste.
+de-de,list-manager-skill.list.found,Du hast bereits eine Liste mit dem Namen {{list_name}}.
+de-de,list-manager-skill.list.not.found,Du hast anscheinend keine Liste mit dem Namen {{list_name}}.
+de-de,list-manager-skill.list.not.found,Ich konnte {{list_name}} nicht in deinen Listen finden.
+de-de,list-manager-skill.no.items,Du hast keine Artikel auf deiner {{list_name}}.
+de-de,list-manager-skill.no.lists,Du hast noch keine Listen.
+de-de,list-manager-skill.read.items,In deiner {{list_name}} Liste hast du {{items}}
+de-de,list-manager-skill.read.lists,Derzeit hast du {{lists_names}} {{list}}.
+de-de,mark-2.auto.noon,Es scheint Mittag zu sein ich werde die Helligkeit einstellen.
+de-de,mark-2.auto.sunrise,Okay die Sonne zeigt sich ich werde die Helligkeit einstellen
+de-de,mark-2.auto.sunrise,Okay die Sonne ist da ich stelle die Helligkeit ein
+de-de,mark-2.auto.sunset,Okay es wird dunkel ich werde die Helligkeit entsprechend einstellen.
+de-de,mark-2.brightness.error,Ich verstehe diesen Helligkeitswert nicht gib mir einen Helligkeitswert von 0 bis 100 Prozent.
+de-de,mark-2.brightness.not.found,nenne mir einen Helligkeitsgrad oder ein Niveau für mein Gesicht
+de-de,mark-2.brightness.not.found,Welcher Helligkeitswert oder Prozentsatz möchtest du?
+de-de,mark-2.brightness.not.found.final,Entschuldigung ich verstehe diese Helligkeit nicht.
+de-de,mark-2.brightness.not.found.final,Ich verstehe nur Dinge wie 'voll' oder 50%
+de-de,mark-2.brightness.set,Okay setze die Helligkeit auf {val}.
+de-de,mark-2.brightness.set,Hört sich gut an setze die Helligkeit auf {val}
+de-de,mark-2.no.web.setting,es wurde keine Augenfarbe eingestellt
+de-de,mark-2.no.web.setting,Ich habe keine Webeinstellung für die Augenfarbe gefunden
+de-de,mark-2.rebooting,Ich starte jetzt neu. Ich bin gleich wieder da.
+de-de,mark-2.rebooting,Starte neu bin in wenigen Minuten zurück
+de-de,moviemaster.bad.movie.genre.catagory,Ich kann keine Fernseh- Sendungen mit dem Genre {genre} finden
+de-de,moviemaster.bad.movie.genre.catagory,Ich kann keine TV Sendungen mit dem Genre {genre} finden
+de-de,moviemaster.bad.tv.genre.catagory,Ich kann keine Fernseh- Sendungen mit dem Genre {genre} finden
+de-de,moviemaster.bad.tv.genre.catagory,Ich kann keine TV Sendungen mit dem Genre {genre} finden
+de-de,moviemaster.fallback.api,Greife auf die standard A P I zurück
+de-de,moviemaster.genre.movie.search,Die Filme mit dem Genre {genre} sind;
+de-de,moviemaster.genre.tv.search,Die TV Sendungen mit dem Genre {genre} sind;
+de-de,moviemaster.genre.tv.search,Die Fernseh Sendungen mit dem Genre {genre} sind;
+de-de,moviemaster.movie.cast,Hier ist die Besetzung von {movie}; {actorlist} und {lastactor}
+de-de,moviemaster.movie.cast,Die folgenden Personen Aktoren im Film {movie}; {actorlist} und {lastactor}
+de-de,moviemaster.movie.cast,Die folgenden Personen spieler im Film {movie}; {actorlist} und {lastactor}
+de-de,moviemaster.movie.cast,Die folgenden Personen Stars im Film {movie}; {actorlist} und {lastactor}
+de-de,moviemaster.movie.description,Der Film {movie} handelt davon.
+de-de,moviemaster.movie.description,Der Movie {movie} handelt davon.
+de-de,moviemaster.movie.description,Hier ist eine Zusammenfassung der filme {movie}.
+de-de,moviemaster.movie.description,Hier ist eine Zusammenfassung der movies {movie}.
+de-de,moviemaster.movie.genre.multiple,der flick kann in einem der Genres gefunden werden; {genrelist} und {genrelistlast}
+de-de,moviemaster.movie.genre.multiple,der film kann in einem der Genres gefunden werden; {genrelist} und {genrelistlast}
+de-de,moviemaster.movie.genre.multiple,der clip kann in einem der Genres gefunden werden; {genrelist} und {genrelistlast}
+de-de,moviemaster.movie.genre.multiple,Die Leute betrachten den Film als {genrelist} oder {genrelistlast}
+de-de,moviemaster.movie.genre.single,Der Film {movie} könnte als {genre} angesehen werden.
+de-de,moviemaster.movie.genre.single,Der Movie {movie} könnte als {genre} angesehen werden.
+de-de,moviemaster.movie.genre.single,Du findest den flick {movie} im Abschnitt {genre}
+de-de,moviemaster.movie.genre.single,Du findest den film {movie} im Abschnitt {genre}
+de-de,moviemaster.movie.info.response,{movie} wurde {year} mit einem Budget von {budget} Dollar veröffentlicht.
+de-de,moviemaster.movie.popular,Die neuen populären Filme sind {popularlist}.
+de-de,moviemaster.movie.popular,{popularlist} ist jetzt ganz oben in den Filmcharts.
+de-de,moviemaster.movie.production.multiple,Die Firmen {companies} und {lastcompany} haben den Film {movie} produziert
+de-de,moviemaster.movie.production.multiple,{companies} und {lastcompany} haben den Film {movie} produziert
+de-de,moviemaster.movie.production.single,Die Produktionsfirma {company} produzierte den Film {movie}
+de-de,moviemaster.movie.recommendations,Ich empfehle die Filme {movielist} wenn dir der Film {movie} gefällt
+de-de,moviemaster.movie.recommendations,Ich empfehle die Filme {movielist} wenn dir der movie {movie} gefällt
+de-de,moviemaster.movie.recommendations,Die Filme {movielist} sind eine gute Wahl wenn du den Film {movie} magst
+de-de,moviemaster.movie.recommendations,Die Filme {movielist} sind eine gute Wahl wenn du den movie {movie} magst
+de-de,moviemaster.movie.runtime,Der flick {movie} läuft {runtime} Minuten.
+de-de,moviemaster.movie.runtime,Der film {movie} läuft {runtime} Minuten.
+de-de,moviemaster.movie.runtime,Der movie {movie} läuft {runtime} Minuten.
+de-de,moviemaster.movie.runtime,Der flick {movie} ist {runtime} Minuten lang.
+de-de,moviemaster.movie.runtime,Der film {movie} ist {runtime} Minuten lang.
+de-de,moviemaster.movie.runtime,Der movie {movie} ist {runtime} Minuten lang.
+de-de,moviemaster.movie.runtime,Schaue {movie}; du musst mit ungefähr {runtime} Minuten rechnen bevor du eine Toilettenpause einlegen kannst.
+de-de,moviemaster.movie.top,Dies sind die bekanntesten Filme die gerade abgespielt werden; {toplist}
+de-de,moviemaster.movie.top,Dies sind die beliebtesten Filme die gerade abgespielt werden; {toplist}
+de-de,moviemaster.movie.top,{toplist} sind derzeit die ( beliebtesten ) Filme die gerade abgespielt werden.
+de-de,moviemaster.movie.year,der flick {movie} wurde am {year} veröffentlicht
+de-de,moviemaster.movie.year,der film {movie} wurde am {year} veröffentlicht
+de-de,moviemaster.movie.year,der movie {movie} wurde am {year} veröffentlicht
+de-de,moviemaster.no.api,Du musst deine T M D B A P I-Kode unter home Punkt mycroft punkt A I eingeben um die Movie Master-Fähigkeit zu verwenden
+de-de,moviemaster.no.info,Es tut mir leid. Ich kann keine Informationen zum movie {movie} finden.
+de-de,moviemaster.no.info,Es tut mir leid. Ich kann keine Informationen zum film {movie} finden.
+de-de,moviemaster.no.info.general,Es tut mir leid ich kann die gesuchte Liste derzeit nicht finden. Bitte frage mich später noch einmal.
+de-de,moviemaster.no.valid.api,Der von dir eingegebene A P I-Schlüssel ist ungültig. In der Read Me-Datei findest du Anweisungen zum Beziehen eines Schlüssels.
+de-de,mycroft-node-red.bad_key,Ein Fehler ist beim verbindungsaufbau aufgetreten. Grund: Falscher Schlüssel
+de-de,mycroft-node-red.change_key,Der Zugangsschlüssel ist geändert worden bitte die flows neu laden
+de-de,mycroft-node-red.converse_disable,node red ist wieder ein Hintergrundprozess
+de-de,mycroft-node-red.converse_enable,node red ist jetzt ein priorisierter skill
+de-de,mycroft-node-red.converse_enable,node red wird jetzt vor mycroft gestartet
+de-de,mycroft-node-red.converse_off,node red ist schon ein Hintergrundprozess
+de-de,mycroft-node-red.converse_off,node red is kein priorisierter Prozess
+de-de,mycroft-node-red.converse_on,node red ist schon priorisiert
+de-de,mycroft-node-red.converse_on,node red ist kein Hintergrundprozess
+de-de,mycroft-node-red.intro,Danke für die installation lese dir bitte die Github Seite durch für weitere Instruktionen
+de-de,mycroft-node-red.please_reboot,Bitte starte mich neu
+de-de,mycroft-node-red.please_reboot,Ich brauch einen reboot
+de-de,mycroft-node-red.why,Die Verbindung zu Node Red wird unterbrochen und HiveMind neu geladen
+de-de,mycroft-node-red.why,Erhöht deine Sicherheit
+de-de,mycroft-node-red.why,Änderungen werden nur durch neustart aktiv
+de-de,mycroft-timer.ask.cancel.running,Möchtest du den aktiven Timer abbrechen?
+de-de,mycroft-timer.ask.cancel.running,Möchten Sie den laufenden Timer stoppen?
+de-de,mycroft-timer.ask.cancel.running.plural,Möchtest du die aktiven Timer abbrechen?
+de-de,mycroft-timer.ask.cancel.running.plural,Möchtest du die laufenden Timer stoppen?
+de-de,mycroft-timer.ask.how.long,Wie lange soll der Timer sein ?
+de-de,mycroft-timer.ask.which.timer,es laufen aktuell {{count}} timer. Nach welchem fragst du?
+de-de,mycroft-timer.ask.which.timer.cancel,es laufen {{count}} timer. welchen würdest du gerne absagen?
+de-de,mycroft-timer.cancel.all,Abgebrochen.
+de-de,mycroft-timer.cancelled.single.timer,ich stoppe den {{name}} timer für {{duration}}
+de-de,mycroft-timer.cancelled.single.timer,der timer {{name}} wird für {{duration}} gestoppt
+de-de,mycroft-timer.no.active.timer,Es gibt keine laufenden Timer
+de-de,mycroft-timer.no.active.timer,Kein Timer wurde eingestellt
+de-de,mycroft-timer.started.timer,Timer für {{duration}} gestartet
+de-de,mycroft-timer.time.remaining,der {{name}} timer hat {{remaining}} verbleibend
+de-de,national-parks-skill.Ask.Quiz.Question,In welchem Bundesland befindet sich {{park}}?
+de-de,national-parks-skill.Ask.Quiz.Question,Wenn ich in {{park}} wäre in welchem Bundesland wäre ich dann?
+de-de,national-parks-skill.Error.calling.server,Beim Kontaktieren des Nationalpark-Dienstes ist ein Fehler aufgetreten bitte überprüfe ob dein a.p.i Schlüssel auf home dot mycroft dot ai korrekt ist
+de-de,national-parks-skill.No.Parks.Found,Ich konnte keine Parks mit dem Namen {{park}} finden
+de-de,national-parks-skill.No.Parks.Found.State,Ich konnte keine Parks in {{location}} finden
+de-de,national-parks-skill.Park.List,hier sind die Nationalparks in {{location}} {{parks}}
+de-de,national-parks-skill.Park.List,Nationalparks in {{location}} enthalten {{parks}}
+de-de,national-parks-skill.Park.Location,{{park}} befindet sich in {{location}}
+de-de,national-parks-skill.Quiz.Question.Correct,Das ist korrekt.
+de-de,national-parks-skill.Quiz.Question.Correct,Du kennst deine Nationalparks.
+de-de,national-parks-skill.Quiz.Question.Correct,Du hast es.
+de-de,national-parks-skill.Quiz.Question.None,Ich kann die zuletzt gestellte Frage nicht finden
+de-de,national-parks-skill.Quiz.Question.Wrong,Nein {{park}} befindet sich in {{location}}
+de-de,national-parks-skill.Quiz.Question.Wrong,Das ist nicht richtig {{park}} befindet sich in {{location}}
+de-de,pairing.connection.error,Verbindung zu mycroft punkt a.i fehlgeschlagen Pairing-Code konnte nicht abgerufen werden. Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.
+de-de,pairing.pairing.code,Ich bin mit dem Internet verbunden und muss aktiviert sein. Registrieren Sie mich auf home punkt mycroft punkt A.I with the code. {{code}}
+de-de,pairing.pairing.intro,Ich bin mit dem Internet verbunden und muss aktiviert werden. Öffnen Sie Ihren Browser und besuchen Sie Home Punkt Mycroft punkt A I um dieses Gerät zu registrieren.
+de-de,pairing.pairing.not.paired,Ihr Gerät ist derzeit nicht registriert
+de-de,pairing.pairing.not.paired,Ihr Gerät ist derzeit nicht gepaart
+de-de,pairing.pairing.paired,Jetzt bin ich bereit für den Einsatz. versuche mich dinge zu fragen wie "hey mycroft wie ist das Wetter" "hey mycroft erzähl mir von abraham lincoln" or "hey mycroft Spiele die Nachrichten". Wenn ich aufhören soll zu renden sage mir das oder drücke den Knopf.
+de-de,pairing.unexpected.error.restarting,Ich entschuldige mich etwas Unerwartetes ist passiert. Ich muss den Pairing-Prozess neu starten.
+de-de,parrot.did.hear,ja.
+de-de,parrot.did.not.hear,Nein ich glaube nicht dass ich dich gehört habe
+de-de,parrot.did.not.hear,Nein ich habe dich nicht gehört.
+de-de,parrot.nothing,nichts
+de-de,parrot.please.repeat,Kannst du das wiederholen?
+de-de,parrot.please.repeat,Was hast du gesagt?
+de-de,parrot.repeat.stt,Du hast einfach nur gesagt {{stt}}.
+de-de,parrot.repeat.stt,Du sagtest {{stt}}.
+de-de,parrot.repeat.stt.old,Das letzte was du gesagt hast war {{stt}}.
+de-de,parrot.repeat.stt.old,Vor einer Weile hast du gesagt: {{stt}}.
+de-de,parrot.repeat.tts,ich sagte nur {tts}
+de-de,parrot.repeat.tts,ich sagte {tts}
+de-de,personal.what.am.i,Ich bin eine Open-Source künstliche Intelligenz.
+de-de,personal.what.am.i,Ich bin ein intelligente Maschine zur Kommunikation.
+de-de,personal.what.am.i,Ich bin dein persönlicher Assistent und immer für dich da.
+de-de,personal.when.was.i.born,ich wurde 2015 geboren.
+de-de,personal.when.was.i.born,2015 wurde ich geboren.
+de-de,personal.when.was.i.born,mich gibt es seit 2015.
+de-de,personal.where.was.i.born,im Lawrence Center für Entrepreneurship.
+de-de,personal.where.was.i.born,Ich wurde in Lawrence in Kansas geboren.
+de-de,personal.who.am.i,Mein Name ist {{name}} und ich bin ein intelligenter persönlicher Assistent
+de-de,personal.who.am.i,ich bin {{name}} eine Open-source Intelligenz.
+de-de,personal.who.made.me,Die wunderbare Mycroft KI Gemeinde und ihr Team.
+de-de,personal.who.made.me,Jeder aus der Mycroft KI Gemeinde und ihr Team.
+de-de,picroft-google-aiy-voicekit-skill.error.initialize,Ich habe Probleme mit dem Initialisieren des Google AIY Stimmenkit Skill. Der Skill wird nicht geladen.
+de-de,plasma-activities-skill.activities.create,Deine Aktivität {{ ActivityName }} wurde erstellt
+de-de,plasma-activities-skill.activities.remove,Aktivität wurde entfernt
+de-de,plasma-activities-skill.activities.show,Aktivitäten anzeigen
+de-de,plasma-activities-skill.activities.stop,{{ StopActivityName }}-Aktivität wurde gestoppt
+de-de,plasma-activities-skill.activities.switch,Wechsle zur Aktivität {{ SwitchActivityName }}
+de-de,pokemon-skill.ability.effect.entry,{ability}: {info}
+de-de,pokemon-skill.ability.flavor.text,{ability}: {info}
+de-de,pokemon-skill.ability.generation.introduced,{ability} wurde in der Generation {generation} hinzugefügt
+de-de,pokemon-skill.ability.not.in.version,{version} hat keine {ability}
+de-de,pokemon-skill.and,und
+de-de,pokemon-skill.base.stat.is,der Basis {stat}wert von {pokemon} ist {value}
+de-de,pokemon-skill.cannot.answer.about.ability,Das weiß ich leider nicht über diese Fähigkeit
+de-de,pokemon-skill.cannot.answer.about.pokemon,Das weiß ich leider nicht über dieses Pokemon
+de-de,pokemon-skill.connection.error,Keine Internetverbindung
+de-de,pokemon-skill.connection.error,Es ist ein Verbindungsfehler aufgetreten
+de-de,pokemon-skill.debug.speech,Debuggen! Erreicht!
+de-de,pokemon-skill.evolve.details.at.level,auf Level {level}
+de-de,pokemon-skill.evolve.details.holding.item,während es {item} hält
+de-de,pokemon-skill.evolve.details.if.gender.female,wenn weiblich
+de-de,pokemon-skill.evolve.details.if.gender.female,wenn weiblich ist
+de-de,pokemon-skill.evolve.details.if.gender.female,wenn es weiblich
+de-de,pokemon-skill.evolve.details.if.gender.female,wenn es weiblich ist
+de-de,pokemon-skill.evolve.details.if.gender.male,wenn männlich
+de-de,pokemon-skill.evolve.details.if.gender.male,wenn männlich ist
+de-de,pokemon-skill.evolve.details.if.gender.male,wenn es männlich
+de-de,pokemon-skill.evolve.details.if.gender.male,wenn es männlich ist
+de-de,pokemon-skill.evolve.details.knowing.move,wenn es {move} kennt
+de-de,pokemon-skill.evolve.details.knowing.move.type,wenn ein Zug vom Typ {type} bekannt ist
+de-de,pokemon-skill.evolve.details.location,in {location}
+de-de,pokemon-skill.evolve.details.stats.attack.equals.defense,Wenn der Angriffsstatus dem Verteidigungsstatus entspricht
+de-de,pokemon-skill.evolve.details.stats.attack.greater.than.defense,wenn der Angriffswert höher als der Verteidigungswert ist
+de-de,pokemon-skill.evolve.details.stats.attack.less.than.defense,wenn der Angriffswert geringer ist als der Verteidigungswert
+de-de,pokemon-skill.evolve.details.time.of.day,bei {time}
+de-de,pokemon-skill.evolve.details.trade.species,für {species}
+de-de,pokemon-skill.evolve.details.trigger,bei {name}
+de-de,pokemon-skill.evolve.details.turn.upside.down,mit dem System auf den Kopf gestellt
+de-de,pokemon-skill.evolve.details.with.affection,mit einem Zuneigungwert von {affection}
+de-de,pokemon-skill.evolve.details.with.beauty,mit einem Schönheitswert {beauty}
+de-de,pokemon-skill.evolve.details.with.happiness,mit einem Freundschaftswert von {happiness}
+de-de,pokemon-skill.evolve.details.with.pokemon.party,mit {pokemon} im Team
+de-de,pokemon-skill.evolve.details.with.pokemon.party.type,mit einem {type} Pokemon im Team
+de-de,pokemon-skill.evolve.details.with.rain,während es regnet
+de-de,pokemon-skill.foot,Fuß
+de-de,pokemon-skill.inches,Zoll
+de-de,pokemon-skill.kilograms,Kilogramm
+de-de,pokemon-skill.meters,Meter
+de-de,pokemon-skill.no.type.specified,du musst einen Typ angeben
+de-de,pokemon-skill.no.type.specified,Welcher Typ?
+de-de,pokemon-skill.or,oder
+de-de,pokemon-skill.pokemon.abilities.hidden,{pokemon} hat versteckte Fähigkeit {hidden_abilities}
+de-de,pokemon-skill.pokemon.abilities.hidden.non-hidden,{pokemon} hat die Fähigkeit {abilities}. und versteckte Fähigkeit {hidden_abilities}
+de-de,pokemon-skill.pokemon.abilities.non-hidden,{pokemon} hat die Fähigkeit {abilities}
+de-de,pokemon-skill.pokemon.abilities.none,{pokemon} hat keine Fähigkeiten
+de-de,pokemon-skill.pokemon.capture.rate,{pokemon}s Fangrate beträgt {rate}
+de-de,pokemon-skill.pokemon.color.is,{pokemon} ist {color}
+de-de,pokemon-skill.pokemon.does.not.evolve,{pokemon} entwickelt sich nicht weiter
+de-de,pokemon-skill.pokemon.egg.groups.are,Die Eigruppe von {pokemon} ist {groups}
+de-de,pokemon-skill.pokemon.evolves.from,{pokemon} entwickelt sich aus {from} {how}
+de-de,pokemon-skill.pokemon.evolves.into,{pokemon} entwickelt sich zu {evolve}
+de-de,pokemon-skill.pokemon.final.evolution,Die letzte Entwicklung von {pokemon} ist {final}
+de-de,pokemon-skill.pokemon.first.evolution.is,Die erste Entwicklung von {pokemon} ist {first}
+de-de,pokemon-skill.pokemon.has.no.evolutions,{pokemon} hat keine Entwicklungen
+de-de,pokemon-skill.pokemon.has.no.forms,{pokemon} entspricht keiner Form
+de-de,pokemon-skill.pokemon.has.no.previous.evolution,{pokemon} hat keine vorherige Entwicklung
+de-de,pokemon-skill.pokemon.height,{pokemon} ist {height}
+de-de,pokemon-skill.pokemon.id.is,Die I D von {pokemon} ist {id}
+de-de,pokemon-skill.pokemon.id.is,{pokemon} ist nummer {id}
+de-de,pokemon-skill.pokemon.is.in.final.evolution,{pokemon} befindet sich in seiner letzten Entwicklung
+de-de,pokemon-skill.pokemon.is.in.final.evolution,{pokemon} kann sich nicht weiterentwickeln
+de-de,pokemon-skill.pokemon.is.in.first.evolution,{pokemon} befindet sich in seiner ersten Entwicklung
+de-de,pokemon-skill.pokemon.is.in.first.evolution,{pokemon} befindet sich in seiner einfachsten Entwicklung
+de-de,pokemon-skill.pokemon.is.in.form,{pokemon} ist in {form}
+de-de,pokemon-skill.pokemon.lives.in,{pokemon} lebt im {habitat}
+de-de,pokemon-skill.pokemon.lives.in,{pokemon} leben im {habitat}
+de-de,pokemon-skill.pokemon.lives.in,Das Zuhause von {pokemon} ist der {habitat}
+de-de,pokemon-skill.pokemon.shape.is,Die Form von {pokemon} ist {shape}
+de-de,pokemon-skill.pokemon.type.one,Der Typ von {pokemon} ist {type1}
+de-de,pokemon-skill.pokemon.type.two,Die Typen von {pokemon} sind {type1} und {type2}
+de-de,pokemon-skill.pokemon.version.introduced,{pokemon} wurde in {versions} in generation {generation} eingeführt
+de-de,pokemon-skill.pokemon.weighs,{pokemon} wiegt {weight}
+de-de,pokemon-skill.pounds,Pfund
+de-de,pokemon-skill.type.is.half,{type} ist nicht sehr effektiv gegen {pokemon}
+de-de,pokemon-skill.type.is.none,{type} hat keine Wirkung auf {pokemon}
+de-de,pokemon-skill.type.is.normal,{type} fügt {pokemon} normalen Schaden zu
+de-de,pokemon-skill.type.is.super,{type} ist sehr effektiv gegen {pokemon}
+de-de,pokemon-skill.unable.to.find.pokemon,Ich konnte kein Pokemon für diesen Satz finden
+de-de,pokemon-skill.unable.to.find.pokemon,Ich konnte das Pokémon nicht finden
+de-de,pokemon-skill.unable.to.find.pokemon,Dieses Pokemon konnte nicht gefunden werden
+de-de,query.noAnswer,Entschuldigung ich weiß die Antwort darauf nicht
+de-de,query.noAnswer,Ich habe die Antwort darauf nicht
+de-de,query.noAnswer,Ich weiß nicht
+de-de,query.noAnswer,Keine Ahnung
+de-de,remember-skill.delete,Soll ich die Phrase {{PHRASE}} löschen?
+de-de,remember-skill.deleteall,Soll ich alles vergessen was ich mir für dich gemerkt habe?
+de-de,remember-skill.forgotten,Es ist vergessen.
+de-de,remember-skill.gotphrase,Ich werde mir "{{REMEMBER}}" für dich merken.
+de-de,remember-skill.holdon,Ich werde an dieser Phrase festhalten.
+de-de,remember-skill.iremembered,Ich erinnere mich an: {{REMEMBER}}.
+de-de,remember-skill.short,Ich kann mir nur Sätze oder Wörter merken die länger als 4 Zeichen sind. Bitte formuliere das um.
+de-de,remember-skill.sorry,Entschuldige bitte ich kann mich an keine Phrase erinnern!
+de-de,remember-skill.sorryforget,Entschuldige bitte es gab einen Fehler ich konnte nichts vergessen!
+de-de,remember-skill.sorrynophrase,Entschuldige bitte ich konnte keine Phrase finden die zu deiner Anfrage passt.
+de-de,singing.singing,Ich würde mich freuen für dich zu singen.
+de-de,singing.singing,Ich bin ein bisschen nervös wegen meine Stimme aber hier zählt das nicht.
+de-de,singing.singing.stop,Danke fürs zuhören
+de-de,singing.singing.stop,Ich hoffe dir hat meine Stimme gefallen
+de-de,singing.singing.stop,nun versuche dich
+de-de,sip.neon.call_ended,Anruf beendet {{reason}}
+de-de,sip.neon.call_finished,Anruf beendet
+de-de,sip.neon.call_finished,Anruf abgeschlossen
+de-de,sip.neon.call_rejected,Abgelehnter Anruf
+de-de,sip.neon.call_rejected,Anruf abgelehnt
+de-de,sip.neon.calling,Aufruf von {{contact}}
+de-de,sip.neon.calling,Anruf bei {{contact}}
+de-de,sip.neon.calling,Telefoniere mit {{contact}}
+de-de,sip.neon.contact_added,Neuer Kontakt {{contact}} hinzugefügt
+de-de,sip.neon.contact_deleted,Kontakt {{contact}} gelöscht
+de-de,sip.neon.contact_updated,Kontakt {{contact}} aktualisiert
+de-de,sip.neon.converse_disable,{skill_name} wurde auf Fallback-Skill zurückgesetzt
+de-de,sip.neon.converse_enable,Sie haben {skill_name} zu einer vorrangigen Fähigkeit gemacht
+de-de,sip.neon.converse_enable,{skill_name} wird jetzt zuerst ausgelöst
+de-de,sip.neon.converse_off,node red ist bereits eine Fallback-Fähigkeit
+de-de,sip.neon.converse_off,node red ist keine vorrangige Fähigkeit
+de-de,sip.neon.converse_on,{skill_name} ist bereits eine vorrangige Fähigkeit
+de-de,sip.neon.converse_on,{skill_name} ist keine Fallback-Fähigkeit
+de-de,sip.neon.credentials_missing,Anmeldeinformationen sind nicht festgelegt
+de-de,sip.neon.delete_confirm,Möchtst du {{contact}} wirklich löschen?
+de-de,sip.neon.incoming_call,{{contact}} ruft an
+de-de,sip.neon.incoming_call,Eingehender Anruf von {{contact}}
+de-de,sip.neon.incoming_call_unk,Ich kenne den Anrufer nicht
+de-de,sip.neon.incoming_call_unk,Der Anrufer ist nicht in meinen Kontakten
+de-de,sip.neon.incoming_call_unk,Der Anrufer ist unbekannt
+de-de,sip.neon.intro,Vielen Dank dass du die Fähigkeit {Skill_name} installiert hast
+de-de,sip.neon.no_such_contact,Ich habe keinen Kontakt mit dem Namen {{contact}}
+de-de,sip.neon.no_such_contact,Ich kenne kein {{contact}}
+de-de,sip.neon.no_such_contact,Ich kenne niemanden mit Namen {{contact}}
+de-de,sip.neon.no_such_contact,Ich kenne niemanden mit dem Namen {{contact}}
+de-de,sip.neon.sip_login,Versuche mich unter {{gateway}} beim SIP-Server anzumelden
+de-de,sip.neon.sip_login_fail,SIP-Anmeldung fehlgeschlagen. Überprüfen Sie Ihre Anmeldeinformationen
+de-de,sip.neon.sip_login_success,Ich bin mit einem SIP-Server verbunden
+de-de,sip.neon.sip_login_success,Wenn die Verbindung erfolgreich ist können Sie jetzt VoIP-Anrufe empfangen und tätigen
+de-de,sip.neon.sip_restart,SIP-Dienst neu starten
+de-de,sip.neon.sip_running,Der SIP-Dienst wird bereits ausgeführt
+de-de,sip.neon.update_confirm,Bist du sicher dass du die Adresse von {{contact}} ersetzen möchtest?
+de-de,sip.neon.want_restart,Soll ich den SIP-Dienst neu starten?
+de-de,sip.neon.want_restart,Möchtest du den SIP-Dienst neu starten?
+de-de,speedtest-skill.error,Es ist ein Fehler aufgetreten ich konnte keinen Geschwindigkeitstest durchführen ... entschuldigung.
+de-de,speedtest-skill.result,Deine Downloadgeschwindigkeit beträgt {{DOWN}} Megabit pro Sekunde und deine Uploadgeschwindigkeit beträgt {{UP}} Megabit pro Sekunde.
+de-de,speedtest-skill.running,Ich starte jetzt den Geschwindigkeitstest und melde mich in Kürze mit den Ergebnissen.
+de-de,spotify-skill.And,und
+de-de,spotify-skill.AvailableDevices,Ich sehe die Spot-ify-Geräte mit dem Namen: {{devices}}
+de-de,spotify-skill.AvailableDevices,Ich habe die Spot-ify-Geräte wie: {{devices}} gefunden
+de-de,spotify-skill.ListeningToAlbumBy,du hörst {{album}} von {{artist}}.
+de-de,spotify-skill.ListeningToAlbumBy,es Läuft gerade {{album}} von {{artist}}.
+de-de,spotify-skill.ListeningToArtist,du hörst {{artist}}
+de-de,spotify-skill.ListeningToArtist,du hörst jetzt {{artist}}
+de-de,spotify-skill.ListeningToGenre,Okay lasst uns {{genre}} hören. Starte mit {{track}} von {{artist}}
+de-de,spotify-skill.ListeningToGenre,Lass uns {{genre}} hören. Starte mit {{track}} von {{artist}}
+de-de,spotify-skill.ListeningToGenre,Lass uns {{genre}} musik hören. das ist jetzt {{track}} von {{artist}}
+de-de,spotify-skill.ListeningToGenre,Spiele {{genre}} musiK. Starte mit {{track}} von {{artist}}
+de-de,spotify-skill.ListeningToPlaylist,Spiele die Playliste {{playlist}}
+de-de,spotify-skill.ListeningToPlaylist,Spiele Jetzt die Wiedergabeliste {{playlist}}
+de-de,spotify-skill.ListeningToPlaylist,Okay lass uns deine Playliste {{playlist}} hören
+de-de,spotify-skill.ListeningToPlaylist,Ich habs. Als nächstes spiele ich deine Playliste {{playlist}}
+de-de,spotify-skill.ListeningToSongBy,Spiele das Lied {{tracks}} von {{artist}}.
+de-de,spotify-skill.ListeningToSongBy,Spiele jetzt das Lied {{tracks}} von {{artist}}.
+de-de,spotify-skill.NoArtistResults,Hmm ich kann diesen Künstler nicht finden.
+de-de,spotify-skill.NoArtistResults,Entschuldigung ich kann diesen Künstler nicht finden.
+de-de,spotify-skill.NoArtistResults,Ich kann diesen Künstler nicht finden.
+de-de,spotify-skill.NoArtistResults,Ich habe für diesen Künstler keine Ergebnisse bekommen.
+de-de,spotify-skill.NoArtistResults,Entschuldigung ich habe für diesen Künstler keine Ergebnisse erhalten.
+de-de,spotify-skill.NoArtistResults,Oh oh ich habe den gesuchten Künstler nicht gefunden.
+de-de,spotify-skill.NoDefaultDeviceAvailable,Ich konnte kein Standard-Spot-ify-Gerät finden. Stelle bitte sicher dass Spot-ify ausgeführt wird oder dass das Skill für die Verwendung der Standardbibliotheken konfiguriert wurde
+de-de,spotify-skill.NoDefaultDeviceAvailable,Es ist kein Standard-Spot-ify-Gerät verfügbar. Stelle bitte sicher dass Spot-ify ausgeführt wird oder dass das Skill für die Verwendung der Standardbibliotheken konfiguriert wurde
+de-de,spotify-skill.NoDevicesAvailable,Ich konnte keine Spot-ify-Geräte finden. Dieses Skill benötigt ein Spot-ify Premium-Konto um ordnungsgemäß zu funktionieren
+de-de,spotify-skill.NoDevicesAvailable,Es sind keine Spot-ify-Geräte verfügbar. Stellen Sie sicher dass Sie ein Spot-ify Premium-Konto haben.
+de-de,spotify-skill.NoResults,Hmm ich kann das nicht finden.
+de-de,spotify-skill.NoResults,Entschuldigung ich kann das nicht finden.
+de-de,spotify-skill.NoResults,Ich kann das nicht finden.
+de-de,spotify-skill.NoResults,Ich habe dafür keine Ergebnisse bekommen.
+de-de,spotify-skill.NoResults,Entschuldigung ich habe keine Ergebnisse dafür bekommen.
+de-de,spotify-skill.NoResults,Oh oh ich habe nicht gefunden wonach du gesucht hast.
+de-de,spotify-skill.NotAuthorized,Ich bin nicht mit einem Spot-ify-Konto verbunden gehe zu home punkt mycroft punkt ai um den Skill zu autorisieren.
+de-de,spotify-skill.NotAuthorized,Dieses Gerät ist nicht mit einem Spot-ify-Konto verknüpft gehe zu home punkt mycroft punkt ai um mich zu autorisieren.
+de-de,spotify-skill.NotAuthorized,Bitte autorisiere das Spot-ify-Skill auf Home-Punkt mycroft punkt ai um auf dein Konto zuzugreifen
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( composition ) ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( composition ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( track ) ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( track ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( piece ) ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( piece ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( song ) ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( song ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my composition ) ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my composition ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my track ) ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my track ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my piece ) ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my piece ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my song ) ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( my song ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the composition ) ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the composition ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the track ) ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the track ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the piece ) ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the piece ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the song ) ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.playlist_regex,^ ( play ) ( ?! ( the song ) ) ( .*playlist ) ( ?P<playlist>[\w\s]+? ) $
+de-de,spotify-skill.something_regex,^play a ? track ( by ( [\w\s]+? ) ) ?$
+de-de,spotify-skill.something_regex,^play a ? music ( by ( [\w\s]+? ) ) ?$
+de-de,spotify-skill.something_regex,^play a ? something ( by ( [\w\s]+? ) ) ?$
+de-de,spotify-skill.something_regex,^play some ? track ( by ( [\w\s]+? ) ) ?$
+de-de,spotify-skill.something_regex,^play some ? music ( by ( [\w\s]+? ) ) ?$
+de-de,spotify-skill.something_regex,^play some ? something ( by ( [\w\s]+? ) ) ?$
+de-de,support-helper.neon.ask.description,Bitte beschreibe mir kurz das Problem das du hast.
+de-de,support-helper.neon.ask.description,Wie ist die kurze Beschreibung des Problems?
+de-de,support-helper.neon.cancelled,In Ordung
+de-de,support-helper.neon.cancelled,alles klar
+de-de,support-helper.neon.complete,Ich habe eine E-Mail mit Debugging-Informationen und Anweisungen zur Kontaktaufnahme mit dem Support an dein registriertes Konto gesendet.
+de-de,support-helper.neon.confirm.support,Möchtest du ein Problembehandlungspaket erstellen? Dadurch werden Protokolle auf den Termbin punkt com-Dienst hochgeladen und per E-Mail einen Link mit weiteren Informationen an dich gesendet.
+de-de,support-helper.neon.one.moment,Einen Moment.
+de-de,support-helper.neon.one.moment,bitte kurz warten
+de-de,support-helper.neon.support,support
+de-de,support-helper.neon.support.title,Mycroft Problembehandlungsassistent
+de-de,support.ask.description,Bitte beschreibe mir kurz das Problem das du hast.
+de-de,support.ask.description,Wie ist die kurze Beschreibung des Problems?
+de-de,support.cancelled,In Ordung
+de-de,support.cancelled,alles klar
+de-de,support.complete,Ich habe eine E-Mail mit Debugging-Informationen und Anweisungen zur Kontaktaufnahme mit dem Support an dein registriertes Konto gesendet.
+de-de,support.confirm.support,Möchtest du ein Problembehandlungspaket erstellen? Dadurch werden Protokolle auf den Termbin punkt com-Dienst hochgeladen und per E-Mail einen Link mit weiteren Informationen an dich gesendet.
+de-de,support.one.moment,Einen Moment.
+de-de,support.one.moment,bitte kurz warten
+de-de,support.support,support
+de-de,support.support.title,Mycroft Problembehandlungsassistent
+de-de,theia-ide-skill.downloading,Lade ein vorkompiliertes Paket für die {platform} Plattform herunter. Dies kann abhängig von der Geschwindigkeit der Internetverbindung eine Weile dauern.
+de-de,theia-ide-skill.ide_already_running,Theia IDE läuft bereits. Zum Zugriff den Webbrowser öffnen und {url} aufrufen.
+de-de,theia-ide-skill.ide_is_not_running,Theia IDE läuft nicht.
+de-de,theia-ide-skill.ide_restarted,Theia IDE startet. Zum Zugriff den Webbrowser öffnen und {url} aufrufen.
+de-de,theia-ide-skill.ide_started,Theia IDE ist bereit. Zum Zugriff den Webbrowser öffnen und {url} aufrufen.
+de-de,theia-ide-skill.ide_stopped,Theia IDE ist gestoppt.
+de-de,theia-ide-skill.install_start,Installiere Theia IDE.
+de-de,theia-ide-skill.installed_BAD,Theia IDE wurde nicht installiert. Während der Installation traten Fehler auf.
+de-de,theia-ide-skill.installed_OK,Theia IDE fertig installiert.
+de-de,theia-ide-skill.platform_not_supported,Diese Plattform ist nicht unterstützt.
+de-de,version-checker.platform.build,Meine Plattform version ist {{build}}.
+de-de,version-checker.platform.build.none,Ich laufe auf einem Gerät das keine offizielle Versions-Nummer hat.
+de-de,version-checker.version,Ich binn bei Mycroft-Core-Version {{version}}.
+de-de,voip.call_ended,Anruf beendet {{reason}}
+de-de,voip.call_finished,Anruf beendet
+de-de,voip.call_finished,Anruf abgeschlossen
+de-de,voip.call_rejected,Abgelehnter Anruf
+de-de,voip.call_rejected,Anruf abgelehnt
+de-de,voip.calling,Aufruf von {{contact}}
+de-de,voip.calling,Anruf bei {{contact}}
+de-de,voip.calling,Telefoniere mit {{contact}}
+de-de,voip.contact_added,Neuer Kontakt {{contact}} hinzugefügt
+de-de,voip.contact_deleted,Kontakt {{contact}} gelöscht
+de-de,voip.contact_updated,Kontakt {{contact}} aktualisiert
+de-de,voip.converse_disable,{skill_name} wurde auf Fallback-Skill zurückgesetzt
+de-de,voip.converse_enable,Sie haben {skill_name} zu einer vorrangigen Fähigkeit gemacht
+de-de,voip.converse_enable,{skill_name} wird jetzt zuerst ausgelöst
+de-de,voip.converse_off,node red ist bereits eine Fallback-Fähigkeit
+de-de,voip.converse_off,node red ist keine vorrangige Fähigkeit
+de-de,voip.converse_on,{skill_name} ist bereits eine vorrangige Fähigkeit
+de-de,voip.converse_on,{skill_name} ist keine Fallback-Fähigkeit
+de-de,voip.credentials_missing,Anmeldeinformationen sind nicht festgelegt
+de-de,voip.delete_confirm,Möchtst du {{contact}} wirklich löschen?
+de-de,voip.incoming_call,{{contact}} ruft an
+de-de,voip.incoming_call,Eingehender Anruf von {{contact}}
+de-de,voip.incoming_call_unk,Ich kenne den Anrufer nicht
+de-de,voip.incoming_call_unk,Der Anrufer ist nicht in meinen Kontakten
+de-de,voip.incoming_call_unk,Der Anrufer ist unbekannt
+de-de,voip.intro,Vielen Dank dass du die Fähigkeit {Skill_name} installiert hast
+de-de,voip.no_such_contact,Ich habe keinen Kontakt mit dem Namen {{contact}}
+de-de,voip.no_such_contact,Ich kenne kein {{contact}}
+de-de,voip.no_such_contact,Ich kenne niemanden mit Namen {{contact}}
+de-de,voip.no_such_contact,Ich kenne niemanden mit dem Namen {{contact}}
+de-de,voip.sip_login,Versuche mich unter {{gateway}} beim SIP-Server anzumelden
+de-de,voip.sip_login_fail,SIP-Anmeldung fehlgeschlagen. Überprüfen Sie Ihre Anmeldeinformationen
+de-de,voip.sip_login_success,Ich bin mit einem SIP-Server verbunden
+de-de,voip.sip_login_success,Wenn die Verbindung erfolgreich ist können Sie jetzt VoIP-Anrufe empfangen und tätigen
+de-de,voip.sip_restart,SIP-Dienst neu starten
+de-de,voip.sip_running,Der SIP-Dienst wird bereits ausgeführt
+de-de,voip.update_confirm,Bist du sicher dass du die Adresse von {{contact}} ersetzen möchtest?
+de-de,voip.want_restart,Soll ich den SIP-Dienst neu starten?
+de-de,voip.want_restart,Möchtest du den SIP-Dienst neu starten?
+de-de,volume.already.max.volume,Die Lautstärke ist auf maximum
+de-de,volume.already.max.volume,volle Lautstärke erreicht
+de-de,volume.already.max.volume,maximale Lautstärke erreicht
+de-de,volume.decrease.volume,Lautstärke reduziert auf {{volume}}
+de-de,volume.decrease.volume,Lautstärke auf {{volume}} eingestellt
+de-de,volume.decrease.volume,Lautstärke ist jetzt auf {{volume}} eingestellt
+de-de,volume.increase.volume,Lautstärke ist nun bei {{volume}}
+de-de,volume.increase.volume,Lautstärke erhöht auf {{volume}}
+de-de,volume.mute.volume,Audio wurde gedämpft
+de-de,volume.mute.volume,Sound wurde gedämpft
+de-de,volume.neon.already.max.volume,Die Lautstärke ist auf maximum
+de-de,volume.neon.already.max.volume,volle Lautstärke erreicht
+de-de,volume.neon.already.max.volume,maximale Lautstärke erreicht
+de-de,volume.neon.decrease.volume,Lautstärke reduziert auf {{volume}}
+de-de,volume.neon.decrease.volume,Lautstärke auf {{volume}} eingestellt
+de-de,volume.neon.decrease.volume,Lautstärke ist jetzt auf {{volume}} eingestellt
+de-de,volume.neon.increase.volume,Lautstärke ist nun bei {{volume}}
+de-de,volume.neon.increase.volume,Lautstärke erhöht auf {{volume}}
+de-de,volume.neon.mute.volume,Audio wurde gedämpft
+de-de,volume.neon.mute.volume,Sound wurde gedämpft
+de-de,volume.neon.reset.volume,Lautstärke zurückgesetzt {{volume}}
+de-de,volume.neon.reset.volume,Audio wieder aktiviert {{volume}}
+de-de,volume.neon.set.volume,Lautstärke bei {{volume}}
+de-de,volume.neon.set.volume,Lautstärke aktualiesiert auf {{volume}}
+de-de,volume.neon.set.volume,lautstärke geändert auf {{volume}}
+de-de,volume.neon.volume.is,Die Lautstärke ist bei {{volume}}
+de-de,volume.neon.volume.is,Die Lautstärke wurde auf {{volume}} eingestellt
+de-de,volume.reset.volume,Lautstärke zurückgesetzt {{volume}}
+de-de,volume.reset.volume,Audio wieder aktiviert {{volume}}
+de-de,volume.set.volume,Lautstärke bei {{volume}}
+de-de,volume.set.volume,Lautstärke aktualiesiert auf {{volume}}
+de-de,volume.set.volume,lautstärke geändert auf {{volume}}
+de-de,volume.volume.is,Die Lautstärke ist bei {{volume}}
+de-de,volume.volume.is,Die Lautstärke wurde auf {{volume}} eingestellt
+de-de,weather.E,osten
+de-de,weather.N,norden
+de-de,weather.NE,nord osten
+de-de,weather.NW,nordwest
+de-de,weather.S,Süden
+de-de,weather.SE,Südosten
+de-de,weather.SW,Südwest
+de-de,weather.W,West
+de-de,weather.current.local.weather,Es ist Aktuell {{condition}} und {{temp}} grad {{scale}}. Heute werden maximal {{temp_max}} und minimal {{temp_min}} grad erwartet.
+de-de,weather.current.local.weather,Es ist Aktuell {{condition}} und {{temp}} grad. die Tempertur heute wird zwischen {{temp_max}} und {{temp_min}} erwartet.
+de-de,weather.current.local.weather,gerade ist {{condition}} und {{temp}} grad es soll heute maximal {{temp_max}} und minimal {{temp_min}} geben.
+de-de,weather.current.local.weather,mit temperaturen zwischen {{temp_max}} und {{temp_min}}ist zu rechnen dazu hat {{location}} {{condition}} bei aktuell {{temp}} grad.
+de-de,weather.current.weather,Es ist derzeit {{condition}} und {{temp_current}} Grad {{scale}} in {{location}}. Heute gibt es Temperaturen zwischen {{temp_max}} und {{temp_min}} in {{location}}.
+de-de,weather.current.weather,Gerade jetzt ist es {{condition}} bei {{temp_current}} Grad es gibt Temperaturen zwischen {{temp_max}} und {{temp_min}} in {{location}}.
+de-de,weather.current.weather,Heute gitb es temperaturen zwischen {{temp_max}} und {{temp_min}}in {{location}} ist es aktuell {{condition}} bei {{temp_current}} Grad.
+de-de,weather.do not know,Ich befürchte dass ich das nicht weiß
+de-de,weather.do not know,diese Informationen habe ich leider nicht
+de-de,weather.forecast.local.weather,{{day}} wird es {{condition}} mit temperaturen von {{temp_min}} bis {{temp_max}}
+de-de,weather.forecast.local.weather,{{day}} wird maximal {{temp_max}} und minimal {{temp_min}} bei {{condition}} erwartet
+de-de,weather.forecast.local.weather,{{day}}'s vorhersage ergibt Temperaturen zwischen {{temp_min}} und {{temp_max}} grad.
+de-de,weather.forecast.weather,{{day}} wird es {{condition}} mit einer Temperatur zwischen {{temp_min}} und {{temp_max}} grad
+de-de,weather.forecast.weather,{{day}} {{location}} wird bei temperaturen zwischen {{temp_min}} und {{temp_max}}. das Wetter wird {{condition}}
+de-de,weather.forecast.weather,die vorhersage für {{day}} ist {{temp_min}} minimal und {{temp_min}} maximal erwartet. das Wetter wird {{condition}}
+de-de,weather.heavy,drückend
+de-de,weather.hour.local.weather,es wird {{condition}} mit temperaturen um {{temp_max}} grad
+de-de,weather.hour.local.weather,Später wird es {{condition}} um die {{temp_max}} grad
+de-de,weather.hour.local.weather,Später wird es {{condition}} und {{temp_max}} grad
+de-de,weather.hour.local.weather,um die {{temp_max}} grad bei {{condition}}
+de-de,weather.hour.weather,In den nächsten 5 Stunden wird es {{condition}} in {{location}} bei Temperaturen zwischen {{temp_max}} und {{temp_min}}
+de-de,weather.hour.weather,in {{location}} wird es zwischen {{temp_max}} und {{temp_min}} es wird {{condition}} in den nächsten Stunden
+de-de,weather.humidity,Feuchtigkeit
+de-de,weather.light,Licht
+de-de,weather.location.not.found,Ich bin mir nicht sicher wo das ist
+de-de,weather.location.not.found,Ich kenne diesen Ort nicht
+de-de,weather.location.not.found,ich kann diesn Ort nicht finden
+de-de,weather.meters per second,meter pro Sekunde
+de-de,weather.miles per hour,Meilen pro Stunde
+de-de,weather.no forecast,Entschuldigung ich habe keine Vorhersage für {{day}}
+de-de,weather.no forecast,ich habe keine Vorhersage für {{day}}
+de-de,weather.no precipitation expected,es wird kein Niederschlag erwartet
+de-de,weather.no precipitation expected,es wird nicht Regnen oder scheien
+de-de,weather.no precipitation expected,du brauchst keinen Regenschirm mitnehmen
+de-de,weather.precipitation expected,{{modifier}} {{precip}} wird am {{day}} erwartet
+de-de,weather.precipitation expected,Die Vorhersage nennt {{modifier}} {{precip}} am {{day}}
+de-de,weather.rain,Regen
+de-de,weather.report.condition,{{condition}} ist {{value}}
+de-de,weather.report.future.condition,{{condition}} am {{day}} wird {{value}}
+de-de,weather.report.future.condition,am {{day}} nennt die Vorhersage für {{condition}} {{value}}
+de-de,weather.sky is clear.future,Klar
+de-de,weather.snow,Schnee
+de-de,weather.wind.speed,{{speed}} {{unit}}
+de-de,weather.wind.speed.dir,mit {{speed}} {{unit}} aus {{dir}}
+de-de,weather.wind.speed.dir,aus {{dir}} mit {{speed}} {{unit}}
+de-de,weather.winds,Der Wind
+de-de,white-house-adventure.LeavingZork,verlasse das mysteriöse Königreich von Zork
+de-de,white-house-adventure.LeavingZork,verlasse nun Zork
+de-de,white-house-adventure.LeavingZork,Beende Zork
+de-de,white-house-adventure.NoSave,Es gibt keinen aktuellen Spielstand
+de-de,white-house-adventure.NoSave,Es existiert kein Speicherstand
+de-de,white-house-adventure.SaveDeleted,gespeicherter Spielstatus gelöscht
+de-de,white-house-adventure.SaveDeleted,Der Speicherstand wurde entfernt
+de-de,wikiquote-skill.notfound,Ich konnte keine Zitate zu {{subject}} finden

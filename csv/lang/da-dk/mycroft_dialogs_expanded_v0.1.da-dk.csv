@@ -1,0 +1,193 @@
+da-dk,Crystal-Ball-Mycroft-Skill.random.answer,ja
+da-dk,Crystal-Ball-Mycroft-Skill.random.answer,Nej
+da-dk,Crystal-Ball-Mycroft-Skill.random.answer,Prøv at spørge igen senere
+da-dk,Crystal-Ball-Mycroft-Skill.random.answer,Helt sikkert
+da-dk,Crystal-Ball-Mycroft-Skill.random.answer,Selvfølgelig ikke
+da-dk,Crystal-Ball-Mycroft-Skill.random.answer,Helt sikkert
+da-dk,Crystal-Ball-Mycroft-Skill.random.answer,Nope
+da-dk,Crystal-Ball-Mycroft-Skill.random.answer,Hvorfor ikke?
+da-dk,Crystal-Ball-Mycroft-Skill.random.answer,Jeg ville ikek vædde om det
+da-dk,Crystal-Ball-Mycroft-Skill.random.answer,Helt klart!
+da-dk,Crystal-Ball-Mycroft-Skill.random.answer,Hold ikek vejret
+da-dk,Number-Guess-Mycroft-Skill.correct,Det er rigtigt!
+da-dk,Number-Guess-Mycroft-Skill.correct,Du fik den!
+da-dk,Number-Guess-Mycroft-Skill.correct,Korrekt!
+da-dk,Number-Guess-Mycroft-Skill.correct,Det er nummeret!
+da-dk,Number-Guess-Mycroft-Skill.correct,Godt arbejde!
+da-dk,Number-Guess-Mycroft-Skill.correct,Du vinder!
+da-dk,Number-Guess-Mycroft-Skill.get.lower,Hvad skal den nedre grænse være?
+da-dk,Number-Guess-Mycroft-Skill.get.upper,Hvad skal den øvre grænse være?
+da-dk,Number-Guess-Mycroft-Skill.guess,Gæt nummeret
+da-dk,Number-Guess-Mycroft-Skill.guess,Hvad tror du nummeret er
+da-dk,Number-Guess-Mycroft-Skill.guess,Gæt
+da-dk,Number-Guess-Mycroft-Skill.input.error,Jeg kunne ikke forstå hvad du sagde
+da-dk,Number-Guess-Mycroft-Skill.input.error,Noget gik galt da jeg forsøgte at forstå det
+da-dk,Number-Guess-Mycroft-Skill.input.error,En input fejl opstod
+da-dk,Number-Guess-Mycroft-Skill.input.error,Kunne du gentage det?
+da-dk,Number-Guess-Mycroft-Skill.invalid.input,Det svar var ugyldigt. Jeg skal bruge et nummer
+da-dk,Number-Guess-Mycroft-Skill.invalid.input,Svar venligst med et nummer
+da-dk,Number-Guess-Mycroft-Skill.invalid.input,Du skal svare med et nummer
+da-dk,Number-Guess-Mycroft-Skill.invalid.input,Det er ikke et nummer
+da-dk,Number-Guess-Mycroft-Skill.start.game,OK lad os spille
+da-dk,Number-Guess-Mycroft-Skill.start.game,Lad spillet begynde
+da-dk,Number-Guess-Mycroft-Skill.start.game,Starter spillet
+da-dk,Number-Guess-Mycroft-Skill.start.game,Lad os starte
+da-dk,Number-Guess-Mycroft-Skill.start.game,Lad os se hvad du kan
+da-dk,Number-Guess-Mycroft-Skill.start.game,Alright. Lad os spille Gæt Nummer
+da-dk,Number-Guess-Mycroft-Skill.too.high,For højt
+da-dk,Number-Guess-Mycroft-Skill.too.low,For lavt
+da-dk,auto-volume-skill.activate,OK
+da-dk,auto-volume-skill.activate,Auto volume aktiveret
+da-dk,auto-volume-skill.activate,Jeg har aktiveret auto volume
+da-dk,auto-volume-skill.deactivate,OK
+da-dk,auto-volume-skill.deactivate,Auto volume er deaktiveret
+da-dk,auto-volume-skill.deactivate,Jeg har nu deaktiveret auto volume
+da-dk,auto-volume-skill.reset,Jeg har nu resat auto volume
+da-dk,cocktail.NotFound,Beklager jeg kunne ikke finde den ænskede drink
+da-dk,cocktail.NotFound,Jeg er bange for jeg ikke kan finde den
+da-dk,cocktail.YouWillNeed,Du behøver {ingredients} og {final_ingredient}
+da-dk,cocktail.YouWillNeed,Du behøver {ingredients} og {final_ingredient}
+da-dk,cocktail.YouWillNeed,De nødvendige indgridienter er: {ingredients} og {final_ingredient}
+da-dk,count-skill.count_error,Jeg forstår det ikke.
+da-dk,count-skill.count_error,Jeg mangler noget.
+da-dk,count-skill.count_error,Gentag?
+da-dk,count-skill.count_error,Undskyld. Jeg hørte det ikke.
+da-dk,count-skill.count_start,Tæller til {number}. Starter nu!
+da-dk,count-skill.count_stop,Gjort!
+da-dk,count-skill.count_stop,Slut!
+da-dk,count-skill.countdown_start,Nedtælling fra {number}. Starter nu!
+da-dk,count-skill.countdown_stop,Gjort!
+da-dk,count-skill.countdown_stop,Slut!
+da-dk,dice-skill.multiple.modificator.result,Dina tal er {result} tilføjet til totalen {total}
+da-dk,dice-skill.multiple.result,Dine numrer er {result}
+da-dk,dice-skill.range.needed,Du skal specificere et interval
+da-dk,dice-skill.range.needed,Jeg behøver et interval for at gøre det
+da-dk,dice-skill.range.needed,Fortæl mig hvilket interval du ønsker dine numrer fra
+da-dk,dice-skill.single.modificator.result,Resultatet er {total}.
+da-dk,dice-skill.single.result,Resultatet er {result}.
+da-dk,dice-skill.single.result,Dit nummer er {result}
+da-dk,email-skill.error.getting.email,Der opstod en fejl ved at få din email Prøv at kontrollere dine legitimationsoplysninger og serveroplysninger
+da-dk,email-skill.error.getting.email,Tjek dine legitimationsoplysninger og serveroplysninger fordi der var et problem at få din mail
+da-dk,email-skill.error.getting.email,Jeg kan ikke oprette forbindelse til din e-mail-server Tjek din adgangskode og serverinformation
+da-dk,email-skill.list.subjects,nummer {message_num} er fra {sender} Dets emne er {subject}
+da-dk,email-skill.list.subjects,nummer {message_num} s emne er {subject} Dens fra {sender}
+da-dk,email-skill.list.subjects,Meddelelsesnummer {message_num} er fra {sender} Dets emne er {subject}
+da-dk,email-skill.more.emails,Vil du høre mere
+da-dk,email-skill.more.emails,vil du høre flere af dine emails
+da-dk,email-skill.more.emails,vil du høre mere
+da-dk,email-skill.no.more.emails,O K
+da-dk,email-skill.no.new.email,Der er ingen nye email
+da-dk,email-skill.no.new.email,Der er ingen nye email
+da-dk,email-skill.no.new.email,Der er ingen ny mail
+da-dk,email-skill.no.new.email,Der er ikke nogen nye mail
+da-dk,email-skill.no.new.email,Der er ikke nogen nye emil til dig
+da-dk,email-skill.no.new.email,Der er ikke nye email til dig
+da-dk,email-skill.no.new.email,Du har ingen nye mail
+da-dk,email-skill.no.new.email,Du har ingen nye email
+da-dk,email-skill.setup,For at indstille e-mail-færdighederne skal du gå til hjemmesiden dot mycroft dot a i for at indtaste dine e-mail-oplysninger
+da-dk,email-skill.setup,Du skal indstille e-mail-færdighederne For at gøre det skal du gå til hjemmesiden dot mycroft dot a i for at indtaste dine e-mail-oplysninger
+da-dk,emby-skill.emby,Spiller {media} mix
+da-dk,fallback-aiml.reset.memory,Nulstiller vidensdatabasen
+da-dk,fallback-aiml.reset.memory,Glem alt
+da-dk,fallback-aiml.reset.memory,O K. Jeg vil nulstille min hukommelse
+da-dk,fallback-aiml.reset.memory,Hjerne sletning påbegyndt
+da-dk,fallback-recommendations-skill.skill.download.confirmation,Skillen {{skill_name}} kan gøre det for dig. Vil du have at jeg downloader den?
+da-dk,fallback-recommendations-skill.skill.download.confirmation,Jeg har fundet en skill kaldet {{skill_name}} som kunne hjælpe dig. Vil du have at jeg downloader den?
+da-dk,fallback-recommendations-skill.skill.download.refused,O K.
+da-dk,fallback-recommendations-skill.skill.download.refused,Fint.
+da-dk,fallback-recommendations-skill.skill.downloading,Et øjeblik jeg downloader {{skill_name}} skill.
+da-dk,fallback-recommendations-skill.skill.downloading,Et øjeblik jeg downloader {{skill_name}} skill.
+da-dk,fallback-recommendations-skill.skill.downloading,Et øjeblik jeg downloader {{skill_name}}.
+da-dk,fallback-recommendations-skill.skill.downloading,O K lad mig doawnloade {{skill_name}}.
+da-dk,fallback-recommendations-skill.skill.downloading,Vent et øjeblik mens jeg downloader {{skill_name}}.
+da-dk,fallback-recommendations-skill.skill.downloading,O K Jeg downloader {{skill_name}}.
+da-dk,iss-tracker-skill.location.current,I S S er over {{latitude}} længdegrad {{longitude}} bredegrad som passer med {{toponym}}
+da-dk,iss-tracker-skill.location.current,Rumstationener på {{latitude}} bredegrad {{longitude}} længdegrad over {{toponym}}
+da-dk,iss-tracker-skill.location.current,Den er på {{latitude}} bredegrad {{longitude}} længdegrad over {{toponym}}
+da-dk,iss-tracker-skill.location.current,Den internationale rmstation er nu over {{toponym}} på {{latitude}} bredegrad {{longitude}} længdegrad
+da-dk,iss-tracker-skill.location.current,Over {{toponym}} på {{latitude}} bredegrad og {{longitude}} længdegrad
+da-dk,iss-tracker-skill.location.unknown,Beklager {{latitude}} bredegrad {{longitude}} længdegrad er ikke kendt
+da-dk,iss-tracker-skill.location.unknown,Beklager Rumstationen er på {{latitude}} bredegrad {{longitude}} længdegrad men jeg ved ikke hvor det er
+da-dk,iss-tracker-skill.location.unknown,Den er på {{latitude}} bredegrad {{longitude}} længdegrad som ikke er i databasen
+da-dk,iss-tracker-skill.location.unknown,ISS er nu over {{latitude}} bredegrad {{longitude}} længdegrad men der er ikke nogen geographisk oplysning om hvor det er.
+da-dk,laugh.cancel,latter stoppet
+da-dk,laugh.cancel,jeg vil ikek grine mere
+da-dk,laugh.cancel_fail,Jeg griner ikke
+da-dk,learning-skill.add.category,Jeg anerkendte en ny kategori {{cat}} hvad vil du kalde det?
+da-dk,learning-skill.answer,hvad skal jeg vide om det
+da-dk,learning-skill.begin.learning,Jeg kan godt lide at lære Hvilken kategori er det?
+da-dk,learning-skill.begin.learning,Jeg hører Kan du venligst give mig en kategori?
+da-dk,learning-skill.begin.learning,Det er jeg sikker på Jeg er meget nysgerrig. Giv mig bare en anden kategori
+da-dk,learning-skill.begin.learning,Viden gør mig mere menneskelig Giv mig en kategori.
+da-dk,learning-skill.begin.private,Jeg kan være stille som en grav Hvilken kategori er det?
+da-dk,learning-skill.begin.private,Jeg ville ikke fortælle noget Kan du venligst give mig en kategori?
+da-dk,learning-skill.begin.private,det forbliver hos os giv mig bare en anden kategori
+da-dk,learning-skill.begin.private,Jeg vil ikke fortælle noget giv mig bare en kategori
+da-dk,learning-skill.invalid.category,Ukendt kategori mulig: kærlighed humor eller videnskab eller du kan sige afbryd for at afbryde
+da-dk,learning-skill.keywords,giv mig nogle nøgleord
+da-dk,learning-skill.line,{line}
+da-dk,learning-skill.question,hvad er dit spørgsmål
+da-dk,learning-skill.question,hvad er spørgsmålet
+da-dk,learning-skill.save.learn,Så spørgsmålet {{question}} kan besvares med {{answer}}?
+da-dk,moviemaster.bad.genre.catagory,Jeg kan ikke finde nogen film med genren {genre}
+da-dk,moviemaster.bad.genre.catagory,Jeg kan ikke finde nogen film med genren {genre}
+da-dk,moviemaster.genre.movie.search,filmene med genren {genre} er;
+da-dk,moviemaster.genre.tv.search,tv serier med genren {genre} er;
+da-dk,moviemaster.genre.tv.search,tv shows med genren {genre} er;
+da-dk,moviemaster.genre.tv.search,fjernsyn serier med genren {genre} er;
+da-dk,moviemaster.genre.tv.search,fjernsyn shows med genren {genre} er;
+da-dk,moviemaster.movie.cast,Her er casten af ​​{movie}
+da-dk,moviemaster.movie.cast,Følgende personer act i filmen {movie}
+da-dk,moviemaster.movie.cast,Følgende personer play i filmen {movie}
+da-dk,moviemaster.movie.cast,Følgende personer star i filmen {movie}
+da-dk,moviemaster.movie.description,filmen {movie} handler om dette. {overview}
+da-dk,moviemaster.movie.description,her er en oversigt over filmen {movie}. {overview}
+da-dk,moviemaster.movie.genre.multiple,Filmen flick findes i en af ​​genrene {genrelist}
+da-dk,moviemaster.movie.genre.multiple,Filmen film findes i en af ​​genrene {genrelist}
+da-dk,moviemaster.movie.genre.multiple,Filmen film findes i en af ​​genrene {genrelist}
+da-dk,moviemaster.movie.genre.multiple,Folk overvejer film en {genrelist}
+da-dk,moviemaster.movie.genre.multiple,Folk overvejer film en {genrelist}
+da-dk,moviemaster.movie.genre.single,The film {movie} kunne overvejes en {genre}
+da-dk,moviemaster.movie.genre.single,The movie {movie} kunne overvejes en {genre}
+da-dk,moviemaster.movie.genre.single,Du kan finde flick {movie} i sektionen {genre}
+da-dk,moviemaster.movie.genre.single,Du kan finde film {movie} i sektionen {genre}
+da-dk,moviemaster.movie.info.response,{movie} blev udgivet den {year} med et budget på {budget} dollars.
+da-dk,moviemaster.movie.popular,De nyeste populære film der er ude nu er {populærliste}.
+da-dk,moviemaster.movie.popular,{popularlist} top filmen charts lige nu.
+da-dk,moviemaster.movie.production.multiple,Virksomhederne {companies} producerede filmen {movie}
+da-dk,moviemaster.movie.production.multiple,{companies} producerede filmen {movie}
+da-dk,moviemaster.movie.production.single,Produktionsselskabet {company} producerede filmen {movie}
+da-dk,moviemaster.movie.recommendations,Jeg anbefaler filmmene {movielist} hvis du kan lide filmen flicken {movie}
+da-dk,moviemaster.movie.recommendations,Jeg anbefaler filmmene {movielist} hvis du kan lide filmen filnen {movie}
+da-dk,moviemaster.movie.recommendations,Filmerne {movielist} er et godt valg hvis du kan lide filmen {movie}
+da-dk,moviemaster.movie.runtime,Filmen {movie} varer i {runtime} minutter.
+da-dk,moviemaster.movie.runtime,Filmen {movie} er {runtime} minutter lang.
+da-dk,moviemaster.movie.runtime,Hvis du ser {movie}; Du kan forvente omkring {runtime} minutter før du kan få en tissepause.
+da-dk,moviemaster.movie.top,Dette er den mest populære film der spiller nu; {Topliste}
+da-dk,moviemaster.movie.top,Dette er den mest populære film ude nu; {Topliste}
+da-dk,moviemaster.movie.top,Dette er top film der spiller nu; {Topliste}
+da-dk,moviemaster.movie.top,Dette er top film ude nu; {Topliste}
+da-dk,moviemaster.movie.top,{toplist} er den mest populære film der spiller nu.
+da-dk,moviemaster.movie.top,{toplist} er den mest populære film ude nu.
+da-dk,moviemaster.movie.top,{toplist} er top film der spiller nu.
+da-dk,moviemaster.movie.top,{toplist} er top film ude nu.
+da-dk,moviemaster.movie.year,filmen {movie} blev lavet i {year}
+da-dk,moviemaster.movie.year,filmen {movie} blev udgivet i året {year}
+da-dk,moviemaster.no.info,Undskyld. Jeg kan ikke finde nogen oplysninger om filmen {movie}
+da-dk,moviemaster.no.info,Undskyld. Jeg kan ikke finde nogen oplysninger om film {movie}
+da-dk,moviemaster.no.info.general,Jeg er ked af det jeg kan ikke finde den liste du leder efter lige nu; spørg igen senere.
+da-dk,picroft-google-aiy-voicekit-skill.error.initialize,Jeg har problemer med at starte Google AIY stemme skill. Denne skill vil ikke blive startet.
+da-dk,remember-skill.delete,Skal jeg slette frasen: {{PHRASE}}?
+da-dk,remember-skill.deleteall,Skal jeg slette alt jeg har husket for dig?
+da-dk,remember-skill.forgotten,Det er glemt.
+da-dk,remember-skill.gotphrase,Jeg vil huske {{REMEMBER}} for dig..
+da-dk,remember-skill.holdon,Jeg vil holde på denne frase.
+da-dk,remember-skill.iremembered,Jeg husker: {{REMEMBER}}.
+da-dk,remember-skill.short,Jeg kan kun huske sætninger og ord der er længere end fire karakterer. Venligst omformulér dig.
+da-dk,remember-skill.sorry,Jeg beklager jeg kan ikke huske nogen fraser!
+da-dk,remember-skill.sorryforget,Jeg beklager der er sket en fejl så jeg kunne ikke glemme noget!
+da-dk,remember-skill.sorrynophrase,Jeg beklager jeg kunne ikke finde en frase der matcher din forespørgsel.
+da-dk,speedtest-skill.error,Der opstod en fejl jeg kunne ikke foretage en hastighedstest... beklager.
+da-dk,speedtest-skill.result,Din downloadhastighed er {{DOWN}} Megabit per sekund og din uploadhastighed er {{UP}} Megabit per sekund.
+da-dk,speedtest-skill.running,Starter hastighedstest nu jeg er tilbage med resultaterne om et øjeblik.
+da-dk,wikiquote-skill.notfound,Jeg fandt ingen {{subject}} citater

@@ -1,0 +1,83 @@
+{
+  "pt-pt": {
+    "alarm.alarm.off": [
+      "o alarme foi desligado",
+      "o alarme foi encerrado",
+      "o alarme foi parado"
+    ],
+    "alarm.alarm.stop": [
+      "Say, turn off alarm to end this alarm",
+      "Diga, desligar o alarme para terminar este alarme"
+    ],
+    "alarm.schedule.create": [
+      "Alarme definido para {{datetime}}",
+      "You have a new alarm on {{datetime}}",
+      "Tu tens um novo alarme",
+      "Voc\u00ea tem um novo alarme",
+      "O novo alarme para {{datetime}} foi adicionado  "
+    ],
+    "alarm.schedule.datetime.error": [
+      "Desculpe, eu n\u00e3o encontrei uma data e hora v\u00e1lida para o alarme.",
+      "N\u00e3o foi poss\u00edvel p\u00f4r um alarme para a data e a hora informada."
+    ],
+    "alarm.schedule.delete.empty": [
+      "N\u00e3o h\u00e1 alarme para ser removido",
+      "Voc\u00ea n\u00e3o tem nenhum alarme para ser apagado"
+    ],
+    "alarm.schedule.delete.many": [
+      "{{amount}} alarmes removidos",
+      "{{amount}} alarmes foram cancelados",
+      "Voc\u00ea apagou {{amount}} alarmes"
+    ],
+    "alarm.schedule.delete.single": [
+      "Um alarme removido",
+      "Um alarme foi cancelado",
+      "Voc\u00ea apagou um alarme"
+    ],
+    "alarm.schedule.list": [
+      "Voc\u00ea tem um alarme para o {{datetime}}",
+      "Existe um alarme definido para {{datetime}}"
+    ],
+    "alarm.schedule.list.empty": [
+      "N\u00e3o existe nenhum alarme a ser listado",
+      "Voc\u00ea n\u00e3o tem nenhum alarme para ser listado"
+    ],
+    "ddg.no_answer": [
+      "o pato n\u00e3o sabe a resposta"
+    ],
+    "icanhazdadjokes.no_joke": [
+      "n\u00e3o encontrei nenhuma piada sobre {search}",
+      "n\u00e3o encontrei nenhuma anedota sobre {search}"
+    ],
+    "krunner-search-skill.krunner.recent": [
+      "Exibir os teus recentes ficheiros "
+    ],
+    "krunner-search-skill.krunner.search": [
+      "Estou procurando localmente p\u00f4r  {{ Query }}"
+    ],
+    "laugh.cancel": [
+      "eu vou para de rir"
+    ],
+    "laugh.cancel_fail": [
+      "eu n\u00e3o me estou a rir"
+    ],
+    "plasma-activities-skill.activities.create": [
+      "Tua actividade {{ ActivityName }} foi criada"
+    ],
+    "plasma-activities-skill.activities.remove": [
+      "Actividade foi removida"
+    ],
+    "plasma-activities-skill.activities.show": [
+      "Exibir actividades"
+    ],
+    "plasma-activities-skill.activities.stop": [
+      "{{ StopActivityName }} actividade foi parada"
+    ],
+    "plasma-activities-skill.activities.switch": [
+      "Trocar para actividade {{ SwitchActivityName }}"
+    ],
+    "wolfie.no_answer": [
+      "o lobo n\u00e3o sabe a resposta"
+    ]
+  }
+}

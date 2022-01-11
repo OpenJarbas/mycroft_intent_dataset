@@ -1,0 +1,110 @@
+el-gr,Crystal-Ball-Mycroft-Skill.random.answer,Ναι
+el-gr,Crystal-Ball-Mycroft-Skill.random.answer,Όχι
+el-gr,Crystal-Ball-Mycroft-Skill.random.answer,Δοκίμασε ξανά σε λίγο
+el-gr,Crystal-Ball-Mycroft-Skill.random.answer,Σίγουρα
+el-gr,Crystal-Ball-Mycroft-Skill.random.answer,Με τίποτα
+el-gr,Crystal-Ball-Mycroft-Skill.random.answer,Σίγουρα
+el-gr,Crystal-Ball-Mycroft-Skill.random.answer,Μπαααα
+el-gr,Crystal-Ball-Mycroft-Skill.random.answer,Γιατί όχι;
+el-gr,Crystal-Ball-Mycroft-Skill.random.answer,Δε θα στοιχημάτιζα σ' αυτό
+el-gr,Crystal-Ball-Mycroft-Skill.random.answer,Σου πάω και στοίχημα!
+el-gr,Crystal-Ball-Mycroft-Skill.random.answer,Μην κρατήσεις την αναπνοή σου
+el-gr,auto-volume-skill.activate,Εντάξει
+el-gr,auto-volume-skill.activate,Η αυτόματη ένταση ενεργοποιήθηκε
+el-gr,auto-volume-skill.activate,Ενεργοποίησα την αυτόματη ένταση
+el-gr,auto-volume-skill.deactivate,Εντάξει
+el-gr,auto-volume-skill.deactivate,Η αυτόματη ένταση απενεργοποιήθηκε
+el-gr,auto-volume-skill.deactivate,Απενεργοποίησα την αυτόματη ένταση
+el-gr,auto-volume-skill.reset,Επανέφερα στην αρχική κατάσταση την αυτόματη ένταση
+el-gr,cocktail.NotFound,Συγνώμη αλλά δεν μπόρεσα να βρω το ποτό που ζήτησες
+el-gr,cocktail.NotFound,Δυστυχώς δεν μπόρεσα να το βρω αυτό
+el-gr,cocktail.YouWillNeed,Θα χρειαστείς {ingredients} και {final_ingredient}
+el-gr,cocktail.YouWillNeed,Θα χρειαστείς {ingredients} και {final_ingredient}
+el-gr,cocktail.YouWillNeed,Τα απαιτούνται συστατικά είναι: {ingredients} και {final_ingredient}
+el-gr,count-skill.count_error,Δεν καταλαβαίνω
+el-gr,count-skill.count_error,Κάτι μου ξέφυγε.
+el-gr,count-skill.count_error,Πες το πάλι;
+el-gr,count-skill.count_error,Συγνώμη. Δεν το άκουσα αυτό.
+el-gr,count-skill.count_start,Ξεκινάω το μέτρημα ως το {number} από τώρα!
+el-gr,count-skill.count_stop,Τέλειωσα!
+el-gr,count-skill.count_stop,Τέλος!
+el-gr,count-skill.countdown_start,Η αντίστροφη μέτρηση από το {number} ξεκινάει τώρα!
+el-gr,count-skill.countdown_stop,Τέλειωσα!
+el-gr,count-skill.countdown_stop,Τέλος!
+el-gr,fairytalez-skill.continue,Συνεχίζω τη διήγηση {story}
+el-gr,fairytalez-skill.continue,Πού είχαμε μείνει. Α ναι εδώ. {story}
+el-gr,fairytalez-skill.fairytalez,Γνωρίζω πάνω από 2000 παραμύθια ιστορίες και μύθους από όλο τον κόσμο. Ποιο θα ήθελες να ακούσεις;
+el-gr,fairytalez-skill.from_fairytalez,Τα παραμύθια αυτά είναι από το www τελεία fairytalez τελεία com.  Λατρεύουν τα παραμύθια! Επισκέψου τη σελίδα για να βρεις τη μεγαλύτερη συλλογή παραμυθιών και μύθων στο ίντερνετ.
+el-gr,fairytalez-skill.i_know_that,{story} είναι ωραία.  Ας ξεκινήσουμε...
+el-gr,fairytalez-skill.i_know_that,Ναι {story} είναι ωραία.  Πηγαίνει κάπως έτσι...
+el-gr,fairytalez-skill.is_it_that,Αυτή είναι;
+el-gr,fairytalez-skill.is_it_that,Μήπως είναι αυτή;
+el-gr,fairytalez-skill.is_it_that,Θέλεις να σου πω αυτή;
+el-gr,fairytalez-skill.is_it_that,Θέλεις να ακούσεις αυτή;
+el-gr,fairytalez-skill.let_me_think,κάτσε να δω.  Ξέρω άραγε {story}
+el-gr,fairytalez-skill.let_me_think,λοιπόν πρέπει να σκεφτώ αν θυμάμαι {story}
+el-gr,fairytalez-skill.no_story,Τότε δε γνωρίζω ποια ιστορία θέλεις να ακούσεις.
+el-gr,fairytalez-skill.no_story_to_continue,Δεν υπάρχει ιστορία για να συνεχίσω
+el-gr,fairytalez-skill.no_story_to_continue,Λυπάμαι - δεν υπάρχει ιστορία για να συνεχίσω.
+el-gr,fairytalez-skill.that_would_be,Μπορώ να πω την ιστορία {story}.
+el-gr,fairytalez-skill.that_would_be,Θυμάμαι το {story}.
+el-gr,fairytalez-skill.title_by_author,{title} από {author}
+el-gr,iss-tracker-skill.location.current,Ο Διεθνής Διαστημικός Σταθμός βρίσκεται πάνω από το {{latitude}} γεωγραφικό πλάτος {{longitude}} γεωγραφικό μήκος το οποίο ανοιστοιχεί στην τοποθεσία {{toponym}}
+el-gr,iss-tracker-skill.location.current,Ο διαστημικός σταθμός είναι στο {{latitude}} γεωγραφικό πλάτος {{longitude}} γεωγραφικό μήκος πάνω από την τοποθεσία {{toponym}}
+el-gr,iss-tracker-skill.location.current,Είναι στο {{latitude}} γεωγραφικό πλάτος {{longitude}} γεωγραφικό μήκος πάνω από την τοποθεσία {{toponym}}
+el-gr,iss-tracker-skill.location.current,Ο διεθνής διαστημικός σταθμός είναι τώρα πάνω από το {{toponym}} στο {{latitude}} γεωγραφικό πλάτος {{longitude}} γεωγραφικό μήκος
+el-gr,iss-tracker-skill.location.current,Πάνω από το {{toponym}} στο {{latitude}} γεωγραφικό πλάτος και {{longitude}} γεωγραφικό μήκος
+el-gr,iss-tracker-skill.location.unknown,Λυπάμαι αλλά το {{latitude}} γεωγραφικό πλάτος {{longitude}} γεωγραφικό μήκος δεν είναι γνωστά
+el-gr,iss-tracker-skill.location.unknown,Λυπάμαι αλλά ο διαστημικός σταθμός είναι στο {{latitude}} γεωγραφικό πλάτος {{longitude}} γεωγραφικό μήκος και δεν ξέρω πού βρίσκεται αυτό
+el-gr,iss-tracker-skill.location.unknown,Είναι στο {{latitude}} γεωγραφικό πλάτος {{longitude}} γεωγραφικό μήκος το οποίο δεν υπάρχει στη βάση δεδομένων μου
+el-gr,iss-tracker-skill.location.unknown,Ο Διεθνής Διαστημικός Σταθμός είναι τώρα πάνω από το {{latitude}} γεωγραφικό πλάτος {{longitude}} γεωγραφικό μήκος αλλά δεν υπάρχουν γεωγραφικά χαρακτηριστικά για αυτό
+el-gr,laugh.cancel,το γέλιο σταμάτησε
+el-gr,laugh.cancel,δε θα γελάσω ξανά
+el-gr,laugh.cancel_fail,δε γελάω
+el-gr,lifx-mycroft.Color,Ορίζω το {{name}} σε {{color}}.
+el-gr,lifx-mycroft.Dim,{{change}}οντας {{name}}.
+el-gr,lifx-mycroft.GroupError,Δεν μπορώ να {{action}} {{name}} επειδή αποτελεί Ομάδα.
+el-gr,lifx-mycroft.GroupError,Δεν μπορώ να {{action}} {{name}} γιατί είναι Ομάδα.
+el-gr,lifx-mycroft.SetPercent,Ορίζω το {{param}} σε {{value}}.
+el-gr,lifx-mycroft.SetPercent,Αλλάζω το {{param}} σε {{value}}.
+el-gr,lifx-mycroft.SetPercent,Ορίζω το {{name}} {{param}} σε {{value}}.
+el-gr,lifx-mycroft.Switch,Αλλάζω το {{status}} {{name}}.
+el-gr,lifx-mycroft.Switch,Αλλάζω το {{name}} {{status}}.
+el-gr,lifx-mycroft.Temperature,Κάνοντας {{name}} {{temperature}}.
+el-gr,list-manager-skill.add.item,{{item_name}} προστέθηκε στη λίστα {{list_name}}.
+el-gr,list-manager-skill.add.list,Η νέα σου λίστα {{list_name}} έχει προστεθεί.
+el-gr,list-manager-skill.and,και
+el-gr,list-manager-skill.cancelled,Ακυρώθηκε.
+el-gr,list-manager-skill.confirm.deletion,Θέλεις σίγουρα να διαγράψεις το {{element}};
+el-gr,list-manager-skill.del.item,{{item_name}} αφαιρέθηκε από τη λίστα {{list_name}}.
+el-gr,list-manager-skill.del.list,Η λίστα {{list_name}} έχει αφαιρεθεί.
+el-gr,list-manager-skill.item.not.found,{{item_name}} δεν είναι στη λίστα σου {{list_name}}.
+el-gr,list-manager-skill.list.found,Έχεις ήδη μία λίστα με τίτλο {{list_name}}.
+el-gr,list-manager-skill.list.not.found,Δε φαίνεται να έχεις κάποια λίστα με όνομα {{list_name}}.
+el-gr,list-manager-skill.list.not.found,Δεν μπόρεσα να βρω την {{list_name}} ανάμεσα στις λίστες σου.
+el-gr,list-manager-skill.no.items,Δεν έχεις αντικείμενα στη λίστα {{list_name}}.
+el-gr,list-manager-skill.no.lists,Δεν έχεις λίστες ακόμα.
+el-gr,list-manager-skill.read.items,Στη λίστα {{list_name}} έχεις {{items}}
+el-gr,list-manager-skill.read.lists,Προς το παρόν έχεις {{lists_names}} {{list}}.
+el-gr,picroft-google-aiy-voicekit-skill.error.initialize,Έχω προβλήματα με την προετοιμασία της Δεξιότητας Google A I Y voice kit. Η Δεξιότητα δε φορτώνει.
+el-gr,remember-skill.delete,Να διαγράψω τη φράση: {{PHRASE}};
+el-gr,remember-skill.deleteall,Να διαγράψω όλα όσα θυμάμαι για σένα;
+el-gr,remember-skill.forgotten,Ξεχάστηκε.
+el-gr,remember-skill.gotphrase,Θα θυμάμαι "{{REMEMBER}}" για σένα.
+el-gr,remember-skill.holdon,Θα συγκρατήσω αυτή τη φράση.
+el-gr,remember-skill.iremembered,Θυμάμαι: {{REMEMBER}}.
+el-gr,remember-skill.short,Μπορώ να θυμάμαι μόνο προτάσεις ή λέξεις μεγαλύτερες από τέσσερις χαρακτήρες. Άλλαξε διατύπωση σε παρακαλώ.
+el-gr,remember-skill.sorry,Με συγχωρείς αλλά δεν μπορώ να θυμηθώ καμία φράση!
+el-gr,remember-skill.sorryforget,Με συγχωρείς αλλά υπήρξε ένα σφάλμα και δεν μπόρεσα να ξεχάσω τίποτα!
+el-gr,remember-skill.sorrynophrase,Με συγχωρείς αλλά δεν μπόρεσα να βρω μία φράση που να ταιριάζει στο αίτημά σου.
+el-gr,speedtest-skill.error,Υπήρξε ένα σφάλμα και δεν μπόρεσα να τρέξω τη δοκιμή ταχύτητας... με συγχωρείς.
+el-gr,speedtest-skill.result,Κατεβάζεις με {{DOWN}} Μεγκαμπίτ ανά δευτερόλεπτο και ανεβάζεις με {{UP}} Μεγκαμπίτ ανά δευτερόλεπτο.
+el-gr,speedtest-skill.running,Ξεκινάω τη δοκιμή ταχύτητας τώρα επιστρέφω σε λίγο με τα αποτελέσματα.
+el-gr,white-house-adventure.LeavingZork,Φεύγω από το μυστηριώδες βασίλειο του Ζορκ
+el-gr,white-house-adventure.LeavingZork,Φέυγω από το Ζορκ
+el-gr,white-house-adventure.LeavingZork,Έξοδος από το Ζορκ
+el-gr,white-house-adventure.NoSave,Δεν υπάρχει τρέχων αποθηκευμένο παιχνίδι
+el-gr,white-house-adventure.NoSave,Δεν υπάρχει αποθηκευμένο παιχνίδι
+el-gr,white-house-adventure.SaveDeleted,Το αποθηκευμένο παιχνίδι διαγράφηκε
+el-gr,white-house-adventure.SaveDeleted,Αφαιρέθηκε το αποθηκευμένο παιχνίδι
+el-gr,wikiquote-skill.notfound,Δε βρήκα καμία {{subject}} παραπομπή

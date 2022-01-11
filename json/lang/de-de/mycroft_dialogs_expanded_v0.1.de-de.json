@@ -1,0 +1,2076 @@
+{
+  "de-de": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "Ja",
+      "Nein",
+      "Versuch sp\u00e4ter nocheinmal zu fragen",
+      "definitiv",
+      "selbstverst\u00e4ndlich nicht",
+      "Sicher",
+      "Nee",
+      "Warum nicht?",
+      "Ich w\u00fcrde nicht drauf wetten",
+      "Logo!",
+      "Das kann dauern"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "Stimmt!",
+      "Du hast es erraten!",
+      "Richtig!",
+      "Das ist die Nummer!",
+      "Gut gemacht!",
+      "Du gewinnst!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "Was soll die Untergrenze sein?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "Was soll die Obergrenze sein?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "Errate die Zahl",
+      "Was denkst du, wie die Nummer lautet",
+      "Rate"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "Ich konnte nicht verstehen, was du gesagt hast",
+      "Etwas lief schief, als ich das zu verstehen versuchte",
+      "Ein Eingabefehler ist aufgetreten",
+      "K\u00f6nntest du das noch einmal sagen?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "Diese Antwort war ung\u00fcltig. Ich brauche eine Nummer",
+      "Bitte antworte mit einer Nummer",
+      "Du musst mit einer Nummer antworten",
+      "Das ist keine Nummer"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "OK, lass uns spielen",
+      "Lasst das Spiel beginnen",
+      "starte Spiel",
+      "Lass uns beginnen",
+      "Mal sehen, was du hast",
+      "In Ordung. Lass uns Zahl erraten spielen"
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "Zu hoch"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "Zu niedrig"
+    ],
+    "aircrack.cannot.sudo": [
+      "Fehler, ich kann den Aircrack-Befehle nicht ohne Passwort sudo ausf\u00fchren. Hinweise zum sudo-Zugriff findest du unter github.com/JonStratton/skill-aircrack."
+    ],
+    "aircrack.captured.handshake": [
+      "Captured Handshake"
+    ],
+    "aircrack.confirm.permission": [
+      "Der Zugriff auf ein Wi-Fi-Netzwerk, zu dessen Nutzung du nicht berechtigt bist, kann illegal sein. Bitte best\u00e4tige, dass du die Berechtigung hast, dich mit diesem Netzwerk zu verbinden, indem du JA sagst, andernfalls sage NEIN, um abzubrechen."
+    ],
+    "aircrack.deauthing.clients": [
+      "Clients Dauthing, die mit dem {{selected_network}} Netzwerk verbunden sind."
+    ],
+    "aircrack.interfaces.are": [
+      "Folgende Schnittstellen sind verf\u00fcgbar: {{available_interfaces}}",
+      "Hier sind die verf\u00fcgbaren Schnittstellen: {{available_interfaces}}",
+      "{{available_interfaces}} stehen zur Verf\u00fcgung."
+    ],
+    "aircrack.monitor.stopped.early": [
+      "Der Monitor wurde angehalten, bevor der Handshake aufgezeichnet wurde."
+    ],
+    "aircrack.networks.are": [
+      "Folgende Netzwerke sind verf\u00fcgbar: {{available_networks}}"
+    ],
+    "aircrack.no.interfaces": [
+      "Es gibt keine verf\u00fcgbaren Schnittstellen."
+    ],
+    "aircrack.no.networks": [
+      "Es sind keine Netzwerke verf\u00fcgbar."
+    ],
+    "aircrack.no.password": [
+      "Kein Passwort gefunden."
+    ],
+    "aircrack.no.such.interface": [
+      "Keine solche Schnittstelle gefunden."
+    ],
+    "aircrack.no.such.network": [
+      "Kein solches Netzwerk gefunden."
+    ],
+    "aircrack.recovered.password": [
+      "Das folgende Passwort wurde wiederhergestellt: {{password}}"
+    ],
+    "aircrack.select.interface.first": [
+      "Bitte w\u00e4hle zuerst die Schnittstelle."
+    ],
+    "aircrack.selected.interface": [
+      "{{selected_interface}} interface Ausgew\u00e4hlt."
+    ],
+    "aircrack.selected.network": [
+      "w\u00e4hle {{selected_network}}als Netzwerk."
+    ],
+    "aircrack.start.monitor": [
+      "Starte den Monitor"
+    ],
+    "aircrack.stop.monitor": [
+      "stoppe Monitor"
+    ],
+    "alarm.alarm.ampm": [
+      "Kein Problem. was soll ich einstellen? A.M. or P.M.?",
+      "Soll ich das einstellen f\u00fcr A.M. oder P.M.?",
+      "Na sicher. F\u00fcr A.M. oder P.M.?"
+    ],
+    "alarm.alarm.error": [
+      "Es tut mir leid. versuchst du einen Alarm einzustellen? kannst du das bitte umformulieren.",
+      "Es scheint, dass du versuchst, einen Alarm auszul\u00f6sen. kannst du das bitte umformulieren."
+    ],
+    "alarm.alarm.off": [
+      "der alarm wurde ausgeschalten",
+      "der alarm wurde deaktiviert",
+      "der alarm wurde gestoppt"
+    ],
+    "alarm.alarm.set.h": [
+      "Ich habe einen Alarm f\u00fcr erstellt {{hours}} Stunden."
+    ],
+    "alarm.alarm.set.hm": [
+      "Ich habe einen Alarm f\u00fcr erstellt {{hours}} Stunden and {{minutes}} Minuten."
+    ],
+    "alarm.alarm.set.m": [
+      "Ich habe einen Alarm f\u00fcr erstellt {{minutes}} Minuten."
+    ],
+    "alarm.alarm.status": [
+      "Ich haben keine aktiven Alarme",
+      "Ich sehe keine aktiven Alarme",
+      "Es scheint, als h\u00e4tten Ich keine aktiven Alarme"
+    ],
+    "alarm.alarm.stop": [
+      "sage, alarm ausschalten um alarm zu beenden"
+    ],
+    "alarm.no.time.found": [
+      "Ich hatte keine Zeit, diesen Alarm zu planen."
+    ],
+    "alarm.schedule.create": [
+      "Alarm eingestellt auf {{datetime}}",
+      "du hast einen neuen alarm um {{datetime}}",
+      "ein neuer alarm um {{datetime}} wurde hinzugef\u00fcgt"
+    ],
+    "alarm.schedule.datetime.error": [
+      "Entschuldigung ich kannn kein korrektes Datum oder Uhrzeit finden.",
+      "Es ist nicht m\u00f6glich einen Alarm ohne eingestelltes Datum und Uhrzeit."
+    ],
+    "alarm.schedule.delete.empty": [
+      "Du hast kein Alarm den ich l\u00f6schen k\u00f6nnte",
+      "ich habe keinen Alarm den ich l\u00f6schen k\u00f6nnte"
+    ],
+    "alarm.schedule.delete.many": [
+      "{{amount}} Alarme wurden gel\u00f6scht",
+      "{{amount}} Alarme wurden entfernt",
+      "Du hast {{amount}} Alarme gel\u00f6scht"
+    ],
+    "alarm.schedule.delete.single": [
+      "ein Alarm wurde gel\u00f6scht",
+      "Ich habe einen Alarm gel\u00f6scht",
+      "Ich habe ein Alarm gel\u00f6cht"
+    ],
+    "alarm.schedule.list": [
+      "du hast einen Alarm um {{datetime}}",
+      "ich soll dich um {{datetime}} wecken"
+    ],
+    "alarm.schedule.list.empty": [
+      "ich habe keinen Alarm hinterlegt",
+      "du hast keinen Alarm eingetragen"
+    ],
+    "auto-volume-skill.activate": [
+      "OK",
+      "Automatische Lautst\u00e4rke aktiviert",
+      "Ich habe die automatische Lautst\u00e4rke aktiviert"
+    ],
+    "auto-volume-skill.deactivate": [
+      "OK",
+      "Automatische Lautst\u00e4rke ist deaktiviert",
+      "Ich habe die automatische Lautst\u00e4rke nun deaktiviert"
+    ],
+    "auto-volume-skill.reset": [
+      "Ich habe automatische Lautst\u00e4rke nun zur\u00fcckgesetzt",
+      "Ich habe die automatische Lautst\u00e4rke nun zur\u00fcckgesetzt"
+    ],
+    "avmusic.neon.ChangeMind": [
+      "Lass es mich wissen, wenn du deine Meinung \u00e4nderst"
+    ],
+    "avmusic.neon.PlayNow": [
+      "Soll ich es jetzt spielen?"
+    ],
+    "avmusic.neon.SayResume": [
+      "Musik ist pausiert. sage weiter, um die Wiedergabe fortzusetzen"
+    ],
+    "avmusic.neon.SayStop": [
+      "Sage anhalten oder pausieren, wenn du fertig bist"
+    ],
+    "avmusic.neon.TryAgain": [
+      "Es tut mir leid, ich konnte die gesuchte Musik nicht finden. K\u00f6nntest du es nochmal versuchen?"
+    ],
+    "caffeinewiz.neon.drink.caffeine": [
+      "das Getr\u00e4nk {{drink}} hat {{caffeine_content}} Koffein auf {{drink_size}} unzen. eine Unze sind 30 Milliliter."
+    ],
+    "cocktail.NotFound": [
+      "Entschuldigung, ich konnte den gefragten Drink nicht finden",
+      "Ich f\u00fcrchte, ich konnte das nicht finden"
+    ],
+    "cocktail.YouWillNeed": [
+      "Du ben\u00f6tigst {ingredients} und {final_ingredient}",
+      "Du ben\u00f6tigst {ingredients} und {final_ingredient}",
+      "Die erforderlichen Zutaten sind: {ingredients} und {final_ingredient}"
+    ],
+    "configuration.config.no_change": [
+      "Konfiguration hat sich nicht ge\u00e4ndert",
+      "Keine \u00c4nderungen vorhanden"
+    ],
+    "configuration.config.not.paired": [
+      "Konnte die Konfiguration nicht abrufen, Ger\u00e4t ist nicht gepaart.",
+      "Konfiguration konnte nicht aktualisiert werden, bitte paare das Ger\u00e4t"
+    ],
+    "configuration.config.updated": [
+      "Konfiguration aktualisiert.",
+      "deine Ger\u00e4tekonfiguration wurde aktualisiert.",
+      "dein Ger\u00e4t wurde konfiguriert."
+    ],
+    "configuration.download.started": [
+      "Das Herunterladen des neuen Zuh\u00f6rers dauert ein wenig und Sie k\u00f6nnen mich erst nach dem Abschluss verwenden. Gib mir eine Minute, bevor ich versuche, mich wieder zu aktivieren."
+    ],
+    "configuration.get.listener": [
+      "Der aktuelle Empf\u00e4nger ist {{listener}}.",
+      "Der Empf\u00e4nger ist auf eingestellt {{listener}}."
+    ],
+    "configuration.i.am.at": [
+      "ich bin in {{city}} {{state}} {{country}}",
+      "Meine Einstellungen sagen mir, ich bin in {{city}} {{state}} {{country}}"
+    ],
+    "configuration.listener.same": [
+      "Der Empf\u00f6nger ist bereits eingestellt {{listener}}."
+    ],
+    "configuration.model.is": [
+      "Das aktuelle precence Modell hat die Kennung {{name}}.",
+      "Das aktuelle Modell hat die Kennung {{name}}."
+    ],
+    "configuration.models.not.found": [
+      "Ich konnte keine Modelldateien zum Aktualisieren finden."
+    ],
+    "configuration.models.updated": [
+      "Ich habe die Precise-Modelle aktualisiert."
+    ],
+    "configuration.must.be.hey.mycroft": [
+      "Das Weckwort muss auf \"hey mycroft\" eingestellt sein, um pr\u00e4zise zu sein. Du kannst das unter home punkt mycroft punkt AI tun."
+    ],
+    "configuration.must.update": [
+      "Bitte aktualisiere zuerst deine Software.."
+    ],
+    "configuration.my.name.is": [
+      "Mein Ger\u00e4tename ist {{name}}",
+      "Ich bin als {{name}} bennant"
+    ],
+    "configuration.not.precise": [
+      "Der Precise ist nicht auf \"Genau\" eingestellt."
+    ],
+    "configuration.set.listener": [
+      "Ich habe den Epf\u00e4nger auf {{listener}} eingestellt."
+    ],
+    "count-skill.count_error": [
+      "Ich verstehe nicht.",
+      "Mir fehlt etwas.",
+      "Sag das bitte noch mal",
+      "Entschuldigung. Ich habe das nicht geh\u00f6rt."
+    ],
+    "count-skill.count_start": [
+      "Z\u00e4hle bis {number}. Ich beginne jetzt!"
+    ],
+    "count-skill.count_stop": [
+      "Erledigt!",
+      "Fertig!"
+    ],
+    "count-skill.countdown_start": [
+      "Ich z\u00e4hle von {number} herunter. Ich starte jetzt!"
+    ],
+    "count-skill.countdown_stop": [
+      "Erledigt!",
+      "Fertig!"
+    ],
+    "cut-up-skill.frag_type.set": [
+      "Den {{frag_type}} Fragment-Typ ausgew\u00e4hlt."
+    ],
+    "cut-up-skill.maximum.set": [
+      "Maximale St\u00fcckgr\u00f6\u00dfe auf {{max}} gesetzt."
+    ],
+    "cut-up-skill.minimum.set": [
+      "Minimale St\u00fcckgr\u00f6\u00dfe auf {{min}} gesetzt."
+    ],
+    "cut-up-skill.randomness.set": [
+      "Zuf\u00e4lligkeit auf {{rand}} Prozent gesetzt."
+    ],
+    "deezer.intro": [
+      "Danke, dass dur den Deezer Skill Installiert hast. Es sind noch ein paar weitere Schritte n\u00f6tig. Bitte folge den zus\u00e4tzlichen Anweisungen."
+    ],
+    "dice-skill.multiple.modificator.result": [
+      "Deine Zahlen sind {result} und addieren sich zu {total}"
+    ],
+    "dice-skill.multiple.result": [
+      "Deine Zahlen sind {result}"
+    ],
+    "dice-skill.range.needed": [
+      "Du musst einen Bereich angeben",
+      "Ich brauche einen Bereich, um das zu tun",
+      "Sag mir, in welchem Bereich die Zahlen liegen sollen"
+    ],
+    "dice-skill.single.modificator.result": [
+      "Das Ergebnis ist {total}."
+    ],
+    "dice-skill.single.result": [
+      "Das Ergebnis ist {result}.",
+      "Deine Zahl ist {result}"
+    ],
+    "email-skill.already.looking.for.all": [
+      "Ich schaue bereits nach einer neuen Mail",
+      "Ich habe schon nach einer neuen Mail geschaut",
+      "Ich schaue schon nach einer neuen E-Mail"
+    ],
+    "email-skill.already.looking.for.specific": [
+      "Ich suche bereits nach E-Mails von {email}",
+      "Ich habe bereits nach neuer Mail von {email} geschaut",
+      "Ich suche bereits eine E-Mail von {email}"
+    ],
+    "email-skill.cancel.looking.for.all.look.specific": [
+      "Ich suche derzeit nach neuen E-Mails. Soll ich dich nun per {email} \u00fcber E-Mails benachrichtigen",
+      "Ich habe bereits nach einen neuen E-Mail gesucht. Soll ich dich nur \u00fcber neue E-Mails von {email} benachrichtigen"
+    ],
+    "email-skill.cancel.looking.for.specific.look.all": [
+      "Ich suche derzeit nach {email}. Soll ich stattdessen nach allen neuen E-Mails suchen",
+      "Im Moment suche ich nur nach E-Mails von {email}. Soll ich stattdessen nach allen E-Mails suchen",
+      "Soll ich nach allen E-Mails suchen, anstatt nur nach E-Mails von {email} zu suchen"
+    ],
+    "email-skill.error.getting.mail": [
+      "Beim Abrufen Ihrer E-Mail ist ein Fehler aufgetreten. \u00dcberpr\u00fcfen Sie Ihre Anmeldeinformationen und Serverinformationen",
+      "Pr\u00fcfe deine Anmeldedaten und die Server Informationen, da es ein Problem beim Zugriff auf deine Mail gab.",
+      "Ich kann keine Verbindung zu Ihrem E-Mail-Server herstellen. \u00dcberpr\u00fcfe dein Kennwort und deine Serverinformationen"
+    ],
+    "email-skill.list.subjects": [
+      "Nummer {message_num} ist von {sender}. Der Betreff ist {subject}",
+      "der Betreff von Nummer {message_num} ist {subject}. Sie ist von {sender}"
+    ],
+    "email-skill.more.emails": [
+      "M\u00f6chtest du mehr h\u00f6ren",
+      "Willst du mehr von deinen E-Mails h\u00f6ren",
+      "Willst du mehr h\u00f6ren"
+    ],
+    "email-skill.no.emails.from": [
+      "Es gibt keine E-Mails von {sender}",
+      "Du hast keine E-Mails von {sender}",
+      "Sie haben keine E-Mails von {sender} erhalten"
+    ],
+    "email-skill.no.more.emails": [
+      "Okay"
+    ],
+    "email-skill.no.new.email": [
+      "Es gibt keine neuen E-Mail",
+      "Da ist keine neue E-Mail",
+      "Es gibt keine neue Post",
+      "Es gibt keine neue Mail",
+      "Es gibt keine neue E-Mail f\u00fcr dich",
+      "Es gibt keine neue Mail f\u00fcr dich",
+      "Du hast keine neue Mail",
+      "Du hast keine neue E-Mail"
+    ],
+    "email-skill.not.looking.for": [
+      "Ich suche derzeit nicht nach E-Mails von {email}",
+      "Ich suche keine E-Mails von {email}",
+      "Im Moment suche ich keine E-Mail von {email}"
+    ],
+    "email-skill.notify.read.email": [
+      "du hast {size} eine neue E-Mail, m\u00f6chtest du sie h\u00f6ren",
+      "Es gibt {size} neue E-Mails. M\u00f6chtest du sie h\u00f6ren",
+      "M\u00f6chtest du deine {size} E-Mails h\u00f6ren"
+    ],
+    "email-skill.poll.emails.not.started": [
+      "Ich schaue nicht mehr nach neuen Mails",
+      "Derzeit suche ich nicht mehr nach neuen E-Mails"
+    ],
+    "email-skill.setup": [
+      "Um die E-Mail-Funktion einzurichten, gehe bitte auf die Startseite punkt mycroft punkt a i, um deine E-Mail-Informationen einzugeben",
+      "du musst die E-Mail-F\u00e4higkeit einrichten. Gehe dazu bitte zur Startseite. Punkt mycroft Punkt a i, um deine E-Mail-Informationen einzugeben"
+    ],
+    "email-skill.start.poll.email": [
+      "Ich werde dich \u00fcber neue E-Mails informieren",
+      "Okay, ich werde dich \u00fcber neue E-Mails informieren",
+      "Ich fange an, auf neue E-Mails zu warten"
+    ],
+    "email-skill.stop.looking.for": [
+      "Ich h\u00f6re bei {email} auf, nach neuen Mails zu suchen",
+      "Okay, ich h\u00f6re auf, nach neuen E-Mails von {email} zu suchen"
+    ],
+    "email-skill.stop.poll.emails": [
+      "Okay, ich werde aufh\u00f6ren, nach neuen E-Mails zu suchen",
+      "Okay, ich werde nicht mehr nach neuen E-Mails suchen"
+    ],
+    "email-skill.stop.poll.emails.last.email.removed": [
+      "Ich h\u00f6re auf, nach neuen E-Mails zu suchen, da es keine E-Mail-Adressen gibt, \u00fcber die benachrichtigt werden m\u00f6chte"
+    ],
+    "email-skill.update.notify.data": [
+      "Ich habe deine E-Mail-Einstellungen aktualisiert",
+      "alles klar, Ich habe deine E-Mail-Einstellungen aktualisiert"
+    ],
+    "emby-skill.configuration_fail": [
+      "Verbindung zum Emby Server fehlgeschlagen. Bitte \u00fcberpr\u00fcfe diene Konfiguration auf home.mycroft.ai"
+    ],
+    "emby-skill.configuration_success": [
+      "Erfolgreich mit dem Emby Server {hostname} verbunden"
+    ],
+    "emby-skill.diag_auth_fail": [
+      "Authentifizierung gegen\u00fcber dem Emby Server fehlgeschlagen. Bitte \u00fcberpr\u00fcfe deine Konfiguration auf home.mycroft.ai"
+    ],
+    "emby-skill.diag_auth_success": [
+      "Ich habe mich erfolgreich gegen\u00fcber dem Emby-Server authentifiziert!"
+    ],
+    "emby-skill.diag_public_info_fail": [
+      "Der Emby-Server unter {host} scheint nicht erreichbar zu sein oder nicht zu antworten."
+    ],
+    "emby-skill.diag_public_info_success": [
+      "Gro\u00dfartig! Ich kann auf {ServerName} zugreifen, der sich unter {LocalAddress} in der laufenden Version {Version} befindet. Versuche mich zu authentifizieren."
+    ],
+    "emby-skill.diag_start": [
+      "Ich werde eine Diagnose zum \u00fcberpr\u00fcfen der Emby Skill Verbindung ausf\u00fchren. Das wird \u00fcberpr\u00fcfen ob auf den Server Zugriff besteht und ob ich mich authentifizieren kann."
+    ],
+    "emby-skill.diag_stop": [
+      "Die Diagnose wird nicht fortgesetzt"
+    ],
+    "emby-skill.diagnostic": [
+      "Die Diagnose ist abgeschlossen und ich kann mich auf den Emby Server verbinden und authentifizieren. Jetzt ist es an der Zeit etwas Musik zu spielen"
+    ],
+    "emby-skill.emby": [
+      "{media} Abspielen"
+    ],
+    "emby-skill.general_check_settings_logs": [
+      "Bitte \u00fcberpr\u00fcfe deine Einstellungen von Mycroft.ai. Wenn das Problem weiterhin besteht dann \u00fcberpr\u00fcfe die Mycroft Protokolle f\u00fcr weitere Informationen"
+    ],
+    "emby-skill.play_fail": [
+      "Datei {media} nicht gefunden bzw. kann nicht abgespielt werden. Bitte versuche es noch Mal",
+      "Datei {media} nicht gefunden bzw. kann nicht abgespielt werden. Bitte versuche es erneut. Wenn dies weiterhin der Fall ist, \u00fcberpr\u00fcfen Sie Ihre Konfiguration zu home.Mycroft.ai"
+    ],
+    "fairytalez-skill.continue": [
+      "Die Geschichte von {story} weiter erz\u00e4hlen",
+      "Wo waren wir stehen geblieben. Ah ja, hier. {story}"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "Ich kenne mehr als 2000 M\u00e4rchen, Volkssagen und Fabeln aus der ganzen Welt. Welches m\u00f6chtest du h\u00f6ren ?"
+    ],
+    "fairytalez-skill.from_fairytalez": [
+      "Diese M\u00e4rchen sind von www punkt fairytalez punt com. Sie lieben M\u00e4rchen! Bitte besuche die Seite, wo du die gr\u00f6\u00dfte Sammlung von M\u00e4rchen, Volkssagen und Fabeln online findest."
+    ],
+    "fairytalez-skill.i_know_that": [
+      "{story} ist eine gute Geschichte. Lass uns anfangen...",
+      "Ja, {story} ist eine gute Geschichte. Sie geht so..."
+    ],
+    "fairytalez-skill.is_it_that": [
+      "Ist es diese ?",
+      "Ist es diese s ?",
+      "K\u00f6nnte es das sein?",
+      "Soll ich dir diese erz\u00e4hlen?",
+      "Soll ich dir diese s erz\u00e4hlen?",
+      "Willst du das h\u00f6ren?"
+    ],
+    "fairytalez-skill.let_me_think": [
+      "Lass mich sehen. Kenne ich {story}",
+      "Nun, ich muss \u00fcberlegen, ob ich mich an {story} erinnere"
+    ],
+    "fairytalez-skill.no_story": [
+      "Dann wei\u00df ich nicht welche Geschichte du h\u00f6ren willst."
+    ],
+    "fairytalez-skill.no_story_to_continue": [
+      "Es gibt keine Geschichte zum Fortsetzen",
+      "Tut mir Leid - Es gibt keine Geschichte zum Fortsetzen"
+    ],
+    "fairytalez-skill.that_would_be": [
+      "Ich kann die Geschichte {story} erz\u00e4hlen.",
+      "Ich erinnere mich an das {story}.",
+      "Ich erinnere mich an den {story}.",
+      "Ich erinnere mich an die {story}."
+    ],
+    "fairytalez-skill.title_by_author": [
+      "{title} von {author}"
+    ],
+    "fallback-aiml.reset.memory": [
+      "Wissensdatenbank zur\u00fccksetzen",
+      "Vergesse alles",
+      "Okay, ich setze jetzt meinen Speicher zur\u00fcck",
+      "Ged\u00e4chtnisl\u00f6schung gestartet",
+      "Gehirnl\u00f6schung gestartet"
+    ],
+    "fallback-recommendations-skill.skill.download.confirmation": [
+      "Der {{skill_name}} Skill kann das f\u00fcr dich tun. Soll ich ihn herunterladen?",
+      "Ich habe einen Skill namens {{skill_name}} Skill gefunden, der dir dabei helfen k\u00f6nnte. Soll ich ihn herunterladen?"
+    ],
+    "fallback-recommendations-skill.skill.download.refused": [
+      "Okay.",
+      "Alles klar."
+    ],
+    "fallback-recommendations-skill.skill.downloading": [
+      "Nur einen Moment, ich lade den {{skill_name}} Skill herunter.",
+      "Nur einen Moment, ich lade den {{skill_name}} Skill herunter.",
+      "Einen Moment, Ich lade den {{skill_name}} Skill herunter.",
+      "Okay, lass mich den {{skill_name}} Skill herunterladen.",
+      "Warte einen Moment, w\u00e4hrend ich den {{skill_name}} Skill herunterlade.",
+      "Okay, ich lade den {{skill_name}} Skill herunter."
+    ],
+    "fallback-unknown.question": [
+      "Ich wei\u00df nicht",
+      "Ich bin mir nicht sicher",
+      "Ich bin mir da nicht sicher",
+      "Ich wei\u00df das nicht genau"
+    ],
+    "fallback-unknown.unknown": [
+      "Entschuldigung ich habe das nicht verstanden",
+      "ich wei\u00df nicht was du meinst",
+      "Kannst du das anders formulieren?",
+      "ich konnte deine Anfrage nicht verstehen",
+      "Huh, ich verstehe das nicht.",
+      "Ich bin mir nicht sicher, ob ich dich verstanden habe.",
+      "Du musset das vielleicht anders sagen.",
+      "Bitte formuliere deine Anfrage um.",
+      "kannst du dich villeicht anders ausdr\u00fccken",
+      "versuche dich mal anders auszudr\u00fccken."
+    ],
+    "fallback-unknown.who.is": [
+      "Ich wei\u00df nicht, wer das ist.",
+      "Ich bin mir nicht sicher wen du meinst"
+    ],
+    "fallback-unknown.why": [
+      "Ich kenne den Grund daf\u00fcr nicht.",
+      "Ich wei\u00df nicht",
+      "Ich bin mir nicht ganz sicher.",
+      "Ich bin mir nicht sicher"
+    ],
+    "fallback-wolfram-alpha.email.body": [
+      "du fragst <br/><ul><tt>'{{query}}'</tt></ul><br/> Und mir wurde erz\u00e4hlt <br/><ul><tt>'{{answer}}'</tt></ul><P> F\u00fcr weitere Details und die Informationsquellen, die verwendet werden, um die Antwort zu generieren visit:<br/><a href=\"http://www.wolframalpha.com/input/?i={{url_query}}\">www.wolframalpha.com</a>"
+    ],
+    "fallback-wolfram-alpha.email.subject": [
+      "Quellen f\u00fcr: '{{query}}'"
+    ],
+    "fallback-wolfram-alpha.not.understood": [
+      "Entschuldigung ich kenne kein {{phrase}}"
+    ],
+    "fallback-wolfram-alpha.sent.email": [
+      "Ich habe eine E-Mail an Ihren registrierten Account mit einem Link zu Wolfram Alpha f\u00fcr weitere Details und Quellen gesendet."
+    ],
+    "finished-booting.finished.booting": [
+      "Ich bin nun hochgefahren.",
+      "Ich bin jetzt bereit.",
+      "Hallo, hier ist Mycroft und ich bin bereit zu arbeiten.",
+      "Du kannst nun mit Mycroft beginnen.",
+      "Alle Systeme hochgefahren.",
+      "Bereit zu arbeiten.",
+      "Mycroft ist nun bereit."
+    ],
+    "homeassistant.homeassistant.automation.trigger": [
+      "ausgel\u00f6ste Automation {{dev_name}}.",
+      "habe {{dev_name}} ausgel\u00f6st.",
+      "{{dev_name}} wurde ausgel\u00f6st.",
+      "{{dev_name}} wurde aktiviert.",
+      "habe {{dev_name}} aktiviert."
+    ],
+    "homeassistant.homeassistant.brightness.badreq": [
+      "Bitte gib eine Helligkeitsstufe zwischen 0 und 100 an.",
+      "wie hell? du kannst eine Stufe zwischen 0 und 100 w\u00e4hlen."
+    ],
+    "homeassistant.homeassistant.brightness.cantdim.dimmable": [
+      "Kann {{dev_name}} nicht dimmen. Es ist nicht dimmbar."
+    ],
+    "homeassistant.homeassistant.brightness.cantdim.off": [
+      "Kann {{dev_name}} nicht dimmen. Es ist ausgeschaltet.",
+      "Kann {{dev_name}} nicht dimmen. Bitte schalte es vorher an.",
+      "{{dev_name}} kann nicht gedimmt werden. Nur angeschaltete Ger\u00e4te k\u00f6nnen gedimmt werden."
+    ],
+    "homeassistant.homeassistant.brightness.decreased": [
+      "Habe {{dev_name}} zu {{brightness}} Prozent gedimmt.",
+      "Habe {{dev_name}} gedimmt."
+    ],
+    "homeassistant.homeassistant.brightness.dimmed": [
+      "Setze die Helligkeit von {{dev_name}} auf {{brightness}} Prozent."
+    ],
+    "homeassistant.homeassistant.brightness.increased": [
+      "Helligkeit von {{dev_name}} auf {{brightness}} Prozent erh\u00f6ht.",
+      "Helligkeit von {{dev_name}} erh\u00f6ht."
+    ],
+    "homeassistant.homeassistant.device.already": [
+      "{{dev_name}} f\u00fchrt bereits die Aktion {{action}} aus.",
+      "{{dev_name}} wurde nicht ver\u00e4ndert."
+    ],
+    "homeassistant.homeassistant.device.off": [
+      "{{dev_name}} abgedreht.",
+      "{dev_name}} wurde ausgeschaltet.",
+      "{{dev_name}} ist jetzt ausgeschaltet."
+    ],
+    "homeassistant.homeassistant.device.on": [
+      "{{dev_name}} angeschaltet.",
+      "{{dev_name}} wurde eingeschalten.",
+      "Habe {{dev_name}} eingeschalten."
+    ],
+    "homeassistant.homeassistant.device.toggle": [
+      "{{dev_name}} umgeschaltet.",
+      "{{dev_name}} wurde umgeschalten."
+    ],
+    "homeassistant.homeassistant.device.unknown": [
+      "Entschuldigung, ich kann das Home Assistent Element \"{{dev_name}}\" nicht finden.",
+      "Ger\u00e4t \"{{dev_name}}\" ist nicht auffindbar.",
+      "Entschuldigung, das Objekt \"{{dev_name}}\" wurde nicht gefunden.",
+      "Entschuldigung, ich konnte \"{{dev_name}}\" nicht finden."
+    ],
+    "homeassistant.homeassistant.error": [
+      "Zugang zum Home Assistant Server an der Adresse {{url}} ist fehlgeschlagen."
+    ],
+    "homeassistant.homeassistant.error.http": [
+      "Der Home Assistant Server konnte aufgrund des folgenden Fehlers nicht antworten: {{code}} {{reason}}"
+    ],
+    "homeassistant.homeassistant.error.invalidurl": [
+      "An der Adresse {{url}} ist kein g\u00fcltiger Home Assistant Server erreichbar"
+    ],
+    "homeassistant.homeassistant.error.offline": [
+      "Der Home Assistant Server scheint offline zu sein.",
+      "Ich kann den Home Assistant Server nicht erreichen.",
+      "Der Home Assistent Server hat nicht geantwortet"
+    ],
+    "homeassistant.homeassistant.error.setup": [
+      "Bitte richte den Hone Assistent Skill unter Home Punkt mycroft Punkt AI ein."
+    ],
+    "homeassistant.homeassistant.error.sorry": [
+      "Ich verstehe nicht was du von mir willst.",
+      "Ich kann nicht feststellen, wie ich mit dem Home Assistant kommunizieren kann.",
+      "Ich verstehe nicht, was du gefragt hast."
+    ],
+    "homeassistant.homeassistant.error.ssl": [
+      "Die Konfiguration f\u00fcr S S L auf dem Home Assistant Server ist ung\u00fcltig."
+    ],
+    "homeassistant.homeassistant.error.wrong_password": [
+      "Der Home Assistant Server hat das eingegebene Passwort nicht akzeptiert."
+    ],
+    "homeassistant.homeassistant.sensor": [
+      "{{dev_name}} ist aktuell {{value}} {{unit}}.",
+      "{{dev_name}} hat den Status: {{value}} {{unit}}.",
+      "{{dev_name}} ist im Moment {{value}} {{unit}}.",
+      "{{dev_name}} ist {{value}} {{unit}}."
+    ],
+    "homeassistant.homeassistant.set.thermostat": [
+      "Ich habe erfolgreich {{dev_name}} auf {{value}} {{unit}} gesetzt."
+    ],
+    "homeassistant.homeassistant.tracker.found": [
+      "Der letzte bekannte Ort von {{dev_name}} ist {{location}}.",
+      "{{dev_name}} ist bei {{location}}.",
+      "{{dev_name}} wurde bei {{location}} gefunden."
+    ],
+    "installer.already.installed": [
+      "{{skill}} wurde bereits installiert"
+    ],
+    "installer.choose": [
+      "deine suche hat mehrere ergebnisse: {{skills}}",
+      "es gibt mehrere ergebnisse mit diesm name. bitte W\u00e4hle eines aus: {{skills}}"
+    ],
+    "installer.decline.install": [
+      "Installation abgebrochen"
+    ],
+    "installer.decline.removal": [
+      "Deinstallatio abgebrochen"
+    ],
+    "installer.filesystem.error": [
+      "Ein Dateisystemfehler ist w\u00e4hrend {{action}} in {{skill}} aufgetreten. Fehlercode {{error}}."
+    ],
+    "installer.install.confirmation": [
+      "Best\u00e4tigung: soll ich {{skill}} installieren?"
+    ],
+    "installer.installation.error": [
+      "ein fehlewe w\u00e4hrend {{action}} in {{skill}} st aufgetreten. Fehlercode {{error}}"
+    ],
+    "installer.installed": [
+      "der {{skill}} wurde installiert!"
+    ],
+    "installer.installing": [
+      "installiere"
+    ],
+    "installer.network.error": [
+      "ein Netzwerkfehler ist w\u00e4hrend {{action}} in {{skill}} aufgetreten. Fehlercode {{error}}."
+    ],
+    "installer.not.found": [
+      "entschuldigung ich konnte den Skill {{skill}} nicht finden",
+      "der Skill {{skill}} wurde nicht gefunden."
+    ],
+    "installer.other.error": [
+      "installation von {{skill}} fehlgeschlagen, Fehlercode {{error}}"
+    ],
+    "installer.removal.error": [
+      "es gab einen Fehler bem entfernen von {{skill}}. Error code {{error}}"
+    ],
+    "installer.remove.not.found": [
+      "kein passender Skill '{{skill}}' gefunden"
+    ],
+    "installer.remove.not.found.no.skill": [
+      "ich habe keine Skill zum entfernen gefunden,",
+      "Ich konnte keine Skill zum Entfernen finden",
+      "Keinen passenden Skill zum Entfernen"
+    ],
+    "installer.removed": [
+      "{{skill}} wurde entfernt"
+    ],
+    "installer.removing": [
+      "versuche zu deinstallieren"
+    ],
+    "installer.searching": [
+      "Okay"
+    ],
+    "installer.some.available.skills": [
+      "Hier sind ein paar Skills, die du installieren k\u00f6nntest: {{skills}}"
+    ],
+    "installer.system.error": [
+      "W\u00e4hrend der Installation von {{skill}} ist ein Systemfehler aufgetreten. Error code {{error}}."
+    ],
+    "installer.too.many.matches": [
+      "deine Anfrage hatte mehrere \u00dcbereinstimmungen, bitte sei genauer. Es gab zu viele \u00dcbereinstimmungen, um sie zu lesen."
+    ],
+    "installer.uninstall.confirmation": [
+      "Best\u00e4tigung: Soll ich {{skill}} entfernen."
+    ],
+    "ip.dot": [
+      "Punkt"
+    ],
+    "ip.my address is": [
+      "Meine I P Adresse ist die {{ip}}",
+      "Ich bin auf der I P Adresse {{ip}}"
+    ],
+    "ip.my address on X is Y": [
+      "auf {{interface}} ist meine I.P Adresse {{ip}}."
+    ],
+    "ip.no network connection": [
+      "ich habe aktuell kein Netzwerk",
+      "ich bin gerade nicht mit dem Netzwerk verbunden"
+    ],
+    "iss-tracker-skill.location.current": [
+      "Die I S S befindet sich derzeit \u00fcber dem {{latitude}} Breiten- und {{longitude}} L\u00e4ngengrad, dies entspricht {{toponym}}",
+      "Die Raumstation ist auf dem {{latitude}} Breiten- und {{longitude}} L\u00e4ngengrad \u00fcber {{toponym}}",
+      "Sie ist auf dem {{latitude}} Breiten- und {{longitude}} L\u00e4ngengrad, \u00fcber {{toponym}}",
+      "Die internationale Raumstation ist jetzt \u00fcber {{toponym}} dem {{latitude}} Breiten- und {{longitude}} L\u00e4ngengrad",
+      "\u00dcber {{toponym}} dem {{latitude}} Breiten- und {{longitude}} L\u00e4ngengrad"
+    ],
+    "iss-tracker-skill.location.unknown": [
+      "Entschuldige, der {{latitude}} Breiten- und {{longitude}} L\u00e4ngengrad ist unbekannt",
+      "Entschuldige Die Raumstation ist \u00fcber dem {{latitude}} Breiten- und {{longitude}} L\u00e4ngengrad ich wei\u00df jedoch nicht wo dieses ist",
+      "Sie ist \u00fcber dem {{latitude}} Breiten- und {{longitude}} L\u00e4ngengrad, welche nicht in der Datenbank verzeichnet sind",
+      "Die I S S ist \u00fcber dem {{latitude}} Breiten- und {{longitude}} L\u00e4ngengrad, aber es ist kein geographisches Merkmal zugeordnet"
+    ],
+    "krunner-search-skill.krunner.recent": [
+      "Deine neuesten Dateien anzeigen"
+    ],
+    "krunner-search-skill.krunner.search": [
+      "Ich f\u00fchre eine lokale Suche nach {{ Query }} durch"
+    ],
+    "laugh.cancel": [
+      "Lachen hat aufgeh\u00f6rt",
+      "ich werde nicht wieder lachen"
+    ],
+    "laugh.cancel_fail": [
+      "ich lache nicht"
+    ],
+    "learning-skill.add.category": [
+      "ich habe eine neue Kategorie {{cat}} erkannt, wie m\u00f6chtest du sie nennen?",
+      "du hast eine neue Kategorie {{cat}} erkannt, sage mir wie ich sie nennen soll?"
+    ],
+    "learning-skill.answer": [
+      "was soll ich dar\u00fcber wissen",
+      "dazu hast du bestimmt auch eine antwort",
+      "wie soll ich darauf antworten"
+    ],
+    "learning-skill.begin.learning": [
+      "Ich mag es zu lernen, Um welche Kategorie handelt es sich?",
+      "Ich h\u00f6re, Kannst du mir bitte eine Kategorie nennen?",
+      "Sicher bin ich sehr neugierig, gib mir nur noch eine Kategorie",
+      "Wissen macht mich menschlicher, gib mir eine Kategorie."
+    ],
+    "learning-skill.begin.private": [
+      "Ich kann schweigen wie ein Grab, Um welche Kategorie handelt es sich?",
+      "Ich w\u00fcrde nichts erz\u00e4hlen, Kannst du mir bitte eine Kategorie nennen?",
+      "das bleibt bei uns, gib mir nur noch eine Kategorie",
+      "Ich werde nichts erz\u00e4hlen, gib mir nur eine Kategorie"
+    ],
+    "learning-skill.cancel": [
+      "dann eben nicht",
+      "na gut dann nicht",
+      "wie du meinst",
+      "also werde ich abbrechen",
+      "dann werde ich eben abbrechen"
+    ],
+    "learning-skill.continue": [
+      "m\u00f6chtest du weitermachen?",
+      "nochmal einen?",
+      "ich h\u00e4tte noch einen. m\u00f6chtest du weitermachen?",
+      "darf ich noch weitermachen?"
+    ],
+    "learning-skill.found.output": [
+      "wie w\u00fcrdest du das sagen. Ersetze Variabeln durch deine eigenen Platzhalter wie Zeit oder Temperatur.",
+      "Ersetze Variabeln durch eigene Platzhalter. nenne mir jetzt deine Version."
+    ],
+    "learning-skill.invalid.category": [
+      "Unbekannte Kategorie, m\u00f6glich ist: liebe, humor oder wissenschaft oder sage abbrechen um abzubrechen",
+      "ich habe die Kategorie nicht erkannt, ich kenne bissher liebe, humor und Wissenschaft oder sage abbrechen um abzubrechen"
+    ],
+    "learning-skill.keywords": [
+      "gebe mir Schl\u00fcsselw\u00f6rter",
+      "hast du mir dazu einige Schl\u00fcsselw\u00f6rter",
+      "kannst du mir dazu ein Paar Schl\u00fcsselw\u00f6rter nennen",
+      "ich brauche noch Schl\u00fcsselw\u00f6rter"
+    ],
+    "learning-skill.line": [
+      "{line}"
+    ],
+    "learning-skill.no.old.inquiry": [
+      "Ich konnte keine Anfrage finden",
+      "Leider konnte ich nichts finden",
+      "mir ist dazu nichts bekannt",
+      "ich habe dir nichts zu bieten"
+    ],
+    "learning-skill.question": [
+      "wie lautet deine Frage",
+      "auf welche Frage soll ich reagieren",
+      "auf was soll ich reagieren",
+      "wie soll die Anfrage starten"
+    ],
+    "learning-skill.read.for": [
+      "ich werde dir Beispiele vorspielen. Wenn du einen Satz erweiten m\u00f6chtest sage ja",
+      "ich werde dir S\u00e4tze ansagen. Wenn ich richtig bin sage ja",
+      "ich lese dir S\u00e4tze for und wenn du sie erweitern m\u00f6chtest sage ja",
+      "du kannst nach jedem Beispiel ja sagen mu einen Satz zu erweitern"
+    ],
+    "learning-skill.save.learn": [
+      "ich soll also auf die Frage {{question}} mit {{answer}} antworten?",
+      "wenn du m\u00f6chtest werde ich mit {{answer}} antworten wenn du mich {{question}} Fragst.",
+      "{{answer}} ist also die Antwort auf {{question}}"
+    ],
+    "learning-skill.save.update": [
+      "soll ich den Satz: {{question}} hinzuf\u00fcgen",
+      "m\u00f6chtest du dass ich den Satz {{question}} hinzuf\u00fcge.",
+      "der Satz {{question}} passt soll ich ihn hinzuf\u00fcgen.",
+      "die Anfrage {{question}} scheint zu passen m\u00f6chtest du ihn \u00fcbernehmen."
+    ],
+    "learning-skill.second.try": [
+      "versuche es noch einmal",
+      "du must mir den Platzhalter nennen",
+      "Veruche einen anderen Platzhalter",
+      "villeicht passt ein anderer Platzhalter",
+      "versuche einen anderen Platzhalter"
+    ],
+    "learning-skill.var.found": [
+      "ich habe einen Variable {var} gefunden kannst du sie mir angeben",
+      "kannst du mir die Variable {var} angeben um weiterzukommen",
+      "ich brauche die Variable {var} bitte gebe sie an",
+      "die Variable {var} wird ben\u00f6tigt kannst du sie mir geben"
+    ],
+    "learning-skill.what.skill": [
+      "Welchen skill m\u00f6chtest du anpassen",
+      "Nenne mir ein skill",
+      "Um welchen Skill geht es",
+      "ich brauche einen Skillnamen von dir",
+      "kannst du mir den namen des skills geben"
+    ],
+    "lifx-mycroft.Color": [
+      "Setze {{name}} auf {{color}}."
+    ],
+    "lifx-mycroft.Dim": [
+      "{{name}} {{change}}."
+    ],
+    "lifx-mycroft.GroupError": [
+      "Kann {{name}} nicht {{action}}, weil es eine Gruppe ist.",
+      "Kann {{name}} nicht {{action}}, weil es eine Gruppe ist."
+    ],
+    "lifx-mycroft.SetPercent": [
+      "Setze {{param}} auf {{value}}.",
+      "Wechsle {{param}} zu {{value}}.",
+      "Setze {{name}} {{param}} auf {{value}}."
+    ],
+    "lifx-mycroft.Switch": [
+      "Wechsle {{status}} {{name}}.",
+      "Wechsle {{name}} {{status}}."
+    ],
+    "lifx-mycroft.Temperature": [
+      "Mache {{name}} mehr {{temperature}}."
+    ],
+    "list-manager-skill.add.item": [
+      "{{item_name}} wurde zu deiner {{list_name}} Liste hinzugef\u00fcgt."
+    ],
+    "list-manager-skill.add.list": [
+      "Deine neue Liste {{list_name}} wurde hinzugef\u00fcgt."
+    ],
+    "list-manager-skill.and": [
+      "und"
+    ],
+    "list-manager-skill.cancelled": [
+      "Abgebrochen."
+    ],
+    "list-manager-skill.confirm.deletion": [
+      "M\u00f6chtest du {{element}} wirklich l\u00f6schen?"
+    ],
+    "list-manager-skill.del.item": [
+      "{{item_name}} wurde aus deiner {{list_name}} Liste entfernt."
+    ],
+    "list-manager-skill.del.list": [
+      "Deine Liste {{list_name}} wurde entfernt."
+    ],
+    "list-manager-skill.item.not.found": [
+      "{{item_name}} befindet sich nicht in deiner {{list_name}} Liste."
+    ],
+    "list-manager-skill.list.found": [
+      "Du hast bereits eine Liste mit dem Namen {{list_name}}."
+    ],
+    "list-manager-skill.list.not.found": [
+      "Du hast anscheinend keine Liste mit dem Namen {{list_name}}.",
+      "Ich konnte {{list_name}} nicht in deinen Listen finden."
+    ],
+    "list-manager-skill.no.items": [
+      "Du hast keine Artikel auf deiner {{list_name}}."
+    ],
+    "list-manager-skill.no.lists": [
+      "Du hast noch keine Listen."
+    ],
+    "list-manager-skill.read.items": [
+      "In deiner {{list_name}} Liste hast du {{items}}"
+    ],
+    "list-manager-skill.read.lists": [
+      "Derzeit hast du {{lists_names}} {{list}}."
+    ],
+    "mark-2.auto.noon": [
+      "Es scheint Mittag zu sein, ich werde die Helligkeit einstellen."
+    ],
+    "mark-2.auto.sunrise": [
+      "Okay, die Sonne zeigt sich, ich werde die Helligkeit einstellen",
+      "Okay, die Sonne ist da, ich stelle die Helligkeit ein"
+    ],
+    "mark-2.auto.sunset": [
+      "Okay, es wird dunkel, ich werde die Helligkeit entsprechend einstellen."
+    ],
+    "mark-2.brightness.error": [
+      "Ich verstehe diesen Helligkeitswert nicht, gib mir einen Helligkeitswert von 0 bis 100 Prozent."
+    ],
+    "mark-2.brightness.not.found": [
+      "nenne mir einen Helligkeitsgrad oder ein Niveau f\u00fcr mein Gesicht",
+      "Welcher Helligkeitswert oder Prozentsatz m\u00f6chtest du?"
+    ],
+    "mark-2.brightness.not.found.final": [
+      "Entschuldigung, ich verstehe diese Helligkeit nicht.",
+      "Ich verstehe nur Dinge wie 'voll' oder 50%"
+    ],
+    "mark-2.brightness.set": [
+      "Okay, setze die Helligkeit auf {val}.",
+      "H\u00f6rt sich gut an, setze die Helligkeit auf {val}"
+    ],
+    "mark-2.no.web.setting": [
+      "es wurde keine Augenfarbe eingestellt",
+      "Ich habe keine Webeinstellung f\u00fcr die Augenfarbe gefunden"
+    ],
+    "mark-2.rebooting": [
+      "Ich starte jetzt neu. Ich bin gleich wieder da.",
+      "Starte neu, bin in wenigen Minuten zur\u00fcck"
+    ],
+    "moviemaster.bad.movie.genre.catagory": [
+      "Ich kann keine Fernseh- Sendungen mit dem Genre {genre} finden",
+      "Ich kann keine TV Sendungen mit dem Genre {genre} finden"
+    ],
+    "moviemaster.bad.tv.genre.catagory": [
+      "Ich kann keine Fernseh- Sendungen mit dem Genre {genre} finden",
+      "Ich kann keine TV Sendungen mit dem Genre {genre} finden"
+    ],
+    "moviemaster.fallback.api": [
+      "Greife auf die standard A P I zur\u00fcck"
+    ],
+    "moviemaster.genre.movie.search": [
+      "Die Filme mit dem Genre {genre} sind;"
+    ],
+    "moviemaster.genre.tv.search": [
+      "Die TV Sendungen mit dem Genre {genre} sind;",
+      "Die Fernseh Sendungen mit dem Genre {genre} sind;"
+    ],
+    "moviemaster.movie.cast": [
+      "Hier ist die Besetzung von {movie}; {actorlist} und {lastactor}",
+      "Die folgenden Personen Aktoren im Film {movie}; {actorlist} und {lastactor}",
+      "Die folgenden Personen spieler im Film {movie}; {actorlist} und {lastactor}",
+      "Die folgenden Personen Stars im Film {movie}; {actorlist} und {lastactor}"
+    ],
+    "moviemaster.movie.description": [
+      "Der Film {movie} handelt davon.",
+      "Der Movie {movie} handelt davon.",
+      "Hier ist eine Zusammenfassung der filme {movie}.",
+      "Hier ist eine Zusammenfassung der movies {movie}."
+    ],
+    "moviemaster.movie.genre.multiple": [
+      "der flick kann in einem der Genres gefunden werden; {genrelist} und {genrelistlast}",
+      "der film kann in einem der Genres gefunden werden; {genrelist} und {genrelistlast}",
+      "der clip kann in einem der Genres gefunden werden; {genrelist} und {genrelistlast}",
+      "Die Leute betrachten den Film als {genrelist} oder {genrelistlast}"
+    ],
+    "moviemaster.movie.genre.single": [
+      "Der Film {movie} k\u00f6nnte als {genre} angesehen werden.",
+      "Der Movie {movie} k\u00f6nnte als {genre} angesehen werden.",
+      "Du findest den flick {movie} im Abschnitt {genre}",
+      "Du findest den film {movie} im Abschnitt {genre}"
+    ],
+    "moviemaster.movie.info.response": [
+      "{movie} wurde {year} mit einem Budget von {budget} Dollar ver\u00f6ffentlicht."
+    ],
+    "moviemaster.movie.popular": [
+      "Die neuen popul\u00e4ren Filme sind {popularlist}.",
+      "{popularlist} ist jetzt ganz oben in den Filmcharts."
+    ],
+    "moviemaster.movie.production.multiple": [
+      "Die Firmen {companies} und {lastcompany} haben den Film {movie} produziert",
+      "{companies} und {lastcompany} haben den Film {movie} produziert"
+    ],
+    "moviemaster.movie.production.single": [
+      "Die Produktionsfirma {company} produzierte den Film {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "Ich empfehle die Filme {movielist}, wenn dir der Film {movie} gef\u00e4llt",
+      "Ich empfehle die Filme {movielist}, wenn dir der movie {movie} gef\u00e4llt",
+      "Die Filme {movielist} sind eine gute Wahl, wenn du den Film {movie} magst",
+      "Die Filme {movielist} sind eine gute Wahl, wenn du den movie {movie} magst"
+    ],
+    "moviemaster.movie.runtime": [
+      "Der flick {movie} l\u00e4uft {runtime} Minuten.",
+      "Der film {movie} l\u00e4uft {runtime} Minuten.",
+      "Der movie {movie} l\u00e4uft {runtime} Minuten.",
+      "Der flick {movie} ist {runtime} Minuten lang.",
+      "Der film {movie} ist {runtime} Minuten lang.",
+      "Der movie {movie} ist {runtime} Minuten lang.",
+      "Schaue {movie}; du musst mit ungef\u00e4hr {runtime} Minuten rechnen, bevor du eine Toilettenpause einlegen kannst."
+    ],
+    "moviemaster.movie.top": [
+      "Dies sind die bekanntesten Filme, die gerade abgespielt werden; {toplist}",
+      "Dies sind die beliebtesten Filme, die gerade abgespielt werden; {toplist}",
+      "{toplist} sind derzeit die ( beliebtesten ) Filme, die gerade abgespielt werden."
+    ],
+    "moviemaster.movie.year": [
+      "der flick {movie} wurde am {year} ver\u00f6ffentlicht",
+      "der film {movie} wurde am {year} ver\u00f6ffentlicht",
+      "der movie {movie} wurde am {year} ver\u00f6ffentlicht"
+    ],
+    "moviemaster.no.api": [
+      "Du musst deine T M D B A P I-Kode unter home Punkt mycroft punkt A I eingeben, um die Movie Master-F\u00e4higkeit zu verwenden"
+    ],
+    "moviemaster.no.info": [
+      "Es tut mir leid. Ich kann keine Informationen zum movie {movie} finden.",
+      "Es tut mir leid. Ich kann keine Informationen zum film {movie} finden."
+    ],
+    "moviemaster.no.info.general": [
+      "Es tut mir leid, ich kann die gesuchte Liste derzeit nicht finden. Bitte frage mich sp\u00e4ter noch einmal."
+    ],
+    "moviemaster.no.valid.api": [
+      "Der von dir eingegebene A P I-Schl\u00fcssel ist ung\u00fcltig. In der Read Me-Datei findest du Anweisungen zum Beziehen eines Schl\u00fcssels."
+    ],
+    "mycroft-node-red.bad_key": [
+      "Ein Fehler ist beim verbindungsaufbau aufgetreten. Grund: Falscher Schl\u00fcssel"
+    ],
+    "mycroft-node-red.change_key": [
+      "Der Zugangsschl\u00fcssel ist ge\u00e4ndert worden, bitte die flows neu laden"
+    ],
+    "mycroft-node-red.converse_disable": [
+      "node red ist wieder ein Hintergrundprozess"
+    ],
+    "mycroft-node-red.converse_enable": [
+      "node red ist jetzt ein priorisierter skill",
+      "node red wird jetzt vor mycroft gestartet"
+    ],
+    "mycroft-node-red.converse_off": [
+      "node red ist schon ein Hintergrundprozess",
+      "node red is kein priorisierter Prozess"
+    ],
+    "mycroft-node-red.converse_on": [
+      "node red ist schon priorisiert",
+      "node red ist kein Hintergrundprozess"
+    ],
+    "mycroft-node-red.intro": [
+      "Danke f\u00fcr die installation, lese dir bitte die Github Seite durch f\u00fcr weitere Instruktionen"
+    ],
+    "mycroft-node-red.please_reboot": [
+      "Bitte starte mich neu",
+      "Ich brauch einen reboot"
+    ],
+    "mycroft-node-red.why": [
+      "Die Verbindung zu Node Red wird unterbrochen und HiveMind neu geladen",
+      "Erh\u00f6ht deine Sicherheit",
+      "\u00c4nderungen werden nur durch neustart aktiv"
+    ],
+    "mycroft-timer.ask.cancel.running": [
+      "M\u00f6chtest du den aktiven Timer abbrechen?",
+      "M\u00f6chten Sie den laufenden Timer stoppen?"
+    ],
+    "mycroft-timer.ask.cancel.running.plural": [
+      "M\u00f6chtest du die aktiven Timer abbrechen?",
+      "M\u00f6chtest du die laufenden Timer stoppen?"
+    ],
+    "mycroft-timer.ask.how.long": [
+      "Wie lange soll der Timer sein ?"
+    ],
+    "mycroft-timer.ask.which.timer": [
+      "es laufen aktuell {{count}} timer. Nach welchem fragst du?"
+    ],
+    "mycroft-timer.ask.which.timer.cancel": [
+      "es laufen {{count}} timer. welchen w\u00fcrdest du gerne absagen?"
+    ],
+    "mycroft-timer.cancel.all": [
+      "Abgebrochen."
+    ],
+    "mycroft-timer.cancelled.single.timer": [
+      "ich stoppe den {{name}} timer f\u00fcr {{duration}}",
+      "der timer {{name}} wird f\u00fcr {{duration}} gestoppt"
+    ],
+    "mycroft-timer.no.active.timer": [
+      "Es gibt keine laufenden Timer",
+      "Kein Timer wurde eingestellt"
+    ],
+    "mycroft-timer.started.timer": [
+      "Timer f\u00fcr {{duration}} gestartet"
+    ],
+    "mycroft-timer.time.remaining": [
+      "der {{name}} timer hat {{remaining}} verbleibend"
+    ],
+    "national-parks-skill.Ask.Quiz.Question": [
+      "In welchem Bundesland befindet sich {{park}}?",
+      "Wenn ich in {{park}} w\u00e4re, in welchem Bundesland w\u00e4re ich dann?"
+    ],
+    "national-parks-skill.Error.calling.server": [
+      "Beim Kontaktieren des Nationalpark-Dienstes ist ein Fehler aufgetreten, bitte \u00fcberpr\u00fcfe ob dein a.p.i Schl\u00fcssel auf home dot mycroft dot ai korrekt ist"
+    ],
+    "national-parks-skill.No.Parks.Found": [
+      "Ich konnte keine Parks mit dem Namen {{park}} finden"
+    ],
+    "national-parks-skill.No.Parks.Found.State": [
+      "Ich konnte keine Parks in {{location}} finden"
+    ],
+    "national-parks-skill.Park.List": [
+      "hier sind die Nationalparks in {{location}} {{parks}}",
+      "Nationalparks in {{location}} enthalten {{parks}}"
+    ],
+    "national-parks-skill.Park.Location": [
+      "{{park}} befindet sich in {{location}}"
+    ],
+    "national-parks-skill.Quiz.Question.Correct": [
+      "Das ist korrekt.",
+      "Du kennst deine Nationalparks.",
+      "Du hast es."
+    ],
+    "national-parks-skill.Quiz.Question.None": [
+      "Ich kann die zuletzt gestellte Frage nicht finden"
+    ],
+    "national-parks-skill.Quiz.Question.Wrong": [
+      "Nein, {{park}} befindet sich in {{location}}",
+      "Das ist nicht richtig, {{park}} befindet sich in {{location}}"
+    ],
+    "pairing.connection.error": [
+      "Verbindung zu mycroft punkt a.i, fehlgeschlagen, Pairing-Code konnte nicht abgerufen werden. \u00dcberpr\u00fcfen Sie Ihre Internetverbindung und versuchen Sie es erneut."
+    ],
+    "pairing.pairing.code": [
+      "Ich bin mit dem Internet verbunden und muss aktiviert sein. Registrieren Sie mich auf home punkt mycroft punkt A.I with the code. {{code}}"
+    ],
+    "pairing.pairing.intro": [
+      "Ich bin mit dem Internet verbunden und muss aktiviert werden. \u00d6ffnen Sie Ihren Browser und besuchen Sie Home Punkt Mycroft punkt A I, um dieses Ger\u00e4t zu registrieren."
+    ],
+    "pairing.pairing.not.paired": [
+      "Ihr Ger\u00e4t ist derzeit nicht registriert",
+      "Ihr Ger\u00e4t ist derzeit nicht gepaart"
+    ],
+    "pairing.pairing.paired": [
+      "Jetzt bin ich bereit f\u00fcr den Einsatz. versuche mich dinge zu fragen wie \"hey mycroft, wie ist das Wetter\", \"hey mycroft, erz\u00e4hl mir von abraham lincoln\", or \"hey mycroft, Spiele die Nachrichten\". Wenn ich aufh\u00f6ren soll zu renden sage mir das oder dr\u00fccke den Knopf."
+    ],
+    "pairing.unexpected.error.restarting": [
+      "Ich entschuldige mich, etwas Unerwartetes ist passiert. Ich muss den Pairing-Prozess neu starten."
+    ],
+    "parrot.did.hear": [
+      "ja."
+    ],
+    "parrot.did.not.hear": [
+      "Nein, ich glaube nicht, dass ich dich geh\u00f6rt habe",
+      "Nein, ich habe dich nicht geh\u00f6rt."
+    ],
+    "parrot.nothing": [
+      "nichts"
+    ],
+    "parrot.please.repeat": [
+      "Kannst du das wiederholen?",
+      "Was hast du gesagt?"
+    ],
+    "parrot.repeat.stt": [
+      "Du hast einfach nur gesagt, {{stt}}.",
+      "Du sagtest, {{stt}}."
+    ],
+    "parrot.repeat.stt.old": [
+      "Das letzte was du gesagt hast war {{stt}}.",
+      "Vor einer Weile hast du gesagt: {{stt}}."
+    ],
+    "parrot.repeat.tts": [
+      "ich sagte nur, {tts}",
+      "ich sagte, {tts}"
+    ],
+    "personal.what.am.i": [
+      "Ich bin eine Open-Source k\u00fcnstliche Intelligenz.",
+      "Ich bin ein intelligente Maschine zur Kommunikation.",
+      "Ich bin dein pers\u00f6nlicher Assistent und immer f\u00fcr dich da."
+    ],
+    "personal.when.was.i.born": [
+      "ich wurde 2015 geboren.",
+      "2015 wurde ich geboren.",
+      "mich gibt es seit 2015."
+    ],
+    "personal.where.was.i.born": [
+      "im Lawrence Center f\u00fcr Entrepreneurship.",
+      "Ich wurde in Lawrence in Kansas geboren."
+    ],
+    "personal.who.am.i": [
+      "Mein Name ist {{name}} und ich bin ein intelligenter, pers\u00f6nlicher Assistent",
+      "ich bin {{name}}, eine Open-source Intelligenz."
+    ],
+    "personal.who.made.me": [
+      "Die wunderbare Mycroft KI Gemeinde und ihr Team.",
+      "Jeder aus der Mycroft KI Gemeinde und ihr Team."
+    ],
+    "picroft-google-aiy-voicekit-skill.error.initialize": [
+      "Ich habe Probleme mit dem Initialisieren des Google AIY Stimmenkit Skill. Der Skill wird nicht geladen."
+    ],
+    "plasma-activities-skill.activities.create": [
+      "Deine Aktivit\u00e4t {{ ActivityName }} wurde erstellt"
+    ],
+    "plasma-activities-skill.activities.remove": [
+      "Aktivit\u00e4t wurde entfernt"
+    ],
+    "plasma-activities-skill.activities.show": [
+      "Aktivit\u00e4ten anzeigen"
+    ],
+    "plasma-activities-skill.activities.stop": [
+      "{{ StopActivityName }}-Aktivit\u00e4t wurde gestoppt"
+    ],
+    "plasma-activities-skill.activities.switch": [
+      "Wechsle zur Aktivit\u00e4t {{ SwitchActivityName }}"
+    ],
+    "pokemon-skill.ability.effect.entry": [
+      "{ability}: {info}"
+    ],
+    "pokemon-skill.ability.flavor.text": [
+      "{ability}: {info}"
+    ],
+    "pokemon-skill.ability.generation.introduced": [
+      "{ability} wurde in der Generation {generation} hinzugef\u00fcgt"
+    ],
+    "pokemon-skill.ability.not.in.version": [
+      "{version} hat keine {ability}"
+    ],
+    "pokemon-skill.and": [
+      "und"
+    ],
+    "pokemon-skill.base.stat.is": [
+      "der Basis {stat}wert von {pokemon} ist {value}"
+    ],
+    "pokemon-skill.cannot.answer.about.ability": [
+      "Das wei\u00df ich leider nicht \u00fcber diese F\u00e4higkeit"
+    ],
+    "pokemon-skill.cannot.answer.about.pokemon": [
+      "Das wei\u00df ich leider nicht \u00fcber dieses Pokemon"
+    ],
+    "pokemon-skill.connection.error": [
+      "Keine Internetverbindung",
+      "Es ist ein Verbindungsfehler aufgetreten"
+    ],
+    "pokemon-skill.debug.speech": [
+      "Debuggen! Erreicht!"
+    ],
+    "pokemon-skill.evolve.details.at.level": [
+      "auf Level {level}"
+    ],
+    "pokemon-skill.evolve.details.holding.item": [
+      "w\u00e4hrend es {item} h\u00e4lt"
+    ],
+    "pokemon-skill.evolve.details.if.gender.female": [
+      "wenn weiblich",
+      "wenn weiblich ist",
+      "wenn es weiblich",
+      "wenn es weiblich ist"
+    ],
+    "pokemon-skill.evolve.details.if.gender.male": [
+      "wenn m\u00e4nnlich",
+      "wenn m\u00e4nnlich ist",
+      "wenn es m\u00e4nnlich",
+      "wenn es m\u00e4nnlich ist"
+    ],
+    "pokemon-skill.evolve.details.knowing.move": [
+      "wenn es {move} kennt"
+    ],
+    "pokemon-skill.evolve.details.knowing.move.type": [
+      "wenn ein Zug vom Typ {type} bekannt ist"
+    ],
+    "pokemon-skill.evolve.details.location": [
+      "in {location}"
+    ],
+    "pokemon-skill.evolve.details.stats.attack.equals.defense": [
+      "Wenn der Angriffsstatus dem Verteidigungsstatus entspricht"
+    ],
+    "pokemon-skill.evolve.details.stats.attack.greater.than.defense": [
+      "wenn der Angriffswert h\u00f6her als der Verteidigungswert ist"
+    ],
+    "pokemon-skill.evolve.details.stats.attack.less.than.defense": [
+      "wenn der Angriffswert geringer ist als der Verteidigungswert"
+    ],
+    "pokemon-skill.evolve.details.time.of.day": [
+      "bei {time}"
+    ],
+    "pokemon-skill.evolve.details.trade.species": [
+      "f\u00fcr {species}"
+    ],
+    "pokemon-skill.evolve.details.trigger": [
+      "bei {name}"
+    ],
+    "pokemon-skill.evolve.details.turn.upside.down": [
+      "mit dem System auf den Kopf gestellt"
+    ],
+    "pokemon-skill.evolve.details.with.affection": [
+      "mit einem Zuneigungwert von {affection}"
+    ],
+    "pokemon-skill.evolve.details.with.beauty": [
+      "mit einem Sch\u00f6nheitswert {beauty}"
+    ],
+    "pokemon-skill.evolve.details.with.happiness": [
+      "mit einem Freundschaftswert von {happiness}"
+    ],
+    "pokemon-skill.evolve.details.with.pokemon.party": [
+      "mit {pokemon} im Team"
+    ],
+    "pokemon-skill.evolve.details.with.pokemon.party.type": [
+      "mit einem {type} Pokemon im Team"
+    ],
+    "pokemon-skill.evolve.details.with.rain": [
+      "w\u00e4hrend es regnet"
+    ],
+    "pokemon-skill.foot": [
+      "Fu\u00df"
+    ],
+    "pokemon-skill.inches": [
+      "Zoll"
+    ],
+    "pokemon-skill.kilograms": [
+      "Kilogramm"
+    ],
+    "pokemon-skill.meters": [
+      "Meter"
+    ],
+    "pokemon-skill.no.type.specified": [
+      "du musst einen Typ angeben",
+      "Welcher Typ?"
+    ],
+    "pokemon-skill.or": [
+      "oder"
+    ],
+    "pokemon-skill.pokemon.abilities.hidden": [
+      "{pokemon} hat versteckte F\u00e4higkeit {hidden_abilities}"
+    ],
+    "pokemon-skill.pokemon.abilities.hidden.non-hidden": [
+      "{pokemon} hat die F\u00e4higkeit {abilities}. und versteckte F\u00e4higkeit {hidden_abilities}"
+    ],
+    "pokemon-skill.pokemon.abilities.non-hidden": [
+      "{pokemon} hat die F\u00e4higkeit {abilities}"
+    ],
+    "pokemon-skill.pokemon.abilities.none": [
+      "{pokemon} hat keine F\u00e4higkeiten"
+    ],
+    "pokemon-skill.pokemon.capture.rate": [
+      "{pokemon}s Fangrate betr\u00e4gt {rate}"
+    ],
+    "pokemon-skill.pokemon.color.is": [
+      "{pokemon} ist {color}"
+    ],
+    "pokemon-skill.pokemon.does.not.evolve": [
+      "{pokemon} entwickelt sich nicht weiter"
+    ],
+    "pokemon-skill.pokemon.egg.groups.are": [
+      "Die Eigruppe von {pokemon} ist {groups}"
+    ],
+    "pokemon-skill.pokemon.evolves.from": [
+      "{pokemon} entwickelt sich aus {from} {how}"
+    ],
+    "pokemon-skill.pokemon.evolves.into": [
+      "{pokemon} entwickelt sich zu {evolve}"
+    ],
+    "pokemon-skill.pokemon.final.evolution": [
+      "Die letzte Entwicklung von {pokemon} ist {final}"
+    ],
+    "pokemon-skill.pokemon.first.evolution.is": [
+      "Die erste Entwicklung von {pokemon} ist {first}"
+    ],
+    "pokemon-skill.pokemon.has.no.evolutions": [
+      "{pokemon} hat keine Entwicklungen"
+    ],
+    "pokemon-skill.pokemon.has.no.forms": [
+      "{pokemon} entspricht keiner Form"
+    ],
+    "pokemon-skill.pokemon.has.no.previous.evolution": [
+      "{pokemon} hat keine vorherige Entwicklung"
+    ],
+    "pokemon-skill.pokemon.height": [
+      "{pokemon} ist {height}"
+    ],
+    "pokemon-skill.pokemon.id.is": [
+      "Die I D von {pokemon} ist {id}",
+      "{pokemon} ist nummer {id}"
+    ],
+    "pokemon-skill.pokemon.is.in.final.evolution": [
+      "{pokemon} befindet sich in seiner letzten Entwicklung",
+      "{pokemon} kann sich nicht weiterentwickeln"
+    ],
+    "pokemon-skill.pokemon.is.in.first.evolution": [
+      "{pokemon} befindet sich in seiner ersten Entwicklung",
+      "{pokemon} befindet sich in seiner einfachsten Entwicklung"
+    ],
+    "pokemon-skill.pokemon.is.in.form": [
+      "{pokemon} ist in {form}"
+    ],
+    "pokemon-skill.pokemon.lives.in": [
+      "{pokemon} lebt im {habitat}",
+      "{pokemon} leben im {habitat}",
+      "Das Zuhause von {pokemon} ist der {habitat}"
+    ],
+    "pokemon-skill.pokemon.shape.is": [
+      "Die Form von {pokemon} ist {shape}"
+    ],
+    "pokemon-skill.pokemon.type.one": [
+      "Der Typ von {pokemon} ist {type1}"
+    ],
+    "pokemon-skill.pokemon.type.two": [
+      "Die Typen von {pokemon} sind {type1} und {type2}"
+    ],
+    "pokemon-skill.pokemon.version.introduced": [
+      "{pokemon} wurde in {versions} in generation {generation} eingef\u00fchrt"
+    ],
+    "pokemon-skill.pokemon.weighs": [
+      "{pokemon} wiegt {weight}"
+    ],
+    "pokemon-skill.pounds": [
+      "Pfund"
+    ],
+    "pokemon-skill.type.is.half": [
+      "{type} ist nicht sehr effektiv gegen {pokemon}"
+    ],
+    "pokemon-skill.type.is.none": [
+      "{type} hat keine Wirkung auf {pokemon}"
+    ],
+    "pokemon-skill.type.is.normal": [
+      "{type} f\u00fcgt {pokemon} normalen Schaden zu"
+    ],
+    "pokemon-skill.type.is.super": [
+      "{type} ist sehr effektiv gegen {pokemon}"
+    ],
+    "pokemon-skill.unable.to.find.pokemon": [
+      "Ich konnte kein Pokemon f\u00fcr diesen Satz finden",
+      "Ich konnte das Pok\u00e9mon nicht finden",
+      "Dieses Pokemon konnte nicht gefunden werden"
+    ],
+    "query.noAnswer": [
+      "Entschuldigung, ich wei\u00df die Antwort darauf nicht",
+      "Ich habe die Antwort darauf nicht",
+      "Ich wei\u00df nicht",
+      "Keine Ahnung"
+    ],
+    "remember-skill.delete": [
+      "Soll ich die Phrase {{PHRASE}} l\u00f6schen?"
+    ],
+    "remember-skill.deleteall": [
+      "Soll ich alles vergessen was ich mir f\u00fcr dich gemerkt habe?"
+    ],
+    "remember-skill.forgotten": [
+      "Es ist vergessen."
+    ],
+    "remember-skill.gotphrase": [
+      "Ich werde mir \"{{REMEMBER}}\" f\u00fcr dich merken."
+    ],
+    "remember-skill.holdon": [
+      "Ich werde an dieser Phrase festhalten."
+    ],
+    "remember-skill.iremembered": [
+      "Ich erinnere mich an: {{REMEMBER}}."
+    ],
+    "remember-skill.short": [
+      "Ich kann mir nur S\u00e4tze oder W\u00f6rter merken, die l\u00e4nger als 4 Zeichen sind. Bitte formuliere das um."
+    ],
+    "remember-skill.sorry": [
+      "Entschuldige bitte, ich kann mich an keine Phrase erinnern!"
+    ],
+    "remember-skill.sorryforget": [
+      "Entschuldige bitte, es gab einen Fehler, ich konnte nichts vergessen!"
+    ],
+    "remember-skill.sorrynophrase": [
+      "Entschuldige bitte, ich konnte keine Phrase finden, die zu deiner Anfrage passt."
+    ],
+    "singing.singing": [
+      "Ich w\u00fcrde mich freuen, f\u00fcr dich zu singen.",
+      "Ich bin ein bisschen nerv\u00f6s wegen meine Stimme, aber hier z\u00e4hlt das nicht."
+    ],
+    "singing.singing.stop": [
+      "Danke f\u00fcrs zuh\u00f6ren",
+      "Ich hoffe dir hat meine Stimme gefallen",
+      "nun versuche dich"
+    ],
+    "sip.neon.call_ended": [
+      "Anruf beendet, {{reason}}"
+    ],
+    "sip.neon.call_finished": [
+      "Anruf beendet",
+      "Anruf abgeschlossen"
+    ],
+    "sip.neon.call_rejected": [
+      "Abgelehnter Anruf",
+      "Anruf abgelehnt"
+    ],
+    "sip.neon.calling": [
+      "Aufruf von {{contact}}",
+      "Anruf bei {{contact}}",
+      "Telefoniere mit {{contact}}"
+    ],
+    "sip.neon.contact_added": [
+      "Neuer Kontakt {{contact}} hinzugef\u00fcgt"
+    ],
+    "sip.neon.contact_deleted": [
+      "Kontakt {{contact}} gel\u00f6scht"
+    ],
+    "sip.neon.contact_updated": [
+      "Kontakt {{contact}} aktualisiert"
+    ],
+    "sip.neon.converse_disable": [
+      "{skill_name} wurde auf Fallback-Skill zur\u00fcckgesetzt"
+    ],
+    "sip.neon.converse_enable": [
+      "Sie haben {skill_name} zu einer vorrangigen F\u00e4higkeit gemacht",
+      "{skill_name} wird jetzt zuerst ausgel\u00f6st"
+    ],
+    "sip.neon.converse_off": [
+      "node red ist bereits eine Fallback-F\u00e4higkeit",
+      "node red ist keine vorrangige F\u00e4higkeit"
+    ],
+    "sip.neon.converse_on": [
+      "{skill_name} ist bereits eine vorrangige F\u00e4higkeit",
+      "{skill_name} ist keine Fallback-F\u00e4higkeit"
+    ],
+    "sip.neon.credentials_missing": [
+      "Anmeldeinformationen sind nicht festgelegt"
+    ],
+    "sip.neon.delete_confirm": [
+      "M\u00f6chtst du {{contact}} wirklich l\u00f6schen?"
+    ],
+    "sip.neon.incoming_call": [
+      "{{contact}} ruft an",
+      "Eingehender Anruf von {{contact}}"
+    ],
+    "sip.neon.incoming_call_unk": [
+      "Ich kenne den Anrufer nicht",
+      "Der Anrufer ist nicht in meinen Kontakten",
+      "Der Anrufer ist unbekannt"
+    ],
+    "sip.neon.intro": [
+      "Vielen Dank, dass du die F\u00e4higkeit {Skill_name} installiert hast"
+    ],
+    "sip.neon.no_such_contact": [
+      "Ich habe keinen Kontakt mit dem Namen {{contact}}",
+      "Ich kenne kein {{contact}}",
+      "Ich kenne niemanden mit Namen {{contact}}",
+      "Ich kenne niemanden mit dem Namen {{contact}}"
+    ],
+    "sip.neon.sip_login": [
+      "Versuche, mich unter {{gateway}} beim SIP-Server anzumelden"
+    ],
+    "sip.neon.sip_login_fail": [
+      "SIP-Anmeldung fehlgeschlagen. \u00dcberpr\u00fcfen Sie Ihre Anmeldeinformationen"
+    ],
+    "sip.neon.sip_login_success": [
+      "Ich bin mit einem SIP-Server verbunden",
+      "Wenn die Verbindung erfolgreich ist, k\u00f6nnen Sie jetzt VoIP-Anrufe empfangen und t\u00e4tigen"
+    ],
+    "sip.neon.sip_restart": [
+      "SIP-Dienst neu starten"
+    ],
+    "sip.neon.sip_running": [
+      "Der SIP-Dienst wird bereits ausgef\u00fchrt"
+    ],
+    "sip.neon.update_confirm": [
+      "Bist du sicher, dass du die Adresse von {{contact}} ersetzen m\u00f6chtest?"
+    ],
+    "sip.neon.want_restart": [
+      "Soll ich den SIP-Dienst neu starten?",
+      "M\u00f6chtest du den SIP-Dienst neu starten?"
+    ],
+    "speedtest-skill.error": [
+      "Es ist ein Fehler aufgetreten, ich konnte keinen Geschwindigkeitstest durchf\u00fchren ... entschuldigung."
+    ],
+    "speedtest-skill.result": [
+      "Deine Downloadgeschwindigkeit betr\u00e4gt {{DOWN}} Megabit pro Sekunde und deine Uploadgeschwindigkeit betr\u00e4gt {{UP}} Megabit pro Sekunde."
+    ],
+    "speedtest-skill.running": [
+      "Ich starte jetzt den Geschwindigkeitstest und melde mich in K\u00fcrze mit den Ergebnissen."
+    ],
+    "spotify-skill.And": [
+      "und"
+    ],
+    "spotify-skill.AvailableDevices": [
+      "Ich sehe die Spot-ify-Ger\u00e4te mit dem Namen: {{devices}}",
+      "Ich habe die Spot-ify-Ger\u00e4te wie: {{devices}} gefunden"
+    ],
+    "spotify-skill.ListeningToAlbumBy": [
+      "du h\u00f6rst {{album}} von {{artist}}.",
+      "es L\u00e4uft gerade {{album}} von {{artist}}."
+    ],
+    "spotify-skill.ListeningToArtist": [
+      "du h\u00f6rst {{artist}}",
+      "du h\u00f6rst jetzt {{artist}}"
+    ],
+    "spotify-skill.ListeningToGenre": [
+      "Okay, lasst uns {{genre}} h\u00f6ren. Starte mit {{track}} von {{artist}}",
+      "Lass uns {{genre}} h\u00f6ren. Starte mit {{track}} von {{artist}}",
+      "Lass uns {{genre}} musik h\u00f6ren. das ist jetzt {{track}} von {{artist}}",
+      "Spiele {{genre}} musiK. Starte mit {{track}} von {{artist}}"
+    ],
+    "spotify-skill.ListeningToPlaylist": [
+      "Spiele die Playliste {{playlist}}",
+      "Spiele Jetzt die Wiedergabeliste {{playlist}}",
+      "Okay, lass uns deine Playliste {{playlist}} h\u00f6ren",
+      "Ich habs. Als n\u00e4chstes, spiele ich deine Playliste {{playlist}}"
+    ],
+    "spotify-skill.ListeningToSongBy": [
+      "Spiele das Lied {{tracks}} von {{artist}}.",
+      "Spiele jetzt das Lied {{tracks}} von {{artist}}."
+    ],
+    "spotify-skill.NoArtistResults": [
+      "Hmm, ich kann diesen K\u00fcnstler nicht finden.",
+      "Entschuldigung, ich kann diesen K\u00fcnstler nicht finden.",
+      "Ich kann diesen K\u00fcnstler nicht finden.",
+      "Ich habe f\u00fcr diesen K\u00fcnstler keine Ergebnisse bekommen.",
+      "Entschuldigung, ich habe f\u00fcr diesen K\u00fcnstler keine Ergebnisse erhalten.",
+      "Oh, oh, ich habe den gesuchten K\u00fcnstler nicht gefunden."
+    ],
+    "spotify-skill.NoDefaultDeviceAvailable": [
+      "Ich konnte kein Standard-Spot-ify-Ger\u00e4t finden. Stelle bitte sicher, dass Spot-ify ausgef\u00fchrt wird oder dass das Skill f\u00fcr die Verwendung der Standardbibliotheken konfiguriert wurde",
+      "Es ist kein Standard-Spot-ify-Ger\u00e4t verf\u00fcgbar. Stelle bitte sicher, dass Spot-ify ausgef\u00fchrt wird oder dass das Skill f\u00fcr die Verwendung der Standardbibliotheken konfiguriert wurde"
+    ],
+    "spotify-skill.NoDevicesAvailable": [
+      "Ich konnte keine Spot-ify-Ger\u00e4te finden. Dieses Skill ben\u00f6tigt ein Spot-ify Premium-Konto, um ordnungsgem\u00e4\u00df zu funktionieren",
+      "Es sind keine Spot-ify-Ger\u00e4te verf\u00fcgbar. Stellen Sie sicher, dass Sie ein Spot-ify Premium-Konto haben."
+    ],
+    "spotify-skill.NoResults": [
+      "Hmm, ich kann das nicht finden.",
+      "Entschuldigung, ich kann das nicht finden.",
+      "Ich kann das nicht finden.",
+      "Ich habe daf\u00fcr keine Ergebnisse bekommen.",
+      "Entschuldigung, ich habe keine Ergebnisse daf\u00fcr bekommen.",
+      "Oh, oh, ich habe nicht gefunden, wonach du gesucht hast."
+    ],
+    "spotify-skill.NotAuthorized": [
+      "Ich bin nicht mit einem Spot-ify-Konto verbunden, gehe zu home punkt mycroft punkt ai, um den Skill zu autorisieren.",
+      "Dieses Ger\u00e4t ist nicht mit einem Spot-ify-Konto verkn\u00fcpft, gehe zu home punkt mycroft punkt ai, um mich zu autorisieren.",
+      "Bitte autorisiere das Spot-ify-Skill auf Home-Punkt mycroft punkt ai, um auf dein Konto zuzugreifen"
+    ],
+    "spotify-skill.playlist_regex": [
+      "^ ( play ) ( ?! ( composition ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( composition ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( track ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( track ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( piece ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( piece ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( song ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( song ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my composition ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my composition ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my track ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my track ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my piece ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my piece ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my song ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( my song ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the composition ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the composition ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the track ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the track ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the piece ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the piece ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the song ) ) ( ?P<playlist>[\\w\\s]+? ) $",
+      "^ ( play ) ( ?! ( the song ) ) ( .*playlist ) ( ?P<playlist>[\\w\\s]+? ) $"
+    ],
+    "spotify-skill.something_regex": [
+      "^play a ? track ( by ( [\\w\\s]+? ) ) ?$",
+      "^play a ? music ( by ( [\\w\\s]+? ) ) ?$",
+      "^play a ? something ( by ( [\\w\\s]+? ) ) ?$",
+      "^play some ? track ( by ( [\\w\\s]+? ) ) ?$",
+      "^play some ? music ( by ( [\\w\\s]+? ) ) ?$",
+      "^play some ? something ( by ( [\\w\\s]+? ) ) ?$"
+    ],
+    "support-helper.neon.ask.description": [
+      "Bitte beschreibe mir kurz das Problem, das du hast.",
+      "Wie ist die kurze Beschreibung des Problems?"
+    ],
+    "support-helper.neon.cancelled": [
+      "In Ordung",
+      "alles klar"
+    ],
+    "support-helper.neon.complete": [
+      "Ich habe eine E-Mail mit Debugging-Informationen und Anweisungen zur Kontaktaufnahme mit dem Support an dein registriertes Konto gesendet."
+    ],
+    "support-helper.neon.confirm.support": [
+      "M\u00f6chtest du ein Problembehandlungspaket erstellen? Dadurch werden Protokolle auf den Termbin punkt com-Dienst hochgeladen und per E-Mail einen Link mit weiteren Informationen an dich gesendet."
+    ],
+    "support-helper.neon.one.moment": [
+      "Einen Moment.",
+      "bitte kurz warten"
+    ],
+    "support-helper.neon.support": [
+      "support"
+    ],
+    "support-helper.neon.support.title": [
+      "Mycroft Problembehandlungsassistent"
+    ],
+    "support.ask.description": [
+      "Bitte beschreibe mir kurz das Problem, das du hast.",
+      "Wie ist die kurze Beschreibung des Problems?"
+    ],
+    "support.cancelled": [
+      "In Ordung",
+      "alles klar"
+    ],
+    "support.complete": [
+      "Ich habe eine E-Mail mit Debugging-Informationen und Anweisungen zur Kontaktaufnahme mit dem Support an dein registriertes Konto gesendet."
+    ],
+    "support.confirm.support": [
+      "M\u00f6chtest du ein Problembehandlungspaket erstellen? Dadurch werden Protokolle auf den Termbin punkt com-Dienst hochgeladen und per E-Mail einen Link mit weiteren Informationen an dich gesendet."
+    ],
+    "support.one.moment": [
+      "Einen Moment.",
+      "bitte kurz warten"
+    ],
+    "support.support": [
+      "support"
+    ],
+    "support.support.title": [
+      "Mycroft Problembehandlungsassistent"
+    ],
+    "theia-ide-skill.downloading": [
+      "Lade ein vorkompiliertes Paket f\u00fcr die {platform} Plattform herunter. Dies kann, abh\u00e4ngig von der Geschwindigkeit der Internetverbindung, eine Weile dauern."
+    ],
+    "theia-ide-skill.ide_already_running": [
+      "Theia IDE l\u00e4uft bereits. Zum Zugriff den Webbrowser \u00f6ffnen und {url} aufrufen."
+    ],
+    "theia-ide-skill.ide_is_not_running": [
+      "Theia IDE l\u00e4uft nicht."
+    ],
+    "theia-ide-skill.ide_restarted": [
+      "Theia IDE startet. Zum Zugriff den Webbrowser \u00f6ffnen und {url} aufrufen."
+    ],
+    "theia-ide-skill.ide_started": [
+      "Theia IDE ist bereit. Zum Zugriff den Webbrowser \u00f6ffnen und {url} aufrufen."
+    ],
+    "theia-ide-skill.ide_stopped": [
+      "Theia IDE ist gestoppt."
+    ],
+    "theia-ide-skill.install_start": [
+      "Installiere Theia IDE."
+    ],
+    "theia-ide-skill.installed_BAD": [
+      "Theia IDE wurde nicht installiert. W\u00e4hrend der Installation traten Fehler auf."
+    ],
+    "theia-ide-skill.installed_OK": [
+      "Theia IDE fertig installiert."
+    ],
+    "theia-ide-skill.platform_not_supported": [
+      "Diese Plattform ist nicht unterst\u00fctzt."
+    ],
+    "version-checker.platform.build": [
+      "Meine Plattform version ist {{build}}."
+    ],
+    "version-checker.platform.build.none": [
+      "Ich laufe auf einem Ger\u00e4t, das keine offizielle Versions-Nummer hat."
+    ],
+    "version-checker.version": [
+      "Ich binn bei Mycroft-Core-Version {{version}}."
+    ],
+    "voip.call_ended": [
+      "Anruf beendet, {{reason}}"
+    ],
+    "voip.call_finished": [
+      "Anruf beendet",
+      "Anruf abgeschlossen"
+    ],
+    "voip.call_rejected": [
+      "Abgelehnter Anruf",
+      "Anruf abgelehnt"
+    ],
+    "voip.calling": [
+      "Aufruf von {{contact}}",
+      "Anruf bei {{contact}}",
+      "Telefoniere mit {{contact}}"
+    ],
+    "voip.contact_added": [
+      "Neuer Kontakt {{contact}} hinzugef\u00fcgt"
+    ],
+    "voip.contact_deleted": [
+      "Kontakt {{contact}} gel\u00f6scht"
+    ],
+    "voip.contact_updated": [
+      "Kontakt {{contact}} aktualisiert"
+    ],
+    "voip.converse_disable": [
+      "{skill_name} wurde auf Fallback-Skill zur\u00fcckgesetzt"
+    ],
+    "voip.converse_enable": [
+      "Sie haben {skill_name} zu einer vorrangigen F\u00e4higkeit gemacht",
+      "{skill_name} wird jetzt zuerst ausgel\u00f6st"
+    ],
+    "voip.converse_off": [
+      "node red ist bereits eine Fallback-F\u00e4higkeit",
+      "node red ist keine vorrangige F\u00e4higkeit"
+    ],
+    "voip.converse_on": [
+      "{skill_name} ist bereits eine vorrangige F\u00e4higkeit",
+      "{skill_name} ist keine Fallback-F\u00e4higkeit"
+    ],
+    "voip.credentials_missing": [
+      "Anmeldeinformationen sind nicht festgelegt"
+    ],
+    "voip.delete_confirm": [
+      "M\u00f6chtst du {{contact}} wirklich l\u00f6schen?"
+    ],
+    "voip.incoming_call": [
+      "{{contact}} ruft an",
+      "Eingehender Anruf von {{contact}}"
+    ],
+    "voip.incoming_call_unk": [
+      "Ich kenne den Anrufer nicht",
+      "Der Anrufer ist nicht in meinen Kontakten",
+      "Der Anrufer ist unbekannt"
+    ],
+    "voip.intro": [
+      "Vielen Dank, dass du die F\u00e4higkeit {Skill_name} installiert hast"
+    ],
+    "voip.no_such_contact": [
+      "Ich habe keinen Kontakt mit dem Namen {{contact}}",
+      "Ich kenne kein {{contact}}",
+      "Ich kenne niemanden mit Namen {{contact}}",
+      "Ich kenne niemanden mit dem Namen {{contact}}"
+    ],
+    "voip.sip_login": [
+      "Versuche, mich unter {{gateway}} beim SIP-Server anzumelden"
+    ],
+    "voip.sip_login_fail": [
+      "SIP-Anmeldung fehlgeschlagen. \u00dcberpr\u00fcfen Sie Ihre Anmeldeinformationen"
+    ],
+    "voip.sip_login_success": [
+      "Ich bin mit einem SIP-Server verbunden",
+      "Wenn die Verbindung erfolgreich ist, k\u00f6nnen Sie jetzt VoIP-Anrufe empfangen und t\u00e4tigen"
+    ],
+    "voip.sip_restart": [
+      "SIP-Dienst neu starten"
+    ],
+    "voip.sip_running": [
+      "Der SIP-Dienst wird bereits ausgef\u00fchrt"
+    ],
+    "voip.update_confirm": [
+      "Bist du sicher, dass du die Adresse von {{contact}} ersetzen m\u00f6chtest?"
+    ],
+    "voip.want_restart": [
+      "Soll ich den SIP-Dienst neu starten?",
+      "M\u00f6chtest du den SIP-Dienst neu starten?"
+    ],
+    "volume.already.max.volume": [
+      "Die Lautst\u00e4rke ist auf maximum",
+      "volle Lautst\u00e4rke erreicht",
+      "maximale Lautst\u00e4rke erreicht"
+    ],
+    "volume.decrease.volume": [
+      "Lautst\u00e4rke reduziert auf {{volume}}",
+      "Lautst\u00e4rke auf {{volume}} eingestellt",
+      "Lautst\u00e4rke ist jetzt auf {{volume}} eingestellt"
+    ],
+    "volume.increase.volume": [
+      "Lautst\u00e4rke ist nun bei {{volume}}",
+      "Lautst\u00e4rke erh\u00f6ht auf {{volume}}"
+    ],
+    "volume.mute.volume": [
+      "Audio wurde ged\u00e4mpft",
+      "Sound wurde ged\u00e4mpft"
+    ],
+    "volume.neon.already.max.volume": [
+      "Die Lautst\u00e4rke ist auf maximum",
+      "volle Lautst\u00e4rke erreicht",
+      "maximale Lautst\u00e4rke erreicht"
+    ],
+    "volume.neon.decrease.volume": [
+      "Lautst\u00e4rke reduziert auf {{volume}}",
+      "Lautst\u00e4rke auf {{volume}} eingestellt",
+      "Lautst\u00e4rke ist jetzt auf {{volume}} eingestellt"
+    ],
+    "volume.neon.increase.volume": [
+      "Lautst\u00e4rke ist nun bei {{volume}}",
+      "Lautst\u00e4rke erh\u00f6ht auf {{volume}}"
+    ],
+    "volume.neon.mute.volume": [
+      "Audio wurde ged\u00e4mpft",
+      "Sound wurde ged\u00e4mpft"
+    ],
+    "volume.neon.reset.volume": [
+      "Lautst\u00e4rke zur\u00fcckgesetzt {{volume}}",
+      "Audio wieder aktiviert {{volume}}"
+    ],
+    "volume.neon.set.volume": [
+      "Lautst\u00e4rke bei {{volume}}",
+      "Lautst\u00e4rke aktualiesiert auf {{volume}}",
+      "lautst\u00e4rke ge\u00e4ndert auf {{volume}}"
+    ],
+    "volume.neon.volume.is": [
+      "Die Lautst\u00e4rke ist bei {{volume}}",
+      "Die Lautst\u00e4rke wurde auf {{volume}} eingestellt"
+    ],
+    "volume.reset.volume": [
+      "Lautst\u00e4rke zur\u00fcckgesetzt {{volume}}",
+      "Audio wieder aktiviert {{volume}}"
+    ],
+    "volume.set.volume": [
+      "Lautst\u00e4rke bei {{volume}}",
+      "Lautst\u00e4rke aktualiesiert auf {{volume}}",
+      "lautst\u00e4rke ge\u00e4ndert auf {{volume}}"
+    ],
+    "volume.volume.is": [
+      "Die Lautst\u00e4rke ist bei {{volume}}",
+      "Die Lautst\u00e4rke wurde auf {{volume}} eingestellt"
+    ],
+    "weather.E": [
+      "osten"
+    ],
+    "weather.N": [
+      "norden"
+    ],
+    "weather.NE": [
+      "nord osten"
+    ],
+    "weather.NW": [
+      "nordwest"
+    ],
+    "weather.S": [
+      "S\u00fcden"
+    ],
+    "weather.SE": [
+      "S\u00fcdosten"
+    ],
+    "weather.SW": [
+      "S\u00fcdwest"
+    ],
+    "weather.W": [
+      "West"
+    ],
+    "weather.current.local.weather": [
+      "Es ist Aktuell {{condition}} und {{temp}} grad {{scale}}. Heute werden maximal {{temp_max}} und minimal {{temp_min}} grad erwartet.",
+      "Es ist Aktuell {{condition}} und {{temp}} grad. die Tempertur heute wird zwischen {{temp_max}} und {{temp_min}} erwartet.",
+      "gerade ist {{condition}} und {{temp}} grad, es soll heute maximal {{temp_max}} und minimal {{temp_min}} geben.",
+      "mit temperaturen zwischen {{temp_max}} und {{temp_min}}ist zu rechnen, dazu hat {{location}} {{condition}} bei aktuell {{temp}} grad."
+    ],
+    "weather.current.weather": [
+      "Es ist derzeit {{condition}} und {{temp_current}} Grad {{scale}} in {{location}}. Heute gibt es Temperaturen zwischen {{temp_max}} und {{temp_min}} in {{location}}.",
+      "Gerade jetzt ist es {{condition}} bei {{temp_current}} Grad, es gibt Temperaturen zwischen {{temp_max}} und {{temp_min}} in {{location}}.",
+      "Heute gitb es temperaturen zwischen {{temp_max}} und {{temp_min}},in {{location}} ist es aktuell {{condition}} bei {{temp_current}} Grad."
+    ],
+    "weather.do not know": [
+      "Ich bef\u00fcrchte, dass ich das nicht wei\u00df",
+      "diese Informationen habe ich leider nicht"
+    ],
+    "weather.forecast.local.weather": [
+      "{{day}} wird es {{condition}}, mit temperaturen von {{temp_min}} bis {{temp_max}}",
+      "{{day}} wird maximal {{temp_max}} und minimal {{temp_min}} bei {{condition}} erwartet",
+      "{{day}}'s vorhersage ergibt Temperaturen zwischen {{temp_min}} und {{temp_max}} grad."
+    ],
+    "weather.forecast.weather": [
+      "{{day}} wird es {{condition}}, mit einer Temperatur zwischen {{temp_min}} und {{temp_max}} grad",
+      "{{day}}, {{location}} wird bei temperaturen zwischen {{temp_min}} und {{temp_max}}. das Wetter wird {{condition}}",
+      "die vorhersage f\u00fcr {{day}} ist {{temp_min}} minimal und {{temp_min}} maximal erwartet. das Wetter wird {{condition}}"
+    ],
+    "weather.heavy": [
+      "dr\u00fcckend"
+    ],
+    "weather.hour.local.weather": [
+      "es wird {{condition}}, mit temperaturen um {{temp_max}} grad",
+      "Sp\u00e4ter wird es {{condition}} um die {{temp_max}} grad",
+      "Sp\u00e4ter wird es {{condition}} und {{temp_max}} grad",
+      "um die {{temp_max}} grad bei {{condition}}"
+    ],
+    "weather.hour.weather": [
+      "In den n\u00e4chsten 5 Stunden wird es {{condition}} in {{location}}, bei Temperaturen zwischen {{temp_max}} und {{temp_min}}",
+      "in {{location}} wird es zwischen {{temp_max}} und {{temp_min}}, es wird {{condition}} in den n\u00e4chsten Stunden"
+    ],
+    "weather.humidity": [
+      "Feuchtigkeit"
+    ],
+    "weather.light": [
+      "Licht"
+    ],
+    "weather.location.not.found": [
+      "Ich bin mir nicht sicher, wo das ist",
+      "Ich kenne diesen Ort nicht",
+      "ich kann diesn Ort nicht finden"
+    ],
+    "weather.meters per second": [
+      "meter pro Sekunde"
+    ],
+    "weather.miles per hour": [
+      "Meilen pro Stunde"
+    ],
+    "weather.no forecast": [
+      "Entschuldigung, ich habe keine Vorhersage f\u00fcr {{day}}",
+      "ich habe keine Vorhersage f\u00fcr {{day}}"
+    ],
+    "weather.no precipitation expected": [
+      "es wird kein Niederschlag erwartet",
+      "es wird nicht Regnen oder scheien",
+      "du brauchst keinen Regenschirm mitnehmen"
+    ],
+    "weather.precipitation expected": [
+      "{{modifier}} {{precip}} wird am {{day}} erwartet",
+      "Die Vorhersage nennt {{modifier}} {{precip}} am {{day}}"
+    ],
+    "weather.rain": [
+      "Regen"
+    ],
+    "weather.report.condition": [
+      "{{condition}} ist {{value}}"
+    ],
+    "weather.report.future.condition": [
+      "{{condition}} am {{day}} wird {{value}}",
+      "am {{day}} nennt die Vorhersage f\u00fcr {{condition}} {{value}}"
+    ],
+    "weather.sky is clear.future": [
+      "Klar"
+    ],
+    "weather.snow": [
+      "Schnee"
+    ],
+    "weather.wind.speed": [
+      "{{speed}} {{unit}}"
+    ],
+    "weather.wind.speed.dir": [
+      "mit {{speed}} {{unit}} aus {{dir}}",
+      "aus {{dir}} mit {{speed}} {{unit}}"
+    ],
+    "weather.winds": [
+      "Der Wind"
+    ],
+    "white-house-adventure.LeavingZork": [
+      "verlasse das mysteri\u00f6se K\u00f6nigreich von Zork",
+      "verlasse nun Zork",
+      "Beende Zork"
+    ],
+    "white-house-adventure.NoSave": [
+      "Es gibt keinen aktuellen Spielstand",
+      "Es existiert kein Speicherstand"
+    ],
+    "white-house-adventure.SaveDeleted": [
+      "gespeicherter Spielstatus gel\u00f6scht",
+      "Der Speicherstand wurde entfernt"
+    ],
+    "wikiquote-skill.notfound": [
+      "Ich konnte keine Zitate zu {{subject}} finden"
+    ]
+  }
+}

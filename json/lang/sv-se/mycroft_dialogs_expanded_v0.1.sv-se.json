@@ -1,0 +1,688 @@
+{
+  "sv-se": {
+    "Crystal-Ball-Mycroft-Skill.random.answer": [
+      "Ja",
+      "Nej",
+      "Fr\u00e5ga senare",
+      "Definitivt",
+      "Naturligtvis inte",
+      "Visst",
+      "Nix",
+      "Varf\u00f6r inte?",
+      "Inget att hoppas p\u00e5",
+      "Sj\u00e4lvklart!",
+      "Inte f\u00f6rr\u00e4n korna kommer hem"
+    ],
+    "Number-Guess-Mycroft-Skill.correct": [
+      "Det \u00e4r r\u00e4tt!",
+      "Helt r\u00e4tt!",
+      "Korrekt!",
+      "Just det numret var det!",
+      "Bra jobbat!",
+      "Du vann!"
+    ],
+    "Number-Guess-Mycroft-Skill.get.lower": [
+      "Vad vill du ha f\u00f6r l\u00e4gre gr\u00e4ns?"
+    ],
+    "Number-Guess-Mycroft-Skill.get.upper": [
+      "Vad ska den \u00f6vre gr\u00e4nsen vara?"
+    ],
+    "Number-Guess-Mycroft-Skill.guess": [
+      "Gissa numret",
+      "Vad tror du numret \u00e4r",
+      "Gissa"
+    ],
+    "Number-Guess-Mycroft-Skill.input.error": [
+      "Jag kunde inte f\u00f6rst\u00e5 vad du sa",
+      "N\u00e5got gick fel n\u00e4r jag f\u00f6rs\u00f6kte f\u00f6rst\u00e5 det d\u00e4r",
+      "Ett inmatningsfel intr\u00e4ffade",
+      "Kan du s\u00e4ga det igen?"
+    ],
+    "Number-Guess-Mycroft-Skill.invalid.input": [
+      "Det var ett felaktigt svar. Jag beh\u00f6ver ett nummer",
+      "V\u00e4nligen svara med ett nummer",
+      "Du m\u00e5ste svara med ett nummer",
+      "Det \u00e4r inte ett nummer"
+    ],
+    "Number-Guess-Mycroft-Skill.start.game": [
+      "Okej nu k\u00f6r vi",
+      "L\u00e5t spelen b\u00f6rja",
+      "Startar spelet",
+      "L\u00e5t oss b\u00f6rja",
+      "Nu ska vi se vad du g\u00e5r f\u00f6r",
+      "Ja visst. Nu spelar vi nummergissningsspelet"
+    ],
+    "Number-Guess-Mycroft-Skill.too.high": [
+      "F\u00f6r h\u00f6gt"
+    ],
+    "Number-Guess-Mycroft-Skill.too.low": [
+      "F\u00f6r l\u00e5gt"
+    ],
+    "aircrack.cannot.sudo": [
+      "Fel, jag verkar som jag inte kan sudo aircrack kommandon utan ett l\u00f6senord. Se github.com/JonStratton/skill-aircrack f\u00f6r anteckningar om sudo-\u00e5tkomst."
+    ],
+    "aircrack.captured.handshake": [
+      "F\u00e5ngad handskakning"
+    ],
+    "aircrack.confirm.permission": [
+      "Det \u00e4r olagligt att komma \u00e5t ett wifi-n\u00e4tverk som du inte \u00e4r beh\u00f6rig att anv\u00e4nda. Bekr\u00e4fta att du har beh\u00f6righet att ansluta till detta n\u00e4tverk genom att s\u00e4ga Ja, s\u00e4g annars Nej f\u00f6r att avbryta."
+    ],
+    "aircrack.deauthing.clients": [
+      "Deaktivera klienter som \u00e4r anslutna till {{selected_network}} n\u00e4tverket."
+    ],
+    "aircrack.interfaces.are": [
+      "F\u00f6ljande gr\u00e4nssnitt \u00e4r tillg\u00e4ngliga: {{available_interfaces}}",
+      "H\u00e4r \u00e4r de tillg\u00e4ngliga gr\u00e4nssnitten: {{available_interfaces}",
+      "{{available_interfaces}} \u00e4r tillg\u00e4ngliga."
+    ],
+    "aircrack.monitor.stopped.early": [
+      "\u00d6vervakningen stannade innan handskakningen f\u00e5ngades."
+    ],
+    "aircrack.networks.are": [
+      "F\u00f6ljande n\u00e4tverk \u00e4r tillg\u00e4ngliga: {{available_networks}}"
+    ],
+    "aircrack.no.interfaces": [
+      "Det finns inga tillg\u00e4ngliga gr\u00e4nssnitt."
+    ],
+    "aircrack.no.networks": [
+      "Det finns inga tillg\u00e4ngliga n\u00e4tverk."
+    ],
+    "aircrack.no.password": [
+      "Inget l\u00f6senord hittades."
+    ],
+    "aircrack.no.such.interface": [
+      "Inget s\u00e5dant gr\u00e4nssnitt hittades."
+    ],
+    "aircrack.no.such.network": [
+      "Inget s\u00e5dant n\u00e4tverk hittades."
+    ],
+    "aircrack.recovered.password": [
+      "Hittade f\u00f6ljande l\u00f6senord: {{password}}"
+    ],
+    "aircrack.select.interface.first": [
+      "V\u00e4lj gr\u00e4nssnitt f\u00f6rst."
+    ],
+    "aircrack.selected.interface": [
+      "Valt gr\u00e4nssnittet {{selected_interface}}."
+    ],
+    "aircrack.selected.network": [
+      "Valde {{selected_network}} n\u00e4tverk."
+    ],
+    "aircrack.start.monitor": [
+      "Startar \u00f6vervakningen"
+    ],
+    "aircrack.stop.monitor": [
+      "Stoppar \u00f6vervakningen"
+    ],
+    "auto-volume-skill.activate": [
+      "OK",
+      "Automatisk volym aktiverad",
+      "Jag har aktiverat automatisk volym"
+    ],
+    "auto-volume-skill.deactivate": [
+      "OK",
+      "Automatisk volym \u00e4r inaktiverad",
+      "Jag har nu inaktiverat automatisk volym"
+    ],
+    "auto-volume-skill.reset": [
+      "Jag har nu \u00e5terst\u00e4llt automatisk volym"
+    ],
+    "cocktail.NotFound": [
+      "Urs\u00e4kta men jag kunde inte hitta den \u00f6nskade drinken",
+      "Jag kunde tyv\u00e4rr inte hitta den"
+    ],
+    "cocktail.YouWillNeed": [
+      "Du kommer beh\u00f6va {ingredients} och {final_ingredient}",
+      "Ingredienserna som ing\u00e5r \u00e4r {ingredients} och {final_ingredient}",
+      "De n\u00f6dv\u00e4ndiga ingredienserna \u00e4r: {ingredients} och {final_ingredient}"
+    ],
+    "count-skill.count_error": [
+      "Jag f\u00f6rst\u00e5r inte",
+      "Jag saknar n\u00e5tt",
+      "Kan du upprepa?",
+      "Ledsen jag h\u00f6rde inte vad du sa"
+    ],
+    "count-skill.count_start": [
+      "R\u00e4knar till {number}. Startar nu!"
+    ],
+    "count-skill.count_stop": [
+      "Klar!",
+      "F\u00e4rdig!"
+    ],
+    "count-skill.countdown_start": [
+      "R\u00e4knar ner fr\u00e5n {number}. B\u00f6rjar nu!"
+    ],
+    "count-skill.countdown_stop": [
+      "Klar!",
+      "F\u00e4rdig!"
+    ],
+    "dice-skill.multiple.modificator.result": [
+      "Dina siffror \u00e4r {result} aderad till totalt {total}"
+    ],
+    "dice-skill.multiple.result": [
+      "Dina nummer \u00e4r {result}"
+    ],
+    "dice-skill.range.needed": [
+      "Du beh\u00f6ver ange ett intervall",
+      "Jag beh\u00f6ver ett intervall f\u00f6r att g\u00f6ra det",
+      "Ber\u00e4tta vilket intervall du vill ha dina nummer fr\u00e5n"
+    ],
+    "dice-skill.single.modificator.result": [
+      "Resultatet \u00e4r {total}."
+    ],
+    "dice-skill.single.result": [
+      "Resultatet \u00e4r {result}.",
+      "Ditt nummer \u00e4r {result}"
+    ],
+    "email-skill.already.looking.for.all": [
+      "Jag letar redan efter ny e-post",
+      "Jag har redan letat efter ny e-post",
+      "Jag letar redan efter ny e-post"
+    ],
+    "email-skill.already.looking.for.specific": [
+      "Jag letar redan efter e-postmeddelanden fr\u00e5n {email}",
+      "Jag har redan letat efter ny e-post fr\u00e5n {email}",
+      "Jag letar redan efter e-post fr\u00e5n {email}"
+    ],
+    "email-skill.cancel.looking.for.all.look.specific": [
+      "Jag letar f\u00f6r n\u00e4rvarande efter all ny e-post, vill du att jag bara ska meddela dig om e-postmeddelanden via {email}",
+      "Jag har redan letat efter ny e-post, vill att jag bara ska meddela dig om ny e-post fr\u00e5n {email}"
+    ],
+    "email-skill.cancel.looking.for.specific.look.all": [
+      "Jag s\u00f6ker f\u00f6r n\u00e4rvarande {email}, vill du att jag ska leta efter all ny e-post ist\u00e4llet",
+      "Just nu letar jag bara efter e-post fr\u00e5n {email} Vill du att jag ska leta efter all e-post ist\u00e4llet",
+      "Vill du att jag ska leta efter all e-post ist\u00e4llet f\u00f6r att bara leta efter e-post fr\u00e5n {email}"
+    ],
+    "email-skill.error.getting.mail": [
+      "Det uppstod ett problem med att h\u00e4mta din e-post Kolla dina inloggningsuppgifter samt serverinformationen",
+      "Kolla din inloggningsinformation och serverinformationen d\u00e5 det uppstod ett fel med att h\u00e4mta din epost",
+      "Jag kan inte ansluta till din e-postserver Kolla ditt l\u00f6senord och din serverinformation"
+    ],
+    "email-skill.list.subjects": [
+      "Ditt epost {message_num} \u00e4r fr\u00e5n {sender} \u00c4mnet \u00e4r {subject}",
+      "Meddelandet {message_num} epost\u00e4mne \u00e4r {subject} Det \u00e4r fr\u00e5n {sender}"
+    ],
+    "email-skill.more.emails": [
+      "skulle du vilja h\u00f6ra mer",
+      "vill du h\u00f6ra fler av dina epostmeddelanden",
+      "vill du h\u00f6ra mer"
+    ],
+    "email-skill.no.emails.from": [
+      "Det finns ingen epost fr\u00e5n {sender}",
+      "Du har ingen epost fr\u00e5n {sender}",
+      "Du har inte f\u00e5tt n\u00e5gra epostmeddelanden fr\u00e5n {sender}"
+    ],
+    "email-skill.no.more.emails": [
+      "okej"
+    ],
+    "email-skill.no.new.email": [
+      "Det finns inga nya epostmeddelanden",
+      "Det finns inga nya epostmeddelande",
+      "Det finns inga nya epostmeddelande",
+      "Det finns inga nya epostmeddelanden",
+      "Du har inga nya epostmeddelanden",
+      "Du har inget nytt epostmeddelande",
+      "Du har inget nytt epostmeddelande",
+      "Du har inga nya epostmeddelanden"
+    ],
+    "email-skill.not.looking.for": [
+      "Jag letar f\u00f6r n\u00e4rvarande inte efter e-post fr\u00e5n {email}",
+      "Jag letar inte efter e-post fr\u00e5n {email}",
+      "Just nu letar jag inte efter e-post fr\u00e5n {email}"
+    ],
+    "email-skill.notify.read.email": [
+      "Du har {size} ny e-post, vill du h\u00f6ra dem",
+      "Det finns {size} ny e-post Vill du h\u00f6ra dem",
+      "Vill du h\u00f6ra din {size} e-postmeddelanden"
+    ],
+    "email-skill.poll.emails.not.started": [
+      "Jag letar inte efter ny e-post",
+      "F\u00f6r n\u00e4rvarande letar jag inte efter ny e-post"
+    ],
+    "email-skill.setup": [
+      "F\u00f6r att st\u00e4lla in epostfunktionen, v\u00e4nligen g\u00e5 till home punkt mycroft punkt ai f\u00f6r att fylla i din epostinformation",
+      "Du beh\u00f6ver st\u00e4lla in e-postfunktion F\u00f6r att g\u00f6ra det, v\u00e4nligen g\u00e5 till home punkt mycroft punkt ai f\u00f6r att fylla i din e-postinformation"
+    ],
+    "email-skill.start.poll.email": [
+      "Jag meddelar dig om ny e-post",
+      "Okej, jag b\u00f6rjar meddela dig om ny e-post",
+      "Jag b\u00f6rjar leta efter ny e-post"
+    ],
+    "email-skill.stop.looking.for": [
+      "Jag kommer att sluta leta efter ny e-post fr\u00e5n {email}",
+      "Okej, jag ska sluta leta efter ny e-post fr\u00e5n {email}"
+    ],
+    "email-skill.stop.poll.emails": [
+      "Okej, jag ska sluta leta efter ny e-post",
+      "Okej, jag ska inte leta efter ny e-post l\u00e4ngre"
+    ],
+    "email-skill.stop.poll.emails.last.email.removed": [
+      "Jag slutar att leta efter ny e-post eftersom det inte finns n\u00e5gra e-postadresser du vill bli meddelad om"
+    ],
+    "email-skill.update.notify.data": [
+      "Jag uppdaterade dina e-postinst\u00e4llningar",
+      "Ok, jag har uppdaterat dina e-postinst\u00e4llningar"
+    ],
+    "emby-skill.configuration_fail": [
+      "Det g\u00e5r inte att ansluta till Emby-servern. Kontrollera eller konfigurera din konfiguration p\u00e5 home.Mycroft.ai"
+    ],
+    "emby-skill.configuration_success": [
+      "Har anslutits till Emby-servern p\u00e5 {hostname}"
+    ],
+    "emby-skill.diag_auth_fail": [
+      "Jag kan inte autentisera till embyservern. Kontrollera eller konfigurera din konfiguration p\u00e5 home.Mycroft.ai"
+    ],
+    "emby-skill.diag_auth_success": [
+      "Jag har autentiserat mig till embyservern!"
+    ],
+    "emby-skill.diag_public_info_fail": [
+      "Emby-servern p\u00e5 {host} verkar inte vara tillg\u00e4nglig eller svarar inte."
+    ],
+    "emby-skill.diag_public_info_success": [
+      "Bra! Jag har \u00e5tkomst till {ServerName} som finns p\u00e5 {LocalAddress} som k\u00f6r version {Version}. F\u00f6rs\u00f6ker att autentisera."
+    ],
+    "emby-skill.diag_start": [
+      "Jag ska utf\u00f6ra en diagnostisk kontroll av anslutningen till embyf\u00e4rdigheten. Detta kommer att kontrollera om servern \u00e4r tillg\u00e4nglig och om jag kan autentisera."
+    ],
+    "emby-skill.diag_stop": [
+      "Diagnosen forts\u00e4tter inte."
+    ],
+    "emby-skill.diagnostic": [
+      "Diagnosen \u00e4r klar Jag kan ansluta och autentisera till embyservern. Nu \u00e4r det dags att spela lite musik!"
+    ],
+    "emby-skill.emby": [
+      "Spelar {media}"
+    ],
+    "emby-skill.general_check_settings_logs": [
+      "Kontrollera dina inst\u00e4llningar p\u00e5 Mycroft.ai. Om problemet kvarst\u00e5r, kontrollera Mycroft-loggarna f\u00f6r mer information."
+    ],
+    "emby-skill.play_fail": [
+      "Kunde inte hitta eller spela upp {media}. V\u00e4nligen f\u00f6rs\u00f6k igen.",
+      "Det gick inte att hitta eller spela {media}. Var god f\u00f6rs\u00f6k igen. Om detta forts\u00e4tter att h\u00e4nda, kontrollera din konfiguration p\u00e5 home.Mycroft.ai"
+    ],
+    "fairytalez-skill.continue": [
+      "Forts\u00e4tt ber\u00e4tta {story}",
+      "Hur l\u00e5ngt kom vi. \u00c5h ja h\u00e4r. {story}"
+    ],
+    "fairytalez-skill.fairytalez": [
+      "Jag k\u00e4nner till mer \u00e4n 2000 sagor, folksaga och fabler fr\u00e5n hela v\u00e4rlden. Vilken skulle du vilja h\u00f6ra ?"
+    ],
+    "fairytalez-skill.from_fairytalez": [
+      "Dessa sagor \u00e4r fr\u00e5n www punkt fairytalez punkt com. De \u00e4lskar sagor! Bes\u00f6k webbplatsen d\u00e4r du hittar den st\u00f6rsta samlingen av sagor folksaga och fabler online."
+    ],
+    "fairytalez-skill.i_know_that": [
+      "{story} \u00e4r bra. L\u00e5t oss b\u00f6rja...",
+      "Ja, {story} \u00e4r bra. Den g\u00e5r s\u00e5 h\u00e4r..."
+    ],
+    "fairytalez-skill.is_it_that": [
+      "\u00c4r det den?",
+      "Kan det vara den?",
+      "Ska jag ber\u00e4tta den h\u00e4r?",
+      "Vill du h\u00f6ra den?"
+    ],
+    "fairytalez-skill.let_me_think": [
+      "l\u00e5t mig se. K\u00e4nner jag till {story}",
+      "tja, jag m\u00e5ste t\u00e4nka om jag kommer ih\u00e5g {story}"
+    ],
+    "fairytalez-skill.no_story": [
+      "D\u00e5 vet jag inte vilken ber\u00e4ttelse du vill h\u00f6ra."
+    ],
+    "fairytalez-skill.no_story_to_continue": [
+      "Det finns ingen ber\u00e4ttelse att forts\u00e4tta",
+      "Jag \u00e4r ledsen - ingen ber\u00e4ttelse att forts\u00e4tta."
+    ],
+    "fairytalez-skill.that_would_be": [
+      "Jag kan ber\u00e4tta historien {story}.",
+      "Jag minns {story}."
+    ],
+    "fairytalez-skill.title_by_author": [
+      "{title} av {author}"
+    ],
+    "fallback-aiml.reset.memory": [
+      "\u00c5terst\u00e4ller kunskaps-databas",
+      "gl\u00f6m allt",
+      "Okej, jag kommer nu \u00e5terst\u00e4lla mitt minne",
+      "Hj\u00e4rnradering p\u00e5b\u00f6rjad"
+    ],
+    "fallback-unknown.question": [
+      "Jag \u00e4r ledsen man jag kan tyv\u00e4rr inte hj\u00e4lpa dig med det h\u00e4r",
+      "Jag vet inte riktigt hur jag ska hj\u00e4lpa till med detta",
+      "Jag f\u00f6rst\u00e5r inte, men jag l\u00e4r mig nya saker varje dag",
+      "Jag vet inte hur jag ska svara p\u00e5 det h\u00e4r"
+    ],
+    "fallback-unknown.unknown": [
+      "Jag \u00e4r ledsen, jag f\u00f6rst\u00e5r inte",
+      "Jag fattar inte vad du menar",
+      "Jag f\u00f6rst\u00e5r inte",
+      "Jag f\u00f6rst\u00e5r inte men jag l\u00e4r mig nytt hela tiden",
+      "Jag f\u00f6rstog inte riktigt",
+      "Du kan beh\u00f6va omformulera det d\u00e4r"
+    ],
+    "fallback-unknown.who.is": [
+      "Jag vet inte vem det \u00e4r",
+      "Det \u00e4r ingen jag k\u00e4nner till"
+    ],
+    "fallback-unknown.why": [
+      "Jag vet inte riktigt hur jag kan hj\u00e4lpa dig med det h\u00e4r",
+      "Ingen aning",
+      "Jag \u00e4r os\u00e4ker",
+      "Jag \u00e4r os\u00e4ker p\u00e5 hur jag kan hj\u00e4lpa till med det d\u00e4r",
+      "Jag g\u00f6r mitt b\u00e4sta f\u00f6r att l\u00e4ra mig nytt"
+    ],
+    "ip.dot": [
+      "punkt"
+    ],
+    "ip.my address is": [
+      "min I.P adress \u00e4r {{ip}}",
+      "jag \u00e4r p\u00e5 adressen {{ip}}"
+    ],
+    "ip.my address on X is Y": [
+      "p\u00e5 {{interface}} \u00e4r min I.P adress {{ip}}."
+    ],
+    "ip.no network connection": [
+      "Jag saknar anslutning",
+      "Jag \u00e4r inte kopplad mot n\u00e5got n\u00e4tverk"
+    ],
+    "iss-tracker-skill.location.current": [
+      "I S S \u00e4r \u00f6ver {{latitud}} latitud {{longitud}} longitud som motsvarar {{toponym}}",
+      "Rymdstationen \u00e4r p\u00e5 {{latitud}} latitud {{longitud}} longitud \u00f6ver {{toponym}}",
+      "Den \u00e4r p\u00e5 {{latitud}} latitud {{longitud}} longitud, \u00f6ver {{toponym}}",
+      "Den internationella rymdstationen \u00e4r nu \u00f6ver {{toponym}} vid {{latitude}} latitud {{longitude}} longitud",
+      "\u00d6ver {{toponym}} vid {{latitud}} latitud och {{longitud}} longitud"
+    ],
+    "iss-tracker-skill.location.unknown": [
+      "Ledsen {{latitud}} latitud {{longitud}} longitud \u00e4r inte k\u00e4nd",
+      "Ledsen Rymdstationen \u00e4r p\u00e5 {{latitud}} latitud {{longitud}} longitud men jag vet inte var det \u00e4r",
+      "Det \u00e4r p\u00e5 {{latitud}} latitud {{longitud}} longitud som inte \u00e4r kodat i denna databas",
+      "ISS \u00e4r nu \u00f6ver {{latitude}} latitude {{longitude}} longitud men det finns ingen tillh\u00f6rande geografisk funktion"
+    ],
+    "laugh.cancel": [
+      "skratt stoppad",
+      "jag skrattar inte l\u00e4ngre"
+    ],
+    "laugh.cancel_fail": [
+      "jag skrattar inte"
+    ],
+    "lifx-mycroft.Color": [
+      "G\u00f6r {{name}} {{color}}."
+    ],
+    "lifx-mycroft.Dim": [
+      "{{change}}er {{name}}."
+    ],
+    "lifx-mycroft.GroupError": [
+      "Kan inte {{action}} {{name}} eftersom det \u00e4r en grupp.",
+      "Kan inte {{action}} {{name}} eftersom det \u00e4r en grupp."
+    ],
+    "lifx-mycroft.SetPercent": [
+      "S\u00e4tter {{param}} till {{value}}.",
+      "\u00c4ndrar {{param}} till {{value}}.",
+      "St\u00e4ller {{name}} {{param}} till {{value}}."
+    ],
+    "lifx-mycroft.Switch": [
+      "S\u00e4tter {{status}} {{name}}.",
+      "St\u00e4ller {{name}} {{status}}."
+    ],
+    "lifx-mycroft.Temperature": [
+      "G\u00f6r {{name}} {{temperature}}igare."
+    ],
+    "list-manager-skill.add.item": [
+      "{{item_name}} har lagts till i {{list_name}} listan."
+    ],
+    "list-manager-skill.add.list": [
+      "Din nya lista {{list_name}} har lagts till."
+    ],
+    "list-manager-skill.and": [
+      "och"
+    ],
+    "list-manager-skill.cancelled": [
+      "Avbruten."
+    ],
+    "list-manager-skill.confirm.deletion": [
+      "\u00c4r du s\u00e4ker p\u00e5 att du vill ta bort {{element}}?"
+    ],
+    "list-manager-skill.del.item": [
+      "{{item_name}} har tagits bort fr\u00e5n {{list_name}} listan."
+    ],
+    "list-manager-skill.del.list": [
+      "Din lista {{list_name}} har tagits bort."
+    ],
+    "list-manager-skill.item.not.found": [
+      "{{item_name}} finns inte i {{list_name}} listan."
+    ],
+    "list-manager-skill.list.found": [
+      "Du har redan en lista som heter {{list_name}}."
+    ],
+    "list-manager-skill.list.not.found": [
+      "Du verkar inte ha en lista som heter {{list_name}}.",
+      "Jag kunde inte hitta {{list_name}} bland dina listor."
+    ],
+    "list-manager-skill.no.items": [
+      "Du har inga artiklar i {{list_name}}."
+    ],
+    "list-manager-skill.no.lists": [
+      "Du har inga listor \u00e4n."
+    ],
+    "list-manager-skill.read.items": [
+      "I din {{list_name}} lista har du {{items}}"
+    ],
+    "list-manager-skill.read.lists": [
+      "F\u00f6r n\u00e4rvarande har du {{listor_namn}} {{list}}."
+    ],
+    "mark-2.auto.noon": [
+      "Det verkar vara mitt p\u00e5 dagen, jag kommer att justera ljusstyrkan."
+    ],
+    "mark-2.auto.sunrise": [
+      "Okej, solen kommer ut, jag kommer att justera ljusstyrkan",
+      "Okej, solen \u00e4r ute, st\u00e4ller in ljusstyrkan"
+    ],
+    "mark-2.auto.sunset": [
+      "Okej, det blir m\u00f6rkt, kommer jag att justera ljusstyrkan d\u00e4refter."
+    ],
+    "mark-2.brightness.error": [
+      "Jag f\u00f6rst\u00e5r inte den ljusstyrkan, ge mig ett ljusstyrka p\u00e5 fr\u00e5n 0 till 100 procent."
+    ],
+    "mark-2.brightness.not.found": [
+      "Ber\u00e4tta f\u00f6r mig en ljusstyrka eller en niv\u00e5 f\u00f6r mitt ansikte",
+      "Vad ljusstyrka eller procentsats vill du ha?"
+    ],
+    "mark-2.brightness.not.found.final": [
+      "Ledsen, jag f\u00f6rst\u00e5r inte den ljusstyrkan.",
+      "Jag f\u00f6rst\u00e5r bara saker som 'full' eller 50%"
+    ],
+    "mark-2.brightness.set": [
+      "Okej, st\u00e4ller in ljusstyrkan p\u00e5 {val}.",
+      "L\u00e5ter bra, st\u00e4ller in ljusstyrkan p\u00e5 {val}"
+    ],
+    "mark-2.no.web.setting": [
+      "Ingen \u00f6gonf\u00e4rg har st\u00e4llts in d\u00e4r",
+      "Jag hittade ingen webbinst\u00e4llning f\u00f6r \u00f6gonf\u00e4rg"
+    ],
+    "mark-2.rebooting": [
+      "Startar om nu, jag kommer tillbaka",
+      "Startar om, tillbaka om n\u00e5gra minuter"
+    ],
+    "moviemaster.bad.movie.genre.catagory": [
+      "Jag kan inte hitta n\u00e5gra television serier med genren {genre}",
+      "Jag kan inte hitta n\u00e5gra TV serier med genren {genre}"
+    ],
+    "moviemaster.bad.tv.genre.catagory": [
+      "Jag kan inte hitta n\u00e5gra television serier med genren {genre}",
+      "Jag kan inte hitta n\u00e5gra TV serier med genren {genre}"
+    ],
+    "moviemaster.fallback.api": [
+      "Faller tillbaka till standard A P I"
+    ],
+    "moviemaster.genre.movie.search": [
+      "filmerna med genren {genre} \u00e4r;"
+    ],
+    "moviemaster.genre.tv.search": [
+      "TV serierna med genren {genre} \u00e4r;",
+      "television serierna med genren {genre} \u00e4r;"
+    ],
+    "moviemaster.movie.cast": [
+      "H\u00e4r \u00e4r rollen fr\u00e5n {movie}; {actorlist} och {lastactor}",
+      "F\u00f6ljande personer agerar i filmen {movie}; {actorlist} och {lastactor}",
+      "F\u00f6ljande personer spelar i filmen {movie}; {actorlist} och {lastactor}",
+      "F\u00f6ljande personer \u00e4r stj\u00e4rnan i filmen {movie}; {actorlist} och {lastactor}"
+    ],
+    "moviemaster.movie.description": [
+      "filmen {movie} handlar om detta.",
+      "film {movie} handlar om detta.",
+      "h\u00e4r \u00e4r en sammanfattning av film {movie}.",
+      "h\u00e4r \u00e4r en sammanfattning av filmen {movie}."
+    ],
+    "moviemaster.movie.genre.multiple": [
+      "Film finns i en av genrerna; {genrelist} och {genrelistlast}",
+      "Filmen finns i en av genrerna; {genrelist} och {genrelistlast}",
+      "Videon finns i en av genrerna; {genrelist} och {genrelistlast}",
+      "M\u00e4nniskor anser att filmen \u00e4r {genrelist} eller {genrelistlast}",
+      "M\u00e4nniskor anser att film \u00e4r {genrelist} eller {genrelistlast}"
+    ],
+    "moviemaster.movie.genre.single": [
+      "filmen {movie} kan betraktas som en {genre}",
+      "Film {movie} kan betraktas som en {genre}",
+      "Du hittar filmen {movie} i {genre} sektionen",
+      "Du hittar videon {movie} i {genre} sektionen"
+    ],
+    "moviemaster.movie.info.response": [
+      "{movie} sl\u00e4pptes {year}, med en budget p\u00e5 {budget} dollar."
+    ],
+    "moviemaster.movie.popular": [
+      "De nya popul\u00e4ra filmerna ute nu \u00e4r {popularlist}.",
+      "{popularlist} toppar filmlistorna just nu."
+    ],
+    "moviemaster.movie.production.multiple": [
+      "F\u00f6retagen {companies} och {lastcompany} producerade filmen {movie}",
+      "{companies} och {lastcompany} producerade filmen {movie}"
+    ],
+    "moviemaster.movie.production.single": [
+      "Produktionsf\u00f6retaget {company}, producerade filmen {movie}"
+    ],
+    "moviemaster.movie.recommendations": [
+      "Jag rekommenderar filmerna {movielist}, om du gillar film {movie}",
+      "Jag rekommenderar filmerna {movielist}, om du gillar filmen {movie}",
+      "Jag rekommenderar filmerna {movielist}, om du gillar videon {movie}",
+      "Filmerna {movielist} \u00e4r ett bra val om du gillar filmen {movie}",
+      "Filmerna {movielist} \u00e4r ett bra val om du gillar videon {movie}"
+    ],
+    "moviemaster.movie.runtime": [
+      "Film {movie}, varar i {runtime} minuter.",
+      "Filmen {movie}, varar i {runtime} minuter.",
+      "Videon {movie}, varar i {runtime} minuter.",
+      "Film {movie} \u00e4r {runtime} minuter l\u00e5ng.",
+      "Filmen {movie} \u00e4r {runtime} minuter l\u00e5ng.",
+      "Videon {movie} \u00e4r {runtime} minuter l\u00e5ng.",
+      "Titta p\u00e5 {movie}; Du kan f\u00f6rv\u00e4nta dig cirka {runtime} minuter innan du kan ta en badrumsavbrott."
+    ],
+    "moviemaster.movie.top": [
+      "Det h\u00e4r \u00e4r de mest popul\u00e4ra filmerna som visas nu; {toplist}",
+      "Det h\u00e4r \u00e4r de mest popul\u00e4ra filmerna ute nu; {toplist}",
+      "Det h\u00e4r \u00e4r de b\u00e4sta filmerna som visas nu; {toplist}",
+      "Det h\u00e4r \u00e4r de b\u00e4sta filmerna ute nu; {toplist}",
+      "{toplist} \u00e4r de mest popul\u00e4ra filmerna som spelar nu.",
+      "{toplist} \u00e4r de mest popul\u00e4ra filmerna ute nu.",
+      "{toplist} \u00e4r de b\u00e4sta filmerna som spelar nu.",
+      "{toplist} \u00e4r de b\u00e4sta filmerna ute nu."
+    ],
+    "moviemaster.movie.year": [
+      "Film {movie} sl\u00e4pptes {year}",
+      "Film {movie} gjordes {year}",
+      "Filmen {movie} sl\u00e4pptes {year}",
+      "Filmen {movie} gjordes {year}",
+      "Videon {movie} sl\u00e4pptes {year}",
+      "Videon {movie} gjordes {year}"
+    ],
+    "moviemaster.no.api": [
+      "Du m\u00e5ste ange din T M D B A P I-nyckel p\u00e5 home punkt mycroft punkt A I f\u00f6r att anv\u00e4nda movie master skickligheten"
+    ],
+    "moviemaster.no.info": [
+      "Jag \u00e4r ledsen. Jag kan inte hitta n\u00e5gon information om filmen {movie}",
+      "Jag \u00e4r ledsen. Jag kan inte hitta n\u00e5gon information om videon {movie}"
+    ],
+    "moviemaster.no.info.general": [
+      "Jag \u00e4r ledsen, jag kan inte hitta listan du letar efter just nu; v\u00e4nligen fr\u00e5ga igen senare."
+    ],
+    "moviemaster.no.valid.api": [
+      "A P I-nyckeln som du angav \u00e4r inte giltig. Se till l\u00e4s readme-filen f\u00f6r instruktioner om hur du f\u00e5r en."
+    ],
+    "personal.what.am.i": [
+      "Jag \u00e4r en artificiell intelligens byggd p\u00e5 \u00f6ppen k\u00e4llkod",
+      "Jag \u00e4r en intelligent liten mjukvara f\u00f6r maskinkommunikation"
+    ],
+    "personal.when.was.i.born": [
+      "Jag f\u00f6ddes 2015",
+      "Jag skapades 2015"
+    ],
+    "personal.where.was.i.born": [
+      "P\u00e5 The Lawrence Center for Entrepreneurship.",
+      "Jag f\u00f6ddes i Lawrence, Kansas",
+      "Jag skapades i Lawrence, Kansas"
+    ],
+    "personal.who.am.i": [
+      "Mitt namn \u00e4r {{name}} och jag \u00e4r en intelligent personlig assistent",
+      "Jag heter {{name}} och \u00e4r en A.I. byggd p\u00e5 \u00f6ppen k\u00e4llkod"
+    ],
+    "personal.who.made.me": [
+      "Den fantastiska Mycroft A.I.-communityn och team",
+      "Alla i Mycroft A.I.-communityn och dess team"
+    ],
+    "picroft-google-aiy-voicekit-skill.error.initialize": [
+      "Jag har problem att initiera Google AIY voicekit f\u00e4rdigheten. F\u00e4rdigheten laddar inte."
+    ],
+    "remember-skill.delete": [
+      "Skall jag ta bort frasen: {{PHRASE}}?"
+    ],
+    "remember-skill.deleteall": [
+      "Skall jag ta bort allt jag kommer ih\u00e5g \u00e5t dig?"
+    ],
+    "remember-skill.forgotten": [
+      "Det \u00e4r gl\u00f6mt."
+    ],
+    "remember-skill.gotphrase": [
+      "Jag kommer ih\u00e5g \"{{REMEMBER}}\" \u00e5t dig."
+    ],
+    "remember-skill.holdon": [
+      "Jag kommer att h\u00e5lla fast vid denna fras."
+    ],
+    "remember-skill.iremembered": [
+      "Jag kommer ih\u00e5g: {{REMEMBER}}."
+    ],
+    "remember-skill.short": [
+      "Jag kan bara komma ih\u00e5g meningar eller ord som \u00e4r l\u00e4ngre \u00e4n fyra tecken. Formulera om tack."
+    ],
+    "remember-skill.sorry": [
+      "Jag \u00e4r ledsen, jag kan inte minnas n\u00e5gon fras!"
+    ],
+    "remember-skill.sorryforget": [
+      "Jag \u00e4r ledsen, det fanns ett fel, jag kunde inte gl\u00f6mma n\u00e5gonting!"
+    ],
+    "remember-skill.sorrynophrase": [
+      "Jag \u00e4r ledsen, jag kunde inte hitta en fras som matchar din beg\u00e4ran."
+    ],
+    "speedtest-skill.error": [
+      "Det uppstod ett fel, jag kunde inte k\u00f6ra en speedtest... ledsen."
+    ],
+    "speedtest-skill.result": [
+      "Din nedladdningshastighet \u00e4r {{DOWN}} Megabit per sekund och din uppladdningshastighet \u00e4r {{UP}} Megabit per sekund."
+    ],
+    "speedtest-skill.running": [
+      "Startar speedtest nu, jag kommer tillbaka med resultaten om ett \u00f6gonblick."
+    ],
+    "white-house-adventure.LeavingZork": [
+      "L\u00e4mnar det mystiska kungariket Zork",
+      "L\u00e4mnar nu Zork",
+      "L\u00e4mnar Zork"
+    ],
+    "white-house-adventure.NoSave": [
+      "Det finns ingen sparfil",
+      "Ingn sparfil finns"
+    ],
+    "white-house-adventure.SaveDeleted": [
+      "Sparning har tagits bort",
+      "Tog bort sparfilen"
+    ],
+    "wikiquote-skill.notfound": [
+      "Jag hittade inga {{\u00e4mne}} citat"
+    ]
+  }
+}
